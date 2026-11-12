@@ -381,9 +381,9 @@ tile_numeric_ids = dict(
 grfid = "F1250009" # CABBAGE - bump for FIRS 6?
 
 metadata = {
-    "dev_thread_url": "http://www.tt-forums.net/viewtopic.php?t=41607",
-    "repo_url": "https://github.com/andythenorth/firs",
-    "docs_url": "https://grf.farm/firs",
+    "dev_thread_url": "https://github.com/Maicarons/CIRS/discussions",
+    "repo_url": "https://github.com/Maicarons/CIRS",
+    "docs_url": "https://maicarons.github.io/CIRS",
 }
 
 chameleon_cache_dir = ".chameleon_cache"

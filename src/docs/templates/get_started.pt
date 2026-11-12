@@ -4,19 +4,19 @@
         <div class="col-xs-12">
             <div class="page-header text-center">
                 <ul class="list-inline">
-                    <li><i class="fa fa-check-circle-o"></i> ${len(firs.cargo_manager)} cargos</li>
-                    <li><i class="fa fa-check-circle-o"></i> ${len(firs.industry_manager)} industries</li>
-                    <li><i class="fa fa-check-circle-o"></i> ${len(firs.economy_manager)} economies - choose simple or complex gameplay</li>
-                    <li><i class="fa fa-check-circle-o"></i> Primary industries don't close</li>
-                    <li><i class="fa fa-check-circle-o"></i> Optional secondary industry closure</li>
-                    <li><i class="fa fa-check-circle-o"></i> Snow for buildings above snowline</li>
-                    <li><i class="fa fa-check-circle-o"></i> Beautiful hand-drawn pixels</li>
-                    <li><i class="fa fa-check-circle-o"></i> GPL v2 license</li>
+                    <li><i class="fa fa-check-circle-o"></i> ${doc_helper.t('DOC_GS_FEATURE_CARGOS', count=len(firs.cargo_manager))}</li>
+                    <li><i class="fa fa-check-circle-o"></i> ${doc_helper.t('DOC_GS_FEATURE_INDUSTRIES', count=len(firs.industry_manager))}</li>
+                    <li><i class="fa fa-check-circle-o"></i> ${doc_helper.t('DOC_GS_FEATURE_ECONOMIES', count=len(firs.economy_manager))}</li>
+                    <li><i class="fa fa-check-circle-o"></i> ${doc_helper.t('DOC_GS_FEATURE_PRIMARY')}</li>
+                    <li><i class="fa fa-check-circle-o"></i> ${doc_helper.t('DOC_GS_FEATURE_SECONDARY')}</li>
+                    <li><i class="fa fa-check-circle-o"></i> ${doc_helper.t('DOC_GS_FEATURE_SNOW')}</li>
+                    <li><i class="fa fa-check-circle-o"></i> ${doc_helper.t('DOC_GS_FEATURE_PIXELS')}</li>
+                    <li><i class="fa fa-check-circle-o"></i> ${doc_helper.t('DOC_GS_FEATURE_LICENSE')}</li>
                 </ul>
                 <ul class="list-inline">
-                    <li><a href="#firs-gameplay">FIRS Gameplay</a></li>
-                    <li><a href="#download-firs">Download FIRS</a></li>
-                    <li><a href="#choose-economy">Setting up a Game with FIRS</a></li>
+                    <li><a href="#firs-gameplay">${doc_helper.t('DOC_GS_ANCHOR_GAMEPLAY')}</a></li>
+                    <li><a href="#download-firs">${doc_helper.t('DOC_GS_ANCHOR_DOWNLOAD')}</a></li>
+                    <li><a href="#choose-economy">${doc_helper.t('DOC_GS_ANCHOR_SETUP')}</a></li>
                 </ul>
             </div>
         </div>
@@ -24,100 +24,86 @@
 
     <div class="row" id="firs-gameplay">
         <div class="col-xs-12 col-sm-4">
-            <h2>FIRS Gameplay</h2>
+            <h2>${doc_helper.t('DOC_GS_GAMEPLAY_TITLE')}</h2>
         </div>
         <div class="col-xs-12 col-sm-8">
-            <p class="lead" style="margin-top:1em;">You can jump right into FIRS gameplay.</p>
+            <p class="lead" style="margin-top:1em;">${doc_helper.t('DOC_GS_GAMEPLAY_LEAD')}</p>
             <ul>
-                <li>There are familiar industries and cargos you'll recognise from default OpenTTD.</li>
-                <li>FIRS also adds lots of exciting new cargos and industries to play with.</li>
-                <li>Primary industries like mines and farms will always produce some cargo.</li>
-                <li>Secondary industries like the steel mill and cement plant will always produce some output cargo when an accepted cargo is delivered.</li>
+                <li>${doc_helper.t('DOC_GS_GAMEPLAY_B1')}</li>
+                <li>${doc_helper.t('DOC_GS_GAMEPLAY_B2')}</li>
+                <li>${doc_helper.t('DOC_GS_GAMEPLAY_B3')}</li>
+                <li>${doc_helper.t('DOC_GS_GAMEPLAY_B4')}</li>
             </ul>
-            <h3>Gameplay Tips</h3>
+            <h3>${doc_helper.t('DOC_GS_TIPS_TITLE')}</h3>
             <ul>
-                <li>Deliver supplies to primary industries regularly to boost production.</li>
-                <li>Some secondary industries boost production when more than one accepted cargo is delivered regularly.</li>
-                <li>Industries will never close.</li>
-                <li>Some industries are available from year 0. Some industries (and the cargos
-                    they use) are only available after a certain date.</li>
-                <li>FIRS adjusts default town behaviour: towns above snowline do not require food to grow, and towns in desert do not require food and water to grow.</li>
+                <li>${doc_helper.t('DOC_GS_TIPS_1')}</li>
+                <li>${doc_helper.t('DOC_GS_TIPS_2')}</li>
+                <li>${doc_helper.t('DOC_GS_TIPS_3')}</li>
+                <li>${doc_helper.t('DOC_GS_TIPS_4')}</li>
+                <li>${doc_helper.t('DOC_GS_TIPS_5')}</li>
             </ul>
         </div>
     </div>
     <hr />
     <div class="row" id="download-firs">
         <div class="col-xs-12 col-sm-4">
-            <h2>Download FIRS</h2>
+            <h2>${doc_helper.t('DOC_GS_DOWNLOAD_TITLE')}</h2>
         </div>
         <div class="col-xs-12 col-sm-8">
-            <p style="margin-top:1em;">
-                FIRS is available:
-            <p>
+            <p style="margin-top:1em;">${doc_helper.t('DOC_GS_DOWNLOAD_INTRO')}</p>
             <ul>
-                <li><strong>From the content service (Bananas) in OpenTTD (<em>recommended</em>)</strong>. <a href="http://wiki.openttd.org/Content_downloading">Instructions</a>.</li>
-                <li>As a source checkout for compiling. <a href="code_reference.html">How to checkout and compile</a>.</li>
+                <li><strong>${doc_helper.t('DOC_GS_DOWNLOAD_B1_PREFIX')}</strong><a href="http://wiki.openttd.org/Content_downloading">${doc_helper.t('DOC_GS_DOWNLOAD_B1_LINK')}</a>${doc_helper.t('DOC_GS_DOWNLOAD_B1_SUFFIX')}</li>
+                <li>${doc_helper.t('DOC_GS_DOWNLOAD_B2_PREFIX')}<a href="${doc_helper.link('code_reference')}">${doc_helper.t('DOC_GS_DOWNLOAD_B2_LINK')}</a>${doc_helper.t('DOC_GS_DOWNLOAD_B2_SUFFIX')}</li>
             </ul>
         </div>
     </div>
     <hr />
     <div class="row" id="vehicles">
         <div class="col-xs-12 col-sm-4">
-            <h2>FIRS vehicle compatibility</h2>
+            <h2>${doc_helper.t('DOC_GS_VEHICLES_TITLE')}</h2>
         </div>
         <div class="col-xs-12 col-sm-8">
-            <p style="margin-top:1em;">FIRS cargos are transportable using the default OpenTTD vehicles (for OpenTTD 12.0 or newer).</p>
-            <p>There are also lots of great NewGRF vehicle sets with FIRS support.</p>
-            <p>The OpenTTD content service (Bananas) is a good place to find these.</p>
+            <p style="margin-top:1em;">${doc_helper.t('DOC_GS_VEHICLES_P1')}</p>
+            <p>${doc_helper.t('DOC_GS_VEHICLES_P2')}</p>
+            <p>${doc_helper.t('DOC_GS_VEHICLES_P3')}</p>
         </div>
     </div>
     <hr />
     <div class="row" id="choose-economy">
         <div class="col-xs-12 col-sm-4">
-            <h2>Activate FIRS and Choose an Economy</h2>
+            <h2>${doc_helper.t('DOC_GS_SETUP_TITLE')}</h2>
         </div>
         <div class="col-xs-12 col-sm-8">
             <p style="margin-top:1em;">
-                FIRS offers <a href="economies.html">${len(firs.economy_manager)} economies</a>.
-                The 'Basic' economies are simple and offer a good starting point for players new to FIRS.
-                Other economies are more complex and challenging.
+                ${doc_helper.t('DOC_GS_SETUP_INTRO_PREFIX')}<a href="${doc_helper.link('economies')}">${doc_helper.t('DOC_GS_SETUP_INTRO_LINK', count=len(firs.economy_manager))}</a>${doc_helper.t('DOC_GS_SETUP_INTRO_SUFFIX')}
             </p>
             <ul>
-                <li>Activate FIRS via the <a href="https://wiki.openttd.org/NewGRF#Activating_NewGRFs">NewGRF settings window</a>.</li>
-                <li>Choose which economy you want using the parameter settings window.</li>
-                <li>Only one economy can be active at once.</li>
-                <li>Economies can be used in any OpenTTD climate, but some are designed to work best in the temperate, sub-arctic or sub-tropic climates.</li>
+                <li>${doc_helper.t('DOC_GS_SETUP_B1_PREFIX')}<a href="https://wiki.openttd.org/NewGRF#Activating_NewGRFs">${doc_helper.t('DOC_GS_SETUP_B1_LINK')}</a>${doc_helper.t('DOC_GS_SETUP_B1_SUFFIX')}</li>
+                <li>${doc_helper.t('DOC_GS_SETUP_B2')}</li>
+                <li>${doc_helper.t('DOC_GS_SETUP_B3')}</li>
+                <li>${doc_helper.t('DOC_GS_SETUP_B4')}</li>
             </ul>
         </div>
     </div>
     <hr />
     <div class="row">
         <div class="col-xs-12 col-sm-4">
-            <h2>Advanced FIRS Parameters</h2>
+            <h2>${doc_helper.t('DOC_GS_ADVANCED_TITLE')}</h2>
         </div>
         <div class="col-xs-12 col-sm-8">
-            <p style="margin-top:1em;">
-                In addition to the economy parameter, FIRS provides a number of other parameters.
-            </p>
-            <p>
-                It's fine to leave these on the defaults, they're provided for advanced players
-                who want to adjust certain aspects of FIRS gameplay.
-            </p>
+            <p style="margin-top:1em;">${doc_helper.t('DOC_GS_ADVANCED_P1')}</p>
+            <p>${doc_helper.t('DOC_GS_ADVANCED_P2')}</p>
         </div>
     </div>
     <hr />
     <div class="row" id="conflicts">
         <div class="col-xs-12 col-sm-4">
-            <h2>Conflict Detection</h2>
+            <h2>${doc_helper.t('DOC_GS_CONFLICTS_TITLE')}</h2>
         </div>
         <div class="col-xs-12 col-sm-8">
-            <p style="margin-top:1em;">
-                When you begin a new OpenTTD game, FIRS will disable itself if certain conflicting newgrfs are detected.
-            </p>
-            <p>
-                You'll see a message if this happens.
-            </p>
-            <p>There's a list of <a href="code_reference.html#incompatible-grfs">conflicting newgrfs</a>.</p>
+            <p style="margin-top:1em;">${doc_helper.t('DOC_GS_CONFLICTS_P1')}</p>
+            <p>${doc_helper.t('DOC_GS_CONFLICTS_P2')}</p>
+            <p>${doc_helper.t('DOC_GS_CONFLICTS_P3_PREFIX')}<a href="${doc_helper.link('code_reference')}#incompatible-grfs">${doc_helper.t('DOC_GS_CONFLICTS_P3_LINK')}</a>${doc_helper.t('DOC_GS_CONFLICTS_P3_SUFFIX')}</p>
         </div>
     </div>
     <hr />

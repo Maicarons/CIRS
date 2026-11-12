@@ -1,0 +1,4 @@
+nml>=0.7.5
+chameleon>=4.0
+Pillow>=10.0
+Markdown>=3.5

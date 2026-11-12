@@ -3,17 +3,17 @@ grflangid = "0x01"
 plural = "0"
 
 [STR_GRF_NAME]
-# only translate the FIRS name if it's strictly necessary for the language
-base = "FIRS Industry Replacement Set"
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS Community Industry Replacement Set"
 
 [STR_GRF_DESC]
-base = "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Brought to you by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use FIRS. {BLACK}License: GPL v2."
+base = "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
 
 [STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
 base = "Maximum distance of fishing grounds, oil rigs and dredging sites from the coast in tiles."
 
 [STR_PARAM_DESC_ECONOMIES]
-base = "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other FIRS economies.{}{}The FIRS website provides detailed information about each economy."
+base = "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy."
 
 [STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
 base = "Maximum coastal distance of marine industries in tiles"
@@ -61,10 +61,10 @@ base = "Mild Mild West"
 base = "Steeltown"
 
 [STR_PARAM_NAME_OBJECTS]
-base = "FIRS landscaping objects"
+base = "CIRS landscaping objects"
 
 [STR_PARAM_DESC_OBJECTS]
-base = "FIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off."
+base = "CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off."
 
 [STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
 base = " {BLACK}(optional)"
@@ -109,16 +109,16 @@ base = "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this leve
 base = "{BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} units of cargo at least once every three minutes."
 
 [STR_ERR_OPENTTD_VERSION]
-base = "{ORANGE}E00: FIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)"
+base = "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)"
 
 [STR_ERR_INCOMPATIBLE_SET]
 base = "{ORANGE}E01: {YELLOW}Incompatible set: {ORANGE}{STRING}"
 
 [STR_ERR_INCOMPATIBLE_PARAM_CANSET]
-base = "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with FIRS."
+base = "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS."
 
 [STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
-base = "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with FIRS."
+base = "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS."
 
 [STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
 base = "{ORANGE}E04: {YELLOW}Incompatible version: {ORANGE}Total Town Replacement Set must be version release 3.11 or newer."

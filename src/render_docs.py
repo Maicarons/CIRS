@@ -43,9 +43,56 @@ makefile_args = utils.get_makefile_args(sys)
 metadata = {}
 metadata.update(global_constants.metadata)
 
+# site languages rendered for the HTML docs; the first entry is the default language
+SITE_LANGS = [
+    {
+        "id": "english",
+        "code": "en",
+        "suffix": "",
+        "extra_strings": "extra_strings.toml",
+        "display": "DOC_TRANS_LANG_EN",
+    },
+    {
+        "id": "simplified_chinese",
+        "code": "zh-CN",
+        "suffix": "_zh_CN",
+        "extra_strings": "extra_strings_zh_CN.toml",
+        "display": "DOC_TRANS_LANG_ZH",
+    },
+]
+
+
+def load_site_strings(site_lang_id):
+    # load the website-only strings for a language (nav, headings, notes)
+    with open(
+        os.path.join(docs_src, "lang", site_lang_id + ".toml"), "rb"
+    ) as fp:
+        return tomllib.load(fp)
+
+
+def build_doc_helper(site_lang):
+    # combine game strings (cargo/industry/economy names) with docs-only strings for one site language
+    lang_strings = utils.get_lang_data("grf", site_lang["id"])["lang_strings"]
+    with open(os.path.join(docs_src, site_lang["extra_strings"]), "rb") as fp:
+        extra_strings_source = tomllib.load(fp)
+    for node_name, node_value in extra_strings_source.items():
+        lang_strings[node_name] = node_value["base"]
+    return DocHelper(
+        lang_strings=lang_strings,
+        site_strings=load_site_strings(site_lang["id"]),
+        site_lang_code=site_lang["code"],
+        lang_suffix=site_lang["suffix"],
+        site_langs=SITE_LANGS,
+    )
+
 
 def render_docs(
-    doc_list, file_type, doc_helper, use_markdown=False, source_is_repo_root=False
+    doc_list,
+    file_type,
+    doc_helper,
+    use_markdown=False,
+    source_is_repo_root=False,
+    file_suffix="",
 ):
     if source_is_repo_root:
         templates = PageTemplateLoader(os.path.join(currentdir), format="text")
@@ -88,7 +135,9 @@ def render_docs(
             subdir = ""
         # save the results of templating
         doc_file = open(
-            os.path.join(docs_output_path, subdir, doc_name + "." + file_type),
+            os.path.join(
+                docs_output_path, subdir, doc_name + file_suffix + "." + file_type
+            ),
             "w",
             encoding="utf-8",
             newline="",
@@ -103,21 +152,11 @@ def main():
 
     firs.main()
 
-    lang_strings = utils.get_lang_data("grf", "english")["lang_strings"]
-
-    # we also have some strings which are docs-only, so get those
-    # should be in a dedicated method probably, but eh
-    with open(
-        os.path.join(currentdir, "src", "docs", "extra_strings.toml"), "rb"
-    ) as fp:
-        extra_strings_source = tomllib.load(fp)
-    for node_name, node_value in extra_strings_source.items():
-        lang_strings[node_name] = node_value["base"]
-    # print(lang_strings)
-
-    doc_helper = DocHelper(
-        lang_strings=lang_strings,
-    )
+    doc_helpers = {}
+    for site_lang in SITE_LANGS:
+        doc_helpers[site_lang["id"]] = build_doc_helper(site_lang)
+    # English is the reference language for shared artefacts (graphs, changelog, readme)
+    default_doc_helper = doc_helpers[SITE_LANGS[0]["id"]]
 
     # copy the cargo icons to an oversized image so they're legible
     cargo_icons_src = os.path.join(currentdir, "src", "graphics", "cargoicons.png")
@@ -144,29 +183,45 @@ def main():
     graph_docs = ["cargoflow"]
     stylesheets = ["cargoflow_styles"]
 
-    render_docs(html_docs, "html", doc_helper)
-    render_docs(txt_docs, "txt", doc_helper)
+    # render the HTML docs once per site language, using a filename suffix for non-default languages
+    for site_lang in SITE_LANGS:
+        render_docs(
+            html_docs,
+            "html",
+            doc_helpers[site_lang["id"]],
+            file_suffix=site_lang["suffix"],
+        )
+    render_docs(txt_docs, "txt", default_doc_helper)
     render_docs(
         license_docs,
         "txt",
-        doc_helper,
+        default_doc_helper,
         source_is_repo_root=True,
     )
     # just render the markdown docs twice to get txt and html versions, simples no?
     render_docs(
-        markdown_docs, "txt", doc_helper, use_markdown=True, source_is_repo_root=True
+        markdown_docs,
+        "txt",
+        default_doc_helper,
+        use_markdown=True,
+        source_is_repo_root=True,
     )
     render_docs(
-        markdown_docs, "html", doc_helper, use_markdown=True, source_is_repo_root=True
+        markdown_docs,
+        "html",
+        default_doc_helper,
+        use_markdown=True,
+        source_is_repo_root=True,
     )
-    render_docs(graph_docs, "dotall", doc_helper)
-    render_docs(stylesheets, "css", doc_helper)
+    render_docs(graph_docs, "dotall", default_doc_helper)
+    render_docs(stylesheets, "css", default_doc_helper)
 
     # cargoflow wrappers are just different enough to not fit generic render_docs() case without making it painfully convoluted
+    # the SVG graphs themselves are generated once in English and shared by every language
     for economy in firs.economy_manager:
         template = docs_templates["cargoflow_wrapper.pt"]
-        result = template(economy=economy, doc_helper=doc_helper)
-        doc_name = "cargoflow_" + doc_helper.get_economy_name_char_safe(economy)
+        result = template(economy=economy, doc_helper=default_doc_helper)
+        doc_name = "cargoflow_" + default_doc_helper.get_economy_name_char_safe(economy)
         doc_file = open(
             os.path.join(docs_output_path, "html", doc_name + ".html"),
             "w",

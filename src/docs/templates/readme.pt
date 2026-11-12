@@ -1,23 +1,24 @@
-====================================
-FIRS Industry Replacement Set ${git_info.get_version()}
-====================================
+====================================================
+CIRS Community Industry Replacement Set ${git_info.get_version()}
+====================================================
 New Industries and Cargos for OpenTTD
+A community-maintained fork of FIRS, with open community support and translations.
 
-FIRS docs are published online:
+CIRS docs are published online:
   ${utils.get_docs_url()}
 
 =======
-GRF Name : FIRS Industry Replacement Set
+GRF Name : CIRS Community Industry Replacement Set
 
-This version of FIRS is created using repository version ${git_info.get_revision()}
+This version of CIRS is created using repository version ${git_info.get_revision()}
 
-Thanks to *all* who helped create FIRS.
+Thanks to *all* who helped create FIRS and CIRS.
 
 ------------
-FIRS License
+CIRS License
 ------------
-FIRS Industry Replacement Set - Full industry replacement set for OpenTTD
-Copyright (C) andythenorth, and others.
+CIRS Community Industry Replacement Set - Full industry replacement set for OpenTTD
+Based on FIRS, copyright (C) andythenorth, and others.
 
 Licensed under GPL(v2)
   http://www.gnu.org/licenses/gpl-2.0.html

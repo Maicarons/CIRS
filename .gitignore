@@ -4,6 +4,8 @@
 .nmlcache/
 .chameleon_cache/
 .vs/
+__pycache__/
+build_logs/
 
 # The local makefile should be ignored:
 Makefile.local

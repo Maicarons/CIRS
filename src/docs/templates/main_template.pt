@@ -1,9 +1,9 @@
 <!--!<?xml version="1.0" encoding="iso-8859-1"?>-->
 <tal:block metal:define-macro="main">
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="${doc_helper.site_lang_code}">
 <head>
-    <title >FIRS Industry Replacement Set</title>
+    <title>${doc_helper.t('DOC_TITLE')}</title>
     <meta http-equiv="Content-Type" content="text/html;" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,6 +11,9 @@
     <link type="text/css" href="static/css/bootstrap-theme.min.css" rel="stylesheet">
     <link type="text/css" href="static/css/style.css" rel="stylesheet">
     <link href="static/css/font-awesome.min.css" rel="stylesheet">
+    <tal:alternates repeat="alternate doc_helper.get_alternate_hreflang_links(doc_name)">
+        <link rel="alternate" hreflang="${alternate[0]}" href="${alternate[1]}" />
+    </tal:alternates>
 
     <script type="text/javascript" src="static/js/jquery-3.7.1.min.js"></script>
 
@@ -38,12 +41,12 @@
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#firs-navbar-collapse-1" aria-expanded="false">
-                    <span class="sr-only">Toggle navigation</span>
+                    <span class="sr-only">${doc_helper.t('DOC_TOGGLE_NAV')}</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="get_started.html">FIRS</a>
+                <a class="navbar-brand" href="${doc_helper.link('get_started')}">${doc_helper.t('DOC_BRAND')}</a>
             </div>
 
             <div class="collapse navbar-collapse" id="firs-navbar-collapse-1">
@@ -51,27 +54,30 @@
                     <li class="${doc_helper.get_active_nav(doc_name, 'get_started')}">
                     </li>
                     <li class="${doc_helper.get_active_nav(doc_name, 'economies')}">
-                        <a href="economies.html">Economies</a>
+                        <a href="${doc_helper.link('economies')}">${doc_helper.t('DOC_NAV_ECONOMIES')}</a>
                     </li>
                     <li class="${doc_helper.get_active_nav(doc_name, 'cargos')}">
-                        <a href="cargos.html">Cargos</a>
+                        <a href="${doc_helper.link('cargos')}">${doc_helper.t('DOC_NAV_CARGOS')}</a>
                     </li>
                     <li class="${doc_helper.get_active_nav(doc_name, 'industries')}">
-                        <a href="industries.html">Industries</a>
+                        <a href="${doc_helper.link('industries')}">${doc_helper.t('DOC_NAV_INDUSTRIES')}</a>
                     </li>
                     <li class="${doc_helper.get_active_nav(doc_name, 'code_reference')}">
-                        <a href="code_reference.html">Code Reference</a>
+                        <a href="${doc_helper.link('code_reference')}">${doc_helper.t('DOC_NAV_CODE_REFERENCE')}</a>
                     </li>
                     <li class="${doc_helper.get_active_nav(doc_name, 'changelog')}">
-                        <a href="changelog.html">Changelog</a>
+                        <a href="${doc_helper.link('changelog')}">${doc_helper.t('DOC_NAV_CHANGELOG')}</a>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li class="${doc_helper.get_active_nav(doc_name, 'translations')}">
-                        <a href="translations.html"><i class="fa fa-globe icon-white"></i> Translations</a>
+                        <a href="${doc_helper.link('translations')}"><i class="fa fa-globe icon-white"></i> ${doc_helper.t('DOC_NAV_TRANSLATIONS')}</a>
                     </li>
                     <li>
-                        <a href="${metadata['dev_thread_url']}"><i class="fa fa-comments icon-white"></i> Discuss at TT-Forums.net</a>
+                        <a href="${metadata['dev_thread_url']}"><i class="fa fa-comments icon-white"></i> ${doc_helper.t('DOC_NAV_DISCUSS')}</a>
+                    </li>
+                    <li>
+                        <a href="${doc_helper.alt_lang_link(doc_name)}"><i class="fa fa-language icon-white"></i> ${doc_helper.t('DOC_NAV_SWITCH_LANGUAGE')}</a>
                     </li>
                 </ul>
             </div>
@@ -79,8 +85,8 @@
     </div>
     <div class="hero-unit subhead">
         <div class="container text-center">
-            <h1 style="font-size:48px; padding-top:30px;">FIRS Industry Replacement Set</h1>
-            <p class="lead">New Industries and Cargos for OpenTTD</p>
+            <h1 style="font-size:48px; padding-top:30px;">${doc_helper.t('DOC_TITLE')}</h1>
+            <p class="lead">${doc_helper.t('DOC_SUBTITLE')}</p>
             <br />
             <br />
             <script language="JavaScript">
@@ -92,7 +98,7 @@
 
                 for(i = 0; i < num_images; i++){
                     var random_image = images.splice(Math.floor(Math.random()*images.length), 1);
-                    document.write('<a href="industries.html#' + random_image + '"><img style="margin-top:-30px; margin-bottom:0;" width="20%" src="static/img/industries/'+ random_image +'.png"></a>')
+                    document.write('<a href="${doc_helper.link('industries')}#' + random_image + '"><img style="margin-top:-30px; margin-bottom:0;" width="20%" src="static/img/industries/'+ random_image +'.png"></a>')
                 }
             }
             random_img(5)
@@ -104,22 +110,12 @@
     </metal:block>
     <div class="container firs-larger-font">
         <metal:block define-slot="body">
-            <p>Ooooops - there is no content for some reason. Something has probably gone nuts in the build. </p>
+            <p>${doc_helper.t('DOC_NO_CONTENT')}</p>
         </metal:block>
     </div>
     <div style="margin-top:30px; text-align:center; color:#999; padding:5px; background-color:#eee; border-top:solid 1px #ddd; box-shadow: inset 0px 1px 1px #ddd">
-        FIRS, with thanks to all who helped
+        ${doc_helper.t('DOC_FOOTER')}
     </div>
 </body>
 </html>
 </tal:block>
-
-
-
-
-
-
-
-
-
-

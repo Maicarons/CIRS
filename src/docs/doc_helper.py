@@ -12,8 +12,56 @@ class DocHelper(object):
     def __init__(
         self,
         lang_strings,
+        site_strings=None,
+        site_lang_code="en",
+        lang_suffix="",
+        site_langs=None,
     ):
         self.lang_strings = lang_strings
+        self.site_strings = site_strings if site_strings is not None else {}
+        self.site_lang_code = site_lang_code
+        self.lang_suffix = lang_suffix
+        self.site_langs = site_langs if site_langs is not None else []
+
+    def t(self, key, **kwargs):
+        # look up a website string for the current site language, failing loudly in logs but softly on page
+        value = self.site_strings.get(key, key)
+        if kwargs:
+            return value.format(**kwargs)
+        return value
+
+    def link(self, doc_name):
+        # changelog is only maintained in English and is shared by all languages
+        if doc_name == "changelog":
+            return doc_name + ".html"
+        return doc_name + self.lang_suffix + ".html"
+
+    def alt_lang_link(self, doc_name):
+        # link to the same page in the next available site language
+        for site_lang in self.site_langs:
+            if site_lang["suffix"] != self.lang_suffix:
+                if doc_name == "changelog":
+                    return doc_name + ".html"
+                return doc_name + site_lang["suffix"] + ".html"
+        return self.link(doc_name)
+
+    def get_alternate_hreflang_links(self, doc_name):
+        # hreflang alternates for search engines, including the current language
+        result = []
+        for site_lang in self.site_langs:
+            if doc_name == "changelog":
+                href = doc_name + ".html"
+            else:
+                href = doc_name + site_lang["suffix"] + ".html"
+            result.append((site_lang["code"], href))
+        return result
+
+    def get_language_links(self):
+        # links used on the translations page, one per supported site language
+        return [
+            (self.t(site_lang["display"]), "translations" + site_lang["suffix"] + ".html")
+            for site_lang in self.site_langs
+        ]
 
     # dirty class to help do some doc formatting
     def get_economy_name(self, economy):
@@ -24,8 +72,9 @@ class DocHelper(object):
         ]  # name strings contain 'economy', I don't want that in docs
 
     def get_economy_name_char_safe(self, economy):
+        # use the economy id so that anchors, graph names and URLs are stable in every language
         # this uses _ not -, because it's also used in graphviz which chokes on -
-        return self.get_economy_name(economy).replace(" ", "_").lower()
+        return economy.id.replace("-", "_").lower()
 
     def get_cargo_name(self, cargo):
         # cargos don't store the name directly as a python attr, but in lang - so look it up in base_lang using string id
@@ -37,21 +86,21 @@ class DocHelper(object):
         result = []
         # order of dict key corresponds to sort order of cargos when pretty-printed
         pretty_names = {
-            "CC_PASSENGERS": "Passengers",
-            "CC_MAIL": "Mail",
-            "CC_EXPRESS": "Express",
-            "CC_ARMOURED": "Armoured",
-            "CC_PIECE_GOODS": "Piece Goods",
-            "CC_OPEN_BULK": "Open Bulk",
-            "CC_COVERED_BULK": "Covered Bulk",
-            "CC_POWDER_BULK": "Powder Bulk",
-            "CC_LIQUID_BULK": "Liquid Bulk",
-            "CC_GAS_BULK": "Gas Bulk",
-            "CC_FLATBED": "Flatbed",
-            "CC_REFRIGERATED": "Refrigerated",
-            "CC_WEIRD": "Weird",
-            "CC_POTABLE": "Potable",
-            "CC_NON_POTABLE": "Non-Potable",
+            "CC_PASSENGERS": "DOC_CC_PASSENGERS",
+            "CC_MAIL": "DOC_CC_MAIL",
+            "CC_EXPRESS": "DOC_CC_EXPRESS",
+            "CC_ARMOURED": "DOC_CC_ARMOURED",
+            "CC_PIECE_GOODS": "DOC_CC_PIECE_GOODS",
+            "CC_OPEN_BULK": "DOC_CC_OPEN_BULK",
+            "CC_COVERED_BULK": "DOC_CC_COVERED_BULK",
+            "CC_POWDER_BULK": "DOC_CC_POWDER_BULK",
+            "CC_LIQUID_BULK": "DOC_CC_LIQUID_BULK",
+            "CC_GAS_BULK": "DOC_CC_GAS_BULK",
+            "CC_FLATBED": "DOC_CC_FLATBED",
+            "CC_REFRIGERATED": "DOC_CC_REFRIGERATED",
+            "CC_WEIRD": "DOC_CC_WEIRD",
+            "CC_POTABLE": "DOC_CC_POTABLE",
+            "CC_NON_POTABLE": "DOC_CC_NON_POTABLE",
         }
         for cargo_class in cargo.cargo_classes:
             if cargo_class not in pretty_names:
@@ -65,7 +114,7 @@ class DocHelper(object):
 
         for cargo_class in pretty_names:
             if cargo_class in cargo.cargo_classes:
-                result.append(pretty_names[cargo_class])
+                result.append(self.t(pretty_names[cargo_class]))
         return ", ".join(result)
 
     def get_industry_name(self, industry, economy=None):

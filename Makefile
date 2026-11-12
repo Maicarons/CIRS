@@ -13,7 +13,7 @@ FIND_FILES = bin/find-files
 MK_ARCHIVE = bin/mk-archive
 
 # Project details
-PROJECT_NAME = firs
+PROJECT_NAME = cirs
 
 NML_LANG_DIR = generated/lang
 NML_FILE = generated/firs.nml
@@ -72,7 +72,7 @@ _V ?= @
 $(NML_LANG_DIR): $(shell $(FIND_FILES) --ext=.py --ext=.pynml --ext=.pylng --ext=.toml src)
 	$(_V) $(PYTHON3) src/render_lang.py $(ARGS) "grf"
 
-$(HTML_DOCS): $(shell $(FIND_FILES) --ext=.py --ext=.pynml --ext=.pt --ext=.lng src)
+$(HTML_DOCS): $(shell $(FIND_FILES) --ext=.py --ext=.pynml --ext=.pt --ext=.lng --ext=.toml src)
 	$(_V) $(PYTHON3) src/render_docs.py $(ARGS)
 # Insane trick to check whether both DOT and GVPR are not empty.
 ifeq ($(DOT)$(GVPR),$(GVPR)$(DOT))

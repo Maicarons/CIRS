@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "煤矿"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "铜矿"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "钻石矿"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "食品加工厂"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "森林"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "水果种植园"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "铁矿"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "炼油厂"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "石油钻井平台"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "油井"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "造纸厂"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "橡胶种植园"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "锯木厂"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "钢铁厂"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "煤炭"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "铜矿石"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "钻石"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "食物"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "货物"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "谷物"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "铁矿石"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "牲畜"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "邮件"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "玉米"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "石油"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "纸张"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "乘客"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "橡胶"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "糖"
+
+[ECONOMY_INFO_FIRS]
+base = "产业和货物种类繁多的复杂经济模式。"
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "简单经济模式。灵感来自芬兰、加拿大北部和西伯利亚北部。最适合在亚寒带气候下使用。"
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "简单经济模式。灵感来自英国西南部。最适合在温带气候下使用。"
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "简单经济模式。灵感来自阿根廷、秘鲁和智利。最适合在亚热带气候下使用。"
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "产业和货物种类繁多的复杂经济模式。灵感来自非洲中西部。最适合在亚热带气候下使用。"
+
+[ECONOMY_INFO_STEELTOWN]
+base = "以铁、钢和重工业制造业为特色的复杂经济模式。"
+
+[CARGO_INFO_PASSENGERS]
+base = "所有经济模式均可用。由城镇建筑以及少数产业生产并接收。"
+
+[CARGO_INFO_MAIL]
+base = "所有经济模式均可用。由城镇建筑生产并接收。"
+
+[CARGO_INFO_ACID]
+base = "工业酸类，如盐酸、硝酸和硫酸。"
+
+[CARGO_INFO_AGGREGATES]
+base = "用于建筑的砾石、沙子、碎石及类似材料。"
+
+[CARGO_INFO_ALUMINA]
+base = "由铝土矿精炼而成的白色粉末，用于生产金属铝。"
+
+[CARGO_INFO_ALUMINIUM]
+base = "精炼金属铝，以卷材、铸锭、板坯等形式运输。"
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "由氨衍生的工业化学品，如氨、硝酸和尿素。以液体、低温液化气体或干散货形式运输。"
+
+[CARGO_INFO_ANHYDRITE]
+base = "白色、灰色或棕色的硫酸钙矿石，用于生产硫酸和水泥。通常以遮盖散货形式运输。"
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "用于化学加工的工业矿物。重晶石用于钡化学品和填料；萤石用于氟化学和冶金助熔剂。"
+
+[CARGO_INFO_BASE_METALS]
+base = "有色金属，如铜、镍、锌和铅。"
+
+[CARGO_INFO_BEANS]
+base = "普通菜豆、蚕豆、大豆及类似的可食用豆类。"
+
+[CARGO_INFO_BITUMEN]
+base = "浓稠的石油产品，主要用于路面铺设和屋顶防水。"
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "水泥、玻璃、金属构件、木制品、管材及类似的建筑材料。"
+
+[CARGO_INFO_CASSAVA]
+base = "可食用块根作物，又称木薯。"
+
+[CARGO_INFO_CARBON_BLACK]
+base = "深黑色碳粉，用于轮胎、塑料和颜料。以粉末形式处理。"
+
+[CARGO_INFO_CARBON_STEEL]
+base = "钢坯、方坯、铸锭和板坯。"
+
+[CARGO_INFO_CAST_IRON]
+base = "钢坯、方坯、铸锭和板坯。"
+
+[CARGO_INFO_CEMENT]
+base = "粉末或熟料形式的干水泥。"
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "用作进一步工业加工原料的中间化学产品。"
+
+[CARGO_INFO_CHEMICALS]
+base = "通用的有机和无机化学品，以液体、气体、遮盖散货、粉末或件货形式处理。"
+
+[CARGO_INFO_CHLORINE]
+base = "工业化学品，通常以低温液化压缩气体形式运输。"
+
+[CARGO_INFO_CLAY]
+base = "通用黏土，用于生产建筑材料及其他工业用途。"
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "用于工业和家庭的化学品、肥皂、洗涤剂等。主要为液体，也可为粉末或固体（如喷砂用砂）。"
+
+[CARGO_INFO_COAL_TAR]
+base = "焦炭生产的副产品，是一种浓稠、流动缓慢的液体。"
+
+[CARGO_INFO_COFFEE]
+base = "生咖啡豆或烘焙咖啡豆。"
+
+[CARGO_INFO_COKE]
+base = "在炼焦炉中加热过的煤，可产生近乎纯碳的燃料。"
+
+[CARGO_INFO_COMPONENTS]
+base = "高价值工程部件，如电气设备、电机、变压器、控制装置、液压件、气动件、泵、阀门和动力总成设备。"
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "浇筑制品，如砌块、梁和板材。也可作为预拌混凝土用搅拌车运输。"
+
+[CARGO_INFO_COPPER]
+base = "精炼金属铜，以卷材、铸锭等形式运输。"
+
+[CARGO_INFO_DIAMONDS]
+base = "钻石恒久远，等等。"
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "用于烹饪和食用的油。"
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "电气和电子部件、电机、控制器、开关设备、灯具等。"
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "用于矿山及类似产业的机械、燃料、零件、木制品、管材、炸药及其他补给品。"
+
+[CARGO_INFO_EXPLOSIVES]
+base = "用于采矿、建筑等的民用炸药。"
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "用于农场、森林及类似产业的机械、燃料、零件、化肥及其他补给品。"
+
+[CARGO_INFO_FERROALLOYS]
+base = "用于炼钢。铁与锰、镍、铬、铝、硅、钨等其他元素的合金。灰色块状物，大小和形状与煤块相似。"
+
+[CARGO_INFO_FERROCHROME]
+base = "用于合金钢和不锈钢生产，是铬与铁的合金。灰色块状物，大小和形状与煤块相似。"
+
+[CARGO_INFO_FLOUR]
+base = "面粉和淀粉等粉状谷物产品，以袋装或遮盖散货形式运输。"
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "用于组装成更大部件的金属零件。"
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "食品加工中使用的配料，如防腐剂、调味剂、着色剂和加工助剂。"
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "在运输和储存过程中保持冷冻的食品。"
+
+[CARGO_INFO_FRUITS]
+base = "新鲜和干制水果，如香蕉、柑橘、葡萄、浆果、菠萝、葡萄干等。"
+
+[CARGO_INFO_GRAIN]
+base = "小麦、大麦等。"
+
+[CARGO_INFO_HARDWARE]
+base = "用于家庭和建筑。金属及其他材料制成的工具、器具、固定件、配件。"
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "特种碳材料，如煅烧石油焦、沥青、高价值焦油和炭黑，用于冶金和化学过程。"
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "用于化学加工、金属加工和焊接的工业气体，以钢瓶或压力罐车运输。"
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "用于起重机、卷扬机、电梯等的卷筒、绞车、卸扣、吊钩、滑轮、液压缸及其他部件。"
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "用作化工原料的轻质石油馏分，以散装液体形式运输。"
+
+[CARGO_INFO_LIVESTOCK]
+base = "主要是用于肉类生产的牛、猪和羊。其他动物也可能被食用。"
+
+[CARGO_INFO_LYE]
+base = "工业化学品。又称碱液或烧碱。通常以液体形式运输。"
+
+[CARGO_INFO_KAOLIN]
+base = "工业矿物，又称高岭土，主要用于纸张和塑料生产。"
+
+[CARGO_INFO_MANGANESE]
+base = "锰矿石，主要用于炼钢。"
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "用于港口、码头及类似产业的机械、零件、燃料、建筑材料和其他补给品。"
+
+[CARGO_INFO_METAL]
+base = "通用金属，如钢、铝或其他常见金属。"
+
+[CARGO_INFO_METHANOL]
+base = "用作化工原料和燃料的工业酒精，以散装液体形式运输。"
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "用于精炼、发酵和工业用途的中间糖制品。黏稠的糖粒以遮盖散货处理；浓稠糖浆以液体处理；两者均可包装运输。"
+
+[CARGO_INFO_NITROGEN]
+base = "工业气体。以低温液化压缩气体形式运输。"
+
+[CARGO_INFO_OIL]
+base = "以散装液体形式运输的原油。"
+
+[CARGO_INFO_OXYGEN]
+base = "工业气体。以低温液化压缩气体形式运输。"
+
+[CARGO_INFO_PACKAGING]
+base = "箱子、瓶子、罐子、易拉罐等。"
+
+[CARGO_INFO_PEAT]
+base = "取自泥炭沼泽的生物质，用于燃料和园艺。"
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "精炼石油产品，如汽油、柴油、煤油、液化石油气、燃料油和船用燃料，以散装液体或液化气体形式运输。"
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "主要用于化肥和化学品生产的工业酸，以散装液体形式运输。"
+
+[CARGO_INFO_PIG_IRON]
+base = "来自高炉的生铁，以熔融液体或固体铸锭形式运输。"
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "棉花、亚麻、黄麻及类似材料，用于生产纺织品和复合材料。"
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "用于建筑、产业和农场的动力设备和机械系统。以整机或主要子组件形式运输。"
+
+[CARGO_INFO_PETROL]
+base = "汽油、柴油及类似燃料。"
+
+[CARGO_INFO_PLASTICS]
+base = "供进一步加工的生塑料。通常以树脂颗粒形式运输。"
+
+[CARGO_INFO_PIPEWORK]
+base = "用于城镇建筑、产业和农场的储罐、压力容器、筒仓、气瓶和管道组件。"
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "用于制造和加工的工业化学品，以液体、粉末、气体或包装货物形式运输。"
+
+[CARGO_INFO_PYRITE_ORE]
+base = "硫化物矿石，经冶炼可生产多种工业产品。"
+
+[CARGO_INFO_QUICKLIME]
+base = "氧化钙，又称生石灰。以必须保持干燥的细粉形式运输。"
+
+[CARGO_INFO_REBAR]
+base = "广泛用于加固混凝土结构的细粗糙钢筋。以卷材或成捆直条形式运输。"
+
+[CARGO_INFO_RUBBER]
+base = "主要是天然乳胶。"
+
+[CARGO_INFO_SALT]
+base = "广泛使用的工业化学品。通常以必须保持干燥的散货形式运输。"
+
+[CARGO_INFO_SAND]
+base = "用于建筑的粗砂，或用于玻璃制造和金属铸造的细硅砂。以散装或粉末形式运输。"
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "由橡胶或类似材料制成的柔性密封件、垫片、软管、皮带、垫板、衬套等。"
+
+[CARGO_INFO_SLAG]
+base = "钢铁生产产生的废料。"
+
+[CARGO_INFO_SODA_ASH]
+base = "工业化学品。白色粉末状。"
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "半成品钢铸件。横截面为矩形、方形或圆形。"
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "需要进一步加工的粗钢铸件。铸锭可小可大。典型的铸锭截面为矩形或圆形。"
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "钢棒，包括圆钢、方钢、扁钢及其他型材。以长直产品形式运输。"
+
+[CARGO_INFO_STEEL_PIPE]
+base = "用于管道、建筑、产业等输送液体的长圆钢管。"
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "轧制钢板和型钢——工字梁、H 型钢、槽钢等。以长直产品形式运输。"
+
+[CARGO_INFO_STEEL_SHEET]
+base = "薄轧钢板和钢带，广泛用于制造其他产品。以平板或卷材形式运输。"
+
+[CARGO_INFO_STEEL_SLAB]
+base = "半成品钢铸件。横截面始终为扁平矩形。"
+
+[CARGO_INFO_STEEL_TUBE]
+base = "圆形、矩形及其他截面的长空心管。用于制造结构和机械。"
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "钢丝和细钢棒。主要以卷材形式运输。"
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "将钢丝拉拔到更小直径后扭绞成捆制成的绳索和缆绳。"
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "结构级钢材，以轧制型材（工字梁、H 型钢等）、平板，或由钢板焊接而成的构件和梁的形式提供。"
+
+[CARGO_INFO_SULPHUR]
+base = "广泛使用的工业化学品。亮黄色，呈粉末或液体状。"
+
+[CARGO_INFO_TIMBER]
+base = "来自锯木厂或类似产业的加工木材产品。"
+
+[CARGO_INFO_TIN]
+base = "铸锭。"
+
+[CARGO_INFO_TINPLATE]
+base = "镀锡薄钢板，具有耐腐蚀性，主要用于罐子、容器及其他包装。"
+
+[CARGO_INFO_TYRE_CORD]
+base = "用于加固轮胎的细钢丝。以卷材形式运输。"
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "用于车辆生产的驾驶室、发动机盖、车门及类似车身结构。"
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "内燃机及相关的动力总成部件，如变速箱和驱动桥。"
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "用于车辆生产的部件，如底盘和悬架部件、电气部件、外部饰件和内饰件。"
+
+[CARGO_INFO_VEHICLES]
+base = "主要是卡车。也可能是小汽车。或轻型卡车。也许是拖拉机。"
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "用于金属切割和焊接的耗材，如焊条、工具，以及乙炔、氩气、丙烷、氧气和氮气等工业气体。"
+
+[CARGO_INFO_WOOD]
+base = "来自森林的原木。"
+
+[CARGO_INFO_WOOD_PULP]
+base = "主要用于造纸的加工木纤维，以打包或散装纸浆形式运输。"
+
+[CARGO_INFO_WOOL]
+base = "成捆的羊毛。"
+
+[CARGO_INFO_ZINC]
+base = "铸锭。"
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "此处为示例字符串"

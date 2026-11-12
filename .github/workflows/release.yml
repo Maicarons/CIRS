@@ -1,0 +1,50 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y make graphviz
+
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+
+      - name: Check translations
+        run: python tools/check_translations.py
+
+      - name: Build
+        run: make
+
+      - name: Package GameScript and docs
+        run: |
+          tar -czf cirs-gs.tar.gz -C generated/gs .
+          tar -czf cirs-docs.tar.gz -C docs .
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            generated/cirs.grf
+            cirs-gs.tar.gz
+            cirs-docs.tar.gz
+          generate_release_notes: true

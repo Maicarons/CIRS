@@ -58,6 +58,7 @@ def render_nuts(nuts_by_subdir):
                     gs_helper=GSHelper(),
                     makefile_args=makefile_args,
                     git_info=git_info,
+                    metadata=global_constants.metadata,
                     #manufacturers=manufacturers,
                     utils=utils,
                 )

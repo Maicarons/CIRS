@@ -1,5 +1,5 @@
 [STR_WELCOME]
-base = "Hello {COMPANY}!{}{}You are playing a game with FIRS test GS{}{}Git version of this GS is {NUM}"
+base = "Hello {COMPANY}!{}{}You are playing a game with CIRS test GS{}{}Git version of this GS is {NUM}"
 
 [STR_EMPTY]
 base = ""

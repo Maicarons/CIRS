@@ -1,67 +1,59 @@
 <tal:page_with_sidebar_template metal:use-macro="load: main_template.pt">
 <div metal:fill-slot='body'>
     <div class="page-header text-center">
-        <h2>Code Reference</h2>
+        <h2>${doc_helper.t('DOC_CR_TITLE')}</h2>
         <ul class="list-inline">
-            <li class="nav-header">Code Reference</li>
-            <li><a href="#source">Obtaining Source</a></li>
-            <li><a href="#compiling">Compiling</a></li>
-            <li><a href="#cargos">Cargos (${len(firs.cargo_manager)})</a></li>
-            <li><a href="#industries">Industries (${len(firs.industry_manager)})</a></li>
-            <li><a href="#incompatible-grfs">Incompatible NewGRFs (${len(incompatible_grfs)})</a></li>
+            <li class="nav-header">${doc_helper.t('DOC_CR_TITLE')}</li>
+            <li><a href="#source">${doc_helper.t('DOC_CR_NAV_SOURCE')}</a></li>
+            <li><a href="#compiling">${doc_helper.t('DOC_CR_NAV_COMPILING')}</a></li>
+            <li><a href="#cargos">${doc_helper.t('DOC_CR_NAV_CARGOS', count=len(firs.cargo_manager))}</a></li>
+            <li><a href="#industries">${doc_helper.t('DOC_CR_NAV_INDUSTRIES', count=len(firs.industry_manager))}</a></li>
+            <li><a href="#incompatible-grfs">${doc_helper.t('DOC_CR_NAV_INCOMPATIBLE', count=len(incompatible_grfs))}</a></li>
         </ul>
     </div>
     <div id="source">
-        <h3>Obtaining Source</h3>
-        <p>Source checkout available from <a href="${metadata['repo_url']}">the FIRS Repo on GitHub</a>.</p>
-        <p>FIRS is licensed under <a href="http://www.gnu.org/licenses/gpl-2.0.html">GPL(v2)</a>.</p>
+        <h3>${doc_helper.t('DOC_CR_SOURCE_TITLE')}</h3>
+        <p>${doc_helper.t('DOC_CR_SOURCE_P1_PREFIX')}<a href="${metadata['repo_url']}">${doc_helper.t('DOC_CR_SOURCE_P1_LINK')}</a>${doc_helper.t('DOC_CR_SOURCE_P1_SUFFIX')}</p>
+        <p>${doc_helper.t('DOC_CR_SOURCE_P2_PREFIX')}<a href="http://www.gnu.org/licenses/gpl-2.0.html">${doc_helper.t('DOC_CR_SOURCE_P2_LINK')}</a>${doc_helper.t('DOC_CR_SOURCE_P2_SUFFIX')}</p>
     </div>
     <br />
     <hr />
 
     <section id="compiling">
-        <h3>Compiling</h3>
-        <p>
-           FIRS source includes a makefile for convenient building.
-           This requires '<a href="https://en.wikipedia.org/wiki/Make_(software)">Make</a>',
-           typically provided by the ports tree on Linux / Unix,
-           <a href="https://developer.apple.com/xcode/">Xcode</a> on macOS,
-           and other build systems on Windows.
-        </p>
-        <p>Other dependencies include:</p>
+        <h3>${doc_helper.t('DOC_CR_COMPILING_TITLE')}</h3>
+        <p>${doc_helper.t('DOC_CR_COMPILING_P1')}</p>
+        <p>${doc_helper.t('DOC_CR_DEPENDENCIES')}</p>
         <ul>
-            <li><a href="https://www.python.org/">Python 3.11+</a></li>
-            <li><a href="https://newgrf-specs.tt-wiki.net/wiki/NML:Getting_started">NML 0.7.5 or newer</a> (NewGRF compiler)</li>
-            <li><a href="http://chameleon.readthedocs.org/en/latest/">Chameleon</a> (Template engine)</li>
-            <li><a href="https://pypi.python.org/pypi/Markdown">Markdown</a> (Markdown text format parser)</li>
-            <li><a href="http://www.graphviz.org">Graphviz</a> (optional, used to generate cargo flow charts in html docs)</li>
+            <li><a href="https://www.python.org/">${doc_helper.t('DOC_CR_DEP_PYTHON')}</a></li>
+            <li><a href="https://newgrf-specs.tt-wiki.net/wiki/NML:Getting_started">${doc_helper.t('DOC_CR_DEP_NML')}</a></li>
+            <li><a href="http://chameleon.readthedocs.org/en/latest/">${doc_helper.t('DOC_CR_DEP_CHAMELEON')}</a></li>
+            <li><a href="https://pypi.python.org/pypi/Markdown">${doc_helper.t('DOC_CR_DEP_MARKDOWN')}</a></li>
+            <li><a href="http://www.graphviz.org">${doc_helper.t('DOC_CR_DEP_GRAPHVIZ')}</a></li>
         </ul>
     </section>
     <br />
     <hr />
 
     <div id="cargos">
-        <h3>Cargos (${len(firs.cargo_manager)}) <small>Code Reference</small></h3>
+        <h3>${doc_helper.t('DOC_CR_CARGOS_TITLE', count=len(firs.cargo_manager))} <small>${doc_helper.t('DOC_CR_SMALL_LABEL')}</small></h3>
         <p>
-            For cargo class names, FIRS 4 and newer uses FRAX, an improved standard for cargo classes.
-            <a href="https://grf.farm/polar_fox/frax_latest.html">&#187; Reference for FRAX cargo classes</a>
-        <p>
-        <p>
-            FRAX classes are the preferred method for vehicle refittability support.  There are some detailed cases where authors may find it helpful to set vehicle refittablity using cargo labels instead.
+            ${doc_helper.t('DOC_CR_FRAX_P1')}
+            <a href="https://grf.farm/polar_fox/frax_latest.html">&#187; ${doc_helper.t('DOC_CR_FRAX_LINK')}</a>
         </p>
-        <p><small>* Price Factor is a base value, will be automatically adjusted per economy to ensure no prices overlap.</small></p>
-        <p><small>** Town growth effects: apart from TOWNGROWTH_PASSENGERS and TOWNGROWTH_MAIL, FIRS does not set any town growth effects; this has the intended effect of disabling food / water requirements for towns in desert and above snowline.</small></p>
+        <p>${doc_helper.t('DOC_CR_FRAX_P2')}</p>
+        <p><small>${doc_helper.t('DOC_CR_PRICE_NOTE')}</small></p>
+        <p><small>${doc_helper.t('DOC_CR_TOWN_GROWTH_NOTE')}</small></p>
         <table class="table table-striped tablesorter firs-table">
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Label</th>
-                    <th>Icon</th>
-                    <th class="number">Weight</th>
-                    <th nowrap="true" class="number">Price Factor*</th>
-                    <th class="text">Cargo Classes</th>
-                    <th class="text">Town Growth Effect**</th><!--! request by Zuu, don't just delete this because it's boring -->
-                    <th nowrap="true">Sprites Done?</th>
+                    <th>${doc_helper.t('DOC_CR_TH_NAME')}</th>
+                    <th>${doc_helper.t('DOC_CR_TH_LABEL')}</th>
+                    <th>${doc_helper.t('DOC_CR_TH_ICON')}</th>
+                    <th class="number">${doc_helper.t('DOC_CR_TH_WEIGHT')}</th>
+                    <th nowrap="true" class="number">${doc_helper.t('DOC_CR_TH_PRICE_FACTOR')}</th>
+                    <th class="text">${doc_helper.t('DOC_CR_TH_CARGO_CLASSES')}</th>
+                    <th class="text">${doc_helper.t('DOC_CR_TH_TOWN_GROWTH')}</th><!--! request by Zuu, don't just delete this because it's boring -->
+                    <th nowrap="true">${doc_helper.t('DOC_CR_TH_SPRITES_DONE')}</th>
                 </tr>
             </thead>
             <tbody>
@@ -69,7 +61,7 @@
                     <tal:cargo define="name item[0]; cargo item[1]">
                         <tr>
                             <td>
-                                <a href="cargos.html#${cargo.id}">${doc_helper.get_cargo_name(cargo)}</a>
+                                <a href="${doc_helper.link('cargos')}#${cargo.id}">${doc_helper.get_cargo_name(cargo)}</a>
                             </td>
                             <td>${cargo.cargo_label}</td>
                             <td>
@@ -96,18 +88,18 @@
     <br />
 
     <div id="industries">
-        <h3>Industries (${len(firs.industry_manager)}) <small>Code Reference</small></h3>
-        <p class="pull-right"><a href="http://newgrf-specs.tt-wiki.net/wiki/IndustryDefaultProps">&#187; Reference for NewGRF industry IDs</a></p>
+        <h3>${doc_helper.t('DOC_CR_INDUSTRIES_TITLE', count=len(firs.industry_manager))} <small>${doc_helper.t('DOC_CR_SMALL_LABEL')}</small></h3>
+        <p class="pull-right"><a href="http://newgrf-specs.tt-wiki.net/wiki/IndustryDefaultProps">&#187; ${doc_helper.t('DOC_CR_INDUSTRY_ID_LINK')}</a></p>
         <table class="table table-striped tablesorter firs-table">
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th nowrap="true" class="number">ID <span class="muted">(decimal)</span></th>
-                    <th nowrap="true" class="number">Available From</th>
-                    <th nowrap="true" class="number">Map Colour</th>
-                    <th nowrap="true">Station Name</th>
-                    <th nowrap="true">Sprites Done?</th>
-                    <th nowrap="true">Animated Tiles Fixed?</th>
+                    <th>${doc_helper.t('DOC_CR_TH_NAME')}</th>
+                    <th nowrap="true" class="number">${doc_helper.t('DOC_CR_TH_ID')} <span class="muted">${doc_helper.t('DOC_CR_TH_DECIMAL')}</span></th>
+                    <th nowrap="true" class="number">${doc_helper.t('DOC_CR_TH_AVAILABLE_FROM')}</th>
+                    <th nowrap="true" class="number">${doc_helper.t('DOC_CR_TH_MAP_COLOUR')}</th>
+                    <th nowrap="true">${doc_helper.t('DOC_CR_TH_STATION_NAME')}</th>
+                    <th nowrap="true">${doc_helper.t('DOC_CR_TH_SPRITES_DONE')}</th>
+                    <th nowrap="true">${doc_helper.t('DOC_CR_TH_ANIMATED_TILES')}</th>
                 </tr>
             </thead>
             <tbody>
@@ -115,7 +107,7 @@
                     <tal:industry define="name item[0]; industry item[1]">
                         <tr>
                             <td>
-                                <a href="industries.html#${industry.id}">${' / '.join(doc_helper.get_industry_all_names(industry))}</a>
+                                <a href="${doc_helper.link('industries')}#${industry.id}">${' / '.join(doc_helper.get_industry_all_names(industry))}</a>
                             </td>
                             <td class="number">${global_constants.industry_numeric_ids[industry.id]}</td>
                             <td class="number">
@@ -144,12 +136,12 @@
     <br />
 
     <div id="incompatible-grfs">
-        <h3>Incompatible NewGRFs (${len(incompatible_grfs)}) <small>Code Reference</small></h3>
+        <h3>${doc_helper.t('DOC_CR_INCOMPATIBLE_TITLE', count=len(incompatible_grfs))} <small>${doc_helper.t('DOC_CR_SMALL_LABEL')}</small></h3>
         <table class="table table-striped tablesorter firs-table">
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>GRFID</th>
+                    <th>${doc_helper.t('DOC_CR_TH_NAME')}</th>
+                    <th>${doc_helper.t('DOC_CR_TH_GRFID')}</th>
                 </tr>
             </thead>
             <tbody>
