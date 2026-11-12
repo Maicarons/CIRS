@@ -2,6 +2,10 @@
 
 [English](README.md) | **简体中文**
 
+[![CI](https://github.com/Maicarons/CIRS/actions/workflows/ci.yml/badge.svg)](https://github.com/Maicarons/CIRS/actions/workflows/ci.yml)
+[![文档](https://github.com/Maicarons/CIRS/actions/workflows/pages.yml/badge.svg)](https://maicarons.github.io/CIRS/)
+[![许可证: GPL v2](https://img.shields.io/badge/license-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+
 CIRS 是 OpenTTD 产业 NewGRF [FIRS（Industry Replacement Set）](https://github.com/andythenorth/firs) 的社区维护分支。它保留了玩家熟悉的产业、货物与经济模式，同时重新开放社区支持和社区翻译。
 
 上游 FIRS 项目已不再接受建议和翻译贡献。CIRS 的目标就是改变这一点：问题反馈、平衡建议、新图形和翻译都欢迎提交到本仓库。

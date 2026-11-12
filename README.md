@@ -2,6 +2,10 @@
 
 **English** | [简体中文](README_zh.md)
 
+[![CI](https://github.com/Maicarons/CIRS/actions/workflows/ci.yml/badge.svg)](https://github.com/Maicarons/CIRS/actions/workflows/ci.yml)
+[![Docs](https://github.com/Maicarons/CIRS/actions/workflows/pages.yml/badge.svg)](https://maicarons.github.io/CIRS/)
+[![License: GPL v2](https://img.shields.io/badge/license-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+
 CIRS is a community-maintained fork of [FIRS (Industry Replacement Set)](https://github.com/andythenorth/firs) for OpenTTD. It keeps the industries, cargos and economies that players know, while reopening the project to community support and community translations.
 
 The upstream FIRS project no longer accepts suggestions or translation contributions. CIRS exists to change that: bug reports, balance suggestions, new graphics and translations are welcome here.
