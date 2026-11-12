@@ -44,7 +44,7 @@
                         fontsize=32
                         label=<
                             <table border="0" cellborder="1" cellspacing="0" cellpadding="0" COLOR="azure3" BGCOLOR="white">
-                                <tr><td><IMG SRC="${doc_helper.asset('img/industries/' + industry.id + '.png')}" /></td></tr>
+                                <tr><td><IMG SRC="industries/${industry.id}.png" /></td></tr>
                                 <!--! nested table for text offers more control + better appearance -->
                                 <tr><td><table BGCOLOR="ghostwhite" border="0" cellborder="0" cellspacing="5" cellpadding="0">
                                     <tr><td>${doc_helper.get_industry_name(industry, economy)}</td></tr>
