@@ -140,7 +140,9 @@ def render_home(helper):
         "  text: %s" % yaml_str(t("DOC_SUBTITLE")),
         "  tagline: %s" % yaml_str(t("DOC_HOME_TAGLINE")),
         "  image:",
-        "    src: %s" % yaml_str(helper.asset_href("img/industries/integrated_steel_mill.png")),
+        # VitePress prepends the deployment base to the hero image itself, so this
+        # must stay a route without the base (unlike object data or inline CSS)
+        "    src: %s" % yaml_str(helper.asset("img/industries/integrated_steel_mill.png")),
         '    alt: "CIRS"',
         "  actions:",
         "    - theme: brand",
