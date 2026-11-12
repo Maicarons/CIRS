@@ -16,7 +16,7 @@ MK_ARCHIVE = bin/mk-archive
 PROJECT_NAME = cirs
 
 NML_LANG_DIR = generated/lang
-NML_FILE = generated/firs.nml
+NML_FILE = generated/cirs.nml
 NML_FLAGS =-c -l $(NML_LANG_DIR) --verbosity=4 --no-optimisation-warning --list-unused-strings
 GS_DIR = generated/gs
 
@@ -27,7 +27,8 @@ ifeq ($(strip $(EXPORTED)),no)
   # Not exported source, therefore regular checkout
   REPO_INFO = $(shell $(GIT_INFO))
   REPO_REVISION = $(word 1,$(REPO_INFO))
-  REPO_VERSION = $(word 2,$(REPO_INFO))
+  # release tags follow the FIRS version numbers with a cirs prefix, e.g. cirs-5.2.0
+  REPO_VERSION = $(patsubst cirs-%,%,$(word 2,$(REPO_INFO)))
 else
   # Exported version, lines below should get modified in 'bundle_src' target
   REPO_REVISION = ${exported_revision}
@@ -42,7 +43,7 @@ TAR_FILE = $(PROJECT_VERSIONED_NAME).tar
 ZIP_FILE = $(PROJECT_VERSIONED_NAME).zip
 MD5_FILE = $(PROJECT_NAME).check.md5
 
-HTML_DOCS = docs
+TEXT_DOCS = docs
 
 SOURCE_NAME = $(PROJECT_VERSIONED_NAME)-source
 BUNDLE_DIR = bundle_dir
@@ -52,8 +53,8 @@ GVPR ?= $(shell which gvpr)
 DOT  ?= $(shell which dot)
 
 # Build rules
-.PHONY: default graphics lang nml grf tar bundle_tar bundle_zip bundle_src clean
-default: html_docs grf gs
+.PHONY: default graphics lang nml grf tar bundle_tar bundle_zip bundle_src clean site text_docs
+default: grf gs
 # bundle needs to clean first to ensure we don't use outdated/cached version info
 bundle_tar: clean tar
 bundle_zip: $(ZIP_FILE)
@@ -63,7 +64,7 @@ lang: $(NML_LANG_DIR)
 nml: $(NML_FILE)
 grf: $(GRF_FILE)
 tar: $(TAR_FILE)
-html_docs: $(HTML_DOCS)
+text_docs: $(TEXT_DOCS)
 gs: $(GS_DIR)
 
 # remove the @ for more verbose output (@ suppresses command output)
@@ -72,26 +73,23 @@ _V ?= @
 $(NML_LANG_DIR): $(shell $(FIND_FILES) --ext=.py --ext=.pynml --ext=.pylng --ext=.toml src)
 	$(_V) $(PYTHON3) src/render_lang.py $(ARGS) "grf"
 
-$(HTML_DOCS): $(shell $(FIND_FILES) --ext=.py --ext=.pynml --ext=.pt --ext=.lng --ext=.toml src)
+$(TEXT_DOCS): $(shell $(FIND_FILES) --ext=.py --ext=.pynml --ext=.pt --ext=.toml src)
 	$(_V) $(PYTHON3) src/render_docs.py $(ARGS)
-# Insane trick to check whether both DOT and GVPR are not empty.
-ifeq ($(DOT)$(GVPR),$(GVPR)$(DOT))
-	echo "[HTML DOCS] graphviz not found, skipping cargo flow graphs"
-else
-	mkdir docs/html/static/img/cargoflow
-	$(GVPR) 'BEG_G { fname = sprintf("docs/html/%s.dot", $$G.name); writeG($$G, fname) }' docs/cargoflow.dotall
-	cd docs/html; $(DOT) -Tsvg -O *.dot
-endif
+
+# the VitePress site is generated from the same game data as the grf
+site:
+	$(_V) $(PYTHON3) src/render_site.py $(ARGS)
+	cd docs-site && npm ci && npm run build
 
 $(NML_FILE): $(shell $(FIND_FILES) --ext=.py --ext=.pynml src)
 	$(_V) $(PYTHON3) src/render_nml.py $(ARGS)
 	# this is a temporary hack to call render_graphics which is only used for book-keeping as of Oct 2022
 	$(_V) $(PYTHON3) src/render_graphics.py $(ARGS)
 
-$(GRF_FILE): $(shell $(FIND_FILES) --ext=.py --ext=.png src) $(NML_LANG_DIR) $(NML_FILE) $(HTML_DOCS)
+$(GRF_FILE): $(shell $(FIND_FILES) --ext=.py --ext=.png src) $(NML_LANG_DIR) $(NML_FILE) $(TEXT_DOCS)
 	$(NMLC) $(NML_FLAGS) --grf=$(GRF_FILE) $(NML_FILE)
 
-$(TAR_FILE): $(GRF_FILE) $(HTML_DOCS)
+$(TAR_FILE): $(GRF_FILE) $(TEXT_DOCS)
 # the goal here is a sparse tar for distribution
 	# create an intermediate dir, and copy in what we need
 	mkdir $(PROJECT_VERSIONED_NAME)
@@ -144,6 +142,7 @@ install_gs: $(GS_DIR)
 clean:
 	$(_V) echo "[CLEANING]"
 	$(_V) for f in .chameleon_cache .nmlcache src/__pycache__ src/*/__pycache__ docs generated \
+	docs-site/src docs-site/.vitepress/dist docs-site/.vitepress/cache \
 	$(GRF_FILE) $(TAR_FILE) $(ZIP_FILE) $(MD5_FILE) $(BUNDLE_DIR) $(SOURCE_NAME).tar;\
 	do if test -e $$f;\
 	   then rm -r $$f;\

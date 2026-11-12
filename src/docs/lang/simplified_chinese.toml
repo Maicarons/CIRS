@@ -178,3 +178,15 @@ DOC_TRANS_HOW_P3 = "翻译通过 GitHub 拉取请求提交。详情请参阅仓�
 DOC_TRANS_HISTORY = "历史"
 DOC_TRANS_HISTORY_P1 = "FIRS 3.x 和 4.x 以 .lng 文件形式提供翻译，由 #openttdcoop Web Translator 管理。FIRS 5 放弃了翻译。CIRS 通过更简单、可审阅的 TOML 工作流恢复了社区翻译。"
 DOC_TRANS_THANKS = "感谢多年来所有为 FIRS 翻译的人；你们的工作是此处中文翻译的基础。"
+
+# 首页与站点补充文本
+DOC_HOME_TAGLINE = "面向 OpenTTD 的 FIRS 社区分支，开放翻译、开放支持。"
+DOC_HOME_WHY_TITLE = "为什么选择 CIRS？"
+DOC_HOME_WHY_1_TITLE = "开放的社区支持"
+DOC_HOME_WHY_1_DESC = "问题反馈和拉取请求都会在本仓库中被审查与合并。"
+DOC_HOME_WHY_2_TITLE = "开放的翻译"
+DOC_HOME_WHY_2_DESC = "游戏文本与网站文本都通过普通 TOML 文件翻译，并像代码一样接受审查。"
+DOC_HOME_WHY_3_TITLE = "跟进上游"
+DOC_HOME_WHY_3_DESC = "保留完整的 FIRS git 历史，未来的上游改动可以合并进来，而不是分叉后越走越远。"
+DOC_HOME_EXPLORE_TITLE = "浏览内容"
+DOC_CHANGELOG_EN_ONLY = "更新日志仅以英文维护。"

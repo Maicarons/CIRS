@@ -178,3 +178,15 @@ DOC_TRANS_HOW_P3 = "Translations are accepted through GitHub pull requests. See 
 DOC_TRANS_HISTORY = "History"
 DOC_TRANS_HISTORY_P1 = "FIRS 3.x and 4.x shipped translations as .lng files managed with the #openttdcoop Web Translator. FIRS 5 dropped translations. CIRS restores community translation with a simpler, reviewable TOML workflow."
 DOC_TRANS_THANKS = "Thanks to everyone who translated FIRS over the years; your work is the foundation of the Chinese translation included here."
+
+# home page and site-wide extras
+DOC_HOME_TAGLINE = "A community fork of FIRS for OpenTTD, with open translations and open support."
+DOC_HOME_WHY_TITLE = "Why CIRS?"
+DOC_HOME_WHY_1_TITLE = "Open community support"
+DOC_HOME_WHY_1_DESC = "Issues and pull requests are reviewed and merged in this repository."
+DOC_HOME_WHY_2_TITLE = "Open translations"
+DOC_HOME_WHY_2_DESC = "Game text and website text are translated through plain TOML files, reviewed like code."
+DOC_HOME_WHY_3_TITLE = "Upstream tracking"
+DOC_HOME_WHY_3_DESC = "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away."
+DOC_HOME_EXPLORE_TITLE = "Explore the set"
+DOC_CHANGELOG_EN_ONLY = "The changelog is maintained in English only."

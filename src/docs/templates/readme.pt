@@ -34,13 +34,8 @@ Some assets which are optional for producing the grf use free software licenses 
 
 Copying, redistribution or modification of these assets must be compliant with their respective licenses.
 
-Bootstrap is used to produce HTML documentation and is licensed under the MIT License.
-    https://github.com/twbs/bootstrap/blob/master/LICENSE
-GPL-compatibility notes for HTML templates:
+VitePress is used to produce the HTML documentation and is licensed under the MIT License.
+    https://github.com/vuejs/vitepress/blob/main/LICENSE
+GPL-compatibility notes for documentation tooling:
     https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.en.html#WMS
-
-Silkscreen font is used for documentation, and is distributed under the Open Font License.
-    http://www.kottke.org/plus/type/silkscreen/
-GPL-compatibility notes for fonts:
-    https://www.fsf.org/blogs/licensing/20050425novalis
 

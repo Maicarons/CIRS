@@ -43,24 +43,40 @@ Requirements:
 - Python 3.11+
 - NML 0.7.5+ (`nmlc`)
 - Chameleon, Pillow and Markdown (see `requirements.txt`)
+- Node.js 20+ (VitePress documentation site)
 - GNU Make
 - Graphviz (optional, only for cargo flow charts)
 
 ```bash
 python -m pip install -r requirements.txt
-make            # builds docs, generated/cirs.grf and generated/gs
+make            # builds generated/cirs.grf and generated/gs
 make grf        # only the NewGRF
 make gs         # only the GameScript
-make html_docs  # only the documentation website
+make text_docs  # only the readme/license/changelog text files
+make site       # generate Markdown and build the VitePress docs site
 ```
 
 On Windows, run the same Python scripts directly if `make` is unavailable:
 
 ```powershell
 python src/render_docs.py dummy dummy
+python src/render_site.py dummy dummy
 python src/render_nml.py dummy dummy
-nmlc -c -l generated/lang --grf=generated/cirs.grf generated/firs.nml
+nmlc -c -l generated/lang --grf=generated/cirs.grf generated/cirs.nml
+cd docs-site; npm install; npm run dev
 ```
+
+## Documentation site
+
+The website is a VitePress project in `docs-site/`. Page content is generated from the same game data as the NewGRF by `src/render_site.py`, so cargos, industries and economies never drift between the game and the docs.
+
+```bash
+make site                 # generate docs-site/src and build the static site
+cd docs-site
+npm run dev               # local preview at http://localhost:5173/CIRS/
+```
+
+English lives at `/`, Chinese at `/zh/`. Both locales share one template set and are translated through the TOML files below.
 
 ## Translations
 
@@ -89,7 +105,8 @@ git merge upstream/main
 ```
 src/grf/            NewGRF source (industries, cargos, economies, lang)
 src/gs/             GameScript source
-src/docs/           Documentation website source and website translations
+src/docs/           Documentation generator, templates data and website translations
+docs-site/          VitePress project (config, theme, generated pages)
 src/render_*.py     Build entry points
 tools/              Translation checks and upstream sync helpers
 .github/workflows/  CI, release and GitHub Pages deployment
@@ -97,8 +114,8 @@ tools/              Translation checks and upstream sync helpers
 
 ## CI and releases
 
-- Every push and pull request builds the NewGRF, the GameScript and the docs, and runs translation checks.
-- Pushing a tag such as `v5.0.0` creates a GitHub release with `cirs.grf` and the GameScript archive.
+- Every push and pull request builds the NewGRF, the GameScript and the docs site, and runs translation checks.
+- Release tags carry the FIRS version number, prefixed with `cirs-` (for example `cirs-5.2.0`), so it is obvious which upstream release a build corresponds to. Pushing such a tag creates a GitHub release with `cirs.grf`, the GameScript archive and the built documentation.
 - The docs website is deployed to GitHub Pages.
 
 ## Credits

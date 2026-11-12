@@ -1,0 +1,209 @@
+/* CIRS documentation theme: brand colours and layout helpers for generated pages */
+
+:root {
+  --vp-c-brand-1: #1f6f43;
+  --vp-c-brand-2: #2a8a56;
+  --vp-c-brand-3: #35a066;
+  --vp-c-brand-soft: rgba(31, 111, 67, 0.14);
+  --vp-c-bg-soft: #f6f7f4;
+  --cirs-card-border: rgba(31, 111, 67, 0.18);
+}
+
+.dark {
+  --vp-c-brand-1: #5cc98c;
+  --vp-c-brand-2: #4bb47c;
+  --vp-c-brand-3: #3c9c69;
+  --vp-c-brand-soft: rgba(92, 201, 140, 0.16);
+  --vp-c-bg-soft: #1b1f1d;
+  --cirs-card-border: rgba(92, 201, 140, 0.2);
+}
+
+/* hero: keep the pixel art crisp and reasonably small */
+.VPHomeHero .image-src {
+  image-rendering: pixelated;
+  max-width: 280px;
+  max-height: 280px;
+}
+
+/* headline numbers on the landing page */
+.cirs-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 16px;
+  margin: 32px 0;
+}
+
+.cirs-stat {
+  text-align: center;
+  padding: 20px 12px;
+  border: 1px solid var(--cirs-card-border);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+}
+
+.cirs-stat strong {
+  display: block;
+  font-size: 30px;
+  line-height: 1.1;
+  color: var(--vp-c-brand-1);
+}
+
+.cirs-stat span {
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+}
+
+/* feature cards used by the "why CIRS" section */
+.cirs-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.cirs-card {
+  border: 1px solid var(--cirs-card-border);
+  border-radius: 12px;
+  padding: 18px;
+  background: var(--vp-c-bg-soft);
+}
+
+.cirs-card h3 {
+  margin: 0 0 8px;
+  font-size: 16px;
+}
+
+.cirs-card p {
+  margin: 0;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+}
+
+/* bullet list of headline features on the guide page */
+.cirs-checks {
+  list-style: none;
+  padding: 0;
+  margin: 24px 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 10px 20px;
+}
+
+.cirs-checks li {
+  position: relative;
+  padding-left: 24px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.cirs-checks li::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 7px;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background: var(--vp-c-brand-1);
+}
+
+/* collapsible index of cargos / industries, replacing the old dropdowns */
+.cirs-jump {
+  border: 1px solid var(--cirs-card-border);
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin: 20px 0;
+  background: var(--vp-c-bg-soft);
+}
+
+.cirs-jump summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.cirs-jump p {
+  margin: 10px 0 0;
+  font-size: 14px;
+  line-height: 2;
+}
+
+.cirs-jump a {
+  white-space: nowrap;
+}
+
+/* data tables */
+.cirs-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0 28px;
+  font-size: 14px;
+}
+
+.cirs-table th,
+.cirs-table td {
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.cirs-table th {
+  background: var(--vp-c-bg-soft);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.cirs-table tr:hover td {
+  background: var(--vp-c-brand-soft);
+}
+
+/* industry sprites */
+.cirs-industry-image {
+  image-rendering: pixelated;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  background: #0a0f0c;
+  padding: 6px;
+}
+
+/* cargo flow graph embedded on economy pages */
+.cirs-cargoflow {
+  overflow: auto;
+  border: 1px solid var(--cirs-card-border);
+  border-radius: 10px;
+  padding: 12px;
+  margin: 16px 0;
+  background: #ffffff;
+}
+
+.cirs-cargoflow object {
+  width: 100%;
+  min-height: 420px;
+}
+
+.cirs-cargoflow-links {
+  font-size: 14px;
+  margin: 8px 0 24px;
+  color: var(--vp-c-text-2);
+}
+
+/* map colour swatch in the code reference table */
+.cirs-colour {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  border: 1px solid var(--vp-c-divider);
+  vertical-align: -2px;
+  margin-right: 6px;
+}
+
+@media (max-width: 640px) {
+  .cirs-table {
+    display: block;
+    overflow-x: auto;
+  }
+}

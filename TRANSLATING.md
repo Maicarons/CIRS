@@ -34,17 +34,17 @@ Rules:
 | `src/docs/lang/english.toml` | English website strings (navigation, headings, notes) |
 | `src/docs/lang/simplified_chinese.toml` | Simplified Chinese website strings |
 | `src/docs/extra_strings.toml` | English docs-only descriptions and TTD industry names |
-| `src/docs/extra_strings_zh_CN.toml` | Simplified Chinese docs-only descriptions |
+| `src/docs/extra_strings_zh.toml` | Simplified Chinese docs-only descriptions |
 
-The website is rendered once per language. English pages keep their existing names; other languages get a suffix (`get_started_zh_CN.html`). Cargo flow SVG charts are generated once in English and shared by every language.
+The website is a VitePress project in `docs-site/`. Page Markdown is generated from the game data and the TOML files above, then VitePress renders it. English is served from `/`, Chinese from `/zh/`; both locales share one page generator, so a new page only has to be added once in `src/render_site.py`. Cargo flow SVG charts are generated once in English and shared by every language.
 
 ### Adding a new language
 
 1. Copy `src/grf/lang/english.toml` to `<language>.toml`, translate the values, and set the correct `grflangid` from the OpenTTD language table.
 2. Do the same for `src/gs/lang/`.
-3. Copy `src/docs/lang/english.toml` to `<language>.toml` and `src/docs/extra_strings.toml` to `extra_strings_<suffix>.toml`.
-4. Add an entry to `SITE_LANGS` in `src/render_docs.py` with a unique `suffix`, `code`, and `display` key.
-5. Run `python tools/check_translations.py` and `make html_docs`, then open a pull request.
+3. Copy `src/docs/lang/english.toml` to `<language>.toml` and `src/docs/extra_strings.toml` to `extra_strings_<code>.toml`.
+4. Add an entry to `SITE_LANGS` in `src/render_site.py` with a unique `code` (for example `zh`), output `dir`, and `display` key, then add the matching locale to `docs-site/.vitepress/config.mts`.
+5. Run `python tools/check_translations.py` and `make site`, then open a pull request.
 
 You do not need to translate everything perfectly in the first pull request; partial work is welcome, but the automated check requires key and placeholder parity, so use the English text as a temporary value for strings you have not translated yet.
 
@@ -80,16 +80,16 @@ You do not need to translate everything perfectly in the first pull request; par
 | `src/docs/lang/english.toml` | 英文网页文本（导航、标题、说明） |
 | `src/docs/lang/simplified_chinese.toml` | 简体中文网页文本 |
 | `src/docs/extra_strings.toml` | 英文文档专用描述与 TTD 产业名 |
-| `src/docs/extra_strings_zh_CN.toml` | 简体中文文档专用描述 |
+| `src/docs/extra_strings_zh.toml` | 简体中文文档专用描述 |
 
-网站会按语言各渲染一次。英文页面保持原文件名，其他语言加后缀（如 `get_started_zh_CN.html`）。货物流向图 SVG 只生成一份英文版本，由所有语言共用。
+网站是 `docs-site/` 下的 VitePress 项目。页面 Markdown 由上面的 TOML 与游戏数据生成，再交给 VitePress 渲染。英文位于 `/`，中文位于 `/zh/`；两种语言共用同一套页面生成器，因此新增页面只需在 `src/render_site.py` 中写一次。货物流向图 SVG 只生成一份英文版本，由所有语言共用。
 
 ### 新增一种语言
 
 1. 复制 `src/grf/lang/english.toml` 为 `<language>.toml`，翻译所有值，并按 OpenTTD 语言表填写正确的 `grflangid`。
 2. 对 `src/gs/lang/` 做同样处理。
-3. 复制 `src/docs/lang/english.toml` 为 `<language>.toml`，复制 `src/docs/extra_strings.toml` 为 `extra_strings_<suffix>.toml`。
-4. 在 `src/render_docs.py` 的 `SITE_LANGS` 中增加一项，填写唯一的 `suffix`、`code` 和 `display` 键。
-5. 运行 `python tools/check_translations.py` 和 `make html_docs`，然后提交 pull request。
+3. 复制 `src/docs/lang/english.toml` 为 `<language>.toml`，复制 `src/docs/extra_strings.toml` 为 `extra_strings_<code>.toml`。
+4. 在 `src/render_site.py` 的 `SITE_LANGS` 中增加一项，填写唯一的 `code`（例如 `zh`）、输出目录 `dir` 与 `display` 键，并在 `docs-site/.vitepress/config.mts` 中添加对应的 locale。
+5. 运行 `python tools/check_translations.py` 和 `make site`，然后提交 pull request。
 
 不要求第一次就翻译完美；欢迎分阶段提交。但自动校验要求键和占位符完全对齐，尚未翻译的条目可以先临时保留英文。

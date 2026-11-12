@@ -1,149 +1,38 @@
-import tomllib
+"""Render the plain text documents shipped with the NewGRF and GameScript.
+
+The HTML documentation has moved to the VitePress site (see src/render_site.py);
+this module only produces the readme, license and changelog text files that are
+bundled in release archives and installed alongside the grf.
+"""
+
+import os
 import shutil
 import sys
-import os
 
 currentdir = os.curdir
 from time import time
 
-import markdown
-from PIL import Image
-
-import utils as utils
-import global_constants as global_constants
-from polar_fox import git_info
 import firs
-from grf.incompatible_grfs import incompatible_grfs
-from docs.doc_helper import DocHelper
+import utils
+from polar_fox import git_info
+from chameleon import PageTemplateLoader
 
 docs_src = os.path.join(currentdir, "src", "docs")
 docs_output_path = os.path.join(currentdir, "docs")
-if os.path.exists(docs_output_path):
-    shutil.rmtree(docs_output_path)
-os.mkdir(docs_output_path)
-os.mkdir(os.path.join(docs_output_path, "html"))
 
-shutil.copy(os.path.join(docs_src, "index.html"), docs_output_path)
-
-static_dir_src = os.path.join(docs_src, "static")
-static_dir_dst = os.path.join(docs_output_path, "html", "static")
-shutil.copytree(static_dir_src, static_dir_dst)
-shutil.copy(os.path.join(docs_src, "index.html"), docs_output_path)
-# we'll be processing some extra images and saving them into the img dir
-images_dir_dst = os.path.join(static_dir_dst, "img")
-
-from chameleon import PageTemplateLoader  # chameleon used in most template cases
-
-# setup the places we look for templates
 docs_templates = PageTemplateLoader(os.path.join(docs_src, "templates"), format="text")
-
-# get args passed by makefile
-makefile_args = utils.get_makefile_args(sys)
-
-metadata = {}
-metadata.update(global_constants.metadata)
-
-# site languages rendered for the HTML docs; the first entry is the default language
-SITE_LANGS = [
-    {
-        "id": "english",
-        "code": "en",
-        "suffix": "",
-        "extra_strings": "extra_strings.toml",
-        "display": "DOC_TRANS_LANG_EN",
-    },
-    {
-        "id": "simplified_chinese",
-        "code": "zh-CN",
-        "suffix": "_zh_CN",
-        "extra_strings": "extra_strings_zh_CN.toml",
-        "display": "DOC_TRANS_LANG_ZH",
-    },
-]
+root_templates = PageTemplateLoader(currentdir, format="text")
 
 
-def load_site_strings(site_lang_id):
-    # load the website-only strings for a language (nav, headings, notes)
+def write_doc(doc_name, content):
+    """Write one text document into the docs output directory."""
     with open(
-        os.path.join(docs_src, "lang", site_lang_id + ".toml"), "rb"
+        os.path.join(docs_output_path, doc_name + ".txt"),
+        "w",
+        encoding="utf-8",
+        newline="",
     ) as fp:
-        return tomllib.load(fp)
-
-
-def build_doc_helper(site_lang):
-    # combine game strings (cargo/industry/economy names) with docs-only strings for one site language
-    lang_strings = utils.get_lang_data("grf", site_lang["id"])["lang_strings"]
-    with open(os.path.join(docs_src, site_lang["extra_strings"]), "rb") as fp:
-        extra_strings_source = tomllib.load(fp)
-    for node_name, node_value in extra_strings_source.items():
-        lang_strings[node_name] = node_value["base"]
-    return DocHelper(
-        lang_strings=lang_strings,
-        site_strings=load_site_strings(site_lang["id"]),
-        site_lang_code=site_lang["code"],
-        lang_suffix=site_lang["suffix"],
-        site_langs=SITE_LANGS,
-    )
-
-
-def render_docs(
-    doc_list,
-    file_type,
-    doc_helper,
-    use_markdown=False,
-    source_is_repo_root=False,
-    file_suffix="",
-):
-    if source_is_repo_root:
-        templates = PageTemplateLoader(os.path.join(currentdir), format="text")
-    else:
-        templates = docs_templates
-
-    for doc_name in doc_list:
-        template = templates[
-            doc_name + (".md" if use_markdown else ".pt")
-        ]  # .pt is the conventional extension for chameleon page templates
-        doc = template(
-            firs=firs,
-            incompatible_grfs=incompatible_grfs,
-            global_constants=global_constants,
-            makefile_args=makefile_args,
-            git_info=git_info,
-            metadata=metadata,
-            utils=utils,
-            doc_helper=doc_helper,
-            doc_name=doc_name,
-        )
-        if use_markdown and file_type == "html":
-            # if the source is markdown, we need to render markdown to html, and wrap the result in some boilerplate html
-            markdown_wrapper = docs_templates["markdown_wrapper.pt"]
-            doc = markdown_wrapper(
-                content=markdown.markdown(doc),
-                global_constants=global_constants,
-                makefile_args=makefile_args,
-                git_info=git_info,
-                metadata=metadata,
-                utils=utils,
-                doc_helper=doc_helper,
-                doc_name=doc_name,
-            )
-        if file_type == "html":
-            subdir = "html"
-        elif file_type == "css":
-            subdir = os.path.join("html", "static", "css")
-        else:
-            subdir = ""
-        # save the results of templating
-        doc_file = open(
-            os.path.join(
-                docs_output_path, subdir, doc_name + file_suffix + "." + file_type
-            ),
-            "w",
-            encoding="utf-8",
-            newline="",
-        )
-        doc_file.write(doc)
-        doc_file.close()
+        fp.write(content)
 
 
 def main():
@@ -152,90 +41,21 @@ def main():
 
     firs.main()
 
-    doc_helpers = {}
-    for site_lang in SITE_LANGS:
-        doc_helpers[site_lang["id"]] = build_doc_helper(site_lang)
-    # English is the reference language for shared artefacts (graphs, changelog, readme)
-    default_doc_helper = doc_helpers[SITE_LANGS[0]["id"]]
+    if os.path.exists(docs_output_path):
+        shutil.rmtree(docs_output_path)
+    os.mkdir(docs_output_path)
 
-    # copy the cargo icons to an oversized image so they're legible
-    cargo_icons_src = os.path.join(currentdir, "src", "graphics", "cargoicons.png")
-    cargo_icons_spritesheet = Image.open(os.path.join(cargo_icons_src))
-    processed_cargo_icons_spritesheet = cargo_icons_spritesheet.resize(
-        (2 * cargo_icons_spritesheet.size[0], 2 * cargo_icons_spritesheet.size[1]),
-        resample=Image.Resampling.NEAREST,
-    )
-    output_path = os.path.join(images_dir_dst, "cargoicons.png")
-    processed_cargo_icons_spritesheet.save(output_path, optimize=True, transparency=0)
+    # readme is shared by the grf and the game script, and is translated as part of the site
+    write_doc("readme", docs_templates["readme.pt"](git_info=git_info, utils=utils))
+    write_doc("license", root_templates["license.pt"](git_info=git_info))
 
-    # render standard docs from a list
-    html_docs = [
-        "get_started",
-        "code_reference",
-        "economies",
-        "cargos",
-        "industries",
-        "translations",
-    ]
-    txt_docs = ["readme"]
-    license_docs = ["license"]
-    markdown_docs = ["changelog"]
-    graph_docs = ["cargoflow"]
-    stylesheets = ["cargoflow_styles"]
+    with open(
+        os.path.join(currentdir, "changelog.md"), "r", encoding="utf-8"
+    ) as fp:
+        changelog_source = fp.read()
+    write_doc("changelog", changelog_source)
 
-    # render the HTML docs once per site language, using a filename suffix for non-default languages
-    for site_lang in SITE_LANGS:
-        render_docs(
-            html_docs,
-            "html",
-            doc_helpers[site_lang["id"]],
-            file_suffix=site_lang["suffix"],
-        )
-    render_docs(txt_docs, "txt", default_doc_helper)
-    render_docs(
-        license_docs,
-        "txt",
-        default_doc_helper,
-        source_is_repo_root=True,
-    )
-    # just render the markdown docs twice to get txt and html versions, simples no?
-    render_docs(
-        markdown_docs,
-        "txt",
-        default_doc_helper,
-        use_markdown=True,
-        source_is_repo_root=True,
-    )
-    render_docs(
-        markdown_docs,
-        "html",
-        default_doc_helper,
-        use_markdown=True,
-        source_is_repo_root=True,
-    )
-    render_docs(graph_docs, "dotall", default_doc_helper)
-    render_docs(stylesheets, "css", default_doc_helper)
-
-    # cargoflow wrappers are just different enough to not fit generic render_docs() case without making it painfully convoluted
-    # the SVG graphs themselves are generated once in English and shared by every language
-    for economy in firs.economy_manager:
-        template = docs_templates["cargoflow_wrapper.pt"]
-        result = template(economy=economy, doc_helper=default_doc_helper)
-        doc_name = "cargoflow_" + default_doc_helper.get_economy_name_char_safe(economy)
-        doc_file = open(
-            os.path.join(docs_output_path, "html", doc_name + ".html"),
-            "w",
-            encoding="utf-8",
-            newline="",
-        )
-        doc_file.write(result)
-        doc_file.close()
-
-    print(
-        "[RENDER DOCS]",
-        "- complete",
-        format((time() - start), ".2f") + "s",
-    )
+    print("[RENDER DOCS]", "- complete", format((time() - start), ".2f") + "s")
 
 
 if __name__ == "__main__":

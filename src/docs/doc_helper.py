@@ -14,13 +14,20 @@ class DocHelper(object):
         lang_strings,
         site_strings=None,
         site_lang_code="en",
-        lang_suffix="",
+        site_prefix="/",
+        site_route_prefix="/",
+        site_base="/CIRS/",
         site_langs=None,
     ):
         self.lang_strings = lang_strings
         self.site_strings = site_strings if site_strings is not None else {}
         self.site_lang_code = site_lang_code
-        self.lang_suffix = lang_suffix
+        # route prefix of the current site language, e.g. "/" for English, "/zh/" for Chinese
+        self.site_prefix = site_prefix
+        # route prefix without the deployment base, used by VitePress theme links that get the base applied
+        self.site_route_prefix = site_route_prefix
+        # deployment base path, used for static assets referenced from raw HTML
+        self.site_base = site_base
         self.site_langs = site_langs if site_langs is not None else []
 
     def t(self, key, **kwargs):
@@ -31,35 +38,28 @@ class DocHelper(object):
         return value
 
     def link(self, doc_name):
-        # changelog is only maintained in English and is shared by all languages
-        if doc_name == "changelog":
-            return doc_name + ".html"
-        return doc_name + self.lang_suffix + ".html"
+        # absolute route of a page in the current site language, used for navigation and cross links
+        return self.site_prefix + doc_name + ".html"
+
+    def asset(self, path):
+        # public dir URL; VitePress/Vite prepends the deployment base when it rewrites the tag
+        return "/" + path
+
+    def asset_href(self, path):
+        # absolute URL for places Vite does not rewrite, e.g. object data or inline CSS
+        return self.site_base + path
 
     def alt_lang_link(self, doc_name):
         # link to the same page in the next available site language
         for site_lang in self.site_langs:
-            if site_lang["suffix"] != self.lang_suffix:
-                if doc_name == "changelog":
-                    return doc_name + ".html"
-                return doc_name + site_lang["suffix"] + ".html"
+            if site_lang["prefix"] != self.site_prefix:
+                return site_lang["prefix"] + doc_name + ".html"
         return self.link(doc_name)
-
-    def get_alternate_hreflang_links(self, doc_name):
-        # hreflang alternates for search engines, including the current language
-        result = []
-        for site_lang in self.site_langs:
-            if doc_name == "changelog":
-                href = doc_name + ".html"
-            else:
-                href = doc_name + site_lang["suffix"] + ".html"
-            result.append((site_lang["code"], href))
-        return result
 
     def get_language_links(self):
         # links used on the translations page, one per supported site language
         return [
-            (self.t(site_lang["display"]), "translations" + site_lang["suffix"] + ".html")
+            (self.t(site_lang["display"]), site_lang["prefix"] + "translations.html")
             for site_lang in self.site_langs
         ]
 
@@ -321,6 +321,3 @@ class DocHelper(object):
                     result["by_cargo"][cargo.id] = []
                 result["by_cargo"][cargo.id].append(industry)
         return result
-
-    def get_active_nav(self, doc_name, nav_link):
-        return ("", "active")[doc_name == nav_link]

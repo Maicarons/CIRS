@@ -43,24 +43,40 @@ CIRS 是 OpenTTD 产业 NewGRF [FIRS（Industry Replacement Set）](https://gith
 - Python 3.11+
 - NML 0.7.5+（`nmlc`）
 - Chameleon、Pillow、Markdown（见 `requirements.txt`）
+- Node.js 20+（VitePress 文档站）
 - GNU Make
 - Graphviz（可选，仅用于生成网页中的货物流向图）
 
 ```bash
 python -m pip install -r requirements.txt
-make            # 构建文档、generated/cirs.grf 和 generated/gs
+make            # 构建 generated/cirs.grf 和 generated/gs
 make grf        # 只构建 NewGRF
 make gs         # 只构建 GameScript
-make html_docs  # 只构建文档网站
+make text_docs  # 只生成 readme/license/changelog 文本
+make site       # 生成 Markdown 并构建 VitePress 文档站
 ```
 
 Windows 上没有 `make` 时，可以直接运行 Python 脚本：
 
 ```powershell
 python src/render_docs.py dummy dummy
+python src/render_site.py dummy dummy
 python src/render_nml.py dummy dummy
-nmlc -c -l generated/lang --grf=generated/cirs.grf generated/firs.nml
+nmlc -c -l generated/lang --grf=generated/cirs.grf generated/cirs.nml
+cd docs-site; npm install; npm run dev
 ```
+
+## 文档站
+
+网站是 `docs-site/` 下的 VitePress 项目。页面内容由 `src/render_site.py` 从与 NewGRF 相同的游戏数据生成，因此货物、产业、经济模式不会与游戏内脱节。
+
+```bash
+make site                 # 生成 docs-site/src 并构建静态站点
+cd docs-site
+npm run dev               # 本地预览 http://localhost:5173/CIRS/
+```
+
+英文站点位于 `/`，简体中文位于 `/zh/`。两种语言共用一套模板，通过下文的 TOML 文件翻译。
 
 ## 翻译
 
@@ -89,7 +105,8 @@ git merge upstream/main
 ```
 src/grf/            NewGRF 源码（产业、货物、经济模式、语言）
 src/gs/             GameScript 源码
-src/docs/           文档网站源码与网页翻译
+src/docs/           文档生成器、数据与网页翻译
+docs-site/          VitePress 项目（配置、主题、生成的页面）
 src/render_*.py     构建入口
 tools/              翻译校验与上游同步工具
 .github/workflows/  CI、发布与 GitHub Pages 部署
@@ -97,8 +114,8 @@ tools/              翻译校验与上游同步工具
 
 ## CI 与发布
 
-- 每次 push 和 pull request 都会构建 NewGRF、GameScript 和文档，并运行翻译校验。
-- 推送 `v5.0.0` 这类标签会创建 GitHub Release，附带 `cirs.grf` 和 GameScript 压缩包。
+- 每次 push 和 pull request 都会构建 NewGRF、GameScript 和文档站，并运行翻译校验。
+- 发布标签与 FIRS 的版本号一致，只加 `cirs-` 前缀（例如 `cirs-5.2.0`），便于看出对应哪个上游版本。推送这类标签会创建 GitHub Release，附带 `cirs.grf`、GameScript 压缩包和构建好的文档站。
 - 文档网站部署到 GitHub Pages。
 
 ## 致谢

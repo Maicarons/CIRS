@@ -2,7 +2,8 @@ name: Release
 
 on:
   push:
-    tags: ["v*"]
+    # release tags carry the FIRS version number, prefixed with cirs-, e.g. cirs-5.2.0
+    tags: ["cirs-*"]
   workflow_dispatch:
     inputs:
       tag:
@@ -28,6 +29,13 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: docs-site/package-lock.json
+
       - name: Install system dependencies
         run: |
           sudo apt-get update
@@ -39,13 +47,15 @@ jobs:
       - name: Check translations
         run: python tools/check_translations.py
 
-      - name: Build
-        run: make
+      - name: Build text docs, NewGRF, GameScript and site
+        run: |
+          make grf gs text_docs
+          make site
 
       - name: Package GameScript and docs
         run: |
           tar -czf cirs-gs.tar.gz -C generated/gs .
-          tar -czf cirs-docs.tar.gz -C docs .
+          tar -czf cirs-docs.tar.gz -C docs-site/.vitepress/dist .
 
       - name: Create GitHub release
         uses: softprops/action-gh-release@v2

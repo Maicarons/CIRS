@@ -86,7 +86,7 @@ def main():
     firs.main()
 
     grf_nml = open(
-        os.path.join(firs.generated_files_path, "firs.nml"),
+        os.path.join(firs.generated_files_path, "cirs.nml"),
         "w",
         encoding="utf-8",
         newline="",
