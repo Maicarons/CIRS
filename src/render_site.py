@@ -781,9 +781,9 @@ def copy_static_assets():
 def render_cargoflow(helper):
     """Render the cargo flow graphs as SVG (requires graphviz, skipped if missing)."""
     templates = PageTemplateLoader(os.path.join(docs_src, "templates"), format="text")
-    # graphviz loads IMG files from disk, not from URLs; the template uses paths
-    # relative to the public img directory and dot runs from that directory
-    image_root = os.path.abspath(site_images)
+    # graphviz loads IMG files from disk and copies the path verbatim into the SVG,
+    # so the template uses "../industries/<id>.png": it resolves both on disk and
+    # in the browser, because the SVG is published next to the images in img/
     dotall = templates["cargoflow.pt"](firs=firs, doc_helper=helper)
 
     graph_dir = os.path.abspath(os.path.join(site_images, "cargoflow"))
@@ -810,8 +810,8 @@ def render_cargoflow(helper):
         safe_id = economy_id(helper, economy)
         dot_path = os.path.join(graph_dir, safe_id + ".dot")
         if os.path.exists(dot_path):
-            # run from the public img directory so the relative IMG paths resolve
-            subprocess.run([dot, "-Tsvg", "-O", dot_path], check=True, cwd=image_root)
+            # run from the graph directory so "../industries/<id>.png" resolves on disk
+            subprocess.run([dot, "-Tsvg", "-O", dot_path], check=True, cwd=graph_dir)
 
 
 def main():
