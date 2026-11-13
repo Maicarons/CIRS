@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gasbulk"
 DOC_CC_FLATBED = "Platte wagen"
 DOC_CC_REFRIGERATED = "Gekoeld"
 DOC_CC_WEIRD = "Vreemd"
-DOC_CC_POTABLE = "Drinkbaar"
-DOC_CC_NON_POTABLE = "Niet drinkbaar"
+DOC_CC_POTABLE = "Eetbaar"
+DOC_CC_NON_POTABLE = "Niet eetbaar"
 
 # translations
 DOC_TRANS_TITLE = "Vertalingen"

@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Bathar gas"
 DOC_CC_FLATBED = "Leabaidh chòmhnard"
 DOC_CC_REFRIGERATED = "Fuarach"
 DOC_CC_WEIRD = "Neònach"
-DOC_CC_POTABLE = "Òlta"
-DOC_CC_NON_POTABLE = "Neo-òlta"
+DOC_CC_POTABLE = "Ìre bìdh"
+DOC_CC_NON_POTABLE = "Neo-ìre bìdh"
 
 # translations
 DOC_TRANS_TITLE = "Eadar-theangachaidhean"

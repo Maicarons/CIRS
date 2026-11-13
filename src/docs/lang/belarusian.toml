@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Газападобны насып"
 DOC_CC_FLATBED = "Платформа"
 DOC_CC_REFRIGERATED = "Ахалоджаны"
 DOC_CC_WEIRD = "Незвычайны"
-DOC_CC_POTABLE = "Пітны"
-DOC_CC_NON_POTABLE = "Непітны"
+DOC_CC_POTABLE = "Продовольчага класа"
+DOC_CC_NON_POTABLE = "Непродовольчага класа"
 
 # translations
 DOC_TRANS_TITLE = "Пераклады"

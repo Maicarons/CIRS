@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Kaasuirtolasti"
 DOC_CC_FLATBED = "Lavapankko"
 DOC_CC_REFRIGERATED = "Jäähdytetty"
 DOC_CC_WEIRD = "Outo"
-DOC_CC_POTABLE = "Juotava"
-DOC_CC_NON_POTABLE = "Ei juotava"
+DOC_CC_POTABLE = "Syötävä"
+DOC_CC_NON_POTABLE = "Ei syötävä"
 
 # translations
 DOC_TRANS_TITLE = "Käännökset"

@@ -1,6 +1,6 @@
 # CIRS 全语言翻译完成情况报告
 
-生成时间：2026-11-13 23:29 UTC+08:00
+生成时间：2026-11-14 01:07 UTC+08:00
 
 ## 1. 范围与方法
 
@@ -13,9 +13,9 @@
 ## 2. 总体结果
 
 - 全库可翻译字符串槽位（逐语言逐文件计）：**35401**。
-- 已译为非英文文本：**31733**（89.6%）。
+- 已译为非英文文本：**31738**（89.7%）。
 - 与英文完全相同但属于**合法不译**内容：货物两字母代码 3005、占位符模板 0、专有名词/品牌 216、纯标点 200。
-- 与英文完全相同且属于**疑似未译的普通文本**：**247**。
+- 与英文完全相同且属于**疑似未译的普通文本**：**242**。
 - 缺键：**0**；占位符不匹配：**0**。
 - 翻译工作量：38 种语言共 **19198** 条唯一 (语言, 字符串) 对，覆盖 **20277** 个 TOML 值槽位。
 
@@ -26,7 +26,7 @@
 | afrikaans | 610 | 777 | 118 | 11 | 906 |
 | arabic | 692 | 929 | 115 | 1 | 1045 |
 | belarusian | 432 | 839 | 66 | 1 | 906 |
-| catalan | 597 | 791 | 100 | 15 | 906 |
+| catalan | 597 | 792 | 100 | 14 | 906 |
 | croatian | 440 | 826 | 75 | 5 | 906 |
 | czech | 452 | 815 | 86 | 5 | 906 |
 | danish | 613 | 783 | 107 | 16 | 906 |
@@ -34,9 +34,9 @@
 | esperanto | 633 | 800 | 105 | 1 | 906 |
 | estonian | 615 | 788 | 117 | 1 | 906 |
 | finnish | 443 | 830 | 75 | 1 | 906 |
-| french | 234 | 948 | 79 | 18 | 1045 |
+| french | 234 | 949 | 79 | 17 | 1045 |
 | gaelic | 663 | 777 | 116 | 13 | 906 |
-| galician | 363 | 851 | 50 | 5 | 906 |
+| galician | 363 | 852 | 50 | 4 | 906 |
 | german | 263 | 914 | 118 | 13 | 1045 |
 | hungarian | 433 | 835 | 66 | 5 | 906 |
 | indonesian | 604 | 792 | 102 | 12 | 906 |
@@ -54,8 +54,8 @@
 | serbian | 565 | 804 | 101 | 1 | 906 |
 | simplified_chinese | 429 | 1037 | 8 | 0 | 1045 |
 | slovak | 552 | 791 | 111 | 4 | 906 |
-| spanish | 255 | 923 | 117 | 5 | 1045 |
-| spanish_MX | 439 | 826 | 72 | 8 | 906 |
+| spanish | 255 | 924 | 117 | 4 | 1045 |
+| spanish_MX | 439 | 827 | 72 | 7 | 906 |
 | swedish | 456 | 809 | 86 | 11 | 906 |
 | tamil | 676 | 792 | 113 | 1 | 906 |
 | traditional_chinese | 551 | 822 | 83 | 1 | 906 |
@@ -97,6 +97,7 @@
 | 第三轮润色 | 文字体系污染 4 处（西里尔字母、日文假名混入）修复；繁体中文简体字 14 处转换（保留「简体中文」自名）；7 组短码/长名 extra_strings 双份文件统一 400 处；货物短码对照 FIRS 4.x 人工语料修复 16 处（消除 Chemicals 与 Chlorine 短码撞码）。 |
 | 第四轮润色 | 人工检查发现简体中文原有人工译文被批量机翻覆盖：从 git HEAD 恢复 465 条人工译文（含 `温和温和西部`→`温和西部`、6 条「每三分钟」误译为「三个月内」等），GameScript 文件回到人工译文基线；另将 3 条货物短码对照 FIRS 4.x 人工语料校正（食/石/身→脂/生/车）。保留 CIRS 品牌更新、8 条网站文案改写与既有润色成果；文档站改名 zh-tw→zh-hant，补齐 39 个语言区域导航栏与侧边栏，修复生产构建图片路径。 |
 | 第五轮润色 | 严格复审发现 19 门语言的译文根本没有进入模组：nmlc 对非默认语言 .lng 里的 {G=}（缺 `##gender` pragma）与参数个数不符的 `{P ...}` 只打印 warning，并整门丢弃该语言。已为 11 门语言补 `##gender`（取自 FIRS 4.x 语料头）、删除 19 处错误 `{P}`；重编译后 nmlc warning 由 20 条降到 1 条，39 门语言全部写入 cirs.grf（体积 10,704,891 → 11,114,286 字节）。 |
+| 第六轮润色 | 人工核查文档站代码参考页发现货物类别标签语义错误：FRAX 的 `CC_POTABLE` / `CC_NON_POTABLE` 是**食品级 / 可食用**（edible / food-grade）之分，不是「可饮用」，中文却把牲畜、煤炭、水泥、化肥标成「不能喝」。已按各语言改写这两个标签（38 个文件 77 处，中文「食品级 / 非食品级」），并把繁体中文 `DOC_CC_WEIRD`「其他」对齐为「特殊」；该组标签只出现在文档站，不进入 GRF / GameScript，故无需重编模组。 |
 
 ## 8. 复检看板（生成时实时计算）
 
@@ -134,3 +135,12 @@
 
 - 版本标签：**cirs-5.2.0**（构建产物内嵌 rev 计数 7543）。
 - 产物：`generated/cirs.grf` 11,113,790 字节，SHA-256 `79ba8edce22818c99d7d592f01d65dd1a88215f40000e1c615b6c32d13e06599`。
+
+## 12. 货物类别标签的语义修正
+
+- 用户在文档站简体中文代码参考页「货物」表（编号 122 牲畜 LVST）发现类别列写着「不可饮用」，指出翻译有误。
+- 权威语义（`src/polar_fox/docs/frax.html`）：`CC_POTABLE` = "Cargo that is edible / food-grade (safe for human consumption and with hygienic transport requirements)."（示例 BEANS / FISH / FLOUR / FOOD / GRAIN / MILK）；`CC_NON_POTABLE` = "Cargo that is inedible / non-food-grade (unsafe for human consumption and incompatible with hygienic transport requirements)."（示例含 LIVESTOCK / COAL / CEMENT / OIL / FERTILISER / AMMONIA）；`CC_WEIRD` = "Unique cargos that don't really fit any standard classes"。即该分类是食品级属性，而非能否饮用。`src/polar_fox/constants.py` 的 food_grade 车厢改装规则同样使用 food-grade 语义。
+- 渲染链路：`src/docs/doc_helper.py` 的 `pretty_print_cargo_classes()` 按映射表取 `DOC_CC_*` 译文；`src/cargos/livestock.py` 把牲畜归入 `CC_PIECE_GOODS` / `CC_WEIRD` / `CC_NON_POTABLE`，所以「不可饮用」会被套到牲畜身上。
+- 修复（`tools/_cc_foodgrade_fix.py`，幂等）：按各语言改写 `DOC_CC_POTABLE` / `DOC_CC_NON_POTABLE`（中文「食品级 / 非食品级」、繁中「食品級 / 非食品級」、日「食品級」、韩「식품 등급」、德「Lebensmitteleignung」、法「Alimentaire」、俄「Пищевой」等），英文保留 FRAX 原名 Potable / Non-Potable；繁体中文 `DOC_CC_WEIRD` 由「其他」对齐为「特殊」。
+- 影响面：`DOC_CC_*` 只在 `src/docs/lang/*.toml` 中定义、只被文档站两个 code-reference 页面使用，`src/grf/lang` 与 `src/gs/lang` 无同名键 → 不进入 cirs.grf / GameScript，无需重编模组，只需重新渲染站点。
+- 复验：重渲染后简体中文代码参考页牲畜行显示「件货, 特殊, 非食品级」，全站旧词「不可饮用 / 不可飲用」残留 0；`check_translations.py` → [TRANSLATIONS] OK，`tools/_i18n_qa.mjs` → 19,198 / 19,198，缺键与占位符不匹配均为 0，`npm run build` 成功。

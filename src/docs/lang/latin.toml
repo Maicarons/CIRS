@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Massa Gazeosa"
 DOC_CC_FLATBED = "Plaustrum Planum"
 DOC_CC_REFRIGERATED = "Refrigeratus"
 DOC_CC_WEIRD = "Mirus"
-DOC_CC_POTABLE = "Potabilis"
-DOC_CC_NON_POTABLE = "Impotabilis"
+DOC_CC_POTABLE = "Edibilis"
+DOC_CC_NON_POTABLE = "Non edibilis"
 
 # translations
 DOC_TRANS_TITLE = "Translationes"

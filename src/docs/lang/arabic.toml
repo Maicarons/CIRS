@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "جُمل غازي"
 DOC_CC_FLATBED = "منصة مسطحة"
 DOC_CC_REFRIGERATED = "مبرد"
 DOC_CC_WEIRD = "غريب"
-DOC_CC_POTABLE = "صالح للشرب"
-DOC_CC_NON_POTABLE = "غير صالح للشرب"
+DOC_CC_POTABLE = "صالح للأكل"
+DOC_CC_NON_POTABLE = "غير صالح للأكل"
 
 # translations
 DOC_TRANS_TITLE = "الترجمات"

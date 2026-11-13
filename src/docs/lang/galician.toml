@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Granel gasoso"
 DOC_CC_FLATBED = "Plataforma"
 DOC_CC_REFRIGERATED = "Refrixerado"
 DOC_CC_WEIRD = "Raro"
-DOC_CC_POTABLE = "Potable"
-DOC_CC_NON_POTABLE = "Non potable"
+DOC_CC_POTABLE = "Alimentario"
+DOC_CC_NON_POTABLE = "Non alimentario"
 
 # translations
 DOC_TRANS_TITLE = "Traducións"

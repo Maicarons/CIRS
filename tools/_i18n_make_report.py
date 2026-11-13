@@ -190,6 +190,7 @@ def main():
     lines.append("| 第三轮润色 | 文字体系污染 4 处（西里尔字母、日文假名混入）修复；繁体中文简体字 14 处转换（保留「简体中文」自名）；7 组短码/长名 extra_strings 双份文件统一 400 处；货物短码对照 FIRS 4.x 人工语料修复 16 处（消除 Chemicals 与 Chlorine 短码撞码）。 |")
     lines.append("| 第四轮润色 | 人工检查发现简体中文原有人工译文被批量机翻覆盖：从 git HEAD 恢复 465 条人工译文（含 `温和温和西部`→`温和西部`、6 条「每三分钟」误译为「三个月内」等），GameScript 文件回到人工译文基线；另将 3 条货物短码对照 FIRS 4.x 人工语料校正（食/石/身→脂/生/车）。保留 CIRS 品牌更新、8 条网站文案改写与既有润色成果；文档站改名 zh-tw→zh-hant，补齐 39 个语言区域导航栏与侧边栏，修复生产构建图片路径。 |")
     lines.append("| 第五轮润色 | 严格复审发现 19 门语言的译文根本没有进入模组：nmlc 对非默认语言 .lng 里的 {G=}（缺 `##gender` pragma）与参数个数不符的 `{P ...}` 只打印 warning，并整门丢弃该语言。已为 11 门语言补 `##gender`（取自 FIRS 4.x 语料头）、删除 19 处错误 `{P}`；重编译后 nmlc warning 由 20 条降到 1 条，39 门语言全部写入 cirs.grf（体积 10,704,891 → 11,114,286 字节）。 |")
+    lines.append("| 第六轮润色 | 人工核查文档站代码参考页发现货物类别标签语义错误：FRAX 的 `CC_POTABLE` / `CC_NON_POTABLE` 是**食品级 / 可食用**（edible / food-grade）之分，不是「可饮用」，中文却把牲畜、煤炭、水泥、化肥标成「不能喝」。已按各语言改写这两个标签（38 个文件 77 处，中文「食品级 / 非食品级」），并把繁体中文 `DOC_CC_WEIRD`「其他」对齐为「特殊」；该组标签只出现在文档站，不进入 GRF / GameScript，故无需重编模组。 |")
     lines.append("")
     lines.append("## 8. 复检看板（生成时实时计算）")
     lines.append("")
@@ -251,6 +252,15 @@ def main():
         lines.append(f"- 产物：`generated/cirs.grf` {size:,} 字节，SHA-256 `{h}`。")
     except Exception as _e:
         lines.append(f"- （读取发布信息失败：{_e}）")
+    lines.append("")
+    lines.append("## 12. 货物类别标签的语义修正")
+    lines.append("")
+    lines.append("- 用户在文档站简体中文代码参考页「货物」表（编号 122 牲畜 LVST）发现类别列写着「不可饮用」，指出翻译有误。")
+    lines.append("- 权威语义（`src/polar_fox/docs/frax.html`）：`CC_POTABLE` = \"Cargo that is edible / food-grade (safe for human consumption and with hygienic transport requirements).\"（示例 BEANS / FISH / FLOUR / FOOD / GRAIN / MILK）；`CC_NON_POTABLE` = \"Cargo that is inedible / non-food-grade (unsafe for human consumption and incompatible with hygienic transport requirements).\"（示例含 LIVESTOCK / COAL / CEMENT / OIL / FERTILISER / AMMONIA）；`CC_WEIRD` = \"Unique cargos that don't really fit any standard classes\"。即该分类是食品级属性，而非能否饮用。`src/polar_fox/constants.py` 的 food_grade 车厢改装规则同样使用 food-grade 语义。")
+    lines.append("- 渲染链路：`src/docs/doc_helper.py` 的 `pretty_print_cargo_classes()` 按映射表取 `DOC_CC_*` 译文；`src/cargos/livestock.py` 把牲畜归入 `CC_PIECE_GOODS` / `CC_WEIRD` / `CC_NON_POTABLE`，所以「不可饮用」会被套到牲畜身上。")
+    lines.append("- 修复（`tools/_cc_foodgrade_fix.py`，幂等）：按各语言改写 `DOC_CC_POTABLE` / `DOC_CC_NON_POTABLE`（中文「食品级 / 非食品级」、繁中「食品級 / 非食品級」、日「食品級」、韩「식품 등급」、德「Lebensmitteleignung」、法「Alimentaire」、俄「Пищевой」等），英文保留 FRAX 原名 Potable / Non-Potable；繁体中文 `DOC_CC_WEIRD` 由「其他」对齐为「特殊」。")
+    lines.append("- 影响面：`DOC_CC_*` 只在 `src/docs/lang/*.toml` 中定义、只被文档站两个 code-reference 页面使用，`src/grf/lang` 与 `src/gs/lang` 无同名键 → 不进入 cirs.grf / GameScript，无需重编模组，只需重新渲染站点。")
+    lines.append("- 复验：重渲染后简体中文代码参考页牲畜行显示「件货, 特殊, 非食品级」，全站旧词「不可饮用 / 不可飲用」残留 0；`check_translations.py` → [TRANSLATIONS] OK，`tools/_i18n_qa.mjs` → 19,198 / 19,198，缺键与占位符不匹配均为 0，`npm run build` 成功。")
     out = R / "TRANSLATION_COMPLETION_REPORT.md"
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("wrote", out, "lines", len(lines))

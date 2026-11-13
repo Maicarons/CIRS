@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gáznemű ömlesztett"
 DOC_CC_FLATBED = "Laposágyas"
 DOC_CC_REFRIGERATED = "Hűtött"
 DOC_CC_WEIRD = "Egyéb"
-DOC_CC_POTABLE = "Iható"
-DOC_CC_NON_POTABLE = "Nem iható"
+DOC_CC_POTABLE = "Élelmiszer-minőségű"
+DOC_CC_NON_POTABLE = "Nem élelmiszer-minőségű"
 
 # translations
 DOC_TRANS_TITLE = "Fordítások"

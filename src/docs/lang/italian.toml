@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Rinfuse gassose"
 DOC_CC_FLATBED = "Pianale"
 DOC_CC_REFRIGERATED = "Refrigerato"
 DOC_CC_WEIRD = "Strano"
-DOC_CC_POTABLE = "Potabile"
-DOC_CC_NON_POTABLE = "Non potabile"
+DOC_CC_POTABLE = "Alimentare"
+DOC_CC_NON_POTABLE = "Non alimentare"
 
 # translations
 DOC_TRANS_TITLE = "Traduzioni"

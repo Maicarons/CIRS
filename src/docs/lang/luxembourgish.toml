@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gas-Bulk"
 DOC_CC_FLATBED = "Flachwon"
 DOC_CC_REFRIGERATED = "Gekillt"
 DOC_CC_WEIRD = "Merkwürdeg"
-DOC_CC_POTABLE = "Drénkbar"
-DOC_CC_NON_POTABLE = "Net drénkbar"
+DOC_CC_POTABLE = "Liewensmëttelgeeignet"
+DOC_CC_NON_POTABLE = "Net Liewensmëttelgeeignet"
 
 # translations
 DOC_TRANS_TITLE = "Iwwersetzungen"

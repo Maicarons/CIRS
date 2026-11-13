@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Bulk gazos"
 DOC_CC_FLATBED = "Platformă"
 DOC_CC_REFRIGERATED = "Refrigerat"
 DOC_CC_WEIRD = "Ciudat"
-DOC_CC_POTABLE = "Potabil"
-DOC_CC_NON_POTABLE = "Nepotabil"
+DOC_CC_POTABLE = "Alimentar"
+DOC_CC_NON_POTABLE = "Nearalimentar"
 
 # translations
 DOC_TRANS_TITLE = "Traduceri"

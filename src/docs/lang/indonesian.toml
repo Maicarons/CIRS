@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Curah gas"
 DOC_CC_FLATBED = "Rangka datar"
 DOC_CC_REFRIGERATED = "Didinginkan"
 DOC_CC_WEIRD = "Aneh"
-DOC_CC_POTABLE = "Dapat diminum"
-DOC_CC_NON_POTABLE = "Tidak dapat diminum"
+DOC_CC_POTABLE = "Layak pangan"
+DOC_CC_NON_POTABLE = "Tidak layak pangan"
 
 # translations
 DOC_TRANS_TITLE = "Terjemahan"

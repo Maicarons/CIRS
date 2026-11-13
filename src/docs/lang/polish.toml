@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gazowy luz"
 DOC_CC_FLATBED = "Platforma"
 DOC_CC_REFRIGERATED = "Chłodzony"
 DOC_CC_WEIRD = "Dziwny"
-DOC_CC_POTABLE = "Zdatny do picia"
-DOC_CC_NON_POTABLE = "Niezdatny do picia"
+DOC_CC_POTABLE = "Jadalne"
+DOC_CC_NON_POTABLE = "Niejadalne"
 
 # translations
 DOC_TRANS_TITLE = "Tłumaczenia"

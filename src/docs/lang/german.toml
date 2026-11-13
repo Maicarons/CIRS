@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gasförmige Schüttgüter"
 DOC_CC_FLATBED = "Tieflader"
 DOC_CC_REFRIGERATED = "Kühlware"
 DOC_CC_WEIRD = "Seltsam"
-DOC_CC_POTABLE = "Trinkbar"
-DOC_CC_NON_POTABLE = "Nicht trinkbar"
+DOC_CC_POTABLE = "Lebensmitteleignung"
+DOC_CC_NON_POTABLE = "Nicht lebensmitteleignend"
 
 # translations
 DOC_TRANS_TITLE = "Übersetzungen"

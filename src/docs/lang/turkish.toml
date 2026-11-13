@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gaz dökme"
 DOC_CC_FLATBED = "Düz araç"
 DOC_CC_REFRIGERATED = "Soğutmalı"
 DOC_CC_WEIRD = "Tuhaf"
-DOC_CC_POTABLE = "İçilebilir"
-DOC_CC_NON_POTABLE = "İçilemez"
+DOC_CC_POTABLE = "Yenilebilir"
+DOC_CC_NON_POTABLE = "Yenilemez"
 
 # translations
 DOC_TRANS_TITLE = "Çeviriler"

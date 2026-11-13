@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Vrac gazeux"
 DOC_CC_FLATBED = "Plateau"
 DOC_CC_REFRIGERATED = "Réfrigéré"
 DOC_CC_WEIRD = "Bizarre"
-DOC_CC_POTABLE = "Potable"
-DOC_CC_NON_POTABLE = "Non potable"
+DOC_CC_POTABLE = "Alimentaire"
+DOC_CC_NON_POTABLE = "Non alimentaire"
 
 # translations
 DOC_TRANS_TITLE = "Traductions"

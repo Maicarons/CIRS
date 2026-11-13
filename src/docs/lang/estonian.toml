@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gaasiline hunnik"
 DOC_CC_FLATBED = "Lamevanker"
 DOC_CC_REFRIGERATED = "Jahutatud"
 DOC_CC_WEIRD = "Veider"
-DOC_CC_POTABLE = "Joogikõlblik"
-DOC_CC_NON_POTABLE = "Mittejoogikõlblik"
+DOC_CC_POTABLE = "Toiduaine"
+DOC_CC_NON_POTABLE = "Mittetoiduaine"
 
 # translations
 DOC_TRANS_TITLE = "Tõlked"

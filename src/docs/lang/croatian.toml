@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Plinoviti rasuti"
 DOC_CC_FLATBED = "Platforma"
 DOC_CC_REFRIGERATED = "Hlađeno"
 DOC_CC_WEIRD = "Čudno"
-DOC_CC_POTABLE = "Za piće"
-DOC_CC_NON_POTABLE = "Nije za piće"
+DOC_CC_POTABLE = "Jestivo"
+DOC_CC_NON_POTABLE = "Nejestivo"
 
 # translations
 DOC_TRANS_TITLE = "Prijevodi"

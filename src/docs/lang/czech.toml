@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Plynné sypké"
 DOC_CC_FLATBED = "Plošinové"
 DOC_CC_REFRIGERATED = "Chlazené"
 DOC_CC_WEIRD = "Zvláštní"
-DOC_CC_POTABLE = "Pitné"
-DOC_CC_NON_POTABLE = "Nepitné"
+DOC_CC_POTABLE = "Potravinářský"
+DOC_CC_NON_POTABLE = "Nepotravinářský"
 
 # translations
 DOC_TRANS_TITLE = "Překlady"

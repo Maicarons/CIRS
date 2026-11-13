@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Bwlf Nwyr"
 DOC_CC_FLATBED = "Gwely Gwasg"
 DOC_CC_REFRIGERATED = "Oerfel"
 DOC_CC_WEIRD = "Rhyfedd"
-DOC_CC_POTABLE = "Yfadwy"
-DOC_CC_NON_POTABLE = "An-yfadwy"
+DOC_CC_POTABLE = "Bwydadwy"
+DOC_CC_NON_POTABLE = "An-bwydadwy"
 
 # translations
 DOC_TRANS_TITLE = "Cyfieithiadau"

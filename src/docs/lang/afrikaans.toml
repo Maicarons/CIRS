@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gasvormige massagoed"
 DOC_CC_FLATBED = "Platbed"
 DOC_CC_REFRIGERATED = "Verkoel"
 DOC_CC_WEIRD = "Snaaks"
-DOC_CC_POTABLE = "Drinkbaar"
-DOC_CC_NON_POTABLE = "Ondrinkbaar"
+DOC_CC_POTABLE = "Voedselgraad"
+DOC_CC_NON_POTABLE = "Nie-voedselgraad"
 
 # translations
 DOC_TRANS_TITLE = "Vertalings"

@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "气体散货"
 DOC_CC_FLATBED = "平板"
 DOC_CC_REFRIGERATED = "冷藏"
 DOC_CC_WEIRD = "特殊"
-DOC_CC_POTABLE = "可饮用"
-DOC_CC_NON_POTABLE = "不可饮用"
+DOC_CC_POTABLE = "食品级"
+DOC_CC_NON_POTABLE = "非食品级"
 
 # translations
 DOC_TRANS_TITLE = "翻译"

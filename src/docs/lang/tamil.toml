@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "வளிமப் பிடிப்பொருள்"
 DOC_CC_FLATBED = "தட்டைப் படுக்கை"
 DOC_CC_REFRIGERATED = "குளிர்பதன"
 DOC_CC_WEIRD = "வேடிக்கையான"
-DOC_CC_POTABLE = "குடிநீர்"
-DOC_CC_NON_POTABLE = "குடிக்க முடியாத"
+DOC_CC_POTABLE = "உணவுத் தரம்"
+DOC_CC_NON_POTABLE = "உணவுத் தரமற்றது"
 
 # translations
 DOC_TRANS_TITLE = "மொழிபெயர்ப்புகள்"

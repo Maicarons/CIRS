@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "기체 벌크"
 DOC_CC_FLATBED = "플랫베드"
 DOC_CC_REFRIGERATED = "냉장"
 DOC_CC_WEIRD = "기타"
-DOC_CC_POTABLE = "음용 가능"
-DOC_CC_NON_POTABLE = "음용 불가"
+DOC_CC_POTABLE = "식품 등급"
+DOC_CC_NON_POTABLE = "비식품 등급"
 
 # translations
 DOC_TRANS_TITLE = "번역"

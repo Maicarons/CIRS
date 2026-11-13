@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gasa amasvaro"
 DOC_CC_FLATBED = "Plata vagono"
 DOC_CC_REFRIGERATED = "Malvarmigita"
 DOC_CC_WEIRD = "Stranga"
-DOC_CC_POTABLE = "Trinkebla"
-DOC_CC_NON_POTABLE = "Netrinkebla"
+DOC_CC_POTABLE = "Manĝebla"
+DOC_CC_NON_POTABLE = "Nemanĝebla"
 
 # translations
 DOC_TRANS_TITLE = "Tradukoj"

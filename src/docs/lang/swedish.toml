@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Gasbulk"
 DOC_CC_FLATBED = "Flakvagn"
 DOC_CC_REFRIGERATED = "Kylt"
 DOC_CC_WEIRD = "Konstig"
-DOC_CC_POTABLE = "Drickbar"
-DOC_CC_NON_POTABLE = "Icke drickbar"
+DOC_CC_POTABLE = "Ätbar"
+DOC_CC_NON_POTABLE = "Ej ätbar"
 
 # translations
 DOC_TRANS_TITLE = "Översättningar"

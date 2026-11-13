@@ -162,8 +162,8 @@ DOC_CC_GAS_BULK = "Газообразный насыпной"
 DOC_CC_FLATBED = "Платформа"
 DOC_CC_REFRIGERATED = "Охлаждаемый"
 DOC_CC_WEIRD = "Прочее"
-DOC_CC_POTABLE = "Питьевой"
-DOC_CC_NON_POTABLE = "Непитьевой"
+DOC_CC_POTABLE = "Пищевой"
+DOC_CC_NON_POTABLE = "Непищевой"
 
 # translations
 DOC_TRANS_TITLE = "Переводы"
