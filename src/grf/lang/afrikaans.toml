@@ -1095,7 +1095,7 @@ base = "Elektriese goedere"
 base = "Motorvoertuie"
 
 [STR_STATION_BAKERY]
-base = "Bakery"
+base = "Bakker"
 
 [STR_STATION_BAR_AND_SECTION_MILL]
 base = "Draerbeam"
@@ -1245,7 +1245,7 @@ base = "Vloeilyn"
 base = "Mynskag"
 
 [STR_STATION_PLANT]
-base = "Plant"
+base = "Fabriek"
 
 [STR_STATION_PLANTATION]
 base = "Plantasie"

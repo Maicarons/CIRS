@@ -1104,7 +1104,7 @@ base = "Bjælker"
 base = "Bar, grill og værelser"
 
 [STR_STATION_BARNS]
-base = "Barns"
+base = "Lader"
 
 [STR_STATION_BARREL_AND_KEG]
 base = "Tønde og fad"
@@ -1293,7 +1293,7 @@ base = "Skarp Gade"
 #base = "Sheep Fold"
 
 [STR_STATION_SHOALS]
-base = "Shoals"
+base = "Rev"
 
 [STR_STATION_SILO]
 base = "Silo"

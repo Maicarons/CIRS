@@ -850,7 +850,7 @@ base = "Motorgyár"
 base = "Gépészeti üzem"
 
 [STR_IND_FARM]
-base = "Farm"
+base = "Tanya"
 
 # unused
 #[STR_IND_FERROCHROME_SMELTER]

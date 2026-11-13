@@ -1135,7 +1135,7 @@ base = "Planta carbonera"
 base = "Componentes"
 
 [STR_STATION_CONCRETE_PLANT]
-base = "Precast"
+base = "Prefabricado"
 
 [STR_STATION_COPPER_LODE]
 base = "Veta de cobre"

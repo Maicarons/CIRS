@@ -1067,7 +1067,7 @@ base = "{G=masculine}Dekkfabrikk"
 base = "{G=masculine}Vingård"
 
 [STR_IND_VEHICLE_DISTRIBUTOR]
-base = "Vehicle Distributor"
+base = "Bilforhandler"
 
 [STR_IND_WHARF]
 base = "{G=masculine}Slipp"

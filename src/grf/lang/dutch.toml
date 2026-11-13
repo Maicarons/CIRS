@@ -1245,7 +1245,7 @@ base = "Flowline"
 base = "Groeve"
 
 [STR_STATION_PLANT]
-base = "Plant"
+base = "Fabriek"
 
 [STR_STATION_PLANTATION]
 base = "Plantage"
