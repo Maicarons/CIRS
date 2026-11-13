@@ -243,7 +243,7 @@ def main():
         import hashlib as _hl
         h = _hl.sha256(grf.read_bytes()).hexdigest() if grf.exists() else "-"
         size = grf.stat().st_size if grf.exists() else 0
-        lines.append(f"- 版本标签：**{tag}**（提交 `{rev}`，rev 计数 {cnt}）。")
+        lines.append(f"- 版本标签：**{tag}**（本报告随该标签一同发布，rev 计数 {cnt}）。")
         lines.append(f"- 产物：`generated/cirs.grf` {size:,} 字节，SHA-256 `{h}`。")
     except Exception as _e:
         lines.append(f"- （读取发布信息失败：{_e}）")
