@@ -1,5 +1,5 @@
 === GRF header hex (first 48 bytes) ===
-00 00 47 52 46 82 0D 0A 1A 0A 3A 16 50 00 00 04 00 00 00 FF D4 C3 00 00 F0 DF 00 00 FF 14 43 49 4E 46 4F 54 4E 41 4D 45 02 43 49 52 53 20 2D 20
+00 00 47 52 46 82 0D 0A 1A 0A 4A 14 50 00 00 04 00 00 00 FF D4 C3 00 00 0D DE 00 00 FF 14 43 49 4E 46 4F 54 4E 41 4D 45 02 43 49 52 53 20 2D 20
 
 === Are translated string fragments physically present in cirs.grf? ===
 lang                     grflangid    present  note
@@ -45,11 +45,11 @@ welsh                    0x0f         80/80   all present
 
 === Adaptive GRF container walk ===
 top candidates by bytes covered:
-  covered=5248580 recs=50133 distinct=0 a4=0 start=15 mode=B bad size @5248580
+  covered=5248084 recs=50133 distinct=0 a4=0 start=15 mode=B bad size @5248084
   covered=262162 recs=1 distinct=0 a4=0 start=13 mode=B bad size @262162
   covered=262161 recs=1 distinct=0 a4=0 start=13 mode=A bad size @262161
-  covered=20518 recs=1 distinct=0 a4=0 start=11 mode=B bad size @20518
-chosen start=15 mode=B covered=5248580/11114286
+  covered=20516 recs=1 distinct=0 a4=0 start=11 mode=B bad size @20516
+chosen start=15 mode=B covered=5248084/11113790
 action first bytes: []
 Action4 language-id census (0 distinct, 0 records):
 

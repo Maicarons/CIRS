@@ -1,6 +1,6 @@
 # CIRS 全语言翻译完成情况报告
 
-生成时间：2026-11-13 23:13 UTC+08:00
+生成时间：2026-11-13 23:27 UTC+08:00
 
 ## 1. 范围与方法
 
@@ -129,3 +129,8 @@
 - 修复（tools/_nml_grf_lang_fix.py，幂等）：① 从 FIRS 4.x 语料头的 `##gender` 取权威性别名，为 11 门使用 `{G=}` 的语言在 `[GLOBAL_PRAGMA]` 中补 `gender = "..."`；② 删除参数个数不符的 19 处 `{P}`（日文 `コーヒー{P 0 "" s}袋の{WEIGHT}` → `コーヒー袋の{WEIGHT}`）；③ 把改动镜像进 `tools/_i18n_out/<lang>.jsonl`，保证 `pipeline apply` 不会回退。
 - 验证：`tools/_nml_probe39.py` 直接调用 nml → 39 门语言、0 warning；`tools/_grf_lang_verify.py` 对最终 cirs.grf 做每语言 80 条最长文本片段的精确字节搜索 → 39/39 全部 80/80 命中（修复前 19 门为 0–23/80）；GRF 字符串普查由 hangul/kana/cyrillic 全为 0 变为 hangul 575 / kana 359 / cyrillic 1319；Action 4 语言 ID 普查 39 个 ID 全部出现。
 - 结论：源文件校验全绿不代表模组里有译文，**发布前必须普查最终 .grf**。重建命令见 `tools/_build_grf.sh`（Makefile 在 MSYS 下因 `bin/find-files` 路径引号无法直接使用）。
+
+## 11. 发布信息
+
+- 版本标签：**cirs-5.2.0**（提交 `14947c1db`，rev 计数 7543）。
+- 产物：`generated/cirs.grf` 11,113,790 字节，SHA-256 `79ba8edce22818c99d7d592f01d65dd1a88215f40000e1c615b6c32d13e06599`。
