@@ -80,7 +80,9 @@ English lives at `/`, Chinese at `/zh/`. Both locales share one template set and
 
 ## Translations
 
-CIRS ships English and Simplified Chinese on day one.
+CIRS ships with **39 languages** out of the box: English plus 38 community translations. All game text is fully localizable and the website is available in English and Chinese.
+
+**Supported languages:** English · Simplified Chinese (简体中文) · Traditional Chinese (繁體中文) · Japanese (日本語) · Korean (한국어) · Arabic (العربية) · Russian (Русский) · German · French · Spanish · Spanish (Mexico) · Portuguese · Portuguese (Brazil) · Italian · Dutch · Catalan · Galician · Romanian · Polish · Czech · Slovak · Hungarian · Finnish · Swedish · Danish · Norwegian Bokmål · Afrikaans · Belarusian · Croatian · Esperanto · Estonian · Gaelic · Indonesian · Latin · Luxembourgish · Serbian · Tamil · Turkish · Welsh
 
 - Game text: `src/grf/lang/*.toml` and `src/gs/lang/*.toml`
 - Website text: `src/docs/lang/*.toml` and `src/docs/extra_strings*.toml`
