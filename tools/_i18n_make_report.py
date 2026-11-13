@@ -238,12 +238,16 @@ def main():
             return _sp.run(["git"] + list(a), cwd=str(R), capture_output=True, text=True).stdout.strip()
         tag = _g("describe", "--tags", "--exact-match") or _g("describe")
         rev = _g("rev-parse", "--short", "HEAD")
-        cnt = _g("rev-list", "--count", "HEAD")
+        _hdr = R / "generated/nml/header.nml"
+        cnt = "-"
+        if _hdr.exists():
+            _m = re.search(r"version:\s*(\d+)", _hdr.read_text(encoding="utf-8", errors="replace"))
+            if _m: cnt = _m.group(1)
         grf = R / "generated/cirs.grf"
         import hashlib as _hl
         h = _hl.sha256(grf.read_bytes()).hexdigest() if grf.exists() else "-"
         size = grf.stat().st_size if grf.exists() else 0
-        lines.append(f"- 版本标签：**{tag}**（本报告随该标签一同发布，rev 计数 {cnt}）。")
+        lines.append(f"- 版本标签：**{tag}**（构建产物内嵌 rev 计数 {cnt}）。")
         lines.append(f"- 产物：`generated/cirs.grf` {size:,} 字节，SHA-256 `{h}`。")
     except Exception as _e:
         lines.append(f"- （读取发布信息失败：{_e}）")
