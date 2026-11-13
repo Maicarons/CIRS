@@ -1,0 +1,215 @@
+=== check_translations.py placeholder-related lines ===
+6: 2. 每条文本中的 NML 占位符（含 {} 换行标记）数量与顺序一致；
+16: from collections import Counter
+20: PLACEHOLDER_RE = re.compile(r"\{([A-Za-z_0-9]*)\}")
+34: def placeholders(value: str) -> Counter:
+35: """提取文本中的占位符多重集合；{} 表示换行，同样参与计数。"""
+36: return Counter(PLACEHOLDER_RE.findall(value))
+49: errors.append(f"{target_path}: 缺少键 {', '.join(missing[:8])}")
+51: errors.append(f"{target_path}: 多出键 {', '.join(extra[:8])}")
+53: errors.append(f"{target_path}: 键顺序与 {reference_path.name} 不一致")
+62: errors.append(f"{target_path}: 键 {key} 应为表结构")
+66: errors.append(f"{target_path}: 键 {key} 缺少属性 {attribute}")
+71: if placeholders(reference_value) != placeholders(target_value):
+73: f"{target_path}: 键 {key}.{attribute} 的占位符不一致 "
+74: f"({placeholders(reference_value)} != {placeholders(target_value)})"
+78: if placeholders(reference_node) != placeholders(target_value):
+80: f"{target_path}: 键 {key} 的占位符不一致 "
+81: f"({placeholders(reference_node)} != {placeholders(target_value)})"
+89: errors.append(f"{path}: 缺少 [GLOBAL_PRAGMA]")
+92: errors.append(f"{path}: GLOBAL_PRAGMA 缺少 grflangid")
+94: errors.append(f"{path}: GLOBAL_PRAGMA 缺少 plural")
+102: errors.append(f"{reference_path}: 基准语言文件不存在")
+119: seen: dict[str, str] = {}
+122: pragma = data.get("GLOBAL_PRAGMA", {})
+128: f"{path}: grflangid {language_id} 与 {seen[language_id]} 重复"
+171: print(f"  NewGRF languages: {', '.join(['english.toml'] + grf_langs)}")
+172: print(f"  GameScript languages: {', '.join(['english.toml'] + gs_langs)}")
+173: print(f"  Website languages: {', '.join(['english.toml'] + docs_langs)}")
+174: print(f"  Website extra strings: {', '.join(['extra_strings.toml'] + docs_extra)}")
+
+=== 4x_ref/indonesian.lng matching lines ===
+  STR_IND_ALUMINIUM_PLANT                                                         :Peleburan Aluminium
+  STR_IND_CIDER_MILL                                                              :Pabrik Cider
+  STR_IND_BRICK_WORKS                                                             :Pabrik Batu Bata
+  STR_IND_CEMENT_PLANT                                                            :Pabrik Semen
+  STR_IND_FURNITURE_FACTORY                                                       :Pabrik Furnitur
+  STR_IND_GLASS_WORKS                                                             :Peleburan Kaca
+  STR_IND_IRON_WORKS                                                              :Peleburan Besi
+  STR_IND_PLASTICS_PLANT                                                          :Pabrik Plastik
+  STR_IND_RECYCLING_PLANT                                                         :Pabrik Daur Ulang
+  STR_IND_TEXTILE_MILL                                                            :Pabrik Pakaian
+  STR_FUND_FRUIT_PLANTATION                                                       :{}{BLACK}Lokasi: {YELLOW}Tidak dapat dibuat di atas garis salju.
+  STR_FUND_RUBBER_PLANTATION                                                      :{}{BLACK}Lokasi: {YELLOW}Tidak bisa dibuat di salju atau di gurun.
+  STR_STATION                                                                     :{STRING} {STRING}
+  STR_STATION_ANIMALS                                                             :Pasar Kuda
+  STR_STATION_FARM_1                                                              :Tanah milik bangsawan
+  STR_STATION_FISHMARKET                                                          :Pasar Ikan
+  STR_STATION_INDUSTRY_ESTATE_1                                                   :Taman Industri
+  STR_STATION_INDUSTRY_HARBOUR_1                                                  :Pelabuhan Industri
+  STR_STATION_MARKET                                                              :Pasar
+  STR_STATION_MILL                                                                :Pabrik
+  STR_STATION_MINE                                                                :Jalan penyamak kulit
+  STR_STATION_PIT                                                                 :Lubang
+  STR_STATION_PLANTATION                                                          :Perkebunan
+  STR_STATION_POWERHUNGRY                                                         :Pembangkit listrik
+  STR_STATION_REFINERY                                                            :Tanah pelabuhan
+  STR_STATION_TOWN_1                                                              :Balai kota tua
+  STR_STATION_WATER                                                               :Gosong pasir
+
+=== 4x_ref/korean.lng matching lines ===
+  STR_CARGO_NAME_CHEMICALS                                                        :{G=m}화학품
+  STR_CARGO_NAME_SALT                                                             :{G=m}소금
+  STR_CARGO_NAME_SULPHUR                                                          :{G=m}황
+  STR_CARGO_NAME_SULPHURIC_ACID                                                   :{G=m}황산
+  STR_CARGO_UNIT_CHEMICALS                                                        :화학품 {VOLUME}
+  STR_CARGO_UNIT_SALT                                                             :소금 {WEIGHT}
+  STR_CARGO_UNIT_SULPHUR                                                          :황 {WEIGHT}
+  STR_CARGO_UNIT_SULPHURIC_ACID                                                   :황산 {VOLUME}
+  STR_CID_ACID                                                                    :{TINYFONT}산
+  STR_CID_ALCOHOL                                                                 :{TINYFONT}술
+  STR_CID_ALLOY_STEEL                                                             :{TINYFONT}합
+  STR_CID_ALUMINIA                                                                :{TINYFONT}알
+  STR_CID_ALUMINIUM                                                               :{TINYFONT}루
+  STR_CID_AMMONIA                                                                 :{TINYFONT}암
+  STR_CID_AMMONIUM_NITRATE                                                        :{TINYFONT}질
+  STR_CID_BAUXITE                                                                 :{TINYFONT}보
+  STR_CID_BEANS                                                                   :{TINYFONT}콩
+  STR_CID_BUILDING_MATERIALS                                                      :{TINYFONT}건
+  STR_CID_CARBON_BLACK                                                            :{TINYFONT}댕
+  STR_CID_CARBON_STEEL                                                            :{TINYFONT}강
+  STR_CID_CASSAVA                                                                 :{TINYFONT}카
+  STR_CID_CAST_IRON                                                               :{TINYFONT}주
+  STR_CID_CEMENT                                                                  :{TINYFONT}시
+  STR_CID_CHEMICALS                                                               :{TINYFONT}화
+  STR_CID_CHROMITE_ORE                                                            :{TINYFONT}크
+  STR_CID_CHLORINE                                                                :{TINYFONT}염
+  STR_CID_CLAY                                                                    :{TINYFONT}점
+  STR_CID_CLEANING_AGENTS                                                         :{TINYFONT}세
+  STR_CID_COFFEE                                                                  :{TINYFONT}커
+  STR_CID_COAL_TAR                                                                :{TINYFONT}타
+  STR_CID_COKE                                                                    :{TINYFONT}코
+  STR_CID_COPPER                                                                  :{TINYFONT}구
+  STR_CID_COPPER_CONCENTRATE                                                      :{TINYFONT}동
+  STR_CID_EDIBLE_OIL                                                              :{TINYFONT}용
+  STR_CID_ELECTRICAL_PARTS                                                        :{TINYFONT}전
+  STR_CID_ENGINEERING_SUPPLIES                                                    :{TINYFONT}생
+  STR_CID_ETHYLENE                                                                :{TINYFONT}에
+  STR_CID_EXPLOSIVES                                                              :{TINYFONT}폭
+  STR_CID_FARM_SUPPLIES                                                           :{TINYFONT}농
+  STR_CID_FERROCHROME                                                             :{TINYFONT}롬
+  STR_CID_FERTILISER                                                              :{TINYFONT}비
+  STR_CID_FIBRES                                                                  :{TINYFONT}섬
+  STR_CID_FISH                                                                    :{TINYFONT}물
+  STR_CID_FOOD_ADDITIVES                                                          :{TINYFONT}첨
+  STR_CID_FORMIC_ACID                                                             :{TINYFONT}포
+  STR_CID_FURNITURE                                                               :{TINYFONT}가
+  STR_CID_GLASS                                                                   :{TINYFONT}유
+  STR_CID_HYDROCHLORIC_ACID                                                       :{TINYFONT}염
+  STR_CID_KAOLIN                                                                  :{TINYFONT}토
+  STR_CID_LIMESTONE                                                               :{TINYFONT}회
+  STR_CID_LOGS                                                                    :{TINYFONT}목
+  STR_CID_TIMBER                                                                  :{TINYFONT}제
+  STR_CID_LYE                                                                     :{TINYFONT}수
+  STR_CID_MANGANESE                                                               :{TINYFONT}망
+  STR_CID_METAL                                                                   :{TINYFONT}금
+  STR_CID_METHANE                                                                 :{TINYFONT}메
+  STR_CID_METHANOL                                                                :{TINYFONT}올
+  STR_CID_MILK                                                                    :{TINYFONT}유
+  STR_CID_NAPHTHA                                                                 :{TINYFONT}나
+  STR_CID_NICKEL                                                                  :{TINYFONT}니
+  STR_CID_NITRATES                                                                :{TINYFONT}질
+  STR_CID_NUTS                                                                    :{TINYFONT}견
+  STR_CID_OXYGEN                                                                  :{TINYFONT}산
+  STR_CID_PACKAGING                                                               :{TINYFONT}포
+  STR_CID_PAINTS_AND_COATINGS                                                     :{TINYFONT}페
+  STR_CID_PEAT                                                                    :{TINYFONT}탄
+  STR_CID_PETROL                                                                  :{TINYFONT}휘
+  STR_CID_PIG_IRON                                                                :{TINYFONT}선
+  STR_CID_PIPE                                                                    :{TINYFONT}파
+  STR_CID_PHOSPHATE                                                               :{TINYFONT}염
+  STR_CID_PHOSPHORIC_ACID                                                         :{TINYFONT}인
+  STR_CID_PLASTICS                                                                :{TINYFONT}플
+  STR_CID_POTASH                                                                  :{TINYFONT}칼
+  STR_CID_PROPYLENE                                                               :{TINYFONT}프
+  STR_CID_PYRITE_ORE                                                              :{TINYFONT}황
+  STR_CID_QUICKLIME                                                               :{TINYFONT}생
+  STR_CID_RAW_LATEX                                                               :{TINYFONT}고
+  STR_CID_REBAR                                                                   :{TINYFONT}봉
+  STR_CID_RECYCLABLES                                                             :{TINYFONT}활
+  STR_CID_SALT                                                                    :{TINYFONT}염
+  STR_CID_SAND                                                                    :{TINYFONT}사
+  STR_CID_SCRAP_METAL                                                             :{TINYFONT}고
+  STR_CID_SLAG                                                                    :{TINYFONT}재
+  STR_CID_SODA_ASH                                                                :{TINYFONT}소
+  STR_CID_STAINLESS_STEEL                                                         :{TINYFONT}텐
+  STR_CID_STEEL                                                                   :{TINYFONT}철
+  STR_CID_STONE                                                                   :{TINYFONT}석
+  STR_CID_SUGAR_BEET                                                              :{TINYFONT}무
+  STR_CID_SULPHUR                                                                 :{TINYFONT}황
+  STR_CID_SULPHURIC_ACID                                                          :{TINYFONT}황
+  STR_CID_STEEL_SECTIONS                                                          :{TINYFONT}형
+  STR_CID_STEEL_SHEET                                                             :{TINYFONT}강
+  STR_CID_STEEL_WIRE_ROD                                                          :{TINYFONT}선
+  STR_CID_TEXTILES                                                                :{TINYFONT}옷
+  STR_CID_TIN                                                                     :{TINYFONT}주
+  STR_CID_TINPLATE                                                                :{TINYFONT}양
+  STR_CID_TYRES                                                                   :{TINYFONT}타
+  STR_CID_UREA                                                                    :{TINYFONT}요
+  STR_CID_VEHICLE_BODIES                                                          :{TINYFONT}체
+  STR_CID_VEHICLE_ENGINES                                                         :{TINYFONT}엔
+  STR_CID_VEHICLE_PARTS                                                           :{TINYFONT}부
+  STR_CID_VEHICLES                                                                :{TINYFONT}차
+  STR_CID_WOOL                                                                    :{TINYFONT}모
+  STR_CID_YARN                                                                    :{TINYFONT}실
+  STR_CID_ZINC                                                                    :{TINYFONT}연
+  STR_IND_PHOSPHORIC_ACID_PLANT                                                   :인산 공장
+  STR_IND_SALT_MINE                                                               :소금 광산
+  STR_IND_SULPHURIC_ACID_PLANT                                                    :황산 공장
+  STR_STATION_SALTPETER_WORKS                                                     :초석사
+
+=== Korean cid values vs English + how many langs keep English ===
+  STR_CARGO_CHEMICALS.cid | EN={TINYFONT}CH | KO={TINYFONT}염 | keepEnglish 12/38
+  STR_CARGO_CHLORINE.cid | EN={TINYFONT}CH | KO={TINYFONT}염 | keepEnglish 12/38
+  STR_CARGO_PHOSPHATE.cid | EN={TINYFONT}PH | KO={TINYFONT}염 | keepEnglish 23/38
+  STR_CARGO_SALT.cid | EN={TINYFONT}NA | KO={TINYFONT}염 | keepEnglish 25/38
+  STR_CARGO_PYRITE_ORE.cid | EN={TINYFONT}PY | KO={TINYFONT}황 | keepEnglish 28/38
+  STR_CARGO_SULPHUR.cid | EN={TINYFONT}SU | KO={TINYFONT}황 | keepEnglish 24/38
+  STR_CARGO_SULPHURIC_ACID.cid | EN={TINYFONT}SD | KO={TINYFONT}황 | keepEnglish 34/38
+
+=== Indonesian station keys vs English + sibling distribution ===
+  STR_STATION_FACTORY.base | EN=Factory | ID=Pabrik | top [["Fábrica", 5], ["Fabrik", 3], ["Fabriek", 2], ["Завод", 2]]
+  STR_STATION_HEAVY_INDUSTRY_2.base | EN=Works | ID=Pabrik | top [["Fábrica", 3], ["Obras", 2], ["Werf", 1], ["مصنع", 1]]
+  STR_STATION_MILL.base | EN=Mill | ID=Pabrik | top [["Moinho", 2], ["坊", 2], ["Mlyn", 2], ["Meule", 1]]
+  STR_STATION_PLANT.base | EN=Plant | ID=Pabrik | top [["Planta", 4], ["Plant", 2], ["Завод", 2], ["المصنع", 1]]
+  STR_STATION_WORKS.base | EN=Works | ID=Pabrik | top [["Fábrica", 3], ["Obras", 2], ["Werf", 1], ["مصنع", 1]]
+
+=== dual-file differing keys (short->long) ===
+  fr->french diff=101
+    TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT.base | short: Usine de transformation alimentaire | long: Usine agroalimentaire
+    TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION.base | short: Plantation de fruits | long: Plantation fruitière
+    TTD_STR_INDUSTRY_NAME_OIL_RIG.base | short: Plate-forme pétrolière | long: Plateforme pétrolière
+    TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION.base | short: Plantation d’hévéas | long: Plantage de caoutchouc
+    TTD_STR_INDUSTRY_NAME_STEEL_MILL.base | short: Aciérie | long: Usine sidérurgique
+    TTD_STR_CARGO_PLURAL_COPPER_ORE.base | short: Minerai de cuivre | long: Minerais de cuivre
+  de->german diff=108
+    TTD_STR_INDUSTRY_NAME_COAL_MINE.base | short: Kohlemine | long: Kohlebergwerk
+    TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE.base | short: Kupfermine | long: Kupferbergwerk
+    TTD_STR_INDUSTRY_NAME_DIAMOND_MINE.base | short: Diamantmine | long: Diamantenmine
+    TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT.base | short: Lebensmittelverarbeitungswerk | long: Lebensmittelfabrik
+    TTD_STR_INDUSTRY_NAME_OIL_WELLS.base | short: Ölquellen | long: Ölbrunnen
+    TTD_STR_INDUSTRY_NAME_PAPER_MILL.base | short: Papierwerk | long: Papierfabrik
+  es->spanish diff=97
+    TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT.base | short: Planta de procesamiento de alimentos | long: {G=f}Planta Procesadora de Alimentos
+    TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE.base | short: Mina de mineral de hierro | long: Minería de hierro
+    TTD_STR_INDUSTRY_NAME_SAWMILL.base | short: Aserradero | long: Serradero
+    TTD_STR_INDUSTRY_NAME_STEEL_MILL.base | short: Acería | long: Acera
+    TTD_STR_CARGO_PLURAL_FOOD.base | short: Alimento | long: Alimentos
+    TTD_STR_CARGO_PLURAL_GRAIN.base | short: Grano | long: Cereales
+  zh->simplified_chinese diff=93
+    TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE.base | short: 铁矿 | long: 铁矿石矿场
+    TTD_STR_CARGO_PLURAL_FOOD.base | short: 食物 | long: 食品
+    ECONOMY_INFO_FIRS.base | short: 产业和货物种类繁多的复杂经济模式。 | long: 拥有众多产业和货物的复杂经济体。
+    ECONOMY_INFO_BASIC_ARCTIC.base | short: 简单经济模式。灵感来自芬兰、加拿大北部和西伯利亚北部。最适合在亚寒带气候下使用。 | long: 简约经济型。灵感源自芬兰、加拿大北部和西伯利亚北部。最适合亚寒带气候。
+    ECONOMY_INFO_BASIC_TEMPERATE.base | short: 简单经济模式。灵感来自英国西南部。最适合在温带气候下使用。 | long: 简约经济型。灵感源自英国西南部。最适合温带气候。
+    ECONOMY_INFO_BASIC_TROPIC.base | short: 简单经济模式。灵感来自阿根廷、秘鲁和智利。最适合在亚热带气候下使用。 | long: 简约经济型。灵感源自阿根廷、秘鲁和智利。最适合亚热带气候。

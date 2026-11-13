@@ -1,0 +1,666 @@
+{"i":0,"tr":" {BLACK}(roghainneil)"}
+{"i":1,"tr":" {BLACK}(air a sholarachadh)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Acid"}
+{"i":4,"tr":"Co-chruinneachaidhean"}
+{"i":5,"tr":"Alumina"}
+{"i":6,"tr":"Alumainiam"}
+{"i":7,"tr":"Uachdar Alamainiam"}
+{"i":8,"tr":"Ammonia agus Toraidhean Nitric"}
+{"i":9,"tr":"Co-fhillte Ammonia"}
+{"i":10,"tr":"Mianach Anhydrite"}
+{"i":11,"tr":"Uachdar Pròiseis Anhydrite"}
+{"i":12,"tr":"Clach anhydrit"}
+{"i":13,"tr":"Uilean"}
+{"i":14,"tr":"Factaraidh innealan-dachaigh"}
+{"i":15,"tr":"Arctic Basic"}
+{"i":16,"tr":"Tha iad gu bràth, is mar sin air adhart"}
+{"i":17,"tr":"Uachdran-cruinneachaidh"}
+{"i":18,"tr":"Carbadan"}
+{"i":19,"tr":"Rèiteach anns gach eaconamaidh. Air a dhèanamh agus air a ghabhail a-steach le togalaichean bailteil, agus cuideachd le beagan gnìomhachasan."}
+{"i":20,"tr":"Rèiteach anns gach eaconamaidh. Air a dhèanamh agus air a ghabhail a-steach le togalaichean bailteil."}
+{"i":21,"tr":"Bùcaireachd"}
+{"i":22,"tr":"Bàlaichean."}
+{"i":23,"tr":"Mullach na banca"}
+{"i":24,"tr":"Bar, Grill agus Seòmraichean"}
+{"i":25,"tr":"Tùir-fearainn"}
+{"i":26,"tr":"Bairil agus Ceag"}
+{"i":27,"tr":"Bairitean agus Flùorspar"}
+{"i":28,"tr":"Bunait"}
+{"i":29,"tr":"Furnas Ocsaidean Bunaiteach"}
+{"i":30,"tr":"Iarann bunaiteach à furnas-spreadhaidh, mar leaghan leaghte no ingotan cruaidh."}
+{"i":31,"tr":"Obair-cheimigeachd Baidseach"}
+{"i":32,"tr":"Pònairean"}
+{"i":33,"tr":"Bileatan agus Blòmaichean"}
+{"i":34,"tr":"Bileatan, blòmaichean, ingotan agus slaban."}
+{"i":35,"tr":"Biomàs bho bhoglaichean peata, air a tharraing a-mach airson connadh agus gàrradh."}
+{"i":36,"tr":"Bitumen"}
+{"i":37,"tr":"Fùrnas-spreadhaidh"}
+{"i":38,"tr":"Lusan-cuirp"}
+{"i":39,"tr":"Cìr-cnàmhan"}
+{"i":40,"tr":"Factaraidh bhòtalan is canan"}
+{"i":41,"tr":"Bogsaichean, bòtalan, jarraidhean, canan, is mar sin air adhart"}
+{"i":42,"tr":"Dìosganachd"}
+{"i":43,"tr":"Obair-salann"}
+{"i":44,"tr":"Cùirt-thogail"}
+{"i":45,"tr":"Toradh-taice bho dhèanamh coke, leaghan tiugh a bhios a’ sruthadh gu slaodach."}
+{"i":46,"tr":"CIRS"}
+{"i":47,"tr":"Seata Cuir-rèiteachaidh Gnìomhachas Coimhearsnachd CIRS"}
+{"i":48,"tr":"Tha seata de nithean cruthachadh-tìre ann an CIRS, as urrainn do chluicheadairean an cur an sàs gus cuid de dh’ionnstradaidhean a dhèanamh coltach gu bheil iad nas motha. Chan eil buaidh cluiche sam bith aig nithean cruthachadh-tìre. Faodar nithean cruthachadh-tìre a chur air no dheth."}
+{"i":49,"tr":"Nithean cruthachadh-tìre CIRS"}
+{"i":50,"tr":"Cabannan, còmhdaichean-motair, dorsan agus structaran co-chosmhail de chorp nan carbadan airson cinneasachadh carbadan."}
+{"i":51,"tr":"Ocsaid Chàlciam, ris an canar cuideachd lìm losgaidh. Thèid a ghiùlan mar phuider mhìn a dh’fheumar a chumail tioram."}
+{"i":52,"tr":"Carbon Dubh"}
+{"i":53,"tr":"Lusan Carbon Dubh"}
+{"i":54,"tr":"Cassava"}
+{"i":55,"tr":"Iarann Chasta"}
+{"i":56,"tr":"Toraidhean casta leithid bloighean, traisichean agus pannalan. Faodar cuideachd dèiligeadh riutha mar choincréit deiseil ann an trucail-mheasgachaidh."}
+{"i":57,"tr":"Obraichean Film Seileulóis"}
+{"i":58,"tr":"Simeant"}
+{"i":59,"tr":"Lusan Simeant"}
+{"i":60,"tr":"Simeant, glainne, co-phàirtean meatailt, bathar fiodha, pìoban agus stuthan togail coltach riutha sin."}
+{"i":61,"tr":"Co-fhillte Ceimigeach"}
+{"i":62,"tr":"Eadar-mheadhanan Ceimigeach"}
+{"i":63,"tr":"Ceimigean, saban, stuthan-sgrìobaidh is eile airson cleachdadh gnìomhachais agus dachaigheil. Gu h-àraidh leaghan, ach faodaidh iad cuideachd a bhith nan pùdar no nan stuth cruaidh (leithid gainmheach airson sgrìobadh le peilearan)."}
+{"i":64,"tr":"Cladhach Shìona"}
+{"i":65,"tr":"Factaraidh Clàr-sgàinean"}
+{"i":66,"tr":"Uachdaran Clòr-ailcalain"}
+{"i":67,"tr":"Clòr"}
+{"i":68,"tr":"Muilinn Chìdar"}
+{"i":69,"tr":"Stuthan-spreadhaidh sìobhalta airson mèinneachadh, togail is eile."}
+{"i":70,"tr":"Stuthan Glanaidh"}
+{"i":71,"tr":"Coal"}
+{"i":72,"tr":"Mian-coile"}
+{"i":73,"tr":"Tar-coile"}
+{"i":74,"tr":"Coile a chaidh a theasachadh ann an uisgeach-coile, a’ cruthachadh connadh a tha cha mhòr glan charbon."}
+{"i":75,"tr":"Gainmheach garbh airson togail, no gainmheach silica mìn airson glainneachadh agus meatailtean a chur ann an cumadh. Air a ghiùlan mar stoc mòr no mar phùdar."}
+{"i":76,"tr":"Uachdar-cofaidh"}
+{"i":77,"tr":"Loidhne-coil"}
+{"i":78,"tr":"Coile"}
+{"i":79,"tr":"Uisgeach-coile"}
+{"i":80,"tr":"Mian-coile"}
+{"i":81,"tr":"Bùcaireachd malairteach"}
+{"i":82,"tr":"Bailean cumanta, bailean fava, pònairean soya agus lusan-pònairean itheach coltach riutha sin."}
+{"i":83,"tr":"Eaconamaidh iom-fhillte anns a bheil gnìomhachasan iarainn, stàilinn agus saothrachaidh throm."}
+{"i":84,"tr":"Eaconamaidh iom-fhillte le iomadh gnìomhachas agus iomadh seòrsa luchd-cuiridh."}
+{"i":85,"tr":"Eaconamaidh iom-fhillte le iomadh gnìomhachas agus iomadh seòrsa luchd-cuiridh. Air a bhrosnachadh le Afraga meadhanach-an iar. As fheàrr a chleachdadh le gnàth-shìde fo-thropach."}
+{"i":86,"tr":"Co-phàirtean"}
+{"i":87,"tr":"Co-phàirtean airson cinneasachadh chàraichean, leithid frèam agus co-phàirtean crochaidh, pàirtean dealain, sgeadachadh a-muigh agus pàirtean taobh a-staigh."}
+{"i":88,"tr":"Uachdar Coimhearsnachd"}
+{"i":89,"tr":"Toraidhean Coimhearsnachd"}
+{"i":90,"tr":"Cùirt Thogail"}
+{"i":91,"tr":"Factaraidh Bidhean Goireasachd"}
+{"i":92,"tr":"Coirbeag"}
+{"i":93,"tr":"Uamh Coirbeag"}
+{"i":94,"tr":"Mianach Coirbeag"}
+{"i":95,"tr":"Oir Coirbeag"}
+{"i":96,"tr":"Lùbair copair"}
+{"i":97,"tr":"Cotain, flax, iute agus stuthan coltach ris, airson teacsailean agus stuthan co-churraichte a dhèanamh."}
+{"i":98,"tr":"Obair-chruair"}
+{"i":99,"tr":"Creosotachadh"}
+{"i":100,"tr":"Petrolam amh, gun phròiseasadh, air a ghiùlan mar leaghan ann am buidheann mhòr."}
+{"i":101,"tr":"Uachdar criog-eòlais"}
+{"i":102,"tr":"Uachdar bainne"}
+{"i":103,"tr":"Fàrm bainne"}
+{"i":104,"tr":"Slighe bainne"}
+{"i":105,"tr":"Mianach diamant"}
+{"i":106,"tr":"Diamantan"}
+{"i":107,"tr":"Làrach drèididh"}
+{"i":108,"tr":"Drumaichean, uinneachairean, slabhraidhean, crochaidhean, puilean, ramhaichean haidrailigeach agus pàirtean eile airson crannan, togadairean, àrdachadairean is mar sin air adhart."}
+{"i":109,"tr":"Simeant tioram ann an cruth pùdar no clinker."}
+{"i":110,"tr":"Tha cothlamadh eadar-dhealaichte de luchd-giùlain agus gnìomhachasan aig gach eaconamaidh.{}{}Do chluicheadairean a tha ag iarraidh cluich sìmplidh, tha nas lugha de ghnìomhachasan agus luchd-giùlain ann an eaconamaidhean {SILVER}Bunasach {BLACK}CIRS na tha ann an eaconamaidhean CIRS eile.{}{}Tha an làrach-lìn CIRS a’ toirt seachad mion-fhiosrachadh mu gach eaconamaidh."}
+{"i":111,"tr":"Olaidh Ithteach"}
+{"i":112,"tr":"Planta freumhaich ithteach, ris an canar cuideachd manioc agus yuca."}
+{"i":113,"tr":"Uachdarson Toraidhean Elastomerach"}
+{"i":114,"tr":"Fùrnas Arca Eileagtrach"}
+{"i":115,"tr":"Pàirtean Eileagtrach"}
+{"i":116,"tr":"Co-phàirtean eileagtrach is eileagtronaigeach, motaran, smachdairean, uidheam suidheachaidh, solais is mar sin air adhart."}
+{"i":117,"tr":"Bathar Eileagtrach"}
+{"i":118,"tr":"Uachdarson Innleadairean"}
+{"i":119,"tr":"Obraichean Innleadaireachd"}
+{"i":120,"tr":"Einnseanan & Loidhne-dràibhidh"}
+{"i":121,"tr":"Ìre àrdachaidh prìomh chinneasachaidh (%)"}
+{"i":122,"tr":"Tàigh-taighe"}
+{"i":123,"tr":"Stuthan-spreadhaidh"}
+{"i":124,"tr":"Factaraidh stuthan-spreadhaidh"}
+{"i":125,"tr":"Factaraidh"}
+{"i":126,"tr":"Fearann-tuathanais"}
+{"i":127,"tr":"Nì fearannan-tuathanais, mèinnean agus gnìomhachasan coltach ris barrachd cinneasachaidh nuair a thèid bogsaichean solar a lìbhrigeadh, an toiseach gu {SILVER}Enhanced{BLACK}, agus an uair sin gu {SILVER}Gung-ho{BLACK}, ma thèid gu leòr bogsaichean a lìbhrigeadh.  {}{}Tha na luachan bhunasach math, ach ma dh’fheumas tu, faodaidh tu an atharrachadh an seo.  {}{}Bidh feumalachdan luchd-giùlain airson gnìomhachasan de sheòrsa puirt 8x na luachan a chaidh a shuidheachadh an seo."}
+{"i":128,"tr":"Uachdar fèaraimhidh"}
+{"i":129,"tr":"Fèir-ailleanan"}
+{"i":130,"tr":"Cothromachadh"}
+{"i":131,"tr":"Uachdar cothromachaidh is acaidh"}
+{"i":132,"tr":"Raon"}
+{"i":133,"tr":"Uèir mhìn a thathar a’ cleachdadh gus tiuran a neartachadh. Air a ghiùlan mar chobair."}
+{"i":134,"tr":"Iasg is Biadh-Mara"}
+{"i":135,"tr":"Fàrma Iasgaich"}
+{"i":136,"tr":"Àiteachan Iasgaich"}
+{"i":137,"tr":"Cuan Iasgaich"}
+{"i":138,"tr":"Sèilean sùbailte, gasketan, siosalan, bannan, matan, bushingean, msaa, air an dèanamh à rubair no stuthan coltach ris."}
+{"i":139,"tr":"Flùr is Stàirce"}
+{"i":140,"tr":"Loidhne-sruthaidh"}
+{"i":141,"tr":"Biadh"}
+{"i":142,"tr":"Biadh is Deochan"}
+{"i":143,"tr":"Stuthan-leasachaidh Biadh"}
+{"i":144,"tr":"Co-chorporachd Bidhe"}
+{"i":145,"tr":"Uachdar Pròiseasaidh Bidhe"}
+{"i":156,"tr":"Furnas"}
+{"i":157,"tr":"Factaraidh Fuireachais"}
+{"i":158,"tr":"GPL(v2)"}
+{"i":159,"tr":"GRFID"}
+{"i":160,"tr":"Bùth Choitcheann"}
+{"i":161,"tr":"Claisean coitcheann, airson stuthan togail agus cleachdaidhean gnìomhachais eile a dhèanamh."}
+{"i":162,"tr":"Meatailt choitcheann, leithid stàilinn, alùmanum no meatailtean cumanta eile."}
+{"i":163,"tr":"Ceimigean organach agus neo-organach coitcheann, air an làimhseachadh mar leaghan, gas, stuth cruinn còmhdaichte, pùdar, no mar thoraidhean pìosach."}
+{"i":164,"tr":"Beamaichean-taice"}
+{"i":165,"tr":"Toraidhean Glainne"}
+{"i":166,"tr":"Obair-Glainne"}
+{"i":167,"tr":"Bathar"}
+{"i":168,"tr":"Gràin"}
+{"i":169,"tr":"Muilinn gràin"}
+{"i":170,"tr":"Graibheal, gainmheach, clach briste agus stuthan coltach ris a thathar a’ cleachdadh ann an togail."}
+{"i":171,"tr":"Ìre prìomh-chruthachaidh Gung-ho (%)"}
+{"i":172,"tr":"Cruaidh-earrannan & Crìochnachaidhean"}
+{"i":173,"tr":"Co-op Itealaich"}
+{"i":174,"tr":"Co-phàirtean innleadaireachd àrd-luach, leithid uidheamachd dealain, motaran, cruth-atharrachadairean, uidheam-smachd, haidrailigs, pneumatics, pumpaichean, bhalbhaichean agus uidheamachd siostam-cumhachd."}
+{"i":175,"tr":"Margaidh Each"}
+{"i":176,"tr":"Taigh-òsta"}
+{"i":177,"tr":"ID"}
+{"i":178,"tr":"Ann an Dùthaich Theth"}
+{"i":179,"tr":"Carbonan Gnìomhachais"}
+{"i":180,"tr":"Uachdar Ceimigean Gnìomhachais"}
+{"i":181,"tr":"Gasaichean Gnìomhachais"}
+{"i":182,"tr":"Pàirc Ghnìomhachais"}
+{"i":183,"tr":"Sgaoth gnìomhachais a thathar a’ cleachdadh sa mhòr-chuid ann an saothrachadh feartairean agus ceimigean, agus a thathar a’ giùlan mar leaghan ann am buidheann mhòr."}
+{"i":184,"tr":"Sgaothan gnìomhachais, leithid sgaoth haidroclòraig, nìtrig agus suilphùrach."}
+{"i":185,"tr":"Alcòl gnìomhachais a thathar a’ cleachdadh mar stuth-bathair cheimigeach agus mar chonnadh, agus a thathar a’ giùlan mar leaghan ann am buidheann mhòr."}
+{"i":186,"tr":"Ceimigeach gnìomhachais, mar as trice air a ghiùlan gu criogineach mar gas teannachte air a leaghadh."}
+{"i":187,"tr":"Ceimigeach gnìomhachais. Canar Lye no Caustic Soda ris cuideachd. Mar as trice air a ghiùlan mar leaghan."}
+{"i":188,"tr":"Ceimigeach gnìomhachais. Ann an cruth pùdar geal."}
+{"i":189,"tr":"Ceimigean gnìomhachais air an dèanamh à aimonia, leithid aimonia, sgaoth nìtrig agus urea. Air an giùlan mar leaghan, gu criogineach mar gas air a leaghadh, no mar stuth tioram ann am buidheann mhòr."}
+{"i":190,"tr":"Ceimigean gnìomhachais a thathar a’ cleachdadh ann an saothrachadh agus pròiseasadh, agus a thathar a’ giùlan mar leaghan, pùdar, gas no bathar pacaichte."}
+{"i":191,"tr":"Gas gnìomhachais. Air a ghiùlan gu criogineach mar gas teannachte air a leaghadh."}
+{"i":192,"tr":"Gasaichean gnìomhachais a thathar a’ cleachdadh ann an giullachd cheimigeach, obair meatailt agus tàthadh, air an giùlan ann an siolandairean no tancairean brùthaidh."}
+{"i":193,"tr":"Mianach gnìomhachais, ris an canar Kaolin cuideachd, a thathar a’ cleachdadh sa mhòr-chuid ann an cinneasachadh pàipeir agus plastaigean."}
+{"i":194,"tr":"Mianach gnìomhachais a thathar a’ cleachdadh ann an giullachd cheimigeach. Thathar a’ cleachdadh Barytes ann an ceimigean barium agus stuthan-lìonaidh; fluorspar ann an ceimigeachd fluorine agus fluixean meatailteachd."}
+{"i":195,"tr":"Blocan-meatailt."}
+{"i":196,"tr":"Co-phàirtean a thathar a’ cleachdadh ann an giullachd bìdh, leithid stuthan-glèidhidh, blasan, dathan agus cuideachairean giullachd."}
+{"i":197,"tr":"Pùdar carbon uabhasach dubh, a thathar a’ cleachdadh ann an tiòran, plastaigean agus pìgmeantan. Tha e air a làimhseachadh mar phùdar."}
+{"i":198,"tr":"Toraidhean ceimigeach eadar-mheadhanach a thathar a’ cleachdadh mar stuth-tòiseachaidh airson barrachd giullachd gnìomhachais."}
+{"i":199,"tr":"Toraidhean siùcair eadar-mheadhanach airson glanaidh, fèarmentadh agus cleachdadh gnìomhachais. Tha na gràinean greamach air an làimhseachadh mar stuth coitcheann còmhdaichte; tha an sirop tiugh air a làimhseachadh mar leaghan; faodar an dà chuid a phacadh."}
+{"i":200,"tr":"Einnseanan losgaidh a-staigh agus pàirtean co-cheangailte den t-siostam-cumhachd, leithid an tar-chur agus na h-aisleanan-dràibhidh."}
+{"i":201,"tr":"Uireas-iarainn"}
+{"i":202,"tr":"Mianachd uireas-iarainn"}
+{"i":203,"tr":"Clach-iarainn"}
+{"i":204,"tr":"Fùirneasan"}
+{"i":205,"tr":"Stòran Kimberlite"}
+{"i":206,"tr":"TALAMH"}
+{"i":207,"tr":"Àrd-ùrlar Tighinn A-steach"}
+{"i":208,"tr":"Hydrocarbons Aotrom"}
+{"i":209,"tr":"Fraiseanan peatrolaim aotrom a thathar a’ cleachdadh mar stuthan-bathair cheimigeach, air an giùlan mar leaghan ann am buidheann mhòr."}
+{"i":210,"tr":"Fùrneis Lìomaid"}
+{"i":211,"tr":"Clach-lìomaid"}
+{"i":212,"tr":"Mianach Clach-lìomaid"}
+{"i":213,"tr":"Mianagan Clach-lìomaid"}
+{"i":214,"tr":"Beathach"}
+{"i":215,"tr":"Tighinn A-steach Loga"}
+{"i":216,"tr":"Logan"}
+{"i":217,"tr":"Logan à coille."}
+{"i":218,"tr":"Tuba fada falamh ann an cruth cruinn, ceart-cheàrnach agus earrannan tarsainn eile. Cleachdar e airson structaran agus innealan a dhèanamh."}
+{"i":219,"tr":"Pìoban stàilinn fada cruinn airson leaghan a ghiùlan ann an pìob-lìonaidhean, togalaichean, gnìomhachasan, msaa."}
+{"i":220,"tr":"Innealan, connadh, pàirtean, feartail agus solar eile airson tuathanasan, coilltean agus gnìomhachasan coltach riutha sin."}
+{"i":221,"tr":"Innealan, connadh, pàirtean, bathar fiodha, pìoban, stuthan spreadhaidh agus solar eile airson mèinnean agus gnìomhachasan coltach riutha sin."}
+{"i":222,"tr":"Innealan, pàirtean, connadh, stuthan togail agus solar eile airson puirt, dòcaichean agus gnìomhachasan coltach riutha sin."}
+{"i":223,"tr":"Post"}
+{"i":224,"tr":"Màis"}
+{"i":225,"tr":"Manganais"}
+{"i":226,"tr":"Mèinn Manganais"}
+{"i":227,"tr":"Mèinnean Manganais"}
+{"i":228,"tr":"Oir manganais, air a chleachdadh sa mhòr-chuid ann an cinneasachadh stàilinn."}
+{"i":229,"tr":"Tigh-mòr"}
+{"i":230,"tr":"An t-astar còsta as motha airson gnìomhachasan mara ann an tilsean"}
+{"i":231,"tr":"An t-astar as motha bho chòsta gu raointean iasgaich, turraingean ola agus làraichean drèididh, ann an tilsean."}
+{"i":232,"tr":"Feurachan"}
+{"i":233,"tr":"Feòil"}
+{"i":234,"tr":"Bar Malairteach"}
+{"i":235,"tr":"Obair-Mheatailt"}
+{"i":236,"tr":"Pàirtean meatailt airson an cur ri chèile nan nithean nas motha."}
+{"i":237,"tr":"Bathar meatailt"}
+{"i":238,"tr":"Meatainòl"}
+{"i":239,"tr":"Mild Mild West"}
+{"i":240,"tr":"Muilnean"}
+{"i":241,"tr":"Lìonadairean mèinnireil"}
+{"i":242,"tr":"Planta lìonadairean mèinnireil"}
+{"i":243,"tr":"Mèinnirean"}
+{"i":244,"tr":"Mianachdan"}
+{"i":251,"tr":"Sa mhòr-chuid, còtaichean, mucan is caorach airson feòil a dhèanamh. Dh’fhaodadh beathaichean eile a bhith air an ithe cuideachd."}
+{"i":252,"tr":"Meatailtean neo-iarannach, leithid copair, nicil, sinc agus plumbam."}
+{"i":253,"tr":"Nòtan"}
+{"i":254,"tr":"Ol"}
+{"i":255,"tr":"Teirmineal Ol is Ceimigean"}
+{"i":256,"tr":"Uraich-taigh Ol"}
+{"i":257,"tr":"Tùr-drile Ol"}
+{"i":258,"tr":"Tobaran Ol"}
+{"i":259,"tr":"Ol airson còcaireachd agus caitheamh."}
+{"i":260,"tr":"Gairdhean-taighean agus Taigh-mucan"}
+{"i":261,"tr":"Gairdhean-taighean"}
+{"i":262,"tr":"Ocsaidean"}
+{"i":263,"tr":"Pasgadh"}
+{"i":264,"tr":"Peant is Còmhdaichean"}
+{"i":265,"tr":"Pàipear"}
+{"i":266,"tr":"Uachdar Pàipeir"}
+{"i":267,"tr":"Factaraidh Bhathar Pàipeir"}
+{"i":268,"tr":"Passasairean"}
+{"i":269,"tr":"Peat"}
+{"i":270,"tr":"Tìrean Peat"}
+{"i":271,"tr":"Stèisean Peatrail"}
+{"i":272,"tr":"Peatrail, deisil agus connadh coltach ris."}
+{"i":273,"tr":"Fosfata"}
+{"i":274,"tr":"Mian-fhàs Fosfata"}
+{"i":275,"tr":"Sgaoth Fosfòirich"}
+{"i":276,"tr":"Iarann Chruaidh"}
+{"i":277,"tr":"Bùth Phìoban"}
+{"i":278,"tr":"Pit"}
+{"i":279,"tr":"Lusanachd"}
+{"i":280,"tr":"Lusanachd & Innealan"}
+{"i":281,"tr":"Plantachd"}
+{"i":282,"tr":"Factaraidh Mouldadh Plastaig"}
+{"i":283,"tr":"Plastaigean & Resins"}
+{"i":284,"tr":"Muilinn Phlèitean"}
+{"i":285,"tr":"Port"}
+{"i":286,"tr":"Potash"}
+{"i":287,"tr":"Mian Potash"}
+{"i":288,"tr":"Toraidhean gràin pùdair leithid flùr agus stàirce, air an giùlan ann am pasgan no mar mhòr-thaisbeanadh còmhdaichte."}
+{"i":289,"tr":"Factaraidh Siostaman Cumhachd"}
+{"i":290,"tr":"Coilear cumhachdach agus siostaman meacanaigeach a thathar a’ cleachdadh ann an togalaichean, gnìomhachasan agus tuathanasan. Air an giùlan mar aonadan iomlan no mar phrìomh fho-chruinneachaidhean."}
+{"i":291,"tr":"Siostam-dràibhidh"}
+{"i":292,"tr":"Ro-chruinnichte"}
+{"i":293,"tr":"Co-phàirtean Mionaideach"}
+{"i":294,"tr":"Uachdaran Co-phàirtean Mionaideach"}
+{"i":295,"tr":"Preasan"}
+{"i":296,"tr":"Ceimigean Pròiseis"}
+{"i":297,"tr":"Uachdaran Ceimigean Pròiseis"}
+{"i":298,"tr":"Snàithleach fiodha pròiseasta a thathar a’ cleachdadh sa mhòr-chuid airson pàipear a dhèanamh, air a ghiùlan mar bhàlaichean no mar phùlp mòr-thaisbeanaidh."}
+{"i":299,"tr":"Toraidhean fiodha pròiseasta bho shàbh-fiodha no bho ghnìomhachasan coltach ris."}
+{"i":300,"tr":"Pacair Toraidh"}
+{"i":301,"tr":"Gnìomhachas air feirmean, ann an mèinnean agus ann an gnìomhachasan coltach riutha nuair a thathar air coinneachadh ri feumalachdan solar (mar cheudad de ìre cinneasachd {SILVER}àbhaisteach {BLACK})."}
+{"i":302,"tr":"Pumpaidhean"}
+{"i":303,"tr":"Pumpaidhean is Valvan"}
+{"i":304,"tr":"Stòran Pyrite"}
+{"i":305,"tr":"Mèinn Pyrite"}
+{"i":306,"tr":"Oir Pyrite"}
+{"i":307,"tr":"Lùbair Pyrite"}
+{"i":308,"tr":"Python 3.11+"}
+{"i":309,"tr":"Lìomhaigean Luath"}
+{"i":310,"tr":"Fàrma"}
+{"i":311,"tr":"Siùcar Amh & Molasses"}
+{"i":312,"tr":"Gràinnean cofaidh amh no ròstaichte."}
+{"i":313,"tr":"Plastaig amh airson tuilleadh pròiseisidh. Mar as trice, thèid a ghiùlan mar bheadaichean reasain."}
+{"i":314,"tr":"Stàilinn-armachd"}
+{"i":315,"tr":"Meatailt alùmanaim ath-sgrìobhte, ann an coilean, ingotan, slaban is mar sin air adhart."}
+{"i":316,"tr":"Meatailt copair ath-sgrìobhte, ann an coilean, ingotan is mar sin air adhart."}
+{"i":317,"tr":"Toraidhean peatrolaim ath-sgrìobhte leithid peatrol, deasil, ceiriosin, LPG, ola-làimhe agus fuil bhuncair, air an giùlan mar leaghan ann am buidheann no mar ghas leaghaichte."}
+{"i":318,"tr":"Uachdran ath-sgrìobhaidh"}
+{"i":319,"tr":"Peanan Reinder"}
+{"i":320,"tr":"Lusan Roadstone"}
+{"i":321,"tr":"Muilinn ròd"}
+{"i":322,"tr":"Plàtaichean agus earrannan stàilinn rolaichte - traisichean I, traisichean H, seanailean is mar sin air adhart. Air an giùlan mar thoraidhean fada, dìreach."}
+{"i":323,"tr":"Ròpan agus càballan air an dèanamh le bhith a’ tàladh ròd dhrèidht stàilinn gu trast-thomhas nas lugha, agus an uair sin ga tionndadh gu ròpan cruinnichte."}
+{"i":324,"tr":"Castaichean cruaidh stàilinn, a dh’fheumas tuilleadh pròiseisaidh. Faodaidh ingotan a bhith beag no glè mhòr. ’S e proifilean ceart-cheàrnach no cruinn a th’ ann an ingotan àbhaisteach."}
+{"i":325,"tr":"Rubair"}
+{"i":326,"tr":"Companaidh Rubair"}
+{"i":327,"tr":"Plantach Rubair"}
+{"i":328,"tr":"MARA"}
+{"i":329,"tr":"Salann"}
+{"i":330,"tr":"Obair-salainn"}
+{"i":331,"tr":"Obair-salpeter"}
+{"i":332,"tr":"Bainc-gainmhich"}
+{"i":333,"tr":"Muilinn-sàbhaidh"}
+{"i":334,"tr":"Bìdh-mara"}
+{"i":335,"tr":"Seal agus Tuba"}
+{"i":336,"tr":"Sealan, Tubaichean & Beltichean"}
+{"i":337,"tr":"Milladh Earrannan is Bàraichean"}
+{"i":338,"tr":"Castaichean stàilinn leth-chrìochnaichte. An-còmhnaidh còmhnard agus ceart-cheàrnach san trasghearradh."}
+{"i":339,"tr":"Castaichean stàilinn leth-chrìochnaichte. Ceart-cheàrnach, ceàrnagach no cruinn san trasghearradh."}
+{"i":340,"tr":"Sràid Sharp"}
+{"i":341,"tr":"Uisgeachan domhainn beaga"}
+{"i":342,"tr":"Cladaich"}
+{"i":343,"tr":"Sìlo"}
+{"i":344,"tr":"Eaconamaidh shìmplidh. Air a brosnachadh le Argentina, Peru agus Chile. As fheàrr a chleachdadh ann an cliath fo-thropach."}
+{"i":345,"tr":"Eaconamaidh shìmplidh. Air a brosnachadh leis an Fhionnlainn, ceann a tuath Chanaidh agus ceann a tuath Siberia. As fheàrr a chleachdadh ann an cliath fo-Arctach."}
+{"i":346,"tr":"Eaconamaidh shìmplidh. Air a brosnachadh le ceann a deas an iar na Rìoghachd Aonaichte. As fheàrr a chleachdadh ann an cliath mheadhanach."}
+{"i":347,"tr":"Cùirt slabhraidh"}
+{"i":348,"tr":"Slag"}
+{"i":349,"tr":"Uachdar Mùilneachaidh Slag"}
+{"i":350,"tr":"Lùbair"}
+{"i":355,"tr":"Lùbair Soda"}
+{"i":356,"tr":"Lòchd Lùbair Soda"}
+{"i":357,"tr":"Hiodrocsaid Sodium"}
+{"i":358,"tr":"Lòchd Soot"}
+{"i":359,"tr":"Brothan"}
+{"i":360,"tr":"Uisgeachair Stàilinn"}
+{"i":361,"tr":"Pìob Stàilinn"}
+{"i":362,"tr":"Plàta Stàilinn"}
+{"i":363,"tr":"Duilleag is Stiall Stàilinn"}
+{"i":364,"tr":"Slab Stàilinn"}
+{"i":365,"tr":"Tuba Stàilinn"}
+{"i":366,"tr":"Tàirnean Stàilinn"}
+{"i":367,"tr":"Bàraichean stàilinn, leithid cruinn, ceàrnagach, còmhnard agus proifilean eile. Air an giùlan mar thoraidhean fada dìreach."}
+{"i":368,"tr":"Uèir stàilinn agus tàirneanan tana. Air an giùlan sa mhòr-chuid mar chobhlaichean."}
+{"i":369,"tr":"Maighstirean Stàilinn"}
+{"i":370,"tr":"Baile Stàilinn"}
+{"i":371,"tr":"Cùirt-stòcaidh"}
+{"i":372,"tr":"Tancaichean Stòraidh & Pìobaireachd"}
+{"i":373,"tr":"Tancaichean stòraidh, soithichean brùthaidh, siloichean, siolaind ghasa agus co-chruinneachaidhean pìoban, airson cleachdadh ann an togalaichean bailteil, gnìomhachasan agus tuathanasan."}
+{"i":374,"tr":"Stòran"}
+{"i":375,"tr":"Muilinn Sgriobach"}
+{"i":376,"tr":"Stàilinn Structarail"}
+{"i":377,"tr":"Stàilinn de chàileachd structarail ann an earrannan rolaichte (beamaichean I, beamaichean H, msaa), no mar phlèitean rèidh, no mar earrannan agus beamaichean dèanta le plèitean air an t-soladachadh ri chèile."}
+{"i":378,"tr":"Siùcar"}
+{"i":379,"tr":"Companaidh Siùcair"}
+{"i":380,"tr":"Uaine Siùcair"}
+{"i":381,"tr":"Mionaidhean sulfaid, air an leaghadh gus diofar thoraidhean gnìomhachais a dhèanamh."}
+{"i":382,"tr":"Sulfair"}
+{"i":383,"tr":"Acid Sulfarach"}
+{"i":384,"tr":"Solaran airson meatailt a ghearradh agus a chladhach, leithid stàilnean cladhach, innealan agus gasan gnìomhachais, a’ gabhail a-steach acetylene, argon, propane, ogsaidean agus naitridean."}
+{"i":385,"tr":"Cùirt Solarachaidh"}
+{"i":386,"tr":"Bogsaichean solarachaidh a dh’fheumar airson prìomh chinneasachadh Leasaichte (16 mar bhun-roghainn)"}
+{"i":387,"tr":"Bogsaichean solarachaidh a dh’fheumar airson prìomh chinneasachadh Gung-ho (80 mar bhun-roghainn)"}
+{"i":388,"tr":"Fàrm Tancaichean"}
+{"i":389,"tr":"Talla nan Tappers"}
+{"i":390,"tr":"Bun-ìre Mheadhanach"}
+{"i":391,"tr":"Toradh peatrolaim tiugh a thathar a’ cleachdadh sa mhòr-chuid airson uachdaran rathaidean agus mullachan a dhèanamh."}
+{"i":392,"tr":"Duilleagan agus stiallan tana stàilinn rolaichte, air an cleachdadh gu farsaing gus toraidhean eile a dhèanamh. Air an giùlan mar dhuilleagan còmhnard no mar chobhlaichean."}
+{"i":393,"tr":"Stàilnean tana garbh a thathar a’ cleachdadh gu farsaing gus structaran coimhearsnach a neartachadh. Air an giùlan mar chobhlaichean no mar chruinneachaidhean de stàilnean dìreach."}
+{"i":394,"tr":"Duilleag thana stàilinn air a còmhdach le tin airson cur an aghaidh creimeadh, air a cleachdadh sa mhòr-chuid airson canan, coimeasaichean agus pasgan eile."}
+{"i":395,"tr":"Toraidhean Fiodha"}
+{"i":396,"tr":"Cùirt Fiodha"}
+{"i":397,"tr":"Tinne"}
+{"i":398,"tr":"Mianach Tinne"}
+{"i":399,"tr":"Plàta Tinne"}
+{"i":400,"tr":"Obraichean Plàta Tinne"}
+{"i":401,"tr":"Factaraidh Chàraichean Rianachd"}
+{"i":402,"tr":"Post Malairt"}
+{"i":403,"tr":"Leabaidhean Trona"}
+{"i":404,"tr":"Pàirc Trucaidean"}
+{"i":405,"tr":"Mùil Thubaichean is Pìoban"}
+{"i":406,"tr":"Mùil Thubaichean"}
+{"i":407,"tr":"Sreang Taidhrichean"}
+{"i":408,"tr":"Uachdaran Tàirneanaich"}
+{"i":409,"tr":"Tàirneanaich"}
+{"i":410,"tr":"Air a chleachdadh ann an cinneasachadh aileaid agus stàilinn neo-ruisgte, aileaid de chromam agus iarainn. Builgeanan liath, coltach ri builgeanan coileir ann am meud agus cumadh."}
+{"i":411,"tr":"Air a chleachdadh ann an cinneasachadh stàilinn. Aileidean de iarann agus eileamaidean eile, nam measg managanais, nicil, cromam, alùmanam, sileacon agus tungstan. Builgeanan liath, coltach ri builgeanan coileir ann am meud agus cumadh."}
+{"i":412,"tr":"Ughan"}
+{"i":413,"tr":"Corpachan Chàraichean"}
+{"i":414,"tr":"Dìleabair Chàraichean"}
+{"i":415,"tr":"Pàirtean Chàraichean"}
+{"i":416,"tr":"Càraichean"}
+{"i":417,"tr":"Fearann Fìonain"}
+{"i":418,"tr":"Toradh sgudail bho chinneasachadh iarainn agus stàilinn."}
+{"i":419,"tr":"Taobh an Uisge"}
+{"i":420,"tr":"Stuthan caitheamh airson tàthaidh"}
+{"i":421,"tr":"Uamhan"}
+{"i":422,"tr":"Cairt"}
+{"i":423,"tr":"Uamh-mhìne"}
+{"i":424,"tr":"Cruithneachd, barlay is eile."}
+{"i":425,"tr":"Pùdar geal air a phrìneadh à mèinn bauxite, air a chleachdadh gus meatailt alùmanaim a dhèanamh."}
+{"i":426,"tr":"Clach gheal, liath no donn de shulfait chalcium, air a chleachdadh ann an cinneasachadh asaidh shulfarach agus seamaid. Mar as trice, thèid a ghiùlan mar luchd-mòr fo chòmhdach."}
+{"i":427,"tr":"Ceimigeadh gnìomhachais air a chleachdadh gu farsaing. Buidhe soilleir, ann an cruth pùdar no leaghan."}
+{"i":428,"tr":"Ceimigeadh gnìomhachais air a chleachdadh gu farsaing. Mar as trice, thèid a ghiùlan mar luchd-mòr a dh’fheumas a bhith tioram."}
+{"i":429,"tr":"Dìon-taighe fìona"}
+{"i":430,"tr":"Muilinn stàilinn-wire"}
+{"i":431,"tr":"Pùlp fiodha"}
+{"i":456,"tr":"{SIGNED_WORD} bale{P 0 \"\" s} de fhèil"}
+{"i":457,"tr":"{SIGNED_WORD} crate{P 0 \"\" s} de sholarachaidhean tuathanais"}
+{"i":458,"tr":"{TINYFONT}AA"}
+{"i":459,"tr":"{TINYFONT}AC"}
+{"i":460,"tr":"{TINYFONT}AG"}
+{"i":461,"tr":"{TINYFONT}AM"}
+{"i":462,"tr":"{TINYFONT}AO"}
+{"i":463,"tr":"{TINYFONT}AP"}
+{"i":464,"tr":"{TINYFONT}AY"}
+{"i":465,"tr":"{TINYFONT}BB"}
+{"i":466,"tr":"{TINYFONT}BI"}
+{"i":467,"tr":"{TINYFONT}BM"}
+{"i":468,"tr":"{TINYFONT}BN"}
+{"i":469,"tr":"{TINYFONT}CA"}
+{"i":470,"tr":"{TINYFONT}CB"}
+{"i":471,"tr":"{TINYFONT}CE"}
+{"i":472,"tr":"{TINYFONT}CF"}
+{"i":473,"tr":"{TINYFONT}CH"}
+{"i":474,"tr":"{TINYFONT}CI"}
+{"i":475,"tr":"{TINYFONT}CK"}
+{"i":476,"tr":"{TINYFONT}CN"}
+{"i":477,"tr":"{TINYFONT}CO"}
+{"i":478,"tr":"{TINYFONT}CP"}
+{"i":479,"tr":"{TINYFONT}CR"}
+{"i":480,"tr":"{TINYFONT}CT"}
+{"i":481,"tr":"{TINYFONT}CY"}
+{"i":482,"tr":"{TINYFONT}EL"}
+{"i":483,"tr":"{TINYFONT}EO"}
+{"i":484,"tr":"{TINYFONT}EP"}
+{"i":485,"tr":"{TINYFONT}ES"}
+{"i":486,"tr":"{TINYFONT}EX"}
+{"i":487,"tr":"{TINYFONT}FA"}
+{"i":488,"tr":"{TINYFONT}FI"}
+{"i":489,"tr":"{TINYFONT}FL"}
+{"i":490,"tr":"{TINYFONT}FO"}
+{"i":491,"tr":"{TINYFONT}FS"}
+{"i":492,"tr":"{TINYFONT}FV"}
+{"i":493,"tr":"{TINYFONT}GL"}
+{"i":494,"tr":"{TINYFONT}HW"}
+{"i":495,"tr":"{TINYFONT}IG"}
+{"i":496,"tr":"{TINYFONT}KA"}
+{"i":497,"tr":"{TINYFONT}LG"}
+{"i":498,"tr":"{TINYFONT}LH"}
+{"i":499,"tr":"{TINYFONT}LS"}
+{"i":500,"tr":"{TINYFONT}LU"}
+{"i":501,"tr":"{TINYFONT}MA"}
+{"i":502,"tr":"{TINYFONT}MF"}
+{"i":503,"tr":"{TINYFONT}MK"}
+{"i":504,"tr":"{TINYFONT}ML"}
+{"i":505,"tr":"{TINYFONT}MN"}
+{"i":506,"tr":"{TINYFONT}MO"}
+{"i":507,"tr":"{TINYFONT}N7"}
+{"i":508,"tr":"{TINYFONT}NA"}
+{"i":509,"tr":"{TINYFONT}NI"}
+{"i":510,"tr":"{TINYFONT}NT"}
+{"i":511,"tr":"{TINYFONT}O2"}
+{"i":512,"tr":"{TINYFONT}OC"}
+{"i":513,"tr":"{TINYFONT}PA"}
+{"i":514,"tr":"{TINYFONT}PC"}
+{"i":515,"tr":"{TINYFONT}PE"}
+{"i":516,"tr":"{TINYFONT}PG"}
+{"i":517,"tr":"{TINYFONT}PH"}
+{"i":518,"tr":"{TINYFONT}PI"}
+{"i":519,"tr":"{TINYFONT}PL"}
+{"i":520,"tr":"{TINYFONT}PM"}
+{"i":521,"tr":"{TINYFONT}PT"}
+{"i":522,"tr":"{TINYFONT}PV"}
+{"i":523,"tr":"{TINYFONT}PW"}
+{"i":524,"tr":"{TINYFONT}PY"}
+{"i":525,"tr":"{TINYFONT}QL"}
+{"i":526,"tr":"{TINYFONT}RB"}
+{"i":527,"tr":"{TINYFONT}SA"}
+{"i":528,"tr":"{TINYFONT}SB"}
+{"i":529,"tr":"{TINYFONT}SD"}
+{"i":530,"tr":"{TINYFONT}SE"}
+{"i":531,"tr":"{TINYFONT}SG"}
+{"i":532,"tr":"{TINYFONT}SH"}
+{"i":533,"tr":"{TINYFONT}SI"}
+{"i":534,"tr":"{TINYFONT}SL"}
+{"i":535,"tr":"{TINYFONT}SO"}
+{"i":536,"tr":"{TINYFONT}SP"}
+{"i":537,"tr":"{TINYFONT}ST"}
+{"i":538,"tr":"{TINYFONT}STSW"}
+{"i":539,"tr":"{TINYFONT}SU"}
+{"i":540,"tr":"{TINYFONT}SW"}
+{"i":541,"tr":"{TINYFONT}SY"}
+{"i":542,"tr":"{TINYFONT}TC"}
+{"i":543,"tr":"{TINYFONT}TI"}
+{"i":544,"tr":"{TINYFONT}TP"}
+{"i":545,"tr":"{TINYFONT}TY"}
+{"i":546,"tr":"{TINYFONT}VB"}
+{"i":547,"tr":"{TINYFONT}VE"}
+{"i":548,"tr":"{TINYFONT}VG"}
+{"i":549,"tr":"{TINYFONT}VP"}
+{"i":550,"tr":"{TINYFONT}VS"}
+{"i":551,"tr":"{TINYFONT}WL"}
+{"i":553,"tr":"{TINYFONT}WS"}
+{"i":554,"tr":"{TINYFONT}ZN"}
+{"i":555,"tr":"{TINYFONT}ZO"}
+{"i":556,"tr":"{VOLUME} de dh’acid"}
+{"i":557,"tr":"{VOLUME} de dh’amoniag agus toraidhean nìtrigeach"}
+{"i":558,"tr":"{VOLUME} de bhìtimin"}
+{"i":559,"tr":"{VOLUME} de eadar-mheadhanan ceimigeach"}
+{"i":560,"tr":"{VOLUME} de cheimigean"}
+{"i":561,"tr":"{VOLUME} de chlorain"}
+{"i":563,"tr":"{VOLUME} de ola itheach"}
+{"i":564,"tr":"{VOLUME} de ghasan gnìomhachais"}
+{"i":565,"tr":"{VOLUME} de hiodrocarbònan aotrom"}
+{"i":566,"tr":"{VOLUME} de mheatainòl"}
+{"i":567,"tr":"{VOLUME} de naitridean"}
+{"i":568,"tr":"{VOLUME} de ogsaidean"}
+{"i":569,"tr":"{VOLUME} de pheant is còmhdaichean"}
+{"i":570,"tr":"{VOLUME} de h-acid fosfòrach"}
+{"i":571,"tr":"{VOLUME} de hiodrocsaid sodium"}
+{"i":572,"tr":"{VOLUME} de h-acid suilphùrach"}
+{"i":573,"tr":"{WEIGHT} de chruinneachaidhean"}
+{"i":574,"tr":"{WEIGHT} de alùmina"}
+{"i":575,"tr":"{WEIGHT} de alùmanum"}
+{"i":576,"tr":"{WEIGHT} de chreag anhydrit"}
+{"i":577,"tr":"{WEIGHT} de uilean"}
+{"i":578,"tr":"{WEIGHT} de bharium-sulfaid agus fluorspar"}
+{"i":579,"tr":"{WEIGHT} de bhinnean"}
+{"i":580,"tr":"{WEIGHT} de bhilleanan agus blòmasan"}
+{"i":581,"tr":"{WEIGHT} de charbon dubh"}
+{"i":582,"tr":"{WEIGHT} de chassava"}
+{"i":583,"tr":"{WEIGHT} de iarann-casta"}
+{"i":584,"tr":"{WEIGHT} de simeant"}
+{"i":585,"tr":"{WEIGHT} de chlaodh Shìneach"}
+{"i":586,"tr":"{WEIGHT} de chlaodh"}
+{"i":587,"tr":"{WEIGHT} de ghoireasan glanaidh"}
+{"i":588,"tr":"{WEIGHT} de chòc"}
+{"i":589,"tr":"{WEIGHT} de thoraidhean coimhearsaich"}
+{"i":590,"tr":"{WEIGHT} de charbad"}
+{"i":591,"tr":"{WEIGHT} de phàirtean dealain"}
+{"i":592,"tr":"{WEIGHT} de einnseanan & loidhnichean-dràibhidh"}
+{"i":593,"tr":"{WEIGHT} de stuthan spreadhaidh"}
+{"i":594,"tr":"{WEIGHT} de fheir-ailleanan"}
+{"i":595,"tr":"{WEIGHT} de chur-rùsg"}
+{"i":596,"tr":"{WEIGHT} de iasg & biadh-mara"}
+{"i":597,"tr":"{WEIGHT} de fhliùr & stàirce"}
+{"i":598,"tr":"{WEIGHT} de bhiadh & deochan"}
+{"i":599,"tr":"{WEIGHT} de chur-ris-biadh"}
+{"i":600,"tr":"{WEIGHT} de rudan air an smùid agus air an cur ann an fuaran"}
+{"i":601,"tr":"{WEIGHT} de bhiadh reòta"}
+{"i":602,"tr":"{WEIGHT} de mheasan"}
+{"i":603,"tr":"{WEIGHT} de thoraidhean glainne"}
+{"i":604,"tr":"{WEIGHT} de bathar"}
+{"i":605,"tr":"{WEIGHT} de ghoireasan cruaidh agus crìochnachaidhean"}
+{"i":606,"tr":"{WEIGHT} de charbonan gnìomhachais"}
+{"i":607,"tr":"{WEIGHT} de chlach-lìomaid"}
+{"i":608,"tr":"{WEIGHT} de logan"}
+{"i":609,"tr":"{WEIGHT} de manganais"}
+{"i":610,"tr":"{WEIGHT} de fheòil"}
+{"i":611,"tr":"{WEIGHT} de bharraichean malairteach"}
+{"i":612,"tr":"{WEIGHT} de lìonadairean mèinnireil"}
+{"i":613,"tr":"{WEIGHT} de nìtràthan"}
+{"i":614,"tr":"{WEIGHT} de mhathain"}
+{"i":615,"tr":"{WEIGHT} de phacaidh"}
+{"i":616,"tr":"{WEIGHT} de phìt"}
+{"i":617,"tr":"{WEIGHT} de fho-sfàit"}
+{"i":618,"tr":"{WEIGHT} de iarann brùideil"}
+{"i":619,"tr":"{WEIGHT} de lusan & innealan"}
+{"i":620,"tr":"{WEIGHT} de phlastaigean & roisinean"}
+{"i":621,"tr":"{WEIGHT} de pho-tas"}
+{"i":622,"tr":"{WEIGHT} de cho-phàirtean mionaideach"}
+{"i":623,"tr":"{WEIGHT} de cheimigean pròiseis"}
+{"i":624,"tr":"{WEIGHT} de phuimpean is bhalbhaichean"}
+{"i":625,"tr":"{WEIGHT} de mhèinnir phìorait"}
+{"i":626,"tr":"{WEIGHT} de chalcam fuar"}
+{"i":627,"tr":"{WEIGHT} de shiùcar amh is molais"}
+{"i":628,"tr":"{WEIGHT} de ribe-armachd"}
+{"i":629,"tr":"{WEIGHT} de shalann"}
+{"i":630,"tr":"{WEIGHT} de ghainmheach"}
+{"i":631,"tr":"{WEIGHT} de mheatailt sgudail"}
+{"i":632,"tr":"{WEIGHT} de shèilean, tiùban is bannan"}
+{"i":633,"tr":"{WEIGHT} de shlaig"}
+{"i":634,"tr":"{WEIGHT} de luaithre shòda"}
+{"i":635,"tr":"{WEIGHT} de stàilinn"}
+{"i":636,"tr":"{WEIGHT} de bhloighean stàilinn"}
+{"i":637,"tr":"{WEIGHT} de phìoban stàilinn"}
+{"i":638,"tr":"{WEIGHT} de phlèitean stàilinn"}
+{"i":639,"tr":"{WEIGHT} de dhealbhachan is stiallan stàilinn"}
+{"i":640,"tr":"{WEIGHT} de shlabhraidhean stàilinn"}
+{"i":641,"tr":"{WEIGHT} de thubaichean stàilinn"}
+{"i":642,"tr":"{WEIGHT} de bhàrr-uèir stàilinn"}
+{"i":644,"tr":"{WEIGHT} de stàilinn structarail"}
+{"i":645,"tr":"{WEIGHT} de shulfair"}
+{"i":646,"tr":"{WEIGHT} de thoraidhean fiodha"}
+{"i":647,"tr":"{WEIGHT} de thinn"}
+{"i":648,"tr":"{WEIGHT} de phlèite stàin"}
+{"i":649,"tr":"{WEIGHT} de chòrdan taidhrichean"}
+{"i":650,"tr":"{WEIGHT} de thaidhrichean"}
+{"i":651,"tr":"{WEIGHT} de ghlasraich"}
+{"i":652,"tr":"{WEIGHT} de chuirp charbadan"}
+{"i":653,"tr":"{WEIGHT} de phàirtean charbadan"}
+{"i":654,"tr":"{WEIGHT} de charbadan"}
+{"i":655,"tr":"{WEIGHT} de stuthan caitheamh airson tàthaidh"}
+{"i":656,"tr":"{WEIGHT} de phùlp fiodha"}
+{"i":657,"tr":"{WEIGHT} de zinc"}
+{"i":658,"tr":"{WEIGHT} de mhine zinc"}
+{"i":659,"tr":"{WEIGHT} poc{P 0 \"\" s} de chabhag"}
+{"i":660,"tr":"{}{BLACK}Àite: {YELLOW}Chan urrainnear maoin a chur air ach air sneachd."}
+{"i":661,"tr":"{}{BLACK}Àite: {YELLOW}Chan urrainnear maoin a chur air ann an fàsachan."}
+{"i":662,"tr":"{}{BLACK}Àite: {YELLOW}Chan urrainnear maoin a chur air air sneachd."}
+{"i":146,"tr":"Biadh a thèid a chumail reòthte rè còmhdhail agus stòraidh."}
+{"i":147,"tr":"Airson cleachdadh dachaigheil is togail. Uidheaman, innealan, stàlaidhean agus uidheamachd, ann am meatailt agus stuthan eile."}
+{"i":148,"tr":"Coille"}
+{"i":149,"tr":"Obraichean Forging & Casting"}
+{"i":150,"tr":"Reòthairean"}
+{"i":151,"tr":"Measgachadh ùr agus tiormaichte, leithid bananaichean, sìtridhean, fìonagan, berries, anann, raisins agus rudan coltach riutha."}
+{"i":152,"tr":"Factaraidh Deasairtean Reòta"}
+{"i":153,"tr":"Biadh Reòta"}
+{"i":154,"tr":"Uachdar Bidhe Reòta"}
+{"i":155,"tr":"Plantachadh Tobraichean"}
+{"i":245,"tr":"Sa mhòr-chuid, còmhgailean, mucan is caorach airson toradh feòla. Faodar beathaichean eile ithe cuideachd."}
+{"i":246,"tr":"Latex nàdarra sa mhòr-chuid."}
+{"i":247,"tr":"Sa mhòr-chuid, trucan. No càraichean. No trucan aotrom. ’S dòcha tractaran."}
+{"i":248,"tr":"Moldaidhean"}
+{"i":249,"tr":"Mian Nitraid"}
+{"i":250,"tr":"Nitratanan"}
+{"i":351,"tr":"Lòmhlan Soda"}
+{"i":352,"tr":"Mian Soda Ash"}
+{"i":353,"tr":"Hiodrocsaid Sòidiam"}
+{"i":354,"tr":"Furnas Soot"}
+{"i":432,"tr":"Obraichean"}
+{"i":433,"tr":"Zinc"}
+{"i":434,"tr":"Mianach Sinc"}
+{"i":435,"tr":"Clach-mhèinnir sinc"}
+{"i":436,"tr":"Lùbair Zinc"}
+{"i":437,"tr":"{BLACK}An toradh làithreach: {YELLOW}Leasaichte {}{}{BLACK}Gus an ìre seo a chumail suas, lìbhrig {SIGNED_WORD} bogsaichean de sholar co-dhiù aon uair gach trì mionaidean.{}Airson toradh {WHITE}Gung-ho {BLACK}, lìbhrig {SIGNED_WORD} bogsaichean."}
+{"i":438,"tr":"{BLACK}An toradh làithreach: {YELLOW}Leasaichte {}{}{BLACK}Gus an ìre seo a chumail suas, lìbhrig {SIGNED_WORD} aonadan de luchd co-dhiù aon uair gach trì mionaidean.{}Airson toradh {WHITE}Gung-ho {BLACK}, lìbhrig {SIGNED_WORD} aonadan."}
+{"i":439,"tr":"{BLACK}An toradh làithreach: {YELLOW}Gung-ho {}{}{BLACK}Gus an ìre seo a chumail suas, lìbhrig {SKIP}{SIGNED_WORD} bogsaichean de sholar co-dhiù aon uair gach trì mionaidean."}
+{"i":440,"tr":"{BLACK}An toradh làithreach: {YELLOW}Gung-ho {}{}{BLACK}Gus an ìre seo a chumail suas, lìbhrig {SKIP}{SIGNED_WORD} aonadan de luchd-giùlain co-dhiù aon uair gach trì mionaidean."}
+{"i":441,"tr":"{BLACK}Gineadh làithreach: {YELLOW}Àbhaisteach {}{}{BLACK}Airson gineadh {WHITE}Leasaichte {BLACK}, lìbhrig {SIGNED_WORD} bogsaichean de sholar co-dhiù aon uair gach trì mionaidean.{}Airson gineadh {WHITE}Gung-ho {BLACK}, lìbhrig {SIGNED_WORD} bogsaichean."}
+{"i":442,"tr":"{BLACK}Gineadh làithreach: {YELLOW}Àbhaisteach {}{}{BLACK}Airson gineadh {WHITE}Leasaichte {BLACK}, lìbhrig {SIGNED_WORD} aonadan de luchd co-dhiù aon uair gach trì mionaidean.{}Airson gineadh {WHITE}Gung-ho {BLACK}, lìbhrig {SIGNED_WORD} aonadan."}
+{"i":443,"tr":"{BLACK}Airson an ìre cinneasachaidh as àirde, solar {WHITE}gach {BLACK}càr a tha a dhìth co-dhiù aon uair gach trì mionaidean."}
+{"i":444,"tr":"{BLACK}Airson an ìre cinneasachaidh as àirde, solar {WHITE}co-dhiù trì luchdan {BLACK}a tha riatanach co-dhiù aon uair gach trì mionaidean."}
+{"i":445,"tr":"{BLACK}Airson an ìre cinneasachaidh as àirde, solair {WHITE}co-dhiù dà luchd-luchdaidh {BLACK}a tha riatanach co-dhiù uair gach trì mionaidean."}
+{"i":446,"tr":"{BLACK}Airson an ìre cinneasachaidh as àirde, solar {WHITE}an dà luchd-luchdaidh {BLACK}a tha riatanach co-dhiù aon uair gach trì mionaidean."}
+{"i":447,"tr":"{BLACK}Tha an cinneasachadh co-rèireach ri sluagh a’ bhaile. Cha deach barrachd air {WHITE}{SIGNED_WORD} aonadan{BLACK} agus nas lugha na {WHITE}{SIGNED_WORD} aonadan{BLACK} de luchd a dhèanamh gach mionaid."}
+{"i":448,"tr":"{BLACK}Solair {WHITE}co-dhiù aon {BLACK} luchd a dh’fheumar airson an toradh as àirde."}
+{"i":449,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":450,"tr":"{ORANGE}Seata Cur-a-steach Gnìomhachais Coimhearsnachd CIRS{}{BLACK}Forca de FIRS a tha air a chumail suas leis a’ choimhearsnachd, air a chruthachadh an toiseach le andythenorth, FooBar, planetmaker, Terkhen agus Yexo, le cuideachadh bho mhòran eile. {SILVER}Faic an làrach-lìn airson barrachd fiosrachaidh, a’ gabhail a-steach mar a chleachdas tu CIRS. {BLACK}Cead: GPL v2."}
+{"i":451,"tr":"{ORANGE}E00: Feumaidh CIRS OpenTTD 1.7.0 (no, do dh’fheadhainn a bhios a’ cleachdadh togalaichean trunk, r27769)"}
+{"i":452,"tr":"{ORANGE}E01: {YELLOW}Seata neo-chom-pàirteach: {ORANGE}{STRING}"}
+{"i":453,"tr":"{ORANGE}E02: {YELLOW}Paramadair neo-chom-pàirteach: feumaidh paramadair 2 de {ORANGE}CanSet a bhith 0 gus obrachadh le CIRS."}
+{"i":454,"tr":"{ORANGE}E02: {YELLOW}Paramadair neo-chom-pàirteach: feumaidh paramadair 2 de {ORANGE}NA City Set a bhith 0 gus obrachadh le CIRS."}
+{"i":455,"tr":"{ORANGE}E04: {YELLOW}Dreach neo-cho-churail: feumaidh {ORANGE}Total Town Replacement Set a bhith na dreach 3.11 no nas ùire."}
+{"i":552,"tr":"{TINYFONT}WP"}
+{"i":562,"tr":"{VOLUME} de thàir tarbhain"}
+{"i":643,"tr":"{WEIGHT} de tancaichean stòraidh & pìoban"}
+{"i": 456, "tr": "{SIGNED_WORD} bale de fhèil"}
+{"i": 457, "tr": "{SIGNED_WORD} crate de sholarachaidhean tuathanais"}
+{"i": 659, "tr": "{WEIGHT} poc de chabhag"}

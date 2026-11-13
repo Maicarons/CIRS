@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "炭鉱"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "銅鉱山"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "ダイヤモンド鉱山"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "食品加工工場"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "森林"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "果樹園"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "鉄鉱石鉱山"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "石油精製所"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "石油リグ"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "油井"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "製紙工場"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "ゴム農園"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "製材所"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "製鉄所"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "石炭"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "銅鉱石"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "ダイヤモンド"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "食品"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "商品"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "穀物"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "鉄鉱石"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "家畜"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "郵便"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "トウモロコシ"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "石油"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "紙"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "乗客"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "ゴム"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "砂糖"
+
+[ECONOMY_INFO_FIRS]
+base = "多くの産業と貨物を有する複雑な経済。"
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "単純経済。フィンランド、カナダ北部、シベリア北部から着想を得ています。亜寒帯気候で使うのが最適です。"
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "単純経済。イギリス南西部から着想を得ています。温帯気候で使うのが最適です。"
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "単純経済。アルゼンチン、ペルー、チリから着想を得ています。亜熱帯気候で使うのが最適です。"
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "多くの産業と貨物を有する複雑な経済。アフリカ中西部から着想を得ています。亜熱帯気候で最も効果的です。"
+
+[ECONOMY_INFO_STEELTOWN]
+base = "鉄、鋼、重工業を特徴とする複雑な経済。"
+
+[CARGO_INFO_PASSENGERS]
+base = "すべての経済圏で利用可能。町の建物や一部の産業で生産・受け入れ可能。"
+
+[CARGO_INFO_MAIL]
+base = "すべての経済圏で利用可能。町の建物で生産・受け入れ可能。"
+
+[CARGO_INFO_ACID]
+base = "塩酸、硝酸、硫酸などの工業用酸。"
+
+[CARGO_INFO_AGGREGATES]
+base = "建設に使用される砂利、砂、砕石および類似の材料。"
+
+[CARGO_INFO_ALUMINA]
+base = "ボーキサイト鉱石から精製される白色粉末で、アルミニウム金属の製造に使用される。"
+
+[CARGO_INFO_ALUMINIUM]
+base = "精製アルミニウム金属。コイル、インゴット、スラブなどの形で。"
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "アンモニア、硝酸、尿素など、アンモニアから派生した工業用化学薬品。液体、極低温状態の液化ガス、または乾燥バルクとして輸送される。"
+
+[CARGO_INFO_ANHYDRITE]
+base = "白、灰色、または茶色の硫酸カルシウム岩で、硫酸やセメントの製造に使用される。覆い付きバルクとして輸送されることが多い。"
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "化学処理に使用される工業用鉱物。バライトはバリウム化学品やフィラーに、フッ石はフッ素化学や冶金用のフラックスに使用される。"
+
+[CARGO_INFO_BASE_METALS]
+base = "銅、ニッケル、亜鉛、鉛などの非鉄金属。"
+
+[CARGO_INFO_BEANS]
+base = "一般的な豆類、ソラマメ、大豆、および類似の食用マメ科植物。"
+
+[CARGO_INFO_BITUMEN]
+base = "主に道路の舗装や屋根の葺き材として使用される粘度の高い石油製品。"
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "セメント、ガラス、金属部品、木製品、パイプ、および類似の建設資材。"
+
+[CARGO_INFO_CASSAVA]
+base = "食用の根菜類。マニオクやユカとしても知られています。"
+
+[CARGO_INFO_CARBON_BLACK]
+base = "タイヤ、プラスチック、顔料に使用される、非常に黒い炭素粉末。粉末として取り扱われる。"
+
+[CARGO_INFO_CARBON_STEEL]
+base = "ビレット、ブルーム、インゴット、スラブ。"
+
+[CARGO_INFO_CAST_IRON]
+base = "ビレット、ブルーム、インゴット、スラブ。"
+
+[CARGO_INFO_CEMENT]
+base = "粉末またはクリンカー形態の乾燥セメント"
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "さらなる工業処理の原料として使用される中間化学製品。"
+
+[CARGO_INFO_CHEMICALS]
+base = "液体、気体、袋詰めバルク、粉末、または個包装品として扱われる、一般的な有機・無機化学薬品。"
+
+[CARGO_INFO_CHLORINE]
+base = "工業用化学薬品。通常、液化圧縮ガスとして極低温状態で輸送される。"
+
+[CARGO_INFO_CLAY]
+base = "一般的な粘土。建材やその他の工業用途に使用される。"
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "工業用および家庭用の化学薬品、石鹸、研磨剤など。主に液体だが、粉末や固体（ショットブラスト用砂など）の場合もある。"
+
+[CARGO_INFO_COAL_TAR]
+base = "コークス生産の副産物で、粘度が高く流れの遅い液体。"
+
+[CARGO_INFO_COFFEE]
+base = "生または焙煎したコーヒー豆。"
+
+[CARGO_INFO_COKE]
+base = "コークス炉で加熱された石炭。ほぼ純炭素の燃料になる。"
+
+[CARGO_INFO_COMPONENTS]
+base = "電気設備、モーター、変圧器、制御装置、油圧、空気圧、ポンプ、バルブ、パワートレイン設備などの高価値なエンジニアリング部品。"
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "ブロック、梁、パネルなどの鋳造品。ミキサー車で生コンとして扱うことも可能。"
+
+[CARGO_INFO_COPPER]
+base = "精製銅金属。コイル、インゴットなどの形で。"
+
+[CARGO_INFO_DIAMONDS]
+base = "永遠に続く、など"
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "調理用・消費用石油。"
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "電気・電子部品、モーター、コントローラー、開閉器、照明など"
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "鉱山および同様の産業向けの機械、燃料、部品、木製品、パイプ、爆薬、その他の供給品。"
+
+[CARGO_INFO_EXPLOSIVES]
+base = "採掘、建設など用の民間用爆薬"
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "農場、森林、および同様の産業向けの機械、燃料、部品、肥料、その他の供給品。"
+
+[CARGO_INFO_FERROALLOYS]
+base = "鋼鉄の生産に使用される。鉄と、マンガン、ニッケル、クロム、アルミニウム、シリコン、タングステンなどの他の元素との合金。石炭の塊とサイズや形が似ている灰色の塊。"
+
+[CARGO_INFO_FERROCHROME]
+base = "合金およびステンレス鋼の生産に使用される、クロムと鉄の合金。石炭の塊とサイズや形が似ている灰色の塊。"
+
+[CARGO_INFO_FLOUR]
+base = "袋詰めまたは覆い付きバルクで輸送される、小麦粉やデンプンなどの粉末シリアル製品。"
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "より大きなアイテムに組み立てられる金属部品。"
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "食品加工に使用される成分。保存料、香料、着色料、加工補助剤など。"
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "輸送中および保管中に冷凍された食品。"
+
+[CARGO_INFO_FRUITS]
+base = "バナナ、柑橘類、ブドウ、ベリー類、パイナップル、レーズンなど、生鮮および乾燥果物。"
+
+[CARGO_INFO_GRAIN]
+base = "小麦、大麦など"
+
+[CARGO_INFO_HARDWARE]
+base = "家庭用および建設用。金属製またはその他の素材の工具、器具、備品、フィッティング。"
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "冶金・化学プロセスで使用される、焼成石油コークス、ピッチ、高価値タール、カーボンブラックなどの特殊炭素材料。"
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "化学処理、金属加工、溶接に使用される工業用ガスで、シリンダーまたは圧力タンクローラーで輸送される。"
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "ドラム、ウィンチ、シャックル、フック、プーリー、油圧ラム、その他クレーン、ホイスト、エレベーターなどの部品"
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "化学原料として使用される軽石油分画。バルク液体として輸送される。"
+
+[CARGO_INFO_LIVESTOCK]
+base = "主に肉生産用の牛、豚、羊。その他の動物も食用になることがある。"
+
+[CARGO_INFO_LYE]
+base = "工業用化学薬品。ライまたは苛性ソーダとしても知られる。通常は液体として輸送される。"
+
+[CARGO_INFO_KAOLIN]
+base = "工業用鉱物。カオリンとしても知られ、主に紙やプラスチックの生産に使用される。"
+
+[CARGO_INFO_MANGANESE]
+base = "主に製鋼に使用されるマンガン鉱石。"
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "港湾、ドック、および同様の産業向けの機械、部品、燃料、建設資材、その他の供給品。"
+
+[CARGO_INFO_METAL]
+base = "鋼鉄、アルミニウム、その他の一般的な金属などの汎用金属。"
+
+[CARGO_INFO_METHANOL]
+base = "化学原料や燃料として使用される工業用アルコールで、バルク液体として輸送される。"
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "精製、発酵、工業用途向けの中間糖製品。粘着性のある顆粒は覆われたバルクとして、濃厚なシロップは液体として取り扱われる。いずれも包装が可能。"
+
+[CARGO_INFO_NITROGEN]
+base = "工業用ガス。液化圧縮ガスとして極低温状態で輸送される。"
+
+[CARGO_INFO_OIL]
+base = "バルク液体として輸送される未精製原油。"
+
+[CARGO_INFO_OXYGEN]
+base = "工業用ガス。液化圧縮ガスとして極低温状態で輸送される。"
+
+[CARGO_INFO_PACKAGING]
+base = "箱、瓶、ジャー、缶など"
+
+[CARGO_INFO_PEAT]
+base = "泥炭地から採取されたバイオマス。燃料や園芸用に抽出される。"
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "ガソリン、ディーゼル、灯油、LPG、燃料油、バンカー燃料などの精製石油製品。バルク液体または液化ガスとして輸送される。"
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "主に肥料や化学薬品の生産に使用される工業用酸で、バルク液体として輸送される。"
+
+[CARGO_INFO_PIG_IRON]
+base = "高炉から得られる基本的な鉄。溶融液体または固体のインゴット。"
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "綿、亜麻、ジュートおよび類似の材料。繊維製品や複合材料の製造用。"
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "建物、産業、農場で使用される動力設備および機械システム。完成品ユニットまたは主要なサブアセンブリとして輸送される。"
+
+[CARGO_INFO_PETROL]
+base = "ガソリン、ディーゼル燃料および類似燃料。"
+
+[CARGO_INFO_PLASTICS]
+base = "さらなる加工用の未加工プラスチック。通常は樹脂ビーズとして輸送される。"
+
+[CARGO_INFO_PIPEWORK]
+base = "町の建物、工業施設、農場で使用される貯蔵タンク、圧力容器、サイロ、ガスシリンダー、および配管アセンブリ。"
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "製造や加工に使用される工業用化学薬品で、液体、粉末、ガス、または包装された商品として輸送される。"
+
+[CARGO_INFO_PYRITE_ORE]
+base = "硫化物鉱石。溶融して様々な工業製品を生産する。"
+
+[CARGO_INFO_QUICKLIME]
+base = "酸化カルシウム、焼石灰とも呼ばれる。乾燥した状態を保つ必要がある微粉末として輸送される。"
+
+[CARGO_INFO_REBAR]
+base = "薄手の荒鋼棒。コンクリート構造物の補強に広く使用される。コイルまたはまっすぐな棒の束として輸送される。"
+
+[CARGO_INFO_RUBBER]
+base = "主に天然ラテックス。"
+
+[CARGO_INFO_SALT]
+base = "広く使用されている工業化学薬品。通常、乾燥した状態を保つ必要があるバルク貨物として輸送される。"
+
+[CARGO_INFO_SAND]
+base = "建設用の粗砂、またはガラス製造や金属鋳造用の細かなシリカ砂。バルクまたは粉末として輸送される。"
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "ゴムまたは類似の材料で作られた、柔軟なシール、ガスケット、ホース、ベルト、マット、ブッシングなど。"
+
+[CARGO_INFO_SLAG]
+base = "鉄鋼生産から生じる廃棄物。"
+
+[CARGO_INFO_SODA_ASH]
+base = "工業用化学薬品。白色粉末状。"
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "半製品鋼製鋳物。断面は長方形、正方形、または円形。"
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "さらなる加工が必要な粗鋼鋳物。インゴットは小さいものから非常に大きいものまである。一般的なインゴットの形状は長方形または円形。"
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "丸鋼、角鋼、平鋼などの形状を持つ鉄筋。長尺のまっすぐな製品として輸送される。"
+
+[CARGO_INFO_STEEL_PIPE]
+base = "パイプライン、建物、工業施設などでの液体輸送に用いられる、長い円形鋼管。"
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "圧延鋼板および鋼材 - Iビーム、Hビーム、チャンネルなど。長い直線状の製品として輸送される。"
+
+[CARGO_INFO_STEEL_SHEET]
+base = "薄手の圧延鋼板および鋼帯。他の製品を製造するために広く使用される。平らなシートまたはコイルとして輸送される。"
+
+[CARGO_INFO_STEEL_SLAB]
+base = "半製品鋼製鋳物。断面は常に平らで長方形。"
+
+[CARGO_INFO_STEEL_TUBE]
+base = "円形、長方形など、さまざまな断面を持つ長い中空管。構造物や機械の製作に使用される。"
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "鉄線および細径の鉄棒。主にコイル状で輸送される。"
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "鋼線ロッドをより細い直径に引き伸ばし、束ねて撚り合わせたロープやケーブル。"
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "ロール加工された断面（I形鋼、H形鋼など）、平鋼、または鋼板を溶接して作られた断面や梁などの構造用鋼材。"
+
+[CARGO_INFO_SULPHUR]
+base = "広く使用されている工業化学薬品。鮮やかな黄色で、粉末または液体の形態がある。"
+
+[CARGO_INFO_TIMBER]
+base = "製材所や類似の産業で生産された木材加工品。"
+
+[CARGO_INFO_TIN]
+base = "インゴット。"
+
+[CARGO_INFO_TINPLATE]
+base = "腐食防止のためにスズでコーティングされた薄い鋼板。主に缶、容器、その他の包装材に使用される。"
+
+[CARGO_INFO_TYRE_CORD]
+base = "タイヤを補強するために使用される細線。コイル状で輸送される。"
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "車両製造用のキャブ、ボンネット、ドア、および同様の車体構造。"
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "内燃機関および、トランスミッションや駆動軸などの関連するパワートレイン部品。"
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "シャシーやサスペンション部品、電気部品、外装トリム、内装部品など、車両生産用のコンポーネント。"
+
+[CARGO_INFO_VEHICLES]
+base = "主にトラック。あるいは乗用車。軽トラック。トラクターかもしれない。"
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "溶接棒、工具、アセチレン、アルゴン、プロパン、酸素、窒素などの工業用ガスなど、金属の切断・溶接用備品。"
+
+[CARGO_INFO_WOOD]
+base = "森林から出た丸太。"
+
+[CARGO_INFO_WOOD_PULP]
+base = "主に製紙に使用される加工木材繊維。ベール状またはバルクパルプとして輸送される。"
+
+[CARGO_INFO_WOOL]
+base = "ベール。"
+
+[CARGO_INFO_ZINC]
+base = "インゴット。"
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

@@ -1,0 +1,20 @@
+french parsed pairs: 141
+    'STR_GENERIC_DC9B' -> 'Four Ã\xa0 chaux'
+    'STR_GENERIC_DC26' -> 'Fourniture industrielle'
+    'STR_GENERIC_DC25' -> '{TINYFONT}LU'
+german parsed pairs: 176
+    'STR_GENERIC_DC9B' -> '\\UE09A\\0E\x02Kalkbrennerei'
+    'STR_GENERIC_DC26' -> '\\UE09A\\0E\x04ProduktionsgÃ¼ter'
+    'STR_GENERIC_DC25' -> '{TINYFONT}BH'
+spanish parsed pairs: 176
+    'STR_GENERIC_DC9B' -> 'Horno de Cal'
+    'STR_GENERIC_DC26' -> 'Suministros de Manufactura'
+    'STR_GENERIC_DC25' -> '{TINYFONT}TB'
+portuguese parsed pairs: 188
+    'STR_GRF_DESC' -> '{ORANGE}FIRS Industrial Replacement Set{'
+    'STR_GRF_NAME' -> '{TITLE}'
+    'STR_GRF_URL' -> 'http://dev.openttdcoop.org/projects/firs'
+korean parsed pairs: 227
+    'STR_GRF_DESC' -> '{ORANGE}FIRS 산업 시설 대체 세트{}{BLACK}andythe'
+    'STR_GRF_NAME' -> '{TITLE}'
+    'STR_GRF_URL' -> 'http://bundles.openttdcoop.org/firs/rele'

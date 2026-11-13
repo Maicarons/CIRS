@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Kopalnia węgla"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Kopalnia miedzi"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Kopalnia diamentów"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "{G=f}Przetwórnia żywności"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Las"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Plantacja owoców"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Kopalnia rudy żelaza"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Rafineria ropy naftowej"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Wiertło naftowe"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Odwierty naftowe"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Papiernia"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Plantacja kauczuku"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Piła drzewna"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "{G=f}Huta stali"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Węgiel"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Ruda miedzi"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamenty"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Żywność"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Towary"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Zboże"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Ruda żelaza"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Inwentarz żywy"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Poczta"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Kukurydza"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Ropa naftowa"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Papier"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Pasażerowie"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Guma"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Cukier"
+
+[ECONOMY_INFO_FIRS]
+base = "Złożona gospodarka z wieloma gałęziami przemysłu i towarami."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Prosta ekonomia. Zainspirowana Finlandią, północną Kanadą i północną Syberią. Najlepiej sprawdza się w klimacie subarktycznym."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Prosta ekonomia. Zainspirowana południowo-zachodnią Wielką Brytanią. Najlepiej sprawdza się w klimacie umiarkowanym."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Prosta ekonomia. Zainspirowana Argentyną, Peru i Chile. Najlepiej sprawdza się w klimacie subtropikalnym."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Złożona gospodarka z wieloma gałęziami przemysłu i towarami. Zainspirowana środkowo-zachodnią Afryką. Najlepiej sprawdza się w klimacie subtropikalnym."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Złożona gospodarka obejmująca przemysł żelazny, stalowy i ciężki."
+
+[CARGO_INFO_PASSENGERS]
+base = "Dostępne we wszystkich gospodarkach. Produkowane i akceptowane przez budynki miejskie, a także przez niektóre gałęzie przemysłu."
+
+[CARGO_INFO_MAIL]
+base = "Dostępne we wszystkich gospodarkach. Produkowane i akceptowane przez budynki miejskie."
+
+[CARGO_INFO_ACID]
+base = "Kwasy przemysłowe, takie jak kwas solny, azotowy i siarkowy."
+
+[CARGO_INFO_AGGREGATES]
+base = "Żwir, piasek, kruszywa i podobne materiały stosowane w budownictwie."
+
+[CARGO_INFO_ALUMINA]
+base = "Biały proszek rafinowany z rudy boksytu, używany do produkcji metalu aluminium."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Oczyszczony metal aluminium w rolkach, sztabach, płytach itp."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Chemikalia przemysłowe pochodzące z amoniaku, takie jak amoniak, kwas azotowy i mocznik. Transportowane jako ciecze, kriogenicznie jako skroplony gaz lub jako suchy materiał sypki."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Biała, szara lub brązowa skała siarczanu wapnia, używana w produkcji kwasu siarkowego i cementu. Często transportowana jako sypki ładunek w wagonach zadaszonych."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Minerały przemysłowe używane w procesach chemicznych. Baryt jest stosowany w chemikaliach barowych i materiałach wypełniających; fluoryt w chemii fluoru i fluksach metalurgicznych."
+
+[CARGO_INFO_BASE_METALS]
+base = "Metale nieżelazne, takie jak miedź, nikiel, cynk i ołów."
+
+[CARGO_INFO_BEANS]
+base = "Zwykłe fasole, bob, soja i podobne jadalne rośliny strączkowe."
+
+[CARGO_INFO_BITUMEN]
+base = "Gęsty produkt naftowy używany głównie do nawierzchni dróg i pokryć dachowych."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Cement, szkło, komponenty metalowe, produkty drewniane, rury i podobne materiały budowlane."
+
+[CARGO_INFO_CASSAVA]
+base = "Jadalna roślina korzeniowa, znana również jako maniok i juca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Intensywnie czarny proszek węglowy, używany w oponach, tworzywach sztucznych i pigmentach. Obsługiwany jako proszek."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Sztabki, bloki, ingoty i płyty."
+
+[CARGO_INFO_CAST_IRON]
+base = "Sztabki, bloki, ingoty i płyty."
+
+[CARGO_INFO_CEMENT]
+base = "Suchy cement w postaci proszku lub klinkieru."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Produkty chemiczne pośrednie używane jako surowce do dalszego przetwarzania przemysłowego."
+
+[CARGO_INFO_CHEMICALS]
+base = "Ogólne chemikalia organiczne i nieorganiczne, przetwarzane w stanie ciekłym, gazowym, jako materiały sypkie w workach, proszki lub towary sztuczne."
+
+[CARGO_INFO_CHLORINE]
+base = "Chemikalia przemysłowe, zazwyczaj transportowane kriogenicznie jako skroplony gaz sprężony."
+
+[CARGO_INFO_CLAY]
+base = "Ogólne rodzaje gliny do produkcji materiałów budowlanych i innych zastosowań przemysłowych."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Chimikalia, mydła, środki do szorowania itp. do zastosowań przemysłowych i domowych. Głównie w postaci płynnej, ale mogą być również w proszku lub stałe (np. piasek do piaskowania strumieniowego)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Produkt uboczny produkcji koksu, gęsta ciecz o wolnym przepływie."
+
+[CARGO_INFO_COFFEE]
+base = "Surowe lub prażone ziarna kawy."
+
+[CARGO_INFO_COKE]
+base = "Węgiel podgrzany w koksowni, tworzący paliwo składające się niemal wyłącznie z węgla."
+
+[CARGO_INFO_COMPONENTS]
+base = "Wysokowartościowe komponenty inżynieryjne, takie jak sprzęt elektryczny, silniki, transformatory, urządzenia sterujące, układy hydrauliczne, pneumatyczne, pompy, zawory i elementy układu napędowego."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Wylewane produkty, takie jak bloki, belki i panele. Może być również przetwarzany jako gotowa mieszanka betonu w betoniarkach."
+
+[CARGO_INFO_COPPER]
+base = "Oczyszczony metal miedzi w rolkach, sztabach itp."
+
+[CARGO_INFO_DIAMONDS]
+base = "Są na zawsze itp."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Ropa naftowa do gotowania i konsumpcji."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Komponenty elektryczne i elektroniczne, silniki, sterowniki, rozdzielnice, oświetlenie itp."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Maszyny, paliwo, części, produkty drzewne, rury, materiały wybuchowe i inne zaopatrzenie dla kopalni i podobnych gałęzi przemysłu."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Wybuchówki cywilne do górnictwa, budownictwa itp."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Maszyny, paliwo, części, nawozy i inne zaopatrzenie dla gospodarstw rolnych, lasów i podobnych gałęzi przemysłu."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Stosowany w produkcji stali. Stopy żelaza z innymi pierwiastkami, w tym manganem, niklem, chromem, aluminium, krzemem i wolframem. Szare bryłki, podobne rozmiarem i kształtem do bryłek węgla."
+
+[CARGO_INFO_FERROCHROME]
+base = "Stosowany w produkcji stopów i stali nierdzewnej, czyli stopu chromu i żelaza. Szare bryłki, podobne rozmiarem i kształtem do bryłek węgla."
+
+[CARGO_INFO_FLOUR]
+base = "Produkty zbożowe w proszku, takie jak mąka i skrobia, transportowane w workach lub w zamkniętych zbiornikach sypkich."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Metalowe części do montażu w większe przedmioty."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Składniki używane w przetwórstwie żywności, takie jak konserwanty, aromaty, barwniki i dodatki do przetwarzania."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Produkty spożywcze przechowywane w stanie zamrożonym podczas transportu i magazynowania."
+
+[CARGO_INFO_FRUITS]
+base = "Świeże i suszone owoce, takie jak banany, cytrusy, winogrona, jagody, ananas, rodzynki i podobne."
+
+[CARGO_INFO_GRAIN]
+base = "Pszenica, jęczmień itp."
+
+[CARGO_INFO_HARDWARE]
+base = "Do użytku domowego i budowlanego. Narzędzia, przybory, elementy mocujące, akcesoria z metalu i innych materiałów."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Specjalistyczne materiały węglowe, takie jak koks ropy naftowej po kalcynacji, smoła, wysokowartościowe smole i czarny węgiel, stosowane w procesach metalurgicznych i chemicznych."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Gazy przemysłowe używane w przetwarzaniu chemicznym, obróbce metali i spawaniu, transportowane w butlach lub cysternach ciśnieniowych."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Bębny, wciągarki, kajdanki, haki, bloczki, siłowniki hydrauliczne i inne części do dźwigów, suwnic, wind itp."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Lekkie frakcje ropy naftowej używane jako surowce chemiczne, transportowane jako ciecze sypkie."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Głównie krowy, świnie i owce do produkcji mięsa. Inne zwierzęta również mogą być spożywane."
+
+[CARGO_INFO_LYE]
+base = "Chemikalia przemysłowe. Znane również jako ług lub soda kaustyczna. Zazwyczaj transportowane jako ciecz."
+
+[CARGO_INFO_KAOLIN]
+base = "Minerał przemysłowy, znany również jako kaolin, używany głównie w produkcji papieru i tworzyw sztucznych."
+
+[CARGO_INFO_MANGANESE]
+base = "Ruda manganu, używana głównie w produkcji stali."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Maszyny, części, paliwo, materiały budowlane i inne zaopatrzenie dla portów, doków i podobnych gałęzi przemysłu."
+
+[CARGO_INFO_METAL]
+base = "Ogólne metale, takie jak stal, aluminium lub inne powszechnie stosowane metale."
+
+[CARGO_INFO_METHANOL]
+base = "Alkohol przemysłowy używany jako surowiec chemiczny i paliwo, transportowany jako ciecz sypka."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Produkty cukrowe pośrednie do rafinacji, fermentacji i zastosowań przemysłowych. Lepkie granulki są obsługiwane jako materiał sypki w workach; gęsty syrop jako ciecz; oba rodzaje mogą być pakowane."
+
+[CARGO_INFO_NITROGEN]
+base = "Gaz przemysłowy. Transportowany kriogenicznie jako skroplony gaz sprężony."
+
+[CARGO_INFO_OIL]
+base = "Surowa, nierafinowana ropa naftowa transportowana jako ciecz sypka."
+
+[CARGO_INFO_OXYGEN]
+base = "Gaz przemysłowy. Transportowany kriogenicznie jako skroplony gaz sprężony."
+
+[CARGO_INFO_PACKAGING]
+base = "Pudełka, butelki, słoje, puszki itp."
+
+[CARGO_INFO_PEAT]
+base = "Biomasa z torfowisk, wydobywana na paliwo i do ogrodnictwa."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Oczyszczone produkty naftowe, takie jak benzyna, olej napędowy, nafta, LPG, olej opałowy i paliwo bunkrowe, transportowane jako ciecze sypkie lub skroplone gazy."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Kwas przemysłowy używany głównie w produkcji nawozów i chemikaliów, transportowany jako ciecz sypka."
+
+[CARGO_INFO_PIG_IRON]
+base = "Podstawowe żelazo z pieca wydmuchowego, w postaci stopionej cieczy lub stałych sztabek."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Bawełna, len, juta i podobne materiały do produkcji tekstyliów i materiałów kompozytowych."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Sprzęt napędzany i systemy mechaniczne używane w budynkach, przemyśle i na farmach. Transportowane jako kompletne jednostki lub jako główne podzespoły."
+
+[CARGO_INFO_PETROL]
+base = "Benzyna, olej napędowy i podobne paliwa."
+
+[CARGO_INFO_PLASTICS]
+base = "Surowy plastik do dalszego przetwarzania. Zazwyczaj transportowany w postaci granulatu żywicy."
+
+[CARGO_INFO_PIPEWORK]
+base = "Zbiorniki magazynowe, naczynia ciśnieniowe, silosy, butle gazowe i zespoły rur, przeznaczone do użytku w budynkach miejskich, przemyśle i na farmach."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Chemikalia przemysłowe używane w produkcji i przetwarzaniu, transportowane jako ciecze, proszki, gazy lub towary opakowane."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Minerały siarczkowe, przetapiane w celu produkcji różnorodnych produktów przemysłowych."
+
+[CARGO_INFO_QUICKLIME]
+base = "Tlenek wapnia, znany również jako wapno palone. Transportowany w postaci drobnego proszku, który musi być utrzymywany w suchości."
+
+[CARGO_INFO_REBAR]
+base = "Cienkie, surowe pręty stalowe, szeroko stosowane do wzmacniania konstrukcji betonowych. Transportowane jako zwoje lub wiązki prostych prętów."
+
+[CARGO_INFO_RUBBER]
+base = "Głównie naturalny lateks."
+
+[CARGO_INFO_SALT]
+base = "Powszechnie używany chemikalia przemysłowy. Zazwyczaj transportowany jako ładunek sypki, który musi być utrzymywany w suchości."
+
+[CARGO_INFO_SAND]
+base = "Gruby piasek budowlany lub drobny piasek krzemionkowy do produkcji szkła i odlewania metali. Transportowany jako materiał sypki lub w proszku."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Elastyczne uszczelki, podkładki, węże, paski, maty, tuleje itp. wykonane z gumy lub podobnych materiałów."
+
+[CARGO_INFO_SLAG]
+base = "Produkt odpadowy z produkcji żelaza i stali."
+
+[CARGO_INFO_SODA_ASH]
+base = "Chemikalia przemysłowe. W postaci białego proszku."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Półwyroby z odlewu stalowego. Prostokątne, kwadratowe lub okrągłe w przekroju."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Surowe odlewy stalowe wymagające dalszego przetwarzania. Sztabki mogą być małe lub bardzo duże. Typowe profile sztabek to prostokątne lub okrągłe."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Pręty stalowe w postaci okrągłych, kwadratowych, płaskich i innych profili. Transportowane jako długie, proste produkty."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Długie, okrągłe rury stalowe do transportu cieczy w rurociągach, budynkach, przemyśle itp."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Walcowane płyty i profile stalowe – belki I, belki H, profile kanałowe itp. Transportowane jako długie, proste produkty."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Cienka walcowana blacha i pasek stalowy, szeroko stosowane do produkcji innych wyrobów. Transportowane jako płaskie arkusze lub zwoje."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Półwyroby z odlewu stalowego. Zawsze płaskie i prostokątne w przekroju."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Długa, pusta rura o okrągłym, prostokątnym lub innym przekroju. Używana do produkcji konstrukcji i maszyn."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Drut stalowy i cienkie pręty. Transportowane głównie w rolkach."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Liny i kable produkowane przez przeciąganie drutu stalowego do mniejszej średnicy, a następnie skręcanie w pękowe liny."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Stal konstrukcyjna w postaci walcowanych przekrojów (belki I, belki H itp.), blach płaskich lub prefabrykowanych przekrojów i belek spawanych z blachy."
+
+[CARGO_INFO_SULPHUR]
+base = "Powszechnie używany chemikalia przemysłowy. Jasnożółty, w postaci proszku lub płynu."
+
+[CARGO_INFO_TIMBER]
+base = "Przetworzone produkty drzewne z tartaku lub podobnych zakładów przemysłowych."
+
+[CARGO_INFO_TIN]
+base = "Sztabki."
+
+[CARGO_INFO_TINPLATE]
+base = "Cienka blacha stalowa pokryta cyną w celu zapobiegania korozji, używana głównie do produkcji puszek, pojemników i innych opakowań."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Drobny drut używany do wzmacniania opon. Transportowany w postaci zwoju."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Kabiny, maski, drzwi i podobne elementy nadwozia do produkcji pojazdów."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Silniki spalinowe i powiązane części układu napędowego, takie jak skrzynia biegów i osie napędowe."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponenty do produkcji pojazdów, takie jak podwozia i części zawieszenia, części elektryczne, elementy zewnętrzne i części wnętrza."
+
+[CARGO_INFO_VEHICLES]
+base = "Głównie ciężarówki. Albo samochody. Albo lekkie ciężarówki. Może traktory."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Materiały do cięcia i spawania metalu, takie jak druty spawalnicze, narzędzia i gazy przemysłowe, w tym acetylen, argon, propan, tlen i azot."
+
+[CARGO_INFO_WOOD]
+base = "Pniaki z lasu."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Przetworzone włókna drzewne używane głównie do produkcji papieru, transportowane w postaci balotów lub pulpy sypkiej."
+
+[CARGO_INFO_WOOL]
+base = "Bale."
+
+[CARGO_INFO_ZINC]
+base = "Sztabki."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

@@ -1,0 +1,622 @@
+Ácido
+Áridos
+Alúmina
+Aluminio
+Planta de aluminio
+Productos de amoníaco y nítrico
+Complejo de amoníaco
+Mina de anhidrita
+Planta de tratamiento de anhidrita
+Roca de anhidrita
+Manzanas
+Fábrica de electrodomésticos
+Granja de labranza
+Ártico (Básico)
+Son para siempre, etc.
+Planta de montaje
+Automoción
+Disponible en todas las economías. Producido y aceptado por los edificios urbanos, y también por algunas pocas industrias.
+Disponible en todas las economías. Producido y aceptado por los edificios urbanos.
+Panadería
+Balas.
+Bank Top
+Bar, Parrilla y Habitaciones
+Graneros
+Barril y Tonel
+Baritina y fluorita
+Base
+Horno de oxígeno básico
+Hierro básico de un alto horno, como líquido fundido o lingotes sólidos.
+Planta química por lotes
+Judías
+Lingotes y bloom
+Lingotes, bloom, tochos y chapas.
+Biomasa de turbales, extraída para combustible y horticultura.
+Betún
+Alto horno
+Planta de carrocerías
+Desguace
+Fábrica de botellas y latas
+Cajas, botellas, tarros, latas, etc.
+Cervecería
+Ladrillera
+Salina
+Almacén de construcción
+Materiales de construcción
+Subproducto de la producción de coque, un líquido viscoso de flujo lento.
+CIRS - Conjunto de Reemplazo de Industria Comunitaria
+CIRS incluye un conjunto de objetos de paisajismo que los jugadores pueden colocar para hacer que ciertas industrias parezcan más grandes. Estos objetos no tienen efecto en el juego. Se pueden activar o desactivar.
+Objetos de paisajismo de CIRS
+Cabinas, capós, puertas y estructuras de carrocería similares para la producción de vehículos.
+Óxido de calcio, también conocido como cal viva. Transportado como polvo fino que debe mantenerse seco.
+Negro de humo
+Planta de negro de humo
+Mandioca
+Hierro fundido
+Productos fundidos como bloques, vigas y paneles. También puede manejarse como hormigón preparado en camiones mezcladores.
+Fábrica de película de celulosa
+Cemento
+Planta de cemento
+Cemento, vidrio, componentes metálicos, productos de madera, tuberías y materiales de construcción similares.
+Complejo químico
+Intermedios químicos
+Productos químicos
+Productos químicos, jabones, agentes de limpieza, etc., para uso industrial y doméstico. Principalmente líquidos, también pueden ser polvo o sólidos (como arena para granallado).
+Caolín
+Fábrica de tableros de partículas
+Planta cloro-alcalina
+Cloro
+Mina de cromita
+Sidrería
+Explosivos civiles para minería, construcción, etc.
+Arcilla
+Cantera de arcilla
+Agentes de limpieza
+Carbón
+Mina de carbón
+Alquitrán de carbón
+Carbón calentado en un horno de coque, que produce un combustible de carbono casi puro.
+Arena gruesa para construcción, o arena de sílice fina para fabricación de vidrio y fundición de metales. Transportado a granel o como polvo.
+Café
+Plantación de café
+Línea de bobinado
+Coque
+Horno de coque
+Carbonífera
+Panadería comercial
+Judías comunes, habas, soja y legumbres comestibles similares.
+Economía compleja con industrias de hierro, acero y fabricación pesada.
+Economía compleja con muchas industrias y mercancías.
+Economía compleja con muchas industrias y mercancías. Inspirada en África centro-occidental. Mejor con clima subtropical.
+Componentes
+Componentes para la producción de vehículos como chasis y componentes de suspensión, piezas eléctricas, revestimientos exteriores y piezas interiores.
+Planta de hormigón
+Productos de hormigón
+Patio de construcción
+Fábrica de alimentos preparados
+Cobre
+Concentradora de cobre
+Veta de cobre
+Mina de cobre
+Mineral de cobre
+Fundición de cobre
+Algodón, lino, yute y materiales similares para producir textiles y materiales compuestos.
+Fábrica de orugas
+Creosotado
+Petróleo crudo, no refinado, transportado como líquido a granel.
+Planta criogénica
+Lechería
+Granja lechera
+Callejón lechero
+Mina de diamantes
+Diamantes
+Zona de dragado
+Tambores, cabrestantes, grilletes, ganchos, poleas, cilindros hidráulicos y otras piezas para grúas, montacargas, elevadores, etc.
+Cemento seco en forma de polvo o clínker.
+Cada economía ofrece una combinación diferente de mercancías e industrias.{}{}Para los jugadores que quieren una jugabilidad simple, las economías {SILVER}Básicas{BLACK} contienen menos industrias y mercancías que otras economías de CIRS.{}{}El sitio web de CIRS proporciona información detallada sobre cada economía.
+Economía
+Aceite comestible
+Raíz comestible, también conocida como mandioca y yuca.
+Planta de productos elastoméricos
+Horno de arco eléctrico
+Piezas eléctricas
+Componentes eléctricos y electrónicos, motores, controladores, cuadros eléctricos, luces, etc.
+Electrodomésticos
+Planta de motores
+Suministros de ingeniería
+Taller de ingeniería
+Motores y transmisión
+Nivel de producción primaria mejorado (%)
+Hacienda
+Explosivos
+Fábrica de explosivos
+Fábrica
+Granja
+Suministros agrícolas
+Granjas, minas e industrias similares aumentarán la producción cuando se entreguen cajas de suministro, primero a {SILVER}Mejorado{BLACK} y luego a {SILVER}Entusiasta{BLACK}, si se entregan suficientes cajas.  {}{}Los valores predeterminados son buenos, pero si necesitas, puedes cambiarlos aquí.  {}{}Los requisitos de mercancía para las industrias portuarias serán 8x los valores fijados aquí.
+Planta de fermentación
+Ferroaleaciones
+Fundición de ferrocromo
+Fertilizante
+Planta de fertilizantes y ácido
+Campo
+Alambre fino usado para reforzar neumáticos. Transportado en bobinas.
+Pescado y marisco
+Piscifactoría
+Mercado de pescado
+Caladeros
+Puerto pesquero
+Sellos flexibles, juntas, mangueras, correas, esteras, bujes, etc., hechos de caucho o materiales similares.
+Harina y almidón
+Línea de flujo
+Alimento
+Alimentos y bebidas
+Aditivos alimentarios
+Corporación de alimentos
+Planta de procesamiento de alimentos
+Alimentos mantenidos congelados durante el transporte y almacenamiento.
+Para uso doméstico y de construcción. Herramientas, utensilios, accesorios, herrajes de metal y otros materiales.
+Bosque
+Forjas y fundiciones
+Congeladores
+Fruta fresca y seca, como plátanos, cítricos, uvas, bayas, piña, pasas y similares.
+Fábrica de postres congelados
+Comida congelada
+Planta de comida congelada
+Fruta
+Plantación de frutas
+Horno
+Fábrica de muebles
+Tienda general
+Arcillas genéricas, para producir materiales de construcción y otros usos industriales.
+Metal genérico, como acero, aluminio u otros metales comunes.
+Productos químicos orgánicos e inorgánicos genéricos, manejados como líquido, gas, a granel cubierto, polvo o mercancía a granel.
+Vigas
+Productos de vidrio
+Vidriería
+Mercancías
+Grano
+Molino de grano
+Grava, arena, piedra triturada y materiales similares usados en construcción.
+Granja de pastoreo
+Nivel de producción primaria entusiasta (%)
+Ferretería y acabados
+¡Hola {COMPANY}!{}{}Estás jugando un juego con el GS de prueba de CIRS{}{}La versión de Git de este GS es {NUM}
+Cooperativa de pastoreo
+Componentes de ingeniería de alto valor como equipos eléctricos, motores, transformadores, equipos de control, hidráulica, neumática, bombas, válvulas y equipos de transmisión.
+Mercado de caballos
+Hotel
+En un país caliente
+Carbones industriales
+Planta de productos químicos industriales
+Gases industriales
+Parque industrial
+Ácido industrial usado principalmente en la producción de fertilizantes y productos químicos, transportado como líquido a granel.
+Ácidos industriales, como ácido clorhídrico, nítrico y sulfúrico.
+Alcohol industrial usado como materia prima química y combustible, transportado como líquido a granel.
+Producto químico industrial, normalmente transportado criogénicamente como gas licuado comprimido.
+Producto químico industrial. También conocido como lejía o sosa cáustica. Normalmente transportado como líquido.
+Producto químico industrial. En forma de polvo blanco.
+Productos químicos industriales derivados del amoníaco, como amoníaco, ácido nítrico y urea. Transportados como líquidos, criogénicamente como gas licuado o a granel seco.
+Productos químicos industriales usados en fabricación y procesamiento, transportados como líquidos, polvos, gases o mercancías empaquetadas.
+Gas industrial. Transportado criogénicamente como gas licuado comprimido.
+Gases industriales usados en procesamiento químico, metalurgia y soldadura, transportados en cilindros o camiones cisterna a presión.
+Mineral industrial, también conocido como caolín, usado principalmente en producción de papel y plásticos.
+Minerales industriales usados en procesamiento químico. La baritina se usa en químicos de bario y rellenos; la fluorita en química de flúor y fundentes metalúrgicos.
+Lingotes.
+Ingredientes usados en procesamiento de alimentos, como conservantes, saborizantes, colorantes y auxiliares de procesamiento.
+Polvo de carbono intensamente negro, usado en neumáticos, plásticos y pigmentos.  Manejado como polvo.
+Productos químicos intermedios usados como materia prima para procesamiento industrial adicional.
+Productos de azúcar intermedios para refinación, fermentación y usos industriales. Los gránulos pegajosos se manejan a granel cubierto; el jarabe espeso como líquido; ambos pueden envasarse.
+Motores de combustión interna y partes relacionadas de la transmisión como cajas de cambio y ejes de transmisión.
+Mineral de hierro
+Mina de mineral de hierro
+Piedra de hierro
+Hornos
+Yacimientos de kimberlita
+TIERRA
+Muelle de desembarco
+Procesador de látex
+Hidrocarburos ligeros
+Fracciones ligeras de petróleo usadas como materia prima química, transportadas como líquidos a granel.
+Horno de cal
+Piedra caliza
+Mina de piedra caliza
+Minas de piedra caliza
+Ganado
+Patio de troncos
+Troncos
+Troncos de un bosque.
+Tubo hueco largo de sección redonda, rectangular y otras. Usado para fabricar estructuras y maquinaria.
+Tuberías de acero redondas largas para transportar líquidos en tuberías, edificios, industrias, etc.
+Maquinaria, combustible, piezas, fertilizante y otros suministros para granjas, bosques e industrias similares.
+Maquinaria, combustible, piezas, productos de madera, tuberías, explosivos y otros suministros para minas e industrias similares.
+Maquinaria, piezas, combustible, materiales de construcción y otros suministros para puertos, muelles e industrias similares.
+Correo
+Maíz
+Manganeso
+Mina de manganeso
+Minas de manganeso
+Mineral de manganeso, usado principalmente en la producción de acero.
+Mansión
+Distancia costera máxima de las industrias marinas en casillas
+Distancia máxima de los caladeros, plataformas petrolíferas y zonas de dragado desde la costa en casillas.
+Prados
+Carne
+Perfil comercial
+Taller de metal
+Piezas metálicas para ensamblar en artículos más grandes.
+Objetos de metal
+Metanol
+Mild Mild West
+Leche
+Molino
+Molinos
+Rellenos minerales
+Planta de rellenos minerales
+Minerales
+Minas
+Principalmente vacas, cerdos y ovejas para producción de carne.  Otros animales también pueden comerse.
+Principalmente látex natural.
+Principalmente camiones. O coches. O camiones ligeros. Quizás tractores.
+Moldura
+Mina de nitrato
+Nitratos
+Nitrógeno
+Sin límite
+Metales no ferrosos, como cobre, níquel, zinc y plomo.
+Complejo de combustible nuclear
+Central nuclear
+Frutos secos
+Petróleo
+Terminal de petróleo y productos químicos
+Refinería de petróleo
+Plataforma petrolífera
+Pozos de petróleo
+Aceite para cocinar y consumo.
+Huerto y granja de cerdos
+Huertos
+Propietario: {RAW_STRING}
+Oxígeno
+Embalaje
+Pinturas y recubrimientos
+Papel
+Papelera
+Fábrica de productos de papel
+Pasajeros
+Turba
+Turberas
+Gasolinera
+Gasolina, diésel y combustibles similares.
+Combustibles de petróleo
+Fosfato
+Mina de fosfato
+Ácido fosfórico
+Arrabio
+Taller de tuberías
+Pozo
+Planta
+Plantas y maquinaria
+Plantación
+Fábrica de moldeo de plástico
+Plásticos y resinas
+Laminador de chapas
+Puerto
+Potasa
+Mina de potasa
+Productos cereales en polvo como harina y almidón, transportados en sacos o a granel cubierto.
+Central eléctrica
+Fábrica de sistemas de energía
+Equipos motorizados y sistemas mecánicos usados en edificios, industrias y granjas. Transportados como unidades completas o como subconjuntos principales.
+Transmisión
+Prefabricado
+Componentes de precisión
+Planta de piezas de precisión
+Prensados
+Productos químicos de proceso
+Planta de productos químicos de proceso
+Fibra de madera procesada usada principalmente para producción de papel, transportada como balas o pulpa a granel.
+Productos de madera procesada de un aserradero o industrias similares.
+Empaquetador de productos
+Producción en granjas, minas e industrias similares cuando se cumplen los requisitos de suministro (como porcentaje del nivel de producción {SILVER}Normal{BLACK}).
+Bombas
+Bombas y válvulas
+Yacimientos de pirita
+Mina de pirita
+Mineral de pirita
+Fundición de pirita
+Cantera
+Cal viva
+Rancho
+Azúcar crudo y melaza
+Granos de café crudos o tostados.
+Plástico crudo para procesamiento adicional. Normalmente transportado como perlas de resina.
+Armadura
+Metal de aluminio refinado, en bobinas, lingotes, chapas, etc.
+Metal de cobre refinado, en bobinas, lingotes, etc.
+Productos de petróleo refinados como gasolina, diésel, queroseno, GLP, fueloil y combustible marino, transportados como líquidos a granel o gas licuado.
+Refinería
+Corrales de renos
+Planta de piedra para carreteras
+Laminador de barras
+Planchas y perfiles de acero laminado - vigas I, vigas H, canales, etc. Transportados como productos largos rectos.
+Cuerdas y cables producidos estirando varillas de alambre de acero a un diámetro menor y retorciéndolas en cuerdas agrupadas.
+Fundiciones de acero gruesas que requieren procesamiento adicional. Los lingotes pueden ser pequeños o muy grandes. Los perfiles típicos de lingote son rectangulares o redondos.
+Caucho
+Compañía de caucho
+Plantación de caucho
+MAR
+Sal
+Salina
+Planta de salitre
+Arena
+Banco de arena
+Aserradero
+Chatarra
+Desguace
+Marisco
+Junta y manguera
+Juntas, mangueras y correas
+Laminador de perfiles y barras
+Fundiciones de acero semiterminadas. Siempre planas y rectangulares en sección transversal.
+Fundiciones de acero semiterminadas. Rectangulares, cuadradas o redondas en sección transversal.
+Calle Sharp
+Redil
+Bajíos
+Frente marítimo
+Silos
+Economía simple. Inspirada en Argentina, Perú y Chile. Mejor con clima subtropical.
+Economía simple. Inspirada en Finlandia, norte de Canadá y norte de Siberia. Mejor con clima subártico.
+Economía simple. Inspirada en el suroeste del Reino Unido. Mejor con clima templado.
+Patio de chapas
+Escoria
+Planta de molienda de escoria
+Fundición
+Carbonato de sodio
+Mina de carbonato de sodio
+Hidróxido de sodio
+Horno de hollín
+Sopas
+Materiales de carbono especiales como coque de petróleo calcinado, alquitrán, alquitranes de alto valor y negro de humo, usados en procesos metalúrgicos y químicos.
+Acero
+Forja y fundición de acero
+Lingotes de acero
+Acería
+Tubería de acero
+Chapa de acero
+Chapa y banda de acero
+Bloque de acero
+Tubo de acero
+Varilla de alambre de acero
+Barras de acero, como redondos, cuadrados, planos y otros perfiles. Transportadas como productos largos rectos.
+Alambre de acero y varillas finas. Principalmente transportados en bobinas.
+Maestros del acero
+Ciudad del acero
+Corral
+Tanques de almacenamiento y tuberías
+Tanques de almacenamiento, recipientes a presión, silos, cilindros de gas y conjuntos de tuberías para uso en edificios urbanos, industrias y granjas.
+Tiendas
+Laminador de banda
+Acero estructural
+Acero de grado estructural como perfiles laminados (vigas I, vigas H, etc.), o como chapa plana, o como secciones y vigas fabricadas soldadas a partir de chapa.
+Azúcar
+Compañía de azúcar
+Refinería de azúcar
+Minerales sulfurosos, fundidos para producir una variedad de productos industriales.
+Azufre
+Ácido sulfúrico
+Suministros para cortar y soldar metal, como varillas de soldadura, herramientas y gases industriales incluyendo acetileno, argón, propano, oxígeno y nitrógeno.
+Patio de suministros
+Cajas de suministro requeridas para producción primaria mejorada (predeterminado 16)
+Cajas de suministro requeridas para producción primaria entusiasta (predeterminado 80)
+Granja de tanques
+Cabaña de tapadores
+Templado (Básico)
+Fábrica textil
+Producto petrolífero espeso usado principalmente para pavimentación y techado.
+Chapa y banda de acero laminada fina, ampliamente usada para fabricar otros productos. Transportada como chapas planas o en bobinas.
+Barras de acero gruesas finas usadas frecuentemente para reforzar estructuras de hormigón. Transportadas en bobinas o fardos de barras rectas.
+Chapa de acero fina recubierta con estaño para resistencia a la corrosión, usada principalmente para latas, contenedores y otros embalajes.
+Productos de madera
+Patio de madera
+Estaño
+Mina de estaño
+Hoja de lata
+Fábrica de hojalata
+La ciudad es {STRING}{}{}Para saber más sobre esta ciudad (incluyendo requisitos de crecimiento y felicidad), abre el Libro de Historia y encuentra la página para {TOWN}
+Fábrica de vehículos de orugas
+Puesto de comercio
+Yacimientos de trona
+Tropical (Básico)
+Lote de camiones
+Laminador de tubos y tuberías
+Laminador de tubos
+Cordón de neumático
+Planta de neumáticos
+Neumáticos
+Usado en producción de aleaciones y acero inoxidable, una aleación de cromo y hierro.  Terrones grises, similares en tamaño y forma a los terrones de carbón.
+Usado en producción de acero. Aleaciones de hierro y otros elementos incluyendo manganeso, níquel, cromo, aluminio, silicio y wolframio.  Terrones grises, similares en tamaño y forma a los terrones de carbón.
+Verduras
+Carrocerías
+Distribuidor de vehículos
+Piezas de vehículos
+Vehículos
+Viñedo
+Producto residual de la producción de hierro y acero.
+Orilla del agua
+Consumibles de soldadura
+Pozos
+Muelle
+Mina
+Trigo, cebada, etc.
+Polvo blanco refinado de bauxita, usado para producir metal de aluminio.
+Roca de sulfato de calcio blanca, gris o marrón, usada en producción de ácido sulfúrico y cemento. A menudo transportada a granel cubierto.
+Producto químico industrial de uso amplio. Amarillo brillante, en forma de polvo o líquido.
+Producto químico industrial de uso amplio. Normalmente transportado como carga a granel que debe mantenerse seca.
+Bodega
+Laminador de varillas
+Pulpa de madera
+Lana
+Obras
+Cinc
+Mina de cinc
+Mineral de cinc
+Fundición de cinc
+no se puede colocar en pendientes pronunciadas.
+cadena de ejemplo aquí
+feliz
+debe colocarse por debajo de la línea de nieve.
+debe colocarse en tierra seca.
+no debe colocarse en el desierto.
+solo se permite una industria de este tipo por ciudad.
+infeliz
+{BLACK}--- Industrias urbanas --- {}
+{BLACK}Mercancía producida el mes pasado
+{BLACK}Tasa de crecimiento actual: {WHITE}{RAW_STRING}
+{BLACK}Nivel de producción actual: {WHITE}{NUM}
+{BLACK}Producción actual: {YELLOW}Mejorado {}{}{BLACK}Para mantener este nivel, entrega {SIGNED_WORD} cajas de suministros al menos una vez cada tres minutos.{}Para producción {WHITE}Entusiasta{BLACK} entrega {SIGNED_WORD} cajas.
+{BLACK}Producción actual: {YELLOW}Mejorado {}{}{BLACK}Para mantener este nivel, entrega {SIGNED_WORD} unidades de mercancía al menos una vez cada tres minutos.{}Para producción {WHITE}Entusiasta{BLACK} entrega {SIGNED_WORD} unidades.
+{BLACK}Producción actual: {YELLOW}Entusiasta {}{}{BLACK}Para mantener este nivel, entrega {SKIP}{SIGNED_WORD} cajas de suministros al menos una vez cada tres minutos.
+{BLACK}Producción actual: {YELLOW}Entusiasta {}{}{BLACK}Para mantener este nivel, entrega {SKIP}{SIGNED_WORD} unidades de mercancía al menos una vez cada tres minutos.
+{BLACK}Producción actual: {YELLOW}Normal {}{}{BLACK}Para producción {WHITE}Mejorada{BLACK} entrega {SIGNED_WORD} cajas de suministros al menos una vez cada tres minutos.{}Para producción {WHITE}Entusiasta{BLACK} entrega {SIGNED_WORD} cajas.
+{BLACK}Producción actual: {YELLOW}Normal {}{}{BLACK}Para producción {WHITE}Mejorada{BLACK} entrega {SIGNED_WORD} unidades de mercancía al menos una vez cada tres minutos.{}Para producción {WHITE}Entusiasta{BLACK} entrega {SIGNED_WORD} unidades.
+{BLACK}Las entregas a esta industria contribuirán al crecimiento y/o felicidad de la ciudad
+{BLACK}Para la tasa máxima de producción, suministra {WHITE}todos{BLACK} los cargos requeridos al menos una vez cada tres minutos.
+{BLACK}Para la tasa máxima de producción, suministra {WHITE}al menos tres{BLACK} cargos requeridos al menos una vez cada tres minutos.
+{BLACK}Para la tasa máxima de producción, suministra {WHITE}al menos dos{BLACK} cargos requeridos al menos una vez cada tres minutos.
+{BLACK}Para la tasa máxima de producción, suministra {WHITE}ambos{BLACK} cargos requeridos al menos una vez cada tres minutos.
+{BLACK}Ciudad sede: {WHITE}{TOWN}
+{BLACK}Industrias poseídas: {WHITE}{RAW_STRING}
+{BLACK}Nombre: {WHITE}{RAW_STRING}
+{BLACK}Ten en cuenta que esto no se actualizará a menos que se apague y encienda Grind en la configuración del GS
+{BLACK}Historial de aumento de producción (permanente) (últimos 10 eventos)
+{BLACK}La producción es proporcional a la población de la ciudad. Al menos {WHITE}{SIGNED_WORD} unidades{BLACK} y no más de {WHITE}{SIGNED_WORD} unidades{BLACK} de mercancía se producirán cada minuto.
+{BLACK}Cargo requerido suministrado el mes pasado
+{BLACK}Suministrado: {WHITE}{CARGO_LONG}
+{BLACK}Suministra {WHITE}al menos un{BLACK} cargo requerido para producción máxima.
+{BLACK}Este es un texto de GS. {WHITE}Haz clic en mí para la página de historia de la ciudad. {BLACK}Aquí hay más texto.
+{BLACK}Tipo: {WHITE}{RAW_STRING}
+{BLACK}Ciudades válidas: {WHITE}{RAW_STRING}
+{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+{BLUE}Repollo
+{INDUSTRY} ¡aumenta la producción!
+{ORANGE}CIRS - Conjunto de Reemplazo de Industria Comunitaria{}{BLACK}Una bifurcación mantenida por la comunidad de FIRS, originalmente de andythenorth, FooBar, planetmaker, Terkhen y Yexo, con ayuda de muchos otros. {SILVER}Consulta el sitio web para más información, incluido cómo usar CIRS. {BLACK}Licencia: GPL v2.
+{ORANGE}E00: CIRS requiere OpenTTD 1.7.0 (o para quienes usan versiones trunk, r27769)
+{ORANGE}E01: {YELLOW}Conjunto incompatible: {ORANGE}{STRING}
+{ORANGE}E02: {YELLOW}Parámetro incompatible: {ORANGE}El parámetro 2 de CanSet debe ser 0 para funcionar con CIRS.
+{ORANGE}E02: {YELLOW}Parámetro incompatible: {ORANGE}El parámetro 2 de NA City Set debe ser 0 para funcionar con CIRS.
+{ORANGE}E04: {YELLOW}Versión incompatible: {ORANGE}Total Town Replacement Set debe ser la versión 3.11 o posterior.
+{SIGNED_WORD} fardo{P 0 "" s} de lana
+{SIGNED_WORD} caja{P 0 "" s} de suministros de ingeniería
+{SIGNED_WORD} caja{P 0 "" s} de suministros agrícolas
+{VOLUME} de ácido
+{VOLUME} de productos de amoníaco y nítrico
+{VOLUME} de betún
+{VOLUME} de intermedios químicos
+{VOLUME} de productos químicos
+{VOLUME} de cloro
+{VOLUME} de alquitrán de carbón
+{VOLUME} de aceite comestible
+{VOLUME} de gases industriales
+{VOLUME} de hidrocarburos ligeros
+{VOLUME} de metanol
+{VOLUME} de leche
+{VOLUME} de nitrógeno
+{VOLUME} de oxígeno
+{VOLUME} de pinturas y recubrimientos
+{VOLUME} de combustibles de petróleo
+{VOLUME} de ácido fosfórico
+{VOLUME} de hidróxido de sodio
+{VOLUME} de ácido sulfúrico
+{WEIGHT} de áridos
+{WEIGHT} de alúmina
+{WEIGHT} de aluminio
+{WEIGHT} de roca de anhidrita
+{WEIGHT} de manzanas
+{WEIGHT} de baritina y fluorita
+{WEIGHT} de judías
+{WEIGHT} de lingotes y bloom
+{WEIGHT} de materiales de construcción
+{WEIGHT} de negro de humo
+{WEIGHT} de mandioca
+{WEIGHT} de hierro fundido
+{WEIGHT} de cemento
+{WEIGHT} de caolín
+{WEIGHT} de arcilla
+{WEIGHT} de agentes de limpieza
+{WEIGHT} de coque
+{WEIGHT} de productos de hormigón
+{WEIGHT} de cobre
+{WEIGHT} de piezas eléctricas
+{WEIGHT} de motores y transmisión
+{WEIGHT} de explosivos
+{WEIGHT} de ferroaleaciones
+{WEIGHT} de fertilizante
+{WEIGHT} de pescado y marisco
+{WEIGHT} de harina y almidón
+{WEIGHT} de alimentos y bebidas
+{WEIGHT} de aditivos alimentarios
+{WEIGHT} de forjas y fundiciones
+{WEIGHT} de comida congelada
+{WEIGHT} de fruta
+{WEIGHT} de productos de vidrio
+{WEIGHT} de mercancías
+{WEIGHT} de ferretería y acabados
+{WEIGHT} de carbones industriales
+{WEIGHT} de piedra caliza
+{WEIGHT} de troncos
+{WEIGHT} de manganeso
+{WEIGHT} de carne
+{WEIGHT} de perfil comercial
+{WEIGHT} de rellenos minerales
+{WEIGHT} de nitratos
+{WEIGHT} de frutos secos
+{WEIGHT} de embalaje
+{WEIGHT} de turba
+{WEIGHT} de fosfato
+{WEIGHT} de arrabio
+{WEIGHT} de plantas y maquinaria
+{WEIGHT} de plásticos y resinas
+{WEIGHT} de potasa
+{WEIGHT} de componentes de precisión
+{WEIGHT} de productos químicos de proceso
+{WEIGHT} de bombas y válvulas
+{WEIGHT} de mineral de pirita
+{WEIGHT} de cal viva
+{WEIGHT} de azúcar crudo y melaza
+{WEIGHT} de armadura
+{WEIGHT} de sal
+{WEIGHT} de arena
+{WEIGHT} de chatarra
+{WEIGHT} de juntas, mangueras y correas
+{WEIGHT} de escoria
+{WEIGHT} de carbonato de sodio
+{WEIGHT} de acero
+{WEIGHT} de lingotes de acero
+{WEIGHT} de tubería de acero
+{WEIGHT} de chapa de acero
+{WEIGHT} de chapa y banda de acero
+{WEIGHT} de bloque de acero
+{WEIGHT} de tubo de acero
+{WEIGHT} de alambrón de acero
+{WEIGHT} de tanques de almacenamiento y tuberías
+{WEIGHT} de acero estructural
+{WEIGHT} de azufre
+{WEIGHT} de productos de madera
+{WEIGHT} de estaño
+{WEIGHT} de hoja de lata
+{WEIGHT} de cordón de neumático
+{WEIGHT} de neumáticos
+{WEIGHT} de verduras
+{WEIGHT} de carrocerías
+{WEIGHT} de piezas de vehículos
+{WEIGHT} de vehículos
+{WEIGHT} de consumibles de soldadura
+{WEIGHT} de pulpa de madera
+{WEIGHT} de cinc
+{WEIGHT} de mineral de cinc
+{WEIGHT} saco{P 0 "" s} de café
+{WHITE}- esta industria nunca ha aumentado la producción de forma permanente
+{YELLOW}Cargos requeridos para crecimiento
+{YELLOW}Cargos requeridos para felicidad

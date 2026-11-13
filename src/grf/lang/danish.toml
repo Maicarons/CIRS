@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x2d"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS Community-Industri-Ersatzpakke"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En fællesskabsvedligeholdt forgrening af FIRS, oprindeligt udviklet af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se websiden for mere information, herunder hvordan CIRS bruges. {BLACK}Licens: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maksimal afstand mellem fiskeområder, boreplatforme og uddybningssteder og kysten i felter."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Hver økonomi tilbyder en anden kombination af laster og industrier.{}{}For spillere, der ønsker en enkel spiloplevelse, indeholder {SILVER}grundlæggende {BLACK}økonomier færre industrier og laster end andre CIRS-økonomier.{}{}CIRS' hjemmeside indeholder detaljerede oplysninger om hver økonomi."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maksimal afstand mellem kysten og marine industrier, i felter"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Økonomi"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Ingen begrænsning"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Antal forsyningskasser, der kræves til forbedret primærproduktion (standard 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Antal forsyningskasser, der kræves til Gung-ho-primærproduktion (standard 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Landbrug, miner og lignende industrier vil øge produktionen, når forsyningskasser leveres, først til {SILVER}Forbedret{BLACK}, og derefter til {SILVER}Gung-ho{BLACK}, hvis der leveres tilstrækkeligt mange kasser.  {}{}Standardværdierne er gode, men hvis du har brug for det, kan du ændre dem her.  {}{}Lastkravene til havnetyper af industrier vil være 8 gange de værdier, der er angivet her."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Forbedret niveau for primærproduktion (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho primærproduktionsniveau (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Produktion på landbrug, miner og lignende industrier, når forsyningskravene er opfyldt (som procentdel af {SILVER}normalt {BLACK}produktionsniveau)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Tempereret basis"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Subarktisk basis"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Subtropisk basis"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Heart of Darkness"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Stålby"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS' landskabsobjekter"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS indeholder et sæt landskabsobjekter, som spillerne kan placere for at få visse industrier til at se større ud. Landskabsobjekter har ingen indvirkning på spillet. Landskabsobjekter kan slås til eller fra."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(valgfrit)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(medfølgende)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Lever {WHITE}mindst én {BLACK} påkrævet fragttype for maksimal produktion."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}For maksimal produktionshastighed, lever {WHITE}begge {BLACK}nødvendige laster mindst én gang hver tredje minut."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}For maksimal produktionshastighed skal alle {WHITE}påkrævede {BLACK}fragttyper leveres mindst én gang hver tredje minut."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}For maksimal produktionshastighed, lever {WHITE}mindst to {BLACK}nødvendige laster mindst én gang hver tredje minut."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}For maksimal produktionshastighed, lever {WHITE}mindst tre {BLACK}nødvendige laster mindst én gang hver tredje minut."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Produktionen er proportional med byens befolkning. Der vil blive produceret mindst {WHITE}{SIGNED_WORD} enheder{BLACK} og højst {WHITE}{SIGNED_WORD} enheder{BLACK} fragt hvert minut."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produktion skal der leveres {SIGNED_WORD} kasser med forsyninger mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal der leveres {SIGNED_WORD} kasser."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau skal du levere {SIGNED_WORD} kasser med forsyninger mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal du levere {SIGNED_WORD} kasser."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Nuværrende produktion: {YELLOW}Gung ho (firedobbelt){}{}{BLACK}For at fastholde dette niveau, aflever {SKIP}{SIGNED_WORD} kasser materialer inden tre måneder"
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produktion skal der leveres {SIGNED_WORD} enheder fragt mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal der leveres {SIGNED_WORD} enheder."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau skal du levere {SIGNED_WORD} enheder last mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal du levere {SIGNED_WORD} enheder."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Nuværrende produktion: {YELLOW}Gung ho (firedobbelt){}{}{BLACK}For at fastholde dette niveau, aflever {SKIP}{SIGNED_WORD} enheder af fragt inden tre måneder"
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS kræver OpenTTD 1.7.0 (eller r27769 for dem, der bruger trunk-bygninger)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Inkompatibelt sæt: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Ukompatibel parameter: {ORANGE}CanSet-parameter 2 skal være 0 for at fungere med CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Ukompatibel parameter: {ORANGE}NA City Set-parameter 2 skal være 0 for at fungere med CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Ukompatibel version: {ORANGE}Total Town Replacement Set skal være version 3.11 eller nyere."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "skal være placeret over snelinjen."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "kan ikke placeres på skrå felter."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i sne eller i ørkener."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i sne eller i ørkener."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i sne eller i ørkener."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i sne eller i ørkener."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i ørkener."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i sne."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Placering: {YELLOW}Kan kun finansieres på sne."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i sne eller i ørkener."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i sne eller i ørkener."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Placering: {YELLOW}Kan ikke bygges i sne eller i ørkener."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Syre"
+cargo_unit = "{VOLUME} syre"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Aggregater"
+cargo_unit = "{WEIGHT} aggregater"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Aluminium"
+cargo_unit = "{WEIGHT} aluminium"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumina"
+cargo_unit = "{WEIGHT} aluminiumoxid"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Ammoniak- og salpetersyreprodukter"
+cargo_unit = "{VOLUME} ammoniak og salpetersyreprodukter"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhydritsten"
+cargo_unit = "{WEIGHT} anhydritsten"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Æbler"
+cargo_unit = "{WEIGHT} æbler"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Bønner"
+cargo_unit = "{WEIGHT} bønner"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumen"
+cargo_unit = "{VOLUME} bitumen"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Byggematerialer"
+cargo_unit = "{WEIGHT} byggematerialer"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Kulsort"
+cargo_unit = "{WEIGHT} kulsort"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Kassava"
+cargo_unit = "{WEIGHT} cassava"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Støbejern"
+cargo_unit = "{WEIGHT} støbejern"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Cement"
+cargo_unit = "{WEIGHT} cement"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Kemiske mellemprodukter"
+cargo_unit = "{VOLUME} kemiske intermediater"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Kemikalier"
+cargo_unit = "{VOLUME} kemikalier"
+cid = "{TINYFONT}KE"
+
+[STR_CARGO_CHLORINE]
+name = "Klor"
+cargo_unit = "{VOLUME} klor"
+cid = "{TINYFONT}KE"
+
+[STR_CARGO_CLAY]
+name = "Ler"
+cargo_unit = "{WEIGHT} ler"
+cid = "{TINYFONT}LE"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Rengøringsmidler"
+cargo_unit = "{WEIGHT} rengøringsmidler"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kaffe"
+cargo_unit = "{WEIGHT} sæk{P 0 \"\" s} kaffe"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_COAL_TAR]
+name = "Kulharpiks"
+cargo_unit = "{VOLUME} kulhjerte"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Koks"
+cargo_unit = "{WEIGHT} kokse"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Præcisionskomponenter"
+cargo_unit = "{WEIGHT} af præcisionskomponenter"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betonprodukter"
+cargo_unit = "{WEIGHT} betonprodukter"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Kobber"
+cargo_unit = "{WEIGHT} kobber"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Spiselig olie"
+cargo_unit = "{VOLUME} spiselig olie"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Elektriske dele"
+cargo_unit = "{WEIGHT} elektriske dele"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Konstruktionsmaterialer"
+cargo_unit = "{SIGNED_WORD} kasse{P 0 \"\" r} konstruktionsmaterialer"
+cid = "{TINYFONT}KM"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Eksplosiver"
+cargo_unit = "{WEIGHT} eksplosiver"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferrolegeringer"
+cargo_unit = "{WEIGHT} ferrolegeringer"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Fisk og skaldyr"
+cargo_unit = "{WEIGHT} fisk & skaldyr"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Landbrugsmaterialer"
+cargo_unit = "{SIGNED_WORD} kasse{P 0 \"\" er} landbrugsmaterialer"
+cid = "{TINYFONT}LM"
+
+[STR_CARGO_FERTILISER]
+name = "Gødning"
+cargo_unit = "{WEIGHT} gødning"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Mel og stivelse"
+cargo_unit = "{WEIGHT} mel & stivelse"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "fødevaretilsætningsstoffer"
+cargo_unit = "{WEIGHT} fødevaretilsætningsstoffer"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Mad og drikkevarer"
+cargo_unit = "{WEIGHT} mad & drikkevarer"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Smedevare og støbegods"
+cargo_unit = "{WEIGHT} smedestykker & støbegods"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Frossen mad"
+cargo_unit = "{WEIGHT} frossen mad"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Frugt"
+cargo_unit = "{WEIGHT} frugt"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Glask produkter"
+cargo_unit = "{WEIGHT} glasprodukter"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Hardware og overfladebehandlinger"
+cargo_unit = "{WEIGHT} hardware & overfladebehandlinger"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Industrielle kulstoffer"
+cargo_unit = "{WEIGHT} industrielle kulstoffer"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Industrielle gasser"
+cargo_unit = "{VOLUME} industrielle gasser"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Kina ler"
+cargo_unit = "{WEIGHT} kaolin"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Lette kulbrinter"
+cargo_unit = "{VOLUME} lette kulbrinter"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Kalksten"
+cargo_unit = "{WEIGHT} kalksten"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Tømmerstokke"
+cargo_unit = "{WEIGHT} træstammer"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Natriumhydroxid"
+cargo_unit = "{VOLUME} natriumhydroxid"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Methanol"
+cargo_unit = "{VOLUME} methanol"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Mælk"
+cargo_unit = "{VOLUME} mælk"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "Mangan"
+cargo_unit = "{WEIGHT} mangan"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Kød"
+cargo_unit = "{WEIGHT} kød"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Baryt og fluorspat"
+cargo_unit = "{WEIGHT} baryt og fluorspat"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Mineralske fyldstoffer"
+cargo_unit = "{WEIGHT} mineralske fillere"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Rå sukker & melasse"
+cargo_unit = "{WEIGHT} af rørsukker & melasse"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitrat"
+cargo_unit = "{WEIGHT} nitrater"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Kvælstof"
+cargo_unit = "{VOLUME} kvælstof"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Møtrikker"
+cargo_unit = "{WEIGHT} nødder"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Ilt"
+cargo_unit = "{VOLUME} ilt"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Emballage"
+cargo_unit = "{WEIGHT} emballage"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Maling og belægninger"
+cargo_unit = "{VOLUME} malinger & belægninger"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Tørv"
+cargo_unit = "{WEIGHT} tørv"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Benzin"
+cargo_unit = "{VOLUME} benzin"
+cid = "{TINYFONT}BZ"
+
+[STR_CARGO_PIPEWORK]
+name = "Opbevaringstanke og rørledninger"
+cargo_unit = "{WEIGHT} af opbevaringstanke og rørledninger"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfat"
+cargo_unit = "{WEIGHT} fosfat"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Phosphorsyre"
+cargo_unit = "{VOLUME} phosphorsyre"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Råjern"
+cargo_unit = "{WEIGHT} råjern"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plast og harpikser"
+cargo_unit = "{WEIGHT} plast & harpiks"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Anlæg og maskiner"
+cargo_unit = "{WEIGHT} anlæg & maskiner"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Kalium"
+cargo_unit = "{WEIGHT} kalium"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Proceskemikalier"
+cargo_unit = "{WEIGHT} af proceskemikalier"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pumper & ventiler"
+cargo_unit = "{WEIGHT} af pumper & ventiler"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pyritmalm"
+cargo_unit = "{WEIGHT} af pyritmalm"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Brændkalk"
+cargo_unit = "{WEIGHT} af brændkalk"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Armeringsjern"
+cargo_unit = "{WEIGHT} af armeringsjern"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Salt"
+cargo_unit = "{WEIGHT} af salt"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Sand"
+cargo_unit = "{WEIGHT} sand"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Skrotmetal"
+cargo_unit = "{WEIGHT} skrotmetal"
+cid = "{TINYFONT}SM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Tætninger, slanger og remme"
+cargo_unit = "{WEIGHT} af tætninger, slanger & remme"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slagge"
+cargo_unit = "{WEIGHT} af slagge"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Sodasalt"
+cargo_unit = "{WEIGHT} af sodaaske"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Stål"
+cargo_unit = "{WEIGHT} af stål"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billetter og bloeme"
+cargo_unit = "{WEIGHT} stænger og blokke"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Stålingoter"
+cargo_unit = "{WEIGHT} af stålingoter"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Handelsbar"
+cargo_unit = "{WEIGHT} handelsstang"
+cid = "{TINYFONT}RO"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Stålrør"
+cargo_unit = "{WEIGHT} af stålrør"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Stålplade"
+cargo_unit = "{WEIGHT} af stålplader"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Stålark og -strimler"
+cargo_unit = "{WEIGHT} af stålark og -strimler"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Stålslab"
+cargo_unit = "{WEIGHT} af stålslabber"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Stål rør"
+cargo_unit = "{WEIGHT} af stålrør"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Ståltrådstrang"
+cargo_unit = "{WEIGHT} af ståltrådstråd"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Konstruktionsstål"
+cargo_unit = "{WEIGHT} af konstruktionsstål"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Svovl"
+cargo_unit = "{WEIGHT} af svovl"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Svovlsyre"
+cargo_unit = "{VOLUME} svovlsyre"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Træprodukter"
+cargo_unit = "{WEIGHT} af træprodukter"
+cid = "{TINYFONT}TØ"
+
+[STR_CARGO_TIN]
+name = "Tin"
+cargo_unit = "{WEIGHT} af tin"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Tinplade"
+cargo_unit = "{WEIGHT} tinplade"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Dækkærder"
+cargo_unit = "{WEIGHT} dækkord"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Dæk"
+cargo_unit = "{WEIGHT} dæk"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Grøntsager"
+cargo_unit = "{WEIGHT} grøntsager"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Køretøjskarrosserier"
+cargo_unit = "{WEIGHT} køretøjsskrog"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Motorer og drivlinjer"
+cargo_unit = "{WEIGHT} motorer & drivlinjer"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Køretøjdele"
+cargo_unit = "{WEIGHT} køretøjsdele"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Køretøjer"
+cargo_unit = "{WEIGHT} køretøjer"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Svejsforbrugsvarer"
+cargo_unit = "{WEIGHT} svejseforbrugsstoffer"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Træmasse"
+cargo_unit = "{WEIGHT} træmasse"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Uld"
+cargo_unit = "{SIGNED_WORD} bal{P 0 \"\" er} uld"
+cid = "{TINYFONT}UL"
+
+[STR_CARGO_ZINC]
+name = "Zink"
+cargo_unit = "{WEIGHT} zink"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Zinkmalm"
+cargo_unit = "{WEIGHT} af zinkmalm"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} varer"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Aluminiumsværk"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Ammoniakkompleks"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Anhydritmine"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Anhydritprocesanlæg"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Husholdningsapparatfabrik"
+
+[STR_IND_ARABLE_FARM]
+base = "Jordbrugsgård"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Montageanlæg"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Sektion- og stangværk"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Grundiloxovne"
+
+[STR_IND_BLAST_FURNACE]
+base = "Højovn"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Spånpladefabrik"
+
+[STR_IND_BODY_PLANT]
+base = "Karrosserifabrik"
+
+[STR_IND_BREWERY]
+base = "Bryggeri"
+
+[STR_IND_CIDER_MILL]
+base = "Cider bryggeri"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Byggeplads" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Kulsortsfabrik"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Cellulosefilmfabrik"
+
+[STR_IND_CEMENT_PLANT]
+base = "Cementfabrik"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Kemisk kompleks"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Eksplosivfabrik"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Klor-alkali-anlæg"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Lergrav"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Kaffeplantage"
+
+[STR_IND_COKE_OVEN]
+base = "Cokeovn"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Betonanlæg"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Batchkemiværk"
+
+[STR_IND_COPPER_SMELTER]
+base = "Kobbersmelteværk"
+
+[STR_IND_CRYO_PLANT]
+base = "Kryogenanlæg"
+
+[STR_IND_DAIRY]
+base = "Mejeri"
+
+[STR_IND_DAIRY_FARM]
+base = "Mælkefarm"
+
+[STR_IND_DREDGING_SITE]
+base = "Uddybningssted"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Fabrik til elastomerprodukter"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Elektrisk bogefyr"
+
+[STR_IND_ENGINE_PLANT]
+base = "Motoranlæg"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Ingeniørværksted"
+
+[STR_IND_FARM]
+base = "Landbrug"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Fabrik til proceskemikalier"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Gæringsanlæg"
+
+[STR_IND_FISH_FARM]
+base = "Fiskeri"
+
+[STR_IND_FISHING_GROUND]
+base = "Fiskeriområder"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Fiskerihavn"
+
+[STR_IND_GRAIN_MILL]
+base = "Kornmølle"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "fødevareforarbejdningsanlæg"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Stålsmede og støberi"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Fabrik til frosne fødevarer"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Møbelfabrik"
+
+[STR_IND_GENERAL_STORE]
+base = "Butik"
+
+[STR_IND_GLASS_WORKS]
+base = "Glasværk"
+
+[STR_IND_HERDING_COOP]
+base = "Hyrdekooperativ"
+
+[STR_IND_HOTEL]
+base = "Hotel"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Fabrik til frosne desserter"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Stålværk"
+
+[STR_IND_SCRAP_YARD]
+base = "Skrotplads"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Kalkbrænderi"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Kalkstensmine"
+
+[STR_IND_MANGANESE_MINE]
+base = "Manganmine"
+
+[STR_IND_METAL_WORKS]
+base = "Metallværk"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Anlæg for mineralske fyldstoffer"
+
+[STR_IND_NITRATE_MINE]
+base = "Nitratmine"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Industriel kemisk fabrik"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Olie- og kemikalieterminal"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Frugthave og svinestald"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Flaske- og dåsefabrik"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Fabrik til papirprodukter"
+
+[STR_IND_PEATLANDS]
+base = "Tørvområder"
+
+[STR_IND_PETROLPUMP]
+base = "Tankstation"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Phosphatmine"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Gødnings- og syrefabrik"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Kommercielt bageri"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Rørbutik"
+
+[STR_IND_PLATE_MILL]
+base = "Pladeværk"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Fabrik til plastformstøbning"
+
+[STR_IND_PORT]
+base = "Havn"
+
+[STR_IND_POTASH_MINE]
+base = "Kaliummine"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Energisystemfabrik"
+
+[STR_IND_POWER_PLANT]
+base = "Kraftværk"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Fabrik til præcisionsdele"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Produktpakkeri"
+
+[STR_IND_PYRITE_MINE]
+base = "Pyritmine"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Pyritsmelteovn"
+
+[STR_IND_QUARRY]
+base = "Grusgrav"
+
+[STR_IND_RANCH]
+base = "Ranch"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Vejenstensanlæg"
+
+[STR_IND_SALT_WORKS]
+base = "Saltsværk"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Slaggekværningsanlæg"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Sodasaltmine"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Fabrik på færdige fødevarer"
+
+[STR_IND_STOCKYARD]
+base = "Slagteri"
+
+[STR_IND_STRIP_MILL]
+base = "Strimmelværk"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Sukkerfabrik"
+
+[STR_IND_SUPPLY_YARD]
+base = "Forsyningsplads"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Tømmerplads"
+
+[STR_IND_TIN_MINE]
+base = "Tinmine"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Tinpladefabrik"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Fabrik til sporvogne"
+
+[STR_IND_TRADING_POST]
+base = "Handelsstation"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Rør- og rørproduktionsværk"
+
+[STR_IND_TYRE_PLANT]
+base = "Dækkfabrik"
+
+[STR_IND_VINEYARD]
+base = "Vingård"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Køretøjsdistributør"
+
+[STR_IND_WHARF]
+base = "Kaipr"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Trådstrådefabrik"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Zinkmine"
+
+[STR_IND_ZINC_SMELTER]
+base = "Zinksmelteovn"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Hestemarked"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Elektronikvarer"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Bilindustri"
+
+[STR_STATION_BAKERY]
+base = "Bageri"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Bjælker"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, grill og værelser"
+
+[STR_STATION_BARNS]
+base = "Barns"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Tønde og fad"
+
+[STR_STATION_BASE]
+base = "Grundstof"
+
+[STR_STATION_BONEYARD]
+base = "Knoglegård"
+
+[STR_STATION_BANK_TOP]
+base = "Banktop"
+
+[STR_STATION_BODY_PLANT]
+base = "Presdele"
+
+[STR_STATION_BRINE_WORKS]
+base = "Saltlagefabrik"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Byggeplads"
+
+[STR_STATION_COLLIERY]
+base = "Kulmine"
+
+[STR_STATION_COMPONENTS]
+base = "Komponenter"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Færdigstøbt"
+
+[STR_STATION_COPPER_LODE]
+base = "Kobberåre"
+
+[STR_STATION_CREOSOTING]
+base = "Kreosoteringsanlæg"
+
+[STR_STATION_CRYO_PLANT]
+base = "Kryogenanlæg"
+
+[STR_STATION_DAIRY_LANE]
+base = "Mælkevej"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Tætninger og slanger"
+
+[STR_STATION_ESTATE]
+base = "Ejendom"
+
+[STR_STATION_FACTORY]
+base = "Fabrik"
+
+[STR_STATION_FARM_1]
+base = "Gård"
+
+[STR_STATION_FARM_2]
+base = "Enge"
+
+[STR_STATION_FARM_3]
+base = "Ranch"
+
+[STR_STATION_FISHMARKET]
+base = "Fiskemarked"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "fødevarekoncern"
+
+[STR_STATION_FOREST]
+base = "Tømmerlandingsplads"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Stålmeistere"
+
+[STR_STATION_FREEZERS]
+base = "Frysemaskiner"
+
+[STR_STATION_FURNACE]
+base = "Ovn"
+
+[STR_STATION_METAL_WORKS]
+base = "Metallvarer"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Fabrik"
+
+[STR_STATION_HERDING_COOP]
+base = "Reindrægt"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Industripark"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Vandkant"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Landingsplatform"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Kystfront"
+
+[STR_STATION_IRONSTONE]
+base = "Jernsten"
+
+[STR_STATION_KILNS]
+base = "Ovne"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Kimberlitforekomster"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Kalkstensminer"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Manganminer"
+
+[STR_STATION_MILL]
+base = "Mølle"
+
+[STR_STATION_MILLS]
+base = "Møller"
+
+[STR_STATION_MINES]
+base = "Mineraller"
+
+[STR_STATION_MOULDINGS]
+base = "Listværk"
+
+[STR_STATION_OIL_RIG]
+base = "Mark"
+
+[STR_STATION_ORCHARDS]
+base = "Frugthaver"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Transportlinje"
+
+[STR_STATION_PIT]
+base = "Grav"
+
+[STR_STATION_PLANT]
+base = "Anlæg"
+
+[STR_STATION_PLANTATION]
+base = "Plantage"
+
+[STR_STATION_PLATE_MILL]
+base = "Stålpladeplads"
+
+[STR_STATION_POTASH_MINE]
+base = "Mineraler"
+
+[STR_STATION_POWERHUNGRY]
+base = "Kraftværk"
+
+[STR_STATION_POWERTRAIN]
+base = "Drivlinje"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Anlæg og maskiner"
+
+[STR_STATION_PUMPS]
+base = "Pumper"
+
+[STR_STATION_PYRITES]
+base = "Pyritforekomster"
+
+[STR_STATION_REFINERY]
+base = "Raffinaderi"
+
+[STR_STATION_ROD_MILL]
+base = "Stangmølle"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Gummifirma"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Salpetersværk"
+
+[STR_STATION_SEAFOOD]
+base = "Skaldyr"
+
+[STR_STATION_SHARP_STREET]
+base = "Skarp Gade"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Shoals"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Smelteværk"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Sotovn"
+
+[STR_STATION_SOUPS]
+base = "Supper"
+
+[STR_STATION_STRIP_MILL]
+base = "Spolelinje"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Sukkerfirma"
+
+[STR_STATION_TANK_FARM]
+base = "Tankfarm"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Tapperens skur"
+
+[STR_STATION_TOWN_3]
+base = "Lager"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Kryberværksted"
+
+[STR_STATION_TRONA_BEDS]
+base = "Trona-senge"
+
+[STR_STATION_TUBE_MILL]
+base = "Rørproduktionsværk"
+
+[STR_STATION_WATER]
+base = "Sandbanke"
+
+[STR_STATION_WELLS]
+base = "Brønde"
+
+[STR_STATION_WHEAL]
+base = "Grue"
+
+[STR_STATION_WINERY]
+base = "Vinhus"
+
+[STR_STATION_WORKS]
+base = "Fabrik"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Lastbilplads"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "JORD"
+
+[STR_BADGE_SEA]
+base = "HAV"

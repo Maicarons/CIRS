@@ -1,0 +1,117 @@
+afrikaans
+  TITLE: Oorspronklike-boom-opsporing
+  DESC : Die volle FIRS git-geskiedenis word bewaar, sodat toekomstige veranderinge van die oorspronklike boom saamgesmelt kan word in plaas van afgevurk.
+arabic
+  TITLE: متابعة المنبع
+  DESC : يُحفظ سجل git الكامل لـ FIRS، بحيث يمكن دمج تغييرات المنبع المستقبلية بدلاً من الانشطار عبر شوكة.
+belarusian
+  TITLE: Адсочванне upstream
+  DESC : Поўная гісторыя git FIRS захоўваецца, таму будучыя змены upstream могуць быць аб'яднаны, а не адгалінаваны.
+catalan
+  TITLE: Seguiment de la font original
+  DESC : L'historial git complet de FIRS es conserva, perquè els futurs canvis de la font original es puguin fusionar en lloc de bifurcar-se.
+croatian
+  TITLE: Praćenje nadređenog projekta
+  DESC : Cijela povijest git FIRS-a sačuvana je, tako da se buduće promjene iz nadređenog projekta mogu spojiti umjesto razgranati.
+czech
+  TITLE: Sledování nadřazeného projektu
+  DESC : Celá historie git FIRS je zachována, takže budoucí změny z nadřazeného projektu lze sloučit místo vytvoření forku.
+danish
+  TITLE: Upstream-sporende
+  DESC : Den fulde FIRS git-historik bevares, så fremtidige upstream-ændringer kan flettes i stedet for at blive fra-forket.
+dutch
+  TITLE: Upstream-volging
+  DESC : De volledige FIRS git-geschiedenis wordt behouden, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van weggeforkt.
+english
+  TITLE: Upstream tracking
+  DESC : The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+esperanto
+  TITLE: Sekvado de la supra fluo
+  DESC : La plena FIRS git-historio estas konservita, tiel ke estontaj ŝanĝoj de la supra fluo povas esti kunfanditaj anstataŭ forki.
+estonian
+  TITLE: Ülemharu jälgimine
+  DESC : Kogu FIRSi git ajalugu säilitatakse, nii et tulevased ülemharu muudatused saab ühendada haru loomise asemel.
+finnish
+  TITLE: Ylävirran seuranta
+  DESC : Koko FIRS git-historia säilytetään, jotta tulevat ylävirran muutokset voidaan yhdistää sen sijaan, että ne haarautuisivat erilleen.
+french
+  TITLE: Suivi amont
+  DESC : L'historique git complet de FIRS est préservé, afin que les futurs changements amont puissent être fusionnés plutôt que séparés par un fork.
+gaelic
+  TITLE: Tracadh air an tùs tùsail
+  DESC : Tha eachdraidh làn git FIRS air a glèidheadh, gus am faodar atharraichean bhon tùs tùsail a chur còmhla an àite fork a chruthachadh.
+galician
+  TITLE: Seguimento da orixe orixinal
+  DESC : O historial git completo de FIRS consérvase, para que os futuros cambios da orixe orixinal poidan fusionarse no canto de bifurcarse.
+german
+  TITLE: Upstream-Verfolgung
+  DESC : Der vollständige FIRS-Git-Verlauf wird beibehalten, sodass künftige Upstream-Änderungen zusammengeführt und nicht weggeforkt werden können.
+hungarian
+  TITLE: Felső ág követése
+  DESC : A teljes FIRS git előzmény megőrzésre kerül, így a jövőbeli felső ági változások egyesíthetők ahelyett, hogy elágaztatnánk.
+indonesian
+  TITLE: Pelacakan hulu
+  DESC : Seluruh riwayat git FIRS disimpan, sehingga perubahan hulu di masa depan dapat digabungkan alih-alih membuat fork.
+italian
+  TITLE: Tracciamento upstream
+  DESC : L'intera cronologia git di FIRS è preservata, così i futuri cambiamenti upstream possono essere uniti invece di essere separati con un fork.
+japanese
+  TITLE: アップストリームの追跡
+  DESC : FIRSの完全なgit履歴が保持されているため、フォークするのではなく、将来のアップストリームの変更をマージできます。
+korean
+  TITLE: 업스트림 추적
+  DESC : 전체 FIRS git 기록이 보존되므로, 향후 업스트림 변경 사항을 포크하지 않고 병합할 수 있습니다.
+latin
+  TITLE: Vestigium Upstream
+  DESC : Tota historia git FIRS conservatur, ita mutationes futurae upstream coniungi possunt potius quam furculari.
+luxembourgish
+  TITLE: Original-Quell Verfollegung
+  DESC : D'ganz FIRS git Geschicht gëtt behal, sou datt zukünfteg Ännerungen vun der Original-Quell kënnen fusionnéiert ginn amplaz ofzezwéngen.
+norwegian_bokmal
+  TITLE: Oppstrøms-sporing
+  DESC : Hele FIRS git-historikken bevares, slik at fremtidige oppstrømsendringer kan flettes i stedet for å bli forgreninger.
+polish
+  TITLE: Śledzenie upstream
+  DESC : Pełna historia git FIRS jest zachowywana, dzięki czemu przyszłe zmiany z upstream mogą być scalane zamiast być rozwidlane.
+portuguese
+  TITLE: Acompanhamento da origem
+  DESC : O histórico git completo do FIRS é preservado, para que futuras mudanças da origem possam ser mescladas em vez de separadas por fork.
+portuguese_BR
+  TITLE: Acompanhamento da origem
+  DESC : Todo o histórico git do FIRS é preservado, para que futuras mudanças da origem possam ser mescladas em vez de bifurcadas.
+romanian
+  TITLE: Urmărirea sursei originale
+  DESC : Întregul istoric git FIRS este păstrat, astfel încât modificările viitoare din sursa originală pot fi îmbinate în loc să fie bifurcate.
+russian
+  TITLE: Отслеживание основной ветки
+  DESC : Вся история git FIRS сохранена, поэтому будущие изменения основной ветки можно объединить, а не создавать ответвления.
+serbian
+  TITLE: Praćenje nadređenog projekta
+  DESC : Cela istorija git FIRS-a sačuvana je, tako da se buduće promene iz nadređenog projekta mogu spojiti umesto razgranati.
+simplified_chinese
+  TITLE: 追踪上游
+  DESC : FIRS 完整的 git 历史被保留，未来的上游改动可以直接合并，而不必另起 fork。
+slovak
+  TITLE: Sledovanie nadradeného projektu
+  DESC : Celá história git FIRS je zachovaná, takže budúce zmeny z nadradeného projektu možno zlúčiť namiesto vytvorenia forku.
+spanish
+  TITLE: Seguimiento de la fuente original
+  DESC : El historial git completo de FIRS se conserva, para que los futuros cambios de la fuente original se puedan fusionar en lugar de bifurcarse.
+spanish_MX
+  TITLE: Seguimiento de la fuente original
+  DESC : El historial git completo de FIRS se conserva, para que los futuros cambios de la fuente original se puedan fusionar en lugar de bifurcarse.
+swedish
+  TITLE: Uppströmsföljning
+  DESC : Hela FIRS git-historik bevaras, så framtida uppströmsändringar kan sammanfogas istället för att förgreningas bort.
+tamil
+  TITLE: மேலோடைக் கண்காணிப்பு
+  DESC : FIRSஇன் முழு git வரலாறும் பாதுகாக்கப்படுகிறது, எனவே எதிர்கால மேலோடை மாற்றங்களைக் கிளை (fork) உருவாக்காமல் இணைக்க முடியும்.
+traditional_chinese
+  TITLE: 追蹤上游
+  DESC : FIRS 完整的 git 歷史被保留，因此未來的上游變更可以被合併，而不是被迫 fork。
+turkish
+  TITLE: Ana kaynağı izleme
+  DESC : Tüm FIRS git geçmişi korunur, böylece gelecekteki ana kaynak değişiklikleri çatal oluşturmak yerine birleştirilebilir.
+welsh
+  TITLE: Olrhain ffynhonnell wreiddiol
+  DESC : Caiff hanes git llawn FIRS ei gadw, fel y gellir cyfuno newidiadau ffynhonnell yn y dyfodol yn hytrach na ffurfio fforc.

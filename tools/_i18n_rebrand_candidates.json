@@ -1,0 +1,1329 @@
+[
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CANSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}CanSet-parameter 2 moet 0 wees om met FIRS te werk.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 410,
+  "in_work": true
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met FIRS te werk.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 411,
+  "in_work": true
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_ERR_OPENTTD_VERSION.base",
+  "en": "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+  "tr": "{ORANGE}E00: FIRS vereis OpenTTD 1.7.0 (of, vir dié wat tronkbouwerke gebruik, r27769)",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 408,
+  "in_work": true
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Nywerheid vervanging stel{}{BLACK}Aan u gebring deur andythenorth, FooBar, planetmaker, Terkhen and Yexo, met help van baie ander. {SILVER}Sien readme vir meer inligting, ingesluit hoe om FIRS te gebruik. {BLACK}Lisensie: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Elke ekonomie bied ’n ander kombinasie van vragte en nywerhede.{}{}Vir spelers wat eenvoudige spel wil hê, bevat {SILVER}Basiese {BLACK}ekonomieë minder nywerhede en vragte as ander FIRS-ekonomieë.{}{}Die FIRS-webwerf verskaf gedetailleerde inligting oor elke ekonomie.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": 98,
+  "in_work": true
+ },
+ {
+  "lang": "arabic",
+  "file": "src/grf/lang/arabic.toml",
+  "key": "STR_CARGO_FOOD_ADDITIVES.cid",
+  "en": "{TINYFONT}FV",
+  "tr": "{TINYFONT}FIRS",
+  "reasons": [
+   "firs_overuse(+1)"
+  ],
+  "work_index": 516,
+  "in_work": true
+ },
+ {
+  "lang": "belarusian",
+  "file": "src/docs/lang/belarusian.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Поўная гісторыя git FIRS захоўваецца, таму будучыя змены upstream могуць быць аб'яднаны, а не адгалінаваны.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "belarusian",
+  "file": "src/docs/lang/belarusian.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Адсочванне upstream",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "belarusian",
+  "file": "src/grf/lang/belarusian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Набор FIRS для поўнай замены прадпрыемстваў{}{BLACK}Спецыяльна для вас ад andythenorth, FooBar, planetmaker, Terkhen и Yexo, з дапамогай многіх іншых. {SILVER}Падрабязную інфармацыю, уключаючы тое, як карыстацца FIRS, глядзіце ў ReadMe. {BLACK}Ліцэнзія: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "belarusian",
+  "file": "src/grf/lang/belarusian.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Кожная эканоміка прадстаўляе розную камбінацыю грузаў і прадпрыемстваў.{}{}Для гульцоў, якія жадаюць простую эканоміку, {SILVER}звычайная {BLACK}эканоміка змяшчае меней прадпрыемстваў і грузаў, чым іншыя эканомікі FIRS.{}{} Веб-сайт FIRS прадугледжвае дэтальную інфармацыю пра кожную эканоміку.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Fet per andythenorth, FooBar, planetmaker, Terkhen i Yexo, amb l'ajuda de molts altres. {SILVER}Consulteu el llegeix-me per a més informació, incloent-hi com usar FIRS. {BLACK}Llicència: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "croatian",
+  "file": "src/grf/lang/croatian.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Svaka ekonomija daje različite kombinacije tereta i industrija.{}{}Za igrače koji žele jednostavnost igre, {SILVER}Osnovne {BLACK} ekonomije imaju manje industrija i tereta nego druge FIRS ekonomije.{}{}Na FIRS web stranici se nalaze detaljne informacije o svakoj vrsti ekonomije.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "czech",
+  "file": "src/grf/lang/czech.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Každá ekonomika poskytuje různou kombinaci nákladů a průmyslu.{}{} {SILVER}Základní {BLACK}ekonomiky obsahují méně průmyslu a nákladů než ostatní FIRS ekonomiky a jsou tedy vhodné i pro začínající hráče.{}{}Detailní informace ke každé ekonomice jsou k dispozici na stránkách FIRSu.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "danish",
+  "file": "src/docs/lang/danish.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Den fulde FIRS git-historik bevares, så fremtidige upstream-ændringer kan flettes i stedet for at blive fra-forket.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "danish",
+  "file": "src/docs/lang/danish.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Upstream-sporende",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Bragt til dig af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se \"readme\"-filen for mere information, inklusiv hvordan man anvender FIRS. {BLACK}Licens: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_CC_OPEN_BULK",
+  "en": "Open Bulk",
+  "tr": "Open bulk",
+  "reasons": [
+   "english_case_only"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "De volledige FIRS git-geschiedenis wordt behouden, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van weggeforkt.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Upstream-volging",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Gemaakt door andythenorth, FooBar, planetmaker, Terkhen en Yexo met hulp van vele anderen. {SILVER}Lees de 'readme' voor meer informatie, inclusief hoe je FIRS kunt gebruiken. {BLACK}Licentie: GPL V2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Elke economie heeft een andere combinatie van goederen en industrieën.{}{}Voor spelers die een eenvoudig spelverloop willen zijn er {SILVER}basis{BLACK} economieën die minder industrieën en goederen bevatten.{}{}De FIRS website (Engelstalig) geeft gedetailleerde informatie over elke economie.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "estonian",
+  "file": "src/grf/lang/estonian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Toodud Teieni andythenorth, FooBar, planetmaker, Terkhen and Yexo ja paljude teiste poolt{SILVER}Rohkem infot \"read me\"-s, ka see kuidas kasutada FIRS-i. {BLACK}Litsents: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "finnish",
+  "file": "src/grf/lang/finnish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Tekijät: andythenorth, FooBar, planetmaker, Terkhen and Yexo sekä kaikki muut apuna olleet. {SILVER}Lisätietoja, mukaan lukien käyttöoppaan, löydät readme-tiedostosta. {BLACK}Lisenssi: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "finnish",
+  "file": "src/grf/lang/finnish.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Jokainen talousvaihtoehto mahdollistaa erilaisen yhdistelmän rahteja ja teollisuuksia.{}{}Yksinkertaisesta pelityylistä pitävien kannattaa kokeilla {SILVER}pelkistettyjä {BLACK}talouksia, joissa on vähemmän teollisuustyyppejä ja rahteja verrattuna muihin FIRS:in talouksiin.{}{}FIRS:in kotisivu antaa tarkempaa tietoa erilaisista talouksista.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_ECO_CARGOS",
+  "en": "{count} Cargos",
+  "tr": "{count} cargos",
+  "reasons": [
+   "english_case_only"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_ECO_INDUSTRIES",
+  "en": "{count} Industries",
+  "tr": "{count} industries",
+  "reasons": [
+   "english_case_only"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Chaque modèle économique présente des industries et des cargaisons différentes.{}{}Pour les joueurs intéressés par un jeu plus simple, les économies {SILVER}\"Basiques\"{BLACK} contiennent moins d'industries et de cargaisons que les autres économies \"FIRS\".{}{}Le site web de FIRS procure des informations détaillées sur chaque modèle économique.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "galician",
+  "file": "src/grf/lang/galician.toml",
+  "key": "STR_ERR_OPENTTD_VERSION.base",
+  "en": "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+  "tr": "{ORANGE}E00: FIRS precisa OpenTTD 1.7.0 / r27769 ou superior",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "galician",
+  "file": "src/grf/lang/galician.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Creado por andythenorth, FooBar, planetmaker, Terkhen e Yexo, coa axuda de moitos outros. {SILVER}Consulta o Readme para máis información, incluíndo como usar o FIRS. {BLACK}Licencia: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "galician",
+  "file": "src/grf/lang/galician.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Cada un dos tipos de economía contén unha combinación diferente de industrias e cargas.{}{}Para xogadores que busquen partidas máis sinxelas, as {BLACK}economías {SILVER}básicas conteñen menos industrias e cargas que outras economías FIRS.{}{} A páxina web de FIRST proporciona información máis detallada sobre cada economía.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "german",
+  "file": "src/docs/lang/german.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Der vollständige FIRS-Git-Verlauf wird beibehalten, sodass künftige Upstream-Änderungen zusammengeführt und nicht weggeforkt werden können.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "german",
+  "file": "src/docs/lang/german.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Upstream-Verfolgung",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Inkompatibler Parameter: {ORANGE}NA City Set Parameter 2 muss 0 sein, um mit CIRS zu funktionieren.",
+  "reasons": [
+   "na_city_param"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "hungarian",
+  "file": "src/grf/lang/hungarian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Készítette: andythenorth, FooBar, planetmaker, Terkhen, Yexo és még sokan mások. {SILVER}További információkhoz (például a FIRS használatához) lásd a readme-t. {BLACK}Licenc: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "hungarian",
+  "file": "src/grf/lang/hungarian.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Az egyes gazdaságokban különféle rakományok és gazdasági épületek érhetőek el.{}{}Az egyszerűbb játékmenet érdekében az {SILVER}alap {BLACK}gazdaságok kevesebb rakományt és gazdasági épületet tartalmaznak, mint a többi FIRS gazdaság.{}{}A FIRS weboldalán részletes leírás található mindegyik gazdaságról.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/docs/lang/indonesian.toml",
+  "key": "DOC_BRAND",
+  "en": "CIRS",
+  "tr": "FIRS",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 42,
+  "in_work": true
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set -{}{BLACK}Dibuat untuk anda oleh andythenorth, FooBar, planetmaker, Terkhen and Yexo, dan bantuan dari yang lain. {SILVER}Lihat readme untuk informasi lebih lanjut, termasuk cara penggunaan FIRS. {BLACK}Lisensi: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_PARAM_DESC_OBJECTS.base",
+  "en": "CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.",
+  "tr": "FIRS mencakup satu set objek penataan lanskap yang dapat ditempatkan oleh pemain agar industri tertentu terlihat lebih besar. Objek lanskap tidak memiliki efek pada gameplay. Objek penataan lanskap dapat diaktifkan atau dinonaktifkan.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 44,
+  "in_work": true
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_PARAM_NAME_OBJECTS.base",
+  "en": "CIRS landscaping objects",
+  "tr": "Objek penataan lanskap FIRS",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 45,
+  "in_work": true
+ },
+ {
+  "lang": "italian",
+  "file": "src/docs/lang/italian.toml",
+  "key": "DOC_BRAND",
+  "en": "CIRS",
+  "tr": "FIRS",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 27,
+  "in_work": true
+ },
+ {
+  "lang": "italian",
+  "file": "src/docs/lang/italian.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "L'intera cronologia git di FIRS è preservata, così i futuri cambiamenti upstream possono essere uniti invece di essere separati con un fork.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "italian",
+  "file": "src/docs/lang/italian.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Tracciamento upstream",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "italian",
+  "file": "src/grf/lang/italian.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CANSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}CanSet parameter 2 deve essere 0 per funzionare con FIRS.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "italian",
+  "file": "src/grf/lang/italian.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}NA City Set parameter 2 deve essere 0 per funzionare con FIRS.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "na_city_param"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "italian",
+  "file": "src/grf/lang/italian.toml",
+  "key": "STR_ERR_OPENTTD_VERSION.base",
+  "en": "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+  "tr": "{ORANGE}E00: FIRS richiede OpenTTD 1.7.0 (o per quelli che usano una trunk build, r27769)",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "italian",
+  "file": "src/grf/lang/italian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Di andythenorth, FooBar, planetmaker, Terkhen e Yexo, e con il contributo di molti altri. {SILVER}Leggete il file readme per informazioni e per consigli su come usare FIRS. {BLACK}Licenza: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "italian",
+  "file": "src/grf/lang/italian.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Ogni economia dà una combinazione diversa di merci e industrie.{}{}Per uno schema di gioco semplificato, un'economia di {SILVER}base {BLACK} comprende meno industrie e merci rispetto ad altre economie di FIRS.{}{}Sul sito web di FIRS si trovano informazioni dettagliate su ogni economia.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "italian",
+  "file": "src/grf/lang/italian.toml",
+  "key": "STR_PARAM_DESC_OBJECTS.base",
+  "en": "CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.",
+  "tr": "FIRS include un set di oggetti di arredo paesaggistico che i giocatori possono posizionare per far apparire alcune industrie più grandi. Gli oggetti di arredo non hanno alcun effetto sul gameplay. Possono essere attivati o disattivati.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 29,
+  "in_work": true
+ },
+ {
+  "lang": "italian",
+  "file": "src/grf/lang/italian.toml",
+  "key": "STR_PARAM_NAME_OBJECTS.base",
+  "en": "CIRS landscaping objects",
+  "tr": "Oggetti di arredo paesaggistico FIRS",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 30,
+  "in_work": true
+ },
+ {
+  "lang": "japanese",
+  "file": "src/docs/lang/japanese.toml",
+  "key": "DOC_GS_CONFLICTS_P3_LINK",
+  "en": "conflicting newgrfs",
+  "tr": "conflicting newGRFs",
+  "reasons": [
+   "conflicting_newgrfs",
+   "english_case_only"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "korean",
+  "file": "src/docs/lang/korean.toml",
+  "key": "DOC_BRAND",
+  "en": "CIRS",
+  "tr": "FIRS",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 26,
+  "in_work": true
+ },
+ {
+  "lang": "korean",
+  "file": "src/grf/lang/korean.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CANSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}호환되지 않는 매개변수: {ORANGE}CanSet을 FIRS와 함께 사용하려면 매개변수 2의 값이 0보다 커야합니다.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "korean",
+  "file": "src/grf/lang/korean.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}호환되지 않는 매개변수: {ORANGE}NA City Set을 FIRS와 함께 사용하려면 매개변수 2의 값이 0보다 커야합니다.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "korean",
+  "file": "src/grf/lang/korean.toml",
+  "key": "STR_ERR_OPENTTD_VERSION.base",
+  "en": "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+  "tr": "{ORANGE}E00: FIRS를 사용하려면 OpenTTD 1.7.0 (또는 r27769 빌드를 기반으로 한) 버전 이상이 필요합니다",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "korean",
+  "file": "src/grf/lang/korean.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS 산업 시설 대체 세트{}{BLACK}andythenorth, FooBar, planetmaker, Terkhen, Yexo 등 많은 분들의 도움을 받아 제공됩니다. {SILVER}FIRS를 사용하는 방법 등을 포함한 자세한 정보는 읽어보기를 참고하세요. {BLACK}라이선스: GPL v2",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "korean",
+  "file": "src/grf/lang/korean.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "각각의 경제 설정에 따라 화물과 산업시설의 구성이 달라집니다.{}{}간단한 게임 플레이를 원하는 플레이어의 경우, 다른 FIRS 경제에 비해 '{SILVER}기본{BLACK}' 경제가 산업 시설과 화물의 종류가 적으므로 이를 사용하십시오.{}{} FIRS 웹 사이트에서 각 경제 설정에 대한 상세 정보를 확인하실 수 있습니다.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "korean",
+  "file": "src/grf/lang/korean.toml",
+  "key": "STR_PARAM_DESC_OBJECTS.base",
+  "en": "CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.",
+  "tr": "FIRS에는 조경 오브젝트 세트가 포함되어 있으며, 플레이어는 이를 배치하여 특정 산업을 더 커 보이게 할 수 있습니다. 조경 오브젝트는 게임 플레이에 아무런 영향을 주지 않습니다. 조경 오브젝트는 켜거나 끌 수 있습니다.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 28,
+  "in_work": true
+ },
+ {
+  "lang": "korean",
+  "file": "src/grf/lang/korean.toml",
+  "key": "STR_PARAM_NAME_OBJECTS.base",
+  "en": "CIRS landscaping objects",
+  "tr": "FIRS 조경 오브젝트",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 29,
+  "in_work": true
+ },
+ {
+  "lang": "latin",
+  "file": "src/docs/lang/latin.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Tota historia git FIRS conservatur, ita mutationes futurae upstream coniungi possunt potius quam furculari.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "latin",
+  "file": "src/docs/lang/latin.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Vestigium Upstream",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CANSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Parameter incompatibilis: {ORANGE}Parameter 2 CanSet 0 esse debet ut cum FIRS operetur.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 386,
+  "in_work": true
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Parameter incompatibilis: {ORANGE}Parameter 2 NA City Set 0 esse debet ut cum FIRS operetur.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 387,
+  "in_work": true
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_ERR_OPENTTD_VERSION.base",
+  "en": "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+  "tr": "{ORANGE}E00: FIRS OpenTTD 1.7.0 requirit (vel, pro iis qui versiones e ramulo principali adhibent, r27769)",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 384,
+  "in_work": true
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industriarum Redemptionis Sarcina{}{BLACK}Auctores sunt andythenorth, FooBar, planetifex, Terkhen ac Yexo, et multi alii adiuverunt. {SILVER}Vide LegeMe in quo plura indicia est. {BLACK}Licentia: GPL v2.",
+  "reasons": [
+   "cirs_missing"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Oeconomiae produnt varia onera et variae industriae.{}{}Ei qui vult ludum simplicem habere debet eligere oeconomiam {SILVER}simplicem{BLACK}, nam habent pauciores industrias oneraque quam aliae oeconomiae.{}{}Situs Interretialis FIRS habet plures descriptiones oeconomiarum.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_PARAM_NAME_OBJECTS.base",
+  "en": "CIRS landscaping objects",
+  "tr": "Obiecta ornatus terrae FIRS",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 43,
+  "in_work": true
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Codéiert vum andythenorth, FooBar, planetmaker, Terkhen an Yexo, mat der Hëllef vun villen aneren. {SILVER}Lies de readme fir méi Informatiounen iwwert d'Benotzung vun FIRS. {BLACK}Lizenz: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "All Wiertschaftstyp stellt verschidden Industrien a Frachtarten bereed.{}{}De Wiertschaftstyp {SILVER}Einfach {BLACK}bidd manner Industrien a Frachtarten un, wéi déi aner Wiertschaftstypen.{}{}Op der FIRS Websäit kann een weider Informatiounen iwwer déi verschidden Wiertschaftstypen noliesen.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industri Erstatnings-sett{}{BLACK}Bringes til deg av andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjelp fra mange andre. {SILVER}Se readme for mer informasjon, inkludert hvordan man bruker FIRS. {BLACK}Lisens: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Hver økonomi tilbyr en ulik kombinasjon av varer og industrier.{}{}For spillere som ønsker et enklere spill, har {SILVER}basis{BLACK}økonomiene færre industrier og varer enn andre økonomier.{}{}Nettstedet for FIRS har detaljert informasjon om hver enkelt økonomi.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "polish",
+  "file": "src/docs/lang/polish.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Pełna historia git FIRS jest zachowywana, dzięki czemu przyszłe zmiany z upstream mogą być scalane zamiast być rozwidlane.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "polish",
+  "file": "src/docs/lang/polish.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Śledzenie upstream",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "polish",
+  "file": "src/grf/lang/polish.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CANSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Niekompatybilny parametr: {ORANGE}CanSet parametr 2 musi być ustawiony na 0 aby działać z FIRS.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "polish",
+  "file": "src/grf/lang/polish.toml",
+  "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+  "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.",
+  "tr": "{ORANGE}E02: {YELLOW}Niekompatybilny parametr: {ORANGE}NA City Set parametr 2 musi być ustawiony na 0 aby działać z FIRS.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "polish",
+  "file": "src/grf/lang/polish.toml",
+  "key": "STR_ERR_OPENTTD_VERSION.base",
+  "en": "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+  "tr": "{ORANGE}E00: FIRS wymaga OpenTTD w wersji przynajmniej 1.7.0 (rewizja 27769 i kolejne)",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "polish",
+  "file": "src/grf/lang/polish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Autorzy: andythenorth, FooBar, planetmaker, Terkhen, Yexo i inni. {SILVER}Więcej informacji w pliku readme. {BLACK}Licencja: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "polish",
+  "file": "src/grf/lang/polish.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Każda z dostępnych w FIRS ekonomii oferuje inną kombinację towarów i fabryk.{}{}Dla graczy preferujących proste zasady gry zalecany jest wybór ekonomii {SILVER}Zwykła. {BLACK}Zawiera ona mniej fabryk i towarów niż inne ekonomie FIRS.{}{}Strona internetowa FIRS zawiera szczegółowe informacje na temat każdej z ekonomii.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+3)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "portuguese_BR",
+  "file": "src/grf/lang/portuguese_BR.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industrial Replacement Set{}{BLACK}Trazido a você por andythenorth, FooBar, planetmaker, Terkhen and Yexo, com a ajuda de muitos outros. {SILVER}Veja o arquivo readme para mais informações, incluindo como usar o FIRS. {BLACK}Licença: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Publicat de andythenorth, FooBar, planetmaker, Terkhen şi Yexo, cu ajutorul miultor altora. {SILVER}Vezi fişierul readme pentru mai multe informaţii, inclusiv cum să foloseşti FIRS. {BLACK}License: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "russian",
+  "file": "src/grf/lang/russian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Набор FIRS для полной замены предприятий{}{BLACK}Специально для вас от andythenorth, FooBar, planetmaker, Terkhen и Yexo, с помощью многих других. {SILVER}Подробную информацию, включая как пользоваться FIRS, найдёте в инструкции. {BLACK}Лицензия: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "russian",
+  "file": "src/grf/lang/russian.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Каждая экономика предлагает разное сочетание грузов и отраслей.{}{}Для игроков, предпочитающих простой игровой процесс, {SILVER}базовые {BLACK}экономики содержат меньше отраслей и грузов, чем другие экономики FIRS.{}{}На сайте FIRS представлена подробная информация о каждой экономике.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": 100,
+  "in_work": true
+ },
+ {
+  "lang": "serbian",
+  "file": "src/grf/lang/serbian.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Svaka ekonomija nudi različite kombinacije tovara i industrija.{}{}Za igrače koji žele jednostavniju igru, {SILVER}bazične{BLACK} ekonomije sadrže manji broj industrija i tovara od ostalih FIRS ekonomija.{}{} FIRS vebsajt pruža detaljne informacije o svakoj ekonomiji.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "simplified_chinese",
+  "file": "src/docs/lang/simplified_chinese.toml",
+  "key": "DOC_GS_SETUP_B1_PREFIX",
+  "en": "Activate CIRS via the ",
+  "tr": "通过 ",
+  "reasons": [
+   "cirs_missing"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "simplified_chinese",
+  "file": "src/grf/lang/simplified_chinese.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS工业扩展包{}{BLACK}由andythenorth, FooBar, planetmaker, Terkhen and Yexo以及其他贡献者呈献。 {SILVER}查看readme获取更多信息，其中包括怎样使用FIRS. {BLACK}License: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "simplified_chinese",
+  "file": "src/grf/lang/simplified_chinese.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "每种经济模式对应不同的货物和工业组合。{}{}休闲玩家可以选择简单模式，{SILVER}'基础'{BLACK}经济模式的货物和工业种类比'FIRS'经济模式的种类要少。{}{}FIRS主页提供了每种经济模式更详细的介绍。",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "slovak",
+  "file": "src/grf/lang/slovak.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Vám prináša andythenorth, FooBar, planetmaker, Terkhen, Yexo a ďalší. {SILVER}Pozri ReadMe pre viac informácií, vrátane ako použiť FIRS. {BLACK}Licencia: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "slovak",
+  "file": "src/grf/lang/slovak.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Každá ekonomika poskytuje inú kombináciu nákladov a odvetví.{}{}Pre hráčov, ktorí chcú jednoduché hranie, obsahujú {SILVER}základné {BLACK}ekonomiky menej odvetví a nákladov než ostatné ekonomiky FIRS.{}{}Webová stránka FIRS poskytuje podrobné informácie o každej ekonomike.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": 91,
+  "in_work": true
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/grf/lang/spanish_MX.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Creado por andythenorth, FooBar, planetmaker, Terkhen y Yexo, con colaboración de muchos otros. {SILVER}Consulta el archivo Léeme para más información, incluyendo cómo usar FIRS. {BLACK}Licencia: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/grf/lang/spanish_MX.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Cada economía ofrece una combinación distinta de cargamentos e industrias.{}{}Para aquellos que quieran un juego sencillo, las economías {SILVER}Básicas {BLACK}de FIRS presentan menos industrias y cargamentos que las demás.{}{}El sitio web de FIRS ofrece mayor información acerca de cada economía.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_CARGO_FISH.cid",
+  "en": "{TINYFONT}FI",
+  "tr": "{TINYFONT}FIRS",
+  "reasons": [
+   "firs_overuse(+1)"
+  ],
+  "work_index": 336,
+  "in_work": true
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Skapat av andythenorth, FooBar, planetmaker, Terkhen och Yexo, med hjälp av många andra. {SILVER}Se \"readme\"-filen för mer information, inklusive om hur man använder FIRS. {BLACK}Licens: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Varje ekonomi har egen kombination av godstyper och industrier.{}{}För spelare som vill ha en mer okomplicerad spelupplevelse innehåller {SILVER}bas{BLACK}-ekonomierna färre industrier och godstyper än andra FIRS-ekonomier.{}{}Detaljerad information om varje ekonomityp finns på FIRS hemsida.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "tamil",
+  "file": "src/grf/lang/tamil.toml",
+  "key": "STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit",
+  "en": "{SIGNED_WORD} crate{P 0 \"\" s} of engineering supplies",
+  "tr": "{SIGNED_WORD} FIRS பொறியியல் பொருட்கள் பெட்டி{P 0 \"\" s}",
+  "reasons": [
+   "firs_overuse(+1)"
+  ],
+  "work_index": 464,
+  "in_work": true
+ },
+ {
+  "lang": "tamil",
+  "file": "src/grf/lang/tamil.toml",
+  "key": "STR_CARGO_FARM_SUPPLIES.cargo_unit",
+  "en": "{SIGNED_WORD} crate{P 0 \"\" s} of farm supplies",
+  "tr": "{SIGNED_WORD} FIRS பண்ணைப் பொருட்கள் பெட்டி{P 0 \"\" s}",
+  "reasons": [
+   "firs_overuse(+1)"
+  ],
+  "work_index": 465,
+  "in_work": true
+ },
+ {
+  "lang": "tamil",
+  "file": "src/grf/lang/tamil.toml",
+  "key": "STR_ERR_OPENTTD_VERSION.base",
+  "en": "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+  "tr": "{ORANGE}E00: FIRS-க்கு OpenTTD 1.7.0 (அல்லது trunk build-களைப் பயன்படுத்துபவர்களுக்கு r27769) தேவை",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 458,
+  "in_work": true
+ },
+ {
+  "lang": "tamil",
+  "file": "src/grf/lang/tamil.toml",
+  "key": "STR_PARAM_DESC_OBJECTS.base",
+  "en": "CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.",
+  "tr": "FIRS-இல் நிலப்பரப்பு அமைப்புப் பொருட்களின் தொகுப்பு ஒன்று உள்ளது; வீரர்கள் அவற்றை வைத்து சில தொழில்கள் பெரிதாகத் தெரியுமாறு செய்யலாம். நிலப்பரப்புப் பொருட்கள் விளையாட்டு நடவடிக்கையில் எந்த விளைவையும் ஏற்படுத்தாது. அவற்றை இயக்கவோ நிறுத்தவோ முடியும்.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 48,
+  "in_work": true
+ },
+ {
+  "lang": "tamil",
+  "file": "src/grf/lang/tamil.toml",
+  "key": "STR_PARAM_NAME_OBJECTS.base",
+  "en": "CIRS landscaping objects",
+  "tr": "FIRS நிலப்பரப்பு அமைப்புப் பொருட்கள்",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 49,
+  "in_work": true
+ },
+ {
+  "lang": "traditional_chinese",
+  "file": "src/docs/lang/traditional_chinese.toml",
+  "key": "DOC_GS_SETUP_B1_PREFIX",
+  "en": "Activate CIRS via the ",
+  "tr": "透過 ",
+  "reasons": [
+   "cirs_missing"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "traditional_chinese",
+  "file": "src/grf/lang/traditional_chinese.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}FIRS工業擴展包{}{BLACK}由andythenorth, FooBar, planetmaker, Terkhen and Yexo以及其他貢獻者呈獻。 {SILVER}查看readme獲取更多信息，其中包括怎樣使用FIRS. {BLACK}License: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "traditional_chinese",
+  "file": "src/grf/lang/traditional_chinese.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "每種經濟模式對應不同的貨物和工業組合。{}{}希望簡單遊戲的休閑玩家可以選擇{SILVER}基礎{BLACK}模式，其所提供的貨物與工業種類比其他FIRS經濟模式所提供的為少。{}{}FIRS網站提供各經濟模式的詳盡信息。",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false
+ },
+ {
+  "lang": "turkish",
+  "file": "src/docs/lang/turkish.toml",
+  "key": "DOC_BRAND",
+  "en": "CIRS",
+  "tr": "FIRS",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 45,
+  "in_work": true
+ },
+ {
+  "lang": "turkish",
+  "file": "src/grf/lang/turkish.toml",
+  "key": "STR_PARAM_DESC_OBJECTS.base",
+  "en": "CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.",
+  "tr": "FIRS, oyuncuların belirli sanayileri daha büyük göstermek için yerleştirebileceği bir dizi peyzaj nesnesi içerir. Peyzaj nesnelerinin oyun mekanikleri üzerinde hiçbir etkisi yoktur. Peyzaj nesneleri açılıp kapatılabilir.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": 47,
+  "in_work": true
+ },
+ {
+  "lang": "welsh",
+  "file": "src/grf/lang/welsh.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Mae pob economi yn darparu cyfuniad gwahanol o nwyddau a diwydiannau.{}{}I chwaraewyr sydd eisiau chwarae syml, mae gan economi {SILVER}Sylfaenol {BLACK}FIRS lai o ddiwydiannau a nwyddau na economi CIRS eraill.{}{}Mae gwefan CIRS yn darparu gwybodaeth fanwl am bob economi.",
+  "reasons": [
+   "firs_overuse(+1)"
+  ],
+  "work_index": 104,
+  "in_work": true
+ }
+]

@@ -1,0 +1,100 @@
+=== SUCCESSES (4) ===
+welsh | CARGO_INFO_CARBON_STEEL.base
+  EN: Billets, blooms, ingots and slabs.
+  OLD: Billets, blooms, ingots a slabs.
+  NEW: Billette, bloeiings, ingote a slabe.
+welsh | CARGO_INFO_CAST_IRON.base
+  EN: Billets, blooms, ingots and slabs.
+  OLD: Billets, blooms, ingots a slabs.
+  NEW: Billette, bloeiings, ingote a slabe.
+latin | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit
+  EN: {WEIGHT} of billets & blooms
+  OLD: {WEIGHT} billetes & blooms
+  NEW: {WEIGHT} billette et bloemorum
+welsh | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name
+  EN: Billets & Blooms
+  OLD: Billets a Blooms
+  NEW: Billette a Bloeiings
+
+=== FAILS (27) ===
+catalan | CARGO_INFO_CARBON_STEEL.base | ["no_term_removed"]
+  OLD: Billets, flors, lingots i lloses.
+  GOT: Billets, blooms, ingots i slabs.
+catalan | CARGO_INFO_CAST_IRON.base | ["no_term_removed"]
+  OLD: Billets, flors, lingots i lloses.
+  GOT: Billets, blooms, ingots i slabs.
+french | CARGO_INFO_CARBON_STEEL.base | ["no_term_removed"]
+  OLD: Billettes, blooms, lingots et plaques.
+  GOT: Billets, blooms, ingots et slabs.
+french | CARGO_INFO_CAST_IRON.base | ["no_term_removed"]
+  OLD: Billettes, blooms, lingots et plaques.
+  GOT: Billets, blooms, ingots et slabs.
+french | CARGO_INFO_CARBON_STEEL.base | ["no_term_removed"]
+  OLD: Billets, blooms, lingots et dalles.
+  GOT: Billets, blooms, ingots et slabs.
+french | CARGO_INFO_CAST_IRON.base | ["no_term_removed"]
+  OLD: Billets, blooms, lingots et dalles.
+  GOT: Billets, blooms, ingots et slabs.
+galician | CARGO_INFO_CARBON_STEEL.base | ["unchanged"]
+  OLD: Billetes, blooms, lingotes e placas.
+  GOT: Billetes, blooms, lingotes e placas.
+galician | CARGO_INFO_CAST_IRON.base | ["unchanged"]
+  OLD: Billetes, blooms, lingotes e placas.
+  GOT: Billetes, blooms, lingotes e placas.
+german | CARGO_INFO_CARBON_STEEL.base | ["unchanged"]
+  OLD: Billets, Blöme, Barren und Platten.
+  GOT: Billets, Blöme, Barren und Platten.
+german | CARGO_INFO_CAST_IRON.base | ["unchanged"]
+  OLD: Billets, Blöme, Barren und Platten.
+  GOT: Billets, Blöme, Barren und Platten.
+portuguese | CARGO_INFO_CARBON_STEEL.base | ["known_bad_word"]
+  OLD: Bilhetes, blooms, lingotes e lajes.
+  GOT: Billetes, bloos, lingotes e lajes.
+portuguese | CARGO_INFO_CAST_IRON.base | ["known_bad_word"]
+  OLD: Bilhetes, blooms, lingotes e lajes.
+  GOT: Billetes, bloos, lingotes e lajes.
+portuguese | CARGO_INFO_CARBON_STEEL.base | ["known_bad_word"]
+  OLD: Bilhetes, blooms, lingotes e lajes.
+  GOT: Billetes, bloos, lingotes e lajes.
+portuguese | CARGO_INFO_CAST_IRON.base | ["known_bad_word"]
+  OLD: Bilhetes, blooms, lingotes e lajes.
+  GOT: Billetes, bloos, lingotes e lajes.
+spanish_MX | CARGO_INFO_CARBON_STEEL.base | ["known_bad_word"]
+  OLD: Billetes, blooms, lingotes y losas.
+  GOT: Billetes, bloques, lingotes y losas.
+spanish_MX | CARGO_INFO_CAST_IRON.base | ["known_bad_word"]
+  OLD: Billetes, blooms, lingotes y losas.
+  GOT: Billetes, bloques, lingotes y losas.
+welsh | CARGO_INFO_PIG_IRON.base | ["unchanged"]
+  OLD: Haearn sylfaenol o ffwrnys ffrwydro, fel hylif wedi'i lewedu neu ingots cyfoethog.
+  GOT: Haearn sylfaenol o ffwrnys ffrwydro, fel hylif wedi'i lewedu neu ingots cyfoethog.
+catalan | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | ["no_term_removed"]
+  OLD: Billets i flors
+  GOT: Billets i blooms
+catalan | STR_CARGO_STEEL_INGOTS.cargo_unit | ["unchanged"]
+  OLD: {WEIGHT} d'ingots d'acer
+  GOT: {WEIGHT} d'ingots d'acer
+french | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | ["no_term_removed"]
+  OLD: Billettes et blooms
+  GOT: Billets et blooms
+french | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | ["no_term_removed"]
+  OLD: {WEIGHT} de billettes et blooms
+  GOT: {WEIGHT} de billettes et de blooms
+gaelic | STR_CARGO_FARM_SUPPLIES.cargo_unit | ["unchanged"]
+  OLD: {SIGNED_WORD} crate{P 0 "" s} de sholarachaidhean tuathanais
+  GOT: {SIGNED_WORD} crate{P 0 "" s} de sholarachaidhean tuathanais
+galician | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | ["unchanged"]
+  OLD: Billetes e blooms
+  GOT: Billetes e blooms
+portuguese | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | ["known_bad_word"]
+  OLD: Bilhetes e blooms
+  GOT: Billetes e blooms
+portuguese_BR | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | ["unchanged"]
+  OLD: {WEIGHT} de lingotes e blooms
+  GOT: {WEIGHT} de lingotes e blooms
+spanish_MX | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | ["unchanged"]
+  OLD: Billetes y blooms
+  GOT: Billetes y blooms
+welsh | STR_CARGO_STEEL_INGOTS.name | ["unchanged"]
+  OLD: Ingots Dur
+  GOT: Ingots Dur

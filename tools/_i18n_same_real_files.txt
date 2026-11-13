@@ -1,0 +1,261 @@
+afrikaans|src/grf/lang/afrikaans.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+afrikaans|src/grf/lang/afrikaans.toml|STR_CARGO_ALUMINA.name|Alumina
+afrikaans|src/grf/lang/afrikaans.toml|STR_CARGO_BITUMEN.name|Bitumen
+afrikaans|src/grf/lang/afrikaans.toml|STR_CARGO_SAND.name|Sand
+afrikaans|src/grf/lang/afrikaans.toml|STR_CARGO_TIN.name|Tin
+afrikaans|src/grf/lang/afrikaans.toml|STR_IND_HOTEL.base|Hotel
+afrikaans|src/grf/lang/afrikaans.toml|STR_STATION_BAKERY.base|Bakery
+afrikaans|src/grf/lang/afrikaans.toml|STR_STATION_PLANT.base|Plant
+afrikaans|src/grf/lang/afrikaans.toml|STR_STATION_SILO.base|Silo
+afrikaans|src/grf/lang/afrikaans.toml|STR_STATION_WATER.base|Sandbank
+afrikaans|src/gs/lang/afrikaans.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+arabic|src/gs/lang/arabic.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+belarusian|src/gs/lang/belarusian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+catalan|src/grf/lang/catalan.toml|STR_CARGO_CEMENT.name|Cement
+catalan|src/grf/lang/catalan.toml|STR_CARGO_NITROGEN.name|Nitrogen
+catalan|src/grf/lang/catalan.toml|STR_CARGO_VEHICLES.name|Vehicles
+catalan|src/grf/lang/catalan.toml|STR_CARGO_ZINC.name|Zinc
+catalan|src/grf/lang/catalan.toml|STR_STATION_BASE.base|Base
+catalan|src/grf/lang/catalan.toml|STR_STATION_COMPONENTS.base|Components
+catalan|src/grf/lang/catalan.toml|STR_STATION_MINES.base|Mines
+catalan|src/grf/lang/catalan.toml|STR_STATION_POTASH_MINE.base|Minerals
+catalan|src/gs/lang/catalan.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+catalan|src/docs/lang/catalan.toml|DOC_NAV_ECONOMIES|Economies
+catalan|src/docs/lang/catalan.toml|DOC_GS_SETUP_INTRO_LINK|{count} economies
+catalan|src/docs/lang/catalan.toml|DOC_ECO_TITLE|Economies
+catalan|src/docs/lang/catalan.toml|DOC_CR_TH_DECIMAL|(decimal)
+catalan|src/docs/lang/catalan.toml|DOC_CC_POTABLE|Potable
+catalan|src/docs/extra_strings_catalan.toml|TTD_STR_CARGO_PLURAL_PAPER.base|Paper
+catalan|src/docs/extra_strings_catalan.toml|CARGO_INFO_WOOL.base|Bales.
+croatian|src/grf/lang/croatian.toml|STR_CARGO_ALUMINA.name|Alumina
+croatian|src/grf/lang/croatian.toml|STR_CARGO_BITUMEN.name|Bitumen
+croatian|src/grf/lang/croatian.toml|STR_CARGO_CEMENT.name|Cement
+croatian|src/grf/lang/croatian.toml|STR_IND_HOTEL.base|Hotel
+croatian|src/gs/lang/croatian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+czech|src/grf/lang/czech.toml|STR_CARGO_BITUMEN.name|Bitumen
+czech|src/grf/lang/czech.toml|STR_CARGO_CEMENT.name|Cement
+czech|src/grf/lang/czech.toml|STR_IND_HOTEL.base|Hotel
+czech|src/grf/lang/czech.toml|STR_STATION_SILO.base|Silo
+czech|src/gs/lang/czech.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+danish|src/grf/lang/danish.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+danish|src/grf/lang/danish.toml|STR_CARGO_ALUMINA.name|Alumina
+danish|src/grf/lang/danish.toml|STR_CARGO_BITUMEN.name|Bitumen
+danish|src/grf/lang/danish.toml|STR_CARGO_CEMENT.name|Cement
+danish|src/grf/lang/danish.toml|STR_CARGO_METHANOL.name|Methanol
+danish|src/grf/lang/danish.toml|STR_CARGO_SALT.name|Salt
+danish|src/grf/lang/danish.toml|STR_CARGO_SAND.name|Sand
+danish|src/grf/lang/danish.toml|STR_CARGO_TIN.name|Tin
+danish|src/grf/lang/danish.toml|STR_IND_HOTEL.base|Hotel
+danish|src/grf/lang/danish.toml|STR_IND_RANCH.base|Ranch
+danish|src/grf/lang/danish.toml|STR_STATION_BARNS.base|Barns
+danish|src/grf/lang/danish.toml|STR_STATION_FARM_3.base|Ranch
+danish|src/grf/lang/danish.toml|STR_STATION_SHOALS.base|Shoals
+danish|src/grf/lang/danish.toml|STR_STATION_SILO.base|Silo
+danish|src/gs/lang/danish.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+danish|src/gs/lang/danish.toml|STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base|{BLACK}Type: {WHITE}{RAW_STRING}
+danish|src/docs/lang/danish.toml|DOC_CR_TH_DECIMAL|(decimal)
+dutch|src/grf/lang/dutch.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+dutch|src/grf/lang/dutch.toml|STR_CARGO_ALUMINA.name|Alumina
+dutch|src/grf/lang/dutch.toml|STR_CARGO_BITUMEN.name|Bitumen
+dutch|src/grf/lang/dutch.toml|STR_CARGO_CEMENT.name|Cement
+dutch|src/grf/lang/dutch.toml|STR_CARGO_METHANOL.name|Methanol
+dutch|src/grf/lang/dutch.toml|STR_CARGO_TIN.name|Tin
+dutch|src/grf/lang/dutch.toml|STR_IND_HOTEL.base|Hotel
+dutch|src/grf/lang/dutch.toml|STR_IND_RANCH.base|Ranch
+dutch|src/grf/lang/dutch.toml|STR_STATION_FARM_3.base|Ranch
+dutch|src/grf/lang/dutch.toml|STR_STATION_PIPEWORK_FABRICATOR.base|Flowline
+dutch|src/grf/lang/dutch.toml|STR_STATION_PLANT.base|Plant
+dutch|src/grf/lang/dutch.toml|STR_STATION_SILO.base|Silo
+dutch|src/gs/lang/dutch.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+dutch|src/gs/lang/dutch.toml|STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base|{BLACK}Type: {WHITE}{RAW_STRING}
+dutch|src/docs/lang/dutch.toml|DOC_CR_TH_LABEL|Label
+dutch|src/docs/lang/dutch.toml|DOC_CC_EXPRESS|Express
+dutch|src/docs/extra_strings_dutch.toml|TTD_STR_CARGO_PLURAL_RUBBER.base|Rubber
+esperanto|src/gs/lang/esperanto.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+estonian|src/grf/lang/estonian.toml|STR_IND_FARM.base|Farm
+estonian|src/gs/lang/estonian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+finnish|src/gs/lang/finnish.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+french|src/grf/lang/french.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+french|src/grf/lang/french.toml|STR_CARGO_COKE.name|Coke
+french|src/grf/lang/french.toml|STR_CARGO_NITRATES.name|Nitrates
+french|src/grf/lang/french.toml|STR_CARGO_PHOSPHATE.name|Phosphate
+french|src/grf/lang/french.toml|STR_CARGO_ZINC.name|Zinc
+french|src/grf/lang/french.toml|STR_IND_PORT.base|Port
+french|src/grf/lang/french.toml|STR_STATION_BASE.base|Base
+french|src/grf/lang/french.toml|STR_STATION_MINES.base|Mines
+french|src/grf/lang/french.toml|STR_STATION_PLANTATION.base|Plantation
+french|src/grf/lang/french.toml|STR_STATION_SILO.base|Silo
+french|src/docs/lang/french.toml|DOC_NAV_INDUSTRIES|Industries
+french|src/docs/lang/french.toml|DOC_GS_FEATURE_INDUSTRIES|{count} industries
+french|src/docs/lang/french.toml|DOC_GS_DOWNLOAD_B1_LINK|Instructions
+french|src/docs/lang/french.toml|DOC_IND_TITLE|Industries ({count})
+french|src/docs/lang/french.toml|DOC_CR_NAV_INDUSTRIES|Industries ({count})
+french|src/docs/lang/french.toml|DOC_CR_INDUSTRIES_TITLE|Industries ({count})
+french|src/docs/lang/french.toml|DOC_CC_EXPRESS|Express
+french|src/docs/lang/french.toml|DOC_CC_POTABLE|Potable
+gaelic|src/grf/lang/gaelic.toml|STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base|Arctic Basic
+gaelic|src/grf/lang/gaelic.toml|STR_CARGO_ACID.name|Acid
+gaelic|src/grf/lang/gaelic.toml|STR_CARGO_ALUMINA.name|Alumina
+gaelic|src/grf/lang/gaelic.toml|STR_CARGO_BITUMEN.name|Bitumen
+gaelic|src/grf/lang/gaelic.toml|STR_CARGO_CASSAVA.name|Cassava
+gaelic|src/grf/lang/gaelic.toml|STR_CARGO_PEAT.name|Peat
+gaelic|src/grf/lang/gaelic.toml|STR_CARGO_POTASH.name|Potash
+gaelic|src/grf/lang/gaelic.toml|STR_CARGO_SLAG.name|Slag
+gaelic|src/grf/lang/gaelic.toml|STR_CARGO_ZINC.name|Zinc
+gaelic|src/grf/lang/gaelic.toml|STR_IND_PORT.base|Port
+gaelic|src/grf/lang/gaelic.toml|STR_STATION_PIT.base|Pit
+gaelic|src/gs/lang/gaelic.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+gaelic|src/docs/extra_strings_gaelic.toml|TTD_STR_CARGO_PLURAL_COAL.base|Coal
+galician|src/grf/lang/galician.toml|STR_STATION_BASE.base|Base
+galician|src/gs/lang/galician.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+galician|src/docs/lang/galician.toml|DOC_CR_TH_DECIMAL|(decimal)
+galician|src/docs/lang/galician.toml|DOC_CC_POTABLE|Potable
+galician|src/docs/extra_strings_galician.toml|CARGO_INFO_WOOL.base|Bales.
+german|src/grf/lang/german.toml|STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG.base| {BLACK}(optional)
+german|src/grf/lang/german.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+german|src/grf/lang/german.toml|STR_CARGO_BITUMEN.name|Bitumen
+german|src/grf/lang/german.toml|STR_CARGO_METHANOL.name|Methanol
+german|src/grf/lang/german.toml|STR_CARGO_SAND.name|Sand
+german|src/grf/lang/german.toml|STR_IND_HOTEL.base|Hotel
+german|src/grf/lang/german.toml|STR_IND_RANCH.base|Ranch
+german|src/grf/lang/german.toml|STR_STATION_FARM_3.base|Ranch
+german|src/grf/lang/german.toml|STR_STATION_WATER.base|Sandbank
+german|src/gs/lang/german.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+german|src/gs/lang/german.toml|STR_MANUFACTURERS_STORY_PAGE_NAME.base|{BLACK}Name: {WHITE}{RAW_STRING}
+german|src/docs/lang/german.toml|DOC_CR_TH_NAME|Name
+german|src/docs/lang/german.toml|DOC_CC_EXPRESS|Express
+hungarian|src/grf/lang/hungarian.toml|STR_CARGO_ALUMINA.name|Alumina
+hungarian|src/grf/lang/hungarian.toml|STR_CARGO_BITUMEN.name|Bitumen
+hungarian|src/grf/lang/hungarian.toml|STR_CARGO_CEMENT.name|Cement
+hungarian|src/grf/lang/hungarian.toml|STR_IND_FARM.base|Farm
+hungarian|src/gs/lang/hungarian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+indonesian|src/grf/lang/indonesian.toml|STR_PARAM_VALUE_ECONOMIES_STEELTOWN.base|Steeltown
+indonesian|src/grf/lang/indonesian.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+indonesian|src/grf/lang/indonesian.toml|STR_CARGO_ALUMINA.name|Alumina
+indonesian|src/grf/lang/indonesian.toml|STR_CARGO_BITUMEN.name|Bitumen
+indonesian|src/grf/lang/indonesian.toml|STR_CARGO_NITROGEN.name|Nitrogen
+indonesian|src/grf/lang/indonesian.toml|STR_CARGO_SLAG.name|Slag
+indonesian|src/grf/lang/indonesian.toml|STR_CARGO_SODA_ASH.name|Soda Ash
+indonesian|src/grf/lang/indonesian.toml|STR_IND_HOTEL.base|Hotel
+indonesian|src/grf/lang/indonesian.toml|STR_STATION_FORGE_AND_FOUNDRY.base|Steelmasters
+indonesian|src/grf/lang/indonesian.toml|STR_STATION_SILO.base|Silo
+indonesian|src/gs/lang/indonesian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+indonesian|src/docs/lang/indonesian.toml|DOC_CR_TH_LABEL|Label
+italian|src/gs/lang/italian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+japanese|src/grf/lang/japanese.toml|STR_BADGE_SEA.base|SEA
+japanese|src/gs/lang/japanese.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+korean|src/grf/lang/korean.toml|STR_BADGE_SEA.base|SEA
+korean|src/gs/lang/korean.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+latin|src/grf/lang/latin.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+latin|src/grf/lang/latin.toml|STR_CARGO_ALUMINA.name|Alumina
+latin|src/grf/lang/latin.toml|STR_CARGO_BITUMEN.name|Bitumen
+latin|src/grf/lang/latin.toml|STR_CARGO_COKE.name|Coke
+latin|src/grf/lang/latin.toml|STR_CARGO_BARYTES_AND_FLUORSPAR.name|Barytes & Fluorspar
+latin|src/gs/lang/latin.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG.base| {BLACK}(optional)
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_CARGO_ALUMINA.name|Alumina
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_CARGO_BITUMEN.name|Bitumen
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_CARGO_METHANOL.name|Methanol
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_CARGO_SAND.name|Sand
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_IND_HOTEL.base|Hotel
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_IND_RANCH.base|Ranch
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_STATION_FARM_3.base|Ranch
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_STATION_INDUSTRY_HARBOUR_4.base|Shorefront
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_STATION_PIPEWORK_FABRICATOR.base|Flowline
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_STATION_PLATE_MILL.base|Slab yard
+luxembourgish|src/grf/lang/luxembourgish.toml|STR_STATION_SILO.base|Silo
+luxembourgish|src/gs/lang/luxembourgish.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+luxembourgish|src/docs/lang/luxembourgish.toml|DOC_CC_EXPRESS|Express
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_ALUMINA.name|Alumina
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_BITUMEN.name|Bitumen
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_NITROGEN.name|Nitrogen
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_SALT.name|Salt
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_SAND.name|Sand
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_TINPLATE.name|Tinplate
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_TYRE_CORD.name|Tyre Cord
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_CARGO_TYRES.name|Tyres
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_IND_VEHICLE_DISTRIBUTOR.base|Vehicle Distributor
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_STATION_BASE.base|Base
+norwegian_bokmal|src/grf/lang/norwegian_bokmal.toml|STR_STATION_SILO.base|Silo
+norwegian_bokmal|src/gs/lang/norwegian_bokmal.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+norwegian_bokmal|src/gs/lang/norwegian_bokmal.toml|STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base|{BLACK}Type: {WHITE}{RAW_STRING}
+polish|src/grf/lang/polish.toml|STR_CARGO_ALUMINA.name|Alumina
+polish|src/gs/lang/polish.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+portuguese|src/grf/lang/portuguese.toml|STR_IND_HOTEL.base|Hotel
+portuguese|src/grf/lang/portuguese.toml|STR_STATION_BASE.base|Base
+portuguese|src/grf/lang/portuguese.toml|STR_STATION_SILO.base|Silo
+portuguese|src/gs/lang/portuguese.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+portuguese|src/docs/lang/portuguese.toml|DOC_CR_TH_DECIMAL|(decimal)
+portuguese_BR|src/grf/lang/portuguese_BR.toml|STR_IND_HOTEL.base|Hotel
+portuguese_BR|src/grf/lang/portuguese_BR.toml|STR_STATION_BASE.base|Base
+portuguese_BR|src/grf/lang/portuguese_BR.toml|STR_STATION_SILO.base|Silo
+portuguese_BR|src/gs/lang/portuguese_BR.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+portuguese_BR|src/docs/lang/portuguese_BR.toml|DOC_CR_TH_DECIMAL|(decimal)
+romanian|src/grf/lang/romanian.toml|STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base|Arctic Basic
+romanian|src/grf/lang/romanian.toml|STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base|Tropic Basic
+romanian|src/grf/lang/romanian.toml|STR_CARGO_ACID.name|Acid
+romanian|src/grf/lang/romanian.toml|STR_CARGO_ZINC.name|Zinc
+romanian|src/grf/lang/romanian.toml|STR_IND_HOTEL.base|Hotel
+romanian|src/grf/lang/romanian.toml|STR_IND_PORT.base|Port
+romanian|src/grf/lang/romanian.toml|STR_STATION_SILO.base|Silo
+romanian|src/gs/lang/romanian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+russian|src/gs/lang/russian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+serbian|src/gs/lang/serbian.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+simplified_chinese|src/grf/lang/simplified_chinese.toml|STR_BADGE_SEA.base|SEA
+simplified_chinese|src/gs/lang/simplified_chinese.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+slovak|src/grf/lang/slovak.toml|STR_CARGO_CEMENT.name|Cement
+slovak|src/grf/lang/slovak.toml|STR_IND_HOTEL.base|Hotel
+slovak|src/grf/lang/slovak.toml|STR_STATION_SILO.base|Silo
+slovak|src/gs/lang/slovak.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+spanish|src/grf/lang/spanish.toml|STR_IND_HOTEL.base|Hotel
+spanish|src/grf/lang/spanish.toml|STR_STATION_BASE.base|Base
+spanish|src/gs/lang/spanish.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+spanish|src/docs/lang/spanish.toml|DOC_CR_TH_DECIMAL|(decimal)
+spanish|src/docs/lang/spanish.toml|DOC_CC_POTABLE|Potable
+spanish|src/docs/extra_strings_spanish.toml|CARGO_INFO_WOOL.base|Bales.
+spanish_MX|src/grf/lang/spanish_MX.toml|STR_CARGO_ZINC.name|Zinc
+spanish_MX|src/grf/lang/spanish_MX.toml|STR_STATION_BASE.base|Base
+spanish_MX|src/grf/lang/spanish_MX.toml|STR_STATION_CONCRETE_PLANT.base|Precast
+spanish_MX|src/grf/lang/spanish_MX.toml|STR_STATION_SILO.base|Silo
+spanish_MX|src/gs/lang/spanish_MX.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+spanish_MX|src/docs/lang/spanish_MX.toml|DOC_CR_TH_DECIMAL|(decimal)
+spanish_MX|src/docs/lang/spanish_MX.toml|DOC_CC_POTABLE|Potable
+spanish_MX|src/docs/extra_strings_spanish_MX.toml|CARGO_INFO_WOOL.base|Bales.
+swedish|src/grf/lang/swedish.toml|STR_CARGO_ALUMINIUM.name|Aluminium
+swedish|src/grf/lang/swedish.toml|STR_CARGO_ALUMINA.name|Alumina
+swedish|src/grf/lang/swedish.toml|STR_CARGO_BITUMEN.name|Bitumen
+swedish|src/grf/lang/swedish.toml|STR_CARGO_CEMENT.name|Cement
+swedish|src/grf/lang/swedish.toml|STR_CARGO_SALT.name|Salt
+swedish|src/grf/lang/swedish.toml|STR_CARGO_SAND.name|Sand
+swedish|src/grf/lang/swedish.toml|STR_STATION_SILO.base|Silo
+swedish|src/grf/lang/swedish.toml|STR_STATION_WATER.base|Sandbank
+swedish|src/gs/lang/swedish.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+swedish|src/docs/lang/swedish.toml|DOC_CR_TH_DECIMAL|(decimal)
+swedish|src/docs/lang/swedish.toml|DOC_CC_EXPRESS|Express
+tamil|src/grf/lang/tamil.toml|STR_BADGE_SEA.base|SEA
+tamil|src/gs/lang/tamil.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+traditional_chinese|src/gs/lang/traditional_chinese.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+turkish|src/grf/lang/turkish.toml|STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base|Tropic Basic
+turkish|src/grf/lang/turkish.toml|STR_STATION_HERDING_COOP.base|Reinder Pens
+turkish|src/grf/lang/turkish.toml|STR_STATION_SILO.base|Silo
+turkish|src/gs/lang/turkish.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+welsh|src/grf/lang/welsh.toml|STR_CARGO_BITUMEN.name|Bitumen
+welsh|src/grf/lang/welsh.toml|STR_CARGO_CASSAVA.name|Cassava
+welsh|src/grf/lang/welsh.toml|STR_CARGO_NITROGEN.name|Nitrogen
+welsh|src/grf/lang/welsh.toml|STR_CARGO_PEAT.name|Peat
+welsh|src/grf/lang/welsh.toml|STR_CARGO_SLAG.name|Slag
+welsh|src/grf/lang/welsh.toml|STR_CARGO_TIN.name|Tin
+welsh|src/grf/lang/welsh.toml|STR_CARGO_TINPLATE.name|Tinplate
+welsh|src/grf/lang/welsh.toml|STR_STATION_BARNS.base|Barns
+welsh|src/grf/lang/welsh.toml|STR_STATION_COLLIERY.base|Colliery
+welsh|src/grf/lang/welsh.toml|STR_STATION_ESTATE.base|Estate
+welsh|src/grf/lang/welsh.toml|STR_STATION_FARM_1.base|Manor
+welsh|src/grf/lang/welsh.toml|STR_STATION_SILO.base|Silo
+welsh|src/gs/lang/welsh.toml|STR_GRIND_TEST.base|{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+welsh|src/docs/lang/welsh.toml|DOC_CR_TH_LABEL|Label
+welsh|src/docs/extra_strings_welsh.toml|TTD_STR_CARGO_PLURAL_OIL.base|Oil
+welsh|src/docs/extra_strings_welsh.toml|TTD_STR_CARGO_PLURAL_RUBBER.base|Rubber
+welsh|src/docs/extra_strings_welsh.toml|CARGO_INFO_TIN.base|Ingots.
+welsh|src/docs/extra_strings_welsh.toml|CARGO_INFO_ZINC.base|Ingots.

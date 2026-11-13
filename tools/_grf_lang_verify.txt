@@ -1,0 +1,95 @@
+=== GRF header hex (first 48 bytes) ===
+00 00 47 52 46 82 0D 0A 1A 0A 3A 16 50 00 00 04 00 00 00 FF D4 C3 00 00 F0 DF 00 00 FF 14 43 49 4E 46 4F 54 4E 41 4D 45 02 43 49 52 53 20 2D 20
+
+=== Are translated string fragments physically present in cirs.grf? ===
+lang                     grflangid    present  note
+afrikaans                0x1b         80/80   all present
+arabic                   0x3C         80/80   all present
+belarusian               0x10         80/80   all present
+catalan                  0x22         80/80   all present
+croatian                 0x38         80/80   all present
+czech                    0x15         80/80   all present
+danish                   0x2d         80/80   all present
+dutch                    0x1f         80/80   all present
+english                  0x01         80/80   all present
+esperanto                0x05         80/80   all present
+estonian                 0x34         80/80   all present
+finnish                  0x35         80/80   all present
+french                   0x03         80/80   all present
+gaelic                   0x13         80/80   all present
+galician                 0x31         80/80   all present
+german                   0x02         80/80   all present
+hungarian                0x24         80/80   all present
+indonesian               0x5a         80/80   all present
+italian                  0x27         80/80   all present
+japanese                 0x39         80/80   all present
+korean                   0x3a         80/80   all present
+latin                    0x66         80/80   all present
+luxembourgish            0x23         80/80   all present
+norwegian_bokmal         0x2f         80/80   all present
+polish                   0x30         80/80   all present
+portuguese               0x36         80/80   all present
+portuguese_BR            0x37         80/80   all present
+romanian                 0x28         80/80   all present
+russian                  0x07         80/80   all present
+serbian                  0x0d         80/80   all present
+simplified_chinese       0x56         80/80   all present
+slovak                   0x16         80/80   all present
+spanish                  0x04         80/80   all present
+spanish_MX               0x55         80/80   all present
+swedish                  0x2e         80/80   all present
+tamil                    0x0a         80/80   all present
+traditional_chinese      0x0c         80/80   all present
+turkish                  0x3e         80/80   all present
+welsh                    0x0f         80/80   all present
+
+=== Adaptive GRF container walk ===
+top candidates by bytes covered:
+  covered=5248580 recs=50133 distinct=0 a4=0 start=15 mode=B bad size @5248580
+  covered=262162 recs=1 distinct=0 a4=0 start=13 mode=B bad size @262162
+  covered=262161 recs=1 distinct=0 a4=0 start=13 mode=A bad size @262161
+  covered=20518 recs=1 distinct=0 a4=0 start=11 mode=B bad size @20518
+chosen start=15 mode=B covered=5248580/11114286
+action first bytes: []
+Action4 language-id census (0 distinct, 0 records):
+
+=== .lng grflangid -> Action4 count ===
+  afrikaans                0x1B  action4=0  fragments=80/80
+  arabic                   0x3C  action4=0  fragments=80/80
+  belarusian               0x10  action4=0  fragments=80/80
+  catalan                  0x22  action4=0  fragments=80/80
+  croatian                 0x38  action4=0  fragments=80/80
+  czech                    0x15  action4=0  fragments=80/80
+  danish                   0x2D  action4=0  fragments=80/80
+  dutch                    0x1F  action4=0  fragments=80/80
+  english                  0x01  action4=0  fragments=80/80
+  esperanto                0x05  action4=0  fragments=80/80
+  estonian                 0x34  action4=0  fragments=80/80
+  finnish                  0x35  action4=0  fragments=80/80
+  french                   0x03  action4=0  fragments=80/80
+  gaelic                   0x13  action4=0  fragments=80/80
+  galician                 0x31  action4=0  fragments=80/80
+  german                   0x02  action4=0  fragments=80/80
+  hungarian                0x24  action4=0  fragments=80/80
+  indonesian               0x5A  action4=0  fragments=80/80
+  italian                  0x27  action4=0  fragments=80/80
+  japanese                 0x39  action4=0  fragments=80/80
+  korean                   0x3A  action4=0  fragments=80/80
+  latin                    0x66  action4=0  fragments=80/80
+  luxembourgish            0x23  action4=0  fragments=80/80
+  norwegian_bokmal         0x2F  action4=0  fragments=80/80
+  polish                   0x30  action4=0  fragments=80/80
+  portuguese               0x36  action4=0  fragments=80/80
+  portuguese_BR            0x37  action4=0  fragments=80/80
+  romanian                 0x28  action4=0  fragments=80/80
+  russian                  0x07  action4=0  fragments=80/80
+  serbian                  0x0D  action4=0  fragments=80/80
+  simplified_chinese       0x56  action4=0  fragments=80/80
+  slovak                   0x16  action4=0  fragments=80/80
+  spanish                  0x04  action4=0  fragments=80/80
+  spanish_MX               0x55  action4=0  fragments=80/80
+  swedish                  0x2E  action4=0  fragments=80/80
+  tamil                    0x0A  action4=0  fragments=80/80
+  traditional_chinese      0x0C  action4=0  fragments=80/80
+  turkish                  0x3E  action4=0  fragments=80/80
+  welsh                    0x0F  action4=0  fragments=80/80

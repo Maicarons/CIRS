@@ -1,0 +1,633 @@
+{"i":0,"tr":" {BLACK}(elekte)"}
+{"i":1,"tr":" {BLACK}(provizite)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Acido"}
+{"i":4,"tr":"Agregatoj"}
+{"i":5,"tr":"Alumino"}
+{"i":6,"tr":"Aluminio"}
+{"i":7,"tr":"Amoniaĵoj kaj azotaĵoj"}
+{"i":8,"tr":"Amonia komplekso"}
+{"i":9,"tr":"Anhidrita minejo"}
+{"i":10,"tr":"Anhidrita proceza uzinejo"}
+{"i":11,"tr":"Anhidrita roko"}
+{"i":12,"tr":"Pomoj"}
+{"i":13,"tr":"Applikaĵfabriko"}
+{"i":14,"tr":"Arktika Bazo"}
+{"i":15,"tr":"Estas eterne, ktp."}
+{"i":16,"tr":"Montada fabriko"}
+{"i":17,"tr":"Automobila"}
+{"i":18,"tr":"Havebla en ĉiuj ekonomioj. Produktata kaj akceptata de urbaj konstruaĵoj kaj ankaŭ de kelkaj industrioj."}
+{"i":19,"tr":"Havebla en ĉiuj ekonomioj. Produktata kaj akceptata de urbaj konstruaĵoj."}
+{"i":20,"tr":"Bakerejo"}
+{"i":21,"tr":"Baloj."}
+{"i":22,"tr":"Banka Supro"}
+{"i":23,"tr":"Baro, grilo kaj ĉambroj"}
+{"i":24,"tr":"Stabloj"}
+{"i":25,"tr":"Barel kaj fadeno"}
+{"i":26,"tr":"Barito kaj fluorsparo"}
+{"i":27,"tr":"Bazo"}
+{"i":28,"tr":"Baza oksigena forno"}
+{"i":29,"tr":"Baza fero el ŝarĝforno, kiel fandita likvaĵo aŭ solidaj ingotoj."}
+{"i":30,"tr":"Loteva kemia fabriko"}
+{"i":31,"tr":"Fazoloj"}
+{"i":32,"tr":"Biletoj kaj bloemoj"}
+{"i":33,"tr":"Biletoj, bloemoj, ingotoj kaj platoj."}
+{"i":34,"tr":"Biomaso el turba marĉoj, ekstraktita por brulaĵo kaj hortikulturo."}
+{"i":35,"tr":"Bitumeno"}
+{"i":36,"tr":"Altoforno"}
+{"i":37,"tr":"Korpoplantejo"}
+{"i":38,"tr":"Ostejo"}
+{"i":39,"tr":"Botelfabriko kaj kanfabriko"}
+{"i":40,"tr":"Kastoj, boteloj, kruĉoj, kanoj ktp."}
+{"i":41,"tr":"Salakvo-uzinejo"}
+{"i":42,"tr":"Subprodukto de kokproduktado, densa, malrapide fluanta likvaĵo."}
+{"i":43,"tr":"CIRS"}
+{"i":44,"tr":"Komunuma Industria Anstataŭiga Arĝo de CIRS"}
+{"i":45,"tr":"CIRS inkluzivas arĝon de pejzaĝaj objektoj, kiujn ludantoj povas loki por igi certajn industriojn aspekti pli grandaj. Pejzaĝaj objektoj ne influas la ludadon. Pejzaĝaj objektoj povas esti ŝaltitaj aŭ malŝaltitaj."}
+{"i":46,"tr":"Pejzaĝaj objektoj de CIRS"}
+{"i":47,"tr":"Kabinoj, kapoj, pordoj kaj similaj korpostukturoj por veturilproduktado."}
+{"i":48,"tr":"Kalcia oksido, ankaŭ konata kiel brulita kalko. Transportata kiel fajna pulvoro, kiu devas esti konservata seka."}
+{"i":49,"tr":"Nigra karbono"}
+{"i":50,"tr":"Fabriko de nigra karbono"}
+{"i":51,"tr":"Kasavo"}
+{"i":52,"tr":"Ferofando"}
+{"i":53,"tr":"Fanditaj produktoj, kiel blokoj, travoj kaj paneloj. Ankaŭ povas esti traktrata kiel pretmiksita betono en miksiloŝarĝiloj."}
+{"i":54,"tr":"Fabriko de celulozaj filmoj"}
+{"i":55,"tr":"Cimento"}
+{"i":56,"tr":"Cimento, vitro, metalaj komponantoj, lignaj produktoj, tuboj kaj similaj konstrumaterialoj."}
+{"i":57,"tr":"Kemia komplekso"}
+{"i":58,"tr":"Kemiaj interproduktoj"}
+{"i":59,"tr":"Kemikaliaĵoj, sapoj, frotiloj ktp. por industria kaj hejma uzo. Ĉefe likvaj, sed povas ankaŭ esti pulvoroj aŭ solidoj (ekzemple sablo por sabloblastado)."}
+{"i":60,"tr":"Ĉina argilo"}
+{"i":61,"tr":"Fabriko de stratplatoj"}
+{"i":62,"tr":"Klor-alkala fabriko"}
+{"i":63,"tr":"Kloro"}
+{"i":64,"tr":"Sidra molino"}
+{"i":65,"tr":"Civilaj eksplodivaĵoj por minado, konstruado ktp."}
+{"i":66,"tr":"Purigiloj"}
+{"i":67,"tr":"Karbo"}
+{"i":68,"tr":"Karbo-mino"}
+{"i":69,"tr":"Karbotaro"}
+{"i":70,"tr":"Karbo, kiu estis hejtita en kokobakero, produktante brulaĵon konsistantan el preskaŭ pura karbono."}
+{"i":71,"tr":"Gruba sablo por konstruado, aŭ fajna siliciuma sablo por glasmakado kaj metalfandado. Transportata kiel maso aŭ pulvoro."}
+{"i":72,"tr":"Kafeo"}
+{"i":73,"tr":"Kafea bieno"}
+{"i":74,"tr":"Bobena linio"}
+{"i":75,"tr":"Koko"}
+{"i":76,"tr":"Kokoforno"}
+{"i":77,"tr":"Karbominejo"}
+{"i":78,"tr":"Komerca bakejo"}
+{"i":79,"tr":"Komunaj faboj, favafaboj, sojfaboj kaj similaj manĝeblaj legumoj."}
+{"i":80,"tr":"Kompleksa ekonomio kun fer-, ŝtal- kaj pezaj fabrikindustrioj."}
+{"i":81,"tr":"Kompleksa ekonomio kun multaj industrioj kaj ŝarĝoj."}
+{"i":82,"tr":"Kompleksa ekonomio kun multaj industrioj kaj ŝarĝoj. Inspirita de centra-okcidenta Afriko. Plej bone uzebla kun subtropika klimato."}
+{"i":83,"tr":"Komponantoj"}
+{"i":84,"tr":"Komponantoj por veturilproduktado, kiel ŝasioj kaj suspendkomponantoj, elektraj partoj, eksteraj ornamaĵoj kaj internaj partoj."}
+{"i":85,"tr":"Betona fabriko"}
+{"i":86,"tr":"Betonaj produktoj"}
+{"i":87,"tr":"Konstruejo"}
+{"i":88,"tr":"Fabriko de pretmanĝaĵoj"}
+{"i":89,"tr":"Kupro"}
+{"i":90,"tr":"Kupera vejno"}
+{"i":91,"tr":"Kupera minejo"}
+{"i":92,"tr":"Kupera ero"}
+{"i":93,"tr":"Kupera fandejo"}
+{"i":94,"tr":"Kotono, lino, jutao kaj similaj materialoj por produkti tekstilaĵojn kaj kompozitajn materialojn."}
+{"i":95,"tr":"Kraŝa fabriko"}
+{"i":96,"tr":"Kreozotado"}
+{"i":97,"tr":"Kruda, neparafinita nafto transportata kiel masfluaĵo."}
+{"i":98,"tr":"Kriogen-plantejo"}
+{"i":99,"tr":"Lakta farmo"}
+{"i":100,"tr":"Lakta strato"}
+{"i":101,"tr":"Diamanta minejo"}
+{"i":102,"tr":"Diamantoj"}
+{"i":103,"tr":"Tamburoj, vinĉoj, ŝnabeloj, kroĉoj, katriloj, hidraŭlikaj pistonoj kaj aliaj partoj por kranoj, levoj, liftoj ktp."}
+{"i":104,"tr":"Seka cemento en pulvora aŭ klinkera formo."}
+{"i":105,"tr":"Ĉiu ekonomio provizas malsaman kombinaĵon da ŝarĝoj kaj industrioj.{}{}Por ludantoj, kiuj volas simplan ludadon, la {SILVER}bazaj {BLACK}ekonomioj enhavas malpli da industrioj kaj ŝarĝoj ol aliaj CIRS-ekonomioj.{}{}La retejo de CIRS provizas detalajn informojn pri ĉiu ekonomio."}
+{"i":106,"tr":"Manĝoleo"}
+{"i":107,"tr":"Manĝebla radika kultivaĵo, ankaŭ konata kiel manioko kaj juĉo."}
+{"i":108,"tr":"Fabriko de elastomeraj produktoj"}
+{"i":109,"tr":"Elektra arka forno"}
+{"i":110,"tr":"Elektraj partoj"}
+{"i":111,"tr":"Elektraj kaj elektronikaj komponantoj, motoroj, regiloj, ŝaltaparataro, lumiloj ktp."}
+{"i":112,"tr":"Elektraj varoj"}
+{"i":113,"tr":"Motorfabriko"}
+{"i":114,"tr":"Inĝeniera laborejo"}
+{"i":115,"tr":"Motoroj kaj transmisiono"}
+{"i":116,"tr":"Plibonigita nivelo de primara produktado (%)"}
+{"i":117,"tr":"Bieno"}
+{"i":118,"tr":"Eksplozivoj"}
+{"i":119,"tr":"Fabriko de eksplozivoj"}
+{"i":120,"tr":"Fabriko"}
+{"i":121,"tr":"Fermjo"}
+{"i":122,"tr":"Fermjoj, minejoj kaj similaj industrioj pliigos sian produktadon kiam provizaj kestoj estos liveritaj, unue al {SILVER}Enhanced{BLACK}, kaj poste al {SILVER}Gung-ho{BLACK}, se sufiĉe da kestoj estos liveritaj.  {}{}La defaŭltaj valoroj estas bonaj, sed se necese, vi povas ŝanĝi ilin ĉi tie.  {}{}La varpostuloj por havenaj industrioj estos 8-oblo de la valoroj difinitaj ĉi tie."}
+{"i":123,"tr":"Fermentejo"}
+{"i":124,"tr":"Feroleguroj"}
+{"i":125,"tr":"Fertiligilo"}
+{"i":126,"tr":"Fertiligila kaj Acida Fabriko"}
+{"i":127,"tr":"Kamparo"}
+{"i":128,"tr":"Fina drato uzata por plifortigi pneŭojn. Transportata kiel bobeno."}
+{"i":129,"tr":"Fiŝoj kaj Marfruktoj"}
+{"i":130,"tr":"Fiŝbredejo"}
+{"i":131,"tr":"Fiŝmerkato"}
+{"i":132,"tr":"Fleksiblaj sigeliloj, gasketoj, ŝlangoj, kordoj, matoj, buŝingoj ktp., faritaj el kaŭĉuko aŭ similaj materialoj."}
+{"i":133,"tr":"Faruno kaj amelo"}
+{"i":134,"tr":"Flua linio"}
+{"i":135,"tr":"Manĝaĵoj"}
+{"i":136,"tr":"Manĝaĵoj kaj trinkaĵoj"}
+{"i":137,"tr":"Manĝaĵaj aldonaĵoj"}
+{"i":138,"tr":"Manĝaĵa korporacio"}
+{"i":139,"tr":"Manĝaĵprilabora instalo"}
+{"i":140,"tr":"Manĝaĵoj konservataj frostigitaj dum transportado kaj stokado."}
+{"i":141,"tr":"Por hejma kaj konstrua uzo. Ilaroj, utensiloj, fiksaĵoj kaj akcesoraĵoj el metalo kaj aliaj materialoj."}
+{"i":142,"tr":"Arbaro"}
+{"i":143,"tr":"Forĝaĵoj kaj fandaĵoj"}
+{"i":144,"tr":"Konfregiloj"}
+{"i":145,"tr":"Freskaj kaj sekigitaj fruktoj, kiel bananoj, citrusfruktoj, vinberoj, beroj, ananaso, rozinoj kaj similaj."}
+{"i":146,"tr":"Fabriko de konfritaj desertoj"}
+{"i":147,"tr":"Konfrita manĝaĵo"}
+{"i":148,"tr":"Ustarejo por konfritaj manĝaĵoj"}
+{"i":149,"tr":"Frukta plantacio"}
+{"i":150,"tr":"Forno"}
+{"i":151,"tr":"GPL(v2)"}
+{"i":152,"tr":"GRFID"}
+{"i":153,"tr":"Ĝenerala vendejo"}
+{"i":154,"tr":"Ĝeneralaj argiloj, por produkti konstrumaterialojn kaj por aliaj industriaj uzadoj."}
+{"i":155,"tr":"Ĝenerala metalo, kiel ŝtalo, aluminio aŭ aliaj oftaj metaloj."}
+{"i":156,"tr":"Ĝeneralaj organikaj kaj neorganikaj kemiaĵoj, manipulataj kiel likvaĵo, gaso, kovrita maso, pulvoro aŭ kiel pecvaroj."}
+{"i":157,"tr":"Traversoj"}
+{"i":158,"tr":"Vitraj produktoj"}
+{"i":159,"tr":"Varoj"}
+{"i":160,"tr":"Kernejkultivaĵoj"}
+{"i":161,"tr":"Kernejmuelejo"}
+{"i":162,"tr":"Gravio, sablo, disrompita ŝtono kaj similaj materialoj uzataj en konstruado."}
+{"i":163,"tr":"Gung-ho-nivelo de primara produktado (%)"}
+{"i":164,"tr":"Fermaro kaj finaj materialoj"}
+{"i":165,"tr":"Bestobreda kooperativo"}
+{"i":166,"tr":"Altvalemaj inĝenieraj komponantoj, kiel elektra ekipaĵo, motoroj, transformiloj, regila ekipaĵo, hidraŭlikaj sistemoj, pneŭmatikaj sistemoj, pumpiloj, valvoj kaj ekipaĵo por potenco-transmisio."}
+{"i":167,"tr":"Ĉevalmerkato"}
+{"i":168,"tr":"ID"}
+{"i":169,"tr":"En varma lando"}
+{"i":170,"tr":"Industriaj karbonoj"}
+{"i":171,"tr":"Industria kemia fabriko"}
+{"i":172,"tr":"Industriaj gasoj"}
+{"i":173,"tr":"Industria parko"}
+{"i":174,"tr":"Industria acido, uzata ĉefe en la produktado de sterkiloj kaj kemiaĵoj, transportata kiel maslikvaĵo."}
+{"i":175,"tr":"Industriaj acidoj, kiel hidroklorida, nitrata kaj sulfura acido."}
+{"i":176,"tr":"Industria alkoholo uzata kiel kemia krudmaterialo kaj brulaĵo, transportata kiel maslikvaĵo."}
+{"i":177,"tr":"Industria kemiaĵo, kutime transportata kriogenie kiel likvigita komprimita gaso."}
+{"i":178,"tr":"Industria kemiaĵo. Ankaŭ konata kiel lio aŭ kaŭstika sodo. Kutime transportata kiel likvaĵo."}
+{"i":179,"tr":"Industria kemiaĵo. En la formo de blanka pulvoro."}
+{"i":180,"tr":"Industriaj kemiaĵoj derivitaj el amoniako, kiel amoniako, azota acido kaj ureo. Transportataj kiel likvaĵoj, kriogenie kiel likvigita gaso, aŭ kiel sekaj masvaroj."}
+{"i":181,"tr":"Industriaj kemiaĵoj uzataj en fabrikado kaj prilaborado, transportataj kiel likvaĵoj, pulvoroj, gasoj aŭ pakitaj varoj."}
+{"i":182,"tr":"Industria gaso. Transportata kriogenie kiel likvigita kompresita gaso."}
+{"i":183,"tr":"Industriaj gasoj uzataj en kemia prilaborado, metalprilaborado kaj ŝvado, transportataj en cilindroj aŭ premtankeroj."}
+{"i":184,"tr":"Industria mineralo, ankaŭ konata kiel kaolino, uzata ĉefe en produktado de papero kaj plastoj."}
+{"i":185,"tr":"Industriaj mineraloj uzataj en kemia prilaborado. Barito estas uzata en bariaj kemiaĵoj kaj plenigiloj; fluorsparo en fluora kemio kaj metalurgiaj fluoj."}
+{"i":186,"tr":"Ingotoj."}
+{"i":187,"tr":"Ingrediencoj uzataj en prilaborado de nutraĵoj, kiel konserviloj, aromigiloj, kolorigiloj kaj prilaborhelpiloj."}
+{"i":188,"tr":"Intense nigra karbona pulvoro, uzata en pneŭoj, plastoj kaj pigmentoj. Traktata kiel pulvoro."}
+{"i":189,"tr":"Interaj kemiaj produktoj uzataj kiel krudmaterialoj por plua industria prilaborado."}
+{"i":190,"tr":"Interaj sukeroj por rafinado, fermentado kaj industria uzo. Adheraj grenoj estas traktataj kiel kovrita masvaro; densa siro kiel likvaĵo; ambaŭ povas esti pakitaj."}
+{"i":191,"tr":"Motoroj kun interna brulado kaj rilataj partoj de la potenco-transmisia sistemo, kiel transmisiiloj kaj movaj aksoj."}
+{"i":192,"tr":"Fera erco"}
+{"i":193,"tr":"Fera-erca minejo"}
+{"i":194,"tr":"Feraŝtono"}
+{"i":195,"tr":"Brulĉambroj"}
+{"i":196,"tr":"Kimberlitaj deponejoj"}
+{"i":197,"tr":"TERO"}
+{"i":198,"tr":"Altera platformo"}
+{"i":199,"tr":"Malpezaj hidrokarbonoj"}
+{"i":200,"tr":"Malpezaj petrofracioj uzataj kiel kemiaj krudmaterialoj, transportataj kiel masaj likvaĵoj."}
+{"i":201,"tr":"Kalkŝtono"}
+{"i":202,"tr":"Kalkŝtona minejo"}
+{"i":203,"tr":"Kalkŝtonaj minejoj"}
+{"i":204,"tr":"Brutoj"}
+{"i":205,"tr":"Tronka elŝipejo"}
+{"i":206,"tr":"Tronkoj"}
+{"i":207,"tr":"Tronkoj el arbaro."}
+{"i":208,"tr":"Longa kava tubo kun ronda, rektangula aŭ alia transversa sekco. Uzata por fabrikado de konstruaĵoj kaj maŝinaro."}
+{"i":209,"tr":"Longaj rondaj ŝtalaj tuboj por transportado de likvaĵoj per tubkondukoj, en konstruaĵoj, industrioj ktp."}
+{"i":210,"tr":"Maŝinaro, brulaĵo, partoj, sterkilo kaj aliaj provizoj por farmoj, arbaroj kaj similaj industrioj."}
+{"i":211,"tr":"Maŝinaro, brulaĵo, partoj, lignaj produktoj, tuboj, eksplodivaĵoj kaj aliaj provizoj por minejoj kaj similaj industrioj."}
+{"i":212,"tr":"Maŝinaro, partoj, brulaĵo, konstrumaterialoj kaj aliaj provizoj por havenoj, dokoj kaj similaj industrioj."}
+{"i":213,"tr":"Poŝto"}
+{"i":214,"tr":"Maizo"}
+{"i":215,"tr":"Mangano"}
+{"i":216,"tr":"Manganminejo"}
+{"i":217,"tr":"Manganminejoj"}
+{"i":218,"tr":"Mangana erco, uzata ĉefe en ŝtalfabrikado."}
+{"i":219,"tr":"Bieno"}
+{"i":220,"tr":"Preĝejoj"}
+{"i":221,"tr":"Viando"}
+{"i":222,"tr":"Komerca Baro"}
+{"i":223,"tr":"Metalfabrikejo"}
+{"i":224,"tr":"Metalfajloj por kunmetado en pli grandajn objektojn."}
+{"i":225,"tr":"Metalaĵoj"}
+{"i":226,"tr":"Metanolo"}
+{"i":227,"tr":"Milda Milda Okcidento"}
+{"i":228,"tr":"Muelilo"}
+{"i":229,"tr":"Mueliloj"}
+{"i":230,"tr":"Mineralaj plenigiloj"}
+{"i":231,"tr":"Planto por mineralaj plenigiloj"}
+{"i":232,"tr":"Mineraloj"}
+{"i":233,"tr":"Minejoj"}
+{"i":234,"tr":"Plejparte kokoj, porkoj kaj ŝafoj por viandproduktado. Ankaŭ aliaj bestoj povas esti manĝataj."}
+{"i":235,"tr":"Plejparte natura latekso."}
+{"i":236,"tr":"Plejparte kamionoj. Aŭ aŭtoj. Aŭ malpezaj kamionoj. Eble traktoroj."}
+{"i":237,"tr":"Formaĵoj"}
+{"i":238,"tr":"Nitrata minejo"}
+{"i":239,"tr":"Nitratoj"}
+{"i":240,"tr":"Azoto"}
+{"i":241,"tr":"Nefereaj metaloj, kiel kupro, nikelo, zinko kaj plumbo."}
+{"i":242,"tr":"Nutoj"}
+{"i":243,"tr":"Oleo"}
+{"i":244,"tr":"Ole- kaj kemia terminalo"}
+{"i":245,"tr":"Olerafinejo"}
+{"i":246,"tr":"Oleplatformo"}
+{"i":247,"tr":"Olepuzoj"}
+{"i":248,"tr":"Oleo por kuirado kaj konsumado."}
+{"i":249,"tr":"Fruktoĝardeno kaj porkbredejo"}
+{"i":250,"tr":"Fruktoĝardenoj"}
+{"i":251,"tr":"Oksigeno"}
+{"i":252,"tr":"Embalado"}
+{"i":253,"tr":"Farboj kaj tegaĵoj"}
+{"i":254,"tr":"Papero"}
+{"i":255,"tr":"Papera fabriko"}
+{"i":256,"tr":"Fabriko de paperaj produktoj"}
+{"i":257,"tr":"Pasageroj"}
+{"i":258,"tr":"Turbo"}
+{"i":259,"tr":"Turbaroj"}
+{"i":260,"tr":"Benzino, dizelo kaj similaj brulaĵoj."}
+{"i":261,"tr":"Fosfato"}
+{"i":262,"tr":"Fosfatminejo"}
+{"i":263,"tr":"Fosfora acido"}
+{"i":264,"tr":"Brutofero"}
+{"i":265,"tr":"Tubfarfarejo"}
+{"i":266,"tr":"Fosaĵo"}
+{"i":267,"tr":"Instalaĵo"}
+{"i":268,"tr":"Instalaĵoj kaj maŝinaro"}
+{"i":269,"tr":"Plantaĵo"}
+{"i":270,"tr":"Fabriko de plastikaj formaj produktoj"}
+{"i":271,"tr":"Plastikoj kaj rezinoj"}
+{"i":272,"tr":"Plata molino"}
+{"i":273,"tr":"Haveno"}
+{"i":274,"tr":"Kalio"}
+{"i":275,"tr":"Kalio-mino"}
+{"i":276,"tr":"Pulvritaj cerealaj produktoj, kiel faruno kaj amelo, transportataj en sakoj aŭ kovrite kiel maso."}
+{"i":277,"tr":"Elektrcentralo"}
+{"i":278,"tr":"Fabriko de energisistemoj"}
+{"i":279,"tr":"Motorizita ekipaĵo kaj mekanikaj sistemoj uzataj en konstruaĵoj, industrioj kaj farmoj. Transportataj kiel kompletaj unuoj aŭ kiel ĉefaj subkunmetitaj partoj."}
+{"i":280,"tr":"Potenctransmisio"}
+{"i":281,"tr":"Antaŭbetonita"}
+{"i":282,"tr":"Precizaj komponantoj"}
+{"i":283,"tr":"Fabriko de precizaj partoj"}
+{"i":284,"tr":"Preŝitaj produktoj"}
+{"i":285,"tr":"Proceskemiaĵoj"}
+{"i":286,"tr":"Fabriko de proceskemiaĵoj"}
+{"i":287,"tr":"Procesita lignofibro uzata ĉefe por papera produktado, transportata kiel baloj aŭ kiel masa pulpo."}
+{"i":288,"tr":"Procesitaj lignaj produktoj el sawmill aŭ similaj industrioj."}
+{"i":289,"tr":"Produkta Pakisto"}
+{"i":290,"tr":"Produktado en farmoj, minejoj kaj similaj industrioj kiam la provizbezonoj estas plenumitaj (kiel procento de la {SILVER}normala {BLACK}produktnivelo)."}
+{"i":291,"tr":"Pumpoj"}
+{"i":292,"tr":"Pumpoj kaj valvoj"}
+{"i":293,"tr":"Piritaj deponejoj"}
+{"i":294,"tr":"Pirita minejo"}
+{"i":295,"tr":"Pirita erco"}
+{"i":296,"tr":"Pirita fandejo"}
+{"i":297,"tr":"Python 3.11+"}
+{"i":298,"tr":"Nekalko"}
+{"i":299,"tr":"Ranĉo"}
+{"i":300,"tr":"Kruda sukero kaj melaso"}
+{"i":301,"tr":"Krudaj aŭ rostitaj kafaj faboj."}
+{"i":302,"tr":"Kruda plasto por plua prilaborado. Kutime transportata kiel rezinaj perloj."}
+{"i":303,"tr":"Armatura ŝtalo"}
+{"i":304,"tr":"Rafinita aluminio, en bobenoj, ingotoj, platoj ktp."}
+{"i":305,"tr":"Rafinita kupro, en bobenoj, ingotoj ktp."}
+{"i":306,"tr":"Rafinitaj petrolemaj produktoj, kiel benzino, dizelo, keroseno, LPG, brula oleo kaj bunkra brulaĵo, transportataj kiel masaj likvaĵoj aŭ likvigita gaso."}
+{"i":307,"tr":"Rafinejo"}
+{"i":308,"tr":"Reinderaj paŝtoblokoj"}
+{"i":309,"tr":"Voŝtona uzinejo"}
+{"i":310,"tr":"Stanga molino"}
+{"i":311,"tr":"Rulitaj ŝtalaj platoj kaj sekcioj — I-travoj, H-travoj, kanaloj ktp. Transportataj kiel longaj rektaj produktoj."}
+{"i":312,"tr":"Kordoj kaj kabloj produktitaj per etŝirado de ŝtala dratstango ĝis pli malgranda diametro, kaj poste torĉitaj en faskitajn kordojn."}
+{"i":313,"tr":"Krudaj ŝtalaj fandeaĵoj, kiuj bezonas pluan prilaboradon. Ingotoj povas esti malgrandaj aŭ tre grandaj. Tipaj ingotprofiloj estas rektangulaj aŭ rondaj."}
+{"i":314,"tr":"Kauĉuo"}
+{"i":315,"tr":"Kauĉua Kompanio"}
+{"i":316,"tr":"Kauĉua Plantacio"}
+{"i":317,"tr":"MARO"}
+{"i":318,"tr":"Salo"}
+{"i":319,"tr":"Salfabriko"}
+{"i":320,"tr":"Salpetrofabriko"}
+{"i":321,"tr":"Sablobanko"}
+{"i":322,"tr":"Lignoŝirejo"}
+{"i":323,"tr":"Marmanĝaĵoj"}
+{"i":324,"tr":"Sigelo kaj ŝlangoj"}
+{"i":325,"tr":"Sigeloj, ŝlangoj kaj kormanoj"}
+{"i":326,"tr":"Sekcia kaj bara molino"}
+{"i":327,"tr":"Duonpretaj ŝtalaj fandopecoj. Ĉiam plataj kaj rektangulaj en transversa sekcio."}
+{"i":328,"tr":"Duonpretaj ŝtalaj fandopecoj. Rektangulaj, kvadrataj aŭ rondaj en transversa sekcio."}
+{"i":329,"tr":"Akra Strato"}
+{"i":330,"tr":"Malprofundaj akvopartoj"}
+{"i":331,"tr":"Marborda fronto"}
+{"i":332,"tr":"Siluo"}
+{"i":333,"tr":"Simpla ekonomio. Inspirita de Argentino, Peruo kaj Ĉilio. Plej bone uzebla kun subtropika klimato."}
+{"i":334,"tr":"Simpla ekonomio. Inspirita de Finnlando, norda Kanado kaj norda Siberio. Plej bone uzebla kun subarkta klimato."}
+{"i":335,"tr":"Simpla ekonomio. Inspirita de sudokcidenta Britio. Plej bone uzebla kun temperata klimato."}
+{"i":336,"tr":"Slabojardego"}
+{"i":337,"tr":"Slago"}
+{"i":338,"tr":"Slagmuelejo"}
+{"i":339,"tr":"Fandejo"}
+{"i":340,"tr":"Sodasko"}
+{"i":341,"tr":"Sodaskminejo"}
+{"i":342,"tr":"Natria hidroksido"}
+{"i":343,"tr":"Karbonforno"}
+{"i":344,"tr":"Supoj"}
+{"i":345,"tr":"Specialaj karbonaj materialoj, kiel kalcinita petrokokso, pikaso, altvaloraj taroj kaj nigra karbono, uzataj en metalurgiaj kaj kemiaj procezoj."}
+{"i":346,"tr":"Ŝtalo"}
+{"i":347,"tr":"Ŝtalforĝejo kaj fandejo"}
+{"i":348,"tr":"Ŝtalaj ingotoj"}
+{"i":349,"tr":"Ŝtalfabriko"}
+{"i":350,"tr":"Ŝtaltubo"}
+{"i":351,"tr":"Ŝtalplato"}
+{"i":352,"tr":"Ŝtalfolio kaj ŝtalstripo"}
+{"i":353,"tr":"Ŝtalbloko"}
+{"i":354,"tr":"Ŝtaltubo"}
+{"i":355,"tr":"Ŝtaldrata stango"}
+{"i":356,"tr":"Ŝtalbaroj, kiel rondaj, kvadrataj, plataj kaj aliaj profiloj. Transportataj kiel longaj rektaj produktoj."}
+{"i":357,"tr":"Ŝtaldrato kaj maldikaj stangoj. Ĉefe transportataj kiel bobenoj."}
+{"i":358,"tr":"Ŝtalmajstroj"}
+{"i":359,"tr":"Ŝtalurbo"}
+{"i":360,"tr":"Stokujoj kaj tubaroj"}
+{"i":361,"tr":"Stokujoj, premoĉambroj, siloj, gasĉambroj kaj tubaroj por uzo en urbaj konstruaĵoj, industrioj kaj farmoj."}
+{"i":362,"tr":"Magazenoj"}
+{"i":363,"tr":"Stria molino"}
+{"i":364,"tr":"Konstrua ŝtalo"}
+{"i":365,"tr":"Konstrua ŝtalo kiel rultaj sekcioj (I-travoj, H-travoj ktp.), kiel plataj folioj, aŭ kiel fabrikitaj sekcioj kaj travoj ŝvititaj el folioj."}
+{"i":366,"tr":"Sukero"}
+{"i":367,"tr":"Sukerkompanio"}
+{"i":368,"tr":"Sulfidaj mineraloj, fonditaj por produkti diversajn industriajn produktojn."}
+{"i":369,"tr":"Sulfuro"}
+{"i":370,"tr":"Sulfura acido"}
+{"i":371,"tr":"Provizoj por tranĉado kaj ŝvitado de metalo, kiel ŝvitraj stangoj, iloj kaj industriaj gasoj, inkluzive de acetileno, argono, propano, oksigeno kaj azoto."}
+{"i":372,"tr":"Provizodomo"}
+{"i":373,"tr":"Necesaj provizkojtoj por plibonigita ĉefa produktado (defaŭlte 16)"}
+{"i":374,"tr":"Necesaj provizkojtoj por entuziasma ĉefa produktado (defaŭlte 80)"}
+{"i":375,"tr":"Tankofarmejo"}
+{"i":376,"tr":"Tapistaj ŝedo"}
+{"i":377,"tr":"Temperata baza"}
+{"i":378,"tr":"Dika petroloprodukto uzata ĉefe por stratkovrado kaj dakovrado."}
+{"i":379,"tr":"Maldika rultita ŝtala folio kaj strio, vaste uzata por fabrikado de aliaj produktoj. Transportata kiel plataj folioj aŭ kiel bobenoj."}
+{"i":380,"tr":"Maldikaj krudaj ŝtalaj stangoj vaste uzataj por fortigi betonajn strukturojn. Transportataj kiel bobenoj aŭ faskoj de rektaj stangoj."}
+{"i":381,"tr":"Maldika ŝtala folio kovrita per estaĵo por rezisti korodon, uzata ĉefe por kanetoj, kontejneroj kaj aliaj embalaĵoj."}
+{"i":382,"tr":"Lignoproduktoj"}
+{"i":383,"tr":"Estaĵo"}
+{"i":384,"tr":"Stano-mino"}
+{"i":385,"tr":"Stanplato"}
+{"i":386,"tr":"Stanplata fabriko"}
+{"i":387,"tr":"Fabriko de ŝina veturilo"}
+{"i":388,"tr":"Komerca stacio"}
+{"i":389,"tr":"Trona-litoj"}
+{"i":390,"tr":"Tropika bazmaterialo"}
+{"i":391,"tr":"Kamionhaltejo"}
+{"i":392,"tr":"Tubo- kaj kondukotubofabrikejo"}
+{"i":393,"tr":"Tubofabrikejo"}
+{"i":394,"tr":"Pneumatika ŝnuro"}
+{"i":395,"tr":"Pneumatika fabriko"}
+{"i":396,"tr":"Pneŭmatikoj"}
+{"i":397,"tr":"Uzata en la produktado de alojoj kaj rustorezista ŝtalo, alojo de kromio kaj fero. Grizaj amasoj, similaj laŭ grandeco kaj formo al karboamasoj."}
+{"i":398,"tr":"Uzata en ŝtalproduktado. Alojoj de fero kaj aliaj elementoj, inkluzive de mangano, nikelo, kromio, aluminio, silicio kaj volframo. Grizaj amasoj, similaj laŭ grandeco kaj formo al karboamasoj."}
+{"i":399,"tr":"Legomoj"}
+{"i":400,"tr":"Veturilkorpoj"}
+{"i":401,"tr":"Veturila distribuilo"}
+{"i":402,"tr":"Veturilpartoj"}
+{"i":403,"tr":"Veturiloj"}
+{"i":404,"tr":"Vingardo"}
+{"i":405,"tr":"Ruba produkto de fero- kaj ŝtalproduktado."}
+{"i":406,"tr":"Akvorando"}
+{"i":407,"tr":"Svordaj konsummaterialoj"}
+{"i":408,"tr":"Putoj"}
+{"i":409,"tr":"Kajo"}
+{"i":410,"tr":"Tritiko, orzo ktp."}
+{"i":411,"tr":"Blanka pulvoro rafinita el boksita erco, uzata por produkti aluminio-metalon."}
+{"i":412,"tr":"Blanka, griza aŭ bruna kalcia sulfata roko, uzata en la produktado de sulfata acido kaj cemento. Ofte transportata kiel kovrita masvaro."}
+{"i":413,"tr":"Larĝe uzata industria kemiaĵo. Brile flava, en pulvora aŭ likva formo."}
+{"i":414,"tr":"Larĝe uzata industria kemiaĵo. Kutime transportata kiel masvaro, kiun oni devas konservi sek."}
+{"i":415,"tr":"Vinejo"}
+{"i":416,"tr":"Draŝilfabriko"}
+{"i":417,"tr":"Lignoĉelo"}
+{"i":418,"tr":"Fabriko"}
+{"i":432,"tr":"{BLACK}Por maksimuma produktokvanto, liveru {WHITE}almenaŭ du {BLACK}necesarajn varojn almenaŭ unu fojon ĉiujn tri minutojn."}
+{"i":433,"tr":"{BLACK}Por maksimuma produktokvanto, liveru {WHITE}ambaŭ {BLACK}necesarajn varojn almenaŭ unu fojon ĉiujn tri minutojn."}
+{"i":434,"tr":"{BLACK}La produktado estas proporcia al la loĝantaro de la urbo. Almenaŭ {WHITE}{SIGNED_WORD} unuoj{BLACK} kaj ne pli ol {WHITE}{SIGNED_WORD} unuoj{BLACK} da varoj estos produktitaj ĉiun minuton."}
+{"i":435,"tr":"{BLACK}Liveru {WHITE}almenaŭ unu {BLACK} necesan varon por maksimuma produktado."}
+{"i":436,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":437,"tr":"{ORANGE}CIRS Komunuma Industria Anstataŭiga Aro{}{BLACK}Komunume prizorgata forko de FIRS, origine kreita de andythenorth, FooBar, planetmaker, Terkhen kaj Yexo, kun helpo de multaj aliaj. {SILVER}Vidu la retejon por pli da informoj, inkluzive de kiel uzi CIRS. {BLACK}Licenco: GPL v2."}
+{"i":438,"tr":"{ORANGE}E00: CIRS postulas OpenTTD 1.7.0 (aŭ, por tiuj, kiuj uzas trunkajn kompilaĵojn, r27769)"}
+{"i":439,"tr":"{ORANGE}E01: {YELLOW}Nekongrua aro: {ORANGE}{STRING}"}
+{"i":440,"tr":"{ORANGE}E02: {YELLOW}Nekongrua parametro: {ORANGE}La parametro CanSet 2 devas esti 0 por funkcii kun CIRS."}
+{"i":441,"tr":"{ORANGE}E02: {YELLOW}Nekongrua parametro: {ORANGE}La parametro 2 de la NA City Set devas esti 0 por funkcii kun CIRS."}
+{"i":442,"tr":"{ORANGE}E04: {YELLOW}Nekongrua versio: {ORANGE}La Total Town Replacement Set devas esti versio 3.11 aŭ pli nova."}
+{"i":443,"tr":"{SIGNED_WORD} balo{P 0 \"\" s} da lano"}
+{"i":444,"tr":"{TINYFONT}AA"}
+{"i":445,"tr":"{TINYFONT}AC"}
+{"i":446,"tr":"{TINYFONT}AG"}
+{"i":447,"tr":"{TINYFONT}AM"}
+{"i":448,"tr":"{TINYFONT}AO"}
+{"i":449,"tr":"{TINYFONT}AP"}
+{"i":450,"tr":"{TINYFONT}AY"}
+{"i":451,"tr":"{TINYFONT}BB"}
+{"i":452,"tr":"{TINYFONT}BI"}
+{"i":453,"tr":"{TINYFONT}BN"}
+{"i":454,"tr":"{TINYFONT}CA"}
+{"i":455,"tr":"{TINYFONT}CB"}
+{"i":456,"tr":"{TINYFONT}CE"}
+{"i":457,"tr":"{TINYFONT}CF"}
+{"i":458,"tr":"{TINYFONT}CI"}
+{"i":459,"tr":"{TINYFONT}CK"}
+{"i":460,"tr":"{TINYFONT}CN"}
+{"i":461,"tr":"{TINYFONT}CO"}
+{"i":462,"tr":"{TINYFONT}CP"}
+{"i":463,"tr":"{TINYFONT}CR"}
+{"i":464,"tr":"{TINYFONT}CT"}
+{"i":465,"tr":"{TINYFONT}EL"}
+{"i":466,"tr":"{TINYFONT}EO"}
+{"i":467,"tr":"{TINYFONT}EP"}
+{"i":468,"tr":"{TINYFONT}EX"}
+{"i":469,"tr":"{TINYFONT}FA"}
+{"i":470,"tr":"{TINYFONT}FI"}
+{"i":471,"tr":"{TINYFONT}FL"}
+{"i":472,"tr":"{TINYFONT}FO"}
+{"i":473,"tr":"{TINYFONT}FV"}
+{"i":474,"tr":"{TINYFONT}GL"}
+{"i":475,"tr":"{TINYFONT}HW"}
+{"i":476,"tr":"{TINYFONT}IG"}
+{"i":477,"tr":"{TINYFONT}KA"}
+{"i":478,"tr":"{TINYFONT}LG"}
+{"i":479,"tr":"{TINYFONT}LH"}
+{"i":480,"tr":"{TINYFONT}LS"}
+{"i":481,"tr":"{TINYFONT}MA"}
+{"i":482,"tr":"{TINYFONT}MF"}
+{"i":483,"tr":"{TINYFONT}ML"}
+{"i":484,"tr":"{TINYFONT}MN"}
+{"i":485,"tr":"{TINYFONT}MO"}
+{"i":486,"tr":"{TINYFONT}N7"}
+{"i":487,"tr":"{TINYFONT}NA"}
+{"i":488,"tr":"{TINYFONT}NI"}
+{"i":489,"tr":"{TINYFONT}NT"}
+{"i":490,"tr":"{TINYFONT}O2"}
+{"i":491,"tr":"{TINYFONT}OC"}
+{"i":492,"tr":"{TINYFONT}PA"}
+{"i":493,"tr":"{TINYFONT}PC"}
+{"i":494,"tr":"{TINYFONT}PE"}
+{"i":495,"tr":"{TINYFONT}PG"}
+{"i":496,"tr":"{TINYFONT}PH"}
+{"i":497,"tr":"{TINYFONT}PI"}
+{"i":498,"tr":"{TINYFONT}PL"}
+{"i":499,"tr":"{TINYFONT}PM"}
+{"i":500,"tr":"{TINYFONT}PT"}
+{"i":501,"tr":"{TINYFONT}PV"}
+{"i":502,"tr":"{TINYFONT}PW"}
+{"i":503,"tr":"{TINYFONT}PY"}
+{"i":504,"tr":"{TINYFONT}QL"}
+{"i":505,"tr":"{TINYFONT}RB"}
+{"i":506,"tr":"{TINYFONT}SA"}
+{"i":507,"tr":"{TINYFONT}SB"}
+{"i":508,"tr":"{TINYFONT}SD"}
+{"i":509,"tr":"{TINYFONT}SE"}
+{"i":510,"tr":"{TINYFONT}SG"}
+{"i":511,"tr":"{TINYFONT}SH"}
+{"i":512,"tr":"{TINYFONT}SI"}
+{"i":513,"tr":"{TINYFONT}SL"}
+{"i":514,"tr":"{TINYFONT}SO"}
+{"i":515,"tr":"{TINYFONT}SP"}
+{"i":516,"tr":"{TINYFONT}STSW"}
+{"i":517,"tr":"{TINYFONT}SU"}
+{"i":518,"tr":"{TINYFONT}SW"}
+{"i":519,"tr":"{TINYFONT}SY"}
+{"i":520,"tr":"{TINYFONT}TC"}
+{"i":521,"tr":"{TINYFONT}TI"}
+{"i":522,"tr":"{TINYFONT}TP"}
+{"i":523,"tr":"{TINYFONT}TY"}
+{"i":524,"tr":"{TINYFONT}VB"}
+{"i":525,"tr":"{TINYFONT}VE"}
+{"i":526,"tr":"{TINYFONT}VG"}
+{"i":527,"tr":"{TINYFONT}VP"}
+{"i":528,"tr":"{TINYFONT}VS"}
+{"i":529,"tr":"{TINYFONT}WP"}
+{"i":530,"tr":"{TINYFONT}WS"}
+{"i":531,"tr":"{TINYFONT}ZN"}
+{"i":532,"tr":"{TINYFONT}ZO"}
+{"i":533,"tr":"{VOLUME} da acido"}
+{"i":534,"tr":"{VOLUME} da amoniako kaj azotaĵoj"}
+{"i":535,"tr":"{VOLUME} da bitumeno"}
+{"i":536,"tr":"{VOLUME} da kemiaj interproduktoj"}
+{"i":537,"tr":"{VOLUME} da kloro"}
+{"i":538,"tr":"{VOLUME} da karbontaro"}
+{"i":539,"tr":"{VOLUME} da manĝoleo"}
+{"i":540,"tr":"{VOLUME} da industriaj gasoj"}
+{"i":541,"tr":"{VOLUME} da malpezaj hidrokarbonoj"}
+{"i":542,"tr":"{VOLUME} da metanolo"}
+{"i":543,"tr":"{VOLUME} da azoto"}
+{"i":544,"tr":"{VOLUME} da oksigeno"}
+{"i":545,"tr":"{VOLUME} da farboj kaj kovraĵoj"}
+{"i":546,"tr":"{VOLUME} da fosforacido"}
+{"i":547,"tr":"{VOLUME} da natria hidroksido"}
+{"i":548,"tr":"{VOLUME} da sulfura acido"}
+{"i":549,"tr":"{WEIGHT} da agregatoj"}
+{"i":550,"tr":"{WEIGHT} da aluminio-oksido"}
+{"i":551,"tr":"{WEIGHT} da aluminio"}
+{"i":552,"tr":"{WEIGHT} da anhidrita roko"}
+{"i":553,"tr":"{WEIGHT} da pomoj"}
+{"i":554,"tr":"{WEIGHT} da barito kaj fluoritroko"}
+{"i":555,"tr":"{WEIGHT} da faboj"}
+{"i":556,"tr":"{WEIGHT} da blokoj kaj bloemoj"}
+{"i":557,"tr":"{WEIGHT} da karbonnigro"}
+{"i":558,"tr":"{WEIGHT} da kasavo"}
+{"i":559,"tr":"{WEIGHT} da gruzfero"}
+{"i":560,"tr":"{WEIGHT} da cemento"}
+{"i":561,"tr":"{WEIGHT} da ĉina argilo"}
+{"i":562,"tr":"{WEIGHT} da purigiloj"}
+{"i":563,"tr":"{WEIGHT} da kokso"}
+{"i":564,"tr":"{WEIGHT} de betonaj produktoj"}
+{"i":565,"tr":"{WEIGHT} de kupro"}
+{"i":566,"tr":"{WEIGHT} de elektraj partoj"}
+{"i":567,"tr":"{WEIGHT} de motoroj & transmisiiloj"}
+{"i":568,"tr":"{WEIGHT} de eksplodivaĵoj"}
+{"i":569,"tr":"{WEIGHT} de feralegioj"}
+{"i":570,"tr":"{WEIGHT} de sterko"}
+{"i":571,"tr":"{WEIGHT} de fiŝoj & marfruktoj"}
+{"i":572,"tr":"{WEIGHT} de faruno & amelo"}
+{"i":573,"tr":"{WEIGHT} de manĝaĵoj & trinkaĵoj"}
+{"i":574,"tr":"{WEIGHT} de manĝaĵaj aldonaĵoj"}
+{"i":575,"tr":"{WEIGHT} de forĝaĵoj & fandaĵoj"}
+{"i":576,"tr":"{WEIGHT} da frostigita manĝaĵo"}
+{"i":577,"tr":"{WEIGHT} da vitraj produktoj"}
+{"i":578,"tr":"{WEIGHT} da varoj"}
+{"i":579,"tr":"{WEIGHT} da fervaroj kaj finaj materialoj"}
+{"i":580,"tr":"{WEIGHT} da industriaj karbonoj"}
+{"i":581,"tr":"{WEIGHT} da kalkŝtono"}
+{"i":582,"tr":"{WEIGHT} da trunkoj"}
+{"i":583,"tr":"{WEIGHT} da mangano"}
+{"i":584,"tr":"{WEIGHT} da viando"}
+{"i":585,"tr":"{WEIGHT} da komerca ŝtango"}
+{"i":586,"tr":"{WEIGHT} da mineralaj plenigiloj"}
+{"i":587,"tr":"{WEIGHT} da nitratoj"}
+{"i":588,"tr":"{WEIGHT} da nuksoj"}
+{"i":589,"tr":"{WEIGHT} da embalaĝo"}
+{"i":590,"tr":"{WEIGHT} da turbo"}
+{"i":591,"tr":"{WEIGHT} da fosfato"}
+{"i":592,"tr":"{WEIGHT} da kruda fero"}
+{"i":593,"tr":"{WEIGHT} da plantoj kaj maŝinaro"}
+{"i":594,"tr":"{WEIGHT} da plasto kaj rezinoj"}
+{"i":595,"tr":"{WEIGHT} da kalio"}
+{"i":596,"tr":"{WEIGHT} da precizaj komponantoj"}
+{"i":597,"tr":"{WEIGHT} da procezkemiaĵoj"}
+{"i":598,"tr":"{WEIGHT} da pumpiloj kaj valvoj"}
+{"i":599,"tr":"{WEIGHT} da pirita erco"}
+{"i":600,"tr":"{WEIGHT} da viva kalko"}
+{"i":601,"tr":"{WEIGHT} da kruda sukero kaj melaso"}
+{"i":602,"tr":"{WEIGHT} da armatura ŝtalo"}
+{"i":603,"tr":"{WEIGHT} da salo"}
+{"i":604,"tr":"{WEIGHT} da sigeliloj, ŝlangoj kaj kormenoj"}
+{"i":605,"tr":"{WEIGHT} da ŝlako"}
+{"i":606,"tr":"{WEIGHT} da soda cindro"}
+{"i":607,"tr":"{WEIGHT} da ŝtalo"}
+{"i":608,"tr":"{WEIGHT} da ŝtalaj ingotoj"}
+{"i":609,"tr":"{WEIGHT} da ŝtala tubo"}
+{"i":610,"tr":"{WEIGHT} da ŝtala plato"}
+{"i":611,"tr":"{WEIGHT} da ŝtala folio kaj strio"}
+{"i":612,"tr":"{WEIGHT} de ŝtala plato"}
+{"i":613,"tr":"{WEIGHT} de ŝtala tubo"}
+{"i":614,"tr":"{WEIGHT} de ŝtala drato"}
+{"i":615,"tr":"{WEIGHT} de stokujoj kaj tubaroj"}
+{"i":616,"tr":"{WEIGHT} de konstrua ŝtalo"}
+{"i":617,"tr":"{WEIGHT} de sulfuro"}
+{"i":618,"tr":"{WEIGHT} de lignaj produktoj"}
+{"i":619,"tr":"{WEIGHT} de estaĵo"}
+{"i":620,"tr":"{WEIGHT} de estaĵplato"}
+{"i":621,"tr":"{WEIGHT} de pneŭkordoj"}
+{"i":622,"tr":"{WEIGHT} de pneŭoj"}
+{"i":623,"tr":"{WEIGHT} de legomoj"}
+{"i":624,"tr":"{WEIGHT} de veturilkorpoj"}
+{"i":625,"tr":"{WEIGHT} de veturilpartoj"}
+{"i":626,"tr":"{WEIGHT} de veturiloj"}
+{"i":627,"tr":"{WEIGHT} de ŝvavaj konsummaterialoj"}
+{"i":628,"tr":"{WEIGHT} de lignocelozo"}
+{"i":629,"tr":"{WEIGHT} de zinko"}
+{"i":630,"tr":"{WEIGHT} de zinkerco"}
+{"i":631,"tr":"{WEIGHT} sakoj{P 0 \"\" s} da kafo"}
+{"i":632,"tr":"{}{BLACK}Loko: {YELLOW}Povas esti financata nur sur neĝo."}
+{"i":419,"tr":"Verkoj"}
+{"i":420,"tr":"Zinko"}
+{"i":421,"tr":"Zinka mino"}
+{"i":422,"tr":"Zinka ero"}
+{"i":423,"tr":"Zinka fandejo"}
+{"i":424,"tr":"{BLACK}Nuna produktado: {YELLOW}Plibonigita {}{}{BLACK}Por konservi ĉi tiun nivelon, liveru {SIGNED_WORD} kestojn da provizoj almenaŭ unu fojon ĉiujn tri minutojn.{}Por {WHITE}Gung-ho {BLACK}-produktado liveru {SIGNED_WORD} kestojn."}
+{"i":425,"tr":"{BLACK}Nuna produktado: {YELLOW}Plibonigita {}{}{BLACK}Por konservi ĉi tiun nivelon, liveru {SIGNED_WORD} unuojn da ŝarĝo almenaŭ unu fojon ĉiujn tri minutojn.{}Por {WHITE}Gung-ho {BLACK}-produktado liveru {SIGNED_WORD} unuojn."}
+{"i":426,"tr":"{BLACK}Nuna produktado: {YELLOW}Gung-ho {}{}{BLACK}Por konservi ĉi tiun nivelon, liveru {SKIP}{SIGNED_WORD} kestojn da provizoj almenaŭ unu fojon ĉiujn tri minutojn."}
+{"i":427,"tr":"{BLACK}Nuna produktado: {YELLOW}Gung-ho {}{}{BLACK}Por konservi ĉi tiun nivelon, liveru {SKIP}{SIGNED_WORD} unuojn da varo almenaŭ unu fojon ĉiujn tri minutojn."}
+{"i":428,"tr":"{BLACK}Nuna produktado: {YELLOW}Normala {}{}{BLACK}Por {WHITE}Plifortigita {BLACK}produktado liveru {SIGNED_WORD} kestojn da provizoj almenaŭ unu fojon ĉiuj tri minutoj.{}Por {WHITE}Entuziasma {BLACK}produktado liveru {SIGNED_WORD} kestojn."}
+{"i":429,"tr":"{BLACK}Nuna produktado: {YELLOW}Normala {}{}{BLACK}Por {WHITE}Plifortigita {BLACK}produktado liveru {SIGNED_WORD} unuojn da kargo almenaŭ unu fojon ĉiuj tri minutoj.{}Por {WHITE}Entuziasma {BLACK}produktado liveru {SIGNED_WORD} unuojn."}
+{"i":430,"tr":"{BLACK}Por maksimuma produktokvanto, liveru {WHITE}ĉiujn {BLACK}necesarajn varojn almenaŭ unu fojon ĉiujn tri minutojn."}
+{"i":431,"tr":"{BLACK}Por maksimuma produktokvanto, liveru {WHITE}almenaŭ tri {BLACK}bezonatajn kargojn almenaŭ unu fojon ĉiujn tri minutojn."}

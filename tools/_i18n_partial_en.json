@@ -1,0 +1,1137 @@
+{
+ "total": {
+  "high_overlap": 25,
+  "latin_ratio": 36,
+  "en_stopwords": 68
+ },
+ "languages": [
+  {
+   "lang": "afrikaans",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/afrikaans.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (parser vir Markdown-teksformaat)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "arabic",
+   "counts": {
+    "latin_ratio": 3
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/arabic.toml",
+     "key": "DOC_CR_DEP_CHAMELEON",
+     "en": "Chameleon (Template engine)",
+     "tr": "Chameleon (محرك قوالب)",
+     "flag": "latin_ratio",
+     "ratio": 0.5,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/arabic.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (محلل صيغة نص Markdown)",
+     "flag": "latin_ratio",
+     "ratio": 0.62,
+     "overlap": 0.4,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/arabic.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "يوجد نص اللعبة في src/grf/lang/*.toml (سلاسل NewGRF) وsrc/gs/lang/*.toml (سلاسل GameScript",
+     "flag": "latin_ratio",
+     "ratio": 0.59,
+     "overlap": 0.57,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "belarusian",
+   "counts": {
+    "latin_ratio": 3
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/belarusian.toml",
+     "key": "DOC_CR_DEP_CHAMELEON",
+     "en": "Chameleon (Template engine)",
+     "tr": "Chameleon (рухавік шаблонаў)",
+     "flag": "latin_ratio",
+     "ratio": 0.38,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/belarusian.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (парсер тэкставага фармату Markdown)",
+     "flag": "latin_ratio",
+     "ratio": 0.41,
+     "overlap": 0.4,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/belarusian.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "Гульнявы тэкст знаходзіцца ў src/grf/lang/*.toml (радкі NewGRF) і src/gs/lang/*.toml (радк",
+     "flag": "latin_ratio",
+     "ratio": 0.5,
+     "overlap": 0.57,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "catalan",
+   "counts": {
+    "en_stopwords": 21,
+    "high_overlap": 2
+   },
+   "samples": [
+    {
+     "file": "src/grf/lang/catalan.toml",
+     "key": "STR_GRF_DESC.base",
+     "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIR",
+     "tr": "{ORANGE}Conjunt de substitució d'indústries comunitàries de CIRS{}{BLACK}Una bifurcació de",
+     "flag": "en_stopwords",
+     "ratio": 0.97,
+     "overlap": 0.18,
+     "stops": [
+      "per",
+      "per",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/catalan.toml",
+     "key": "STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT.base",
+     "en": "Supply crates required for Enhanced primary production (default 16)",
+     "tr": "Caixes de subministrament necessàries per a la producció primària millorada (per defecte, ",
+     "flag": "en_stopwords",
+     "ratio": 0.96,
+     "overlap": 0.0,
+     "stops": [
+      "per",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/catalan.toml",
+     "key": "STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT.base",
+     "en": "Supply crates required for Gung-ho primary production (default 80)",
+     "tr": "Caixes de subministrament necessàries per a la producció primària Gung-ho (per defecte, 80",
+     "flag": "en_stopwords",
+     "ratio": 0.96,
+     "overlap": 0.12,
+     "stops": [
+      "per",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/catalan.toml",
+     "key": "STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT.base",
+     "en": "Farms, mines and similar industries will increase production when supply crates are delive",
+     "tr": "Les granges, les mines i les indústries similars augmentaran la producció quan s'entreguin",
+     "flag": "en_stopwords",
+     "ratio": 0.97,
+     "overlap": 0.09,
+     "stops": [
+      "per",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/catalan.toml",
+     "key": "STR_PRIMARY_PRODUCTION_1X.base",
+     "en": "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production",
+     "tr": "{BLACK}Producció actual: {YELLOW}Normal {}{}{BLACK}Per a una producció {WHITE}Millorada {B",
+     "flag": "en_stopwords",
+     "ratio": 0.98,
+     "overlap": 0.11,
+     "stops": [
+      "per",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/catalan.toml",
+     "key": "STR_PRIMARY_PRODUCTION_2X.base",
+     "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED",
+     "tr": "{BLACK}Producció actual: {YELLOW}Millorada {}{}{BLACK}Per mantenir aquest nivell, lliureu ",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.05,
+     "stops": [
+      "per",
+      "per"
+     ]
+    }
+   ]
+  },
+  {
+   "lang": "croatian",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/croatian.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (parser formata teksta Markdown)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "czech",
+   "counts": {
+    "high_overlap": 2
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/czech.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (parser formátu Markdown)",
+     "flag": "high_overlap",
+     "ratio": 0.97,
+     "overlap": 0.6,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/czech.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "Text hry se nachází v src/grf/lang/*.toml (řetězce NewGRF) a src/gs/lang/*.toml (řetězce G",
+     "flag": "high_overlap",
+     "ratio": 0.93,
+     "overlap": 0.65,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "danish",
+   "counts": {
+    "en_stopwords": 12,
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/grf/lang/danish.toml",
+     "key": "STR_GRF_DESC.base",
+     "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIR",
+     "tr": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En fællesskabsvedligeholdt forgren",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.39,
+     "stops": [
+      "set",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/danish.toml",
+     "key": "STR_PRIMARY_PRODUCTION_1X.base",
+     "en": "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production",
+     "tr": "{BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produkt",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.21,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/danish.toml",
+     "key": "STR_PRIMARY_PRODUCTION_2X.base",
+     "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED",
+     "tr": "{BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau s",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.11,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/danish.toml",
+     "key": "STR_PORT_PRODUCTION_1X.base",
+     "en": "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production",
+     "tr": "{BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produkt",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.21,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/danish.toml",
+     "key": "STR_PORT_PRODUCTION_2X.base",
+     "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED",
+     "tr": "{BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau s",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.11,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/danish.toml",
+     "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+     "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to ",
+     "tr": "{ORANGE}E02: {YELLOW}Ukompatibel parameter: {ORANGE}NA City Set-parameter 2 skal være 0 fo",
+     "flag": "en_stopwords",
+     "ratio": 0.98,
+     "overlap": 0.5,
+     "stops": [
+      "set",
+      "for"
+     ]
+    }
+   ]
+  },
+  {
+   "lang": "dutch",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/dutch.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (parser voor het Markdown-tekstformaat)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "esperanto",
+   "counts": {
+    "en_stopwords": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/esperanto.toml",
+     "key": "DOC_TRANS_HISTORY_P1",
+     "en": "FIRS 3.x and 4.x shipped translations as .lng files managed with the #openttdcoop Web Tran",
+     "tr": "FIRS 3.x kaj 4.x liveris tradukojn kiel .lng dosierojn administratajn per la #openttdcoop ",
+     "flag": "en_stopwords",
+     "ratio": 1.0,
+     "overlap": 0.2,
+     "stops": [
+      "per",
+      "per"
+     ]
+    }
+   ]
+  },
+  {
+   "lang": "french",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/french.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (analyseur de format texte Markdown)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "gaelic",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/gaelic.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (mìneadair air format teacsa Markdown)",
+     "flag": "high_overlap",
+     "ratio": 0.97,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "german",
+   "counts": {
+    "high_overlap": 2
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/german.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (Parser für das Markdown-Textformat)",
+     "flag": "high_overlap",
+     "ratio": 0.97,
+     "overlap": 0.6,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/german.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "Der Spieltext befindet sich in src/grf/lang/*.toml (NewGRF-Zeichenketten) und src/gs/lang/",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.65,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "indonesian",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/indonesian.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (pengurai format teks Markdown)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "italian",
+   "counts": {
+    "en_stopwords": 16
+   },
+   "samples": [
+    {
+     "file": "src/grf/lang/italian.toml",
+     "key": "STR_GRF_NAME.base",
+     "en": "CIRS Community Industry Replacement Set",
+     "tr": "CIRS – Set di sostituzione per industrie comunitarie",
+     "flag": "en_stopwords",
+     "ratio": 0.98,
+     "overlap": 0,
+     "stops": [
+      "set",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/italian.toml",
+     "key": "STR_GRF_DESC.base",
+     "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIR",
+     "tr": "{ORANGE}CIRS – Set di sostituzione per industrie comunitarie{}{BLACK}Un fork di FIRS mante",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.25,
+     "stops": [
+      "set",
+      "per",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/italian.toml",
+     "key": "STR_PARAM_DESC_OBJECTS.base",
+     "en": "CIRS includes a set of landscaping objects, which players can place to make certain indust",
+     "tr": "CIRS include un set di oggetti di arredo paesaggistico che i giocatori possono posizionare",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.09,
+     "stops": [
+      "set",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/italian.toml",
+     "key": "STR_PRIMARY_PRODUCTION_2X.base",
+     "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED",
+     "tr": "{BLACK}Produzione attuale: {YELLOW}Elevata{}{}{BLACK}Per mantenere questo livello di produ",
+     "flag": "en_stopwords",
+     "ratio": 1.0,
+     "overlap": 0.05,
+     "stops": [
+      "per",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/italian.toml",
+     "key": "STR_PORT_PRODUCTION_2X.base",
+     "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED",
+     "tr": "{BLACK}Produzione attuale: {YELLOW}Elevata{}{}{BLACK}Per mantenere questo livello di produ",
+     "flag": "en_stopwords",
+     "ratio": 0.99,
+     "overlap": 0.05,
+     "stops": [
+      "per",
+      "per"
+     ]
+    },
+    {
+     "file": "src/grf/lang/italian.toml",
+     "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+     "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to ",
+     "tr": "{ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}NA City Set parameter 2 deve essere ",
+     "flag": "en_stopwords",
+     "ratio": 1.0,
+     "overlap": 0.38,
+     "stops": [
+      "set",
+      "per"
+     ]
+    }
+   ]
+  },
+  {
+   "lang": "japanese",
+   "counts": {
+    "latin_ratio": 4
+   },
+   "samples": [
+    {
+     "file": "src/grf/lang/japanese.toml",
+     "key": "STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS.base",
+     "en": "Gung-ho primary production level (%)",
+     "tr": "Gung-ho 一次生産レベル (%)",
+     "flag": "latin_ratio",
+     "ratio": 0.46,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/japanese.toml",
+     "key": "DOC_CR_DEP_CHAMELEON",
+     "en": "Chameleon (Template engine)",
+     "tr": "Chameleon（テンプレートエンジン）",
+     "flag": "latin_ratio",
+     "ratio": 0.43,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/japanese.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown（Markdownテキスト形式のパーサ）",
+     "flag": "latin_ratio",
+     "ratio": 0.57,
+     "overlap": 0.4,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/japanese.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "ゲームのテキストは src/grf/lang/*.toml（NewGRF文字列）と src/gs/lang/*.toml（GameScript文字列）にあります。ウェブサイトのテキ",
+     "flag": "latin_ratio",
+     "ratio": 0.57,
+     "overlap": 0.57,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "korean",
+   "counts": {
+    "latin_ratio": 5
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/korean.toml",
+     "key": "DOC_CR_DEP_CHAMELEON",
+     "en": "Chameleon (Template engine)",
+     "tr": "Chameleon (템플릿 엔진)",
+     "flag": "latin_ratio",
+     "ratio": 0.64,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/korean.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (Markdown 텍스트 형식 파서)",
+     "flag": "latin_ratio",
+     "ratio": 0.7,
+     "overlap": 0.4,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/korean.toml",
+     "key": "DOC_CR_DEP_GRAPHVIZ",
+     "en": "Graphviz (optional, used to generate cargo flow charts in html docs)",
+     "tr": "Graphviz (선택 사항, HTML 문서에서 화물 흐름 차트 생성에 사용)",
+     "flag": "latin_ratio",
+     "ratio": 0.39,
+     "overlap": 0.22,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/korean.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "게임 텍스트는 src/grf/lang/*.toml (NewGRF 문자열) 및 src/gs/lang/*.toml (GameScript 문자열)에 있습니다. 웹사이트",
+     "flag": "latin_ratio",
+     "ratio": 0.65,
+     "overlap": 0.57,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/korean.toml",
+     "key": "DOC_TRANS_HOW_P3",
+     "en": "Translations are accepted through GitHub pull requests. See README_zh.md and TRANSLATING.m",
+     "tr": "번역은 GitHub 풀 리퀘스트를 통해 받습니다. 자세한 내용은 저장소의 README_zh.md 및 TRANSLATING.md를 참조하세요.",
+     "flag": "latin_ratio",
+     "ratio": 0.42,
+     "overlap": 0.17,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "latin",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/latin.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (parser formati textualis Markdown)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "luxembourgish",
+   "counts": {
+    "en_stopwords": 2,
+    "high_overlap": 2
+   },
+   "samples": [
+    {
+     "file": "src/grf/lang/luxembourgish.toml",
+     "key": "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL.base",
+     "en": "{BLACK}For maximum production rate, supply {WHITE}all {BLACK}required cargos at least once",
+     "tr": "{BLACK}Fir déi maximal Produktiounsgeschwindegkeet, liwwert {WHITE}all {BLACK}nëtzeg Frach",
+     "flag": "en_stopwords",
+     "ratio": 0.97,
+     "overlap": 0.08,
+     "stops": [
+      "all",
+      "all"
+     ]
+    },
+    {
+     "file": "src/docs/lang/luxembourgish.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (Parser fir das Markdown-Textformat)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/luxembourgish.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "De Spilltext ass an src/grf/lang/*.toml (NewGRF Strings) a src/gs/lang/*.toml (GameScript ",
+     "flag": "high_overlap",
+     "ratio": 0.99,
+     "overlap": 0.7,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/luxembourgish.toml",
+     "key": "DOC_TRANS_HOW_P2",
+     "en": "Copy english.toml to a new file named after your language, translate every base value, and",
+     "tr": "Kopéiert english.toml an eng nei Fichier genannt nodeems déng Sprooch, iwwersetzt all Basi",
+     "flag": "en_stopwords",
+     "ratio": 0.97,
+     "overlap": 0.15,
+     "stops": [
+      "all",
+      "all"
+     ]
+    }
+   ]
+  },
+  {
+   "lang": "norwegian_bokmal",
+   "counts": {
+    "en_stopwords": 16
+   },
+   "samples": [
+    {
+     "file": "src/grf/lang/norwegian_bokmal.toml",
+     "key": "STR_PARAM_DESC_ECONOMIES.base",
+     "en": "Each economy provides a different combination of cargos and industries.{}{}For players who",
+     "tr": "Hver økonomi tilbyr en ulik kombinasjon av varer og industrier.{}{}For spillere som ønsker",
+     "flag": "en_stopwords",
+     "ratio": 0.97,
+     "overlap": 0.03,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/norwegian_bokmal.toml",
+     "key": "STR_PRIMARY_PRODUCTION_1X.base",
+     "en": "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production",
+     "tr": "{BLACK}Produserer nå: {YELLOW}Normal{}{}{BLACK}For {WHITE}Forbedret produksjon{BLACK} må d",
+     "flag": "en_stopwords",
+     "ratio": 0.97,
+     "overlap": 0.21,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/norwegian_bokmal.toml",
+     "key": "STR_PRIMARY_PRODUCTION_2X.base",
+     "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED",
+     "tr": "{BLACK}Produserer nå: {YELLOW}Forbedret{}{}{BLACK}For å opprettholde dette nivået, lever {",
+     "flag": "en_stopwords",
+     "ratio": 0.96,
+     "overlap": 0.11,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/norwegian_bokmal.toml",
+     "key": "STR_PORT_PRODUCTION_1X.base",
+     "en": "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production",
+     "tr": "{BLACK}Produserer nå: {YELLOW}Normal{}{}{BLACK}For {WHITE}Forbedret {BLACK}produksjon må d",
+     "flag": "en_stopwords",
+     "ratio": 0.97,
+     "overlap": 0.21,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/norwegian_bokmal.toml",
+     "key": "STR_PORT_PRODUCTION_2X.base",
+     "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED",
+     "tr": "{BLACK}Produserer nå: {YELLOW}Forbedret{}{}{BLACK}For å opprettholde dette nivået, lever {",
+     "flag": "en_stopwords",
+     "ratio": 0.96,
+     "overlap": 0.11,
+     "stops": [
+      "for",
+      "for"
+     ]
+    },
+    {
+     "file": "src/grf/lang/norwegian_bokmal.toml",
+     "key": "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base",
+     "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to ",
+     "tr": "{ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}NA City Set-parameter 2 må være 0 for",
+     "flag": "en_stopwords",
+     "ratio": 0.97,
+     "overlap": 0.5,
+     "stops": [
+      "set",
+      "for"
+     ]
+    }
+   ]
+  },
+  {
+   "lang": "polish",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/polish.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (parser formatu tekstowego Markdown)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "portuguese_BR",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/portuguese_BR.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "O texto do jogo está em src/grf/lang/*.toml (strings NewGRF) e src/gs/lang/*.toml (strings",
+     "flag": "high_overlap",
+     "ratio": 0.98,
+     "overlap": 0.65,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "romanian",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/romanian.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (analizor pentru formatul de text Markdown)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "russian",
+   "counts": {
+    "latin_ratio": 3
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/russian.toml",
+     "key": "DOC_CR_DEP_CHAMELEON",
+     "en": "Chameleon (Template engine)",
+     "tr": "Chameleon (шаблонизатор)",
+     "flag": "latin_ratio",
+     "ratio": 0.43,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/russian.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (парсер формата текста Markdown)",
+     "flag": "latin_ratio",
+     "ratio": 0.46,
+     "overlap": 0.4,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/russian.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "Текст игры находится в src/grf/lang/*.toml (строки NewGRF) и src/gs/lang/*.toml (строки Ga",
+     "flag": "latin_ratio",
+     "ratio": 0.53,
+     "overlap": 0.57,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "serbian",
+   "counts": {
+    "high_overlap": 1
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/serbian.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (parser formata teksta Markdown)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "simplified_chinese",
+   "counts": {
+    "latin_ratio": 7
+   },
+   "samples": [
+    {
+     "file": "src/grf/lang/simplified_chinese.toml",
+     "key": "STR_GRF_DESC.base",
+     "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIR",
+     "tr": "{ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen",
+     "flag": "latin_ratio",
+     "ratio": 0.38,
+     "overlap": 0.18,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/simplified_chinese.toml",
+     "key": "DOC_CR_DEP_CHAMELEON",
+     "en": "Chameleon (Template engine)",
+     "tr": "Chameleon（模板引擎）",
+     "flag": "latin_ratio",
+     "ratio": 0.6,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/simplified_chinese.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown（Markdown 文本格式解析器）",
+     "flag": "latin_ratio",
+     "ratio": 0.64,
+     "overlap": 0.4,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/simplified_chinese.toml",
+     "key": "DOC_CR_DEP_GRAPHVIZ",
+     "en": "Graphviz (optional, used to generate cargo flow charts in html docs)",
+     "tr": "Graphviz（可选，用于在 HTML 文档中生成货物流动图）",
+     "flag": "latin_ratio",
+     "ratio": 0.4,
+     "overlap": 0.22,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/simplified_chinese.toml",
+     "key": "DOC_CR_TOWN_GROWTH_NOTE",
+     "en": "** Town growth effects: apart from TOWNGROWTH_PASSENGERS and TOWNGROWTH_MAIL, CIRS does no",
+     "tr": "** 城镇成长效果：除 TOWNGROWTH_PASSENGERS 与 TOWNGROWTH_MAIL 外，CIRS 不设置任何城镇成长效果；这正是预期行为，用于取消沙漠及雪线以上",
+     "flag": "latin_ratio",
+     "ratio": 0.39,
+     "overlap": 0.12,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/simplified_chinese.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "游戏文本位于 src/grf/lang/*.toml（NewGRF 字符串）和 src/gs/lang/*.toml（GameScript 字符串）。网站文本位于 src/docs",
+     "flag": "latin_ratio",
+     "ratio": 0.69,
+     "overlap": 0.57,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "slovak",
+   "counts": {
+    "high_overlap": 2
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/slovak.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (parser formátu Markdown)",
+     "flag": "high_overlap",
+     "ratio": 0.97,
+     "overlap": 0.6,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/slovak.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "Text hry sa nachádza v src/grf/lang/*.toml (reťazce NewGRF) a src/gs/lang/*.toml (reťazce ",
+     "flag": "high_overlap",
+     "ratio": 0.96,
+     "overlap": 0.65,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "tamil",
+   "counts": {
+    "latin_ratio": 2
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/tamil.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (Markdown உரை வடிவப் பகுப்பாய்வி)",
+     "flag": "latin_ratio",
+     "ratio": 0.44,
+     "overlap": 0.4,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/tamil.toml",
+     "key": "DOC_TRANS_HOW_P1",
+     "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript",
+     "tr": "விளையாட்டு உரை src/grf/lang/*.toml (NewGRF சரங்கள்) மற்றும் src/gs/lang/*.toml (GameScript",
+     "flag": "latin_ratio",
+     "ratio": 0.41,
+     "overlap": 0.57,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "traditional_chinese",
+   "counts": {
+    "latin_ratio": 9
+   },
+   "samples": [
+    {
+     "file": "src/grf/lang/traditional_chinese.toml",
+     "key": "STR_GRF_DESC.base",
+     "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIR",
+     "tr": "{ORANGE}CIRS 社區產業替換套組{}{BLACK}一個由社區維護的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen",
+     "flag": "latin_ratio",
+     "ratio": 0.39,
+     "overlap": 0.18,
+     "stops": []
+    },
+    {
+     "file": "src/grf/lang/traditional_chinese.toml",
+     "key": "STR_IND_ROADSTONE_PLANT.base",
+     "en": "Roadstone Plant",
+     "tr": "Roadstone 工廠",
+     "flag": "latin_ratio",
+     "ratio": 0.82,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/grf/lang/traditional_chinese.toml",
+     "key": "STR_STATION_HERDING_COOP.base",
+     "en": "Reinder Pens",
+     "tr": "Reinder 圍欄",
+     "flag": "latin_ratio",
+     "ratio": 0.78,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/traditional_chinese.toml",
+     "key": "DOC_CR_DEP_CHAMELEON",
+     "en": "Chameleon (Template engine)",
+     "tr": "Chameleon（模板引擎）",
+     "flag": "latin_ratio",
+     "ratio": 0.6,
+     "overlap": 0,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/traditional_chinese.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown（Markdown 文字格式解析器）",
+     "flag": "latin_ratio",
+     "ratio": 0.64,
+     "overlap": 0.4,
+     "stops": []
+    },
+    {
+     "file": "src/docs/lang/traditional_chinese.toml",
+     "key": "DOC_CR_DEP_GRAPHVIZ",
+     "en": "Graphviz (optional, used to generate cargo flow charts in html docs)",
+     "tr": "Graphviz（選用，用於在 HTML 文件中生成貨物流動圖）",
+     "flag": "latin_ratio",
+     "ratio": 0.4,
+     "overlap": 0.22,
+     "stops": []
+    }
+   ]
+  },
+  {
+   "lang": "welsh",
+   "counts": {
+    "high_overlap": 3
+   },
+   "samples": [
+    {
+     "file": "src/docs/lang/welsh.toml",
+     "key": "DOC_CR_DEP_MARKDOWN",
+     "en": "Markdown (Markdown text format parser)",
+     "tr": "Markdown (dadansoddwr format testun Markdown)",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.6,
+     "stops": []
+    },
+    {
+     "file": "src/docs/extra_strings_welsh.toml",
+     "key": "CARGO_INFO_CARBON_STEEL.base",
+     "en": "Billets, blooms, ingots and slabs.",
+     "tr": "Billets, blooms, ingots a slabs.",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.8,
+     "stops": []
+    },
+    {
+     "file": "src/docs/extra_strings_welsh.toml",
+     "key": "CARGO_INFO_CAST_IRON.base",
+     "en": "Billets, blooms, ingots and slabs.",
+     "tr": "Billets, blooms, ingots a slabs.",
+     "flag": "high_overlap",
+     "ratio": 1.0,
+     "overlap": 0.8,
+     "stops": []
+    }
+   ]
+  }
+ ]
+}

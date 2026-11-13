@@ -1,0 +1,637 @@
+{"i":0,"tr":" {BLACK}(isteğe bağlı)"}
+{"i":1,"tr":" {BLACK}(dahil)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Asit"}
+{"i":4,"tr":"Agregalar"}
+{"i":5,"tr":"Alümina"}
+{"i":6,"tr":"Alüminyum"}
+{"i":7,"tr":"Alüminyum Tesisi"}
+{"i":8,"tr":"Amonyak ve Nitrik Ürünler"}
+{"i":9,"tr":"Amonyak Kompleksi"}
+{"i":10,"tr":"Anhidrit Madeni"}
+{"i":11,"tr":"Anhidrit İşlem Tesisi"}
+{"i":12,"tr":"Anhidrit Kaya"}
+{"i":13,"tr":"Elmalar"}
+{"i":14,"tr":"Alet Fabrikası"}
+{"i":15,"tr":"Ekilebilir Çiftlik"}
+{"i":16,"tr":"Arktik Temel"}
+{"i":17,"tr":"Sonsuza dek, vb."}
+{"i":18,"tr":"Montaj Tesisi"}
+{"i":19,"tr":"Otomotiv"}
+{"i":20,"tr":"Tüm ekonomilerde mevcuttur. Kasaba binaları ve ayrıca birkaç sanayi tarafından üretilir ve kabul edilir."}
+{"i":21,"tr":"Tüm ekonomilerde mevcuttur. Kasaba binaları tarafından üretilir ve kabul edilir."}
+{"i":22,"tr":"Fırın"}
+{"i":23,"tr":"Balyalar."}
+{"i":24,"tr":"Bank Topu"}
+{"i":25,"tr":"Bar, Mangal ve Odalar"}
+{"i":26,"tr":"Ahırlar"}
+{"i":27,"tr":"Varil ve Fıçı"}
+{"i":28,"tr":"Baryum ve Florit"}
+{"i":29,"tr":"Taban"}
+{"i":30,"tr":"Temel Oksijen Fırını"}
+{"i":31,"tr":"Üfleme fırınından elde edilen temel demir; erimiş sıvı veya katı külçe halinde."}
+{"i":32,"tr":"Parti Kimya Tesisi"}
+{"i":33,"tr":"Billetler ve Bloomlar"}
+{"i":34,"tr":"Billetler, bloomlar, külçeler ve levhalar."}
+{"i":35,"tr":"Turba bataklıklarından elde edilen, yakıt ve bahçecilik için çıkarılan biyokütle."}
+{"i":36,"tr":"Bütil"}
+{"i":37,"tr":"Üst Fırın"}
+{"i":38,"tr":"Gövde Tesisi"}
+{"i":39,"tr":"Mezarlık"}
+{"i":40,"tr":"Şişe ve Kutu Fabrikası"}
+{"i":41,"tr":"Kutular, şişeler, kavanozlar, teneke kutular vb."}
+{"i":42,"tr":"Tuzlu Su Tesisi"}
+{"i":43,"tr":"İnşaat Malzemeleri Deposu"}
+{"i":44,"tr":"Kok üretiminin bir yan ürünü; koyu ve yavaş akan bir sıvıdır."}
+{"i":45,"tr":"FIRS"}
+{"i":46,"tr":"FIRS Topluluk Sanayi Değiştirme Seti"}
+{"i":47,"tr":"FIRS, oyuncuların belirli sanayileri daha büyük göstermek için yerleştirebileceği bir dizi peyzaj nesnesi içerir. Peyzaj nesnelerinin oyun mekanikleri üzerinde hiçbir etkisi yoktur. Peyzaj nesneleri açılıp kapatılabilir."}
+{"i":48,"tr":"CIRS peyzaj nesneleri"}
+{"i":49,"tr":"Araç üretimi için kabinler, kaputlar, kapılar ve benzeri gövde yapıları."}
+{"i":50,"tr":"Kalsiyum oksit, yanmış kireç olarak da bilinir. Kuru tutulması gereken ince bir toz olarak taşınır."}
+{"i":51,"tr":"Karbon Siyahı"}
+{"i":52,"tr":"Karbon Siyahı Tesisi"}
+{"i":53,"tr":"Kasava"}
+{"i":54,"tr":"Dökme Demir"}
+{"i":55,"tr":"Blok, kiriş ve panel gibi döküm ürünler. Karıştırıcı kamyonlarda hazır beton olarak da işlenebilir."}
+{"i":56,"tr":"Selüloz Film İşletmeleri"}
+{"i":57,"tr":"Çimento"}
+{"i":58,"tr":"Çimento, cam, metal bileşenler, ahşap ürünler, borular ve benzeri inşaat malzemeleri."}
+{"i":59,"tr":"Kimya Kompleksi"}
+{"i":60,"tr":"Kimyasal Aramaddeler"}
+{"i":61,"tr":"Endüstriyel ve ev kullanımı için kimyasallar, sabunlar, ovma maddeleri vb. Esas olarak sıvıdır, ancak toz veya katı (örneğin kum püskürtme kumu) da olabilir."}
+{"i":62,"tr":"Çin Kil"}
+{"i":63,"tr":"Kontrplak Fabrikası"}
+{"i":64,"tr":"Klor-alkali Tesisi"}
+{"i":65,"tr":"Klor"}
+{"i":66,"tr":"Elma Şırası Değirmeni"}
+{"i":67,"tr":"Madencilik, inşaat vb. için sivil patlayıcılar."}
+{"i":68,"tr":"Temizlik Maddeleri"}
+{"i":69,"tr":"Kömür"}
+{"i":70,"tr":"Kömür Madeni"}
+{"i":71,"tr":"Kömür Katranı"}
+{"i":72,"tr":"Kok fırınında ısıtılmış kömür; neredeyse saf karbon içeren bir yakıt üretir."}
+{"i":73,"tr":"İnşaat için kaba kum veya cam yapımı ve metal dökümü için ince silika kumu. Dökme veya toz halinde taşınır."}
+{"i":74,"tr":"Kahve Çiftliği"}
+{"i":75,"tr":"Bobin Hattı"}
+{"i":76,"tr":"Kok"}
+{"i":77,"tr":"Kok Fırını"}
+{"i":78,"tr":"Kömür Madeni"}
+{"i":79,"tr":"Ticari Fırın"}
+{"i":80,"tr":"Sıradan fasulyeler, bakla, soya fasulyesi ve benzeri yenilebilir baklagiller."}
+{"i":81,"tr":"Demir, çelik ve ağır imalat sanayilerini içeren karmaşık bir ekonomi."}
+{"i":82,"tr":"Birçok sanayi ve kargo türünü içeren karmaşık bir ekonomi."}
+{"i":83,"tr":"Birçok sanayi ve kargo türünü içeren karmaşık bir ekonomi. Orta-batı Afrika'dan esinlenmiştir. En iyi Alt-İklim ile kullanılır."}
+{"i":84,"tr":"Bileşenler"}
+{"i":85,"tr":"Şasi ve süspansiyon bileşenleri, elektrikli parçalar, dış kaplama ve iç parçalar gibi araç üretimi için bileşenler."}
+{"i":86,"tr":"Beton Santrali"}
+{"i":87,"tr":"Beton Ürünleri"}
+{"i":88,"tr":"İnşaat Sahası"}
+{"i":89,"tr":"Hazır Gıda Fabrikası"}
+{"i":90,"tr":"Bakır Madeni"}
+{"i":91,"tr":"Bakır Madeni"}
+{"i":92,"tr":"Bakır Cevheri"}
+{"i":93,"tr":"Tekstil ve kompozit malzemeler üretmek için pamuk, keten, jüt ve benzeri malzemeler."}
+{"i":94,"tr":"Paletli Makine Atölyesi"}
+{"i":95,"tr":"Kreozotlama"}
+{"i":96,"tr":"Dökme sıvı olarak taşınan ham, işlenmemiş petrol."}
+{"i":97,"tr":"Kriyo Tesis"}
+{"i":98,"tr":"Süt Ürünleri"}
+{"i":99,"tr":"Süt Çiftliği"}
+{"i":100,"tr":"Süt Yolu"}
+{"i":101,"tr":"Elmas Madeni"}
+{"i":102,"tr":"Elmaslar"}
+{"i":103,"tr":"Tarama Alanı"}
+{"i":104,"tr":"Variller, vinçler, zincir halkaları, kancalar, makaralar, hidrolik iticiler ve vinçler, çekiciler, asansörler vb. için diğer parçalar."}
+{"i":105,"tr":"Toz veya klinker formunda kuru çimento."}
+{"i":106,"tr":"Her ekonomi, farklı bir kargo ve sanayi kombinasyonu sunar.{}{}Basit bir oyun deneyimi isteyen oyuncular için, {SILVER}Temel {BLACK}ekonomiler diğer CIRS ekonomilerine göre daha az sanayi ve kargo içerir.{}{}CIRS web sitesi her ekonomi hakkında ayrıntılı bilgi sunar."}
+{"i":107,"tr":"Ekonomi"}
+{"i":108,"tr":"Yenilebilir Yağ"}
+{"i":109,"tr":"Maniok ve yuca olarak da bilinen yenilebilir kök bitkisi."}
+{"i":110,"tr":"Elastomer Ürünleri Fabrikası"}
+{"i":111,"tr":"Elektrik Ark Fırını"}
+{"i":112,"tr":"Elektrik Parçaları"}
+{"i":113,"tr":"Elektrik ve elektronik bileşenler, motorlar, kontrol cihazları, şalt ekipmanları, aydınlatma vb."}
+{"i":114,"tr":"Elektrikli Ürünler"}
+{"i":115,"tr":"Motor Fabrikası"}
+{"i":116,"tr":"Mühendislik Malzemeleri"}
+{"i":117,"tr":"Mühendislik İşleri"}
+{"i":118,"tr":"Motorlar ve Aktarma Organları"}
+{"i":119,"tr":"Geliştirilmiş birincil üretim seviyesi (%)"}
+{"i":120,"tr":"Mülk"}
+{"i":121,"tr":"Patlayıcılar"}
+{"i":122,"tr":"Patlayıcı Fabrikası"}
+{"i":123,"tr":"Fabrika"}
+{"i":124,"tr":"Çiftlik"}
+{"i":125,"tr":"Çiftlik Malzemeleri"}
+{"i":126,"tr":"Yeterli koli teslim edilirse, çiftlikler, madenler ve benzeri endüstriler önce {SILVER}Geliştirilmiş{BLACK}, ardından da {SILVER}Gung-ho{BLACK} olduğunda üretimlerini artıracaktır.  {}{}Varsayılan değerler iyidir, ancak gerekirse bunları burada değiştirebilirsiniz.  {}{}Liman tipi endüstriler için kargo gereksinimleri, burada ayarlanan değerlerin 8 katı olacaktır."}
+{"i":127,"tr":"Fermentasyon Tesisi"}
+{"i":128,"tr":"Ferroalejler"}
+{"i":129,"tr":"Gübre"}
+{"i":130,"tr":"Gübre ve Asit Tesisi"}
+{"i":131,"tr":"Tarla"}
+{"i":132,"tr":"Lastikleri güçlendirmek için kullanılan ince tel. Bobin halinde taşınır."}
+{"i":133,"tr":"Balık ve Deniz Ürünleri"}
+{"i":134,"tr":"Balık Çiftliği"}
+{"i":135,"tr":"Balık Pazarı"}
+{"i":136,"tr":"Balıkçılık Alanları"}
+{"i":137,"tr":"Balıkçı Limanı"}
+{"i":138,"tr":"Lastik veya benzeri malzemelerden yapılmış esnek sızdırmazlık elemanları, contalar, hortumlar, kayışlar, matlar, burçlar vb."}
+{"i":139,"tr":"Un ve Nişasta"}
+{"i":140,"tr":"Akış Hattı"}
+{"i":141,"tr":"Gıda"}
+{"i":142,"tr":"Gıda ve İçecekler"}
+{"i":143,"tr":"Gıda Katkı Maddeleri"}
+{"i":144,"tr":"Gıda Kurumu"}
+{"i":145,"tr":"Gıda İşleme Tesisi"}
+{"i":146,"tr":"Taşıma ve depolama sırasında dondurulmuş halde tutulan gıdalar."}
+{"i":147,"tr":"Ev ve inşaat kullanımı için. Metal ve diğer malzemelerden yapılmış aletler, kaplar, donanımlar ve fittings."}
+{"i":148,"tr":"Orman"}
+{"i":149,"tr":"Dövme ve Döküm Parçalar"}
+{"i":150,"tr":"Dondurucular"}
+{"i":151,"tr":"Muz, narenciye, üzüm, meyveler, ananas, kuru üzüm ve benzerleri gibi taze ve kuru meyveler."}
+{"i":152,"tr":"Dondurulmuş Tatlı Fabrikası"}
+{"i":153,"tr":"Dondurulmuş Gıda"}
+{"i":154,"tr":"Dondurulmuş Gıda Tesisi"}
+{"i":155,"tr":"Meyve Plantasyonu"}
+{"i":156,"tr":"Fırın"}
+{"i":157,"tr":"GPL(v2)"}
+{"i":158,"tr":"GRFID"}
+{"i":159,"tr":"Genel Mağaza"}
+{"i":160,"tr":"İnşaat malzemeleri üretimi ve diğer endüstriyel kullanımlar için genel killer."}
+{"i":161,"tr":"Çelik, alüminyum veya diğer yaygın metaller gibi genel metaller."}
+{"i":162,"tr":"Sıvı, gaz, kapalı dökme, toz veya parça mal olarak işlenen genel organik ve inorganik kimyasallar."}
+{"i":163,"tr":"Kirişler"}
+{"i":164,"tr":"Cam Ürünleri"}
+{"i":165,"tr":"Cam Fabrikası"}
+{"i":166,"tr":"Malzemeler"}
+{"i":167,"tr":"Tahıl"}
+{"i":168,"tr":"Tahıl Değirmeni"}
+{"i":169,"tr":"İnşaatlarda kullanılan çakıl, kum, kırılmış taş ve benzeri malzemeler."}
+{"i":170,"tr":"Gung-ho birincil üretim seviyesi (%)"}
+{"i":171,"tr":"Donanım ve Bitişler"}
+{"i":172,"tr":"Hayvan Yetiştiriciliği Kooperatifi"}
+{"i":173,"tr":"Elektrik ekipmanları, motorlar, transformatörler, kontrol cihazları, hidrolik, pnömatik, pompalar, valfler ve güç aktarma organı ekipmanları gibi yüksek değerli mühendislik bileşenleri."}
+{"i":174,"tr":"At Pazarı"}
+{"i":175,"tr":"Sıcak Bir Ülkede"}
+{"i":176,"tr":"Endüstriyel Karbonlar"}
+{"i":177,"tr":"Endüstriyel Kimya Tesisi"}
+{"i":178,"tr":"Endüstriyel Gazlar"}
+{"i":179,"tr":"Sanayi Bölgesi"}
+{"i":180,"tr":"Esas olarak gübre ve kimyasal üretiminde kullanılan, dökme sıvı olarak taşınan endüstriyel asit."}
+{"i":181,"tr":"Hidroklorik, nitrik ve sülfürik asit gibi endüstriyel asitler."}
+{"i":182,"tr":"Kimyasal hammadde ve yakıt olarak kullanılan, dökme sıvı halinde taşınan endüstriyel alkol."}
+{"i":183,"tr":"Genellikle sıvılaştırılmış sıkıştırılmış gaz olarak kriyojenik yöntemlerle taşınan endüstriyel kimyasal."}
+{"i":184,"tr":"Endüstriyel kimyasal. Lye veya Kaustik Soda olarak da bilinir. Genellikle sıvı olarak taşınır."}
+{"i":185,"tr":"Endüstriyel kimyasal. Beyaz toz formunda."}
+{"i":186,"tr":"Amonyak, nitrik asit ve üre gibi amonyaktan türetilen endüstriyel kimyasallar. Sıvı, kriyojenik olarak sıvılaştırılmış gaz veya kuru dökme malzeme olarak taşınır."}
+{"i":187,"tr":"İmalat ve işlemede kullanılan, sıvı, toz, gaz veya paketlenmiş mal olarak taşınan endüstriyel kimyasallar."}
+{"i":188,"tr":"Endüstriyel gaz. Sıvılaştırılmış sıkıştırılmış gaz olarak kriyojenik yöntemlerle taşınır."}
+{"i":189,"tr":"Kimyasal işleme, metal işleme ve kaynakta kullanılan, tüp veya basınçlı tankerlerle taşınan endüstriyel gazlar."}
+{"i":190,"tr":"Esas olarak kağıt ve plastik üretiminde kullanılan, Kaolin olarak da bilinen endüstriyel mineral."}
+{"i":191,"tr":"Kimyasal işlemede kullanılan endüstriyel mineraller. Barit, baryum kimyasallarında ve dolgu maddelerinde; florit ise flor kimyasında ve metalurjik akı malzemelerinde kullanılır."}
+{"i":192,"tr":"Kütleler."}
+{"i":193,"tr":"Gıda işlemede kullanılan koruyucular, aromalar, renklendiriciler ve işleme yardımcıları gibi bileşenler."}
+{"i":194,"tr":"Lastiklerde, plastiklerde ve pigmentlerde kullanılan yoğun siyah karbon tozu. Toz olarak işlenir."}
+{"i":195,"tr":"Daha fazla endüstriyel işleme için hammadde olarak kullanılan ara kimyasal ürünler."}
+{"i":196,"tr":"Arıtma, fermantasyon ve endüstriyel kullanımlar için ara şeker ürünleri. Yapışkan granüller kapalı dökme malzeme olarak; koyu şurup ise sıvı olarak işlenir; her ikisi de paketlenabilir."}
+{"i":197,"tr":"İçten yanmalı motorlar ve şanzıman ile tahrik aksları gibi ilgili güç aktarma organı parçaları."}
+{"i":198,"tr":"Demir Cevheri"}
+{"i":199,"tr":"Demir Cevheri Madeni"}
+{"i":200,"tr":"Demir Taşı"}
+{"i":201,"tr":"Fırınlar"}
+{"i":202,"tr":"Kimberlit Yatakları"}
+{"i":203,"tr":"ARAZİ"}
+{"i":204,"tr":"İniş Platformu"}
+{"i":205,"tr":"Hafif Hidrokarbonlar"}
+{"i":206,"tr":"Kimyasal hammadde olarak kullanılan, dökme sıvı halinde taşınan hafif petrol fraksiyonları."}
+{"i":207,"tr":"Kireç Fırını"}
+{"i":208,"tr":"Kireçtaşı"}
+{"i":209,"tr":"Kireçtaşı Madeni"}
+{"i":210,"tr":"Kireçtaşı Madenleri"}
+{"i":211,"tr":"Hayvan Yetiştiriciliği"}
+{"i":212,"tr":"Kütük İnişi"}
+{"i":213,"tr":"Kütükler"}
+{"i":214,"tr":"Ormandan gelen kütükler."}
+{"i":215,"tr":"Yuvarlak, dikdörtgen ve diğer kesitlere sahip uzun, içi boş tüp. Yapıların ve makinelerin imalatında kullanılır."}
+{"i":216,"tr":"Boru hatlarında, binalarda, sanayide vb. sıvı taşımacılığı için uzun, yuvarlak çelik borular."}
+{"i":217,"tr":"Çiftlikler, ormanlar ve benzeri endüstriler için makineler, yakıt, parçalar, gübre ve diğer malzemeler."}
+{"i":218,"tr":"Madenler ve benzeri endüstriler için makineler, yakıt, parçalar, ahşap ürünler, borular, patlayıcılar ve diğer malzemeler."}
+{"i":219,"tr":"Limanlar, iskeleler ve benzeri endüstriler için makineler, parçalar, yakıt, inşaat malzemeleri ve diğer malzemeler."}
+{"i":220,"tr":"Posta"}
+{"i":221,"tr":"Mısır"}
+{"i":222,"tr":"Manganez"}
+{"i":223,"tr":"Manganez Madeni"}
+{"i":224,"tr":"Manganez Madenleri"}
+{"i":225,"tr":"Esas olarak çelik üretiminde kullanılan manganez cevheri."}
+{"i":226,"tr":"Malikane"}
+{"i":227,"tr":"Deniz endüstrilerinin maksimum kıyı mesafesi (karo cinsinden)"}
+{"i":228,"tr":"Balıkçılık alanlarının, petrol platformlarının ve tarama sahalarının kıyıdan maksimum mesafesi (kare cinsinden)."}
+{"i":229,"tr":"Çayırlar"}
+{"i":230,"tr":"Et"}
+{"i":231,"tr":"Tüccar Barı"}
+{"i":232,"tr":"Metal Atölyesi"}
+{"i":233,"tr":"Daha büyük nesneler için monte edilecek metal parçalar."}
+{"i":234,"tr":"Metal Eşyalar"}
+{"i":235,"tr":"Metanol"}
+{"i":236,"tr":"Mild Mild West"}
+{"i":237,"tr":"Değirmen"}
+{"i":238,"tr":"Değirmenler"}
+{"i":239,"tr":"Mineral Dolgu Maddeleri"}
+{"i":240,"tr":"Mineral Dolgu Maddeleri Tesisi"}
+{"i":241,"tr":"Mineraller"}
+{"i":242,"tr":"Çoğunlukla et üretimi için inekler, domuzlar ve koyunlar. Diğer hayvanlar da yenebilir."}
+{"i":244,"tr":"Çoğunlukla doğal lateks."}
+{"i":245,"tr":"Çoğunlukla kamyonlar. Veya arabalar. Veya hafif kamyonlar. Belki traktörler."}
+{"i":246,"tr":"Kalıplama"}
+{"i":247,"tr":"Azot"}
+{"i":248,"tr":"Sınır yok"}
+{"i":249,"tr":"Bakır, nikel, çinko ve kurşun gibi demir dışı metaller."}
+{"i":250,"tr":"Yemişler"}
+{"i":251,"tr":"Petrol"}
+{"i":252,"tr":"Petrol ve Kimya Terminali"}
+{"i":253,"tr":"Petrol Rafinerisi"}
+{"i":254,"tr":"Petrol Platformu"}
+{"i":255,"tr":"Petrol Kuyuları"}
+{"i":256,"tr":"Pişirme ve tüketim için petrol."}
+{"i":257,"tr":"Meyve Bahçesi ve Domuz Çiftliği"}
+{"i":258,"tr":"Meyve Bahçeleri"}
+{"i":259,"tr":"Oksijen"}
+{"i":260,"tr":"Ambalajlama"}
+{"i":261,"tr":"Boya ve Kaplamalar"}
+{"i":262,"tr":"Kağıt"}
+{"i":263,"tr":"Kağıt Fabrikası"}
+{"i":264,"tr":"Kağıt Ürünleri Fabrikası"}
+{"i":265,"tr":"Yolcular"}
+{"i":266,"tr":"Turba"}
+{"i":267,"tr":"Turba Alanları"}
+{"i":268,"tr":"Petrol, dizel ve benzeri yakıtlar."}
+{"i":269,"tr":"Fosforik Asit"}
+{"i":270,"tr":"Pig Demir"}
+{"i":271,"tr":"Boru Atölyesi"}
+{"i":272,"tr":"Ocak"}
+{"i":273,"tr":"Tesis"}
+{"i":274,"tr":"Tesis ve Makineler"}
+{"i":275,"tr":"Plantasyon"}
+{"i":276,"tr":"Plastik Kalıplama Fabrikası"}
+{"i":277,"tr":"Plastikler ve Rezinler"}
+{"i":278,"tr":"Plaka Değirmeni"}
+{"i":279,"tr":"Liman"}
+{"i":280,"tr":"Potas"}
+{"i":281,"tr":"Potas Madeni"}
+{"i":282,"tr":"Un ve nişasta gibi torbalı veya kapalı dökme halde taşınan tozlu tahıl ürünleri."}
+{"i":283,"tr":"Enerji Santrali"}
+{"i":284,"tr":"Güç Sistemleri Fabrikası"}
+{"i":285,"tr":"Binalarda, sanayide ve çiftliklerde kullanılan motorlu ekipmanlar ve mekanik sistemler. Tam birimler veya ana alt montajlar olarak taşınır."}
+{"i":286,"tr":"Güç Aktarma Sistemi"}
+{"i":287,"tr":"Ön Döküm"}
+{"i":288,"tr":"Hassas Bileşenler"}
+{"i":289,"tr":"Hassas Parçalar Tesisi"}
+{"i":290,"tr":"Preslenmiş Parçalar"}
+{"i":291,"tr":"Süreç Kimyasalları"}
+{"i":292,"tr":"Süreç Kimyasalları Tesisi"}
+{"i":293,"tr":"Esas olarak kağıt üretimi için kullanılan, balya veya dökme hamur şeklinde taşınan işlenmiş odun lifi."}
+{"i":294,"tr":"Fırınlama tesisi veya benzeri sanayilerden elde edilen işlenmiş ahşap ürünleri."}
+{"i":295,"tr":"Üretim Paketleyicisi"}
+{"i":296,"tr":"Tedarik gereksinimleri karşılandığında çiftliklerde, madenlerde ve benzeri sanayilerdeki üretim ({SILVER}Normal {BLACK}üretim seviyesinin yüzdesi olarak)."}
+{"i":297,"tr":"Pompalar"}
+{"i":298,"tr":"Pompalar ve Vanalar"}
+{"i":299,"tr":"Pirit Yatakları"}
+{"i":300,"tr":"Pirit Eritme Tesisleri"}
+{"i":301,"tr":"Python 3.11+"}
+{"i":302,"tr":"Söndürülmemiş Kireç"}
+{"i":303,"tr":"Çiftlik"}
+{"i":304,"tr":"Ham Şeker ve Melas"}
+{"i":305,"tr":"Ham veya kavrulmuş kahve çekirdekleri."}
+{"i":306,"tr":"İleri işleme için ham plastik. Genellikle reçine boncukları şeklinde taşınır."}
+{"i":307,"tr":"Armatür Çeliği"}
+{"i":308,"tr":"Rulo, külçe, levha vb. şekillerde rafine alüminyum metali."}
+{"i":309,"tr":"Rulo, külçe vb. şekillerde rafine bakır metali."}
+{"i":310,"tr":"Benzin, dizel, gazyağı, LPG, fuel oil ve bunker yakıtı gibi rafine petrol ürünleri; dökme sıvı veya sıvılaştırılmış gaz olarak taşınır."}
+{"i":311,"tr":"Rafineri"}
+{"i":312,"tr":"Reinder Pens"}
+{"i":313,"tr":"Roadstone Fabrikası"}
+{"i":314,"tr":"Çubuk Değirmeni"}
+{"i":315,"tr":"Haddelenmiş çelik levhalar ve profiller - I kirişler, H kirişler, kanallar vb. Uzun, düz ürünler olarak taşınır."}
+{"i":316,"tr":"Çelik tel çubuğunun daha küçük bir çapa çekilmesiyle ve ardından demet halindeki halatlara bükülmesiyle üretilen halatlar ve kablolar."}
+{"i":317,"tr":"Daha fazla işleme gerektiren ham çelik dökümleri. Külçeler küçük veya çok büyük olabilir. Tipik külçe profilleri dikdörtgen veya yuvarlaktır."}
+{"i":318,"tr":"Kauçuk"}
+{"i":319,"tr":"Kauçuk Şirketi"}
+{"i":320,"tr":"Kauçuk Plantasyonu"}
+{"i":321,"tr":"DENİZ"}
+{"i":322,"tr":"Tuz"}
+{"i":323,"tr":"Tuz İşletmesi"}
+{"i":324,"tr":"Salitre Atölyesi"}
+{"i":325,"tr":"Kumbankı"}
+{"i":326,"tr":"Testerehane"}
+{"i":327,"tr":"Deniz Ürünleri"}
+{"i":328,"tr":"Sızdırmazlık Elemanı ve Hortum"}
+{"i":329,"tr":"Sızdırmazlık Elemanları, Hortumlar ve Kayışlar"}
+{"i":330,"tr":"Kesim ve Çubuk Frezeleme"}
+{"i":331,"tr":"Yarı mamul çelik dökümler. Kesitleri her zaman düz ve dikdörtgen."}
+{"i":332,"tr":"Yarı mamul çelik dökümler. Kesitleri dikdörtgen, kare veya yuvarlak."}
+{"i":333,"tr":"Sharp Sokağı"}
+{"i":334,"tr":"Sığlıklar"}
+{"i":335,"tr":"Kıyı Şeridi"}
+{"i":336,"tr":"Silo"}
+{"i":337,"tr":"Basit ekonomi. Arjantin, Peru ve Şili'den esinlenmiştir. En iyi Alt-Çöl ikliminde kullanılır."}
+{"i":338,"tr":"Basit ekonomi. Finlandiya, Kuzey Kanada ve Kuzey Sibirya'dan esinlenmiştir. En iyi Alt-Arktik ikliminde kullanılır."}
+{"i":339,"tr":"Basit ekonomi. Birleşik Krallık'ın güneybatısından esinlenmiştir. En iyi Ilıman ikliminde kullanılır."}
+{"i":340,"tr":"Blok Sahası"}
+{"i":341,"tr":"Cüruf"}
+{"i":342,"tr":"Cüruf Öğütme Tesisi"}
+{"i":343,"tr":"Eritme Tesisleri"}
+{"i":344,"tr":"Soda Külü"}
+{"i":345,"tr":"Soda Külü Madeni"}
+{"i":346,"tr":"Sodyum Hidroksit"}
+{"i":347,"tr":"Isırgan Fırını"}
+{"i":348,"tr":"Çorbalar"}
+{"i":349,"tr":"Metalurji ve kimya süreçlerinde kullanılan kalsine petrol kok, zift, yüksek değerli katranlar ve karbon siyahı gibi özel karbon malzemeleri."}
+{"i":350,"tr":"Çelik"}
+{"i":351,"tr":"Çelik Dövme ve Dökümhane"}
+{"i":352,"tr":"Çelik Kütükler"}
+{"i":353,"tr":"Çelik Fabrikası"}
+{"i":354,"tr":"Çelik Boru"}
+{"i":355,"tr":"Çelik Levha"}
+{"i":356,"tr":"Çelik Sac ve Şerit"}
+{"i":357,"tr":"Çelik Kütük Parçası"}
+{"i":358,"tr":"Çelik Tüp"}
+{"i":359,"tr":"Çelik Tel Çubuğu"}
+{"i":360,"tr":"Dairesel, kare, düz ve diğer profiller halinde çelik çubuklar. Uzun, düz ürünler olarak taşınır."}
+{"i":361,"tr":"Çelik tel ve ince çubuklar. Esas olarak bobinler halinde taşınır."}
+{"i":362,"tr":"Çelik ustaları"}
+{"i":363,"tr":"Çelik kasabası"}
+{"i":364,"tr":"Depolama alanı"}
+{"i":365,"tr":"Depolama Tankları ve Boru Hatları"}
+{"i":366,"tr":"Şehir binalarında, sanayide ve çiftliklerde kullanılmak üzere depolama tankları, basınç kapları, silolar, gaz tüpleri ve boru montajları."}
+{"i":367,"tr":"Depolar"}
+{"i":368,"tr":"Şerit Haddanesi"}
+{"i":369,"tr":"Yapısal Çelik"}
+{"i":370,"tr":"Haddelenmiş kesitler (I kirişler, H kirişler vb.), düz levha veya levhadan kaynaklanmış fabrikasyon kesitler ve kirişler olarak yapısal sınıf çelik."}
+{"i":371,"tr":"Şeker"}
+{"i":372,"tr":"Şeker Şirketi"}
+{"i":373,"tr":"Çeşitli endüstriyel ürünler üretmek için eritilen sülfür mineralleri."}
+{"i":374,"tr":"Kükürt"}
+{"i":375,"tr":"Sülfürik Asit"}
+{"i":376,"tr":"Kaynak çubukları, aletler ve asetilen, argon, propan, oksijen ve azot dahil olmak üzere endüstriyel gazlar gibi metal kesme ve kaynak malzemeleri."}
+{"i":377,"tr":"Tedarik Alanı"}
+{"i":378,"tr":"Geliştirilmiş birincil üretim için gerekli tedarik sandıkları (varsayılan 16)"}
+{"i":379,"tr":"Gung-ho birincil üretim için gerekli tedarik sandıkları (varsayılan 80)"}
+{"i":380,"tr":"Depolama Tesisi"}
+{"i":381,"tr":"Tapping Kulübesi"}
+{"i":382,"tr":"Esas olarak yol kaplaması ve çatı kaplaması için kullanılan yoğun petrol ürünü."}
+{"i":383,"tr":"Diğer ürünlerin imalatında yaygın olarak kullanılan ince haddelenmiş çelik levha ve şerit. Düz levha veya rulo olarak taşınır."}
+{"i":384,"tr":"Beton yapıları güçlendirmek için yaygın olarak kullanılan ince, pürüzlü çelik çubuklar. Rulo veya düz çubuk demetleri halinde taşınır."}
+{"i":385,"tr":"Korozyona karşı direnç için kalayla kaplanmış ince çelik levha; esas olarak kutular, kaplar ve diğer ambalajlar için kullanılır."}
+{"i":386,"tr":"Ahşap Ürünler"}
+{"i":387,"tr":"Kalay"}
+{"i":388,"tr":"Kalay Madeni"}
+{"i":389,"tr":"Kalaylı Demir Levha"}
+{"i":390,"tr":"Kalaylı Demir Levha Fabrikası"}
+{"i":391,"tr":"Paletli Araç Fabrikası"}
+{"i":392,"tr":"Ticaret İstasyonu"}
+{"i":393,"tr":"Trona Yatakları"}
+{"i":394,"tr":"Tropic Basic"}
+{"i":395,"tr":"Kamyon Alanı"}
+{"i":396,"tr":"Tüp ve Boru Fabrikası"}
+{"i":397,"tr":"Tüp Fabrikası"}
+{"i":398,"tr":"Lastik Kord"}
+{"i":399,"tr":"Lastik Fabrikası"}
+{"i":400,"tr":"Lastikler"}
+{"i":401,"tr":"Alaşım ve paslanmaz çelik üretiminde kullanılan, krom ve demirden oluşan bir alaşım. Kömür parçalarına benzer boyut ve şekle sahip gri topaklar."}
+{"i":402,"tr":"Çelik üretiminde kullanılır. Manganez, nikel, krom, alüminyum, silikon ve tungsten dahil olmak üzere demir ve diğer elementlerin alaşımları. Kömür parçalarına benzer boyut ve şekle sahip gri topaklar."}
+{"i":403,"tr":"Sebzeler"}
+{"i":404,"tr":"Araç Gövdeleri"}
+{"i":405,"tr":"Araç Dağıtıcısı"}
+{"i":406,"tr":"Bağ"}
+{"i":407,"tr":"Demir ve çelik üretiminden elde edilen atık ürün."}
+{"i":408,"tr":"Su Kenarı"}
+{"i":409,"tr":"Kaynak Malzemeleri"}
+{"i":410,"tr":"Kuyular"}
+{"i":411,"tr":"Rıhtım"}
+{"i":412,"tr":"Maden Çukuru"}
+{"i":413,"tr":"Buğday, arpa vb."}
+{"i":414,"tr":"Boksit cevherinden rafine edilen, alüminyum metalinin üretiminde kullanılan beyaz toz."}
+{"i":415,"tr":"Kükürt asidi ve çimento üretiminde kullanılan beyaz, gri veya kahverengi kalsiyum sülfat kayası. Genellikle kapalı dökümlü olarak taşınır."}
+{"i":416,"tr":"Geniş çapta kullanılan endüstriyel kimyasal. Parlak sarı renkte, toz veya sıvı formda bulunur."}
+{"i":417,"tr":"Geniş çapta kullanılan endüstriyel kimyasal. Genellikle kuru tutulması gereken dökme kargo olarak taşınır."}
+{"i":418,"tr":"Şarap İmalathanesi"}
+{"i":419,"tr":"Tel Çubuk Fabrikası"}
+{"i":420,"tr":"Ahşap Hamuru"}
+{"i":421,"tr":"İşletmeler"}
+{"i":422,"tr":"Çinko"}
+{"i":423,"tr":"Çinko Madeni"}
+{"i":424,"tr":"Çinko Cevheri"}
+{"i":425,"tr":"Çinko Ergitme Tesisleri"}
+{"i":426,"tr":"dik yamaçlara yerleştirilemez."}
+{"i":427,"tr":"kar hattının altına yerleştirilmelidir."}
+{"i":428,"tr":"{BLACK}Mevcut üretim: {YELLOW}Geliştirilmiş {}{}{BLACK}Bu seviyeyi korumak için her üç dakikada en az bir kez {SIGNED_WORD} sandık malzeme teslim edin.{}{WHITE}Gung-ho {BLACK}üretimi için {SIGNED_WORD} sandık teslim edin."}
+{"i":429,"tr":"{BLACK}Mevcut üretim: {YELLOW}Geliştirilmiş {}{}{BLACK}Bu seviyeyi korumak için her üç dakikada en az bir kez {SIGNED_WORD} birim kargo teslim edin.{}{WHITE}Gung-ho {BLACK}üretimi için {SIGNED_WORD} birim teslim edin."}
+{"i":430,"tr":"{BLACK}Mevcut üretim: {YELLOW}Gung-ho {}{}{BLACK}Bu seviyeyi korumak için her üç dakikada en az bir kez {SKIP}{SIGNED_WORD} sandık malzeme teslim edin."}
+{"i":431,"tr":"{BLACK}Mevcut üretim: {YELLOW}Gung-ho {}{}{BLACK}Bu seviyeyi korumak için her üç dakikada en az bir kez {SKIP}{SIGNED_WORD} birim kargo teslim edin."}
+{"i":432,"tr":"{BLACK}Mevcut üretim: {YELLOW}Normal {}{}{BLACK}{WHITE}Geliştirilmiş {BLACK}üretim için her üç dakikada en az bir kez {SIGNED_WORD} koli malzeme teslim edin.{}{WHITE}Gung-ho {BLACK}üretim için {SIGNED_WORD} koli teslim edin."}
+{"i":433,"tr":"{BLACK}Mevcut üretim: {YELLOW}Normal {}{}{BLACK}{WHITE}Geliştirilmiş {BLACK}üretim için her üç dakikada en az bir kez {SIGNED_WORD} birim kargo teslim edin.{}{WHITE}Gung-ho {BLACK}üretim için {SIGNED_WORD} birim teslim edin."}
+{"i":434,"tr":"{BLACK}Maksimum üretim hızı için, gerekli {WHITE}tüm {BLACK}kargoları her üç dakikada en az bir kez sağlayın."}
+{"i":435,"tr":"{BLACK}Maksimum üretim hızı için, gerekli {WHITE}en az üç {BLACK}kargodan en az birini her üç dakikada en az bir kez sağlayın."}
+{"i":436,"tr":"{BLACK}Maksimum üretim hızı için, gerekli {WHITE}en az iki {BLACK}kargodan en az birini her üç dakikada en az bir kez sağlayın."}
+{"i":437,"tr":"{BLACK}Maksimum üretim hızı için, gerekli {WHITE}her iki {BLACK}kargoyu da her üç dakikada en az bir kez sağlayın."}
+{"i":438,"tr":"{BLACK}Üretim, kasaba nüfusuyla orantılıdır. Her dakika en az {WHITE}{SIGNED_WORD} birim{BLACK} ve en fazla {WHITE}{SIGNED_WORD} birim{BLACK} kargo üretilecektir."}
+{"i":439,"tr":"{BLACK}Maksimum üretim için gerekli {WHITE}en az bir {BLACK} kargoyu sağlayın."}
+{"i":440,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":441,"tr":"{ORANGE}CIRS Topluluk Endüstri Değiştirme Seti{}{BLACK}FIRS'in topluluk tarafından sürdürülen bir çatallanmasıdır; orijinal olarak andythenorth, FooBar, planetmaker, Terkhen ve Yexo tarafından, diğer birçok kişinin de yardımıyla oluşturulmuştur. {SILVER}CIRS'in nasıl kullanılacağı da dahil olmak üzere daha fazla bilgi için web sitesine bakın. {BLACK}Lisans: GPL v2."}
+{"i":442,"tr":"{ORANGE}E00: CIRS, OpenTTD 1.7.0 gerektirir (veya trunk derlemelerini kullananlar için r27769)"}
+{"i":443,"tr":"{ORANGE}E01: {YELLOW}Uyumlu olmayan set: {ORANGE}{STRING}"}
+{"i":444,"tr":"{ORANGE}E02: {YELLOW}Uyuşmaz parametre: {ORANGE}CIRS ile çalışması için CanSet parametresi 2'nin 0 olması gerekir."}
+{"i":445,"tr":"{ORANGE}E02: {YELLOW}Uyuşmaz parametre: {ORANGE}NA City Set parametresi 2'nin CIRS ile çalışması için 0 olması gerekir."}
+{"i":446,"tr":"{ORANGE}E04: {YELLOW}Uyuşmaz sürüm: {ORANGE}Total Town Replacement Set'in sürümü 3.11 veya daha yeni olmalıdır."}
+{"i":447,"tr":"{SIGNED_WORD} sandık{P 0 \"\" s} mühendislik malzemesi"}
+{"i":448,"tr":"{SIGNED_WORD} sandık{P 0 \"\" s} tarım malzemesi"}
+{"i":449,"tr":"{TINYFONT}AA"}
+{"i":450,"tr":"{TINYFONT}AC"}
+{"i":451,"tr":"{TINYFONT}AG"}
+{"i":452,"tr":"{TINYFONT}AM"}
+{"i":453,"tr":"{TINYFONT}AO"}
+{"i":454,"tr":"{TINYFONT}AP"}
+{"i":455,"tr":"{TINYFONT}AY"}
+{"i":456,"tr":"{TINYFONT}BB"}
+{"i":457,"tr":"{TINYFONT}BI"}
+{"i":458,"tr":"{TINYFONT}CA"}
+{"i":459,"tr":"{TINYFONT}CB"}
+{"i":460,"tr":"{TINYFONT}CE"}
+{"i":461,"tr":"{TINYFONT}CI"}
+{"i":462,"tr":"{TINYFONT}CK"}
+{"i":463,"tr":"{TINYFONT}CN"}
+{"i":464,"tr":"{TINYFONT}CO"}
+{"i":465,"tr":"{TINYFONT}CP"}
+{"i":466,"tr":"{TINYFONT}CT"}
+{"i":467,"tr":"{TINYFONT}EL"}
+{"i":468,"tr":"{TINYFONT}EO"}
+{"i":469,"tr":"{TINYFONT}EP"}
+{"i":470,"tr":"{TINYFONT}ES"}
+{"i":471,"tr":"{TINYFONT}EX"}
+{"i":472,"tr":"{TINYFONT}FA"}
+{"i":473,"tr":"{TINYFONT}FL"}
+{"i":474,"tr":"{TINYFONT}FO"}
+{"i":475,"tr":"{TINYFONT}FS"}
+{"i":476,"tr":"{TINYFONT}FV"}
+{"i":477,"tr":"{TINYFONT}GL"}
+{"i":478,"tr":"{TINYFONT}HW"}
+{"i":479,"tr":"{TINYFONT}IG"}
+{"i":480,"tr":"{TINYFONT}KA"}
+{"i":481,"tr":"{TINYFONT}LG"}
+{"i":482,"tr":"{TINYFONT}LH"}
+{"i":483,"tr":"{TINYFONT}LS"}
+{"i":484,"tr":"{TINYFONT}MA"}
+{"i":485,"tr":"{TINYFONT}MF"}
+{"i":486,"tr":"{TINYFONT}ML"}
+{"i":487,"tr":"{TINYFONT}MN"}
+{"i":488,"tr":"{TINYFONT}MO"}
+{"i":489,"tr":"{TINYFONT}N7"}
+{"i":490,"tr":"{TINYFONT}NA"}
+{"i":491,"tr":"{TINYFONT}NI"}
+{"i":492,"tr":"{TINYFONT}NT"}
+{"i":493,"tr":"{TINYFONT}O2"}
+{"i":494,"tr":"{TINYFONT}OC"}
+{"i":495,"tr":"{TINYFONT}PA"}
+{"i":496,"tr":"{TINYFONT}PC"}
+{"i":497,"tr":"{TINYFONT}PE"}
+{"i":498,"tr":"{TINYFONT}PG"}
+{"i":499,"tr":"{TINYFONT}PI"}
+{"i":500,"tr":"{TINYFONT}PL"}
+{"i":501,"tr":"{TINYFONT}PM"}
+{"i":502,"tr":"{TINYFONT}PT"}
+{"i":503,"tr":"{TINYFONT}PV"}
+{"i":504,"tr":"{TINYFONT}PW"}
+{"i":505,"tr":"{TINYFONT}PY"}
+{"i":506,"tr":"{TINYFONT}QL"}
+{"i":507,"tr":"{TINYFONT}RB"}
+{"i":508,"tr":"{TINYFONT}SB"}
+{"i":509,"tr":"{TINYFONT}SD"}
+{"i":510,"tr":"{TINYFONT}SE"}
+{"i":511,"tr":"{TINYFONT}SG"}
+{"i":512,"tr":"{TINYFONT}SH"}
+{"i":513,"tr":"{TINYFONT}SI"}
+{"i":514,"tr":"{TINYFONT}SL"}
+{"i":515,"tr":"{TINYFONT}SO"}
+{"i":516,"tr":"{TINYFONT}SP"}
+{"i":517,"tr":"{TINYFONT}STSW"}
+{"i":518,"tr":"{TINYFONT}SU"}
+{"i":519,"tr":"{TINYFONT}SW"}
+{"i":520,"tr":"{TINYFONT}SY"}
+{"i":521,"tr":"{TINYFONT}TC"}
+{"i":522,"tr":"{TINYFONT}TI"}
+{"i":523,"tr":"{TINYFONT}TP"}
+{"i":524,"tr":"{TINYFONT}TY"}
+{"i":525,"tr":"{TINYFONT}VB"}
+{"i":526,"tr":"{TINYFONT}VE"}
+{"i":527,"tr":"{TINYFONT}VG"}
+{"i":528,"tr":"{TINYFONT}VS"}
+{"i":529,"tr":"{TINYFONT}WP"}
+{"i":530,"tr":"{TINYFONT}WS"}
+{"i":531,"tr":"{TINYFONT}ZN"}
+{"i":532,"tr":"{TINYFONT}ZO"}
+{"i":533,"tr":"{VOLUME} asit"}
+{"i":534,"tr":"{VOLUME} amonyak ve nitrik ürünler"}
+{"i":535,"tr":"{VOLUME} zift"}
+{"i":536,"tr":"{VOLUME} kimyasal ara ürünler"}
+{"i":537,"tr":"{VOLUME} klor"}
+{"i":538,"tr":"{VOLUME} kömür katranı"}
+{"i":539,"tr":"{VOLUME} yenilebilir yağ"}
+{"i":540,"tr":"{VOLUME} endüstriyel gaz"}
+{"i":541,"tr":"{VOLUME} hafif hidrokarbon"}
+{"i":542,"tr":"{VOLUME} metanol"}
+{"i":543,"tr":"{VOLUME} azot"}
+{"i":544,"tr":"{VOLUME} oksijen"}
+{"i":545,"tr":"{VOLUME} boyalar ve kaplamalar"}
+{"i":546,"tr":"{VOLUME} fosforik asit"}
+{"i":547,"tr":"{VOLUME} sodyum hidroksit"}
+{"i":548,"tr":"{VOLUME} sülfürik asit"}
+{"i":549,"tr":"{WEIGHT} agregalar"}
+{"i":550,"tr":"{WEIGHT} alümina"}
+{"i":551,"tr":"{WEIGHT} alüminyum"}
+{"i":552,"tr":"Anhidrit kayasının {WEIGHT} ağırlığı"}
+{"i":553,"tr":"Elmanın {WEIGHT} ağırlığı"}
+{"i":554,"tr":"Baryt ve floritin {WEIGHT} ağırlığı"}
+{"i":555,"tr":"Billet ve bloom'un {WEIGHT} ağırlığı"}
+{"i":556,"tr":"Karbon siyahının {WEIGHT} ağırlığı"}
+{"i":557,"tr":"Kasava'nın {WEIGHT} ağırlığı"}
+{"i":558,"tr":"Dökme demirin {WEIGHT} ağırlığı"}
+{"i":559,"tr":"Çimentonun {WEIGHT} ağırlığı"}
+{"i":560,"tr":"Çin kilinin {WEIGHT} ağırlığı"}
+{"i":561,"tr":"Temizlik maddelerinin {WEIGHT} ağırlığı"}
+{"i":562,"tr":"Kok'un {WEIGHT} ağırlığı"}
+{"i":563,"tr":"Beton ürünlerinin {WEIGHT} ağırlığı"}
+{"i":564,"tr":"Elektrik parçalarının {WEIGHT} ağırlığı"}
+{"i":565,"tr":"Motorların ve aktarma organlarının {WEIGHT} ağırlığı"}
+{"i":566,"tr":"Patlayıcıların {WEIGHT} ağırlığı"}
+{"i":567,"tr":"Ferro alaşımların {WEIGHT} ağırlığı"}
+{"i":568,"tr":"Gübrelerin {WEIGHT} ağırlığı"}
+{"i":569,"tr":"Balık ve deniz ürünlerinin {WEIGHT} ağırlığı"}
+{"i":570,"tr":"Un ve nişastanın {WEIGHT} ağırlığı"}
+{"i":571,"tr":"Yiyecek ve içeceklerin {WEIGHT} ağırlığı"}
+{"i":572,"tr":"Gıda katkı maddelerinin {WEIGHT} ağırlığı"}
+{"i":573,"tr":"Dövme ve döküm parçaların {WEIGHT} ağırlığı"}
+{"i":574,"tr":"Dondurulmuş gıdaların {WEIGHT} ağırlığı"}
+{"i":575,"tr":"Cam ürünlerin {WEIGHT} ağırlığı"}
+{"i":576,"tr":"Malın {WEIGHT} ağırlığı"}
+{"i":577,"tr":"Donanım ve kaplamaların {WEIGHT} ağırlığı"}
+{"i":578,"tr":"Endüstriyel karbonların {WEIGHT} ağırlığı"}
+{"i":579,"tr":"Kireçtaşının {WEIGHT} ağırlığı"}
+{"i":580,"tr":"Kütüklerin {WEIGHT} ağırlığı"}
+{"i":581,"tr":"Manganın {WEIGHT} ağırlığı"}
+{"i":582,"tr":"Etin {WEIGHT} ağırlığı"}
+{"i":583,"tr":"Ticari külçenin {WEIGHT} ağırlığı"}
+{"i":584,"tr":"Mineral dolgu maddelerinin {WEIGHT} ağırlığı"}
+{"i":585,"tr":"Kuruyemişlerin {WEIGHT} ağırlığı"}
+{"i":586,"tr":"Ambalajın {WEIGHT} ağırlığı"}
+{"i":587,"tr":"Turba torfunun {WEIGHT} ağırlığı"}
+{"i":588,"tr":"Pig demirinin {WEIGHT} ağırlığı"}
+{"i":589,"tr":"Tesis ve makinelerin {WEIGHT} ağırlığı"}
+{"i":590,"tr":"Plastiklerin ve reçinelerin {WEIGHT} ağırlığı"}
+{"i":591,"tr":"Potasın {WEIGHT} ağırlığı"}
+{"i":592,"tr":"Hassas bileşenlerin {WEIGHT} ağırlığı"}
+{"i":593,"tr":"İşlem kimyasallarının {WEIGHT} ağırlığı"}
+{"i":594,"tr":"Pompaların ve valflerin {WEIGHT} ağırlığı"}
+{"i":595,"tr":"Söndürülmemiş kirecin {WEIGHT} ağırlığı"}
+{"i":596,"tr":"Ham şekerin ve melasın {WEIGHT} ağırlığı"}
+{"i":597,"tr":"Armatürün {WEIGHT} ağırlığı"}
+{"i":598,"tr":"Tuzun {WEIGHT} ağırlığı"}
+{"i":599,"tr":"Mühürlerin, hortumların ve kayışların {WEIGHT} ağırlığı"}
+{"i":600,"tr":"Cürufun {WEIGHT} ağırlığı"}
+{"i":601,"tr":"Soda külünün {WEIGHT} ağırlığı"}
+{"i":602,"tr":"Çeliğin {WEIGHT} ağırlığı"}
+{"i":603,"tr":"Çelik külçelerinin {WEIGHT} ağırlığı"}
+{"i":604,"tr":"Çelik borunun {WEIGHT} ağırlığı"}
+{"i":605,"tr":"Çelik levhanın {WEIGHT} ağırlığı"}
+{"i":606,"tr":"Çelik sac ve şeridin {WEIGHT} ağırlığı"}
+{"i":607,"tr":"Çelik dökme levhanın {WEIGHT} ağırlığı"}
+{"i":608,"tr":"Çelik tüpün {WEIGHT} ağırlığı"}
+{"i":609,"tr":"Çelik tel çubuğunun {WEIGHT} ağırlığı"}
+{"i":610,"tr":"Depo tanklarının ve boru hatlarının {WEIGHT} ağırlığı"}
+{"i":611,"tr":"Yapısal çeliğin {WEIGHT} ağırlığı"}
+{"i":612,"tr":"{WEIGHT} kükürt"}
+{"i":613,"tr":"{WEIGHT} kereste ürünleri"}
+{"i":614,"tr":"{WEIGHT} kalay"}
+{"i":615,"tr":"{WEIGHT} kalay levha"}
+{"i":616,"tr":"{WEIGHT} lastik kord"}
+{"i":617,"tr":"{WEIGHT} lastikler"}
+{"i":618,"tr":"{WEIGHT} sebzeler"}
+{"i":619,"tr":"{WEIGHT} araç gövdeleri"}
+{"i":620,"tr":"{WEIGHT} araç parçaları"}
+{"i":621,"tr":"{WEIGHT} araçlar"}
+{"i":622,"tr":"{WEIGHT} kaynak sarf malzemeleri"}
+{"i":623,"tr":"{WEIGHT} odun hamuru"}
+{"i":624,"tr":"{WEIGHT} çinko"}
+{"i":625,"tr":"{WEIGHT} çinko cevheri"}
+{"i":626,"tr":"{WEIGHT} çuval{P 0 \"\" s} kahve"}
+{"i":627,"tr":"{}{BLACK}Konum: {YELLOW}Yalnızca kar üzerinde finanse edilebilir."}
+{"i":628,"tr":"{}{BLACK}Konum: {YELLOW}Çöllerde finanse edilemez."}
+{"i":629,"tr":"{}{BLACK}Konum: {YELLOW}Kar üzerinde veya çöllerde finanse edilemez."}
+{"i":630,"tr":"{}{BLACK}Konum: {YELLOW}Kar üzerinde finanse edilemez."}
+{"i":243,"tr":"Çoğunlukla et üretimi için inekler, domuzlar ve koyunlar kullanılır. Diğer hayvanlar da yenebilir."}
+{"i":46,"tr":"CIRS Topluluk Sanayi Değiştirme Seti"}
+{"i": 45, "tr": "CIRS"}
+{"i": 47, "tr": "CIRS, oyuncuların belirli sanayileri daha büyük göstermek için yerleştirebileceği bir dizi peyzaj nesnesi içerir. Peyzaj nesnelerinin oyun mekanikleri üzerinde hiçbir etkisi yoktur. Peyzaj nesneleri açılıp kapatılabilir."}
+{"i": 447, "tr": "{SIGNED_WORD} sandık mühendislik malzemesi"}
+{"i": 448, "tr": "{SIGNED_WORD} sandık tarım malzemesi"}
+{"i": 626, "tr": "{WEIGHT} çuval kahve"}

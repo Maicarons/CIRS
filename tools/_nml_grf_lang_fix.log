@@ -1,0 +1,80 @@
+APPLY=True
+LANG belarusian           plural=6  N=3 gender='p n m f'                    premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} мяшок{P 0 \\"\\" s} кавы'
+       NEW '{WEIGHT} мяшок кавы'
+LANG catalan              plural=0  N=2 gender='Masculin Femenin'           premove=0 appends=0
+LANG croatian             plural=6  N=3 gender=None                         premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} vreća{P 0 \\"\\" s} kave'
+       NEW '{WEIGHT} vreća kave'
+LANG czech                plural=10 N=3 gender=None                         premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} pytel{P 0 \\"\\" s} kávy'
+       NEW '{WEIGHT} pytel kávy'
+LANG gaelic               plural=13 N=4 gender=None                         premove=3 appends=3
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} poc{P 0 \\"\\" s} de chabhag'
+       NEW '{WEIGHT} poc de chabhag'
+   - STR_CARGO_FARM_SUPPLIES.cargo_unit
+       OLD '{SIGNED_WORD} crate{P 0 \\"\\" s} de sholarachaidhean tuathanais'
+       NEW '{SIGNED_WORD} crate de sholarachaidhean tuathanais'
+   - STR_CARGO_WOOL.cargo_unit
+       OLD '{SIGNED_WORD} bale{P 0 \\"\\" s} de fhèil'
+       NEW '{SIGNED_WORD} bale de fhèil'
+LANG galician             plural=0  N=2 gender='m f'                        premove=0 appends=0
+LANG indonesian           plural=1  N=1 gender=None                         premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} karung{P 0 \\"\\" s} kopi'
+       NEW '{WEIGHT} karung kopi'
+LANG italian              plural=0  N=2 gender='m f'                        premove=0 appends=0
+LANG japanese             plural=1  N=1 gender=None                         premove=4 appends=4
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD 'コーヒー{P 0 \\"\\" s}袋の{WEIGHT}'
+       NEW 'コーヒー袋の{WEIGHT}'
+   - STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit
+       OLD '{SIGNED_WORD} 工学用品の箱{P 0 \\"\\" s}'
+       NEW '{SIGNED_WORD} 工学用品の箱'
+   - STR_CARGO_FARM_SUPPLIES.cargo_unit
+       OLD '{SIGNED_WORD} 農業用品の箱{P 0 \\"\\" s}'
+       NEW '{SIGNED_WORD} 農業用品の箱'
+   - STR_CARGO_WOOL.cargo_unit
+       OLD '{SIGNED_WORD} 羊毛の束{P 0 \\"\\" s}'
+       NEW '{SIGNED_WORD} 羊毛の束'
+LANG korean               plural=11 N=2 gender='m f'                        premove=0 appends=0
+LANG latin                plural=0  N=2 gender='m f n mp fp np'             premove=0 appends=0
+LANG norwegian_bokmal     plural=0  N=2 gender='masculine feminine neuter'  premove=0 appends=0
+LANG polish               plural=7  N=3 gender='m f n'                      premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} worek{P 0 \\"\\" s} kawy'
+       NEW '{WEIGHT} worek kawy'
+LANG russian              plural=6  N=3 gender='m f n p'                    premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} мешок{P 0 \\"\\" s} кофе'
+       NEW '{WEIGHT} мешок кофе'
+LANG serbian              plural=6  N=3 gender='muški ženski srednji'       premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} врећа{P 0 \\"\\" s} кафе'
+       NEW '{WEIGHT} врећа кафе'
+LANG slovak               plural=10 N=3 gender=None                         premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} vrece{P 0 \\"\\" s} kávy'
+       NEW '{WEIGHT} vrece kávy'
+LANG spanish_MX           plural=0  N=2 gender='m f'                        premove=0 appends=0
+LANG traditional_chinese  plural=1  N=1 gender=None                         premove=1 appends=1
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} 袋{P 0 \\"\\" s} 咖啡'
+       NEW '{WEIGHT} 袋 咖啡'
+LANG turkish              plural=1  N=1 gender=None                         premove=3 appends=3
+   - STR_CARGO_COFFEE.cargo_unit
+       OLD '{WEIGHT} çuval{P 0 \\"\\" s} kahve'
+       NEW '{WEIGHT} çuval kahve'
+   - STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit
+       OLD '{SIGNED_WORD} sandık{P 0 \\"\\" s} mühendislik malzemesi'
+       NEW '{SIGNED_WORD} sandık mühendislik malzemesi'
+   - STR_CARGO_FARM_SUPPLIES.cargo_unit
+       OLD '{SIGNED_WORD} sandık{P 0 \\"\\" s} tarım malzemesi'
+       NEW '{SIGNED_WORD} sandık tarım malzemesi'
+TOTAL gender=11 premove=19 appends=19
+ERRORS 0
+WROTE (APPLY=1)

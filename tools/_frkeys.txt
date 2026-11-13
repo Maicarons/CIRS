@@ -1,0 +1,622 @@
+Acid
+Aggregates
+Alumina
+Aluminium
+Aluminium Plant
+Ammonia & Nitric Products
+Ammonia Complex
+Anhydrite Mine
+Anhydrite Process Plant
+Anhydrite Rock
+Apples
+Appliance Factory
+Arable Farm
+Arctic Basic
+Are forever, etc.
+Assembly Plant
+Automotive
+Available in all economies.  Produced and accepted by town buildings, and also a few industries.
+Available in all economies.  Produced and accepted by town buildings.
+Bakery
+Bales.
+Bank Top
+Bar, Grill and Rooms
+Barns
+Barrel and Keg
+Barytes & Fluorspar
+Base
+Basic Oxygen Furnace
+Basic iron from a blast furnace, as molten liquid or solid ingots.
+Batch Chemical Works
+Beans
+Billets & Blooms
+Billets, blooms, ingots and slabs.
+Biomass from peat bogs, extracted for fuel and horticulture.
+Bitumen
+Blast Furnace
+Body Plant
+Boneyard
+Bottle & Can Factory
+Boxes, bottles, jars, cans, etc.
+Brewery
+Brick Works
+Brine Works
+Builders Yard
+Building Materials
+By-product from coke production, a thick slow-flowing liquid.
+CIRS Community Industry Replacement Set
+CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.
+CIRS landscaping objects
+Cabs, bonnets, doors and similar body structures for vehicle production.
+Calcium Oxide, also known as burnt lime. Transported as fine powder that must be kept dry.
+Carbon Black
+Carbon Black Plant
+Cassava
+Cast Iron
+Cast products such as blocks, beams and panels. Can also be handled as ready-mix concrete in mixer trucks.
+Cellulose Film Works
+Cement
+Cement Plant
+Cement, glass, metal components, wood products, pipes and similar construction materials.
+Chemical Complex
+Chemical Intermediates
+Chemicals
+Chemicals, soaps, scouring agents etc for industrial and domestic use. Primarily liquid, can also be powder or solid (such as shot blasting sand).
+China Clay
+Chipboard Factory
+Chlor-alkali Plant
+Chlorine
+Chromite Mine
+Cider Mill
+Civil explosives for mining, construction etc.
+Clay
+Clay Pit
+Cleaning Agents
+Coal
+Coal Mine
+Coal Tar
+Coal that has been heated in a coke oven, producing a fuel that is nearly pure carbon.
+Coarse sand for construction, or fine silica sand for glass-making and metal casting. Transported as bulk or powder.
+Coffee
+Coffee Estate
+Coil line
+Coke
+Coke Oven
+Colliery
+Commercial Bakery
+Common beans, fava beans, soybeans and similar edible legumes.
+Complex economy featuring iron, steel and heavy manufacturing industries.
+Complex economy with many industries and cargos.
+Complex economy with many industries and cargos. Inspired by central-western Africa. Best used with Sub-Tropic climate.
+Components
+Components for vehicle production such as chassis and suspension components, electrical parts, external trim and interior parts.
+Concrete Plant
+Concrete Products
+Construction Yard
+Convenience Foods Factory
+Copper
+Copper Concentrator
+Copper Lode
+Copper Mine
+Copper Ore
+Copper Smelter
+Cotton, flax, jute and similar materials, for producing textiles and composite materials.
+Crawler Works
+Creosoting
+Crude, unrefined petroleum transported as bulk liquid.
+Cryo Plant
+Dairy
+Dairy Farm
+Dairy Lane
+Diamond Mine
+Diamonds
+Dredging Site
+Drums, winches, shackles, hooks, pulleys, hydraulic rams and other parts for cranes, hoists, elevators etc.
+Dry cement in powder or clinker form.
+Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+Economy
+Edible Oil
+Edible root crop, also known as manioc and yuca.
+Elastomer Products Plant
+Electric Arc Furnace
+Electrical Parts
+Electrical and electronic components, motors, controllers, switchgear, lights etc.
+Electro Goods
+Engine Plant
+Engineering Supplies
+Engineering Works
+Engines & Driveline
+Enhanced primary production level (%)
+Estate
+Explosives
+Explosives Factory
+Factory
+Farm
+Farm Supplies
+Farms, mines and similar industries will increase production when supply crates are delivered, first to {SILVER}Enhanced{BLACK}, and then to {SILVER}Gung-ho{BLACK}, if enough crates are delivered.  {}{}The default values are good, but if you need to, you can change them here.  {}{}Cargo requirements for port-type industries will be 8x the values set here.
+Fermentation Plant
+Ferroalloys
+Ferrochrome Smelter
+Fertiliser
+Fertiliser & Acid Works
+Field
+Fine wire used to reinforce tyres. Transported as coil.
+Fish & Seafood
+Fish Farm
+Fish Market
+Fishing Grounds
+Fishing Harbour
+Flexible seals, gaskets, hoses, belts, mats, bushings, etc, made from rubber or similar materials.
+Flour & Starch
+Flowline
+Food
+Food & Beverages
+Food Additives
+Food Corporation
+Food Processing Plant
+Foods kept frozen during transport and storage.
+For household and construction use. Tools, utensils, fixtures, fittings, in metal and other materials.
+Forest
+Forgings & Castings
+Freezers
+Fresh and dried fruit, such as bananas, citrus, grapes, berries, pineapple, raisins and similar.
+Frozen Desserts Factory
+Frozen Food
+Frozen Food Plant
+Fruit
+Fruit Plantation
+Furnace
+Furniture Factory
+General Store
+Generic clays, for producing building materials and other industrial uses.
+Generic metal, such as steel, aluminium or other common metals.
+Generic organic and inorganic chemicals, handled as liquid, gas, covered bulk, powder, or as piece goods.
+Girders
+Glass Products
+Glass Works
+Goods
+Grain
+Grain Mill
+Gravel, sand, crushed stone and similar materials used in construction.
+Grazing Farm
+Gung-ho primary production level (%)
+Hardware & Finishes
+Hello {COMPANY}!{}{}You are playing a game with CIRS test GS{}{}Git version of this GS is {NUM}
+Herding Co-op
+High-value engineering components such as electrical equipment, motors, transformers, control gear, hydraulics, pneumatics, pumps, valves and powertrain equipment.
+Horse Market
+Hotel
+In A Hot Country
+Industrial Carbons
+Industrial Chemicals Plant
+Industrial Gases
+Industrial Park
+Industrial acid used mainly in fertiliser and chemical production, transported as bulk liquid.
+Industrial acids, such as hydrochloric, nitric and sulphuric acid.
+Industrial alcohol used as a chemical feedstock and fuel, transported as bulk liquid.
+Industrial chemical, usually transported cryogenically as liquified compressed gas.
+Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+Industrial chemical. White powder form.
+Industrial chemicals derived from ammonia, such as ammonia, nitric acid and urea. Transported as liquids, cryogenically as liquified gas, or as dry bulk.
+Industrial chemicals used in manufacturing and processing, transported as liquids, powders, gases or packaged goods.
+Industrial gas. Transported cryogenically as liquified compressed gas.
+Industrial gases used in chemical processing, metalworking and welding, transported in cylinders or pressure tankers.
+Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+Industrial minerals used in chemical processing. Barytes is used in barium chemicals and fillers; fluorspar in fluorine chemistry and metallurgical fluxes.
+Ingots.
+Ingredients used in food processing, such as preservatives, flavourings, colourings and processing aids.
+Intensely black carbon powder, used in tyres, plastics and pigments.  Handled as a powder.
+Intermediate chemical products used as feedstocks for further industrial processing.
+Intermediate sugar products for refining, fermentation and industrial uses. Sticky granules are handled as covered bulk; thick syrup as liquid; either may be packaged.
+Internal combustion engines and related powertrain parts such as transmission and drive axles.
+Iron Ore
+Iron Ore Mine
+Ironstone
+Kilns
+Kimberlite Deposits
+LAND
+Landing Stage
+Latex Processor
+Light Hydrocarbons
+Light petroleum fractions used as chemical feedstocks, transported as bulk liquids.
+Lime Kiln
+Limestone
+Limestone Mine
+Limestone Mines
+Livestock
+Log Landing
+Logs
+Logs from a forest.
+Long hollow tube in round, rectangular and other cross-sections. Used for fabricating structures and machinery.
+Long round steel pipes for transporting liquids in pipelines, buildings, industries etc.
+Machinery, fuel, parts, fertiliser and other supplies for farms, forests and similar industries.
+Machinery, fuel, parts, wood products, pipes, explosives and other supplies for mines and similar industries.
+Machinery, parts, fuel, construction materials and other supplies for harbours, docks and similar industries.
+Mail
+Maize
+Manganese
+Manganese Mine
+Manganese Mines
+Manganese ore, used primarily in steel production.
+Manor
+Maximum coastal distance of marine industries in tiles
+Maximum distance of fishing grounds, oil rigs and dredging sites from the coast in tiles.
+Meadows
+Meat
+Merchant Bar
+Metal Works
+Metal parts for assembly into larger items.
+Metalware
+Methanol
+Mild Mild West
+Milk
+Mill
+Mills
+Mineral Fillers
+Mineral Fillers Plant
+Minerals
+Mines
+Mostly cows, pigs and sheep for meat production.  Other animals may also be eaten.
+Mostly natural latex.
+Mostly trucks. Or cars. Or light trucks. Maybe tractors.
+Mouldings
+Nitrate Mine
+Nitrates
+Nitrogen
+No limit
+Non-ferrous metals, such as copper, nickel, zinc and lead.
+Nuclear Fuel Complex
+Nuclear Power Plant
+Nuts
+Oil
+Oil & Chemical Terminal
+Oil Refinery
+Oil Rig
+Oil Wells
+Oil for cooking and consumption.
+Orchard & Piggery
+Orchards
+Owner: {RAW_STRING}
+Oxygen
+Packaging
+Paints & Coatings
+Paper
+Paper Mill
+Paper Products Factory
+Passengers
+Peat
+Peatlands
+Petrol Station
+Petrol, diesel and similar fuels.
+Petroleum Fuels
+Phosphate
+Phosphate Mine
+Phosphoric Acid
+Pig Iron
+Pipe Shop
+Pit
+Plant
+Plant & Machinery
+Plantation
+Plastic Mouldings Factory
+Plastics & Resins
+Plate Mill
+Port
+Potash
+Potash Mine
+Powdered cereal products such as flour and starch, transported bagged or in covered bulk.
+Power Plant
+Power Systems Factory
+Powered equipment and mechanical systems used in buildings, industries and farms. Transported as complete units or as major subassemblies.
+Powertrain
+Precast
+Precision Components
+Precision Parts Plant
+Pressings
+Process Chemicals
+Process Chemicals Plant
+Processed wood fibre used mainly for paper production, transported as bales or bulk pulp.
+Processed wood products from a sawmill or similar industries.
+Produce Packer
+Production at farms, mines and similar industries when supply requirements are met (as percentage of {SILVER}Normal {BLACK}production level).
+Pumps
+Pumps & Valves
+Pyrite Deposits
+Pyrite Mine
+Pyrite Ore
+Pyrite Smelter
+Quarry
+Quicklime
+Ranch
+Raw Sugar & Molasses
+Raw or roasted coffee beans.
+Raw plastic for futher processing. Usually transported as resin beads.
+Rebar
+Refined Aluminium metal, in coils, ingots, slabs etc.
+Refined Copper metal, in coils, ingots etc.
+Refined petroleum products such as petrol, diesel, kerosene, LPG, fuel oil and bunker fuel, transported as bulk liquids or liquefied gas.
+Refinery
+Reinder Pens
+Roadstone Plant
+Rod Mill
+Rolled steel plates and sections - I beams, H beams, channels etc. Transported as long straight products.
+Ropes and cables produced by drawing steel wire rod to a smaller diameter, then twisting into bundled ropes.
+Rough steel castings, requiring further processing. Ingots may be small or very large. Typical ingot profiles are rectangular or round.
+Rubber
+Rubber Company
+Rubber Plantation
+SEA
+Salt
+Salt Works
+Saltpeter Works
+Sand
+Sandbank
+Sawmill
+Scrap Metal
+Scrap Yard
+Seafood
+Seal and Hose
+Seals, Hoses & Belts
+Section & Bar Mill
+Semi-finished steel castings. Always flat and rectangular in cross-section.
+Semi-finished steel castings. Rectangular, square or round in cross-section.
+Sharp Street
+Sheep Fold
+Shoals
+Shorefront
+Silo
+Simple economy. Inspired by Argentina, Peru and Chile. Best used with Sub-Tropic climate.
+Simple economy. Inspired by Finland, Northern Canada and Northern Siberia. Best used with Sub-Arctic climate.
+Simple economy. Inspired by south-western UK. Best used with Temperate climate.
+Slab yard
+Slag
+Slag Grinding Plant
+Smelter
+Soda Ash
+Soda Ash Mine
+Sodium Hydroxide
+Soot Furnace
+Soups
+Speciality carbon materials such as calcined petroleum coke, pitch, high-value tars and carbon black, used in metallurgical and chemical processes.
+Steel
+Steel Forge & Foundry
+Steel Ingots
+Steel Mill
+Steel Pipe
+Steel Plate
+Steel Sheet & Strip
+Steel Slab
+Steel Tube
+Steel Wire Rod
+Steel bars, as rounds, squares, flats and other profiles. Transported as long straight products.
+Steel wire and thin rods. Primarily transported as coils.
+Steelmasters
+Steeltown
+Stockyard
+Storage Tanks & Pipework
+Storage tanks, pressure vessels, silos, gas cylinders, and pipe assemblies, for use in town buildings, industries and farms.
+Stores
+Strip Mill
+Structural Steel
+Structural-grade steel as rolled sections (I beams, H beams etc), or as flat plate, or as fabricated sections and beams welded from plate.
+Sugar
+Sugar Company
+Sugar Refinery
+Sulfide minerals, smelted to produce a variety of industrial products.
+Sulphur
+Sulphuric Acid
+Supplies for cutting and welding metal, such as welding rods, tools, and industrial gases including acetylene, argon, propane, oxygen and nitrogen.
+Supply Yard
+Supply crates required for Enhanced primary production (default 16)
+Supply crates required for Gung-ho primary production (default 80)
+Tank Farm
+Tappers Shed
+Temperate Basic
+Textile Mill
+Thick petroleum product used mainly for road surfacing and roofing.
+Thin rolled steel sheet and strip, widely used to fabricate other products. Transported as flat sheets or as coils.
+Thin rough steel bars widely used to reinforce concrete structures. Transported as coils or bundles of straight bars.
+Thin steel sheet coated with tin for corrosion resistance, used mainly for cans, containers and other packaging.
+Timber Products
+Timber Yard
+Tin
+Tin Mine
+Tinplate
+Tinplate Works
+Town is {STRING}{}{}To find out more about this town (including growth and happiness requirements), open the Story Book, and find the page for {TOWN}
+Tracked Vehicle Factory
+Trading Post
+Trona Beds
+Tropic Basic
+Truck Lot
+Tube & Pipe Mill
+Tube Mill
+Tyre Cord
+Tyre Plant
+Tyres
+Used in alloy and stainless steel production, an alloy of chromium and iron.  Grey lumps, similar in size and shape to coal lumps.
+Used in steel production. Alloys of iron and other elements including manganese, nickel, chromium, aluminium, silicon and tungsten.  Grey lumps, similar in size and shape to coal lumps.
+Vegetables
+Vehicle Bodies
+Vehicle Distributor
+Vehicle Parts
+Vehicles
+Vineyard
+Waste product from iron and steel production.
+Waterside
+Welding Consumables
+Wells
+Wharf
+Wheal
+Wheat, barley etc.
+White powder refined from bauxite ore, used to produce aluminium metal.
+White, grey or brown calcium sulphate rock, used in sulphuric acid and cement production. Often transported as covered bulk.
+Widely used industrial chemical. Bright yellow, in powder or liquid form.
+Widely used industrial chemical. Usually transported as bulk cargo that must be kept dry.
+Winery
+Wire Rod Mill
+Wood Pulp
+Wool
+Works
+Zinc
+Zinc Mine
+Zinc Ore
+Zinc Smelter
+cannot be placed on steep slopes.
+example string here
+happy
+must be placed below the snow line.
+must be placed on dry land.
+must not be placed in the desert.
+only one industry of this type allowed per town.
+unhappy
+{BLACK}--- Town industries --- {}
+{BLACK}Cargo produced last month
+{BLACK}Current growth rate: {WHITE}{RAW_STRING}
+{BLACK}Current production level: {WHITE}{NUM}
+{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+{BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} crates of supplies at least once every three minutes.
+{BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} units of cargo at least once every three minutes.
+{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+{BLACK}Deliveries to this industry will contribute to town growth and/or happiness
+{BLACK}For maximum production rate, supply {WHITE}all {BLACK}required cargos at least once every three minutes.
+{BLACK}For maximum production rate, supply {WHITE}at least three {BLACK}required cargos at least once every three minutes.
+{BLACK}For maximum production rate, supply {WHITE}at least two {BLACK}required cargos at least once every three minutes.
+{BLACK}For maximum production rate, supply {WHITE}both {BLACK}required cargos at least once every three minutes.
+{BLACK}HQ town: {WHITE}{TOWN}
+{BLACK}Industries owned: {WHITE}{RAW_STRING}
+{BLACK}Name: {WHITE}{RAW_STRING}
+{BLACK}Note that this won't refresh currently unless Grind is turned off and on in GS settings
+{BLACK}Production (permanent) increase history (last 10 events)
+{BLACK}Production is proportional to town population. At least {WHITE}{SIGNED_WORD} units{BLACK} and not more than {WHITE}{SIGNED_WORD} units{BLACK} of cargo will be produced every minute.
+{BLACK}Random word (test): {WHITE}{RAW_STRING}
+{BLACK}Required cargo supplied last month
+{BLACK}Supplied: {WHITE}{CARGO_LONG}
+{BLACK}Supply {WHITE}at least one {BLACK} required cargo for maximum production.
+{BLACK}This is a GS text. {WHITE}Click me for the town story page. {BLACK}Here is some more text.
+{BLACK}Type: {WHITE}{RAW_STRING}
+{BLACK}Valid towns: {WHITE}{RAW_STRING}
+{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+{BLUE}Cabbage
+{INDUSTRY} increases production!
+{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)
+{ORANGE}E01: {YELLOW}Incompatible set: {ORANGE}{STRING}
+{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.
+{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+{ORANGE}E04: {YELLOW}Incompatible version: {ORANGE}Total Town Replacement Set must be version release 3.11 or newer.
+{SIGNED_WORD} bale{P 0 "" s} of wool
+{SIGNED_WORD} crate{P 0 "" s} of engineering supplies
+{SIGNED_WORD} crate{P 0 "" s} of farm supplies
+{VOLUME} of acid
+{VOLUME} of ammonia & nitric products
+{VOLUME} of bitumen
+{VOLUME} of chemical intermediates
+{VOLUME} of chemicals
+{VOLUME} of chlorine
+{VOLUME} of coal tar
+{VOLUME} of edible oil
+{VOLUME} of industrial gases
+{VOLUME} of light hydrocarbons
+{VOLUME} of methanol
+{VOLUME} of milk
+{VOLUME} of nitrogen
+{VOLUME} of oxygen
+{VOLUME} of paints & coatings
+{VOLUME} of petroleum fuels
+{VOLUME} of phosphoric acid
+{VOLUME} of sodium hydroxide
+{VOLUME} of sulphuric acid
+{WEIGHT} of aggregates
+{WEIGHT} of alumina
+{WEIGHT} of aluminium
+{WEIGHT} of anhydrite rock
+{WEIGHT} of apples
+{WEIGHT} of barytes & fluorspar
+{WEIGHT} of beans
+{WEIGHT} of billets & blooms
+{WEIGHT} of building materials
+{WEIGHT} of carbon black
+{WEIGHT} of cassava
+{WEIGHT} of cast iron
+{WEIGHT} of cement
+{WEIGHT} of china clay
+{WEIGHT} of clay
+{WEIGHT} of cleaning agents
+{WEIGHT} of coke
+{WEIGHT} of concrete products
+{WEIGHT} of copper
+{WEIGHT} of electrical parts
+{WEIGHT} of engines & driveline
+{WEIGHT} of explosives
+{WEIGHT} of ferroalloys
+{WEIGHT} of fertiliser
+{WEIGHT} of fish & seafood
+{WEIGHT} of flour & starch
+{WEIGHT} of food & beverages
+{WEIGHT} of food additives
+{WEIGHT} of forgings & castings
+{WEIGHT} of frozen food
+{WEIGHT} of fruit
+{WEIGHT} of glass products
+{WEIGHT} of goods
+{WEIGHT} of hardware & finishes
+{WEIGHT} of industrial carbons
+{WEIGHT} of limestone
+{WEIGHT} of logs
+{WEIGHT} of manganese
+{WEIGHT} of meat
+{WEIGHT} of merchant bar
+{WEIGHT} of mineral fillers
+{WEIGHT} of nitrates
+{WEIGHT} of nuts
+{WEIGHT} of packaging
+{WEIGHT} of peat
+{WEIGHT} of phosphate
+{WEIGHT} of pig iron
+{WEIGHT} of plant & machinery
+{WEIGHT} of plastics & resins
+{WEIGHT} of potash
+{WEIGHT} of precision components
+{WEIGHT} of process chemicals
+{WEIGHT} of pumps & valves
+{WEIGHT} of pyrite ore
+{WEIGHT} of quicklime
+{WEIGHT} of raw sugar & molasses
+{WEIGHT} of rebar
+{WEIGHT} of salt
+{WEIGHT} of sand
+{WEIGHT} of scrap metal
+{WEIGHT} of seals, hoses & belts
+{WEIGHT} of slag
+{WEIGHT} of soda ash
+{WEIGHT} of steel
+{WEIGHT} of steel ingots
+{WEIGHT} of steel pipe
+{WEIGHT} of steel plate
+{WEIGHT} of steel sheet & strip
+{WEIGHT} of steel slab
+{WEIGHT} of steel tube
+{WEIGHT} of steel wire rod
+{WEIGHT} of storage tanks & pipework
+{WEIGHT} of structural steel
+{WEIGHT} of sulphur
+{WEIGHT} of timber products
+{WEIGHT} of tin
+{WEIGHT} of tinplate
+{WEIGHT} of tyre cord
+{WEIGHT} of tyres
+{WEIGHT} of vegetables
+{WEIGHT} of vehicle bodies
+{WEIGHT} of vehicle parts
+{WEIGHT} of vehicles
+{WEIGHT} of welding consumables
+{WEIGHT} of wood pulp
+{WEIGHT} of zinc
+{WEIGHT} of zinc ore
+{WEIGHT} sack{P 0 "" s} of coffee
+{WHITE}- this industry has never permanently increased production
+{YELLOW}Required cargos for growth
+{YELLOW}Required cargos for happiness

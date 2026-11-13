@@ -1,0 +1,1360 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x10"
+plural = "6"
+gender = "p n m f"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "Набор CIRS для замены аб’ектаў прамысловасці супольнасці"
+
+[STR_GRF_DESC]
+base = "{ORANGE}Набор CIRS для замены аб’ектаў прамысловасці супольнасці{}{BLACK}Супольнасцю падтрымліваемая галіна FIRS, першапачаткова створаная andythenorth, FooBar, planetmaker, Terkhen і Yexo пры дапамозе многіх іншых аўтараў. {SILVER}Падрабязную інфармацыю, у тым ліку пра тое, як карыстацца CIRS, можна знайсці на сайце. {BLACK}Ліцэнзія: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Максімальная адлегласць месц лоўлі рыбы, нафтавых вышак і участкаў паглыблення дна ад берага, у клетках"
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Кожная эканоміка прадстаўляе розную камбінацыю грузаў і прадпрыемстваў.{}{}Для гульцоў, якія жадаюць простую эканоміку, {SILVER}звычайная {BLACK}эканоміка змяшчае меней прадпрыемстваў і грузаў, чым іншыя эканомікі CIRS.{}{} Веб-сайт CIRS прадугледжвае дэтальную інфармацыю пра кожную эканоміку."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Макс. аддалённасць прадпрыемстваў на моры ад узбярэжжа, у клетках"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Эканоміка"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Без абмежаванняў"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Колькі матэрыялаў патрабуецца для палепшанага (x2) ўзроўня вытворчасці (па змаўчанні 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Колькі матэрыялаў патрабуецца для найлепшага (x4) ўзроўня вытворчасці (па змаўчанні 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Фермы, шахты і іншыя падобныя прадпрыемствы будуць павялічваць узровень сваёй вытворчасці, калі пастаўляюцца скрыні з таварамі: спачатку {SILVER} палепшаны (x2){BLACK} ўзровень, а пасля {SILVER} найлепшы (x4) {BLACK}, калі пастаўляецца дастаткова скрынь.{}{} Значэнні па змаўчанні з'яўляюцца добрымі, але па вашаму жаданні вы можаце змяніць іх.{}{} Патрабаванне грузаў для партовых прадпрыемстваў будзе 8x ад значэння, ўсталяванага тут."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Палепшаны (x2) узровень вытворчасці (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Найлепшы ўзровень вытворчасці (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Вытворчасць на фермах, у шахтах і аналагічных прадпрыемствах, калі патрабаванні харчавання выкананы (працэнт ад {SILVER}звычайнага {BLACK}ўзроўня вытворчасці)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Звычайная эканоміка, умераны клімат"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Звычайная эканоміка, субарктычны клімат"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Звычайная эканоміка, субтрапічны клімат"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Субтрапічная краіна"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Мілд Мілд Уэст"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Стальны пояс"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "Аб’екты ландшафту CIRS"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS уключае набор аб’ектаў ландшафту, якія гульцы могуць размяшчаць, каб пэўныя галіны выглядалі большымі. Аб’екты ландшафту не ўплываюць на гульню. Іх можна ўключаць або выключаць."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(неабавязкова)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = "{BLACK}(пастаўляецца)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Вытворчасць на максімальным ўзроўні, калі прывозіцца{WHITE}любы{BLACK} з патрабуемых матэрыялаў."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Для максімальнай хуткасці вытворчасці пастаўляйце {WHITE}абодва {BLACK}неабходныя грузы як мінімум раз на тры хвіліны."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Для дасягнення максімальнай хуткасці вытворчасці пастаўляйце {WHITE}усе неабходныя {BLACK}грузы прынамсі раз на тры хвіліны."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Для максімальнай хуткасці вытворчасці пастаўляйце {WHITE}прынамсі два {BLACK}неабходныя грузы як мінімум раз на тры хвіліны."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Для дасягнення максімальнай хуткасці вытворчасці пастаўляйце {WHITE}прынамсі тры неабходныя {BLACK}грузы прынамсі раз на тры хвіліны."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Вытворчасць прапарцыянальная колькасці жыхароў горада. Кожную хвіліну будзе вырабляцца не менш за {WHITE}{SIGNED_WORD} адзінак{BLACK} і не больш за {WHITE}{SIGNED_WORD} адзінак{BLACK} грузу."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Узровень вытворчасці: {YELLOW}Звычайны{}{}{BLACK}Для паляпшэння ўзроўня да {WHITE}палепшанага {BLACK}, дастаўце {SIGNED_WORD} на працягу трох месяцаў.{}Каб палепшыць узровень да {WHITE}найлепшага {BLACK}, дастаўце {SIGNED_WORD}."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Цяперашняя вытворчасць: {YELLOW}Павышаная {}{}{BLACK}Каб падтрымліваць гэты ўзровень, дастаўляйце {SIGNED_WORD} скрынь паставак прынамсі раз на тры хвіліны.{}Для вытворчасці ў рэжыме {WHITE}Gung-ho {BLACK}дастаўляйце {SIGNED_WORD} скрынь."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Узровень вытворчасці: {YELLOW}Найлепшы (x4){}{}{BLACK}Для падтрымкі гэтага ўзроўня дастаўце{SKIP}{SIGNED_WORD} скрын{P ку і ак} матэрыялаў на працягу трох месяцаў."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Узровень вытворчасці: {YELLOW}Звычайны{}{}{BLACK}Для паляпшэння ўзроўня да {WHITE}палепшанага {BLACK}, дастаўце {SIGNED_WORD} на працягу трох месяцаў.{}Каб палепшыць узровень да {WHITE}найлепшага {BLACK}, дастаўце {SIGNED_WORD}."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Цяперашняя вытворчасць: {YELLOW}Павышаная {}{}{BLACK}Каб падтрымліваць гэты ўзровень, дастаўляйце {SIGNED_WORD} адзінак грузу прынамсі раз на тры хвіліны.{}Для вытворчасці ў рэжыме {WHITE}Gung-ho {BLACK}дастаўляйце {SIGNED_WORD} адзінак."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Узровень вытворчасці: {YELLOW}Найлепшы (x4){}{}{BLACK}Для падтрымкі гэтага ўзроўня дастаўце{SKIP}{SIGNED_WORD} скрын{P ку і ак} матэрыялаў на працягу трох месяцаў."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS патрабуе OpenTTD 1.7.0 (або, для тых, хто карыстаецца зборкамі з галоўнай галіны, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Несумяшчальны набор: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Несумяшчальны параметр: {ORANGE}Параметр CanSet 2 павінен быць роўны 0, каб працаваць з CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Несумяшчальны параметр: {ORANGE}Параметр NA City Set 2 павінен быць роўны 0, каб працаваць з CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Несумяшчальная версія: {ORANGE}Total Town Replacement Set павінен быць версіі 3.11 або пазнейшай."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "можна размясціць толькі ніжэй лініі снежнага пакрова."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "немагчыма размясціць на крутых схілах."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Ня можа быць пабудавана на снезе ці ў пустыне."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана на снезе ці ў пустыне."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана на снезе ці ў пустыне."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана на снезе ці ў пустыне."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана ў пустыне."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана на снезе."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана на снезе."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана на снезе ці ў пустыне."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана на снезе ці ў пустыне."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Мясцовасць: {YELLOW}Не можа быць пабудавана на снезе ці ў пустыне."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "{G=f}Кіслата"
+cargo_unit = "{VOLUME} кіслаты"
+cid = "{TINYFONT}КС"
+
+[STR_CARGO_AGGREGATES]
+name = "Агранаты"
+cargo_unit = "{WEIGHT} аграгатаў"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Алюміній"
+cargo_unit = "{WEIGHT} алюмінію"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Алюміна"
+cargo_unit = "{WEIGHT} аксиду алюмінію"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Аміяк і прадукты азотнай кіслаты"
+cargo_unit = "{VOLUME} аміяку і нітратнай прадукцыі"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Ангідрытавая парода"
+cargo_unit = "{WEIGHT} ангідрытавай пароды"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Яблыкі"
+cargo_unit = "{WEIGHT} яблыкаў"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "{G=f}Фасоля"
+cargo_unit = "{WEIGHT} фасолі"
+cid = "{TINYFONT}ФС"
+
+[STR_CARGO_BITUMEN]
+name = "Бітум"
+cargo_unit = "{VOLUME} бітуму"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "{G=p}Будматэрыялы"
+cargo_unit = "{WEIGHT} будматэрыялаў"
+cid = "{TINYFONT}БМ"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Чорны вугаль"
+cargo_unit = "{WEIGHT} чорнага вугляроду"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "{G=m}Маніёк"
+cargo_unit = "{WEIGHT} маніёку"
+cid = "{TINYFONT}МК"
+
+[STR_CARGO_CAST_IRON]
+name = "Чыгунка"
+cargo_unit = "{WEIGHT} чыгункі"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "{G=m}Цэмент"
+cargo_unit = "{WEIGHT} цэменту"
+cid = "{TINYFONT}ЦЭ"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Хімічныя прамежкавыя прадукты"
+cargo_unit = "{VOLUME} хімічных прамежкавых прадуктаў"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "{G=p}Хімікаты"
+cargo_unit = "{VOLUME} хімікатаў"
+cid = "{TINYFONT}ХМ"
+
+[STR_CARGO_CHLORINE]
+name = "Хлор"
+cargo_unit = "{VOLUME} хлору"
+cid = "{TINYFONT}ХЛ"
+
+[STR_CARGO_CLAY]
+name = "{G=f}Гліна"
+cargo_unit = "{WEIGHT} гліны"
+cid = "{TINYFONT}ГЛ"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Сродкі для ачысткі"
+cargo_unit = "{WEIGHT} чысцільных сродкаў"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "{G=f}Кава"
+cargo_unit = "{WEIGHT} мяшок кавы"
+cid = "{TINYFONT}КВ"
+
+[STR_CARGO_COAL_TAR]
+name = "Вугальны катрань"
+cargo_unit = "{VOLUME} вугальнага дегцю"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "{G=m}Кокс"
+cargo_unit = "{WEIGHT} коксу"
+cid = "{TINYFONT}КК"
+
+[STR_CARGO_COMPONENTS]
+name = "Высокаточныя кампаненты"
+cargo_unit = "{WEIGHT} дакладных кампанентаў"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Бетонныя вырабы"
+cargo_unit = "{WEIGHT} бетонных вырабаў"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "{G=f}Медзь"
+cargo_unit = "{WEIGHT} медзі"
+cid = "{TINYFONT}МЕ"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "{G=f}Сланечнікавая алея"
+cargo_unit = "{VOLUME} сланечнікавага алея"
+cid = "{TINYFONT}СА"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Электрычныя дэталі"
+cargo_unit = "{WEIGHT} электрычных частак"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Абсталяванне"
+cargo_unit = "{SIGNED_WORD} адзін{P 0 ка кі \"\"} абсталявання"
+cid = "{TINYFONT}ЭЛ"
+
+[STR_CARGO_EXPLOSIVES]
+name = "{G=p}Выбуховыя рэчывы"
+cargo_unit = "{WEIGHT} выбухоўных рэчываў"
+cid = "{TINYFONT}ВР"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ферасплавы"
+cargo_unit = "{WEIGHT} феррасплаваў"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Рыба і марскія прадукты"
+cargo_unit = "{WEIGHT} рыбы і марскіх прадуктаў"
+cid = "{TINYFONT}РЫ"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "{G=p}Агратэхсродкі"
+cargo_unit = "{SIGNED_WORD} адзін{P 0 ка ак \"\"} агратэхсродкаў"
+cid = "{TINYFONT}АГ"
+
+[STR_CARGO_FERTILISER]
+name = "{G=p}Угнаенні"
+cargo_unit = "{WEIGHT} ўгнаенняў"
+cid = "{TINYFONT}УГ"
+
+[STR_CARGO_FLOUR]
+name = "Мукі і крухмал"
+cargo_unit = "{WEIGHT} мукі і крахмалу"
+cid = "{TINYFONT}УГ"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Дадаткі да ежы"
+cargo_unit = "{WEIGHT} харчовых дабавак"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Ежа і напоі"
+cargo_unit = "{WEIGHT} ежы і напояў"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Ковані і ліўкі"
+cargo_unit = "{WEIGHT} выкоўных і ліцых вырабаў"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Марожаная ежа"
+cargo_unit = "{WEIGHT} марожанай ежы"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "{G=f}Садавіна"
+cargo_unit = "{WEIGHT} садавіны"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Шкляныя вырабы"
+cargo_unit = "{WEIGHT} шкляной прадукцыі"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Фіксатары і аздабленне"
+cargo_unit = "{WEIGHT} металапрадукцыі і аздабленняў"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Прамысловыя вугляродыстыя матэрыялы"
+cargo_unit = "{WEIGHT} прамысловых вугляў"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Прамысловыя газы"
+cargo_unit = "{VOLUME} прамысловых газаў"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "{G=m}Каалін"
+cargo_unit = "{WEIGHT} кааліну"
+cid = "{TINYFONT}КА"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Лёгкія вуглевадароды"
+cargo_unit = "{VOLUME} лёгкіх вуглевадародаў"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "{G=m}Вапняк"
+cargo_unit = "{WEIGHT} вапняку"
+cid = "{TINYFONT}ВП"
+
+[STR_CARGO_LOGS]
+name = "Брускі"
+cargo_unit = "{WEIGHT} бярэзак"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Надравы гідраксід"
+cargo_unit = "{VOLUME} лугу"
+cid = "{TINYFONT}ШЧ"
+
+[STR_CARGO_METHANOL]
+name = "Метанол"
+cargo_unit = "{VOLUME} метанолу"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "{G=n}Малако"
+cargo_unit = "{VOLUME} малака"
+cid = "{TINYFONT}МЛ"
+
+[STR_CARGO_MANGANESE]
+name = "{G=m}Марганец"
+cargo_unit = "{WEIGHT} марганца"
+cid = "{TINYFONT}МН"
+
+[STR_CARGO_MEAT]
+name = "Мяса"
+cargo_unit = "{WEIGHT} мяса"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Барыт і флюарыт"
+cargo_unit = "{WEIGHT} барыту і флюарыту"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Мінеральныя напаўняльнікі"
+cargo_unit = "{WEIGHT} мінеральных напаўняльнікаў"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Неапрацаваны цукар і меласа"
+cargo_unit = "{WEIGHT} сырога цукру і меласы"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "{G=p}Нітраты"
+cargo_unit = "{WEIGHT} нітратаў"
+cid = "{TINYFONT}НТ"
+
+[STR_CARGO_NITROGEN]
+name = "Азот"
+cargo_unit = "{VOLUME} азоту"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "{G=p}Арэхі"
+cargo_unit = "{WEIGHT} арэхаў"
+cid = "{TINYFONT}АР"
+
+[STR_CARGO_OXYGEN]
+name = "Кісларод"
+cargo_unit = "{VOLUME} кіслароду"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Упакоўка"
+cargo_unit = "{WEIGHT} упакоўкі"
+cid = "{TINYFONT}УП"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Фарбы і пакрыцці"
+cargo_unit = "{VOLUME} фарбаў і пакрыццяў"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "{G=m}Торф"
+cargo_unit = "{WEIGHT} торфу"
+cid = "{TINYFONT}ТФ"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "{G=m}Бензін"
+cargo_unit = "{VOLUME} бензіну"
+cid = "{TINYFONT}БЗ"
+
+[STR_CARGO_PIPEWORK]
+name = "Рэзервуары для захоўвання і трубаправоды"
+cargo_unit = "{WEIGHT} сховішчных цыстэрн і трубаводу"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "{G=p}Фасфаты"
+cargo_unit = "{WEIGHT} фасфатаў"
+cid = "{TINYFONT}ФС"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Фасфаравая кіслата"
+cargo_unit = "{VOLUME} фасфарнай кіслаты"
+cid = "{TINYFONT}КА"
+
+[STR_CARGO_PIG_IRON]
+name = "{G=m}Чыгун"
+cargo_unit = "{WEIGHT} чыгуна"
+cid = "{TINYFONT}ЧГ"
+
+[STR_CARGO_PLASTICS]
+name = "Пластыкі і смолы"
+cargo_unit = "{WEIGHT} пластыкаў і смал"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Расліны і машыны"
+cargo_unit = "{WEIGHT} раслін і абсталявання"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Калій"
+cargo_unit = "{WEIGHT} калію"
+cid = "{TINYFONT}КА"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Працэсныя хімікаты"
+cargo_unit = "{WEIGHT} працэсных хімікатаў"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Насосы і клапаны"
+cargo_unit = "{WEIGHT} помп і клапанаў"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "{G=f}Пірытавая руда"
+cargo_unit = "{WEIGHT} пірытавай руды"
+cid = "{TINYFONT}КЧ"
+
+[STR_CARGO_QUICKLIME]
+name = "{G=m}Кальцый"
+cargo_unit = "{WEIGHT} марганца"
+cid = "{TINYFONT}КЛ"
+
+[STR_CARGO_REBAR]
+name = "Арматура"
+cargo_unit = "{WEIGHT} арматуры"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "{G=f}Соль"
+cargo_unit = "{WEIGHT} солі"
+cid = "{TINYFONT}СО"
+
+[STR_CARGO_SAND]
+name = "{G=m}Пясок"
+cargo_unit = "{WEIGHT} пяску"
+cid = "{TINYFONT}ПС"
+
+[STR_CARGO_SCRAP_METAL]
+name = "{G=m}Металалом"
+cargo_unit = "{WEIGHT} металалому"
+cid = "{TINYFONT}МЛ"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Ушчыльняльнікі, шлангі і рамяні"
+cargo_unit = "{WEIGHT} ушчыльняльнікаў, шлангаў і рамяняў"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "{G=m}Дзындра"
+cargo_unit = "{WEIGHT} дзындры"
+cid = "{TINYFONT}ШЛ"
+
+[STR_CARGO_SODA_ASH]
+name = "{G=f}Сода"
+cargo_unit = "{WEIGHT} соды"
+cid = "{TINYFONT}СО"
+
+[STR_CARGO_STEEL]
+name = "{G=f}Сталь"
+cargo_unit = "{WEIGHT} сталі"
+cid = "{TINYFONT}СЛ"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Білеты і блумы"
+cargo_unit = "{WEIGHT} сліткаў і слітак-блумоў"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Сталевыя сліткі"
+cargo_unit = "{WEIGHT} сталёвых сліткаў"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Гандлёвы бар"
+cargo_unit = "{WEIGHT} камерцыйнага прута"
+cid = "{TINYFONT}БР"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Сталевая труба"
+cargo_unit = "{WEIGHT} сталёвай трубы"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Сталевы ліст"
+cargo_unit = "{WEIGHT} сталёвага ліста"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Сталевы ліст і стужка"
+cargo_unit = "{WEIGHT} сталёвага аркуша і стужкі"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Сталевы слаб"
+cargo_unit = "{WEIGHT} сталёвага слітка-пліты"
+cid = "{TINYFONT}СЛ"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Сталевая трубка"
+cargo_unit = "{WEIGHT} сталёвай трубки"
+cid = "{TINYFONT}ВП"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Сталевая прутковая заготовка"
+cargo_unit = "{WEIGHT} сталёвага дротавога прутка"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Канструкцыйная сталь"
+cargo_unit = "{WEIGHT} канструкцыйнай сталі"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "{G=f}Сера"
+cargo_unit = "{WEIGHT} серы"
+cid = "{TINYFONT}СЕ"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Сярная кіслата"
+cargo_unit = "{VOLUME} сернай кіслаты"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Драўныя прадукты"
+cargo_unit = "{WEIGHT} драўяных вырабаў"
+cid = "{TINYFONT}БВ"
+
+[STR_CARGO_TIN]
+name = "Воўка"
+cargo_unit = "{WEIGHT} волака"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Воўкавана"
+cargo_unit = "{WEIGHT} жэставай блехі"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Апорны кандат шын"
+cargo_unit = "{WEIGHT} апраўкі для шын"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Шыны"
+cargo_unit = "{WEIGHT} шын"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Агародніна"
+cargo_unit = "{WEIGHT} гародніны"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "{G=p}Кузавы аўтамабіляў"
+cargo_unit = "{WEIGHT} кузавоў аўтамабіляў"
+cid = "{TINYFONT}АЗ"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Рухавікі і трансмісія"
+cargo_unit = "{WEIGHT} рухавікоў і трансмісій"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "{G=p}Часткі аўтамабіляў"
+cargo_unit = "{WEIGHT} частак аўтамабіляў"
+cid = "{TINYFONT}АЗ"
+
+[STR_CARGO_VEHICLES]
+name = "{G=p}Аўтамабілі"
+cargo_unit = "{WEIGHT} аўтамабіляў"
+cid = "{TINYFONT}АМ"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Зварачныя матэрыялы"
+cargo_unit = "{WEIGHT} зварачных матэрыялаў"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Дрэваматэрыяльная маса"
+cargo_unit = "{WEIGHT} драўнянай масы"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "{G=f}Шэрсць"
+cargo_unit = "{SIGNED_WORD} звяз{P 0 \"ка\" \"кі\" \"ак\"} шэрсці"
+cid = "{TINYFONT}ШР"
+
+[STR_CARGO_ZINC]
+name = "{G=m}Цынк"
+cargo_unit = "{WEIGHT} цынку"
+cid = "{TINYFONT}ЦН"
+
+[STR_CARGO_ZINC_ORE]
+name = "Руда цынку"
+cargo_unit = "{WEIGHT} цынкавай руды"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} тавараў"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "{G=m}Алюмініевы завод"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Аміякавы комплекс"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Руднік ангідрыту"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Ангідрытавы працэсны завод"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Завод бытавой тэхнікі"
+
+[STR_IND_ARABLE_FARM]
+base = "{G=f}Земляробчая гаспадарка"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "{G=m}Аўтазавод"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Станок для пракаткі секцый і прутаў"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "{G=m}Кіслародна-канвертарны завод"
+
+[STR_IND_BLAST_FURNACE]
+base = "{G=f}Доменная печ"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Фабрыка ДСП"
+
+[STR_IND_BODY_PLANT]
+base = "Карпус аўтамабіля"
+
+[STR_IND_BREWERY]
+base = "{G=m}Бровар"
+
+[STR_IND_CIDER_MILL]
+base = "{G=m}Браварня"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Будаўнічая пляцоўка" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Завод карбонавай чорнаты"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Цэлюлозна-плёнкавы завод"
+
+[STR_IND_CEMENT_PLANT]
+base = "{G=m}Цэментны завод"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Хімічны комплекс"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Завод выбухоўкі"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Хлор-шчолачны завод"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "{G=m}Гліняны кар'ер"
+
+[STR_IND_COFFEE_ESTATE]
+base = "{G=f}Кававая плантацыя"
+
+[STR_IND_COKE_OVEN]
+base = "{G=f}Коксавая печ"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Бетонны завод"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Хімічны цэх партыянага вытворцтва"
+
+[STR_IND_COPPER_SMELTER]
+base = "{G=f}Пераапрацоўка меднай руды"
+
+[STR_IND_CRYO_PLANT]
+base = "Крыазавод"
+
+[STR_IND_DAIRY]
+base = "{G=m}Малаказавод"
+
+[STR_IND_DAIRY_FARM]
+base = "{G=f}Малочная ферма"
+
+[STR_IND_DREDGING_SITE]
+base = "{G=m}Участак паглыблення дна"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Завод па вытворчасці эластомернай прадукцыі"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "{G=m}Металургічны завод"
+
+[STR_IND_ENGINE_PLANT]
+base = "Завод рухавікоў"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Інжынерныя працоўныя майстэрні"
+
+[STR_IND_FARM]
+base = "Ферма"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Завод па вытворчасці працэсных хімікатаў"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Ферментацыйны завод"
+
+[STR_IND_FISH_FARM]
+base = "Рыбная ферма"
+
+[STR_IND_FISHING_GROUND]
+base = "{G=n}Месца лоўлі рыбы"
+
+[STR_IND_FISHING_HARBOUR]
+base = "{G=m}Рыбалоўны порт"
+
+[STR_IND_GRAIN_MILL]
+base = "Млын для зерня"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "{G=m}Харчовы камбінат"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Сталеліццё і ліўка"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Завод марожанай ежы"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "{G=f}Фабрыка мэблі"
+
+[STR_IND_GENERAL_STORE]
+base = "{G=f}Гандлёвы цэнтр"
+
+[STR_IND_GLASS_WORKS]
+base = "{G=m}Шклозавод"
+
+[STR_IND_HERDING_COOP]
+base = "{G=m}Хутар"
+
+[STR_IND_HOTEL]
+base = "{G=m}Гатэль"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Фабрыка марожаных дэсертаў"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Сталеліццё"
+
+[STR_IND_SCRAP_YARD]
+base = "{G=f}Сметнішча"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "{G=m}Вапняковы завод"
+
+[STR_IND_LIMESTONE_MINE]
+base = "{G=m}Вапнавы кар'ер"
+
+[STR_IND_MANGANESE_MINE]
+base = "{G=m}Марганцовая шахта"
+
+[STR_IND_METAL_WORKS]
+base = "Металапрацоўка"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Завод мінеральных напаўняльнікаў"
+
+[STR_IND_NITRATE_MINE]
+base = "{G=m}Нітратавая шахта"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Завод прамысловых хімікатаў"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Нафтава-хімічны тэрмінал"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Сады і сельская гаспадарка"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Фабрыка бутэлек і банак"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Фабрыка папяровай прадукцыі"
+
+[STR_IND_PEATLANDS]
+base = "{G=f}Тарфяное прадпрыемства"
+
+[STR_IND_PETROLPUMP]
+base = "АЗС"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "{G=m}Фасфатавая шахта"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Завод па вытворчасці угнаенняў і кіслат"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Камэрцыйная хлебабуханя"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Трубазавод"
+
+[STR_IND_PLATE_MILL]
+base = "Станок для рэзкі пліт"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Фабрыка пластыкавых прадметаў ліцця"
+
+[STR_IND_PORT]
+base = "{G=m}Порт"
+
+[STR_IND_POTASH_MINE]
+base = "{G=p}Калійныя шахты"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Фабрыка сістэм энергазабеспячэння"
+
+[STR_IND_POWER_PLANT]
+base = "{G=f}Электрастанцыя"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Завод высокаточных дэталяў"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Упакоўшчык прадукцыі"
+
+[STR_IND_PYRITE_MINE]
+base = "{G=f}Пірытавая шахта"
+
+[STR_IND_PYRITE_SMELTER]
+base = "{G=m}Пірытаплавільны завод"
+
+[STR_IND_QUARRY]
+base = "{G=f}Каменяломня"
+
+[STR_IND_RANCH]
+base = "{G=m}Фальварак"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Завод па здабыванні каменю"
+
+[STR_IND_SALT_WORKS]
+base = "Салаварня"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "{G=m}Завод па пераапрацоўцы дзындры"
+
+[STR_IND_SODA_ASH_MINE]
+base = "{G=f}Содавая пячора"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Фабрыка гатовых прадуктаў харчавання"
+
+[STR_IND_STOCKYARD]
+base = "{G=m}Мясакамбінат"
+
+[STR_IND_STRIP_MILL]
+base = "Стан для прасоўвання сталёвай стужкі"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "{G=m}Цукровы завод"
+
+[STR_IND_SUPPLY_YARD]
+base = "{G=m}Склад пастаўкі"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "{G=m}Драўняны двор"
+
+[STR_IND_TIN_MINE]
+base = "Воўкавая шахта"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Воўкаваны завод"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Завод гусенічных машын"
+
+[STR_IND_TRADING_POST]
+base = "{G=m}Гандлёвы пункт"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Трубапрацоўчы цэх"
+
+[STR_IND_TYRE_PLANT]
+base = "{G=m}Шынны завод"
+
+[STR_IND_VINEYARD]
+base = "{G=p}Вінаграднікі"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Распаўсюджвальнік транспартных сродкаў"
+
+[STR_IND_WHARF]
+base = "{G=m}Верф"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Станок для вытворчасці дротавых пруткоў"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Руднік цынку"
+
+[STR_IND_ZINC_SMELTER]
+base = "Плавільня цынку"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "{G=m}Конны кірмаш"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Электрапрылады"
+
+[STR_STATION_AUTOMOTIVE]
+base = "{G=f}Мантажная"
+
+[STR_STATION_BAKERY]
+base = "Хлебазавод"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Балкі"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "{G=m}Гатэль"
+
+[STR_STATION_BARNS]
+base = "{G=f}Варыўня"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "{G=f}Вінакурня"
+
+[STR_STATION_BASE]
+base = "{G=f}Апаратная база"
+
+[STR_STATION_BONEYARD]
+base = "{G=n}Сметнішча"
+
+[STR_STATION_BANK_TOP]
+base = "{G=m}Адвал"
+
+[STR_STATION_BODY_PLANT]
+base = "Прэсаваныя вырабы"
+
+[STR_STATION_BRINE_WORKS]
+base = "Завод па вытворчасці рассолу"
+
+[STR_STATION_BUILDERS_YARD]
+base = "{G=m}Склад будматэрыялаў"
+
+[STR_STATION_COLLIERY]
+base = "{G=f}Вугальная шахта"
+
+[STR_STATION_COMPONENTS]
+base = "Кампаненты"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Зборныя канструкцыі"
+
+[STR_STATION_COPPER_LODE]
+base = "{G=f}Медная рудня"
+
+[STR_STATION_CREOSOTING]
+base = "Мазутная"
+
+[STR_STATION_CRYO_PLANT]
+base = "Крыазавод"
+
+[STR_STATION_DAIRY_LANE]
+base = "{G=f}Малочная"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Ушчыльняльнікі і шлангі"
+
+[STR_STATION_ESTATE]
+base = "{G=m}Маёнтак"
+
+[STR_STATION_FACTORY]
+base = "Завод"
+
+[STR_STATION_FARM_1]
+base = "{G=f}Сядзіба"
+
+[STR_STATION_FARM_2]
+base = "{G=p}Луга"
+
+[STR_STATION_FARM_3]
+base = "{G=m}Фальварак"
+
+[STR_STATION_FISHMARKET]
+base = "{G=m}Рыбны рынак"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "{G=m}Камбінат харчовых прадуктаў"
+
+[STR_STATION_FOREST]
+base = "{G=f}Праталіна"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Майстры сталеліцця"
+
+[STR_STATION_FREEZERS]
+base = "Марозільнікі"
+
+[STR_STATION_FURNACE]
+base = "Заводская"
+
+[STR_STATION_METAL_WORKS]
+base = "Металічныя вырабы"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Прамысловая"
+
+[STR_STATION_HERDING_COOP]
+base = "{G=f}Сядзіба"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "{G=m}Прамзона"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "{G=n}Узбярэжжа"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "{G=f}Прыстань"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Берагавая лінія"
+
+[STR_STATION_IRONSTONE]
+base = "{G=f}Рудня"
+
+[STR_STATION_KILNS]
+base = "{G=f}Цагельня"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "{G=p}Паклады кімберліту"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "{G=m}Вапняковая шахта"
+
+[STR_STATION_MANGANESE_MINES]
+base = "{G=m}Марганцовая шахта"
+
+[STR_STATION_MILL]
+base = "{G=m}Фабрычная"
+
+[STR_STATION_MILLS]
+base = "Млыны"
+
+[STR_STATION_MINES]
+base = "Галоўным чынам каровы, свіні і авечкі для вытворчасці мяса. Іншых жывёл таксама могуць есці."
+
+[STR_STATION_MOULDINGS]
+base = "{G=f}Фармоўка"
+
+[STR_STATION_OIL_RIG]
+base = "{G=f}Нафтавая вышка"
+
+[STR_STATION_ORCHARDS]
+base = "{G=p}Сады"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Патокавая лінія"
+
+[STR_STATION_PIT]
+base = "{G=f}Капальня"
+
+[STR_STATION_PLANT]
+base = "Завод"
+
+[STR_STATION_PLANTATION]
+base = "{G=f}Плантацыя"
+
+[STR_STATION_PLATE_MILL]
+base = "Склад слітаў"
+
+[STR_STATION_POTASH_MINE]
+base = "Мінералы"
+
+[STR_STATION_POWERHUNGRY]
+base = "{G=f}Электрастанцыя"
+
+[STR_STATION_POWERTRAIN]
+base = "Сілавы тракт"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Расліны і машыны"
+
+[STR_STATION_PUMPS]
+base = "Вадапомпавая"
+
+[STR_STATION_PYRITES]
+base = "{G=p}Паклады пірыту"
+
+[STR_STATION_REFINERY]
+base = "{G=f}Рэфінэрыя"
+
+[STR_STATION_ROD_MILL]
+base = "Станок для выкаўлівання пруткоў"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "{G=f}Гумавая плантацыя"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "{G=m}Азот"
+
+[STR_STATION_SEAFOOD]
+base = "Марскія прадукты"
+
+[STR_STATION_SHARP_STREET]
+base = "Шклозаводская"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "{G=m}Рыбпрам"
+
+[STR_STATION_SILO]
+base = "Сіласная"
+
+[STR_STATION_SMELTER]
+base = "Металургічны завод"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Сапёжная печ"
+
+[STR_STATION_SOUPS]
+base = "Супы"
+
+[STR_STATION_STRIP_MILL]
+base = "Лінія бобінак"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "{G=m}Цукровы завод"
+
+[STR_STATION_TANK_FARM]
+base = "{G=m}Нафтапорт"
+
+[STR_STATION_TAPPERS_SHED]
+base = "{G=f}Плантацыя каучуку"
+
+[STR_STATION_TOWN_3]
+base = "{G=m}Гандлёвы цэнтр"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Завод па вытворчасці паўзучай тэхнікі"
+
+[STR_STATION_TRONA_BEDS]
+base = "Салянка"
+
+[STR_STATION_TUBE_MILL]
+base = "Трубны млын"
+
+[STR_STATION_WATER]
+base = "{G=m}Участак паглыблення дна"
+
+[STR_STATION_WELLS]
+base = "{G=p}Свідравыя ўстаноўкі"
+
+[STR_STATION_WHEAL]
+base = "Калодзеж"
+
+[STR_STATION_WINERY]
+base = "{G=m}Віна-гарэлкавы завод"
+
+[STR_STATION_WORKS]
+base = "Прамысловая"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Паркоўка грузавікоў"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "ЗЕМЛЯ"
+
+[STR_BADGE_SEA]
+base = "МАРЫ"

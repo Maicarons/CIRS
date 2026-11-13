@@ -1,0 +1,554 @@
+{"i":0,"tr":" {BLACK}(voliteľné)"}
+{"i":1,"tr":" {BLACK}(dodávané)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Kyselina"}
+{"i":4,"tr":"Agregáty"}
+{"i":5,"tr":"Hliníkový oxid"}
+{"i":6,"tr":"Hliník"}
+{"i":7,"tr":"Amoniak a dusičnanové produkty"}
+{"i":8,"tr":"Komplex amoniaku"}
+{"i":9,"tr":"Bane anhydritu"}
+{"i":10,"tr":"Zariadenie na spracovanie anhydritu"}
+{"i":11,"tr":"Anhydritová hornina"}
+{"i":12,"tr":"Jablká"}
+{"i":13,"tr":"Továreň na spotrebnú techniku"}
+{"i":14,"tr":"Sú navždy atď."}
+{"i":15,"tr":"Automobilový priemysel"}
+{"i":16,"tr":"Dostupné vo všetkých ekonomikách. Vyrábajú sa a prijímajú mestské budovy, ako aj niektoré odvetvia."}
+{"i":17,"tr":"Dostupné vo všetkých ekonomikách. Vyrábajú sa a prijímajú mestské budovy."}
+{"i":18,"tr":"Pekáreň"}
+{"i":19,"tr":"Baly."}
+{"i":20,"tr":"Vrch banky"}
+{"i":21,"tr":"Bar, gril a izby"}
+{"i":22,"tr":"Sud a kane"}
+{"i":23,"tr":"Baryty a fluorit"}
+{"i":24,"tr":"Základné železo z výškovej pece, ako roztavená kvapalina alebo pevné ingoty."}
+{"i":25,"tr":"Šaržová chemická továreň"}
+{"i":26,"tr":"Polotovary a bloky"}
+{"i":27,"tr":"Polotovary, bloky, ingoty a plechy."}
+{"i":28,"tr":"Biomasa z rašelinísk, získavaná na palivo a v záhradníctve."}
+{"i":29,"tr":"Bitúmen"}
+{"i":30,"tr":"Továreň na karosérie"}
+{"i":31,"tr":"Šrotovisko"}
+{"i":32,"tr":"Továreň na fľaše a plechovky"}
+{"i":33,"tr":"Krabice, fľaše, poháre, plechovky atď."}
+{"i":34,"tr":"Továreň na solanku"}
+{"i":35,"tr":"Vedľajší produkt výroby koksu, hustá kvapalina s pomalým tokom."}
+{"i":36,"tr":"CIRS"}
+{"i":37,"tr":"Kompletná sada nahradenia priemyslu CIRS"}
+{"i":38,"tr":"CIRS obsahuje súbor objektov terénneho úpravy, ktoré môžu hráči umiestňovať, aby sa určité odvetvia zdali väčšie. Objekty terénnej úpravy nemajú žiadny vplyv na hrateľnosť. Objekty terénnej úpravy možno zapínať a vypínať."}
+{"i":39,"tr":"Objekty terénnej úpravy CIRS"}
+{"i":40,"tr":"Kabíny, kapoty, dvere a podobné konštrukcie karosérie na výrobu vozidiel."}
+{"i":41,"tr":"Oxid vápenatý, známy aj ako pálené vápno. Prepravuje sa vo forme jemného prášku, ktorý musí zostať suchý."}
+{"i":42,"tr":"Uhlíkový čierny pigment"}
+{"i":43,"tr":"Závod na výrobu uhlíkového čierneho pigmentu"}
+{"i":44,"tr":"Liatina"}
+{"i":45,"tr":"Liate výrobky, ako sú bloky, nosníky a panely. Môžu sa tiež spracovávať ako hotový betón v miešacích vozidlách."}
+{"i":46,"tr":"Závod na výrobu celulózových fólií"}
+{"i":47,"tr":"Cement"}
+{"i":48,"tr":"Cement, sklo, kovové súčasti, výrobky zo dreva, potrubia a podobné stavebné materiály."}
+{"i":49,"tr":"Chemický komplex"}
+{"i":50,"tr":"Chemické medziprodukty"}
+{"i":51,"tr":"Chemikálie, mydlá, čistiace prostriedky atď. na priemyselné a domáce použitie. Predovšetkým tekuté, ale môžu byť aj práškové alebo pevné (napríklad piesok na tryskanie)."}
+{"i":52,"tr":"Kina"}
+{"i":53,"tr":"Továreň na drevotrieskové dosky"}
+{"i":54,"tr":"Chlóro-alkalický závod"}
+{"i":55,"tr":"Chlór"}
+{"i":56,"tr":"Mlyn na jablkový mošt"}
+{"i":57,"tr":"Civilné výbušniny na ťažbu, stavebníctvo atď."}
+{"i":58,"tr":"Čistiace prostriedky"}
+{"i":59,"tr":"Uhoľ"}
+{"i":60,"tr":"Uhoľný baňový komplex"}
+{"i":61,"tr":"Uhoľný decht"}
+{"i":62,"tr":"Uhoľ, ktorý bol zahriaty v koksovacej peci, čím vzniká palivo pozostávajúce takmer výlučne z uhlíka."}
+{"i":63,"tr":"Hrubý piesok na stavebné účely alebo jemný kremičitý piesok na výrobu skla a liatie kovov. Prepravuje sa ako sypký materiál alebo prášok."}
+{"i":64,"tr":"Cievková linka"}
+{"i":65,"tr":"Koksovacia pec"}
+{"i":66,"tr":"Uhoľný banícky komplex"}
+{"i":67,"tr":"Komerčná pekáreň"}
+{"i":68,"tr":"Bežné bôby, fazole, sójové bôby a podobné jedlé strukoviny."}
+{"i":69,"tr":"Komplexná ekonomika zahŕňajúca železársky, oceliarsky a ťažký výrobný priemysel."}
+{"i":70,"tr":"Komplexná ekonomika s mnohými odvetviami a nákladmi."}
+{"i":71,"tr":"Komplexná ekonomika s mnohými odvetviami a nákladmi. Inšpirovaná strednou a západnou Afrikou. Najlepšie sa používa v subtropickom podnebí."}
+{"i":72,"tr":"Komponenty"}
+{"i":73,"tr":"Komponenty na výrobu vozidiel, ako sú podvozky a diely zavesenia, elektrické súčiastky, vonkajší obklad a diely interiéru."}
+{"i":74,"tr":"Betónová stanica"}
+{"i":75,"tr":"Betónové výrobky"}
+{"i":76,"tr":"Stavebné náklady"}
+{"i":77,"tr":"Továreň na hotové jedlá"}
+{"i":78,"tr":"Medená žila"}
+{"i":79,"tr":"Medný dol"}
+{"i":80,"tr":"Medná ruda"}
+{"i":81,"tr":"Bavlna, ľan, juta a podobné materiály na výrobu textílií a kompozitných materiálov."}
+{"i":84,"tr":"Surová, nerafinovaná ropa prepravovaná ako tekutina vo veľkom."}
+{"i":85,"tr":"Kryogénna továreň"}
+{"i":86,"tr":"Mliekarenské farmárstvo"}
+{"i":87,"tr":"Diamantový dol"}
+{"i":88,"tr":"Diamanty"}
+{"i":89,"tr":"Bubny, navijaky, reťaze, háky, kladky, hydraulické piesty a ďalšie súčasti žeriavov, zdvihákov, výťahov atď."}
+{"i":90,"tr":"Suchý cement vo forme prášku alebo klinkru."}
+{"i":91,"tr":"Každá ekonomika poskytuje inú kombináciu nákladov a odvetví.{}{}Pre hráčov, ktorí chcú jednoduché hranie, obsahujú {SILVER}základné {BLACK}ekonomiky menej odvetví a nákladov než ostatné ekonomiky FIRS.{}{}Webová stránka FIRS poskytuje podrobné informácie o každej ekonomike."}
+{"i":92,"tr":"Jedlá koreňová plodina, známa aj ako maniok a yuka."}
+{"i":93,"tr":"Továreň na elastomérne výrobky"}
+{"i":94,"tr":"Elektrické súčasti"}
+{"i":95,"tr":"Elektrické a elektronické komponenty, motory, ovládače, rozvodne, osvetlenie atď."}
+{"i":96,"tr":"Elektrospotrebiče"}
+{"i":97,"tr":"Motory"}
+{"i":98,"tr":"Inžinierske závody"}
+{"i":99,"tr":"Motory a pohonné ústrojenstvá"}
+{"i":100,"tr":"Nehnuteľnosti"}
+{"i":101,"tr":"Továreň na výbušniny"}
+{"i":102,"tr":"Továreň"}
+{"i":103,"tr":"Farma"}
+{"i":104,"tr":"Farmy, bane a podobné odvetvia zvýšia výrobu po doručení dodávkových debien, najprv na {SILVER}Enhanced{BLACK} a potom na {SILVER}Gung-ho{BLACK}, ak bude doručených dostatok debien.  {}{}Predvolené hodnoty sú vhodné, ale ak je to potrebné, môžete ich tu zmeniť.  {}{}Požiadavky na náklad pre odvetvia prístavného typu budú 8-násobkom hodnôt nastavených tu."}
+{"i":105,"tr":"Fermentačná továreň"}
+{"i":106,"tr":"Železné zliatiny"}
+{"i":107,"tr":"Továreň na hnojivá a kyseliny"}
+{"i":108,"tr":"Jemný drôt používaný na zosilnenie pneumatík. Prepravuje sa vo forme cievky."}
+{"i":109,"tr":"Ryby a morské plody"}
+{"i":110,"tr":"Rybársky chov"}
+{"i":111,"tr":"Flexibilné tesnenia, podložky, hadice, remene, rohože, ložiskové vložky atď. vyrobené z gumy alebo podobných materiálov."}
+{"i":112,"tr":"Múka a škrob"}
+{"i":113,"tr":"Výrobná linka"}
+{"i":114,"tr":"Potraviny"}
+{"i":115,"tr":"Potraviny a nápoje"}
+{"i":116,"tr":"Potravinárske prísady"}
+{"i":117,"tr":"Potravinárska spoločnosť"}
+{"i":118,"tr":"Potraviny uchovávané zmrazené počas prepravy a skladovania."}
+{"i":119,"tr":"Na domáce a stavebné účely. Nástroje, pomôcky, konštrukčné prvky a armatúry z kovu a iných materiálov."}
+{"i":120,"tr":"Les"}
+{"i":121,"tr":"Kovanie a odlievky"}
+{"i":122,"tr":"Mrazničky"}
+{"i":123,"tr":"Čerstvé a sušené ovocie, napríklad banány, citrusové plody, hrozno, bobuľové ovocie, ananás, hrozienka a podobne."}
+{"i":124,"tr":"Továreň na mrazené dezerty"}
+{"i":125,"tr":"Mrazené potraviny"}
+{"i":126,"tr":"Závod na mrazené potraviny"}
+{"i":127,"tr":"Ovocná plantáž"}
+{"i":128,"tr":"GPL(v2)"}
+{"i":130,"tr":"Všeobecné hliny na výrobu stavebných materiálov a na iné priemyselné účely."}
+{"i":131,"tr":"Všeobecný kov, napríklad oceľ, hliník alebo iné bežné kovy."}
+{"i":132,"tr":"Všeobecné organické a anorganické chemikálie, manipulované ako kvapalina, plyn, krytý sypký materiál, prášok alebo kusové tovary."}
+{"i":133,"tr":"Nosníky"}
+{"i":134,"tr":"Sklenené výrobky"}
+{"i":135,"tr":"Tovary"}
+{"i":136,"tr":"Obilie"}
+{"i":137,"tr":"Mlyn na obilie"}
+{"i":138,"tr":"Štrk, piesok, drvený kameň a podobné materiály používané vo výstavbe."}
+{"i":139,"tr":"Hlavná úroveň produkcie Gung-ho (%)"}
+{"i":140,"tr":"Kovové diely a povrchové úpravy"}
+{"i":141,"tr":"Pastierske družstvo"}
+{"i":142,"tr":"Vysokokvalitné inžinierske komponenty, ako sú elektrické zariadenia, motory, transformátory, riadiace zariadenia, hydraulika, pneumatika, čerpadlá, ventily a zariadenia pohonnej sústavy."}
+{"i":143,"tr":"Koní trh"}
+{"i":144,"tr":"Hotel"}
+{"i":145,"tr":"ID"}
+{"i":146,"tr":"Priemyselné uhliky"}
+{"i":147,"tr":"Závod na výrobu priemyselných chemikálií"}
+{"i":148,"tr":"Priemyselné plyny"}
+{"i":149,"tr":"Priemyselný park"}
+{"i":150,"tr":"Priemyselná kyselina používaná najmä pri výrobe hnojív a chemikálií, prepravovaná ako sypká kvapalina."}
+{"i":151,"tr":"Priemyselné kyseliny, napríklad solná, dusičná a sírová kyselina."}
+{"i":152,"tr":"Priemyselný alkohol používaný ako chemická surovina a palivo, prepravovaný ako sypká kvapalina."}
+{"i":153,"tr":"Priemyselná chemikália, zvyčajne prepravovaná kryogénne ako skvapalnený stlačený plyn."}
+{"i":154,"tr":"Priemyselná chemikália. Známa aj ako lúh alebo praskavá sóda. Zvyčajne sa prepravuje ako kvapalina."}
+{"i":155,"tr":"Priemyselná chemikália. Vo forme bieleho prášku."}
+{"i":156,"tr":"Priemyselné chemikálie odvodené z amoniaku, napríklad amoniak, dusičná kyselina a močovina. Prepravujú sa ako kvapaliny, kryogénne ako skvapalnený plyn alebo ako suchý sypký materiál."}
+{"i":157,"tr":"Priemyselné chemikálie používané vo výrobe a spracovaní, prepravované ako kvapaliny, prášky, plyny alebo balené tovary."}
+{"i":158,"tr":"Priemyselný plyn. Prepravuje sa kryogénne ako skvapalnený stlačený plyn."}
+{"i":159,"tr":"Priemyselné plyny používané pri chemickom spracovaní, obrábaní kovov a zváraní, prepravované vo fľašiach alebo tlakových cisternách."}
+{"i":160,"tr":"Priemyselná nerast, známa aj ako kaolín, používaná predovšetkým pri výrobe papiera a plastov."}
+{"i":161,"tr":"Priemyselné nerasty používané pri chemickom spracovaní. Baryt sa používa pri výrobe baryových chemikálií a plniv; fluorit pri chémii fluóru a metalurgických fluksoch."}
+{"i":162,"tr":"Slitky."}
+{"i":163,"tr":"Prísady používané pri spracovaní potravín, napríklad konzervanty, arómy, farbivá a pomocné látky pri spracovaní."}
+{"i":164,"tr":"Intenzívne čierny uhlíkový prášok používaný v pneumatikách, plastoch a pigmentoch. Manipuluje sa s ním ako s práškom."}
+{"i":165,"tr":"Medziproduktové chemikálie používané ako suroviny na ďalšie priemyselné spracovanie."}
+{"i":166,"tr":"Medziprodukty cukru určené na rafináciu, fermentáciu a priemyselné využitie. Lepivé granuly sa manipulujú ako krytý sypký materiál; hustý sirup ako kvapalina; oba druhy možno baliť."}
+{"i":167,"tr":"Motory so spaľovaním vnútri a súvisiace súčasti pohonnej sústavy, napríklad prevodovky a hnacie nápravy."}
+{"i":168,"tr":"Železná ruda"}
+{"i":169,"tr":"Bane železnej rudy"}
+{"i":170,"tr":"Pece"}
+{"i":171,"tr":"Ložiská kimberlitu"}
+{"i":172,"tr":"POZEMOK"}
+{"i":173,"tr":"Ľahké uhľovodíky"}
+{"i":174,"tr":"Ľahké ropné frakcie používané ako chemická surovina, prepravované ako sypké kvapaliny."}
+{"i":175,"tr":"Vápencový kameň"}
+{"i":176,"tr":"Bane vápencového kameňa"}
+{"i":177,"tr":"Bane vápencového kameňa"}
+{"i":178,"tr":"Dovolený dobytok"}
+{"i":179,"tr":"Štíty"}
+{"i":180,"tr":"Štiepky z lesa."}
+{"i":181,"tr":"Dlhá dutá rúra s okrúhlym, obdĺžnikovým alebo iným priečnym rezom. Používa sa na výrobu konštrukcií a strojov."}
+{"i":182,"tr":"Dlhé okrúhle oceľové rúry na prepravu tekutín v potrubných systémoch, budovách, priemysle a podobne."}
+{"i":183,"tr":"Stroje, palivo, diely, hnojivá a ďalšie zásoby pre farmy, lesy a podobné odvetvia."}
+{"i":184,"tr":"Stroje, palivo, diely, výrobky zo dreva, rúry, výbušniny a ďalšie zásoby pre bane a podobné odvetvia."}
+{"i":185,"tr":"Stroje, diely, palivo, stavebné materiály a ďalšie zásoby pre prístavy, doky a podobné odvetvia."}
+{"i":186,"tr":"Pošta"}
+{"i":187,"tr":"Kukurica"}
+{"i":188,"tr":"Mangánová ruda, používaná predovšetkým pri výrobe ocele."}
+{"i":189,"tr":"Lúky"}
+{"i":190,"tr":"Mäso"}
+{"i":191,"tr":"Obchodný bar"}
+{"i":192,"tr":"Kovový priemysel"}
+{"i":193,"tr":"Kovové diely na montáž do väčších predmetov."}
+{"i":194,"tr":"Kovové výrobky"}
+{"i":195,"tr":"Metanol"}
+{"i":196,"tr":"Mild Mild West"}
+{"i":197,"tr":"Mlyny"}
+{"i":198,"tr":"Minerálne plnivá"}
+{"i":199,"tr":"Závod na výrobu minerálnych plniv"}
+{"i":200,"tr":"Minerály"}
+{"i":201,"tr":"Bane"}
+{"i":202,"tr":"Prevažne kravy, prasatá a ovce na výrobu mäsa. Možno konzumovať aj iné zvieratá."}
+{"i":203,"tr":"Prevažne prírodný latex."}
+{"i":204,"tr":"Prevažne nákladné vozidlá. Alebo osobné autá. Alebo ľahké nákladné vozidlá. Možno traktory."}
+{"i":205,"tr":"Dusík"}
+{"i":206,"tr":"Neželezné kovy, ako sú meď, nikel, zinok a olovo."}
+{"i":207,"tr":"Ropa"}
+{"i":208,"tr":"Ropný a chemický terminál"}
+{"i":209,"tr":"Rafinéria ropy"}
+{"i":210,"tr":"Ropná vrtačka"}
+{"i":211,"tr":"Ropné vrty"}
+{"i":212,"tr":"Ropa na varenie a spotrebu."}
+{"i":213,"tr":"Ovocný sad a chov ošípaných"}
+{"i":214,"tr":"Ovocné sady"}
+{"i":215,"tr":"Kyslík"}
+{"i":216,"tr":"Balenie"}
+{"i":217,"tr":"Farby a nátery"}
+{"i":218,"tr":"Papier"}
+{"i":219,"tr":"Papierenská továreň"}
+{"i":220,"tr":"Továreň na papierové výrobky"}
+{"i":221,"tr":"Cestujúci"}
+{"i":222,"tr":"Benzín, nafta a podobné palivá."}
+{"i":223,"tr":"Fosfát"}
+{"i":224,"tr":"Fosfátový dol"}
+{"i":225,"tr":"Kyselina fosforečná"}
+{"i":226,"tr":"Surové železo"}
+{"i":227,"tr":"Rúrkovňa"}
+{"i":228,"tr":"Rastlina"}
+{"i":229,"tr":"Rastliny a stroje"}
+{"i":230,"tr":"Továreň na plastové výlisky"}
+{"i":231,"tr":"Plasty a živice"}
+{"i":232,"tr":"Valcovačka plechu"}
+{"i":233,"tr":"Draslo"}
+{"i":234,"tr":"Dol na draslo"}
+{"i":235,"tr":"Práškové obilné výrobky, ako sú múka a škrob, prepravované vo vreciach alebo vo krytých hromadných nádobách."}
+{"i":236,"tr":"Továreň na energetické systémy"}
+{"i":237,"tr":"Motorové zariadenia a mechanické systémy používané v budovách, priemysle a na farmách. Prepravujú sa ako kompletné jednotky alebo ako hlavné podskupiny."}
+{"i":238,"tr":"Pohonný systém"}
+{"i":239,"tr":"Predbetónovanie"}
+{"i":240,"tr":"Presné komponenty"}
+{"i":241,"tr":"Závod na výrobu presných dielov"}
+{"i":242,"tr":"Lisované diely"}
+{"i":243,"tr":"Procesné chemikálie"}
+{"i":244,"tr":"Závod na výrobu procesných chemikálií"}
+{"i":245,"tr":"Spracované drevené vlákna používané najmä na výrobu papiera, prepravované vo forme balíkov alebo voľnej buničiny."}
+{"i":246,"tr":"Spracované drevené výrobky z píly alebo podobných podnikov."}
+{"i":247,"tr":"Balič výrobkov"}
+{"i":248,"tr":"Čerpadlá a ventily"}
+{"i":249,"tr":"Hutňa pyritu"}
+{"i":250,"tr":"Python 3.11+"}
+{"i":251,"tr":"Háslivý vápno"}
+{"i":252,"tr":"Surový cukor a melasa"}
+{"i":253,"tr":"Surové alebo pražené kávové zrná."}
+{"i":254,"tr":"Surový plast na ďalšie spracovanie. Zvyčajne sa prepravuje vo forme živicových guľôčok."}
+{"i":255,"tr":"Armovacia oceľ"}
+{"i":256,"tr":"Rafinovaný hliníkový kov vo forme zvitkov, ingotov, platní atď."}
+{"i":257,"tr":"Rafinovaný medený kov vo forme zvitkov, ingotov atď."}
+{"i":258,"tr":"Rafinované ropné produkty, ako sú benzín, nafta, kerosín, LPG, vykurovací olej a bunkrové palivo, prepravované ako sypké kvapaliny alebo skvapalnený plyn."}
+{"i":259,"tr":"Ohrady pre renďery"}
+{"i":260,"tr":"Závod na výrobu cestného kameňa"}
+{"i":261,"tr":"Valcovňa tyčí"}
+{"i":262,"tr":"Valcované oceľové plechy a profily – I-trávy, H-trávy, kanálové profily atď. Prepravujú sa ako dlhé rovné výrobky."}
+{"i":263,"tr":"Popruhy a káble vyrobené vytiahnutím oceľového drôtu na menší priemer a následným skrútením do zväzkov."}
+{"i":264,"tr":"Hrubé oceľové odliatky, ktoré vyžadujú ďalšie spracovanie. Polívkové ingoty môžu byť malé alebo veľmi veľké. Typické profily ingotov sú obdĺžnikové alebo okrúhle."}
+{"i":265,"tr":"Guma"}
+{"i":266,"tr":"Gumová plantáž"}
+{"i":267,"tr":"MORE"}
+{"i":268,"tr":"Soľ"}
+{"i":269,"tr":"Soľný závod"}
+{"i":270,"tr":"Závod na výrobu salitre"}
+{"i":271,"tr":"Piesočný jaz"}
+{"i":272,"tr":"Píla"}
+{"i":273,"tr":"Morské plody"}
+{"i":274,"tr":"Tesnenia a hadice"}
+{"i":275,"tr":"Tesnenia, hadice a remene"}
+{"i":276,"tr":"Sekcia a valcovacia zariadenie"}
+{"i":277,"tr":"Polotovary z liatej ocele. V priečnom reze vždy ploché a obdĺžnikové."}
+{"i":278,"tr":"Polotovary z liatej ocele. V priečnom reze obdĺžnikové, štvorcové alebo okrúhle."}
+{"i":279,"tr":"Mláky"}
+{"i":280,"tr":"Nábrežie"}
+{"i":281,"tr":"Silo"}
+{"i":282,"tr":"Jednoduchá ekonomika. Inšpirovaná Argentínou, Peru a Čile. Najlepšie sa používa v subtropickom podnebí."}
+{"i":283,"tr":"Jednoduchá ekonomika. Inšpirovaná Fínskom, severnou Kanadou a severnou Sibírou. Najlepšie sa používa v subarktickom podnebí."}
+{"i":284,"tr":"Jednoduchá ekonomika. Inšpirovaná juhozápadnou časťou Spojeného kráľovstva. Najlepšie sa používa v miernom podnebí."}
+{"i":285,"tr":"Skladovisko plechov"}
+{"i":286,"tr":"Škoria"}
+{"i":287,"tr":"Hydroxid sodný"}
+{"i":288,"tr":"Kamenná pec"}
+{"i":289,"tr":"Polievky"}
+{"i":290,"tr":"Špeciálne uhlíkové materiály, ako sú kalcinovaný ropný koks, decht, vysokohodnotné dechy a uhlíkový čierny pigment, používané v metalurgických a chemických procesoch."}
+{"i":291,"tr":"Oceľ"}
+{"i":292,"tr":"Kováčska dielňa a liatina oceľe"}
+{"i":293,"tr":"Oceľové ingoty"}
+{"i":294,"tr":"Oceľáreň"}
+{"i":295,"tr":"Oceľová rúra"}
+{"i":296,"tr":"Oceľový plech"}
+{"i":297,"tr":"Oceľový plech a pás"}
+{"i":298,"tr":"Oceľová polovina"}
+{"i":299,"tr":"Oceľová trubka"}
+{"i":300,"tr":"Oceľová drôtová tyč"}
+{"i":301,"tr":"Oceľové tyče, okrúhle, štvorcové, ploché a iné profily. Prepravujú sa ako dlhé rovné výrobky."}
+{"i":302,"tr":"Oceľový drôt a tenké tyče. Prevažne sa prepravujú ako zvitky."}
+{"i":303,"tr":"Oceľomajstri"}
+{"i":304,"tr":"Oceľové mesto"}
+{"i":305,"tr":"Skladovacie nádrže a potrubie"}
+{"i":306,"tr":"Skladovacie nádrže, tlakové nádoby, silá, plynové fľaše a zostavy potrubí určené na použitie v mestských budovách, priemysle a na farmách."}
+{"i":307,"tr":"Valcovňa plechu"}
+{"i":308,"tr":"Konštrukčná oceľ"}
+{"i":309,"tr":"Oceľ konštrukčnej kvality vo forme valcovaných profilov (I-nosníky, H-nosníky atď.), plochých plechov alebo zvarovaných profilov a nosníkov z plechu."}
+{"i":310,"tr":"Cukor"}
+{"i":311,"tr":"Sulfidové minerály, ktoré sa tavia na výrobu rôznych priemyselných výrobkov."}
+{"i":312,"tr":"Kyselina sírová"}
+{"i":313,"tr":"Pomôcky na rezanie a zváranie kovov, napríklad zváracie elektrody, nástroje a priemyselné plyny vrátane acetylénu, argónu, propánu, kyslíka a dusíka."}
+{"i":314,"tr":"Sklad zásob"}
+{"i":315,"tr":"Krabice so zásobami potrebné na primárnu výrobu Gung-ho (predvolene 80)"}
+{"i":316,"tr":"Prístreš pre čerpačov"}
+{"i":317,"tr":"Hustý ropný produkt používaný najmä na povrchovú úpravu ciest a strešné krytiny."}
+{"i":318,"tr":"Tenký valcovaný oceľový plech a pás, široko používané na výrobu ďalších výrobkov. Prepravujú sa ako ploché plechy alebo kotúče."}
+{"i":319,"tr":"Tenké hrubé oceľové tyče široko používané na zosilnenie betónových konštrukcií. Prepravujú sa ako kotúče alebo zväzky rovných tyčí."}
+{"i":320,"tr":"Tenký oceľový plech potiahnutý cínom na odolnosť voči korózii, používaný najmä na výrobu plechoviek, nádob a iného obalu."}
+{"i":321,"tr":"Drevené výrobky"}
+{"i":322,"tr":"Cín"}
+{"i":323,"tr":"Cínový dol"}
+{"i":324,"tr":"Blik"}
+{"i":325,"tr":"Závod na výrobu bliku"}
+{"i":326,"tr":"Závod na výrobu koľajových vozidiel"}
+{"i":327,"tr":"Obchodná stanica"}
+{"i":328,"tr":"Trónové ložiská"}
+{"i":329,"tr":"Parkovisko nákladných vozidiel"}
+{"i":330,"tr":"Tubársky a rúrkový závod"}
+{"i":331,"tr":"Tubársky závod"}
+{"i":332,"tr":"Pletivo do pneumatík"}
+{"i":333,"tr":"Pneumatikársky závod"}
+{"i":334,"tr":"Pneumatiky"}
+{"i":335,"tr":"Používa sa pri výrobe zliatin a nehrdzavejúcej ocele, zliatiny chrómu a železa. Šedivé hrudky podobné uhoľným kusom veľkosťou aj tvarom."}
+{"i":336,"tr":"Používa sa pri výrobe ocele. Zliatiny železa s ďalšími prvkami vrátane mangánu, niklu, chrómu, hliníka, kremíka a wolfrámu. Šedivé hrudky podobné uhelným kusom veľkosťou a tvarom."}
+{"i":337,"tr":"Zelenina"}
+{"i":338,"tr":"Distribútor vozidiel"}
+{"i":339,"tr":"Vozidlá"}
+{"i":340,"tr":"Odpadový produkt z výroby železa a ocele."}
+{"i":341,"tr":"Pri vode"}
+{"i":342,"tr":"Spotrebný materiál na zváranie"}
+{"i":343,"tr":"Nábrežie"}
+{"i":344,"tr":"Bane"}
+{"i":345,"tr":"Pšenica, jačmeň atď."}
+{"i":346,"tr":"Biely prášok získaný rafináciou bauxitovej rudy, ktorý sa používa na výrobu hliníka."}
+{"i":347,"tr":"Biela, šedá alebo hnedá hornina síranu vápenatého, ktorá sa používa pri výrobe kyseliny sírovej a cementu. Často sa prepravuje ako krytý sypký náklad."}
+{"i":348,"tr":"Široko používaná priemyselná chémia. Jasne žltá, v práškovej alebo tekutej forme."}
+{"i":349,"tr":"Široko používaná priemyselná chémia. Zvyčajne sa prepravuje ako sypký náklad, ktorý musí zostať suchý."}
+{"i":350,"tr":"Vinárstvo"}
+{"i":351,"tr":"Závod na výrobu drôtu"}
+{"i":352,"tr":"Drevenná celulóza"}
+{"i":353,"tr":"Bane zinku"}
+{"i":354,"tr":"Zinková ruda"}
+{"i":355,"tr":"Zinková huta"}
+{"i":356,"tr":"{BLACK}Aktuálna výroba: {YELLOW}Vylepšená {}{}{BLACK}Aby sa udržala táto úroveň, doručte {SIGNED_WORD} debien zásob najmenej raz za tri minúty.{}Pre výrobu {WHITE}Gung-ho {BLACK}doručte {SIGNED_WORD} debien."}
+{"i":357,"tr":"{BLACK}Aktuálna výroba: {YELLOW}Vylepšená {}{}{BLACK}Aby sa udržala táto úroveň, doručte {SIGNED_WORD} jednotiek nákladu najmenej raz za tri minúty.{}Pre výrobu {WHITE}Gung-ho {BLACK}doručte {SIGNED_WORD} jednotiek."}
+{"i":358,"tr":"{BLACK}Aktuálna výroba: {YELLOW}Normálna {}{}{BLACK}Pre výrobu {WHITE}Vylepšená {BLACK}doručte {SIGNED_WORD} debien zásob najmenej raz za tri minúty.{}Pre výrobu {WHITE}Gung-ho {BLACK}doručte {SIGNED_WORD} debien."}
+{"i":359,"tr":"{BLACK}Aktuálna výroba: {YELLOW}Normálna {}{}{BLACK}Pre výrobu {WHITE}Vylepšená {BLACK}doručte {SIGNED_WORD} jednotiek nákladu najmenej raz za tri minúty.{}Pre výrobu {WHITE}Gung-ho {BLACK}doručte {SIGNED_WORD} jednotiek."}
+{"i":360,"tr":"{BLACK}Pre maximálnu rýchlosť výroby dodávajte {WHITE}všetky {BLACK}potrebné náklady najmenej raz za tri minúty."}
+{"i":361,"tr":"{BLACK}Pre maximálnu rýchlosť výroby dodávajte {WHITE}najmenej tri {BLACK}potrebné náklady najmenej raz za tri minúty."}
+{"i":362,"tr":"{BLACK}Pre maximálnu rýchlosť výroby dodávajte {WHITE}najmenej dva {BLACK}potrebné náklady najmenej raz za tri minúty."}
+{"i":363,"tr":"{BLACK}Pre maximálnu rýchlosť výroby dodávajte {WHITE}obe {BLACK}potrebné náklady najmenej raz za tri minúty."}
+{"i":364,"tr":"{BLACK}Výroba je úmerná počtu obyvateľov mesta. Každú minútu sa vyrobí najmenej {WHITE}{SIGNED_WORD} jednotiek{BLACK} a najviac {WHITE}{SIGNED_WORD} jednotiek{BLACK} nákladov."}
+{"i":365,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":366,"tr":"{ORANGE}E00: CIRS vyžaduje OpenTTD 1.7.0 (alebo pre používateľov vývojových zostáv trunk r27769)"}
+{"i":367,"tr":"{ORANGE}E01: {YELLOW}Nezlučiteľná sada: {ORANGE}{STRING}"}
+{"i":368,"tr":"{ORANGE}E02: {YELLOW}Nezlučiteľný parameter: {ORANGE}Parameter CanSet 2 musí mať hodnotu 0, aby sa dala používať sada CIRS."}
+{"i":369,"tr":"{ORANGE}E02: {YELLOW}Nezlučiteľný parameter: {ORANGE}Parameter 2 sady NA City Set musí mať hodnotu 0, aby sa dala používať sada CIRS."}
+{"i":370,"tr":"{ORANGE}E04: {YELLOW}Nezlučiteľná verzia: {ORANGE}Sada Total Town Replacement Set musí byť vo verzii 3.11 alebo novšej."}
+{"i":371,"tr":"{TINYFONT}AA"}
+{"i":372,"tr":"{TINYFONT}AC"}
+{"i":373,"tr":"{TINYFONT}AG"}
+{"i":374,"tr":"{TINYFONT}AM"}
+{"i":375,"tr":"{TINYFONT}AO"}
+{"i":376,"tr":"{TINYFONT}AP"}
+{"i":377,"tr":"{TINYFONT}AY"}
+{"i":378,"tr":"{TINYFONT}BB"}
+{"i":379,"tr":"{TINYFONT}BI"}
+{"i":380,"tr":"{TINYFONT}BM"}
+{"i":381,"tr":"{TINYFONT}BN"}
+{"i":382,"tr":"{TINYFONT}CA"}
+{"i":383,"tr":"{TINYFONT}CB"}
+{"i":384,"tr":"{TINYFONT}CE"}
+{"i":385,"tr":"{TINYFONT}CF"}
+{"i":386,"tr":"{TINYFONT}CH"}
+{"i":387,"tr":"{TINYFONT}CI"}
+{"i":388,"tr":"{TINYFONT}CK"}
+{"i":389,"tr":"{TINYFONT}CN"}
+{"i":390,"tr":"{TINYFONT}CO"}
+{"i":391,"tr":"{TINYFONT}CP"}
+{"i":392,"tr":"{TINYFONT}CR"}
+{"i":393,"tr":"{TINYFONT}CT"}
+{"i":394,"tr":"{TINYFONT}CY"}
+{"i":395,"tr":"{TINYFONT}EL"}
+{"i":396,"tr":"{TINYFONT}EP"}
+{"i":397,"tr":"{TINYFONT}ES"}
+{"i":398,"tr":"{TINYFONT}FA"}
+{"i":399,"tr":"{TINYFONT}FI"}
+{"i":400,"tr":"{TINYFONT}FL"}
+{"i":401,"tr":"{TINYFONT}FO"}
+{"i":402,"tr":"{TINYFONT}FS"}
+{"i":403,"tr":"{TINYFONT}FV"}
+{"i":404,"tr":"{TINYFONT}GL"}
+{"i":405,"tr":"{TINYFONT}HW"}
+{"i":406,"tr":"{TINYFONT}IG"}
+{"i":407,"tr":"{TINYFONT}KA"}
+{"i":408,"tr":"{TINYFONT}LG"}
+{"i":409,"tr":"{TINYFONT}LH"}
+{"i":410,"tr":"{TINYFONT}LS"}
+{"i":411,"tr":"{TINYFONT}LU"}
+{"i":412,"tr":"{TINYFONT}MA"}
+{"i":413,"tr":"{TINYFONT}MF"}
+{"i":414,"tr":"{TINYFONT}MK"}
+{"i":415,"tr":"{TINYFONT}ML"}
+{"i":416,"tr":"{TINYFONT}MN"}
+{"i":417,"tr":"{TINYFONT}MO"}
+{"i":418,"tr":"{TINYFONT}N7"}
+{"i":419,"tr":"{TINYFONT}NA"}
+{"i":420,"tr":"{TINYFONT}NI"}
+{"i":421,"tr":"{TINYFONT}NT"}
+{"i":422,"tr":"{TINYFONT}O2"}
+{"i":423,"tr":"{TINYFONT}OC"}
+{"i":424,"tr":"{TINYFONT}PA"}
+{"i":425,"tr":"{TINYFONT}PC"}
+{"i":426,"tr":"{TINYFONT}PG"}
+{"i":427,"tr":"{TINYFONT}PH"}
+{"i":428,"tr":"{TINYFONT}PI"}
+{"i":429,"tr":"{TINYFONT}PL"}
+{"i":430,"tr":"{TINYFONT}PM"}
+{"i":431,"tr":"{TINYFONT}PT"}
+{"i":432,"tr":"{TINYFONT}PV"}
+{"i":433,"tr":"{TINYFONT}PW"}
+{"i":434,"tr":"{TINYFONT}PY"}
+{"i":435,"tr":"{TINYFONT}QL"}
+{"i":436,"tr":"{TINYFONT}RB"}
+{"i":437,"tr":"{TINYFONT}SA"}
+{"i":438,"tr":"{TINYFONT}SB"}
+{"i":439,"tr":"{TINYFONT}SD"}
+{"i":440,"tr":"{TINYFONT}SE"}
+{"i":441,"tr":"{TINYFONT}SG"}
+{"i":442,"tr":"{TINYFONT}SH"}
+{"i":443,"tr":"{TINYFONT}SI"}
+{"i":444,"tr":"{TINYFONT}SL"}
+{"i":445,"tr":"{TINYFONT}SM"}
+{"i":446,"tr":"{TINYFONT}SO"}
+{"i":447,"tr":"{TINYFONT}SP"}
+{"i":448,"tr":"{TINYFONT}ST"}
+{"i":449,"tr":"{TINYFONT}STSW"}
+{"i":450,"tr":"{TINYFONT}SW"}
+{"i":451,"tr":"{TINYFONT}SY"}
+{"i":452,"tr":"{TINYFONT}TC"}
+{"i":453,"tr":"{TINYFONT}TI"}
+{"i":454,"tr":"{TINYFONT}TP"}
+{"i":455,"tr":"{TINYFONT}TY"}
+{"i":456,"tr":"{TINYFONT}VE"}
+{"i":457,"tr":"{TINYFONT}VG"}
+{"i":458,"tr":"{TINYFONT}VP"}
+{"i":459,"tr":"{TINYFONT}WL"}
+{"i":460,"tr":"{TINYFONT}WP"}
+{"i":461,"tr":"{TINYFONT}WS"}
+{"i":462,"tr":"{TINYFONT}ZN"}
+{"i":463,"tr":"{TINYFONT}ZO"}
+{"i":464,"tr":"{VOLUME} kyseliny"}
+{"i":465,"tr":"{VOLUME} amoniaku a dusičnanových produktov"}
+{"i":466,"tr":"{VOLUME} bitúmenu"}
+{"i":467,"tr":"{VOLUME} chemických medziproduktov"}
+{"i":468,"tr":"{VOLUME} chlóru"}
+{"i":469,"tr":"{VOLUME} uhľového dechtu"}
+{"i":470,"tr":"{VOLUME} priemyselných plynov"}
+{"i":471,"tr":"{VOLUME} ľahkých uhľovodíkov"}
+{"i":472,"tr":"{VOLUME} metanolu"}
+{"i":473,"tr":"{VOLUME} dusíka"}
+{"i":474,"tr":"{VOLUME} kyslíka"}
+{"i":475,"tr":"{VOLUME} farieb a náterov"}
+{"i":476,"tr":"{VOLUME} kyseliny fosforečnej"}
+{"i":477,"tr":"{VOLUME} hydroxidu sodného"}
+{"i":478,"tr":"{VOLUME} kyseliny sírovej"}
+{"i":479,"tr":"{WEIGHT} agregátov"}
+{"i":480,"tr":"{WEIGHT} hlinitanu"}
+{"i":481,"tr":"{WEIGHT} hliníka"}
+{"i":482,"tr":"{WEIGHT} anhydritovej horniny"}
+{"i":483,"tr":"{WEIGHT} jabĺk"}
+{"i":484,"tr":"{WEIGHT} barytu a fluoritového kameňa"}
+{"i":485,"tr":"{WEIGHT} polotovarov a blokov"}
+{"i":486,"tr":"{WEIGHT} uhlíkového čierneho"}
+{"i":487,"tr":"{WEIGHT} liatiny"}
+{"i":488,"tr":"{WEIGHT} cementu"}
+{"i":489,"tr":"{WEIGHT} čistiacich prostriedkov"}
+{"i":490,"tr":"{WEIGHT} koksu"}
+{"i":491,"tr":"{WEIGHT} betónových výrobkov"}
+{"i":492,"tr":"{WEIGHT} elektrických dielov"}
+{"i":493,"tr":"{WEIGHT} motorov a pohonnej sústavy"}
+{"i":494,"tr":"{WEIGHT} výbušnín"}
+{"i":495,"tr":"{WEIGHT} železných zliatin"}
+{"i":496,"tr":"{WEIGHT} rýb a morských plodov"}
+{"i":497,"tr":"{WEIGHT} múky a škrobu"}
+{"i":498,"tr":"{WEIGHT} potravín a nápojov"}
+{"i":499,"tr":"{WEIGHT} potravinárskych prísad"}
+{"i":500,"tr":"{WEIGHT} kovaných a liatych dielov"}
+{"i":501,"tr":"{WEIGHT} mrazených potravín"}
+{"i":502,"tr":"{WEIGHT} sklenených výrobkov"}
+{"i":503,"tr":"{WEIGHT} tovaru"}
+{"i":504,"tr":"{WEIGHT} hardvéru a povrchových úprav"}
+{"i":505,"tr":"{WEIGHT} priemyselných uhlíkov"}
+{"i":506,"tr":"{WEIGHT} vápencu"}
+{"i":507,"tr":"{WEIGHT} klád"}
+{"i":508,"tr":"{WEIGHT} mäsa"}
+{"i":509,"tr":"{WEIGHT} obchodného plechu"}
+{"i":510,"tr":"{WEIGHT} minerálnych plnív"}
+{"i":511,"tr":"{WEIGHT} orechov"}
+{"i":512,"tr":"{WEIGHT} obalu"}
+{"i":513,"tr":"{WEIGHT} rašeliny"}
+{"i":514,"tr":"{WEIGHT} fosfátu"}
+{"i":515,"tr":"{WEIGHT} surového železa"}
+{"i":516,"tr":"{WEIGHT} rastlín a strojov"}
+{"i":517,"tr":"{WEIGHT} plastov a živíc"}
+{"i":518,"tr":"{WEIGHT} draselných solí"}
+{"i":519,"tr":"{WEIGHT} presných komponentov"}
+{"i":520,"tr":"{WEIGHT} procesných chemikálií"}
+{"i":521,"tr":"{WEIGHT} čerpadiel a ventilov"}
+{"i":522,"tr":"{WEIGHT} pyritovej rudy"}
+{"i":523,"tr":"{WEIGHT} nehaseného vápna"}
+{"i":524,"tr":"{WEIGHT} surového cukru a melasy"}
+{"i":525,"tr":"{WEIGHT} výstužnej ocele"}
+{"i":526,"tr":"{WEIGHT} soli"}
+{"i":527,"tr":"{WEIGHT} tesnení, hadíc a remeňov"}
+{"i":528,"tr":"{WEIGHT} škvŕn"}
+{"i":529,"tr":"{WEIGHT} sódy"}
+{"i":530,"tr":"{WEIGHT} oceľových polotovarov"}
+{"i":531,"tr":"{WEIGHT} oceľových rúr"}
+{"i":532,"tr":"{WEIGHT} oceľových plechov"}
+{"i":533,"tr":"{WEIGHT} oceľových plechov a pásov"}
+{"i":534,"tr":"{WEIGHT} oceľových blokov"}
+{"i":535,"tr":"{WEIGHT} oceľových trubiek"}
+{"i":536,"tr":"{WEIGHT} oceľového drôtu"}
+{"i":537,"tr":"{WEIGHT} skladovacích nádrží a potrubí"}
+{"i":538,"tr":"{WEIGHT} konštrukčnej ocele"}
+{"i":539,"tr":"{WEIGHT} drevených výrobkov"}
+{"i":540,"tr":"{WEIGHT} cínu"}
+{"i":541,"tr":"{WEIGHT} plechu"}
+{"i":542,"tr":"{WEIGHT} pneumatického lanka"}
+{"i":543,"tr":"{WEIGHT} pneumatík"}
+{"i":544,"tr":"{WEIGHT} zeleniny"}
+{"i":545,"tr":"{WEIGHT} karosérií vozidiel"}
+{"i":546,"tr":"{WEIGHT} dielov vozidiel"}
+{"i":547,"tr":"{WEIGHT} vozidiel"}
+{"i":548,"tr":"{WEIGHT} zváracích spotrebných materiálov"}
+{"i":549,"tr":"{WEIGHT} drevenej buničiny"}
+{"i":550,"tr":"{WEIGHT} zinkovej rudy"}
+{"i":551,"tr":"{WEIGHT} vrece{P 0 \"\" s} kávy"}
+{"i":82,"tr":"Práca plazivca"}
+{"i":83,"tr":"Kreozotovanie"}
+{"i":129,"tr":"GRFID"}
+{"i": 91, "tr": "Každá ekonomika poskytuje inú kombináciu nákladov a odvetví.{}{}Pre hráčov, ktorí chcú jednoduché hranie, obsahujú {SILVER}základné {BLACK}ekonomiky menej odvetví a nákladov než ostatné ekonomiky CIRS.{}{}Webová stránka CIRS poskytuje podrobné informácie o každej ekonomike."}
+{"i": 551, "tr": "{WEIGHT} vrece kávy"}

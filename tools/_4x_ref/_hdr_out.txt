@@ -1,0 +1,7 @@
+english::##grflangid 0x01::##plural 0::
+german::##grflangid 0x02::STR_GENERIC_DC9B                                                                :\UE09A\0EKalkbrennerei::STR_GENERIC_DC26                                                                :\UE09A\0EProduktionsgÃ¼ter
+french::##grflangid 0x03::STR_GENERIC_DC9B                                                                :Four Ã  chaux::STR_GENERIC_DC26                                                                :Fourniture industrielle
+spanish::##grflangid 0x04::STR_GENERIC_DC9B                                                                :Horno de Cal::STR_GENERIC_DC26                                                                :Suministros de Manufactura
+portuguese::##grflangid 0x01::##plural 0::
+portuguese_br::##grflangid 0x37::##plural 0::
+korean::##grflangid 0x3a::##plural 11::##gender m f

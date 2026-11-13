@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x05"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "Komunuma Industria Anstataŭiga Arĝo de CIRS"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS Komunuma Industria Anstataŭiga Aro{}{BLACK}Komunume prizorgata forko de FIRS, origine kreita de andythenorth, FooBar, planetmaker, Terkhen kaj Yexo, kun helpo de multaj aliaj. {SILVER}Vidu la retejon por pli da informoj, inkluzive de kiel uzi CIRS. {BLACK}Licenco: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maksimuma distanco de fiŝkaptejoj, oleplatformoj, kaj skrapejoj de la marbordo en kaheloj."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Ĉiu ekonomio provizas malsaman kombinaĵon da ŝarĝoj kaj industrioj.{}{}Por ludantoj, kiuj volas simplan ludadon, la {SILVER}bazaj {BLACK}ekonomioj enhavas malpli da industrioj kaj ŝarĝoj ol aliaj CIRS-ekonomioj.{}{}La retejo de CIRS provizas detalajn informojn pri ĉiu ekonomio."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maksimuma marborda distanco de mara industrioj en kaheloj"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Ekonomio"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Ne limigo"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Necesaj provizkojtoj por plibonigita ĉefa produktado (defaŭlte 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Necesaj provizkojtoj por entuziasma ĉefa produktado (defaŭlte 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Fermjoj, minejoj kaj similaj industrioj pliigos sian produktadon kiam provizaj kestoj estos liveritaj, unue al {SILVER}Enhanced{BLACK}, kaj poste al {SILVER}Gung-ho{BLACK}, se sufiĉe da kestoj estos liveritaj.  {}{}La defaŭltaj valoroj estas bonaj, sed se necese, vi povas ŝanĝi ilin ĉi tie.  {}{}La varpostuloj por havenaj industrioj estos 8-oblo de la valoroj difinitaj ĉi tie."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Plibonigita nivelo de primara produktado (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho-nivelo de primara produktado (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Produktado en farmoj, minejoj kaj similaj industrioj kiam la provizbezonoj estas plenumitaj (kiel procento de la {SILVER}normala {BLACK}produktnivelo)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Temperata baza"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Arktika Bazo"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tropika bazmaterialo"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "En varma lando"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Milda Milda Okcidento"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Ŝtalurbo"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "Pejzaĝaj objektoj de CIRS"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS inkluzivas arĝon de pejzaĝaj objektoj, kiujn ludantoj povas loki por igi certajn industriojn aspekti pli grandaj. Pejzaĝaj objektoj ne influas la ludadon. Pejzaĝaj objektoj povas esti ŝaltitaj aŭ malŝaltitaj."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(elekte)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(provizite)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Liveru {WHITE}almenaŭ unu {BLACK} necesan varon por maksimuma produktado."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Por maksimuma produktokvanto, liveru {WHITE}ambaŭ {BLACK}necesarajn varojn almenaŭ unu fojon ĉiujn tri minutojn."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Por maksimuma produktokvanto, liveru {WHITE}ĉiujn {BLACK}necesarajn varojn almenaŭ unu fojon ĉiujn tri minutojn."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Por maksimuma produktokvanto, liveru {WHITE}almenaŭ du {BLACK}necesarajn varojn almenaŭ unu fojon ĉiujn tri minutojn."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Por maksimuma produktokvanto, liveru {WHITE}almenaŭ tri {BLACK}bezonatajn kargojn almenaŭ unu fojon ĉiujn tri minutojn."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}La produktado estas proporcia al la loĝantaro de la urbo. Almenaŭ {WHITE}{SIGNED_WORD} unuoj{BLACK} kaj ne pli ol {WHITE}{SIGNED_WORD} unuoj{BLACK} da varoj estos produktitaj ĉiun minuton."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Nuna produktado: {YELLOW}Normala {}{}{BLACK}Por {WHITE}Plifortigita {BLACK}produktado liveru {SIGNED_WORD} kestojn da provizoj almenaŭ unu fojon ĉiuj tri minutoj.{}Por {WHITE}Entuziasma {BLACK}produktado liveru {SIGNED_WORD} kestojn."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Nuna produktado: {YELLOW}Plibonigita {}{}{BLACK}Por konservi ĉi tiun nivelon, liveru {SIGNED_WORD} kestojn da provizoj almenaŭ unu fojon ĉiujn tri minutojn.{}Por {WHITE}Gung-ho {BLACK}-produktado liveru {SIGNED_WORD} kestojn."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Nuna produktado: {YELLOW}Gung-ho {}{}{BLACK}Por konservi ĉi tiun nivelon, liveru {SKIP}{SIGNED_WORD} kestojn da provizoj almenaŭ unu fojon ĉiujn tri minutojn."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Nuna produktado: {YELLOW}Normala {}{}{BLACK}Por {WHITE}Plifortigita {BLACK}produktado liveru {SIGNED_WORD} unuojn da kargo almenaŭ unu fojon ĉiuj tri minutoj.{}Por {WHITE}Entuziasma {BLACK}produktado liveru {SIGNED_WORD} unuojn."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Nuna produktado: {YELLOW}Plibonigita {}{}{BLACK}Por konservi ĉi tiun nivelon, liveru {SIGNED_WORD} unuojn da ŝarĝo almenaŭ unu fojon ĉiujn tri minutojn.{}Por {WHITE}Gung-ho {BLACK}-produktado liveru {SIGNED_WORD} unuojn."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Nuna produktado: {YELLOW}Gung-ho {}{}{BLACK}Por konservi ĉi tiun nivelon, liveru {SKIP}{SIGNED_WORD} unuojn da varo almenaŭ unu fojon ĉiujn tri minutojn."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS postulas OpenTTD 1.7.0 (aŭ, por tiuj, kiuj uzas trunkajn kompilaĵojn, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Nekongrua aro: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Nekongrua parametro: {ORANGE}La parametro CanSet 2 devas esti 0 por funkcii kun CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Nekongrua parametro: {ORANGE}La parametro 2 de la NA City Set devas esti 0 por funkcii kun CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Nekongrua versio: {ORANGE}La Total Town Replacement Set devas esti versio 3.11 aŭ pli nova."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "devas loki sub la neĝa linio."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "ne povas loki sur krutaj deklivoj."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata sur neĝo aŭ en dezertoj aŭ sur krutaj deklivoj."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata sur neĝo aŭ en dezertoj aŭ sur krutaj deklivoj."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata sur neĝo aŭ en dezertoj aŭ sur krutaj deklivoj."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata sur neĝo aŭ en dezertoj aŭ sur krutaj deklivoj."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata en dezertoj."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata sur neĝo."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Loko: {YELLOW}Povas esti financata nur sur neĝo."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata sur neĝo aŭ en dezertoj aŭ sur krutaj deklivoj."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata sur neĝo aŭ en dezertoj aŭ sur krutaj deklivoj."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Loko: {YELLOW}Ne povas esti fondata sur neĝo aŭ en dezertoj aŭ sur krutaj deklivoj."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Acido"
+cargo_unit = "{VOLUME} da acido"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Agregatoj"
+cargo_unit = "{WEIGHT} da agregatoj"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Aluminio"
+cargo_unit = "{WEIGHT} da aluminio"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumino"
+cargo_unit = "{WEIGHT} da aluminio-oksido"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Amoniaĵoj kaj azotaĵoj"
+cargo_unit = "{VOLUME} da amoniako kaj azotaĵoj"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhidrita roko"
+cargo_unit = "{WEIGHT} da anhidrita roko"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Pomoj"
+cargo_unit = "{WEIGHT} da pomoj"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Fazoloj"
+cargo_unit = "{WEIGHT} da faboj"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumeno"
+cargo_unit = "{VOLUME} da bitumeno"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Konstruaj Materialoj"
+cargo_unit = "{WEIGHT} da konstruaj materialoj"
+cid = "{TINYFONT}KM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Nigra karbono"
+cargo_unit = "{WEIGHT} da karbonnigro"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Kasavo"
+cargo_unit = "{WEIGHT} da kasavo"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Ferofando"
+cargo_unit = "{WEIGHT} da gruzfero"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Cimento"
+cargo_unit = "{WEIGHT} da cemento"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Kemiaj interproduktoj"
+cargo_unit = "{VOLUME} da kemiaj interproduktoj"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Ĥemiaĵoj"
+cargo_unit = "{VOLUME} da ĥemiaĵoj"
+cid = "{TINYFONT}ĤE"
+
+[STR_CARGO_CHLORINE]
+name = "Kloro"
+cargo_unit = "{VOLUME} da kloro"
+cid = "{TINYFONT}ĤE"
+
+[STR_CARGO_CLAY]
+name = "Argilo"
+cargo_unit = "{WEIGHT} da argilo"
+cid = "{TINYFONT}AR"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Purigiloj"
+cargo_unit = "{WEIGHT} da purigiloj"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kafeo"
+cargo_unit = "{WEIGHT} sakoj{P 0 \"\" s} da kafo"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "Karbotaro"
+cargo_unit = "{VOLUME} da karbontaro"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Koko"
+cargo_unit = "{WEIGHT} da kokso"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Precizaj komponantoj"
+cargo_unit = "{WEIGHT} da precizaj komponantoj"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betonaj produktoj"
+cargo_unit = "{WEIGHT} de betonaj produktoj"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Kupro"
+cargo_unit = "{WEIGHT} de kupro"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Manĝoleo"
+cargo_unit = "{VOLUME} da manĝoleo"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Elektraj partoj"
+cargo_unit = "{WEIGHT} de elektraj partoj"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Inĝenieraprovizoj"
+cargo_unit = "{SIGNED_WORD} kesto{P 0 \"\" j} da inĝenieraprovizoj"
+cid = "{TINYFONT}IP"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Eksplozivoj"
+cargo_unit = "{WEIGHT} de eksplodivaĵoj"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Feroleguroj"
+cargo_unit = "{WEIGHT} de feralegioj"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Fiŝoj kaj Marfruktoj"
+cargo_unit = "{WEIGHT} de fiŝoj & marfruktoj"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Terkulturaprovizoj"
+cargo_unit = "{SIGNED_WORD} kesto{P 0 \"\" j} da terkultulaprovizoj"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_FERTILISER]
+name = "Fertiligilo"
+cargo_unit = "{WEIGHT} de sterko"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Faruno kaj amelo"
+cargo_unit = "{WEIGHT} de faruno & amelo"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Manĝaĵaj aldonaĵoj"
+cargo_unit = "{WEIGHT} de manĝaĵaj aldonaĵoj"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Manĝaĵoj kaj trinkaĵoj"
+cargo_unit = "{WEIGHT} de manĝaĵoj & trinkaĵoj"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Forĝaĵoj kaj fandaĵoj"
+cargo_unit = "{WEIGHT} de forĝaĵoj & fandaĵoj"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Konfrita manĝaĵo"
+cargo_unit = "{WEIGHT} da frostigita manĝaĵo"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Fruktoj"
+cargo_unit = "{WEIGHT} da fruktoj"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Vitraj produktoj"
+cargo_unit = "{WEIGHT} da vitraj produktoj"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Fermaro kaj finaj materialoj"
+cargo_unit = "{WEIGHT} da fervaroj kaj finaj materialoj"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Industriaj karbonoj"
+cargo_unit = "{WEIGHT} da industriaj karbonoj"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Industriaj gasoj"
+cargo_unit = "{VOLUME} da industriaj gasoj"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Ĉina argilo"
+cargo_unit = "{WEIGHT} da ĉina argilo"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Malpezaj hidrokarbonoj"
+cargo_unit = "{VOLUME} da malpezaj hidrokarbonoj"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Kalkŝtono"
+cargo_unit = "{WEIGHT} da kalkŝtono"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Tronkoj"
+cargo_unit = "{WEIGHT} da trunkoj"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Natria hidroksido"
+cargo_unit = "{VOLUME} da natria hidroksido"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Metanolo"
+cargo_unit = "{VOLUME} da metanolo"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Lakto"
+cargo_unit = "{VOLUME} da lakto"
+cid = "{TINYFONT}LK"
+
+[STR_CARGO_MANGANESE]
+name = "Mangano"
+cargo_unit = "{WEIGHT} da mangano"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Viando"
+cargo_unit = "{WEIGHT} da viando"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Barito kaj fluorsparo"
+cargo_unit = "{WEIGHT} da barito kaj fluoritroko"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Mineralaj plenigiloj"
+cargo_unit = "{WEIGHT} da mineralaj plenigiloj"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Kruda sukero kaj melaso"
+cargo_unit = "{WEIGHT} da kruda sukero kaj melaso"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitratoj"
+cargo_unit = "{WEIGHT} da nitratoj"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Azoto"
+cargo_unit = "{VOLUME} da azoto"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Nutoj"
+cargo_unit = "{WEIGHT} da nuksoj"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Oksigeno"
+cargo_unit = "{VOLUME} da oksigeno"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Embalado"
+cargo_unit = "{WEIGHT} da embalaĝo"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Farboj kaj tegaĵoj"
+cargo_unit = "{VOLUME} da farboj kaj kovraĵoj"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Turbo"
+cargo_unit = "{WEIGHT} da turbo"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Petrolo"
+cargo_unit = "{VOLUME} da petrolo"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "Stokujoj kaj tubaroj"
+cargo_unit = "{WEIGHT} de stokujoj kaj tubaroj"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfato"
+cargo_unit = "{WEIGHT} da fosfato"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Fosfora acido"
+cargo_unit = "{VOLUME} da fosforacido"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Brutofero"
+cargo_unit = "{WEIGHT} da kruda fero"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plastikoj kaj rezinoj"
+cargo_unit = "{WEIGHT} da plasto kaj rezinoj"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Instalaĵoj kaj maŝinaro"
+cargo_unit = "{WEIGHT} da plantoj kaj maŝinaro"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Kalio"
+cargo_unit = "{WEIGHT} da kalio"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Proceskemiaĵoj"
+cargo_unit = "{WEIGHT} da procezkemiaĵoj"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pumpoj kaj valvoj"
+cargo_unit = "{WEIGHT} da pumpiloj kaj valvoj"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pirita erco"
+cargo_unit = "{WEIGHT} da pirita erco"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Nekalko"
+cargo_unit = "{WEIGHT} da viva kalko"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Armatura ŝtalo"
+cargo_unit = "{WEIGHT} da armatura ŝtalo"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Salo"
+cargo_unit = "{WEIGHT} da salo"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Sablo"
+cargo_unit = "{WEIGHT} da sablo"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Peceta Metalo"
+cargo_unit = "{WEIGHT} da peceta metalo"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Sigeloj, ŝlangoj kaj kormanoj"
+cargo_unit = "{WEIGHT} da sigeliloj, ŝlangoj kaj kormenoj"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slago"
+cargo_unit = "{WEIGHT} da ŝlako"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Sodasko"
+cargo_unit = "{WEIGHT} da soda cindro"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Ŝtalo"
+cargo_unit = "{WEIGHT} da ŝtalo"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Biletoj kaj bloemoj"
+cargo_unit = "{WEIGHT} da blokoj kaj bloemoj"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Ŝtalaj ingotoj"
+cargo_unit = "{WEIGHT} da ŝtalaj ingotoj"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Komerca Baro"
+cargo_unit = "{WEIGHT} da komerca ŝtango"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Ŝtaltubo"
+cargo_unit = "{WEIGHT} da ŝtala tubo"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Ŝtalplato"
+cargo_unit = "{WEIGHT} da ŝtala plato"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Ŝtalfolio kaj ŝtalstripo"
+cargo_unit = "{WEIGHT} da ŝtala folio kaj strio"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Ŝtalbloko"
+cargo_unit = "{WEIGHT} de ŝtala plato"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Ŝtaltubo"
+cargo_unit = "{WEIGHT} de ŝtala tubo"
+cid = "{TINYFONT}ŜT"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Ŝtaldrata stango"
+cargo_unit = "{WEIGHT} de ŝtala drato"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Konstrua ŝtalo"
+cargo_unit = "{WEIGHT} de konstrua ŝtalo"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Sulfuro"
+cargo_unit = "{WEIGHT} de sulfuro"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Sulfura acido"
+cargo_unit = "{VOLUME} da sulfura acido"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Lignoproduktoj"
+cargo_unit = "{WEIGHT} de lignaj produktoj"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_TIN]
+name = "Estaĵo"
+cargo_unit = "{WEIGHT} de estaĵo"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Stanplato"
+cargo_unit = "{WEIGHT} de estaĵplato"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Pneumatika ŝnuro"
+cargo_unit = "{WEIGHT} de pneŭkordoj"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Pneŭmatikoj"
+cargo_unit = "{WEIGHT} de pneŭoj"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Legomoj"
+cargo_unit = "{WEIGHT} de legomoj"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Veturilkorpoj"
+cargo_unit = "{WEIGHT} de veturilkorpoj"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Motoroj kaj transmisiono"
+cargo_unit = "{WEIGHT} de motoroj & transmisiiloj"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Veturilpartoj"
+cargo_unit = "{WEIGHT} de veturilpartoj"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Veturiloj"
+cargo_unit = "{WEIGHT} de veturiloj"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Svordaj konsummaterialoj"
+cargo_unit = "{WEIGHT} de ŝvavaj konsummaterialoj"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Fabriko"
+cargo_unit = "{WEIGHT} de lignocelozo"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Lano"
+cargo_unit = "{SIGNED_WORD} balo{P 0 \"\" s} da lano"
+cid = "{TINYFONT}LN"
+
+[STR_CARGO_ZINC]
+name = "Zinko"
+cargo_unit = "{WEIGHT} de zinko"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Zinka ero"
+cargo_unit = "{WEIGHT} de zinkerco"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} da varoj"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Aluminifarejo"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Amonia komplekso"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Anhidrita minejo"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Anhidrita proceza uzinejo"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Applikaĵfabriko"
+
+[STR_IND_ARABLE_FARM]
+base = "Plugebla Farmo"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Montada fabriko"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Sekcia kaj bara molino"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Baza oksigena forno"
+
+[STR_IND_BLAST_FURNACE]
+base = "Altoforno"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Fabriko de stratplatoj"
+
+[STR_IND_BODY_PLANT]
+base = "Korpoplantejo"
+
+[STR_IND_BREWERY]
+base = "Alkoholfarejo"
+
+[STR_IND_CIDER_MILL]
+base = "Sidra molino"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Konstruejo" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Fabriko de nigra karbono"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Fabriko de celulozaj filmoj"
+
+[STR_IND_CEMENT_PLANT]
+base = "Cementfarejo"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Kemia komplekso"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Fabriko de eksplozivoj"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Klor-alkala fabriko"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Argila Fosaĵo"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Kafea bieno"
+
+[STR_IND_COKE_OVEN]
+base = "Kokoforno"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Betona fabriko"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Loteva kemia fabriko"
+
+[STR_IND_COPPER_SMELTER]
+base = "Kupera fandejo"
+
+[STR_IND_CRYO_PLANT]
+base = "Kriogen-plantejo"
+
+[STR_IND_DAIRY]
+base = "Laktfarejo"
+
+[STR_IND_DAIRY_FARM]
+base = "Lakta farmo"
+
+[STR_IND_DREDGING_SITE]
+base = "Skrapejo"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Fabriko de elastomeraj produktoj"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Elektra arka forno"
+
+[STR_IND_ENGINE_PLANT]
+base = "Motorfabriko"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Inĝeniera laborejo"
+
+[STR_IND_FARM]
+base = "Fermjo"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Fabriko de proceskemiaĵoj"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Fermentejo"
+
+[STR_IND_FISH_FARM]
+base = "Fiŝbredejo"
+
+[STR_IND_FISHING_GROUND]
+base = "Fiŝkaptejo"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Fiŝkapta Haveno"
+
+[STR_IND_GRAIN_MILL]
+base = "Kernejmuelejo"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Manĝaĵprilabora instalo"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Ŝtalforĝejo kaj fandejo"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Ustarejo por konfritaj manĝaĵoj"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Meblarfarejo"
+
+[STR_IND_GENERAL_STORE]
+base = "Ĝenerala vendejo"
+
+[STR_IND_GLASS_WORKS]
+base = "Glasfarejo"
+
+[STR_IND_HERDING_COOP]
+base = "Bestobreda kooperativo"
+
+[STR_IND_HOTEL]
+base = "Hotelo"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Fabriko de konfritaj desertoj"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Ŝtalfabriko"
+
+[STR_IND_SCRAP_YARD]
+base = "Forĵetaĵejo"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Kalkforno"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Kalkŝtona minejo"
+
+[STR_IND_MANGANESE_MINE]
+base = "Manganminejo"
+
+[STR_IND_METAL_WORKS]
+base = "Metalfabrikejo"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Planto por mineralaj plenigiloj"
+
+[STR_IND_NITRATE_MINE]
+base = "Nitrata minejo"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Industria kemia fabriko"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Ole- kaj kemia terminalo"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Fruktoĝardeno kaj porkbredejo"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Botelfabriko kaj kanfabriko"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Fabriko de paperaj produktoj"
+
+[STR_IND_PEATLANDS]
+base = "Turbaroj"
+
+[STR_IND_PETROLPUMP]
+base = "Petrolpumpilo"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Fosfatminejo"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Fertiligila kaj Acida Fabriko"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Komerca bakejo"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Tubfarfarejo"
+
+[STR_IND_PLATE_MILL]
+base = "Plata molino"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Fabriko de plastikaj formaj produktoj"
+
+[STR_IND_PORT]
+base = "Haveno"
+
+[STR_IND_POTASH_MINE]
+base = "Kalio-mino"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Fabriko de energisistemoj"
+
+[STR_IND_POWER_PLANT]
+base = "Elektrcentralo"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Fabriko de precizaj partoj"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Produkta Pakisto"
+
+[STR_IND_PYRITE_MINE]
+base = "Pirita minejo"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Pirita fandejo"
+
+[STR_IND_QUARRY]
+base = "Ŝtonejo"
+
+[STR_IND_RANCH]
+base = "Ranĉo"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Voŝtona uzinejo"
+
+[STR_IND_SALT_WORKS]
+base = "Salfabriko"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Slagmuelejo"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Sodaskminejo"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Fabriko de pretmanĝaĵoj"
+
+[STR_IND_STOCKYARD]
+base = "Prilaboritejo de Brutaro"
+
+[STR_IND_STRIP_MILL]
+base = "Stria molino"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Sukerarafinejo"
+
+[STR_IND_SUPPLY_YARD]
+base = "Provizodomo"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Prilaboritejo de Ligno"
+
+[STR_IND_TIN_MINE]
+base = "Stano-mino"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Stanplata fabriko"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Fabriko de ŝina veturilo"
+
+[STR_IND_TRADING_POST]
+base = "Komerca stacio"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Tubo- kaj kondukotubofabrikejo"
+
+[STR_IND_TYRE_PLANT]
+base = "Pneumatika fabriko"
+
+[STR_IND_VINEYARD]
+base = "Vingardo"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Veturila distribuilo"
+
+[STR_IND_WHARF]
+base = "Kajo"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Lignoĉelo"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Zinka mino"
+
+[STR_IND_ZINC_SMELTER]
+base = "Zinka fandejo"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Ĉevalmerkato"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Elektraj varoj"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Automobila"
+
+[STR_STATION_BAKERY]
+base = "Bakerejo"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Traversoj"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Baro, grilo kaj ĉambroj"
+
+[STR_STATION_BARNS]
+base = "Stabloj"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Barel kaj fadeno"
+
+[STR_STATION_BASE]
+base = "Bazo"
+
+[STR_STATION_BONEYARD]
+base = "Ostejo"
+
+[STR_STATION_BANK_TOP]
+base = "Banka Supro"
+
+[STR_STATION_BODY_PLANT]
+base = "Preŝitaj produktoj"
+
+[STR_STATION_BRINE_WORKS]
+base = "Salakvo-uzinejo"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Konstruistkorto"
+
+[STR_STATION_COLLIERY]
+base = "Karbominejo"
+
+[STR_STATION_COMPONENTS]
+base = "Komponantoj"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Antaŭbetonita"
+
+[STR_STATION_COPPER_LODE]
+base = "Kupera vejno"
+
+[STR_STATION_CREOSOTING]
+base = "Kreozotado"
+
+[STR_STATION_CRYO_PLANT]
+base = "Kriogen-plantejo"
+
+[STR_STATION_DAIRY_LANE]
+base = "Lakta strato"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Sigelo kaj ŝlangoj"
+
+[STR_STATION_ESTATE]
+base = "Bieno"
+
+[STR_STATION_FACTORY]
+base = "Fabriko"
+
+[STR_STATION_FARM_1]
+base = "Bieno"
+
+[STR_STATION_FARM_2]
+base = "Preĝejoj"
+
+[STR_STATION_FARM_3]
+base = "Ranĉo"
+
+[STR_STATION_FISHMARKET]
+base = "Fiŝmerkato"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Manĝaĵa korporacio"
+
+[STR_STATION_FOREST]
+base = "Tronka elŝipejo"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Ŝtalmajstroj"
+
+[STR_STATION_FREEZERS]
+base = "Konfregiloj"
+
+[STR_STATION_FURNACE]
+base = "Forno"
+
+[STR_STATION_METAL_WORKS]
+base = "Metalaĵoj"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Verkoj"
+
+[STR_STATION_HERDING_COOP]
+base = "Reinderaj paŝtoblokoj"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Industria parko"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Akvorando"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Altera platformo"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Marborda fronto"
+
+[STR_STATION_IRONSTONE]
+base = "Feraŝtono"
+
+[STR_STATION_KILNS]
+base = "Brulĉambroj"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Kimberlitaj deponejoj"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Kalkŝtonaj minejoj"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Manganminejoj"
+
+[STR_STATION_MILL]
+base = "Muelilo"
+
+[STR_STATION_MILLS]
+base = "Mueliloj"
+
+[STR_STATION_MINES]
+base = "Minejoj"
+
+[STR_STATION_MOULDINGS]
+base = "Formaĵoj"
+
+[STR_STATION_OIL_RIG]
+base = "Kamparo"
+
+[STR_STATION_ORCHARDS]
+base = "Fruktoĝardenoj"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Flua linio"
+
+[STR_STATION_PIT]
+base = "Fosaĵo"
+
+[STR_STATION_PLANT]
+base = "Instalaĵo"
+
+[STR_STATION_PLANTATION]
+base = "Plantaĵo"
+
+[STR_STATION_PLATE_MILL]
+base = "Slabojardego"
+
+[STR_STATION_POTASH_MINE]
+base = "Mineraloj"
+
+[STR_STATION_POWERHUNGRY]
+base = "Elektrcentralo"
+
+[STR_STATION_POWERTRAIN]
+base = "Potenctransmisio"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Instalaĵoj kaj maŝinaro"
+
+[STR_STATION_PUMPS]
+base = "Pumpoj"
+
+[STR_STATION_PYRITES]
+base = "Piritaj deponejoj"
+
+[STR_STATION_REFINERY]
+base = "Rafinejo"
+
+[STR_STATION_ROD_MILL]
+base = "Stanga molino"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Kauĉua Kompanio"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Salpetrofabriko"
+
+[STR_STATION_SEAFOOD]
+base = "Marmanĝaĵoj"
+
+[STR_STATION_SHARP_STREET]
+base = "Akra Strato"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Malprofundaj akvopartoj"
+
+[STR_STATION_SILO]
+base = "Siluo"
+
+[STR_STATION_SMELTER]
+base = "Fandejo"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Karbonforno"
+
+[STR_STATION_SOUPS]
+base = "Supoj"
+
+[STR_STATION_STRIP_MILL]
+base = "Bobena linio"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Sukerkompanio"
+
+[STR_STATION_TANK_FARM]
+base = "Tankofarmejo"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Tapistaj ŝedo"
+
+[STR_STATION_TOWN_3]
+base = "Magazenoj"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Kraŝa fabriko"
+
+[STR_STATION_TRONA_BEDS]
+base = "Trona-litoj"
+
+[STR_STATION_TUBE_MILL]
+base = "Tubofabrikejo"
+
+[STR_STATION_WATER]
+base = "Sablobanko"
+
+[STR_STATION_WELLS]
+base = "Putoj"
+
+[STR_STATION_WHEAL]
+base = "Tritiko, orzo ktp."
+
+[STR_STATION_WINERY]
+base = "Draŝilfabriko"
+
+[STR_STATION_WORKS]
+base = "Verkoj"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Kamionhaltejo"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "TERO"
+
+[STR_BADGE_SEA]
+base = "MARO"

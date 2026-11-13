@@ -34,26 +34,65 @@ site_images = os.path.join(site_public, "img")
 SITE_BASE = "/CIRS/"
 
 # site languages; the first entry is the default (English, served from the site root)
-SITE_LANGS = [
-    {
-        "id": "english",
-        "code": "en",
-        "dir": "",
-        "prefix": SITE_BASE,
-        "route_prefix": "/",
-        "extra_strings": "extra_strings.toml",
-        "display": "DOC_TRANS_LANG_EN",
-    },
-    {
-        "id": "simplified_chinese",
-        "code": "zh",
-        "dir": "zh",
-        "prefix": SITE_BASE + "zh/",
-        "route_prefix": "/zh/",
-        "extra_strings": "extra_strings_zh.toml",
-        "display": "DOC_TRANS_LANG_ZH",
-    },
-]
+# site languages; the first entry is the default (English, served from the site root).
+# Keys are grf/gs/docs lang filenames; values give the short site `code`, the
+# extra_strings TOML file, the DOC_TRANS_LANG_* key for the switcher label, and dir.
+_LANG_MAP = {
+    "english": ("en", "extra_strings.toml", "DOC_TRANS_LANG_EN", ""),
+    "simplified_chinese": ("zh", "extra_strings_zh.toml", "DOC_TRANS_LANG_ZH", "zh"),
+    "french": ("fr", "extra_strings_fr.toml", "DOC_TRANS_LANG_FR", "fr"),
+    "german": ("de", "extra_strings_de.toml", "DOC_TRANS_LANG_DE", "de"),
+    "spanish": ("es", "extra_strings_es.toml", "DOC_TRANS_LANG_ES", "es"),
+    "portuguese": ("pt", "extra_strings_pt.toml", "DOC_TRANS_LANG_PT", "pt"),
+    "korean": ("ko", "extra_strings_ko.toml", "DOC_TRANS_LANG_KO", "ko"),
+    "arabic": ("ar", "extra_strings_ar.toml", "DOC_TRANS_LANG_AR", "ar"),
+    "afrikaans": ("af", "extra_strings_afrikaans.toml", "DOC_TRANS_LANG_AFRIKAANS", "af"),
+    "belarusian": ("be", "extra_strings_belarusian.toml", "DOC_TRANS_LANG_BELARUSIAN", "be"),
+    "catalan": ("ca", "extra_strings_catalan.toml", "DOC_TRANS_LANG_CATALAN", "ca"),
+    "croatian": ("hr", "extra_strings_croatian.toml", "DOC_TRANS_LANG_CROATIAN", "hr"),
+    "czech": ("cs", "extra_strings_czech.toml", "DOC_TRANS_LANG_CZECH", "cs"),
+    "danish": ("da", "extra_strings_danish.toml", "DOC_TRANS_LANG_DANISH", "da"),
+    "dutch": ("nl", "extra_strings_dutch.toml", "DOC_TRANS_LANG_DUTCH", "nl"),
+    "esperanto": ("eo", "extra_strings_esperanto.toml", "DOC_TRANS_LANG_ESPERANTO", "eo"),
+    "estonian": ("et", "extra_strings_estonian.toml", "DOC_TRANS_LANG_ESTONIAN", "et"),
+    "finnish": ("fi", "extra_strings_finnish.toml", "DOC_TRANS_LANG_FINNISH", "fi"),
+    "gaelic": ("gd", "extra_strings_gaelic.toml", "DOC_TRANS_LANG_GAELIC", "gd"),
+    "galician": ("gl", "extra_strings_galician.toml", "DOC_TRANS_LANG_GALICIAN", "gl"),
+    "hungarian": ("hu", "extra_strings_hungarian.toml", "DOC_TRANS_LANG_HUNGARIAN", "hu"),
+    "indonesian": ("id", "extra_strings_indonesian.toml", "DOC_TRANS_LANG_INDONESIAN", "id"),
+    "italian": ("it", "extra_strings_italian.toml", "DOC_TRANS_LANG_ITALIAN", "it"),
+    "japanese": ("ja", "extra_strings_japanese.toml", "DOC_TRANS_LANG_JAPANESE", "ja"),
+    "latin": ("la", "extra_strings_latin.toml", "DOC_TRANS_LANG_LATIN", "la"),
+    "luxembourgish": ("lb", "extra_strings_luxembourgish.toml", "DOC_TRANS_LANG_LUXEMBOURGISH", "lb"),
+    "norwegian_bokmal": ("nb", "extra_strings_norwegian_bokmal.toml", "DOC_TRANS_LANG_NORWEGIAN_BOKMAL", "nb"),
+    "polish": ("pl", "extra_strings_polish.toml", "DOC_TRANS_LANG_POLISH", "pl"),
+    "portuguese_BR": ("pt-br", "extra_strings_portuguese_BR.toml", "DOC_TRANS_LANG_PORTUGUESE_BR", "pt-br"),
+    "romanian": ("ro", "extra_strings_romanian.toml", "DOC_TRANS_LANG_ROMANIAN", "ro"),
+    "russian": ("ru", "extra_strings_russian.toml", "DOC_TRANS_LANG_RUSSIAN", "ru"),
+    "serbian": ("sr", "extra_strings_serbian.toml", "DOC_TRANS_LANG_SERBIAN", "sr"),
+    "traditional_chinese": ("zh-hant", "extra_strings_traditional_chinese.toml", "DOC_TRANS_LANG_TRADITIONAL_CHINESE", "zh-hant"),
+    "slovak": ("sk", "extra_strings_slovak.toml", "DOC_TRANS_LANG_SLOVAK", "sk"),
+    "spanish_MX": ("es-mx", "extra_strings_spanish_MX.toml", "DOC_TRANS_LANG_SPANISH_MX", "es-mx"),
+    "swedish": ("sv", "extra_strings_swedish.toml", "DOC_TRANS_LANG_SWEDISH", "sv"),
+    "tamil": ("ta", "extra_strings_tamil.toml", "DOC_TRANS_LANG_TAMIL", "ta"),
+    "turkish": ("tr", "extra_strings_turkish.toml", "DOC_TRANS_LANG_TURKISH", "tr"),
+    "welsh": ("cy", "extra_strings_welsh.toml", "DOC_TRANS_LANG_WELSH", "cy"),
+}
+
+SITE_LANGS = []
+for _id, (_code, _extra, _display, _dir) in _LANG_MAP.items():
+    if _id == "english":
+        SITE_LANGS.append({
+            "id": _id, "code": _code, "dir": _dir, "prefix": SITE_BASE,
+            "route_prefix": "/", "extra_strings": _extra, "display": _display,
+        })
+    else:
+        SITE_LANGS.append({
+            "id": _id, "code": _code, "dir": _dir,
+            "prefix": SITE_BASE + _code + "/",
+            "route_prefix": "/" + _code + "/",
+            "extra_strings": _extra, "display": _display,
+        })
 
 
 def load_site_strings(site_lang_id):
@@ -244,7 +283,7 @@ def render_get_started(helper):
     lines.append(t("DOC_GS_DOWNLOAD_INTRO"))
     lines.append("")
     lines.append(
-        "- **%s**[%s](http://wiki.openttd.org/Content_downloading)%s"
+        "- %s[%s](http://wiki.openttd.org/Content_downloading)%s"
         % (
             t("DOC_GS_DOWNLOAD_B1_PREFIX"),
             t("DOC_GS_DOWNLOAD_B1_LINK"),

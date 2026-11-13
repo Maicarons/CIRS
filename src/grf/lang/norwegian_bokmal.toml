@@ -1,0 +1,1360 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x2f"
+plural = "0"
+gender = "masculine feminine neuter"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS – samfunnets industriutskiftingspakke"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS – samfunnets industriutskiftingspakke{}{BLACK}En fellesskapsvedlikeholdt forgrening av FIRS, opprinnelig utviklet av andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjelp fra mange andre. {SILVER}Se nettsiden for mer informasjon, inkludert hvordan du bruker CIRS. {BLACK}Lisens: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Største avstand for fiskebanker, oljeplattformer og mudderbanker fra kysten (i brikker)."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Hver økonomi tilbyr en ulik kombinasjon av varer og industrier.{}{}For spillere som ønsker et enklere spill, har {SILVER}basis{BLACK}økonomiene færre industrier og varer enn andre økonomier.{}{}Nettstedet for CIRS har detaljert informasjon om hver enkelt økonomi."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Største avstand fra kysten for marine industrier (i brikker)."
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Økonomi"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Ingen begrensning"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Antall kasser utstyr for Forbedret primær produksjon (standard 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Antall kasser utstyr for Gung-ho primær produksjon (standard 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Gårder, gruver og lignende industrier vil øke produksjonen hvis det blir levert utstyr, først til {SILVER}Forbedret{BLACK}, deretter til {SILVER}Gung-ho{BLACK} hvis mange nok kasser blir levert.{}{}Forhåndsinnstillingene er gode, men kan om nødvendig endres her.{}{}Varebehov for havneindustrier vil være 8 ganger de verdiene som angis her."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Forbedret primært produksjonsnivå (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho primært produksjonsnivå (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Produksjon ved gårder, gruver og lignende industrier når krav til utstyr er innfridd (som prosentandel av {SILVER}Normalt{BLACK} produksjonsnivå)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Temperert basis"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Arktisk basis"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tropisk basis"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "I et hett land"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Stålbyen"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS-landskapsobjekter"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS inneholder et sett med landskapsobjekter som spillerne kan plassere for å få bestemte næringer til å se større ut. Landskapsobjekter har ingen innvirkning på spillopplevelsen. Landskapsobjekter kan slås på eller av."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(valgfritt)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = "{BLACK}(levert)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Produserer maksimalt hvis {WHITE}hvilken som helst {BLACK}nødvendig vare leveres."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}For maksimal produksjonshastighet, lever {WHITE}begge {BLACK}nødvendige laster minst én gang hvert tredje minutt."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}For maksimal produksjonshastighet, lever {WHITE}alle {BLACK}nødvendige laster minst én gang hvert tredje minutt."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}For maksimal produksjonshastighet, lever {WHITE}minst to {BLACK}nødvendige laster minst én gang hvert tredje minutt."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}For maksimal produksjonshastighet, lever {WHITE}minst tre {BLACK}nødvendige laster minst én gang hvert tredje minutt."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Produksjonen er proporsjonal med byens befolkning. Minst {WHITE}{SIGNED_WORD} enheter{BLACK} og ikke mer enn {WHITE}{SIGNED_WORD} enheter{BLACK} last vil bli produsert hvert minutt."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Produserer nå: {YELLOW}Normal{}{}{BLACK}For {WHITE}Forbedret produksjon{BLACK} må du levere {SIGNED_WORD} kasser utstyr innen tre måneder.{}For {WHITE}Gung-ho {BLACK}produksjon lever {SIGNED_WORD} kasser."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Produserer nå: {YELLOW}Forbedret{}{}{BLACK}For å opprettholde dette nivået, lever {SIGNED_WORD} kasser utstyr innen tre måneder{}For {WHITE}Gung-ho {BLACK}produksjon lever {SIGNED_WORD} kasser."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Produserer nå: {YELLOW}Gung-ho{}{}{BLACK}For å opprettholde dette nivået, lever {SKIP}{SIGNED_WORD} kasser utstyr innen tre måneder."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Produserer nå: {YELLOW}Normal{}{}{BLACK}For {WHITE}Forbedret {BLACK}produksjon må du levere {SIGNED_WORD} vareenheter innen tre måneder.{}For {WHITE}Gung-ho {BLACK}produksjon lever {SIGNED_WORD} vareenheter."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Produserer nå: {YELLOW}Forbedret{}{}{BLACK}For å opprettholde dette nivået, lever {SIGNED_WORD} vareenheter innen tre måneder{}For {WHITE}Gung-ho {BLACK}produksjon lever {SIGNED_WORD} vareenheter."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Produserer nå: {YELLOW}Gung-ho{}{}{BLACK}For å opprettholde dette nivået, lever {SKIP}{SIGNED_WORD} vareenheter innen tre måneder."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS krever OpenTTD 1.7.0 (eller, for de som bruker trunk-bygninger, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Inkompatibelt sett: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}CanSet-parameter 2 må være 0 for at dette skal fungere med CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}NA City Set-parameter 2 må være 0 for at dette skal fungere med CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Inkompatibel versjon: {ORANGE}Total Town Replacement Set må være versjon 3.11 eller nyere."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "må plasseres under snøgrensa."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "kan ikke plasseres i bratte skråninger"
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i snø eller ørken."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i snø eller ørken."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i snø eller ørken."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i snø eller ørken."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i ørken."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i snø."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Plassering: {YELLOW}Kan bare grunnlegges på snø."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i snø eller ørken."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i snø eller ørken."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Plassering: {YELLOW}Kan ikke startes i snø eller ørken."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Syre"
+cargo_unit = "{VOLUME} syre"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Aggregater"
+cargo_unit = "{WEIGHT} aggregater"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Aluminium"
+cargo_unit = "{WEIGHT} aluminium"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumina"
+cargo_unit = "{WEIGHT} aluminiumoksid"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Ammoniak- og salpetersyreprodukter"
+cargo_unit = "{VOLUME} av ammoniakk- og salpetersyreprodukter"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhydritstein"
+cargo_unit = "{WEIGHT} anhydrittbergart"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Epler"
+cargo_unit = "{WEIGHT} epler"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Bønner"
+cargo_unit = "{WEIGHT} bønner"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumen"
+cargo_unit = "{VOLUME} av bitumen"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Byggematerialer"
+cargo_unit = "{WEIGHT} byggematerialer"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Karbonsvart"
+cargo_unit = "{WEIGHT} karbonsvart"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Kassava"
+cargo_unit = "{WEIGHT} kassava"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Støpejern"
+cargo_unit = "{WEIGHT} støpejern"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Sement"
+cargo_unit = "{WEIGHT} sement"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Kjemiske mellomprodukter"
+cargo_unit = "{VOLUME} av kjemiske mellomprodukter"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Kjemikalier"
+cargo_unit = "{VOLUME} kjemikalier"
+cid = "{TINYFONT}CL"
+
+[STR_CARGO_CHLORINE]
+name = "Klor"
+cargo_unit = "{VOLUME} klor"
+cid = "{TINYFONT}CL"
+
+[STR_CARGO_CLAY]
+name = "Leire"
+cargo_unit = "{WEIGHT} leire"
+cid = "{TINYFONT}CY"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Rengjøringsmidler"
+cargo_unit = "{WEIGHT} rengjøringsmidler"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kaffe"
+cargo_unit = "{WEIGHT} sekk{P 0 \"\" s} med kaffe"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "Kullbitumen"
+cargo_unit = "{VOLUME} av kullharpiks"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Koks"
+cargo_unit = "{WEIGHT} koks"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Presisjonskomponenter"
+cargo_unit = "{WEIGHT} av presisjonskomponenter"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betongprodukter"
+cargo_unit = "{WEIGHT} av betongprodukter"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Kobber"
+cargo_unit = "{WEIGHT} kobber"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Matolje"
+cargo_unit = "{VOLUME} matolje"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Elektriske deler"
+cargo_unit = "{WEIGHT} av elektriske deler"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Anleggsutstyr"
+cargo_unit = "{SIGNED_WORD} kasse{P 0 \"\" r} anleggsutstyr"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Sprengstoff"
+cargo_unit = "{WEIGHT} av eksplosiver"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferrolegeringer"
+cargo_unit = "{WEIGHT} av ferrolegeringer"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Fisk og sjømat"
+cargo_unit = "{WEIGHT} av fisk og sjømat"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Gårdsutstyr"
+cargo_unit = "{SIGNED_WORD} kasse{P 0 \"\" r} gårdsutstyr"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "Gjødsel"
+cargo_unit = "{WEIGHT} gjødsel"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Mel og stivelse"
+cargo_unit = "{WEIGHT} av mel og stivelse"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Mattilsetningsstoffer"
+cargo_unit = "{WEIGHT} av mattilsetninger"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Mat og drikkevarer"
+cargo_unit = "{WEIGHT} av matvarer og drikkevarer"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Smidd og støpt deler"
+cargo_unit = "{WEIGHT} av smidd og støpt utstyr"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Frossen mat"
+cargo_unit = "{WEIGHT} av frossen mat"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Frukt"
+cargo_unit = "{WEIGHT} frukt"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Glassprodukter"
+cargo_unit = "{WEIGHT} av glassprodukter"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Maskinvare og overflater"
+cargo_unit = "{WEIGHT} av maskinvare og overflatebelegg"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Industrielle karboner"
+cargo_unit = "{WEIGHT} av industrielle karboner"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Industrielle gasser"
+cargo_unit = "{VOLUME} av industrigasser"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Kaolin"
+cargo_unit = "{WEIGHT} kaolin"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Lette hydrokarboner"
+cargo_unit = "{VOLUME} av lette hydrokarboner"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Kalkstein"
+cargo_unit = "{WEIGHT} kalkstein"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Tømmerstokker"
+cargo_unit = "{WEIGHT} av tømmerstokker"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Natriumhydroksid"
+cargo_unit = "{VOLUME} lut"
+cid = "{TINYFONT}LY"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} av metanol"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Melk"
+cargo_unit = "{VOLUME} melk"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "Mangan"
+cargo_unit = "{WEIGHT} mangan"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Kjøtt"
+cargo_unit = "{WEIGHT} av kjøtt"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Baryt og fluorspat"
+cargo_unit = "{WEIGHT} baryt og fluorspat"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Mineralfyllstoffer"
+cargo_unit = "{WEIGHT} av mineraliske fyllstoffer"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Råsuks og melasse"
+cargo_unit = "{WEIGHT} av rørsukker og melasse"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitrater"
+cargo_unit = "{WEIGHT} nitrater"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Nitrogen"
+cargo_unit = "{VOLUME} av nitrogen"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Nøtter"
+cargo_unit = "{WEIGHT} av nøtter"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Oksygen"
+cargo_unit = "{VOLUME} av oksygen"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Emballasje"
+cargo_unit = "{WEIGHT} emballasje"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Maling og belegg"
+cargo_unit = "{VOLUME} av maling og belegg"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Torv"
+cargo_unit = "{WEIGHT} torv"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Bensin"
+cargo_unit = "{VOLUME} bensin"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "Lagertanker og rørledninger"
+cargo_unit = "{WEIGHT} av lagertanker og rørledninger"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfat"
+cargo_unit = "{WEIGHT} fosfat"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Fosforsyre"
+cargo_unit = "{VOLUME} fosforsyre"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Råjern"
+cargo_unit = "{WEIGHT} råjern"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plast og harpikser"
+cargo_unit = "{WEIGHT} av plast og harpikser"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Anlegg og maskiner"
+cargo_unit = "{WEIGHT} av anlegg og maskiner"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Kalium"
+cargo_unit = "{WEIGHT} kalium"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Prosesskjemikalier"
+cargo_unit = "{WEIGHT} av prosesskjemikalier"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pumper og ventiler"
+cargo_unit = "{WEIGHT} av pumper og ventiler"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pyrittmalm"
+cargo_unit = "{WEIGHT} pyrittmalm"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Ulesket kalk"
+cargo_unit = "{WEIGHT} ulesket kalk"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Armeringsjern"
+cargo_unit = "{WEIGHT} av armeringsjern"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Salt"
+cargo_unit = "{WEIGHT} salt"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Sand"
+cargo_unit = "{WEIGHT} sand"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Skrapmetall"
+cargo_unit = "{WEIGHT} skrapmetall"
+cid = "{TINYFONT}SM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Tetninger, slanger og remmer"
+cargo_unit = "{WEIGHT} av tetninger, slanger og belter"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slagg"
+cargo_unit = "{WEIGHT} slagg"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Soda"
+cargo_unit = "{WEIGHT}  soda"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Stål"
+cargo_unit = "{WEIGHT} stål"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billetter og blomer"
+cargo_unit = "{WEIGHT} støpeblokker og blokker"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Stålingotter"
+cargo_unit = "{WEIGHT} av stålingotter"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Handelsbar"
+cargo_unit = "{WEIGHT} av handelsstang"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Stålrør"
+cargo_unit = "{WEIGHT} av stålrør"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Stålplate"
+cargo_unit = "{WEIGHT} av stålplate"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Stålark og -strimler"
+cargo_unit = "{WEIGHT} av stålark og -strimmel"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Stålslabbe"
+cargo_unit = "{WEIGHT} av stålslabbe"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Stålrør"
+cargo_unit = "{WEIGHT} av stålrør"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Ståltrådstrang"
+cargo_unit = "{WEIGHT} av ståltrådstrang"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Bygningsstål"
+cargo_unit = "{WEIGHT} av konstruksjonsstål"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Svovel"
+cargo_unit = "{WEIGHT} svovel"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Svovelsyre"
+cargo_unit = "{VOLUME} svovelsyre"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Trevareprodukter"
+cargo_unit = "{WEIGHT} av trevarer"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_TIN]
+name = "Tinn"
+cargo_unit = "{WEIGHT} av tinn"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Tinplate"
+cargo_unit = "{WEIGHT} av tinnplate"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Tyre Cord"
+cargo_unit = "{WEIGHT} av dekkkord"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Tyres"
+cargo_unit = "{WEIGHT} av dekk"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Grønsaker"
+cargo_unit = "{WEIGHT} av grønnsaker"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Karosserier"
+cargo_unit = "{WEIGHT} karosserier"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Motorer og drivlinjer"
+cargo_unit = "{WEIGHT} av motorer og drivlinjer"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Kjøretøydeler"
+cargo_unit = "{WEIGHT} kjøretøydeler"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Kjøretøy"
+cargo_unit = "{WEIGHT} kjøretøy"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Sveiseforbruksvarer"
+cargo_unit = "{WEIGHT} av sveiseforbruksvarer"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Trevirkepapirmasse"
+cargo_unit = "{WEIGHT} av trepulp"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Ull"
+cargo_unit = "{SIGNED_WORD} balle{P 0 \"\" r} ull"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "Sink"
+cargo_unit = "{WEIGHT} sink"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Sinkmalm"
+cargo_unit = "{WEIGHT} av sinkmalm"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} av varer"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "{G=neuter}Aluminiumsverk"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Ammoniakkompleks"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Anhydritgruve"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Anhydritprosessanlegg"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Husholdningsapparatfabrikk"
+
+[STR_IND_ARABLE_FARM]
+base = "{G=masculine}Jordbruksgård"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "{G=masculine}Kjøretøyfabrikk"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Profil- og stangsav"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "{G=masculine}Enkel smelteovn"
+
+[STR_IND_BLAST_FURNACE]
+base = "{G=masculine}Blåseovn"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Sponplatefabrikk"
+
+[STR_IND_BODY_PLANT]
+base = "Karosserikomponenter"
+
+[STR_IND_BREWERY]
+base = "{G=neuter}Bryggeri"
+
+[STR_IND_CIDER_MILL]
+base = "{G=neuter}Siderbryggeri"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Byggplass" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Anlegg for karbonsvart"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Cellulosefilmfabrikk"
+
+[STR_IND_CEMENT_PLANT]
+base = "{G=masculine}Sementfabrikk"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Kjemisk kompleksanlegg"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Eksplosivfabrikk"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Kloralkali-anlegg"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "{G=feminine}Leirgruve"
+
+[STR_IND_COFFEE_ESTATE]
+base = "{G=masculine}Kaffeplantasje"
+
+[STR_IND_COKE_OVEN]
+base = "{G=masculine}Koksovn"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Betonganlegg"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Batch-kjemisk fabrikk"
+
+[STR_IND_COPPER_SMELTER]
+base = "{G=neuter}Kobberraffineri"
+
+[STR_IND_CRYO_PLANT]
+base = "Kryoanlegg"
+
+[STR_IND_DAIRY]
+base = "{G=neuter}Meieri"
+
+[STR_IND_DAIRY_FARM]
+base = "{G=masculine}Melkegård"
+
+[STR_IND_DREDGING_SITE]
+base = "{G=masculine}Mudderbanke"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Fabrikk for elastomerprodukter"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "{G=masculine}Elektrobueovn"
+
+[STR_IND_ENGINE_PLANT]
+base = "Motorfabrikk"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Ingeniørverksted"
+
+[STR_IND_FARM]
+base = "Gård"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Anlegg for prosesskjemikalier"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Gjæringsanlegg"
+
+[STR_IND_FISH_FARM]
+base = "Oppdrettsanlegg"
+
+[STR_IND_FISHING_GROUND]
+base = "{G=masculine}Fiskebanke"
+
+[STR_IND_FISHING_HARBOUR]
+base = "{G=neuter}Fiskemottak"
+
+[STR_IND_GRAIN_MILL]
+base = "Kornmølle"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "{G=masculine}Hermetikkfabrikk"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Stålsmie og støperi"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Anlegg for frossen mat"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "{G=masculine}Møbelfabrikk"
+
+[STR_IND_GENERAL_STORE]
+base = "{G=masculine}Landhandel"
+
+[STR_IND_GLASS_WORKS]
+base = "{G=neuter}Glassverk"
+
+[STR_IND_HERDING_COOP]
+base = "{G=neuter}Utmarksbeite"
+
+[STR_IND_HOTEL]
+base = "{G=neuter}Hotell"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Fabrikk for frosne desserter"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Stålverk"
+
+[STR_IND_SCRAP_YARD]
+base = "{G=masculine}Skraphandel"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "{G=masculine}Kalkovn"
+
+[STR_IND_LIMESTONE_MINE]
+base = "{G=neuter}Kalkbrudd"
+
+[STR_IND_MANGANESE_MINE]
+base = "{G=feminine}Mangangruve"
+
+[STR_IND_METAL_WORKS]
+base = "Metallverksted"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Anlegg for mineralfyllstoffer"
+
+[STR_IND_NITRATE_MINE]
+base = "{G=feminine}Nitratgruve"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Anlegg for industrielle kjemikalier"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Olje- og kjemikalieterminal"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "{G=masculine}Frukt- og grisegård"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Flaske- og boksfabrikk"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Fabrikk for papirprodukter"
+
+[STR_IND_PEATLANDS]
+base = "{G=feminine}Torvmyr"
+
+[STR_IND_PETROLPUMP]
+base = "{G=masculine}Bensinstasjon"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "{G=feminine}Fosfatgruve"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Gjødsel- og syrefabrikk"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Kommersielt bakeri"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Rørfabrikk"
+
+[STR_IND_PLATE_MILL]
+base = "Plateverk"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Fabrikk for plastformgods"
+
+[STR_IND_PORT]
+base = "{G=feminine}Havn"
+
+[STR_IND_POTASH_MINE]
+base = "{G=feminine}Kaliumgruve"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Fabrikk for kraftsystemer"
+
+[STR_IND_POWER_PLANT]
+base = "{G=neuter}Kraftverk"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Fabrikk for presisjonsdeler"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Produktemballør"
+
+[STR_IND_PYRITE_MINE]
+base = "{G=feminine}Pyrittgruve"
+
+[STR_IND_PYRITE_SMELTER]
+base = "{G=neuter}Pyrittverk"
+
+[STR_IND_QUARRY]
+base = "{G=neuter}Steinbrudd"
+
+[STR_IND_RANCH]
+base = "{G=masculine}Ranch"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Veistensanlegg"
+
+[STR_IND_SALT_WORKS]
+base = "Saltverk"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "{G=neuter}Slaggknuseverk"
+
+[STR_IND_SODA_ASH_MINE]
+base = "{G=feminine}Natriumgruve"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Fabrikk for ferdigmat"
+
+[STR_IND_STOCKYARD]
+base = "{G=neuter}Slakteri"
+
+[STR_IND_STRIP_MILL]
+base = "Strimlemølle"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "{G=neuter}Sukkerraffineri"
+
+[STR_IND_SUPPLY_YARD]
+base = "{G=neuter}Utstyrslager"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "{G=masculine}Trevarefabrikk"
+
+[STR_IND_TIN_MINE]
+base = "Tinngruve"
+
+[STR_IND_TINPLATE_WORKS]
+base = "FRAX"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "OpenTTD"
+
+[STR_IND_TRADING_POST]
+base = "{G=masculine}Handelsstasjon"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Rør- og rørverksverksted"
+
+[STR_IND_TYRE_PLANT]
+base = "{G=masculine}Dekkfabrikk"
+
+[STR_IND_VINEYARD]
+base = "{G=masculine}Vingård"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Vehicle Distributor"
+
+[STR_IND_WHARF]
+base = "{G=masculine}Slipp"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Trådstrangverksted"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Sinkgruve"
+
+[STR_IND_ZINC_SMELTER]
+base = "Sinksmelteverk"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Hestemarked"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Elektriske varer"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Kjøretøy"
+
+[STR_STATION_BAKERY]
+base = "Bakeri"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Bjelker"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Motell"
+
+[STR_STATION_BARNS]
+base = "Låver"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Tønner og kagger"
+
+[STR_STATION_BASE]
+base = "Base"
+
+[STR_STATION_BONEYARD]
+base = "Huggeri"
+
+[STR_STATION_BANK_TOP]
+base = "Grunne"
+
+[STR_STATION_BODY_PLANT]
+base = "Pressing"
+
+[STR_STATION_BRINE_WORKS]
+base = "Saltvannsanlegg"
+
+[STR_STATION_BUILDERS_YARD]
+base = "{G=masculine}Byggevareforretning"
+
+[STR_STATION_COLLIERY]
+base = "Kullgruve"
+
+[STR_STATION_COMPONENTS]
+base = "Komponenter"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Ferdigbetong"
+
+[STR_STATION_COPPER_LODE]
+base = "Kobberåre"
+
+[STR_STATION_CREOSOTING]
+base = "Kreosot"
+
+[STR_STATION_CRYO_PLANT]
+base = "Kryoanlegg"
+
+[STR_STATION_DAIRY_LANE]
+base = "Meierigate"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Tetninger og slanger"
+
+[STR_STATION_ESTATE]
+base = "Plantasje"
+
+[STR_STATION_FACTORY]
+base = "Fabrikk"
+
+[STR_STATION_FARM_1]
+base = "Hovedgård"
+
+[STR_STATION_FARM_2]
+base = "Gårdsbruk"
+
+[STR_STATION_FARM_3]
+base = "Gård"
+
+[STR_STATION_FISHMARKET]
+base = "Fiskemottak"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Fødevare"
+
+[STR_STATION_FOREST]
+base = "Tømmerdeponi"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Stålkonstruksjoner"
+
+[STR_STATION_FREEZERS]
+base = "Fryserom"
+
+[STR_STATION_FURNACE]
+base = "Ovn"
+
+[STR_STATION_METAL_WORKS]
+base = "Metallvarer"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Verk"
+
+[STR_STATION_HERDING_COOP]
+base = "Hytte"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Industripark"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Kai"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Flytekai"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Kystfront"
+
+[STR_STATION_IRONSTONE]
+base = "Jernmalm"
+
+[STR_STATION_KILNS]
+base = "Ovner"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Kimberlittleie"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Kalkbrudd"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Mangangruve"
+
+[STR_STATION_MILL]
+base = "Bruk"
+
+[STR_STATION_MILLS]
+base = "Møller"
+
+[STR_STATION_MINES]
+base = "Mest kuer, griser og sauer til kjøttproduksjon. Andre dyr kan også spises."
+
+[STR_STATION_MOULDINGS]
+base = "Støperi"
+
+[STR_STATION_OIL_RIG]
+base = "Oljefelt"
+
+[STR_STATION_ORCHARDS]
+base = "Frukthage"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Flytelinje"
+
+[STR_STATION_PIT]
+base = "Grop"
+
+[STR_STATION_PLANT]
+base = "Anlegg"
+
+[STR_STATION_PLANTATION]
+base = "Plantasje"
+
+[STR_STATION_PLATE_MILL]
+base = "Betongblokkplass"
+
+[STR_STATION_POTASH_MINE]
+base = "Mineraler"
+
+[STR_STATION_POWERHUNGRY]
+base = "Verk"
+
+[STR_STATION_POWERTRAIN]
+base = "Drivlinje"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Anlegg og maskiner"
+
+[STR_STATION_PUMPS]
+base = "Pumper"
+
+[STR_STATION_PYRITES]
+base = "Pyrittåre"
+
+[STR_STATION_REFINERY]
+base = "Raffineri"
+
+[STR_STATION_ROD_MILL]
+base = "Stavmølle"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Gummifabrikk"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Salpeterverk"
+
+[STR_STATION_SEAFOOD]
+base = "Sjømat"
+
+[STR_STATION_SHARP_STREET]
+base = "Industrivei"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Banke"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Smelteverk"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Sotovn"
+
+[STR_STATION_SOUPS]
+base = "Supper"
+
+[STR_STATION_STRIP_MILL]
+base = "Spolelinje"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Sukkerfabrikk"
+
+[STR_STATION_TANK_FARM]
+base = "Tankgård"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Tapperi"
+
+[STR_STATION_TOWN_3]
+base = "Marked"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Kryoskrogverksted"
+
+[STR_STATION_TRONA_BEDS]
+base = "Natronleie"
+
+[STR_STATION_TUBE_MILL]
+base = "Rørmølle"
+
+[STR_STATION_WATER]
+base = "Sandbanke"
+
+[STR_STATION_WELLS]
+base = "Brønner"
+
+[STR_STATION_WHEAL]
+base = "Gruvehull"
+
+[STR_STATION_WINERY]
+base = "Vingård"
+
+[STR_STATION_WORKS]
+base = "Verk"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Tracked Vehicle Factory"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "LAND"
+
+[STR_BADGE_SEA]
+base = "HAV"

@@ -1,0 +1,14 @@
+STR_CARGO_EDIBLE_OIL cid={TINYFONT}脂
+STR_CARGO_QUICKLIME cid={TINYFONT}生
+STR_CARGO_VEHICLE_BODIES cid={TINYFONT}车
+ECONOMY MILD_MILD_WEST = 温和西部
+PRODUCTION 1X = {BLACK}当前产量：{YELLOW}正常 {}{}{BLACK}要达到{WHITE}增强 {BLACK}产量，请每三分钟至少送达 {SIGNED_WORD} 箱供应品。{}要达到{WHITE}工合 {BLACK}产量，请送达 {SIGNED_WORD} 箱。
+TAGLINE = OpenTTD 版 FIRS 的社区分支，提供开放的翻译与社区支持。
+FRAX_P1 = 在货物类别的命名上，FIRS 4 及更新版本采用 FRAX——一套更完善的货物类别标准。
+GRF_DESC = {ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 开发，并得到了许多其他人的帮助。{SILVER}请访问网站了解更多信息，包括如何使用 CIRS。{BLACK}许可证：GPL v2。
+DASH - 文字体系污染：**0**
+DASH - 短码 / 长名双份文件差异：**0**
+DASH - 与 FIRS 4.x 人工语料分歧的货物短码：**0**
+DASH - 繁体中文残留简体字（不含自名）：**0**
+DASH - 独立 QA：node tools/_i18n_qa.mjs → 19,198 / 19,198，零硬错误。
+DASH - 官方校验：python tools/check_translations.py → [TRANSLATIONS] OK（39 种语言 × 4 组文本）。

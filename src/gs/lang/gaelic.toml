@@ -1,0 +1,131 @@
+[STR_WELCOME]
+base = "Halò {COMPANY}!{}{}Tha thu a' cluich geama le GS deuchainn CIRS{}{}Tha an t-ainm-phàirt Git den GS seo {NUM}"
+
+[STR_EMPTY]
+base = ""
+
+[STR_CABBAGE]
+base = "{BLUE}Càl"
+
+[STR_CABBAGE_TOWN_HAPPY]
+base = "toilichte"
+
+[STR_CABBAGE_TOWN_UNHAPPY]
+base = "mi-thoileach"
+
+[STR_CABBAGE_TOWN]
+base = "Is e {STRING} a th' anns a' bhaile{}{}Gus barrachd fiosrachaidh fhaighinn mun bhaile seo (a' gabhail a-steach riatanasan fàis is sonais), fosgail Leabhar na Sgeulachd agus lorg an duilleag airson {TOWN}"
+
+[STR_GRIND_SUB_HEADING]
+base = "{YELLOW}{RAW_STRING}"
+
+[STR_GRIND_TEST]
+base = "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+
+[STR_GRIND_TEST_INDUSTRY_NAME]
+base = "{TINY_FONT}{YELLOW}{DOWN_ARROW} {INDUSTRY} {NORMAL_FONT}"
+
+[STR_GRIND_DELAYED_UPDATE]
+base = "{BLACK}Thoir an aire nach dèid ath-nuadhachadh a dhèanamh air an-dràsta mura tèid Grind a chur dheth agus air ais air anns na roghainnean GS"
+
+[STR_TOWN_STORY_PAGE_TEST]
+base = "{BLACK}Facal air thuaiream (deuchainn): {WHITE}{RAW_STRING}"
+
+[STR_TOWN_STORY_PAGE_GROWTH_RATE]
+base = "{BLACK}Reat fàis làithreach: {WHITE}{RAW_STRING}"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGOS_GROWTH_TITLE]
+base = "{YELLOW}Leithbheathan a tha riatanach airson fàs"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGOS_HAPPINESS_TITLE]
+base = "{YELLOW}Leithbheathan a tha riatanach airson sonas"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGO_STATS]
+base = "{BLACK}Air a sholar: {WHITE}{CARGO_LONG}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_TITLE]
+base = "{BLACK}--- Industrian a' bhaile --- {}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_ACCEPTED_TITLE]
+base = "{BLACK}Leithbheathach riatanach a chaidh a sholar am mìos sa chaidh"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_PRODUCED_TITLE]
+base = "{BLACK}Leithbheathach a chaidh a chinneachadh am mìos sa chaidh"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_INDUSTRY_NAME]
+base = "{YELLOW}{INDUSTRY}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_CARGO_STATS]
+base = "{WHITE}{CARGO_LONG}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_TITLE]
+base = "{BLACK}Eachdraidh de mheudachaidhean (maireannach) cinneasachaidh (10 tachartasan mu dheireadh)"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_NEVER_INCREASED]
+base = "{WHITE}- cha do mheudaich an industri seo cinneasachadh gu maireannach a-riamh"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_SUBSTR]
+base = "{WHITE}{DATE_LONG}{}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_1]
+base = "{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_2]
+base = "{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_3]
+base = "{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_4]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_5]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_6]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_7]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_8]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_9]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_10]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_CURRENT_PROD_LEVEL]
+base = "{BLACK}Ìre cinneasachaidh làithreach: {WHITE}{NUM}"
+
+[STR_MANUFACTURERS_STORY_PAGE_TEST]
+base = "{BLACK}Facal air thuaiream (deuchainn): {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_NAME]
+base = "{BLACK}Ainm: {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_CATEGORY]
+base = "{BLACK}Seòrsa: {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_HQ_TOWN]
+base = "{BLACK}Am baile prìomh-oifis: {WHITE}{TOWN}"
+
+[STR_MANUFACTURERS_STORY_PAGE_VALID_TOWNS]
+base = "{BLACK}Bailean dligheach: {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_INDUSTRIES_OWNED]
+base = "{BLACK}Industrian seilbhte: {WHITE}{RAW_STRING}"
+
+[STR_CABBAGE_CLICKABLE_TEST]
+base = "{BLACK}Is e teacsa GS a tha seo. {WHITE}Thoir cliog orm airson duilleag sgeulachd a' bhaile. {BLACK}Seo barrachd teacsa."
+
+[STR_INDUSTRY_OWNER]
+base = "Sealbhadair: {RAW_STRING}"
+
+[STR_INDUSTRY_TOWN_BLACK_HOLE_EXTRA_TEXT_GROWTH]
+base = "{BLACK}Bidh liubhairtidhean dhan industri seo a' cur ri fàs agus/no sonas a' bhaile"
+
+[STR_NEWS_INDUSTRY_INCREASES_PRODUCTION]
+base = "{INDUSTRY} a' meudachadh cinneasachaidh!"

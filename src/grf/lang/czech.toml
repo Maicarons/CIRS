@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x15"
+plural = "10"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "Nahradní sada komunitního průmyslu CIRS"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}Komunitou udržovaná vidlička FIRS, původně vytvořená andythenorth, FooBar, planetmaker, Terkhen a Yexo s pomocí mnoha dalších. {SILVER}Další informace, včetně návodu na používání CIRS, najdete na webu. {BLACK}Licence: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maximální vzdálenost loviště ryb a těžby podvodních sedimentů od pobřeží."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Každá ekonomie nabízí odlišnou kombinaci nákladů a odvětví.{}{}Pro hráče, kteří chtějí jednoduché hraní, obsahují {SILVER}základní {BLACK}ekonomie méně odvětví a nákladů než ostatní ekonomie CIRS.{}{}Webová stránka CIRS poskytuje podrobné informace o každé ekonomii."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maximální vzdálenost vodního průmyslu"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Ekonomika"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Bez limitu"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Krabic zásob potřebných pro Zvýšenou primární produkci (výchozí 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Krabic zásob potřebných pro Gung-ho primární produkci (výchozí 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Produkce farem, dolů a podobného průmyslu se zvýší v případě dodání krabic se zásobami. Nejprve na {SILVER}Zvýšenou{BLACK}, a poté na {SILVER}Gung-ho{BLACK}, produkci, pokud je doručen dostatek zásob.{}{}Výchozí nastavení jsou dobrá, ale v případě potřeby je zde možné tyto hodnoty změnit.{}{}Požadavky na náklad jsou u přístavních typů průmyslu jsou znásobeny 8x."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Vylepšená základní úroveň produkce (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho primární úroveň produkce (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Produkce farem, dolů a podobného průmyslu v případě dodání požadovaného množství zásob (procento {SILVER}Normální {BLACK}úrovně produkce)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Základní mírná"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Základní arktická"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Základní tropická"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "V subtropech"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Ocelové město"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "Objekty úpravy terénu CIRS"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS obsahuje sadu objektů pro úpravu terénu, které hráči mohou umístit, aby určité průmyslové objekty vypadaly větší. Objekty terénu nemají žádný vliv na hratelnost. Objekty úpravy terénu lze zapínat a vypínat."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(volitelně)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = "{BLACK}(doručeno)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Maximální produkce pokud je doručen{WHITE}jakýkoli {BLACK}z požadovaných nákladů."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Pro maximální rychlost výroby dodávejte {WHITE}obě {BLACK}požadované náklady alespoň jednou za tři minuty."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Pro maximální rychlost výroby dodávejte {WHITE}všechny {BLACK}potřebné náklady alespoň jednou za tři minuty."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Pro maximální rychlost výroby dodávejte {WHITE}nejméně dvě {BLACK}požadované náklady alespoň jednou za tři minuty."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Pro maximální rychlost výroby dodávejte {WHITE}nejméně tři {BLACK}požadované náklady alespoň jednou za tři minuty."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Výroba je úměrná počtu obyvatel města. Každou minutu se vyrobí alespoň {WHITE}{SIGNED_WORD} jednotek{BLACK} a nejvýše {WHITE}{SIGNED_WORD} jednotek{BLACK} nákladů."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Aktuální produkce: {YELLOW}Normální{}{}{BLACK}Pro {WHITE}Zvýšenou {BLACK}produkci je třeba doručit {SIGNED_WORD} krabic spotřebního materiálu během tří měsíců.{}Pro {WHITE}Gung-ho {BLACK}produkci je třeba doručit {SIGNED_WORD} krabic."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Aktuální produkce: {YELLOW}Zvýšená{}{}{BLACK}Pro udržení této úrovně je třeba doručit {SIGNED_WORD} krabic zásob během tří měsíců.{}Pro {WHITE}Gung-ho {BLACK}produkci je třeba doručit{SIGNED_WORD} krabic."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Aktuální produkce: {YELLOW}Gung-ho{}{}{BLACK}Pro udržení této úrovně je třeba doručit {SKIP}{SIGNED_WORD} krabic zásob během tří měsíců."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Aktuální produkce: {YELLOW}Normální{}{}{BLACK}Pro {WHITE}Zvýšenou {BLACK}produkc je třeba doručit {SIGNED_WORD} jednotek nákladu během tří měsíců.{}Pro {WHITE}Gung-ho {BLACK}produkci je třeba doručit {SIGNED_WORD} jednotek."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Aktuální produkce: {YELLOW}Zvýšená{}{}{BLACK}Pro udržení této úrovně je třeba doručit {SIGNED_WORD} jednotek nákladu během tří měsíců.{}Pro {WHITE}Gung-ho {BLACK}produkci je třeba doručit {SIGNED_WORD} jednotek."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Aktuální produkce: {YELLOW}Gung-ho{}{}{BLACK}Pro udržení této úrovně je třeba doručit {SKIP}{SIGNED_WORD} jednotek nákladu během tří měsíců."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS vyžaduje OpenTTD 1.7.0 (nebo pro uživatele vývojových verzí trunk r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Nezlučitelný soubor: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Nezlučitelný parametr: {ORANGE}Parametr CanSet 2 musí mít hodnotu 0, aby CIRS fungoval."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Nezlučitelný parametr: {ORANGE}Parametr NA City Set 2 musí mít hodnotu 0, aby CIRS fungoval."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Nezlučitelná verze: {ORANGE}Total Town Replacement Set musí být verze release 3.11 nebo novější."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "musí být umístěn pod sněžnou čarou"
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "nelze umístit na příkrých svazích."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Umístění: {YELLOW}Nelze založit na sněhu nebo v pouštích."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Umístění: {YELLOW}Nelze založit na sněhu nebo v pouštích."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Umístění: {YELLOW}Nelze založit na sněhu nebo v pouštích."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Umístění: {YELLOW}Nelze založit na sněhu nebo v pouštích."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Poloha: {YELLOW}Nelze založit v poušti"
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Umístění: {YELLOW}Nelze založit na sněhu."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Umístění: {YELLOW}Lze založit pouze na sněhu."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Umístění: {YELLOW}Nelze založit na sněhu nebo v pouštích"
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Umístění: {YELLOW}Nelze založit na sněhu nebo v pouštích."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Umístění: {YELLOW}Nelze založit na sněhu nebo v pouštích."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Kyselina"
+cargo_unit = "{VOLUME} kyseliny"
+cid = "{TINYFONT}KYS"
+
+[STR_CARGO_AGGREGATES]
+name = "Agregáty"
+cargo_unit = "{WEIGHT} kameniva"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Hliník"
+cargo_unit = "{WEIGHT} hliníku"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Hliníkový oxid"
+cargo_unit = "{WEIGHT} hlinitanu"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Amoniak a dusičnanové produkty"
+cargo_unit = "{VOLUME} amoniaku a dusičnanových produktů"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhydritová hornina"
+cargo_unit = "{WEIGHT} anhydritové horniny"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Jablka"
+cargo_unit = "{WEIGHT} jablek"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Fazole"
+cargo_unit = "{WEIGHT} fazolí"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumen"
+cargo_unit = "{VOLUME} bitumenu"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Stavební materiály"
+cargo_unit = "{WEIGHT} stavebních materiálů"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Uhlíkové černidlo"
+cargo_unit = "{WEIGHT} černého uhlí"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Maniok"
+cargo_unit = "{WEIGHT} manioku"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_CAST_IRON]
+name = "Litina"
+cargo_unit = "{WEIGHT} litiny"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Cement"
+cargo_unit = "{WEIGHT} cementu"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Chemické meziprodukty"
+cargo_unit = "{VOLUME} chemických meziproduktů"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Chemikálie"
+cargo_unit = "{VOLUME} chemikálií"
+cid = "{TINYFONT}CL"
+
+[STR_CARGO_CHLORINE]
+name = "Chlór"
+cargo_unit = "{VOLUME} chlóru"
+cid = "{TINYFONT}CL"
+
+[STR_CARGO_CLAY]
+name = "Jíl"
+cargo_unit = "{WEIGHT} jílu"
+cid = "{TINYFONT}CL"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Čisticí prostředky"
+cargo_unit = "{WEIGHT} čisticích prostředků"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Káva"
+cargo_unit = "{WEIGHT} pytel kávy"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_COAL_TAR]
+name = "Uhelný dehet"
+cargo_unit = "{VOLUME} uhelného dehtu"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Koks"
+cargo_unit = "{WEIGHT} koksu"
+cid = "{TINYFONT}KO"
+
+[STR_CARGO_COMPONENTS]
+name = "Přesné součásti"
+cargo_unit = "{WEIGHT} přesných součástek"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betónové výrobky"
+cargo_unit = "{WEIGHT} betonových výrobků"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Měď"
+cargo_unit = "{WEIGHT} mědi"
+cid = "{TINYFONT}MD"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Potravinářský olej"
+cargo_unit = "{VOLUME} potravinářského oleje"
+cid = "{TINYFONT}PO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Elektrotechnické součásti"
+cargo_unit = "{WEIGHT} elektrických součástí"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Strojírenské potřeby"
+cargo_unit = "{SIGNED_WORD} bed{P 0 na ny en} strojírenských potřeb"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Výbušniny"
+cargo_unit = "{WEIGHT} výbušnin"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Železná slitina"
+cargo_unit = "{WEIGHT} ferroslitin"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Ryby a mořské plody"
+cargo_unit = "{WEIGHT} ryb a mořských plodů"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Zemědělské potřeby"
+cargo_unit = "{SIGNED_WORD} bed{P 0 na ny en} zemědělských potřeb"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "Hnojivo"
+cargo_unit = "{WEIGHT} hnojiva"
+cid = "{TINYFONT}HN"
+
+[STR_CARGO_FLOUR]
+name = "Mouka a škrob"
+cargo_unit = "{WEIGHT} mouky a škrobu"
+cid = "{TINYFONT}HN"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Přísady do potravin"
+cargo_unit = "{WEIGHT} potravinářských přídatných látek"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Jídlo a nápoje"
+cargo_unit = "{WEIGHT} potravin a nápojů"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Kování a odlitky"
+cargo_unit = "{WEIGHT} kovaných a litých dílů"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Mražené potraviny"
+cargo_unit = "{WEIGHT} mražených potravin"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Ovoce a Zelenina"
+cargo_unit = "{WEIGHT} ovoce a zeleniny"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Skleněné výrobky"
+cargo_unit = "{WEIGHT} skleněných výrobků"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Hardware a povrchové úpravy"
+cargo_unit = "{WEIGHT} kovových dílů a povrchových úprav"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Průmyslové uhlíky"
+cargo_unit = "{WEIGHT} průmyslových uhlíků"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Průmyslové plyny"
+cargo_unit = "{VOLUME} průmyslových plynů"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Kaolin"
+cargo_unit = "{WEIGHT} kaolinu"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Lehké uhlovodíky"
+cargo_unit = "{VOLUME} lehkých uhlovodíků"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Vápenec"
+cargo_unit = "{WEIGHT} vápence"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_LOGS]
+name = "Kmeny"
+cargo_unit = "{WEIGHT} dřevěných kmenů"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Uhličitan sodný"
+cargo_unit = "{VOLUME} louhu"
+cid = "{TINYFONT}LO"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} metanolu"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Mléko"
+cargo_unit = "{VOLUME} mléka"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "Mangan"
+cargo_unit = "{WEIGHT} manganu"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Maso"
+cargo_unit = "{WEIGHT} masa"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Baryty a fluorit"
+cargo_unit = "{WEIGHT} barytu a fluoritu"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Minerální plniva"
+cargo_unit = "{WEIGHT} minerálních plniv"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Syrový cukr a melasa"
+cargo_unit = "{WEIGHT} surového cukru a melasy"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Ledek"
+cargo_unit = "{WEIGHT} ledku"
+cid = "{TINYFONT}LE"
+
+[STR_CARGO_NITROGEN]
+name = "Ropa"
+cargo_unit = "{VOLUME} dusíku"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Ořechy"
+cargo_unit = "{WEIGHT} ořechů"
+cid = "{TINYFONT}OŘ"
+
+[STR_CARGO_OXYGEN]
+name = "Kyslík"
+cargo_unit = "{VOLUME} kyslíku"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Balené zboží"
+cargo_unit = "{WEIGHT} baleného zboží"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Barvy a nátěry"
+cargo_unit = "{VOLUME} barev a nátěrů"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Rašelina"
+cargo_unit = "{WEIGHT} rašeliny"
+cid = "{TINYFONT}RA"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Paliva"
+cargo_unit = "{VOLUME} paliv"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "Skladovací nádrže a potrubí"
+cargo_unit = "{WEIGHT} skladovacích nádrží a potrubí"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfát"
+cargo_unit = "{WEIGHT} fosfátu"
+cid = "{TINYFONT}FT"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Kyselina fosforečná"
+cargo_unit = "{VOLUME} kyseliny fosforečné"
+cid = "{TINYFONT}PO"
+
+[STR_CARGO_PIG_IRON]
+name = "Surové železo"
+cargo_unit = "{WEIGHT} surového železa"
+cid = "{TINYFONT}SŽ"
+
+[STR_CARGO_PLASTICS]
+name = "Plasty a pryskyřice"
+cargo_unit = "{WEIGHT} plastů a pryskyřic"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Závod a stroje"
+cargo_unit = "{WEIGHT} zařízení a strojů"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Potaš"
+cargo_unit = "{WEIGHT} potaše"
+cid = "{TINYFONT}PO"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Procesní chemikálie"
+cargo_unit = "{WEIGHT} procesních chemikálií"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Čerpadla a ventily"
+cargo_unit = "{WEIGHT} čerpadel a ventilů"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pyrit"
+cargo_unit = "{WEIGHT} pyritu"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Nehašené vápno"
+cargo_unit = "{WEIGHT} nehašeného vápna"
+cid = "{TINYFONT}NV"
+
+[STR_CARGO_REBAR]
+name = "Pružina"
+cargo_unit = "{WEIGHT} výztužné oceli"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Sůl"
+cargo_unit = "{WEIGHT} soli"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SAND]
+name = "Písek"
+cargo_unit = "{WEIGHT} písku"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Kovový šrot"
+cargo_unit = "{WEIGHT} kovového šrotu"
+cid = "{TINYFONT}SM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Těsnění, hadice a řeměny"
+cargo_unit = "{WEIGHT} těsnění, hadic a řemínků"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Struska"
+cargo_unit = "{WEIGHT} strusky"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_SODA_ASH]
+name = "Soda"
+cargo_unit = "{WEIGHT} sody"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Ocel"
+cargo_unit = "{WEIGHT} oceli"
+cid = "{TINYFONT}OL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Polotovary a bloky"
+cargo_unit = "{WEIGHT} polotovarů a slitků"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Ocelové ingoty"
+cargo_unit = "{WEIGHT} ocelových slitků"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Obchodní bar"
+cargo_unit = "{WEIGHT} obchodní tyče"
+cid = "{TINYFONT}CŘ"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Ocelové potrubí"
+cargo_unit = "{WEIGHT} ocelových trubek"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Ocelové plechy"
+cargo_unit = "{WEIGHT} ocelových plechů"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Ocelové plechy a pásy"
+cargo_unit = "{WEIGHT} ocelových listů a pásků"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Ocelová deska"
+cargo_unit = "{WEIGHT} ocelových bloků"
+cid = "{TINYFONT}OL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Ocelová trubka"
+cargo_unit = "{WEIGHT} ocelových trubek"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Ocelová drátěnina"
+cargo_unit = "{WEIGHT} ocelové drátoviny"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Konstrukční ocel"
+cargo_unit = "{WEIGHT} konstrukční oceli"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Síra"
+cargo_unit = "{WEIGHT} síry"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Síra kyselá"
+cargo_unit = "{VOLUME} kyseliny sírové"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Dřevěné výrobky"
+cargo_unit = "{WEIGHT} dřevěných výrobků"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_TIN]
+name = "Cín"
+cargo_unit = "{WEIGHT} cínu"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Cínovaný plech"
+cargo_unit = "{WEIGHT} plechu"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Ozdobení pneumatik"
+cargo_unit = "{WEIGHT} pneumatické šňůry"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Pneumatiky"
+cargo_unit = "{WEIGHT} pneumatik"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Zelenina"
+cargo_unit = "{WEIGHT} zeleniny"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Karoserie vozidel"
+cargo_unit = "{WEIGHT} karoserií vozidel"
+cid = "{TINYFONT}KV"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Motory a pohonné ústrojí"
+cargo_unit = "{WEIGHT} motorů a pohonné soustavy"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Díly vozidel"
+cargo_unit = "{WEIGHT} dílů vozidel"
+cid = "{TINYFONT}DV"
+
+[STR_CARGO_VEHICLES]
+name = "Vozidla"
+cargo_unit = "{WEIGHT} vozidel"
+cid = "{TINYFONT}VO"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Spotřební materiál pro svařování"
+cargo_unit = "{WEIGHT} svářecích spotřebních materiálů"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Dřevní celulóza"
+cargo_unit = "{WEIGHT} dřevní buničiny"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Vlna"
+cargo_unit = "{SIGNED_WORD} balík{P 0 \"\" y ů} vlny"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "Zinek"
+cargo_unit = "{WEIGHT} zinku"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Zinková ruda"
+cargo_unit = "{WEIGHT} zinkové rudy"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} zboží"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Hliníková huť"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Amoniakový komplex"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Důl anhydritu"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Zpracovna anhydritu"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Továrna na spotřebiče"
+
+[STR_IND_ARABLE_FARM]
+base = "Rostlinná farma"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Montážní závod"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Profilovací a tyčová pila"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Kyslíková pec"
+
+[STR_IND_BLAST_FURNACE]
+base = "Vysoká pec"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Závod na výrobu dřevotřískových desek"
+
+[STR_IND_BODY_PLANT]
+base = "Karoserie vozidel"
+
+[STR_IND_BREWERY]
+base = "Pivovar"
+
+[STR_IND_CIDER_MILL]
+base = "Pálenka"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Stavební dvůr" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Závod na výrobu černého uhlíku"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Závod na výrobu celulózových fólií"
+
+[STR_IND_CEMENT_PLANT]
+base = "Cementárna"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Chemický komplex"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Explozivní továrna"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Chloralkalický závod"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Jílový důl"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Kávová plantáž"
+
+[STR_IND_COKE_OVEN]
+base = "Koksová pec"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Betónárna"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Šaržová chemická továrna"
+
+[STR_IND_COPPER_SMELTER]
+base = "Slévárna mědi"
+
+[STR_IND_CRYO_PLANT]
+base = "Kryogenní zařízení"
+
+[STR_IND_DAIRY]
+base = "Mlékárna"
+
+[STR_IND_DAIRY_FARM]
+base = "Mléčná farma"
+
+[STR_IND_DREDGING_SITE]
+base = "Těžba podvodních sedimentů"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Závod na výrobu elastomerových výrobků"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Oblouková pec"
+
+[STR_IND_ENGINE_PLANT]
+base = "Motorový závod"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Strojírenský závod"
+
+[STR_IND_FARM]
+base = "Farma"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Závod na výrobu procesních chemikálií"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Kvasírna"
+
+[STR_IND_FISH_FARM]
+base = "Rybí farma"
+
+[STR_IND_FISHING_GROUND]
+base = "Loviště ryb"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Rybí trh"
+
+[STR_IND_GRAIN_MILL]
+base = "Mlýn na obilí"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Potravinářský závod"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Ocelářská kovárna a litina"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Závod na zpracování mražených potravin"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Truhlářství"
+
+[STR_IND_GENERAL_STORE]
+base = "Obchod se smíšeným zbožím"
+
+[STR_IND_GLASS_WORKS]
+base = "Sklárna"
+
+[STR_IND_HERDING_COOP]
+base = "Drůbežárna"
+
+[STR_IND_HOTEL]
+base = "Hotel"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Továrna na mražené dezerty"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Ocelárna"
+
+[STR_IND_SCRAP_YARD]
+base = "Smetiště"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Vápenka"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Vápencový důl"
+
+[STR_IND_MANGANESE_MINE]
+base = "Manganový důl"
+
+[STR_IND_METAL_WORKS]
+base = "Kovárna"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Závod na minerální plniva"
+
+[STR_IND_NITRATE_MINE]
+base = "Dusičnanový důl"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Závod na výrobu průmyslových chemikálií"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Naftový a chemický terminál"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Sad a vepřín"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Továrna na láhve a plechovky"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Továrna na papírové výrobky"
+
+[STR_IND_PEATLANDS]
+base = "Rašeliniště"
+
+[STR_IND_PETROLPUMP]
+base = "Benzínová stanice"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Fosfátový důl"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Závod na hnojiva a kyseliny"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Komerční pekárna"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Obchod s potrubím"
+
+[STR_IND_PLATE_MILL]
+base = "Valcárna plechu"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Továrna na plastové výlisky"
+
+[STR_IND_PORT]
+base = "Přístav"
+
+[STR_IND_POTASH_MINE]
+base = "Potašový důl"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Továrna na energetické systémy"
+
+[STR_IND_POWER_PLANT]
+base = "Elektrárna"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Závod na výrobu přesných dílů"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Balírna výrobních produktů"
+
+[STR_IND_PYRITE_MINE]
+base = "Pyritový důl"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Pyritová huť"
+
+[STR_IND_QUARRY]
+base = "Kamenolom"
+
+[STR_IND_RANCH]
+base = "Ranč"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Závod na výrobu silničního kamene"
+
+[STR_IND_SALT_WORKS]
+base = "Solný důl"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Drtič strusky"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Důl na sodu"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Továrna na hotová jídla"
+
+[STR_IND_STOCKYARD]
+base = "Masokombinát"
+
+[STR_IND_STRIP_MILL]
+base = "Valcárna pásů"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Cukrovar"
+
+[STR_IND_SUPPLY_YARD]
+base = "Sklad zásob"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Řezárna"
+
+[STR_IND_TIN_MINE]
+base = "Cínový důl"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Cínárna"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Továrna na pásové vozidla"
+
+[STR_IND_TRADING_POST]
+base = "Obchodní místo"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Továrna na trubky a roury"
+
+[STR_IND_TYRE_PLANT]
+base = "Továrna na pneumatiky"
+
+[STR_IND_VINEYARD]
+base = "Vinice"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Distributor vozidel"
+
+[STR_IND_WHARF]
+base = "Přístaviště"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Válcovna drátového plechu"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Rudník zinku"
+
+[STR_IND_ZINC_SMELTER]
+base = "Tavírna zinku"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Koňský trh"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Elektrospotřebiče"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Automobilka"
+
+[STR_STATION_BAKERY]
+base = "Pekárna"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Nosníky"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, gril a pokoje"
+
+[STR_STATION_BARNS]
+base = "Stodoly"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Barel a sud"
+
+[STR_STATION_BASE]
+base = "Základna"
+
+[STR_STATION_BONEYARD]
+base = "Pohřebiště"
+
+[STR_STATION_BANK_TOP]
+base = "Koksovna"
+
+[STR_STATION_BODY_PLANT]
+base = "Lisované výrobky"
+
+[STR_STATION_BRINE_WORKS]
+base = "Závod na výrobu solanky"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Stavebniny"
+
+[STR_STATION_COLLIERY]
+base = "Jáma"
+
+[STR_STATION_COMPONENTS]
+base = "Komponenty"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Předem betonované díly"
+
+[STR_STATION_COPPER_LODE]
+base = "Měděná žíla"
+
+[STR_STATION_CREOSOTING]
+base = "Moření"
+
+[STR_STATION_CRYO_PLANT]
+base = "Kryogenní zařízení"
+
+[STR_STATION_DAIRY_LANE]
+base = "Mlékárenská"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Těsnění a hadice"
+
+[STR_STATION_ESTATE]
+base = "Plantáž"
+
+[STR_STATION_FACTORY]
+base = "Továrna"
+
+[STR_STATION_FARM_1]
+base = "Panství"
+
+[STR_STATION_FARM_2]
+base = "Luka"
+
+[STR_STATION_FARM_3]
+base = "Ranč"
+
+[STR_STATION_FISHMARKET]
+base = "Rybí trh"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Potravinářská Společnost"
+
+[STR_STATION_FOREST]
+base = "Skladiště klád"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Oceláři"
+
+[STR_STATION_FREEZERS]
+base = "Mrazáky"
+
+[STR_STATION_FURNACE]
+base = "Pece"
+
+[STR_STATION_METAL_WORKS]
+base = "Kovové výrobky"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Dílny"
+
+[STR_STATION_HERDING_COOP]
+base = "Chata"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Průmyslová zóna"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Břeh"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Přístavní můstek"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Nábřeží"
+
+[STR_STATION_IRONSTONE]
+base = "Železná ruda"
+
+[STR_STATION_KILNS]
+base = "Pece"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Úložiště kimberlitu"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Vápencové doly"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Manganové doly"
+
+[STR_STATION_MILL]
+base = "Mlýn"
+
+[STR_STATION_MILLS]
+base = "Mlýny"
+
+[STR_STATION_MINES]
+base = "Převážně přírodní latex."
+
+[STR_STATION_MOULDINGS]
+base = "Litiny"
+
+[STR_STATION_OIL_RIG]
+base = "Ropná pole"
+
+[STR_STATION_ORCHARDS]
+base = "Sady"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Proudová linka"
+
+[STR_STATION_PIT]
+base = "Důl"
+
+[STR_STATION_PLANT]
+base = "Závod"
+
+[STR_STATION_PLANTATION]
+base = "Plantáž"
+
+[STR_STATION_PLATE_MILL]
+base = "Dvoř s deskami"
+
+[STR_STATION_POTASH_MINE]
+base = "Hlavně krávy, prasata a ovce pro výrobu masa. Jíst se mohou i jiná zvířata."
+
+[STR_STATION_POWERHUNGRY]
+base = "Elektrárna"
+
+[STR_STATION_POWERTRAIN]
+base = "Pohon"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Závod a stroje"
+
+[STR_STATION_PUMPS]
+base = "Benzínka"
+
+[STR_STATION_PYRITES]
+base = "Úložiště Pyritu"
+
+[STR_STATION_REFINERY]
+base = "Rafinerie"
+
+[STR_STATION_ROD_MILL]
+base = "Válcovna tyčí"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Gumárna"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Ledkový důl"
+
+[STR_STATION_SEAFOOD]
+base = "Mořské plody"
+
+[STR_STATION_SHARP_STREET]
+base = "Ostrá ulice"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Hejna"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Huť"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Kamna na saze"
+
+[STR_STATION_SOUPS]
+base = "Polévky"
+
+[STR_STATION_STRIP_MILL]
+base = "Cívková linka"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Cukrová Společnost"
+
+[STR_STATION_TANK_FARM]
+base = "Tankoviště"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Nálevna"
+
+[STR_STATION_TOWN_3]
+base = "Prodejny"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Továrna na pásové stroje"
+
+[STR_STATION_TRONA_BEDS]
+base = "Lehátka"
+
+[STR_STATION_TUBE_MILL]
+base = "Továrna na trubky"
+
+[STR_STATION_WATER]
+base = "Písčina"
+
+[STR_STATION_WELLS]
+base = "Prameny"
+
+[STR_STATION_WHEAL]
+base = "Dol"
+
+[STR_STATION_WINERY]
+base = "Vinárna"
+
+[STR_STATION_WORKS]
+base = "Dílny"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Parkoviště nákladních vozidel"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "POZEMEK"
+
+[STR_BADGE_SEA]
+base = "Gumová plantáž"

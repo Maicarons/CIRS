@@ -1,0 +1,131 @@
+[STR_WELCOME]
+base = "Bonjour {COMPANY} !{}{}Vous jouez à une partie avec le GS de test CIRS{}{}Version git de ce GS : {NUM}"
+
+[STR_EMPTY]
+base = ""
+
+[STR_CABBAGE]
+base = "{BLUE}Chou"
+
+[STR_CABBAGE_TOWN_HAPPY]
+base = "heureux"
+
+[STR_CABBAGE_TOWN_UNHAPPY]
+base = "malheureux"
+
+[STR_CABBAGE_TOWN]
+base = "La ville est {STRING}{}{}Pour en savoir plus sur cette ville (y compris les exigences de croissance et de bonheur), ouvrez le Livre d’histoire, et trouvez la page pour {TOWN}"
+
+[STR_GRIND_SUB_HEADING]
+base = "{YELLOW}{RAW_STRING}"
+
+[STR_GRIND_TEST]
+base = "{BLACK}{RAW_STRING} : {WHITE}{RAW_STRING}"
+
+[STR_GRIND_TEST_INDUSTRY_NAME]
+base = "{TINY_FONT}{YELLOW}{DOWN_ARROW} {INDUSTRY} {NORMAL_FONT}"
+
+[STR_GRIND_DELAYED_UPDATE]
+base = "{BLACK}Notez que cela ne s’actualisera pas actuellement à moins que Grind ne soit désactivé puis réactivé dans les paramètres GS"
+
+[STR_TOWN_STORY_PAGE_TEST]
+base = "{BLACK}Mot aléatoire (test) : {WHITE}{RAW_STRING}"
+
+[STR_TOWN_STORY_PAGE_GROWTH_RATE]
+base = "{BLACK}Taux de croissance actuel : {WHITE}{RAW_STRING}"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGOS_GROWTH_TITLE]
+base = "{YELLOW}Marchandises requises pour la croissance"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGOS_HAPPINESS_TITLE]
+base = "{YELLOW}Marchandises requises pour le bonheur"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGO_STATS]
+base = "{BLACK}Fourni : {WHITE}{CARGO_LONG}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_TITLE]
+base = "{BLACK}--- Industries urbaines --- {}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_ACCEPTED_TITLE]
+base = "{BLACK}Marchandise requise fournie le mois dernier"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_PRODUCED_TITLE]
+base = "{BLACK}Marchandise produite le mois dernier"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_INDUSTRY_NAME]
+base = "{YELLOW}{INDUSTRY}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_CARGO_STATS]
+base = "{WHITE}{CARGO_LONG}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_TITLE]
+base = "{BLACK}Historique des augmentations de production (permanentes) (10 derniers événements)"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_NEVER_INCREASED]
+base = "{WHITE}- cette industrie n’a jamais augmenté sa production de manière permanente"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_SUBSTR]
+base = "{WHITE}{DATE_LONG}{}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_1]
+base = "{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_2]
+base = "{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_3]
+base = "{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_4]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_5]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_6]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_7]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_8]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_9]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_10]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_CURRENT_PROD_LEVEL]
+base = "{BLACK}Niveau de production actuel : {WHITE}{NUM}"
+
+[STR_MANUFACTURERS_STORY_PAGE_TEST]
+base = "{BLACK}Mot aléatoire (test) : {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_NAME]
+base = "{BLACK}Nom : {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_CATEGORY]
+base = "{BLACK}Type : {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_HQ_TOWN]
+base = "{BLACK}Ville du QG : {WHITE}{TOWN}"
+
+[STR_MANUFACTURERS_STORY_PAGE_VALID_TOWNS]
+base = "{BLACK}Villes valides : {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_INDUSTRIES_OWNED]
+base = "{BLACK}Industries possédées : {WHITE}{RAW_STRING}"
+
+[STR_CABBAGE_CLICKABLE_TEST]
+base = "{BLACK}Ceci est un texte GS. {WHITE}Cliquez-moi pour la page d’histoire de la ville. {BLACK}Voici un peu plus de texte."
+
+[STR_INDUSTRY_OWNER]
+base = "Propriétaire : {RAW_STRING}"
+
+[STR_INDUSTRY_TOWN_BLACK_HOLE_EXTRA_TEXT_GROWTH]
+base = "{BLACK}Les livraisons à cette industrie contribueront à la croissance et/ou au bonheur de la ville"
+
+[STR_NEWS_INDUSTRY_INCREASES_PRODUCTION]
+base = "{INDUSTRY} augmente la production !"

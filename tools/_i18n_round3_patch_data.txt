@@ -1,0 +1,75 @@
+=== src/docs/extra_strings_<L>.toml ===
+  croatian | CARGO_INFO_PLANT_AND_MACHINERY.base = Oprema s pogonom i mehanički sustavi koji se koriste u zgradama, industriji i na farmama. Prevoze se kao cjelovite jedinice ili kao veliki podskloповi.
+  serbian | CARGO_INFO_PLANT_AND_MACHINERY.base = Машинска опрема и механички системи који се користе у зградама, индустрији и пољопривреди. Превозе се као комплетне јединице или као главни потскупови.
+  slovak | CARGO_INFO_PLANT_AND_MACHINERY.base = Motorové zariadenia a mechanické systémy používané v budovách, priemysle a na farmách. Prepravujú sa ako kompletné jednotky alebo ako hlavné podskupiny.
+  czech | CARGO_INFO_PLANT_AND_MACHINERY.base = Motorizované zařízení a mechanické systémy používané v budovách, průmyslu a na farmách. Přepravované jako kompletní jednotky nebo jako hlavní dílčí sestavy.
+  polish | CARGO_INFO_PLANT_AND_MACHINERY.base = Sprzęt napędzany i systemy mechaniczne używane w budynkach, przemyśle i na farmach. Transportowane jako kompletne jednostki lub jako główne podzespoły.
+=== src/grf/lang/<L>.toml ===
+  danish | STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.name = Ammoniak- og salpetersyreprодукter
+  norwegian_bokmal | STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.name = Ammoniak- og salpetersyreprодукter
+  swedish | STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.name = Ammoniak- och salpetersyraprodukter
+  german | STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.name = Ammoniak- und Nitratprodukte
+  dutch | STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.name = Ammoniak- en salpeterproducten
+=== src/docs/extra_strings_<L>.toml ===
+  traditional_chinese | CARGO_INFO_WOOD_PULP.base = 經加工の木纖維，主要用於紙張生產，以捆包或散装紙漿形式運輸。
+  simplified_chinese | CARGO_INFO_WOOD_PULP.base = 加工后的木纤维，主要用于造纸，以捆包或散装纸浆形式运输。
+  japanese | CARGO_INFO_WOOD_PULP.base = 主に製紙に使用される加工木材繊維。ベール状またはバルクパルプとして輸送される。
+=== traditional_chinese docs lang native names ===
+  DOC_TRANS_LANG_AFRIKAANS = Afrikaans
+  DOC_TRANS_LANG_AR = Arabic
+  DOC_TRANS_LANG_ARABIC = العربية
+  DOC_TRANS_LANG_BELARUSIAN = Беларуская
+  DOC_TRANS_LANG_CATALAN = Català
+  DOC_TRANS_LANG_CROATIAN = Hrvatski
+  DOC_TRANS_LANG_CZECH = Čeština
+  DOC_TRANS_LANG_DANISH = Dansk
+  DOC_TRANS_LANG_DE = German
+  DOC_TRANS_LANG_DUTCH = Nederlands
+  DOC_TRANS_LANG_EN = English
+  DOC_TRANS_LANG_ENGLISH = English
+  DOC_TRANS_LANG_ENGLISH_AU = English (AU)
+  DOC_TRANS_LANG_ENGLISH_US = English (US)
+  DOC_TRANS_LANG_ES = Spanish
+  DOC_TRANS_LANG_ESPERANTO = Esperanto
+  DOC_TRANS_LANG_ESTONIAN = Eesti
+  DOC_TRANS_LANG_FINNISH = Suomi
+  DOC_TRANS_LANG_FR = French
+  DOC_TRANS_LANG_FRENCH = Français
+  DOC_TRANS_LANG_GAELIC = Gàidhlig
+  DOC_TRANS_LANG_GALICIAN = Galego
+  DOC_TRANS_LANG_GERMAN = Deutsch
+  DOC_TRANS_LANG_HUNGARIAN = Magyar
+  DOC_TRANS_LANG_INDONESIAN = Indonesia
+  DOC_TRANS_LANG_ITALIAN = Italiano
+  DOC_TRANS_LANG_JAPANESE = 日本語
+  DOC_TRANS_LANG_KO = Korean
+  DOC_TRANS_LANG_KOREAN = 한국어
+  DOC_TRANS_LANG_LATIN = Latina
+  DOC_TRANS_LANG_LUXEMBOURGISH = Lëtzebuergesch
+  DOC_TRANS_LANG_NORWEGIAN_BOKMAL = Norsk (Bokmål)
+  DOC_TRANS_LANG_POLISH = Polski
+  DOC_TRANS_LANG_PORTUGUESE = Português
+  DOC_TRANS_LANG_PORTUGUESE_BR = Português (BR)
+  DOC_TRANS_LANG_PT = Portuguese
+  DOC_TRANS_LANG_ROMANIAN = Română
+  DOC_TRANS_LANG_RUSSIAN = Русский
+  DOC_TRANS_LANG_SERBIAN = Српски
+  DOC_TRANS_LANG_SIMPLIFIED_CHINESE = 简体中文
+  DOC_TRANS_LANG_SLOVAK = Slovenčina
+  DOC_TRANS_LANG_SPANISH = Español
+  DOC_TRANS_LANG_SPANISH_MX = Español (MX)
+  DOC_TRANS_LANG_SWEDISH = Svenska
+  DOC_TRANS_LANG_TAMIL = தமிழ்
+  DOC_TRANS_LANG_TRADITIONAL_CHINESE = 繁體中文
+  DOC_TRANS_LANG_TURKISH = Türkçe
+  DOC_TRANS_LANG_WELSH = Cymraeg
+  DOC_TRANS_LANG_ZH = 简体中文（Chinese, Simplified）
+=== Indonesian station names vs siblings ===
+  indonesian {"STR_STATION_FACTORY.base": "Pabrik", "STR_STATION_HEAVY_INDUSTRY_2.base": "Pabrik", "STR_STATION_MILL.base": "Pabrik", "STR_STATION_PLANT.base": "Pabrik", "STR_STATION_WORKS.base": "Pabrik"}
+  dutch {"STR_STATION_FACTORY.base": "Fabriek", "STR_STATION_HEAVY_INDUSTRY_2.base": "Werken", "STR_STATION_MILL.base": "Molenweg", "STR_STATION_PLANT.base": "Plant", "STR_STATION_WORKS.base": "Werken"}
+  german {"STR_STATION_FACTORY.base": "Fabrik", "STR_STATION_HEAVY_INDUSTRY_2.base": "Werke", "STR_STATION_MILL.base": "Mühle", "STR_STATION_PLANT.base": "Pflanze", "STR_STATION_WORKS.base": "Werke"}
+  japanese {"STR_STATION_FACTORY.base": "工場", "STR_STATION_HEAVY_INDUSTRY_2.base": "工場", "STR_STATION_MILL.base": "製粉所", "STR_STATION_PLANT.base": "プラント", "STR_STATION_WORKS.base": "工場"}
+  korean {"STR_STATION_FACTORY.base": "공장", "STR_STATION_HEAVY_INDUSTRY_2.base": "공장", "STR_STATION_MILL.base": "방앗간", "STR_STATION_PLANT.base": "설비", "STR_STATION_WORKS.base": "공장"}
+  simplified_chinese {"STR_STATION_FACTORY.base": "工厂", "STR_STATION_HEAVY_INDUSTRY_2.base": "工厂", "STR_STATION_MILL.base": "坊", "STR_STATION_PLANT.base": "工厂", "STR_STATION_WORKS.base": "工厂"}
+  spanish {"STR_STATION_FACTORY.base": "Fábrica", "STR_STATION_HEAVY_INDUSTRY_2.base": "Obras", "STR_STATION_MILL.base": "Molino", "STR_STATION_PLANT.base": "Planta", "STR_STATION_WORKS.base": "Obras"}
+  french {"STR_STATION_FACTORY.base": "Usine", "STR_STATION_HEAVY_INDUSTRY_2.base": "Atelier", "STR_STATION_MILL.base": "Moulin", "STR_STATION_PLANT.base": "Usine", "STR_STATION_WORKS.base": "Atelier"}

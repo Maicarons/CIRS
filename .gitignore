@@ -15,3 +15,7 @@ build_logs/
 
 # The local makefile should be ignored:
 Makefile.local
+
+# Local PyManager / Python installer cache and VitePress dev-server log are machine artifacts, not project sources:
+/Python/
+/docs-site/dev.log

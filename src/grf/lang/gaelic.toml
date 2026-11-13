@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x13"
+plural = "13"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "Seata Cuir-rèiteachaidh Gnìomhachas Coimhearsnachd CIRS"
+
+[STR_GRF_DESC]
+base = "{ORANGE}Seata Cur-a-steach Gnìomhachais Coimhearsnachd CIRS{}{BLACK}Forca de FIRS a tha air a chumail suas leis a’ choimhearsnachd, air a chruthachadh an toiseach le andythenorth, FooBar, planetmaker, Terkhen agus Yexo, le cuideachadh bho mhòran eile. {SILVER}Faic an làrach-lìn airson barrachd fiosrachaidh, a’ gabhail a-steach mar a chleachdas tu CIRS. {BLACK}Cead: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "An t-astar as motha bho chòsta gu raointean iasgaich, turraingean ola agus làraichean drèididh, ann an tilsean."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Tha cothlamadh eadar-dhealaichte de luchd-giùlain agus gnìomhachasan aig gach eaconamaidh.{}{}Do chluicheadairean a tha ag iarraidh cluich sìmplidh, tha nas lugha de ghnìomhachasan agus luchd-giùlain ann an eaconamaidhean {SILVER}Bunasach {BLACK}CIRS na tha ann an eaconamaidhean CIRS eile.{}{}Tha an làrach-lìn CIRS a’ toirt seachad mion-fhiosrachadh mu gach eaconamaidh."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "An t-astar còsta as motha airson gnìomhachasan mara ann an tilsean"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Eaconamaidh"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Gun chuingeachadh"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Bogsaichean solarachaidh a dh’fheumar airson prìomh chinneasachadh Leasaichte (16 mar bhun-roghainn)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Bogsaichean solarachaidh a dh’fheumar airson prìomh chinneasachadh Gung-ho (80 mar bhun-roghainn)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Nì fearannan-tuathanais, mèinnean agus gnìomhachasan coltach ris barrachd cinneasachaidh nuair a thèid bogsaichean solar a lìbhrigeadh, an toiseach gu {SILVER}Enhanced{BLACK}, agus an uair sin gu {SILVER}Gung-ho{BLACK}, ma thèid gu leòr bogsaichean a lìbhrigeadh.  {}{}Tha na luachan bhunasach math, ach ma dh’fheumas tu, faodaidh tu an atharrachadh an seo.  {}{}Bidh feumalachdan luchd-giùlain airson gnìomhachasan de sheòrsa puirt 8x na luachan a chaidh a shuidheachadh an seo."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Ìre àrdachaidh prìomh chinneasachaidh (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Ìre prìomh-chruthachaidh Gung-ho (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Gnìomhachas air feirmean, ann an mèinnean agus ann an gnìomhachasan coltach riutha nuair a thathar air coinneachadh ri feumalachdan solar (mar cheudad de ìre cinneasachd {SILVER}àbhaisteach {BLACK})."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Bun-ìre Mheadhanach"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Arctic Basic"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tropaigeach bunasach"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Ann an Dùthaich Theth"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Baile Stàilinn"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "Nithean cruthachadh-tìre CIRS"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "Tha seata de nithean cruthachadh-tìre ann an CIRS, as urrainn do chluicheadairean an cur an sàs gus cuid de dh’ionnstradaidhean a dhèanamh coltach gu bheil iad nas motha. Chan eil buaidh cluiche sam bith aig nithean cruthachadh-tìre. Faodar nithean cruthachadh-tìre a chur air no dheth."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(roghainneil)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(air a sholarachadh)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Solair {WHITE}co-dhiù aon {BLACK} luchd a dh’fheumar airson an toradh as àirde."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Airson an ìre cinneasachaidh as àirde, solar {WHITE}an dà luchd-luchdaidh {BLACK}a tha riatanach co-dhiù aon uair gach trì mionaidean."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Airson an ìre cinneasachaidh as àirde, solar {WHITE}gach {BLACK}càr a tha a dhìth co-dhiù aon uair gach trì mionaidean."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Airson an ìre cinneasachaidh as àirde, solair {WHITE}co-dhiù dà luchd-luchdaidh {BLACK}a tha riatanach co-dhiù uair gach trì mionaidean."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Airson an ìre cinneasachaidh as àirde, solar {WHITE}co-dhiù trì luchdan {BLACK}a tha riatanach co-dhiù aon uair gach trì mionaidean."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Tha an cinneasachadh co-rèireach ri sluagh a’ bhaile. Cha deach barrachd air {WHITE}{SIGNED_WORD} aonadan{BLACK} agus nas lugha na {WHITE}{SIGNED_WORD} aonadan{BLACK} de luchd a dhèanamh gach mionaid."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Gineadh làithreach: {YELLOW}Àbhaisteach {}{}{BLACK}Airson gineadh {WHITE}Leasaichte {BLACK}, lìbhrig {SIGNED_WORD} bogsaichean de sholar co-dhiù aon uair gach trì mionaidean.{}Airson gineadh {WHITE}Gung-ho {BLACK}, lìbhrig {SIGNED_WORD} bogsaichean."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}An toradh làithreach: {YELLOW}Leasaichte {}{}{BLACK}Gus an ìre seo a chumail suas, lìbhrig {SIGNED_WORD} bogsaichean de sholar co-dhiù aon uair gach trì mionaidean.{}Airson toradh {WHITE}Gung-ho {BLACK}, lìbhrig {SIGNED_WORD} bogsaichean."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}An toradh làithreach: {YELLOW}Gung-ho {}{}{BLACK}Gus an ìre seo a chumail suas, lìbhrig {SKIP}{SIGNED_WORD} bogsaichean de sholar co-dhiù aon uair gach trì mionaidean."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Gineadh làithreach: {YELLOW}Àbhaisteach {}{}{BLACK}Airson gineadh {WHITE}Leasaichte {BLACK}, lìbhrig {SIGNED_WORD} aonadan de luchd co-dhiù aon uair gach trì mionaidean.{}Airson gineadh {WHITE}Gung-ho {BLACK}, lìbhrig {SIGNED_WORD} aonadan."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}An toradh làithreach: {YELLOW}Leasaichte {}{}{BLACK}Gus an ìre seo a chumail suas, lìbhrig {SIGNED_WORD} aonadan de luchd co-dhiù aon uair gach trì mionaidean.{}Airson toradh {WHITE}Gung-ho {BLACK}, lìbhrig {SIGNED_WORD} aonadan."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}An toradh làithreach: {YELLOW}Gung-ho {}{}{BLACK}Gus an ìre seo a chumail suas, lìbhrig {SKIP}{SIGNED_WORD} aonadan de luchd-giùlain co-dhiù aon uair gach trì mionaidean."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: Feumaidh CIRS OpenTTD 1.7.0 (no, do dh’fheadhainn a bhios a’ cleachdadh togalaichean trunk, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Seata neo-chom-pàirteach: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Paramadair neo-chom-pàirteach: feumaidh paramadair 2 de {ORANGE}CanSet a bhith 0 gus obrachadh le CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Paramadair neo-chom-pàirteach: feumaidh paramadair 2 de {ORANGE}NA City Set a bhith 0 gus obrachadh le CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Dreach neo-cho-churail: feumaidh {ORANGE}Total Town Replacement Set a bhith na dreach 3.11 no nas ùire."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "feumar a chur nas ìsle na an loidhne-sneachda"
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "cha ghabh a chur air slèibhtean casa."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Ionad: {YELLOW}cha ghabh a stèidheachadh air sneachd no ann am fàsach."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Ionad: {YELLOW}cha ghabh a stèidheachadh air sneachd no ann am fàsach."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Ionad: {YELLOW}cha ghabh a stèidheachadh air sneachd no ann am fàsach."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Ionad: {YELLOW}cha ghabh a stèidheachadh air sneachd no ann am fàsach."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Àite: {YELLOW}Chan urrainnear maoin a chur air ann an fàsachan."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Àite: {YELLOW}Chan urrainnear maoin a chur air air sneachd."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Àite: {YELLOW}Chan urrainnear maoin a chur air ach air sneachd."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Ionad: {YELLOW}cha ghabh a stèidheachadh air sneachd no ann am fàsach."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Ionad: {YELLOW}cha ghabh a stèidheachadh air sneachd no ann am fàsach."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Ionad: {YELLOW}cha ghabh a stèidheachadh air sneachd no ann am fàsach."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Acid"
+cargo_unit = "{VOLUME} de dh’acid"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Co-chruinneachaidhean"
+cargo_unit = "{WEIGHT} de chruinneachaidhean"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Alumainiam"
+cargo_unit = "{WEIGHT} de alùmanum"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumina"
+cargo_unit = "{WEIGHT} de alùmina"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Ammonia agus Toraidhean Nitric"
+cargo_unit = "{VOLUME} de dh’amoniag agus toraidhean nìtrigeach"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Clach anhydrit"
+cargo_unit = "{WEIGHT} de chreag anhydrit"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Uilean"
+cargo_unit = "{WEIGHT} de uilean"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Pònairean"
+cargo_unit = "{WEIGHT} de bhinnean"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumen"
+cargo_unit = "{VOLUME} de bhìtimin"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Stuthan togail"
+cargo_unit = "{WEIGHT} de stuthan togail"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Carbon Dubh"
+cargo_unit = "{WEIGHT} de charbon dubh"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Cassava"
+cargo_unit = "{WEIGHT} de chassava"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Iarann Chasta"
+cargo_unit = "{WEIGHT} de iarann-casta"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Simeant"
+cargo_unit = "{WEIGHT} de simeant"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Eadar-mheadhanan Ceimigeach"
+cargo_unit = "{VOLUME} de eadar-mheadhanan ceimigeach"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Stuthan ceimigeach"
+cargo_unit = "{VOLUME} de cheimigean"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CHLORINE]
+name = "Clòr"
+cargo_unit = "{VOLUME} de chlorain"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CLAY]
+name = "Criadh"
+cargo_unit = "{WEIGHT} de chlaodh"
+cid = "{TINYFONT}CY"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Stuthan Glanaidh"
+cargo_unit = "{WEIGHT} de ghoireasan glanaidh"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Cofaidh"
+cargo_unit = "{WEIGHT} poc de chabhag"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "Tar-coile"
+cargo_unit = "{VOLUME} de thàir tarbhain"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Coile"
+cargo_unit = "{WEIGHT} de chòc"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Co-phàirtean Mionaideach"
+cargo_unit = "{WEIGHT} de cho-phàirtean mionaideach"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Toraidhean Coimhearsnachd"
+cargo_unit = "{WEIGHT} de thoraidhean coimhearsaich"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Coirbeag"
+cargo_unit = "{WEIGHT} de charbad"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Olaidh Ithteach"
+cargo_unit = "{VOLUME} de ola itheach"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Pàirtean Eileagtrach"
+cargo_unit = "{WEIGHT} de phàirtean dealain"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Goireasan innleadaireachd"
+cargo_unit = "{SIGNED_WORD} {P chreat chreat creataichean creat} de ghoireasan innleadaireachd"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Stuthan-spreadhaidh"
+cargo_unit = "{WEIGHT} de stuthan spreadhaidh"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Fèir-ailleanan"
+cargo_unit = "{WEIGHT} de fheir-ailleanan"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Iasg is Biadh-Mara"
+cargo_unit = "{WEIGHT} de iasg & biadh-mara"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Goireasan tuathanais"
+cargo_unit = "{SIGNED_WORD} crate de sholarachaidhean tuathanais"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "Cothromachadh"
+cargo_unit = "{WEIGHT} de chur-rùsg"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Flùr is Stàirce"
+cargo_unit = "{WEIGHT} de fhliùr & stàirce"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Stuthan-leasachaidh Biadh"
+cargo_unit = "{WEIGHT} de chur-ris-biadh"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Biadh is Deochan"
+cargo_unit = "{WEIGHT} de bhiadh & deochan"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Obraichean Forging & Casting"
+cargo_unit = "{WEIGHT} de rudan air an smùid agus air an cur ann an fuaran"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Biadh Reòta"
+cargo_unit = "{WEIGHT} de bhiadh reòta"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Measan"
+cargo_unit = "{WEIGHT} de mheasan"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Toraidhean Glainne"
+cargo_unit = "{WEIGHT} de thoraidhean glainne"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Cruaidh-earrannan & Crìochnachaidhean"
+cargo_unit = "{WEIGHT} de ghoireasan cruaidh agus crìochnachaidhean"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Carbonan Gnìomhachais"
+cargo_unit = "{WEIGHT} de charbonan gnìomhachais"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Gasaichean Gnìomhachais"
+cargo_unit = "{VOLUME} de ghasan gnìomhachais"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Cladhach Shìona"
+cargo_unit = "{WEIGHT} de chlaodh Shìneach"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Hydrocarbons Aotrom"
+cargo_unit = "{VOLUME} de hiodrocarbònan aotrom"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Clach-lìomaid"
+cargo_unit = "{WEIGHT} de chlach-lìomaid"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Logan"
+cargo_unit = "{WEIGHT} de logan"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Hiodrocsaid Sòidiam"
+cargo_unit = "{VOLUME} de hiodrocsaid sodium"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Meatainòl"
+cargo_unit = "{VOLUME} de mheatainòl"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Bainne"
+cargo_unit = "{VOLUME} de bhainne"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "Manganais"
+cargo_unit = "{WEIGHT} de manganais"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Feòil"
+cargo_unit = "{WEIGHT} de fheòil"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Bairitean agus Flùorspar"
+cargo_unit = "{WEIGHT} de bharium-sulfaid agus fluorspar"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Lìonadairean mèinnireil"
+cargo_unit = "{WEIGHT} de lìonadairean mèinnireil"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Siùcar Amh & Molasses"
+cargo_unit = "{WEIGHT} de shiùcar amh is molais"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitratanan"
+cargo_unit = "{WEIGHT} de nìtràthan"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Sa mhòr-chuid, còtaichean, mucan is caorach airson feòil a dhèanamh. Dh’fhaodadh beathaichean eile a bhith air an ithe cuideachd."
+cargo_unit = "{VOLUME} de naitridean"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Nòtan"
+cargo_unit = "{WEIGHT} de mhathain"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Ocsaidean"
+cargo_unit = "{VOLUME} de ogsaidean"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Pasgadh"
+cargo_unit = "{WEIGHT} de phacaidh"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Peant is Còmhdaichean"
+cargo_unit = "{VOLUME} de pheant is còmhdaichean"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Peat"
+cargo_unit = "{WEIGHT} de phìt"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Peatral"
+cargo_unit = "{VOLUME} de peatrail"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "Tancaichean Stòraidh & Pìobaireachd"
+cargo_unit = "{WEIGHT} de tancaichean stòraidh & pìoban"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfata"
+cargo_unit = "{WEIGHT} de fho-sfàit"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Sgaoth Fosfòirich"
+cargo_unit = "{VOLUME} de h-acid fosfòrach"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Iarann Chruaidh"
+cargo_unit = "{WEIGHT} de iarann brùideil"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plastaigean & Resins"
+cargo_unit = "{WEIGHT} de phlastaigean & roisinean"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Lusanachd & Innealan"
+cargo_unit = "{WEIGHT} de lusan & innealan"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Potash"
+cargo_unit = "{WEIGHT} de pho-tas"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Ceimigean Pròiseis"
+cargo_unit = "{WEIGHT} de cheimigean pròiseis"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pumpaidhean is Valvan"
+cargo_unit = "{WEIGHT} de phuimpean is bhalbhaichean"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Oir Pyrite"
+cargo_unit = "{WEIGHT} de mhèinnir phìorait"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Lìomhaigean Luath"
+cargo_unit = "{WEIGHT} de chalcam fuar"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Stàilinn-armachd"
+cargo_unit = "{WEIGHT} de ribe-armachd"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Salann"
+cargo_unit = "{WEIGHT} de shalann"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Gainmheach"
+cargo_unit = "{WEIGHT} de ghainmheach"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Fuighill meatailt"
+cargo_unit = "{WEIGHT} de mheatailt sgudail"
+cid = "{TINYFONT}FM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Sealan, Tubaichean & Beltichean"
+cargo_unit = "{WEIGHT} de shèilean, tiùban is bannan"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slag"
+cargo_unit = "{WEIGHT} de shlaig"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Lòmhlan Soda"
+cargo_unit = "{WEIGHT} de luaithre shòda"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Hiodrocsaid Sodium"
+cargo_unit = "{WEIGHT} de stàilinn"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Bileatan agus Blòmaichean"
+cargo_unit = "{WEIGHT} de bhilleanan agus blòmasan"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Brothan"
+cargo_unit = "{WEIGHT} de bhloighean stàilinn"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Bar Malairteach"
+cargo_unit = "{WEIGHT} de bharraichean malairteach"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Pìob Stàilinn"
+cargo_unit = "{WEIGHT} de phìoban stàilinn"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Plàta Stàilinn"
+cargo_unit = "{WEIGHT} de phlèitean stàilinn"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Duilleag is Stiall Stàilinn"
+cargo_unit = "{WEIGHT} de dhealbhachan is stiallan stàilinn"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Slab Stàilinn"
+cargo_unit = "{WEIGHT} de shlabhraidhean stàilinn"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Tuba Stàilinn"
+cargo_unit = "{WEIGHT} de thubaichean stàilinn"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Tàirnean Stàilinn"
+cargo_unit = "{WEIGHT} de bhàrr-uèir stàilinn"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Stàilinn Structarail"
+cargo_unit = "{WEIGHT} de stàilinn structarail"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Sulfair"
+cargo_unit = "{WEIGHT} de shulfair"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Acid Sulfarach"
+cargo_unit = "{VOLUME} de h-acid suilphùrach"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Toraidhean Fiodha"
+cargo_unit = "{WEIGHT} de thoraidhean fiodha"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_TIN]
+name = "Tinne"
+cargo_unit = "{WEIGHT} de thinn"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Plàta Tinne"
+cargo_unit = "{WEIGHT} de phlèite stàin"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Sreang Taidhrichean"
+cargo_unit = "{WEIGHT} de chòrdan taidhrichean"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Tàirneanaich"
+cargo_unit = "{WEIGHT} de thaidhrichean"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Ughan"
+cargo_unit = "{WEIGHT} de ghlasraich"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Corpachan Chàraichean"
+cargo_unit = "{WEIGHT} de chuirp charbadan"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Einnseanan & Loidhne-dràibhidh"
+cargo_unit = "{WEIGHT} de einnseanan & loidhnichean-dràibhidh"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Pàirtean Chàraichean"
+cargo_unit = "{WEIGHT} de phàirtean charbadan"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Càraichean"
+cargo_unit = "{WEIGHT} de charbadan"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Stuthan caitheamh airson tàthaidh"
+cargo_unit = "{WEIGHT} de stuthan caitheamh airson tàthaidh"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Pùlp fiodha"
+cargo_unit = "{WEIGHT} de phùlp fiodha"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Clòimh"
+cargo_unit = "{SIGNED_WORD} bale de fhèil"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "Zinc"
+cargo_unit = "{WEIGHT} de zinc"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Clach-mhèinnir sinc"
+cargo_unit = "{WEIGHT} de mhine zinc"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} de bathar"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Uachdar Alamainiam"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Co-fhillte Ammonia"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Mianach Anhydrite"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Uachdar Pròiseis Anhydrite"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Factaraidh innealan-dachaigh"
+
+[STR_IND_ARABLE_FARM]
+base = "Tuineachas-àitich"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Uachdran-cruinneachaidh"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Milladh Earrannan is Bàraichean"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Furnas Ocsaidean Bunaiteach"
+
+[STR_IND_BLAST_FURNACE]
+base = "Fùrnas-spreadhaidh"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Factaraidh Clàr-sgàinean"
+
+[STR_IND_BODY_PLANT]
+base = "Lusan-cuirp"
+
+[STR_IND_BREWERY]
+base = "Dìosganachd"
+
+[STR_IND_CIDER_MILL]
+base = "Muilinn Chìdar"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Cùirt Thogail" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Lusan Carbon Dubh"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Obraichean Film Seileulóis"
+
+[STR_IND_CEMENT_PLANT]
+base = "Lusan Simeant"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Co-fhillte Ceimigeach"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Factaraidh stuthan-spreadhaidh"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Uachdaran Clòr-ailcalain"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Sloc criadha"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Uachdar-cofaidh"
+
+[STR_IND_COKE_OVEN]
+base = "Uisgeach-coile"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Uachdar Coimhearsnachd"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Obair-cheimigeachd Baidseach"
+
+[STR_IND_COPPER_SMELTER]
+base = "Lùbair copair"
+
+[STR_IND_CRYO_PLANT]
+base = "Uachdar criog-eòlais"
+
+[STR_IND_DAIRY]
+base = "Uachdar bainne"
+
+[STR_IND_DAIRY_FARM]
+base = "Fàrm bainne"
+
+[STR_IND_DREDGING_SITE]
+base = "Làrach drèididh"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Uachdarson Toraidhean Elastomerach"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Fùrnas Arca Eileagtrach"
+
+[STR_IND_ENGINE_PLANT]
+base = "Uachdarson Innleadairean"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Obraichean Innleadaireachd"
+
+[STR_IND_FARM]
+base = "Fearann-tuathanais"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Uachdaran Ceimigean Pròiseis"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Uachdar fèaraimhidh"
+
+[STR_IND_FISH_FARM]
+base = "Fàrma Iasgaich"
+
+[STR_IND_FISHING_GROUND]
+base = "Àiteachan Iasgaich"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Cuan Iasgaich"
+
+[STR_IND_GRAIN_MILL]
+base = "Muilinn gràin"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Uachdar Pròiseasaidh Bidhe"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Lòchd Soot"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Uachdar Bidhe Reòta"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Factaraidh Fuireachais"
+
+[STR_IND_GENERAL_STORE]
+base = "Bùth Choitcheann"
+
+[STR_IND_GLASS_WORKS]
+base = "Obair-Glainne"
+
+[STR_IND_HERDING_COOP]
+base = "Co-op Itealaich"
+
+[STR_IND_HOTEL]
+base = "Taigh-òsta"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Factaraidh Deasairtean Reòta"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Uisgeachair Stàilinn"
+
+[STR_IND_SCRAP_YARD]
+base = "Fuigheall-lann"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Fùrneis Lìomaid"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Mianach Clach-lìomaid"
+
+[STR_IND_MANGANESE_MINE]
+base = "Mèinn Manganais"
+
+[STR_IND_METAL_WORKS]
+base = "Obair-Mheatailt"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Planta lìonadairean mèinnireil"
+
+[STR_IND_NITRATE_MINE]
+base = "Mian Nitraid"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Uachdar Ceimigean Gnìomhachais"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Teirmineal Ol is Ceimigean"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Gairdhean-taighean agus Taigh-mucan"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Factaraidh bhòtalan is canan"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Factaraidh Bhathar Pàipeir"
+
+[STR_IND_PEATLANDS]
+base = "Tìrean Peat"
+
+[STR_IND_PETROLPUMP]
+base = "Stèisean Peatrail"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Mian-fhàs Fosfata"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Uachdar cothromachaidh is acaidh"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Bùcaireachd malairteach"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Bùth Phìoban"
+
+[STR_IND_PLATE_MILL]
+base = "Muilinn Phlèitean"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Factaraidh Mouldadh Plastaig"
+
+[STR_IND_PORT]
+base = "Port"
+
+[STR_IND_POTASH_MINE]
+base = "Mian Potash"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Factaraidh Siostaman Cumhachd"
+
+[STR_IND_POWER_PLANT]
+base = "Taigh-cumhachd"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Uachdaran Co-phàirtean Mionaideach"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Pacair Toraidh"
+
+[STR_IND_PYRITE_MINE]
+base = "Mèinn Pyrite"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Lùbair Pyrite"
+
+[STR_IND_QUARRY]
+base = "Coireall"
+
+[STR_IND_RANCH]
+base = "Fàrma"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Lusan Roadstone"
+
+[STR_IND_SALT_WORKS]
+base = "Obair-salainn"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Uachdar Mùilneachaidh Slag"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Mian Soda Ash"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Factaraidh Bidhean Goireasachd"
+
+[STR_IND_STOCKYARD]
+base = "Cùirt-stòcaidh"
+
+[STR_IND_STRIP_MILL]
+base = "Muilinn Sgriobach"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Uaine Siùcair"
+
+[STR_IND_SUPPLY_YARD]
+base = "Cùirt Solarachaidh"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Cùirt Fiodha"
+
+[STR_IND_TIN_MINE]
+base = "Mianach Tinne"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Obraichean Plàta Tinne"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Factaraidh Chàraichean Rianachd"
+
+[STR_IND_TRADING_POST]
+base = "Post Malairt"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Mùil Thubaichean is Pìoban"
+
+[STR_IND_TYRE_PLANT]
+base = "Uachdaran Tàirneanaich"
+
+[STR_IND_VINEYARD]
+base = "Fearann Fìonain"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Dìleabair Chàraichean"
+
+[STR_IND_WHARF]
+base = "Cairt"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Muilinn stàilinn-wire"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Mianach Sinc"
+
+[STR_IND_ZINC_SMELTER]
+base = "Lùbair Zinc"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Margaidh Each"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Bathar Eileagtrach"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Carbadan"
+
+[STR_STATION_BAKERY]
+base = "Bùcaireachd"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Beamaichean-taice"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, Grill agus Seòmraichean"
+
+[STR_STATION_BARNS]
+base = "Tùir-fearainn"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Bairil agus Ceag"
+
+[STR_STATION_BASE]
+base = "Bunait"
+
+[STR_STATION_BONEYARD]
+base = "Cìr-cnàmhan"
+
+[STR_STATION_BANK_TOP]
+base = "Mullach na banca"
+
+[STR_STATION_BODY_PLANT]
+base = "Preasan"
+
+[STR_STATION_BRINE_WORKS]
+base = "Obair-salann"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Cùirt-thogail"
+
+[STR_STATION_COLLIERY]
+base = "Mian-coile"
+
+[STR_STATION_COMPONENTS]
+base = "Co-phàirtean"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Ro-chruinnichte"
+
+[STR_STATION_COPPER_LODE]
+base = "Uamh Coirbeag"
+
+[STR_STATION_CREOSOTING]
+base = "Creosotachadh"
+
+[STR_STATION_CRYO_PLANT]
+base = "Uachdar criog-eòlais"
+
+[STR_STATION_DAIRY_LANE]
+base = "Slighe bainne"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Seal agus Tuba"
+
+[STR_STATION_ESTATE]
+base = "Tàigh-taighe"
+
+[STR_STATION_FACTORY]
+base = "Factaraidh"
+
+[STR_STATION_FARM_1]
+base = "Tigh-mòr"
+
+[STR_STATION_FARM_2]
+base = "Feurachan"
+
+[STR_STATION_FARM_3]
+base = "Fàrma"
+
+[STR_STATION_FISHMARKET]
+base = "Margaid iasg"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Co-chorporachd Bidhe"
+
+[STR_STATION_FOREST]
+base = "Tighinn A-steach Loga"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Maighstirean Stàilinn"
+
+[STR_STATION_FREEZERS]
+base = "Reòthairean"
+
+[STR_STATION_FURNACE]
+base = "Furnas"
+
+[STR_STATION_METAL_WORKS]
+base = "Bathar meatailt"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Obraichean"
+
+[STR_STATION_HERDING_COOP]
+base = "Peanan Reinder"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Pàirc Ghnìomhachais"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Taobh an Uisge"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Àrd-ùrlar Tighinn A-steach"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Cladaich"
+
+[STR_STATION_IRONSTONE]
+base = "Clach-iarainn"
+
+[STR_STATION_KILNS]
+base = "Fùirneasan"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Stòran Kimberlite"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Mianagan Clach-lìomaid"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Mèinnean Manganais"
+
+[STR_STATION_MILL]
+base = "Muileann"
+
+[STR_STATION_MILLS]
+base = "Muilnean"
+
+[STR_STATION_MINES]
+base = "Mianachdan"
+
+[STR_STATION_MOULDINGS]
+base = "Moldaidhean"
+
+[STR_STATION_OIL_RIG]
+base = "Raon"
+
+[STR_STATION_ORCHARDS]
+base = "Gairdhean-taighean"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Loidhne-sruthaidh"
+
+[STR_STATION_PIT]
+base = "Pit"
+
+[STR_STATION_PLANT]
+base = "Lusanachd"
+
+[STR_STATION_PLANTATION]
+base = "Plantachd"
+
+[STR_STATION_PLATE_MILL]
+base = "Cùirt slabhraidh"
+
+[STR_STATION_POTASH_MINE]
+base = "Mèinnirean"
+
+[STR_STATION_POWERHUNGRY]
+base = "Taigh-cumhachd"
+
+[STR_STATION_POWERTRAIN]
+base = "Siostam-dràibhidh"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Lusanachd & Innealan"
+
+[STR_STATION_PUMPS]
+base = "Pumpaidhean"
+
+[STR_STATION_PYRITES]
+base = "Stòran Pyrite"
+
+[STR_STATION_REFINERY]
+base = "Uachdran ath-sgrìobhaidh"
+
+[STR_STATION_ROD_MILL]
+base = "Muilinn ròd"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Companaidh Rubair"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Obair-salpeter"
+
+[STR_STATION_SEAFOOD]
+base = "Bìdh-mara"
+
+[STR_STATION_SHARP_STREET]
+base = "Sràid Sharp"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Uisgeachan domhainn beaga"
+
+[STR_STATION_SILO]
+base = "Sìlo"
+
+[STR_STATION_SMELTER]
+base = "Lùbair"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Furnas Soot"
+
+[STR_STATION_SOUPS]
+base = "Lùbair Soda"
+
+[STR_STATION_STRIP_MILL]
+base = "Loidhne-coil"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Companaidh Siùcair"
+
+[STR_STATION_TANK_FARM]
+base = "Fàrm Tancaichean"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Talla nan Tappers"
+
+[STR_STATION_TOWN_3]
+base = "Stòran"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Obair-chruair"
+
+[STR_STATION_TRONA_BEDS]
+base = "Leabaidhean Trona"
+
+[STR_STATION_TUBE_MILL]
+base = "Mùil Thubaichean"
+
+[STR_STATION_WATER]
+base = "Bainc-gainmhich"
+
+[STR_STATION_WELLS]
+base = "Uamhan"
+
+[STR_STATION_WHEAL]
+base = "Uamh-mhìne"
+
+[STR_STATION_WINERY]
+base = "Dìon-taighe fìona"
+
+[STR_STATION_WORKS]
+base = "Obraichean"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Pàirc Trucaidean"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "TALAMH"
+
+[STR_BADGE_SEA]
+base = "MARA"

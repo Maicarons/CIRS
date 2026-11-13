@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x1b"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS-gemeenskapsbedryfsvervangingsstel"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS-gemeenskapsbedryfsvervangingsstel{}{BLACK}’n deur die gemeenskap onderhoude vertakking van FIRS, oorspronklik deur andythenorth, FooBar, planetmaker, Terkhen en Yexo, met hulp van talle ander. {SILVER}Sien die webwerf vir meer inligting, insluitend hoe om CIRS te gebruik. {BLACK}Lisensie: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Die maksimum afstand teëls wat die vis waters, oliebore en baggerwerk-terreine van die kus af is."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Elke ekonomie bied ’n ander kombinasie van vragte en nywerhede.{}{}Vir spelers wat eenvoudige spel wil hê, bevat {SILVER}Basiese {BLACK}ekonomieë minder nywerhede en vragte as ander CIRS-ekonomieë.{}{}Die CIRS-webwerf verskaf gedetailleerde inligting oor elke ekonomie."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maksimum kus afstand van mariene nywerhede in teëls"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Ekonomie"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Geen limiet"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Voorsieningskiste wat vir Verbeterde primêre produksie nodig is (standaard 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Voorsieningskiste wat vir Gung-ho-primêre produksie nodig is (standaard 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Plase, myne en soortgelyke nywerhede sal produksie verhoog wanneer voorraadkiste afgelewer word, eers aan {SILVER}Verbeterde{BLACK}, en daarna aan {SILVER}Gung-ho{BLACK}, indien genoeg kiste afgelewer word.  {}{}Die standaardwaardes is goed, maar indien nodig kan jy hulle hier verander.  {}{}Laaivereistes vir hawe-tipe nywerhede sal 8 keer die waardes wees wat hier ingestel is."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Verbeterde primêre produksievlak (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho-primaireproduksievlak (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Produksie op plase, myne en soortgelyke nywerhede wanneer verskaffingsvereistes vervul word (as ’n persentasie van die {SILVER}normale {BLACK}produksievlak)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Matige Basies"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Basiese Arkties"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Basiese Tropies"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Hart van Duisternis"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Staaltown"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS-landskapvoorwerpe"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS sluit ’n stel landskapvoorwerpe in wat spelers kan plaas om sekere nywerhede groter te laat lyk. Landskapvoorwerpe het geen invloed op die spelverloop nie. Landskapvoorwerpe kan aangeskakel of afgeskakel word."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(opsioneel)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(verskaf)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Verskaf {WHITE}minstens een {BLACK} vereiste vrag vir maksimum produksie."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Vir die maksimum produksietempo, verskaf {WHITE}albei {BLACK}vereiste vragte minstens een keer elke drie minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Vir die maksimum produksietempo, verskaf {WHITE}alle {BLACK}vereiste vragte minstens een keer elke drie minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Vir die maksimum produksietempo, verskaf {WHITE}minstens twee {BLACK}vereiste vragte minstens een keer elke drie minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Vir die maksimum produksietempo, verskaf {WHITE}minstens drie {BLACK}vereiste vragte minstens een keer elke drie minute."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Produksie is eweredig aan die dorp se bevolking. Minstens {WHITE}{SIGNED_WORD} eenhede{BLACK} en nie meer as {WHITE}{SIGNED_WORD} eenhede{BLACK} vrag sal elke minuut geproduseer word."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Huidige produksie: {YELLOW}Normaal {}{}{BLACK}Vir {WHITE}Verbeterde {BLACK}-produksie, lewer {SIGNED_WORD} kiste voorrade minstens een keer elke drie minute.{}Vir {WHITE}Gung-ho {BLACK}-produksie, lewer {SIGNED_WORD} kiste."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Huidige produksie: {YELLOW}Verbeterde {}{}{BLACK}Om hierdie vlak te handhaaf, lewer {SIGNED_WORD} kiste voorrade minstens een keer elke drie minute.{}Vir {WHITE}Gung-ho {BLACK}-produksie, lewer {SIGNED_WORD} kiste."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Huidige produksie: {YELLOW}VGung ho{}{}{BLACK}Om hierdie vlak te handhaaf, lewer {SKIP}{SIGNED_WORD} kratte voorraad af binne drie maande"
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Huidige produksie: {YELLOW}Normaal {}{}{BLACK}Vir {WHITE}Verbeterde {BLACK}-produksie, lewer {SIGNED_WORD} eenhede vrag minstens een keer elke drie minute.{}Vir {WHITE}Gung-ho {BLACK}-produksie, lewer {SIGNED_WORD} eenhede."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Huidige produksie: {YELLOW}Verbeterde {}{}{BLACK}Om hierdie vlak te handhaaf, lewer {SIGNED_WORD} eenhede vrag minstens een keer elke drie minute.{}Vir {WHITE}Gung-ho {BLACK}-produksie, lewer {SIGNED_WORD} eenhede."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Huidige produksie: {YELLOW}VGung ho{}{}{BLACK}Om hierdie vlak te handhaaf, lewer {SKIP}{SIGNED_WORD} kratte voorraad af binne drie maande"
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS vereis OpenTTD 1.7.0 (of, vir dié wat tronkbouwerke gebruik, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Onversoenbare stel: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}CanSet-parameter 2 moet 0 wees om met CIRS te werk."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met CIRS te werk."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Onversoenbare weergawe: {ORANGE}Total Town Replacement Set moet weergawe 3.11 of nuwer wees."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "moet onder die sneeulyn wees."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "kannie op styl slope geplaas word nie."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Ligging: {YELLOW}Kannie befonds word in sneeu of in die woestyn nie."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Ligging: {YELLOW}Kannie befonds word in die woestyn."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Ligging: {YELLOW}Kannie befonds word in sneeu."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Ligging: {YELLOW}Kan slegs op sneeu gefinansier word."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Suur"
+cargo_unit = "{VOLUME} suur"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Aggregaat"
+cargo_unit = "{WEIGHT} van aggregaat"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Aluminium"
+cargo_unit = "{WEIGHT} van aluminium"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumina"
+cargo_unit = "{WEIGHT} van alumina"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Amoniak- en stikstofprodukte"
+cargo_unit = "{VOLUME} ammoniak- en salpetersuurprodukte"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhidrietklip"
+cargo_unit = "{WEIGHT} van anhidrietklip"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Appels"
+cargo_unit = "{WEIGHT} van appels"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Bone"
+cargo_unit = "{WEIGHT} bone"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumen"
+cargo_unit = "{VOLUME} bitumen"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Bou Materiaal"
+cargo_unit = "{WEIGHT} bou materiaal"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Koolstofswart"
+cargo_unit = "{WEIGHT} van koolstofswart"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Kassava"
+cargo_unit = "{WEIGHT} van kassawa"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Gietyster"
+cargo_unit = "{WEIGHT} van gietyster"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Sement"
+cargo_unit = "{WEIGHT} van sement"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Chemiese intermediêre produkte"
+cargo_unit = "{VOLUME} chemiese intermediêre produkte"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Chemikalieë"
+cargo_unit = "{VOLUME} chemikalieë"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CHLORINE]
+name = "Chloor"
+cargo_unit = "{VOLUME} chloor"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CLAY]
+name = "Klei"
+cargo_unit = "{WEIGHT} klei"
+cid = "{TINYFONT}CY"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Skoonmaakmiddels"
+cargo_unit = "{WEIGHT} skoonmaakmiddels"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Koffee"
+cargo_unit = "{WEIGHT} sak{P 0 \"\" s} koffie"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "Koolteer"
+cargo_unit = "{VOLUME} koolteer"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Kook"
+cargo_unit = "{WEIGHT} koks"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Presisiekomponente"
+cargo_unit = "{WEIGHT} van presisiekomponente"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betonprodukte"
+cargo_unit = "{WEIGHT} betonprodukte"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Koper"
+cargo_unit = "{WEIGHT} koper"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Eetbare olie"
+cargo_unit = "{VOLUME} eetbare olie"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Elektriese onderdele"
+cargo_unit = "{WEIGHT} elektriese onderdele"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Ingenieurswese Benodighede"
+cargo_unit = "{SIGNED_WORD} krat{P 0 \"\" te} ingenieurswese benodighede"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Ontploffingsmiddels"
+cargo_unit = "{WEIGHT} springstof"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferrolegerings"
+cargo_unit = "{WEIGHT} ferrolegerings"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Vis & Seevoedsel"
+cargo_unit = "{WEIGHT} vis & seevoedsel"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Plaas Benodighede"
+cargo_unit = "{SIGNED_WORD} krat{P 0 \"\" te} plaas benodighede"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "Mis"
+cargo_unit = "{WEIGHT} kunsmis"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Meel & Stysel"
+cargo_unit = "{WEIGHT} meel & stysel"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Voedselbymiddels"
+cargo_unit = "{WEIGHT} van voedselbymiddels"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Voedsel & Drankies"
+cargo_unit = "{WEIGHT} kos & drankies"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Smidstukke & Gooistukke"
+cargo_unit = "{WEIGHT} van smeedstukke & gietstukke"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Bevrore kos"
+cargo_unit = "{WEIGHT} van bevrore voedsel"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Vrugte"
+cargo_unit = "{WEIGHT} vrugte"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Glasprodukte"
+cargo_unit = "{WEIGHT} van glasprodukte"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Hardeware & Afwerkinge"
+cargo_unit = "{WEIGHT} van hardeware & afwerkings"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Industriële koolstowwe"
+cargo_unit = "{WEIGHT} van nywerheidskoolstowwe"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Industriële gase"
+cargo_unit = "{VOLUME} nywerheidsgasse"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Kina-klei"
+cargo_unit = "{WEIGHT} van Kina-kley"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Ligte koolwaterstowwe"
+cargo_unit = "{VOLUME} ligte koolwaterstowwe"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Kalksteen"
+cargo_unit = "{WEIGHT} van kalksteen"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Houtstamme"
+cargo_unit = "{WEIGHT} van boomstamme"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Natriumhidroksied"
+cargo_unit = "{VOLUME} natriumhidroksied"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} metanol"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Melk"
+cargo_unit = "{VOLUME} melk"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "Mangaan"
+cargo_unit = "{WEIGHT} van mangaan"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Vleis"
+cargo_unit = "{WEIGHT} van vleis"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Bariet & Fluorietspat"
+cargo_unit = "{WEIGHT} van bariet en fluorspar"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Minerale vulstowwe"
+cargo_unit = "{WEIGHT} van minerale vulstowwe"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Rou suiker & melasse"
+cargo_unit = "{WEIGHT} rou suiker & melasse"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitrate"
+cargo_unit = "{WEIGHT} nitrate"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Stikstof"
+cargo_unit = "{VOLUME} stikstof"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Neute"
+cargo_unit = "{WEIGHT} van neute"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Suurstof"
+cargo_unit = "{VOLUME} suurstof"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Verpakking"
+cargo_unit = "{WEIGHT} van verpakking"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Verf & Bedekkings"
+cargo_unit = "{VOLUME} verf & bedekkings"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Turf"
+cargo_unit = "{WEIGHT} van turf"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Petroleum Brandstof"
+cargo_unit = "{VOLUME} petrol"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "Opleidingsvate en pypwerk"
+cargo_unit = "{WEIGHT} van bergingstanke & pypwerk"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfaat"
+cargo_unit = "{WEIGHT} van fosfaat"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Fosforsoer"
+cargo_unit = "{VOLUME} fosforsoer"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Gruyterys"
+cargo_unit = "{WEIGHT} van ru-yster"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plastiek & Hars"
+cargo_unit = "{WEIGHT} van plastiek & hars"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Plant & Masjinerie"
+cargo_unit = "{WEIGHT} van plante & masjinerie"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Kalium"
+cargo_unit = "{WEIGHT} van kalium"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Proseschemikalieë"
+cargo_unit = "{WEIGHT} van prosesschemikalieë"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pompe & kleppe"
+cargo_unit = "{WEIGHT} van pompe & kleppe"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pirierts"
+cargo_unit = "{WEIGHT} pirieterts"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Leiwit"
+cargo_unit = "{WEIGHT} lewende kalk"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Wapeningsstaal"
+cargo_unit = "{WEIGHT} wapeningsstaal"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Sout"
+cargo_unit = "{WEIGHT} sout"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Sand"
+cargo_unit = "{WEIGHT} sand"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Skrap Metaal"
+cargo_unit = "{WEIGHT} skrap metaal"
+cid = "{TINYFONT}SM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Seëls, slange en rieme"
+cargo_unit = "{WEIGHT} seëls, slange & rieme"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slak"
+cargo_unit = "{WEIGHT} slak"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Sodaas"
+cargo_unit = "{WEIGHT} sodaas"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Staal"
+cargo_unit = "{WEIGHT} staal"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billette & blooms"
+cargo_unit = "{WEIGHT} van billette en bloeisels"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Staalkluise"
+cargo_unit = "{WEIGHT} staalblokke"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Handelsbaarg"
+cargo_unit = "{WEIGHT} van handelsstaaf"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Staalpyp"
+cargo_unit = "{WEIGHT} staalpijp"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Staalplaat"
+cargo_unit = "{WEIGHT} staalplaat"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Staalvel en -strook"
+cargo_unit = "{WEIGHT} van staalblad & -strook"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Staalslab"
+cargo_unit = "{WEIGHT} van staalslab"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Staalbuis"
+cargo_unit = "{WEIGHT} van staalpijp"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Staaldraadstaaf"
+cargo_unit = "{WEIGHT} van staaldraadstaaf"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Strukturele staal"
+cargo_unit = "{WEIGHT} van konstruksiestaal"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Svael"
+cargo_unit = "{WEIGHT} van swael"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Sviersuur"
+cargo_unit = "{VOLUME} swaelsoer"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Houtprodukte"
+cargo_unit = "{WEIGHT} van houtprodukte"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_TIN]
+name = "Tin"
+cargo_unit = "{WEIGHT} van tin"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Tinplaat"
+cargo_unit = "{WEIGHT} van tynplaat"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Buismeul"
+cargo_unit = "{WEIGHT} van bandkord"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Bandfabriek"
+cargo_unit = "{WEIGHT} van bande"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Groente"
+cargo_unit = "{WEIGHT} groente"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Voertuigkarosse"
+cargo_unit = "{WEIGHT} voertuigkarosse"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Enjins & aandrywing"
+cargo_unit = "{WEIGHT} enjins & aandrywingstelsels"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Voertuig Onderdele"
+cargo_unit = "{WEIGHT} voertuigonderdele"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Voertuie"
+cargo_unit = "{WEIGHT} voertuie"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Weldverbruiksware"
+cargo_unit = "{WEIGHT} sweisverbruiksmateriaal"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Houtpulp"
+cargo_unit = "{WEIGHT} houtselwee"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Wol"
+cargo_unit = "{SIGNED_WORD} ba{P 0 al le} wol"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "Sink"
+cargo_unit = "{WEIGHT} sink"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Sinkerts"
+cargo_unit = "{WEIGHT} sinkerts"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} van goedere"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Aluminium Fabriek"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Amoniakkompleks"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Anhidrietmyn"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Anhidrietverwerkingsaanleg"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Toestelfabriek"
+
+[STR_IND_ARABLE_FARM]
+base = "Bewerk Plaas"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Voertuig Vervaardiger"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Seksie- en staafmeul"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Basiese suurstofoven"
+
+[STR_IND_BLAST_FURNACE]
+base = "Blaasoven"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Spilplaatfabriek"
+
+[STR_IND_BODY_PLANT]
+base = "Liggaamsaanleg"
+
+[STR_IND_BREWERY]
+base = "Brouery"
+
+[STR_IND_CIDER_MILL]
+base = "Sider Meule"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Bouwerf" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Koolstofswart-anleg"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Sellulosefilmbedryf"
+
+[STR_IND_CEMENT_PLANT]
+base = "Sement Fabriek"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Chemiese kompleks"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Ontploffingsmiddelfabriek"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Chloor-alkali-anleg"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Klei Pit"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Koffee Landgoed"
+
+[STR_IND_COKE_OVEN]
+base = "Kookoond"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Betonaanleg"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Batschemikafabriek"
+
+[STR_IND_COPPER_SMELTER]
+base = "Kopersmeltery"
+
+[STR_IND_CRYO_PLANT]
+base = "Krio-installasie"
+
+[STR_IND_DAIRY]
+base = "Melkery"
+
+[STR_IND_DAIRY_FARM]
+base = "Melkboerdery"
+
+[STR_IND_DREDGING_SITE]
+base = "Baggerwerk terrein"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Elastomeerproduktefabriek"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Elektriese boogoven"
+
+[STR_IND_ENGINE_PLANT]
+base = "Enjienfabriek"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Ingenieurswerkswinkel"
+
+[STR_IND_FARM]
+base = "Plaas"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Proseschemikalie-anleg"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Gisingsaanleg"
+
+[STR_IND_FISH_FARM]
+base = "Visplaas"
+
+[STR_IND_FISHING_GROUND]
+base = "Vis Waters"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Vis Hawe"
+
+[STR_IND_GRAIN_MILL]
+base = "Graanmeul"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Voedsel Verwerkings Fabriek"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Staalsmidery & Gietery"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Bevrore kosfabriek"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Meubelfabriek"
+
+[STR_IND_GENERAL_STORE]
+base = "Algemene Handelaar"
+
+[STR_IND_GLASS_WORKS]
+base = "Glas Werke"
+
+[STR_IND_HERDING_COOP]
+base = "Veeboerderykoöperasie"
+
+[STR_IND_HOTEL]
+base = "Hotel"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Vriesdesertfabriek"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Staalmolen"
+
+[STR_IND_SCRAP_YARD]
+base = "Skrootwerf"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Kalkoond"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Kalksteengroef"
+
+[STR_IND_MANGANESE_MINE]
+base = "Mangaanmyn"
+
+[STR_IND_METAL_WORKS]
+base = "Metaalwerkswinkel"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Minerale vulstofplant"
+
+[STR_IND_NITRATE_MINE]
+base = "Nitrate Myn"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Industriële chemikalie-anleg"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Olie- en chemikalie-terminaal"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Boord en Varkplaas"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Fles- en blikfabriek"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Papierproduktefabriek"
+
+[STR_IND_PEATLANDS]
+base = "Turfgebiede"
+
+[STR_IND_PETROLPUMP]
+base = "Petrol Stasie"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Fosfaatom"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Mis- & suurwerkswinkel"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Kommersiële Bakery"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Pypwinkel"
+
+[STR_IND_PLATE_MILL]
+base = "Plaatmeul"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Plastiekvormfabriek"
+
+[STR_IND_PORT]
+base = "Hawe"
+
+[STR_IND_POTASH_MINE]
+base = "Kaliummyn"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Kragstelselfabriek"
+
+[STR_IND_POWER_PLANT]
+base = "Kragsentrale"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Presisieonderdeelfabriek"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Produktinpakker"
+
+[STR_IND_PYRITE_MINE]
+base = "Piriemyne"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Pirietsmeltery"
+
+[STR_IND_QUARRY]
+base = "Steengroef"
+
+[STR_IND_RANCH]
+base = "Plaas"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Wegsteenplant"
+
+[STR_IND_SALT_WORKS]
+base = "Soutwerke"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Slakmeul"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Sodaasmyne"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Gereed-voor-gebruik-voedselfabriek"
+
+[STR_IND_STOCKYARD]
+base = "Slagpale"
+
+[STR_IND_STRIP_MILL]
+base = "Strookmolen"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Suiker Meule"
+
+[STR_IND_SUPPLY_YARD]
+base = "Voorsieningswerf"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Houtwerf"
+
+[STR_IND_TIN_MINE]
+base = "Tinmyn"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Tinplaatfabriek"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Spoorvoertuigfabriek"
+
+[STR_IND_TRADING_POST]
+base = "Handelspos"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Vragmotorparkeerterrein"
+
+[STR_IND_TYRE_PLANT]
+base = "Bandkabel"
+
+[STR_IND_VINEYARD]
+base = "Wynlandgoed"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Voertuigverdelers"
+
+[STR_IND_WHARF]
+base = "Pier"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Draadstaafmeul"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Sinkmyn"
+
+[STR_IND_ZINC_SMELTER]
+base = "Sinksmelter"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Perde Markte"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Elektriese goedere"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Motorvoertuie"
+
+[STR_STATION_BAKERY]
+base = "Bakery"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Draerbeam"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, rooster en kamers"
+
+[STR_STATION_BARNS]
+base = "Skure"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Vat en ton"
+
+[STR_STATION_BASE]
+base = "Basis"
+
+[STR_STATION_BONEYARD]
+base = "Skroothoop"
+
+[STR_STATION_BANK_TOP]
+base = "Banktop"
+
+[STR_STATION_BODY_PLANT]
+base = "Persings"
+
+[STR_STATION_BRINE_WORKS]
+base = "Soutoplossingsfabriek"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Bouers Werf"
+
+[STR_STATION_COLLIERY]
+base = "Koolmyn"
+
+[STR_STATION_COMPONENTS]
+base = "Komponente"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Voorafgestort"
+
+[STR_STATION_COPPER_LODE]
+base = "Koperertsader"
+
+[STR_STATION_CREOSOTING]
+base = "Kreosotering"
+
+[STR_STATION_CRYO_PLANT]
+base = "Krio-installasie"
+
+[STR_STATION_DAIRY_LANE]
+base = "Melkbaan"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Seël en slang"
+
+[STR_STATION_ESTATE]
+base = "Landgoed"
+
+[STR_STATION_FACTORY]
+base = "Fabriek"
+
+[STR_STATION_FARM_1]
+base = "Landgoed"
+
+[STR_STATION_FARM_2]
+base = "Weivelde"
+
+[STR_STATION_FARM_3]
+base = "Plaas"
+
+[STR_STATION_FISHMARKET]
+base = "Vis Mark"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Voedselkorporasie"
+
+[STR_STATION_FOREST]
+base = "Houtstamlandingsplek"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Staalmasters"
+
+[STR_STATION_FREEZERS]
+base = "Vrieskaste"
+
+[STR_STATION_FURNACE]
+base = "Oond"
+
+[STR_STATION_METAL_WORKS]
+base = "Metaalware"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Werf"
+
+[STR_STATION_HERDING_COOP]
+base = "Reinderheins"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Industriële Park"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Waterkant"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Landingsplatform"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Kuslyn"
+
+[STR_STATION_IRONSTONE]
+base = "Ystersteen"
+
+[STR_STATION_KILNS]
+base = "Owe"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Kimberlietvoorvalle"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Kalksteengroeve"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Mangaanmynne"
+
+[STR_STATION_MILL]
+base = "Meule"
+
+[STR_STATION_MILLS]
+base = "Meulens"
+
+[STR_STATION_MINES]
+base = "Mynene"
+
+[STR_STATION_MOULDINGS]
+base = "Gietstukke"
+
+[STR_STATION_OIL_RIG]
+base = "Veld"
+
+[STR_STATION_ORCHARDS]
+base = "Uitplante"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Vloeilyn"
+
+[STR_STATION_PIT]
+base = "Mynskag"
+
+[STR_STATION_PLANT]
+base = "Plant"
+
+[STR_STATION_PLANTATION]
+base = "Plantasie"
+
+[STR_STATION_PLATE_MILL]
+base = "Slabwerf"
+
+[STR_STATION_POTASH_MINE]
+base = "Minerale"
+
+[STR_STATION_POWERHUNGRY]
+base = "Kragsentrale"
+
+[STR_STATION_POWERTRAIN]
+base = "Kraglyn"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Plant & Masjinerie"
+
+[STR_STATION_PUMPS]
+base = "Pompe"
+
+[STR_STATION_PYRITES]
+base = "Piriethope"
+
+[STR_STATION_REFINERY]
+base = "Portland"
+
+[STR_STATION_ROD_MILL]
+base = "Staafmeul"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Gommaatskappy"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Salpeterwerke"
+
+[STR_STATION_SEAFOOD]
+base = "Seevoedsel"
+
+[STR_STATION_SHARP_STREET]
+base = "Skerpstraat"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Sande"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Smeltkroes"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Roetoven"
+
+[STR_STATION_SOUPS]
+base = "Natriumhidroksied"
+
+[STR_STATION_STRIP_MILL]
+base = "Spoellyn"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Suikermasjappary"
+
+[STR_STATION_TANK_FARM]
+base = "Tankplaas"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Tapperskuur"
+
+[STR_STATION_TOWN_3]
+base = "Winkels"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Kruipvoertuigwerkswinkel"
+
+[STR_STATION_TRONA_BEDS]
+base = "Trona-bede"
+
+[STR_STATION_TUBE_MILL]
+base = "Buis- en pypmeul"
+
+[STR_STATION_WATER]
+base = "Sandbank"
+
+[STR_STATION_WELLS]
+base = "Putte"
+
+[STR_STATION_WHEAL]
+base = "Mynput"
+
+[STR_STATION_WINERY]
+base = "Wynery"
+
+[STR_STATION_WORKS]
+base = "Werf"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Trona-bede"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "LAND"
+
+[STR_BADGE_SEA]
+base = "SEE"

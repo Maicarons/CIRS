@@ -1,0 +1,686 @@
+[
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS-gemeenskapsbedryfsvervangingsstel{}{BLACK}’n deur die gemeenskap onderhoude vertakking van FIRS, oorspronklik deur andythenorth, FooBar, planetmaker, Terkhen en Yexo, met hulp van talle ander. {SILVER}Sien die webwerf vir meer inligting, insluitend hoe om CIRS te gebruik. {BLACK}Lisensie: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS-gemeenskapsbedryfsvervangingsstel",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Nywerheid vervanging stel{}{BLACK}Aan u gebring deur andythenorth, FooBar, planetmaker, Terkhen and Yexo, met help van baie ander. {SILVER}Sien readme vir meer inligting, ingesluit hoe om FIRS te gebruik. {BLACK}Lisensie: GPL v2."
+ },
+ {
+  "lang": "belarusian",
+  "file": "src/grf/lang/belarusian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Набор CIRS для замены аб’ектаў прамысловасці супольнасці{}{BLACK}Супольнасцю падтрымліваемая галіна FIRS, першапачаткова створаная andythenorth, FooBar, planetmaker, Terkhen і Yexo пры дапамозе многіх іншых аўтараў. {SILVER}Падрабязную інфармацыю, у тым ліку пра тое, як карыстацца CIRS, можна знайсці на сайце. {BLACK}Ліцэнзія: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Набор CIRS для замены аб’ектаў прамысловасці супольнасці",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}Набор FIRS для поўнай замены прадпрыемстваў{}{BLACK}Спецыяльна для вас ад andythenorth, FooBar, planetmaker, Terkhen и Yexo, з дапамогай многіх іншых. {SILVER}Падрабязную інфармацыю, уключаючы тое, як карыстацца FIRS, глядзіце ў ReadMe. {BLACK}Ліцэнзія: GPL v2."
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Conjunt de substitució d'indústries comunitàries de CIRS{}{BLACK}Una bifurcació de FIRS mantinguda per la comunitat, creada originalment per andythenorth, FooBar, planetmaker, Terkhen i Yexo, amb l'ajuda de moltes altres persones. {SILVER}Consulteu el lloc web per obtenir més informació, inclosa la manera d'utilitzar CIRS. {BLACK}Llicència: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Conjunt de substitució d'indústries comunitàries de CIRS",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Fet per andythenorth, FooBar, planetmaker, Terkhen i Yexo, amb l'ajuda de molts altres. {SILVER}Consulteu el llegeix-me per a més informació, incloent-hi com usar FIRS. {BLACK}Llicència: GPL v2."
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En fællesskabsvedligeholdt forgrening af FIRS, oprindeligt udviklet af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se websiden for mere information, herunder hvordan CIRS bruges. {BLACK}Licens: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Community-Industri-Ersatzpakke",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Bragt til dig af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se \"readme\"-filen for mere information, inklusiv hvordan man anvender FIRS. {BLACK}Licens: GPL v2."
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS Community-Industrie-Ersatzset{}{BLACK}Een door de community onderhouden fork van FIRS, oorspronkelijk gemaakt door andythenorth, FooBar, planetmaker, Terkhen en Yexo, met hulp van vele anderen. {SILVER}Zie de website voor meer informatie, inclusief hoe je CIRS kunt gebruiken. {BLACK}Licentie: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Community-Industrie-Ersatzset",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Gemaakt door andythenorth, FooBar, planetmaker, Terkhen en Yexo met hulp van vele anderen. {SILVER}Lees de 'readme' voor meer informatie, inclusief hoe je FIRS kunt gebruiken. {BLACK}Licentie: GPL V2."
+ },
+ {
+  "lang": "estonian",
+  "file": "src/grf/lang/estonian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS-i kogukonna tööstuse asendussett{}{BLACK}Kogukonna hooldatav FIRS-i harg, mille algseid autorid olid andythenorth, FooBar, planetmaker, Terkhen ja Yexo ning mille loomisel aitasid paljud teised. {SILVER}Vaadake veebisaiti lisateabe saamiseks, sealhulgas selle kohta, kuidas CIRS-i kasutada. {BLACK}Litsents: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS-i kogukonna tööstuse asendussett",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Toodud Teieni andythenorth, FooBar, planetmaker, Terkhen and Yexo ja paljude teiste poolt{SILVER}Rohkem infot \"read me\"-s, ka see kuidas kasutada FIRS-i. {BLACK}Litsents: GPL v2."
+ },
+ {
+  "lang": "finnish",
+  "file": "src/grf/lang/finnish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS-yhteisöteollisuuden korvaussetti{}{BLACK}Yhteisön ylläpitämä FIRS-haara, jonka ovat alun perin kehittäneet andythenorth, FooBar, planetmaker, Terkhen ja Yexo monien muiden avustuksella. {SILVER}Katso verkkosivusto saadaksesi lisätietoja, myös siitä, miten CIRS:ää käytetään. {BLACK}Lisenssi: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS-yhteisöteollisuuden korvaussetti",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Tekijät: andythenorth, FooBar, planetmaker, Terkhen and Yexo sekä kaikki muut apuna olleet. {SILVER}Lisätietoja, mukaan lukien käyttöoppaan, löydät readme-tiedostosta. {BLACK}Lisenssi: GPL v2."
+ },
+ {
+  "lang": "galician",
+  "file": "src/grf/lang/galician.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Conxunto de substitución industrial comunitaria de CIRS{}{BLACK}Unha bifurcación de FIRS mantida pola comunidade, creada orixinalmente por andythenorth, FooBar, planetmaker, Terkhen e Yexo, coa axuda de moitas outras persoas. {SILVER}Consulta o sitio web para obter máis información, incluído como usar CIRS. {BLACK}Licenza: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Conxunto de substitución industrial comunitaria de CIRS",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Creado por andythenorth, FooBar, planetmaker, Terkhen e Yexo, coa axuda de moitos outros. {SILVER}Consulta o Readme para máis información, incluíndo como usar o FIRS. {BLACK}Licencia: GPL v2."
+ },
+ {
+  "lang": "hungarian",
+  "file": "src/grf/lang/hungarian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS Közösségi Ipari Pótlócsomag{}{BLACK}A FIRS közösség által karbantartott ága, amelyet eredetileg andythenorth, FooBar, planetmaker, Terkhen és Yexo készített, számos más személy segítségével. {SILVER}További információért, köztük a CIRS használatának módjáról is, lásd a weboldalt. {BLACK}Licenc: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Közösségi Ipari Pótlócsomag",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Készítette: andythenorth, FooBar, planetmaker, Terkhen, Yexo és még sokan mások. {SILVER}További információkhoz (például a FIRS használatához) lásd a readme-t. {BLACK}Licenc: GPL v2."
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Set Pengganti Industri Komunitas CIRS{}{BLACK}Sebuah cabang FIRS yang dikelola komunitas, yang awalnya dibuat oleh andythenorth, FooBar, planetmaker, Terkhen, dan Yexo, dengan bantuan dari banyak pihak lainnya. {SILVER}Lihat situs web untuk informasi lebih lanjut, termasuk cara menggunakan CIRS. {BLACK}Lisensi: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Set Pengganti Industri Komunitas CIRS",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set -{}{BLACK}Dibuat untuk anda oleh andythenorth, FooBar, planetmaker, Terkhen and Yexo, dan bantuan dari yang lain. {SILVER}Lihat readme untuk informasi lebih lanjut, termasuk cara penggunaan FIRS. {BLACK}Lisensi: GPL v2."
+ },
+ {
+  "lang": "italian",
+  "file": "src/grf/lang/italian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS – Set di sostituzione per industrie comunitarie{}{BLACK}Un fork di FIRS mantenuto dalla comunità, originariamente creato da andythenorth, FooBar, planetmaker, Terkhen e Yexo, con l’aiuto di molte altre persone. {SILVER}Consulta il sito web per maggiori informazioni, incluso come utilizzare CIRS. {BLACK}Licenza: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS – Set di sostituzione per industrie comunitarie",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Di andythenorth, FooBar, planetmaker, Terkhen e Yexo, e con il contributo di molti altri. {SILVER}Leggete il file readme per informazioni e per consigli su come usare FIRS. {BLACK}Licenza: GPL v2."
+ },
+ {
+  "lang": "korean",
+  "file": "src/grf/lang/korean.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS 커뮤니티 산업 교체 세트{}{BLACK}커뮤니티에서 유지 관리하는 FIRS의 포크로, 원래 andythenorth, FooBar, planetmaker, Terkhen, Yexo가 개발했으며 많은 다른 사람들의 도움을 받았습니다. {SILVER}CIRS 사용법을 포함한 더 자세한 정보는 웹사이트를 참조하세요. {BLACK}라이선스: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS 커뮤니티 산업 교체 세트",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS 산업 시설 대체 세트{}{BLACK}andythenorth, FooBar, planetmaker, Terkhen, Yexo 등 많은 분들의 도움을 받아 제공됩니다. {SILVER}FIRS를 사용하는 방법 등을 포함한 자세한 정보는 읽어보기를 참고하세요. {BLACK}라이선스: GPL v2"
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS Complementum Industrialium Communium Substitutionis{}{BLACK}Ramus FIRS a communitate curatus, initio ab andythenorth, FooBar, planetmaker, Terkhen et Yexo creatus, plurimorum aliorum auxilio. {SILVER}Plura cognoscere, inter quae etiam quomodo CIRS adhibendum sit, in situ interretiali vide. {BLACK}Licentia: GPL v2.",
+  "reasons": [
+   "cirs_missing"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Complementum Industrialium Communium Substitutionis",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industriarum Redemptionis Sarcina{}{BLACK}Auctores sunt andythenorth, FooBar, planetifex, Terkhen ac Yexo, et multi alii adiuverunt. {SILVER}Vide LegeMe in quo plura indicia est. {BLACK}Licentia: GPL v2."
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS Community-Industrie-Ersatzset{}{BLACK}Eng vun der Communautéit gewartete Fork vu FIRS, ursprénglech vun andythenorth, FooBar, planetmaker, Terkhen an Yexo entwéckelt, mat Hëllef vu villeenen aneren. {SILVER}Kuckt d'Website fir méi Informatiounen, dorënner wéi een CIRS benotzt. {BLACK}Lizenz: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Community-Industrie-Ersatzset",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Codéiert vum andythenorth, FooBar, planetmaker, Terkhen an Yexo, mat der Hëllef vun villen aneren. {SILVER}Lies de readme fir méi Informatiounen iwwert d'Benotzung vun FIRS. {BLACK}Lizenz: GPL v2."
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS – samfunnets industriutskiftingspakke{}{BLACK}En fellesskapsvedlikeholdt forgrening av FIRS, opprinnelig utviklet av andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjelp fra mange andre. {SILVER}Se nettsiden for mer informasjon, inkludert hvordan du bruker CIRS. {BLACK}Lisens: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS – samfunnets industriutskiftingspakke",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industri Erstatnings-sett{}{BLACK}Bringes til deg av andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjelp fra mange andre. {SILVER}Se readme for mer informasjon, inkludert hvordan man bruker FIRS. {BLACK}Lisens: GPL v2."
+ },
+ {
+  "lang": "polish",
+  "file": "src/grf/lang/polish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Zestaw zastępczy dla społeczności przemysłowej CIRS{}{BLACK}Wspólnotowo utrzymywany fork projektu FIRS, pierwotnie stworzony przez andythenorth, FooBar, planetmaker, Terkhen i Yexo, przy wsparciu wielu innych osób. {SILVER}Zobacz stronę internetową, aby uzyskać więcej informacji, w tym o tym, jak korzystać z CIRS. {BLACK}Licencja: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Zestaw zastępczy dla społeczności przemysłowej CIRS",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Autorzy: andythenorth, FooBar, planetmaker, Terkhen, Yexo i inni. {SILVER}Więcej informacji w pliku readme. {BLACK}Licencja: GPL v2."
+ },
+ {
+  "lang": "portuguese_BR",
+  "file": "src/grf/lang/portuguese_BR.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Conjunto de Substituição de Indústrias Comunitárias CIRS{}{BLACK}Um fork do FIRS mantido pela comunidade, originalmente criado por andythenorth, FooBar, planetmaker, Terkhen e Yexo, com a ajuda de muitas outras pessoas. {SILVER}Consulte o site para obter mais informações, incluindo como usar o CIRS. {BLACK}Licença: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Conjunto de Substituição de Indústrias Comunitárias CIRS",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industrial Replacement Set{}{BLACK}Trazido a você por andythenorth, FooBar, planetmaker, Terkhen and Yexo, com a ajuda de muitos outros. {SILVER}Veja o arquivo readme para mais informações, incluindo como usar o FIRS. {BLACK}Licença: GPL v2."
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Setul comunitar de înlocuire a industriilor CIRS{}{BLACK}O ramură întreținută de comunitate a FIRS, creată inițial de andythenorth, FooBar, planetmaker, Terkhen și Yexo, cu ajutorul multor alții. {SILVER}Consultați site-ul web pentru mai multe informații, inclusiv despre cum să utilizați CIRS. {BLACK}Licență: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Setul de înlocuire a industriilor comunitare CIRS",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Publicat de andythenorth, FooBar, planetmaker, Terkhen şi Yexo, cu ajutorul miultor altora. {SILVER}Vezi fişierul readme pentru mai multe informaţii, inclusiv cum să foloseşti FIRS. {BLACK}License: GPL v2."
+ },
+ {
+  "lang": "russian",
+  "file": "src/grf/lang/russian.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Набор CIRS для замены объектов промышленности в сообществе{}{BLACK}Общественно поддерживаемая вилка FIRS, первоначально созданная andythenorth, FooBar, planetmaker, Terkhen и Yexo при помощи многих других. {SILVER}См. веб-сайт для получения дополнительной информации, в том числе о том, как использовать CIRS. {BLACK}Лицензия: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Набор CIRS для замены объектов промышленности в сообществе",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}Набор FIRS для полной замены предприятий{}{BLACK}Специально для вас от andythenorth, FooBar, planetmaker, Terkhen и Yexo, с помощью многих других. {SILVER}Подробную информацию, включая как пользоваться FIRS, найдёте в инструкции. {BLACK}Лицензия: GPL v2."
+ },
+ {
+  "lang": "simplified_chinese",
+  "file": "src/grf/lang/simplified_chinese.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 开发，并得到了许多其他人的帮助。{SILVER}请访问网站了解更多信息，包括如何使用 CIRS。{BLACK}许可证：GPL v2。",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS 社区工业替换套装",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS工业扩展包{}{BLACK}由andythenorth, FooBar, planetmaker, Terkhen and Yexo以及其他贡献者呈献。 {SILVER}查看readme获取更多信息，其中包括怎样使用FIRS. {BLACK}License: GPL v2."
+ },
+ {
+  "lang": "slovak",
+  "file": "src/grf/lang/slovak.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Kompletná sada nahradenia priemyslu CIRS{}{BLACK}Komunitou udržiavaná odnož FIRS, pôvodne vytvorená používateľmi andythenorth, FooBar, planetmaker, Terkhen a Yexo, s pomocou mnohých ďalších. {SILVER}Viac informácií vrátane návodu na používanie CIRS nájdete na webovej stránke. {BLACK}Licencia: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Kompletná sada nahradenia priemyslu CIRS",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Vám prináša andythenorth, FooBar, planetmaker, Terkhen, Yexo a ďalší. {SILVER}Pozri ReadMe pre viac informácií, vrátane ako použiť FIRS. {BLACK}Licencia: GPL v2."
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/grf/lang/spanish_MX.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}Conjunto de reemplazo de industrias comunitarias de CIRS{}{BLACK}Un fork de FIRS mantenido por la comunidad, creado originalmente por andythenorth, FooBar, planetmaker, Terkhen y Yexo, con la ayuda de muchas otras personas. {SILVER}Consulta el sitio web para obtener más información, incluido cómo usar CIRS. {BLACK}Licencia: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Conjunto de reemplazo de industrias comunitarias de CIRS",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Creado por andythenorth, FooBar, planetmaker, Terkhen y Yexo, con colaboración de muchos otros. {SILVER}Consulta el archivo Léeme para más información, incluyendo cómo usar FIRS. {BLACK}Licencia: GPL v2."
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En community-underhållen fork av FIRS, ursprungligen skapad av andythenorth, FooBar, planetmaker, Terkhen och Yexo, med hjälp från många andra. {SILVER}Se webbplatsen för mer information, inklusive hur man använder CIRS. {BLACK}Licens: GPL v2.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)",
+   "old_firs_name"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Community-Industri-Ersättningspaket",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS Industry Replacement Set{}{BLACK}Skapat av andythenorth, FooBar, planetmaker, Terkhen och Yexo, med hjälp av många andra. {SILVER}Se \"readme\"-filen för mer information, inklusive om hur man använder FIRS. {BLACK}Licens: GPL v2."
+ },
+ {
+  "lang": "traditional_chinese",
+  "file": "src/grf/lang/traditional_chinese.toml",
+  "key": "STR_GRF_DESC.base",
+  "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+  "tr": "{ORANGE}CIRS 社區產業替換套組{}{BLACK}一個由社區維護的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 開發，並得到許多其他人的協助。{SILVER}請參閱網站以取得更多資訊，包括如何使用 CIRS。{BLACK}授權：GPL v2。",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+1)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS 社區產業替換套組",
+  "note": "这是模组简介：现在是名为 CIRS 的社区维护分支（community-maintained fork of FIRS）。标题与正文里凡英语写 CIRS 处必须用 CIRS，只有 'fork of FIRS' 里的 FIRS 指上游项目应保留；必须译出 'See website for more information, including how to use CIRS' 这层意思。",
+  "tr_before": "{ORANGE}FIRS工業擴展包{}{BLACK}由andythenorth, FooBar, planetmaker, Terkhen and Yexo以及其他貢獻者呈獻。 {SILVER}查看readme獲取更多信息，其中包括怎樣使用FIRS. {BLACK}License: GPL v2."
+ },
+ {
+  "lang": "belarusian",
+  "file": "src/docs/lang/belarusian.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Адсочванне ў верхнім патоку",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Набор CIRS для замены аб’ектаў прамысловасці супольнасці",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Адсочванне upstream"
+ },
+ {
+  "lang": "czech",
+  "file": "src/grf/lang/czech.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Každá ekonomie nabízí odlišnou kombinaci nákladů a odvětví.{}{}Pro hráče, kteří chtějí jednoduché hraní, obsahují {SILVER}základní {BLACK}ekonomie méně odvětví a nákladů než ostatní ekonomie CIRS.{}{}Webová stránka CIRS poskytuje podrobné informace o každé ekonomii.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Nahradní sada komunitního průmyslu CIRS",
+  "note": "英语里两处 CIRS 必须译为 CIRS；不要出现英语里没有的 FIRS；保留 {SILVER}/{BLACK}/{}{} 等占位符。",
+  "tr_before": "Každá ekonomika poskytuje různou kombinaci nákladů a průmyslu.{}{} {SILVER}Základní {BLACK}ekonomiky obsahují méně průmyslu a nákladů než ostatní FIRS ekonomiky a jsou tedy vhodné i pro začínající hráče.{}{}Detailní informace ke každé ekonomice jsou k dispozici na stránkách FIRSu."
+ },
+ {
+  "lang": "danish",
+  "file": "src/docs/lang/danish.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Opstrømsopfølgning",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Community-Industri-Ersatzpakke",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Upstream-sporende"
+ },
+ {
+  "lang": "galician",
+  "file": "src/grf/lang/galician.toml",
+  "key": "STR_PARAM_DESC_ECONOMIES.base",
+  "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+  "tr": "Cada economía ofrece unha combinación diferente de cargas e industrias.{}{}Para os xogadores que desexan unha xogabilidade sinxela, as economías {SILVER}Básicas {BLACK}contén menos industrias e cargas que outras economías CIRS.{}{}O sitio web de CIRS ofrece información detallada sobre cada economía.",
+  "reasons": [
+   "cirs_missing",
+   "firs_overuse(+2)"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Conxunto de substitución industrial comunitaria de CIRS",
+  "note": "英语里两处 CIRS 必须译为 CIRS；不要出现英语里没有的 FIRS；保留 {SILVER}/{BLACK}/{}{} 等占位符。",
+  "tr_before": "Cada un dos tipos de economía contén unha combinación diferente de industrias e cargas.{}{}Para xogadores que busquen partidas máis sinxelas, as {BLACK}economías {SILVER}básicas conteñen menos industrias e cargas que outras economías FIRS.{}{} A páxina web de FIRST proporciona información máis detallada sobre cada economía."
+ },
+ {
+  "lang": "japanese",
+  "file": "src/docs/lang/japanese.toml",
+  "key": "DOC_GS_CONFLICTS_P3_LINK",
+  "en": "conflicting newgrfs",
+  "tr": "競合する NewGRF",
+  "reasons": [
+   "conflicting_newgrfs",
+   "english_case_only"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS コミュニティ産業置換セット",
+  "note": "必须译成目标语言，不要只改大小写；NewGRF 作为专有名词保留。",
+  "tr_before": "conflicting newGRFs"
+ },
+ {
+  "lang": "latin",
+  "file": "src/docs/lang/latin.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Rastrellatio superioris",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Complementum Industrialium Communium Substitutionis",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Vestigium Upstream"
+ },
+ {
+  "lang": "polish",
+  "file": "src/docs/lang/polish.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Śledzenie zmian w głównym repozytorium",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Zestaw zastępczy dla społeczności przemysłowej CIRS",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Śledzenie upstream"
+ },
+ {
+  "lang": "tamil",
+  "file": "src/grf/lang/tamil.toml",
+  "key": "STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit",
+  "en": "{SIGNED_WORD} crate{P 0 \"\" s} of engineering supplies",
+  "tr": "{SIGNED_WORD} பொறியியல் தேவைப்பொருட்கள் பெட்டி{P 0 \"\" s}",
+  "reasons": [
+   "firs_overuse(+1)"
+  ],
+  "work_index": 464,
+  "in_work": true,
+  "name_hint": "CIRS சமூகத் தொழில் மாற்றுத் தொகுப்பு",
+  "note": "当前译文里混入了多余的 FIRS 一词，必须去掉；忠实译出 crate of ... supplies（……补给箱），保留 {SIGNED_WORD} 与 {P 0  s} 占位符。",
+  "tr_before": "{SIGNED_WORD} FIRS பொறியியல் பொருட்கள் பெட்டி{P 0 \"\" s}"
+ },
+ {
+  "lang": "tamil",
+  "file": "src/grf/lang/tamil.toml",
+  "key": "STR_CARGO_FARM_SUPPLIES.cargo_unit",
+  "en": "{SIGNED_WORD} crate{P 0 \"\" s} of farm supplies",
+  "tr": "{SIGNED_WORD} விவசாயப் பொருட்கள் பெருக்குண்டு{P 0 \"\" s}",
+  "reasons": [
+   "firs_overuse(+1)"
+  ],
+  "work_index": 465,
+  "in_work": true,
+  "name_hint": "CIRS சமூகத் தொழில் மாற்றுத் தொகுப்பு",
+  "note": "当前译文里混入了多余的 FIRS 一词，必须去掉；忠实译出 crate of ... supplies（……补给箱），保留 {SIGNED_WORD} 与 {P 0  s} 占位符。",
+  "tr_before": "{SIGNED_WORD} FIRS பண்ணைப் பொருட்கள் பெட்டி{P 0 \"\" s}"
+ },
+ {
+  "lang": "belarusian",
+  "file": "src/docs/lang/belarusian.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Поўная гісторыя git FIRS захоўваецца, таму будучыя змены ў верхнім патоку можна будзе аб’яднаць, а не ствараць асобны фарк.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Набор CIRS для замены аб’ектаў прамысловасці супольнасці",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Поўная гісторыя git FIRS захоўваецца, таму будучыя змены upstream могуць быць аб'яднаны, а не адгалінаваны."
+ },
+ {
+  "lang": "danish",
+  "file": "src/docs/lang/danish.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Den fuldstændige FIRS git-historik bevares, så fremtidige opstrømsændringer kan slås sammen i stedet for at blive forket væk.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Community-Industri-Ersatzpakke",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Den fulde FIRS git-historik bevares, så fremtidige upstream-ændringer kan flettes i stedet for at blive fra-forket."
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "De volledige FIRS git-geschiedenis wordt bewaard, zodat toekomstige wijzigingen van de oorspronkelijke bron kunnen worden samengevoegd in plaats van afgesplitst.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Community-Industrie-Ersatzset",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "De volledige FIRS git-geschiedenis wordt behouden, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van weggeforkt."
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Het volgen van de oorspronkelijke bron",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Community-Industrie-Ersatzset",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Upstream-volging"
+ },
+ {
+  "lang": "german",
+  "file": "src/docs/lang/german.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Die vollständige FIRS-Git-Historie wird beibehalten, sodass zukünftige Änderungen aus dem Hauptprojekt zusammengeführt werden können, anstatt in einer separaten Fork-Instanz weiterentwickelt zu werden.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS - Community Industry Replacement Set",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Der vollständige FIRS-Git-Verlauf wird beibehalten, sodass künftige Upstream-Änderungen zusammengeführt und nicht weggeforkt werden können."
+ },
+ {
+  "lang": "german",
+  "file": "src/docs/lang/german.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Verfolgung des Hauptprojekts",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS - Community Industry Replacement Set",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Upstream-Verfolgung"
+ },
+ {
+  "lang": "italian",
+  "file": "src/docs/lang/italian.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "La cronologia completa di FIRS git viene preservata, in modo che le future modifiche dalla fonte originale possano essere integrate anziché gestite tramite un fork separato.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS – Set di sostituzione per industrie comunitarie",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "L'intera cronologia git di FIRS è preservata, così i futuri cambiamenti upstream possono essere uniti invece di essere separati con un fork."
+ },
+ {
+  "lang": "italian",
+  "file": "src/docs/lang/italian.toml",
+  "key": "DOC_HOME_WHY_3_TITLE",
+  "en": "Upstream tracking",
+  "tr": "Tracciamento dalla fonte originale",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS – Set di sostituzione per industrie comunitarie",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Tracciamento upstream"
+ },
+ {
+  "lang": "latin",
+  "file": "src/docs/lang/latin.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Historia integra FIRS git servatur, ut mutationes posteriores superioris coniungi possint potius quam in ramum separatum divellantur.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "CIRS Complementum Industrialium Communium Substitutionis",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Tota historia git FIRS conservatur, ita mutationes futurae upstream coniungi possunt potius quam furculari."
+ },
+ {
+  "lang": "polish",
+  "file": "src/docs/lang/polish.toml",
+  "key": "DOC_HOME_WHY_3_DESC",
+  "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+  "tr": "Pełna historia git FIRS jest zachowana, dzięki czemu przyszłe zmiany w głównym repozytorium można będzie połączyć, zamiast tworzyć od niej osobny fork.",
+  "reasons": [
+   "upstream"
+  ],
+  "work_index": null,
+  "in_work": false,
+  "name_hint": "Zestaw zastępczy dla społeczności przemysłowej CIRS",
+  "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。",
+  "tr_before": "Pełna historia git FIRS jest zachowywana, dzięki czemu przyszłe zmiany z upstream mogą być scalane zamiast być rozwidlane."
+ }
+]

@@ -1,0 +1,981 @@
+[
+ {
+  "file": "src/docs\\extra_strings_catalan.toml",
+  "lang": "catalan",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, flors, lingots i lloses.",
+  "terms": [
+   "billets"
+  ],
+  "fix_terms": [
+   "billets"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_catalan.toml",
+  "lang": "catalan",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, flors, lingots i lloses.",
+  "terms": [
+   "billets"
+  ],
+  "fix_terms": [
+   "billets"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_fr.toml",
+  "lang": "french",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billettes, blooms, lingots et plaques.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_fr.toml",
+  "lang": "french",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billettes, blooms, lingots et plaques.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_french.toml",
+  "lang": "french",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, blooms, lingots et dalles.",
+  "terms": [
+   "billets",
+   "blooms"
+  ],
+  "fix_terms": [
+   "billets",
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_french.toml",
+  "lang": "french",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, blooms, lingots et dalles.",
+  "terms": [
+   "billets",
+   "blooms"
+  ],
+  "fix_terms": [
+   "billets",
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_galician.toml",
+  "lang": "galician",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billetes, blooms, lingotes e placas.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_galician.toml",
+  "lang": "galician",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billetes, blooms, lingotes e placas.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_german.toml",
+  "lang": "german",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, Blöme, Barren und Platten.",
+  "terms": [
+   "billets"
+  ],
+  "fix_terms": [
+   "billets"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_german.toml",
+  "lang": "german",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, Blöme, Barren und Platten.",
+  "terms": [
+   "billets"
+  ],
+  "fix_terms": [
+   "billets"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_portuguese.toml",
+  "lang": "portuguese",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Bilhetes, blooms, lingotes e lajes.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_portuguese.toml",
+  "lang": "portuguese",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Bilhetes, blooms, lingotes e lajes.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_pt.toml",
+  "lang": "portuguese",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Bilhetes, blooms, lingotes e lajes.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_pt.toml",
+  "lang": "portuguese",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Bilhetes, blooms, lingotes e lajes.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_spanish_MX.toml",
+  "lang": "spanish_MX",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billetes, blooms, lingotes y losas.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_spanish_MX.toml",
+  "lang": "spanish_MX",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billetes, blooms, lingotes y losas.",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_welsh.toml",
+  "lang": "welsh",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, blooms, ingots a slabs.",
+  "terms": [
+   "ingots",
+   "slabs",
+   "billets",
+   "blooms"
+  ],
+  "fix_terms": [
+   "ingots",
+   "slabs",
+   "billets",
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_welsh.toml",
+  "lang": "welsh",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, blooms, ingots a slabs.",
+  "terms": [
+   "ingots",
+   "slabs",
+   "billets",
+   "blooms"
+  ],
+  "fix_terms": [
+   "ingots",
+   "slabs",
+   "billets",
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ]
+ },
+ {
+  "file": "src/docs\\extra_strings_welsh.toml",
+  "lang": "welsh",
+  "key": "CARGO_INFO_PIG_IRON.base",
+  "en": "Basic iron from a blast furnace, as molten liquid or solid ingots.",
+  "tr": "Haearn sylfaenol o ffwrnys ffrwydro, fel hylif wedi'i lewedu neu ingots cyfoethog.",
+  "terms": [
+   "ingots"
+  ],
+  "fix_terms": [
+   "ingots"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basiese yster uit ’n blaasoven, as gesmelte vloeistof of vaste ingote."
+   },
+   {
+    "lang": "arabic",
+    "tr": "حديد أساسي من فرن الصهر، على شكل سائل منصهر أو سبائك صلبة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "حديد أساسي من فرن الصهر، على شكل سائل منصهر أو سبائك صلبة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Асноўнае жалеза з доменнай печы ў стане расплаўленай вадкасці або цвёрдых сліткаў."
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\catalan.toml",
+  "lang": "catalan",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name",
+  "en": "Billets & Blooms",
+  "tr": "Billets i flors",
+  "terms": [
+   "billets"
+  ],
+  "fix_terms": [
+   "billets"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette & Bloeiings"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان وسبائك أولية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты і блумы"
+   },
+   {
+    "lang": "croatian",
+    "tr": "Lijevani poluproizvodi i blovi"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\catalan.toml",
+  "lang": "catalan",
+  "key": "STR_CARGO_STEEL_INGOTS.cargo_unit",
+  "en": "{WEIGHT} of steel ingots",
+  "tr": "{WEIGHT} d'ingots d'acer",
+  "terms": [
+   "ingots"
+  ],
+  "fix_terms": [
+   "ingots"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "{WEIGHT} staalblokke"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{WEIGHT} من سبائك الفولاذ"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{WEIGHT} сталёвых сліткаў"
+   },
+   {
+    "lang": "croatian",
+    "tr": "{WEIGHT} čeličnih ingota"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\french.toml",
+  "lang": "french",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name",
+  "en": "Billets & Blooms",
+  "tr": "Billettes et blooms",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette & Bloeiings"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان وسبائك أولية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты і блумы"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Billets i flors"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\french.toml",
+  "lang": "french",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit",
+  "en": "{WEIGHT} of billets & blooms",
+  "tr": "{WEIGHT} de billettes et blooms",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "{WEIGHT} van billette en bloeisels"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{WEIGHT} من السبائك والكتل المعدنية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{WEIGHT} сліткаў і слітак-блумоў"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{WEIGHT} de lingots i blocs de fosa"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\gaelic.toml",
+  "lang": "gaelic",
+  "key": "STR_CARGO_FARM_SUPPLIES.cargo_unit",
+  "en": "{SIGNED_WORD} crate{P 0 \"\" s} of farm supplies",
+  "tr": "{SIGNED_WORD} crate{P 0 \"\" s} de sholarachaidhean tuathanais",
+  "terms": [
+   "crate"
+  ],
+  "fix_terms": [
+   "crate"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "{SIGNED_WORD} krat{P 0 \"\" te} plaas benodighede"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{SIGNED_WORD} صندوق{P 0 \"\" s} من مستلزمات المزرعة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{SIGNED_WORD} адзін{P 0 ка ак \"\"} агратэхсродкаў"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{SIGNED_WORD} caix{P 0 a es} de subministraments agrícoles"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\galician.toml",
+  "lang": "galician",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name",
+  "en": "Billets & Blooms",
+  "tr": "Billetes e blooms",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette & Bloeiings"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان وسبائك أولية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты і блумы"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Billets i flors"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\latin.toml",
+  "lang": "latin",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit",
+  "en": "{WEIGHT} of billets & blooms",
+  "tr": "{WEIGHT} billetes & blooms",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "{WEIGHT} van billette en bloeisels"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{WEIGHT} من السبائك والكتل المعدنية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{WEIGHT} сліткаў і слітак-блумоў"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{WEIGHT} de lingots i blocs de fosa"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\portuguese.toml",
+  "lang": "portuguese",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name",
+  "en": "Billets & Blooms",
+  "tr": "Bilhetes e blooms",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette & Bloeiings"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان وسبائك أولية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты і блумы"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Billets i flors"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\portuguese_BR.toml",
+  "lang": "portuguese_BR",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit",
+  "en": "{WEIGHT} of billets & blooms",
+  "tr": "{WEIGHT} de lingotes e blooms",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "{WEIGHT} van billette en bloeisels"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{WEIGHT} من السبائك والكتل المعدنية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{WEIGHT} сліткаў і слітак-блумоў"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{WEIGHT} de lingots i blocs de fosa"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\spanish_MX.toml",
+  "lang": "spanish_MX",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name",
+  "en": "Billets & Blooms",
+  "tr": "Billetes y blooms",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette & Bloeiings"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان وسبائك أولية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты і блумы"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Billets i flors"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\welsh.toml",
+  "lang": "welsh",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name",
+  "en": "Billets & Blooms",
+  "tr": "Billets a Blooms",
+  "terms": [
+   "billets",
+   "blooms"
+  ],
+  "fix_terms": [
+   "billets",
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette & Bloeiings"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان وسبائك أولية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты і блумы"
+   },
+   {
+    "lang": "croatian",
+    "tr": "Lijevani poluproizvodi i blovi"
+   }
+  ]
+ },
+ {
+  "file": "src/grf/lang\\welsh.toml",
+  "lang": "welsh",
+  "key": "STR_CARGO_STEEL_INGOTS.name",
+  "en": "Steel Ingots",
+  "tr": "Ingots Dur",
+  "terms": [
+   "ingots"
+  ],
+  "fix_terms": [
+   "ingots"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Staalkluise"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سبائك الفولاذ"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Сталевыя сліткі"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Llengots d'acer"
+   }
+  ]
+ }
+]

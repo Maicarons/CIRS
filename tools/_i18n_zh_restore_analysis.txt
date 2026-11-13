@@ -1,0 +1,83 @@
+FILE src/grf/lang/simplified_chinese.toml keys=572 restore=365
+  HEAD with FIRS but English no FIRS: 0 []
+  placeholder mismatch HEAD vs English: 0 []
+  HEAD was English, keep current translation: 0
+  samples of restore:
+    STR_GRF_NAME.base
+      HEAD: CIRS 社区产业替换集
+      CUR : CIRS 社区工业替换套装
+    STR_GRF_DESC.base
+      HEAD: {ORANGE}CIRS 社区产业替换集{}{BLACK}这是 FIRS 的社区维护分支，原版 FIRS 由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 创作，并得到许多其他人的帮助。{SILVER}请访问网站获取更多信息，包括如何使用 CIRS。{BLACK}许可证：
+      CUR : {ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 开发，并得到了许多其他人的帮助。{SILVER}请访问网站了解更多信息，包括如何使用 CIRS。{BLACK}许可证：GPL
+    STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY.base
+      HEAD: 渔场、石油钻井平台和疏浚区距离海岸的最大距离（以格为单位）。
+      CUR : 渔场、钻井平台、疏浚区距离海岸的最大距离。
+    STR_PARAM_DESC_ECONOMIES.base
+      HEAD: 每种经济模式都提供不同的货物与产业组合。{}{}对于想要简单玩法的玩家，{SILVER}基础{BLACK}经济模式所含的产业和货物比其他 CIRS 经济模式更少。{}{}CIRS 网站提供了每种经济模式的详细信息。
+      CUR : 每种经济模式对应不同的货物和工业组合。{}{}休闲玩家可以选择简单模式，{SILVER}'基础'{BLACK}经济模式的货物和工业种类比'CIRS'经济模式的种类要少。{}{}CIRS主页提供了每种经济模式更详细的介绍。
+    STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY.base
+      HEAD: 海洋产业距离海岸的最大距离（格）
+      CUR : 海洋产业距离海岸的最大距离。
+    STR_PARAM_NAME_ECONOMIES.base
+      HEAD: 经济模式
+      CUR : 经济
+FILE src/gs/lang/simplified_chinese.toml keys=44 restore=17
+  HEAD with FIRS but English no FIRS: 0 []
+  placeholder mismatch HEAD vs English: 0 []
+  HEAD was English, keep current translation: 0
+  samples of restore:
+    STR_WELCOME.base
+      HEAD: 你好，{COMPANY}！{}{}你正在游玩附带 CIRS 测试 GS 的游戏{}{}此 GS 的 Git 版本为 {NUM}
+      CUR : 你好 {COMPANY}！{}{}你正在使用 CIRS 测试 GS 进行游戏{}{}此 GS 的 Git 版本为 {NUM}
+    STR_CABBAGE_TOWN_HAPPY.base
+      HEAD: 快乐
+      CUR : 幸福
+    STR_CABBAGE_TOWN_UNHAPPY.base
+      HEAD: 不快乐
+      CUR : 不幸福
+    STR_CABBAGE_TOWN.base
+      HEAD: 城镇{STRING}{}{}要了解此城镇的更多信息（包括增长与幸福度要求），请打开故事书，找到 {TOWN} 的页面
+      CUR : 城镇：{STRING}{}{}要了解该城镇的更多信息（包括增长与幸福度要求），请打开故事书，找到 {TOWN} 的页面
+    STR_GRIND_TEST.base
+      HEAD: {BLACK}{RAW_STRING}：{WHITE}{RAW_STRING}
+      CUR : {BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+    STR_GRIND_DELAYED_UPDATE.base
+      HEAD: {BLACK}请注意，除非在 GS 设置中关闭再开启 Grind，否则此内容目前不会刷新
+      CUR : {BLACK}请注意，当前不会刷新，除非在 GS 设置中关闭并重新开启 Grind
+FILE src/docs/lang/simplified_chinese.toml keys=220 restore=84
+  HEAD with FIRS but English no FIRS: 0 []
+  placeholder mismatch HEAD vs English: 0 []
+  HEAD was English, keep current translation: 0
+  samples of restore:
+    .DOC_TITLE
+      HEAD: CIRS 社区产业替换集
+      CUR : CIRS 社区工业替换套装
+    .DOC_SUBTITLE
+      HEAD: 为 OpenTTD 带来全新的产业与货物
+      CUR : OpenTTD 的新产业与货物
+    .DOC_NAV_ECONOMIES
+      HEAD: 经济模式
+      CUR : 经济
+    .DOC_NAV_SWITCH_LANGUAGE
+      HEAD: English
+      CUR : 切换语言
+    .DOC_TOGGLE_NAV
+      HEAD: 切换导航栏
+      CUR : 切换导航
+    .DOC_NO_CONTENT
+      HEAD: 哎呀——出于某种原因这里没有内容。构建过程可能出了点问题。
+      CUR : 哎呀——由于某种原因没有内容。构建过程中可能出了点问题。
+RESTORE total=466 mapped_indices=218 no_work_ref=244 index_conflicts=3
+  CONFLICT i=337 values=['{TINYFONT}碳', '{TINYFONT}漆', '{TINYFONT}工']
+  CONFLICT i=191 values=['成套设备与机械', '成套设备']
+  CONFLICT i=69 values=['低温空分厂', '低温厂']
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_GRF_DESC.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_DESC_ECONOMIES.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_ECONOMIES.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS.base
+  NO_WORK_REF src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS.base

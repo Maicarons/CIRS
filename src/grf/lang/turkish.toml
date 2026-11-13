@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x3e"
+plural = "1"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS Topluluk Sanayi Değiştirme Seti"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS Topluluk Endüstri Değiştirme Seti{}{BLACK}FIRS'in topluluk tarafından sürdürülen bir çatallanmasıdır; orijinal olarak andythenorth, FooBar, planetmaker, Terkhen ve Yexo tarafından, diğer birçok kişinin de yardımıyla oluşturulmuştur. {SILVER}CIRS'in nasıl kullanılacağı da dahil olmak üzere daha fazla bilgi için web sitesine bakın. {BLACK}Lisans: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Balıkçılık alanlarının, petrol platformlarının ve tarama sahalarının kıyıdan maksimum mesafesi (kare cinsinden)."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Her ekonomi, farklı bir kargo ve sanayi kombinasyonu sunar.{}{}Basit bir oyun deneyimi isteyen oyuncular için, {SILVER}Temel {BLACK}ekonomiler diğer CIRS ekonomilerine göre daha az sanayi ve kargo içerir.{}{}CIRS web sitesi her ekonomi hakkında ayrıntılı bilgi sunar."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Deniz endüstrilerinin maksimum kıyı mesafesi (karo cinsinden)"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Ekonomi"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Sınır yok"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Geliştirilmiş birincil üretim için gerekli tedarik sandıkları (varsayılan 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Gung-ho birincil üretim için gerekli tedarik sandıkları (varsayılan 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Yeterli koli teslim edilirse, çiftlikler, madenler ve benzeri endüstriler önce {SILVER}Geliştirilmiş{BLACK}, ardından da {SILVER}Gung-ho{BLACK} olduğunda üretimlerini artıracaktır.  {}{}Varsayılan değerler iyidir, ancak gerekirse bunları burada değiştirebilirsiniz.  {}{}Liman tipi endüstriler için kargo gereksinimleri, burada ayarlanan değerlerin 8 katı olacaktır."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Geliştirilmiş birincil üretim seviyesi (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho birincil üretim seviyesi (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Tedarik gereksinimleri karşılandığında çiftliklerde, madenlerde ve benzeri sanayilerdeki üretim ({SILVER}Normal {BLACK}üretim seviyesinin yüzdesi olarak)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Basit Ilıman"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Arktik Temel"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tropic Basic"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Sıcak Bir Ülkede"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Çelik kasabası"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS peyzaj nesneleri"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS, oyuncuların belirli sanayileri daha büyük göstermek için yerleştirebileceği bir dizi peyzaj nesnesi içerir. Peyzaj nesnelerinin oyun mekanikleri üzerinde hiçbir etkisi yoktur. Peyzaj nesneleri açılıp kapatılabilir."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(isteğe bağlı)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(dahil)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Maksimum üretim için gerekli {WHITE}en az bir {BLACK} kargoyu sağlayın."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Maksimum üretim hızı için, gerekli {WHITE}her iki {BLACK}kargoyu da her üç dakikada en az bir kez sağlayın."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Maksimum üretim hızı için, gerekli {WHITE}tüm {BLACK}kargoları her üç dakikada en az bir kez sağlayın."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Maksimum üretim hızı için, gerekli {WHITE}en az iki {BLACK}kargodan en az birini her üç dakikada en az bir kez sağlayın."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Maksimum üretim hızı için, gerekli {WHITE}en az üç {BLACK}kargodan en az birini her üç dakikada en az bir kez sağlayın."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Üretim, kasaba nüfusuyla orantılıdır. Her dakika en az {WHITE}{SIGNED_WORD} birim{BLACK} ve en fazla {WHITE}{SIGNED_WORD} birim{BLACK} kargo üretilecektir."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Mevcut üretim: {YELLOW}Normal {}{}{BLACK}{WHITE}Geliştirilmiş {BLACK}üretim için her üç dakikada en az bir kez {SIGNED_WORD} koli malzeme teslim edin.{}{WHITE}Gung-ho {BLACK}üretim için {SIGNED_WORD} koli teslim edin."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Mevcut üretim: {YELLOW}Geliştirilmiş {}{}{BLACK}Bu seviyeyi korumak için her üç dakikada en az bir kez {SIGNED_WORD} sandık malzeme teslim edin.{}{WHITE}Gung-ho {BLACK}üretimi için {SIGNED_WORD} sandık teslim edin."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Mevcut üretim: {YELLOW}Gung-ho {}{}{BLACK}Bu seviyeyi korumak için her üç dakikada en az bir kez {SKIP}{SIGNED_WORD} sandık malzeme teslim edin."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Mevcut üretim: {YELLOW}Normal {}{}{BLACK}{WHITE}Geliştirilmiş {BLACK}üretim için her üç dakikada en az bir kez {SIGNED_WORD} birim kargo teslim edin.{}{WHITE}Gung-ho {BLACK}üretim için {SIGNED_WORD} birim teslim edin."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Mevcut üretim: {YELLOW}Geliştirilmiş {}{}{BLACK}Bu seviyeyi korumak için her üç dakikada en az bir kez {SIGNED_WORD} birim kargo teslim edin.{}{WHITE}Gung-ho {BLACK}üretimi için {SIGNED_WORD} birim teslim edin."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Mevcut üretim: {YELLOW}Gung-ho {}{}{BLACK}Bu seviyeyi korumak için her üç dakikada en az bir kez {SKIP}{SIGNED_WORD} birim kargo teslim edin."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS, OpenTTD 1.7.0 gerektirir (veya trunk derlemelerini kullananlar için r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Uyumlu olmayan set: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Uyuşmaz parametre: {ORANGE}CIRS ile çalışması için CanSet parametresi 2'nin 0 olması gerekir."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Uyuşmaz parametre: {ORANGE}NA City Set parametresi 2'nin CIRS ile çalışması için 0 olması gerekir."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Uyuşmaz sürüm: {ORANGE}Total Town Replacement Set'in sürümü 3.11 veya daha yeni olmalıdır."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "kar hattının altına yerleştirilmelidir."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "dik yamaçlara yerleştirilemez."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Konum: {YELLOW}Kar üzerinde veya çöllerde finanse edilemez."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Konum: {YELLOW}Kar üzerinde veya çöllerde finanse edilemez."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Konum: {YELLOW}Kar üzerinde veya çöllerde finanse edilemez."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Konum: {YELLOW}Kar üzerinde veya çöllerde finanse edilemez."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Konum: {YELLOW}Çöllerde finanse edilemez."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Konum: {YELLOW}Kar üzerinde finanse edilemez."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Konum: {YELLOW}Yalnızca kar üzerinde finanse edilebilir."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Konum: {YELLOW}Kar üzerinde veya çöllerde finanse edilemez."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Konum: {YELLOW}Kar üzerinde veya çöllerde finanse edilemez."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Konum: {YELLOW}Kar üzerinde veya çöllerde finanse edilemez."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Asit"
+cargo_unit = "{VOLUME} asit"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Agregalar"
+cargo_unit = "{WEIGHT} agregalar"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Alüminyum"
+cargo_unit = "{WEIGHT} alüminyum"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alümina"
+cargo_unit = "{WEIGHT} alümina"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Amonyak ve Nitrik Ürünler"
+cargo_unit = "{VOLUME} amonyak ve nitrik ürünler"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhidrit Kaya"
+cargo_unit = "Anhidrit kayasının {WEIGHT} ağırlığı"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Elmalar"
+cargo_unit = "Elmanın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Fasulye"
+cargo_unit = "{WEIGHT} fasulye"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_BITUMEN]
+name = "Bütil"
+cargo_unit = "{VOLUME} zift"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Yapı Malzemesi"
+cargo_unit = "{WEIGHT} yapı malzemesi"
+cid = "{TINYFONT}YM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Karbon Siyahı"
+cargo_unit = "Karbon siyahının {WEIGHT} ağırlığı"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Kasava"
+cargo_unit = "Kasava'nın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Dökme Demir"
+cargo_unit = "Dökme demirin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Çimento"
+cargo_unit = "Çimentonun {WEIGHT} ağırlığı"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Kimyasal Aramaddeler"
+cargo_unit = "{VOLUME} kimyasal ara ürünler"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Kimyasal"
+cargo_unit = "{VOLUME} kimyasal"
+cid = "{TINYFONT}KM"
+
+[STR_CARGO_CHLORINE]
+name = "Klor"
+cargo_unit = "{VOLUME} klor"
+cid = "{TINYFONT}KM"
+
+[STR_CARGO_CLAY]
+name = "Kil"
+cargo_unit = "{WEIGHT} kil"
+cid = "{TINYFONT}KL"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Temizlik Maddeleri"
+cargo_unit = "Temizlik maddelerinin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kahve"
+cargo_unit = "{WEIGHT} çuval kahve"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_COAL_TAR]
+name = "Kömür Katranı"
+cargo_unit = "{VOLUME} kömür katranı"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Kok"
+cargo_unit = "Kok'un {WEIGHT} ağırlığı"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Hassas Bileşenler"
+cargo_unit = "Hassas bileşenlerin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Beton Ürünleri"
+cargo_unit = "Beton ürünlerinin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Bakır"
+cargo_unit = "{WEIGHT} bakır"
+cid = "{TINYFONT}BA"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Yenilebilir Yağ"
+cargo_unit = "{VOLUME} yenilebilir yağ"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Elektrik Parçaları"
+cargo_unit = "Elektrik parçalarının {WEIGHT} ağırlığı"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Mühendislik Malzemeleri"
+cargo_unit = "{SIGNED_WORD} sandık mühendislik malzemesi"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Patlayıcılar"
+cargo_unit = "Patlayıcıların {WEIGHT} ağırlığı"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferroalejler"
+cargo_unit = "Ferro alaşımların {WEIGHT} ağırlığı"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Balık ve Deniz Ürünleri"
+cargo_unit = "Balık ve deniz ürünlerinin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}BA"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Çiftlik Malzemeleri"
+cargo_unit = "{SIGNED_WORD} sandık tarım malzemesi"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "Gübre"
+cargo_unit = "Gübrelerin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Un ve Nişasta"
+cargo_unit = "Un ve nişastanın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Gıda Katkı Maddeleri"
+cargo_unit = "Gıda katkı maddelerinin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Gıda ve İçecekler"
+cargo_unit = "Yiyecek ve içeceklerin {WEIGHT} ağırlığı"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Dövme ve Döküm Parçalar"
+cargo_unit = "Dövme ve döküm parçaların {WEIGHT} ağırlığı"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Dondurulmuş Gıda"
+cargo_unit = "Dondurulmuş gıdaların {WEIGHT} ağırlığı"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Meyve"
+cargo_unit = "{WEIGHT} meyve"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Cam Ürünleri"
+cargo_unit = "Cam ürünlerin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Donanım ve Bitişler"
+cargo_unit = "Donanım ve kaplamaların {WEIGHT} ağırlığı"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Endüstriyel Karbonlar"
+cargo_unit = "Endüstriyel karbonların {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Endüstriyel Gazlar"
+cargo_unit = "{VOLUME} endüstriyel gaz"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Çin Kil"
+cargo_unit = "Çin kilinin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Hafif Hidrokarbonlar"
+cargo_unit = "{VOLUME} hafif hidrokarbon"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Kireçtaşı"
+cargo_unit = "Kireçtaşının {WEIGHT} ağırlığı"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Kütükler"
+cargo_unit = "Kütüklerin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Sodyum Hidroksit"
+cargo_unit = "{VOLUME} sodyum hidroksit"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} metanol"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Süt"
+cargo_unit = "{VOLUME} süt"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_MANGANESE]
+name = "Manganez"
+cargo_unit = "Manganın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Et"
+cargo_unit = "Etin {WEIGHT} ağırlığı"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Baryum ve Florit"
+cargo_unit = "Baryt ve floritin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Mineral Dolgu Maddeleri"
+cargo_unit = "Mineral dolgu maddelerinin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Ham Şeker ve Melas"
+cargo_unit = "Ham şekerin ve melasın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitrat"
+cargo_unit = "{WEIGHT} nitrat"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Azot"
+cargo_unit = "{VOLUME} azot"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Yemişler"
+cargo_unit = "Kuruyemişlerin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Oksijen"
+cargo_unit = "{VOLUME} oksijen"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Ambalajlama"
+cargo_unit = "Ambalajın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Boya ve Kaplamalar"
+cargo_unit = "{VOLUME} boyalar ve kaplamalar"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Turba"
+cargo_unit = "Turba torfunun {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Benzin"
+cargo_unit = "{VOLUME} benzin"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "Depolama Tankları ve Boru Hatları"
+cargo_unit = "Depo tanklarının ve boru hatlarının {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfat"
+cargo_unit = "{WEIGHT} fosfat"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Fosforik Asit"
+cargo_unit = "{VOLUME} fosforik asit"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Pig Demir"
+cargo_unit = "Pig demirinin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plastikler ve Rezinler"
+cargo_unit = "Plastiklerin ve reçinelerin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Tesis ve Makineler"
+cargo_unit = "Tesis ve makinelerin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Potas"
+cargo_unit = "Potasın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Süreç Kimyasalları"
+cargo_unit = "İşlem kimyasallarının {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pompalar ve Vanalar"
+cargo_unit = "Pompaların ve valflerin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pirit"
+cargo_unit = "{WEIGHT} pirit"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Söndürülmemiş Kireç"
+cargo_unit = "Söndürülmemiş kirecin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Armatür Çeliği"
+cargo_unit = "Armatürün {WEIGHT} ağırlığı"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Tuz"
+cargo_unit = "Tuzun {WEIGHT} ağırlığı"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Kum"
+cargo_unit = "{WEIGHT} kum"
+cid = "{TINYFONT}KU"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Hurda Metal"
+cargo_unit = "{WEIGHT} hurda metal"
+cid = "{TINYFONT}HM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Sızdırmazlık Elemanları, Hortumlar ve Kayışlar"
+cargo_unit = "Mühürlerin, hortumların ve kayışların {WEIGHT} ağırlığı"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Cüruf"
+cargo_unit = "Cürufun {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Soda Külü"
+cargo_unit = "Soda külünün {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Çelik"
+cargo_unit = "Çeliğin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billetler ve Bloomlar"
+cargo_unit = "Billet ve bloom'un {WEIGHT} ağırlığı"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Çelik Kütükler"
+cargo_unit = "Çelik külçelerinin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Tüccar Barı"
+cargo_unit = "Ticari külçenin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Çelik Boru"
+cargo_unit = "Çelik borunun {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Çelik Levha"
+cargo_unit = "Çelik levhanın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Çelik Sac ve Şerit"
+cargo_unit = "Çelik sac ve şeridin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Çelik Kütük Parçası"
+cargo_unit = "Çelik dökme levhanın {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Çelik Tüp"
+cargo_unit = "Çelik tüpün {WEIGHT} ağırlığı"
+cid = "{TINYFONT}TŞ"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Çelik Tel Çubuğu"
+cargo_unit = "Çelik tel çubuğunun {WEIGHT} ağırlığı"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Yapısal Çelik"
+cargo_unit = "Yapısal çeliğin {WEIGHT} ağırlığı"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Kükürt"
+cargo_unit = "{WEIGHT} kükürt"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Sülfürik Asit"
+cargo_unit = "{VOLUME} sülfürik asit"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Ahşap Ürünler"
+cargo_unit = "{WEIGHT} kereste ürünleri"
+cid = "{TINYFONT}KE"
+
+[STR_CARGO_TIN]
+name = "Kalay"
+cargo_unit = "{WEIGHT} kalay"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Kalaylı Demir Levha"
+cargo_unit = "{WEIGHT} kalay levha"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Lastik Kord"
+cargo_unit = "{WEIGHT} lastik kord"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Lastikler"
+cargo_unit = "{WEIGHT} lastikler"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Sebzeler"
+cargo_unit = "{WEIGHT} sebzeler"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Araç Gövdeleri"
+cargo_unit = "{WEIGHT} araç gövdeleri"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Motorlar ve Aktarma Organları"
+cargo_unit = "Motorların ve aktarma organlarının {WEIGHT} ağırlığı"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Yedek Parça"
+cargo_unit = "{WEIGHT} araç parçaları"
+cid = "{TINYFONT}YP"
+
+[STR_CARGO_VEHICLES]
+name = "Araç"
+cargo_unit = "{WEIGHT} araçlar"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Kaynak Malzemeleri"
+cargo_unit = "{WEIGHT} kaynak sarf malzemeleri"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Ahşap Hamuru"
+cargo_unit = "{WEIGHT} odun hamuru"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Yün"
+cargo_unit = "{SIGNED_WORD} balya yün"
+cid = "{TINYFONT}YN"
+
+[STR_CARGO_ZINC]
+name = "Çinko"
+cargo_unit = "{WEIGHT} çinko"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Çinko Cevheri"
+cargo_unit = "{WEIGHT} çinko cevheri"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "Malın {WEIGHT} ağırlığı"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Alüminyum Tesisi"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Amonyak Kompleksi"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Anhidrit Madeni"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Anhidrit İşlem Tesisi"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Alet Fabrikası"
+
+[STR_IND_ARABLE_FARM]
+base = "Ekilebilir Çiftlik"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Montaj Tesisi"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Kesim ve Çubuk Frezeleme"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Temel Oksijen Fırını"
+
+[STR_IND_BLAST_FURNACE]
+base = "Üst Fırın"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Kontrplak Fabrikası"
+
+[STR_IND_BODY_PLANT]
+base = "Gövde Tesisi"
+
+[STR_IND_BREWERY]
+base = "Bira Fabrikası"
+
+[STR_IND_CIDER_MILL]
+base = "Elma Şırası Değirmeni"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "İnşaat Sahası" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Karbon Siyahı Tesisi"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Selüloz Film İşletmeleri"
+
+[STR_IND_CEMENT_PLANT]
+base = "Çimentocusu"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Kimya Kompleksi"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Patlayıcı Fabrikası"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Klor-alkali Tesisi"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Kil Çukuru"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Kahve Çiftliği"
+
+[STR_IND_COKE_OVEN]
+base = "Kok Fırını"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Beton Santrali"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Parti Kimya Tesisi"
+
+[STR_IND_COPPER_SMELTER]
+base = "Bakır Rafinerisi"
+
+[STR_IND_CRYO_PLANT]
+base = "Kriyo Tesis"
+
+[STR_IND_DAIRY]
+base = "Süt Ürünleri"
+
+[STR_IND_DAIRY_FARM]
+base = "Süt Çiftliği"
+
+[STR_IND_DREDGING_SITE]
+base = "Tarama Alanı"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Elastomer Ürünleri Fabrikası"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Elektrik Ark Fırını"
+
+[STR_IND_ENGINE_PLANT]
+base = "Motor Fabrikası"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Mühendislik İşleri"
+
+[STR_IND_FARM]
+base = "Çiftlik"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Süreç Kimyasalları Tesisi"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Fermentasyon Tesisi"
+
+[STR_IND_FISH_FARM]
+base = "Balık Çiftliği"
+
+[STR_IND_FISHING_GROUND]
+base = "Balıkçılık Alanları"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Balıkçı Limanı"
+
+[STR_IND_GRAIN_MILL]
+base = "Tahıl Değirmeni"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Gıda İşleme Tesisi"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Çelik Dövme ve Dökümhane"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Dondurulmuş Gıda Tesisi"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Mobilya Fabrikası"
+
+[STR_IND_GENERAL_STORE]
+base = "Genel Mağaza"
+
+[STR_IND_GLASS_WORKS]
+base = "Cam Fabrikası"
+
+[STR_IND_HERDING_COOP]
+base = "Hayvan Yetiştiriciliği Kooperatifi"
+
+[STR_IND_HOTEL]
+base = "Oteli"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Dondurulmuş Tatlı Fabrikası"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Çelik Fabrikası"
+
+[STR_IND_SCRAP_YARD]
+base = "Hurdacısı"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Kireç Fırını"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Kireçtaşı Madeni"
+
+[STR_IND_MANGANESE_MINE]
+base = "Manganez Madeni"
+
+[STR_IND_METAL_WORKS]
+base = "Metal Atölyesi"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Mineral Dolgu Maddeleri Tesisi"
+
+[STR_IND_NITRATE_MINE]
+base = "Nitrat Madeni"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Endüstriyel Kimya Tesisi"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Petrol ve Kimya Terminali"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Meyve Bahçesi ve Domuz Çiftliği"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Şişe ve Kutu Fabrikası"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Kağıt Ürünleri Fabrikası"
+
+[STR_IND_PEATLANDS]
+base = "Turba Alanları"
+
+[STR_IND_PETROLPUMP]
+base = "Benzin İstasyonu"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Fosfat Madeni"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Gübre ve Asit Tesisi"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Ticari Fırın"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Boru Atölyesi"
+
+[STR_IND_PLATE_MILL]
+base = "Plaka Değirmeni"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Plastik Kalıplama Fabrikası"
+
+[STR_IND_PORT]
+base = "Liman"
+
+[STR_IND_POTASH_MINE]
+base = "Potas Madeni"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Güç Sistemleri Fabrikası"
+
+[STR_IND_POWER_PLANT]
+base = "Enerji Santrali"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Hassas Parçalar Tesisi"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Üretim Paketleyicisi"
+
+[STR_IND_PYRITE_MINE]
+base = "Pirit Madeni"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Pirit Eritme Tesisleri"
+
+[STR_IND_QUARRY]
+base = "Taş ve Kum Ocağı"
+
+[STR_IND_RANCH]
+base = "Çiftlik"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Roadstone Fabrikası"
+
+[STR_IND_SALT_WORKS]
+base = "Tuz İşletmesi"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Cüruf Öğütme Tesisi"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Soda Külü Madeni"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Hazır Gıda Fabrikası"
+
+[STR_IND_STOCKYARD]
+base = "Depolama alanı"
+
+[STR_IND_STRIP_MILL]
+base = "Şerit Haddanesi"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Şeker Rafinerisi"
+
+[STR_IND_SUPPLY_YARD]
+base = "Tedarik Alanı"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Kereste Deposu"
+
+[STR_IND_TIN_MINE]
+base = "Kalay Madeni"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Kalaylı Demir Levha Fabrikası"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Paletli Araç Fabrikası"
+
+[STR_IND_TRADING_POST]
+base = "Ticaret İstasyonu"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Tüp ve Boru Fabrikası"
+
+[STR_IND_TYRE_PLANT]
+base = "Lastik Fabrikası"
+
+[STR_IND_VINEYARD]
+base = "Bağ"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Araç Dağıtıcısı"
+
+[STR_IND_WHARF]
+base = "Rıhtım"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Tel Çubuk Fabrikası"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Çinko Madeni"
+
+[STR_IND_ZINC_SMELTER]
+base = "Çinko Ergitme Tesisleri"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "At Pazarı"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Elektrikli Ürünler"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Otomotiv"
+
+[STR_STATION_BAKERY]
+base = "Fırın"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Kirişler"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, Mangal ve Odalar"
+
+[STR_STATION_BARNS]
+base = "Ahırlar"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Varil ve Fıçı"
+
+[STR_STATION_BASE]
+base = "Taban"
+
+[STR_STATION_BONEYARD]
+base = "Mezarlık"
+
+[STR_STATION_BANK_TOP]
+base = "Bank Topu"
+
+[STR_STATION_BODY_PLANT]
+base = "Preslenmiş Parçalar"
+
+[STR_STATION_BRINE_WORKS]
+base = "Tuzlu Su Tesisi"
+
+[STR_STATION_BUILDERS_YARD]
+base = "İnşaat Malzemeleri Deposu"
+
+[STR_STATION_COLLIERY]
+base = "Kömür Madeni"
+
+[STR_STATION_COMPONENTS]
+base = "Bileşenler"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Ön Döküm"
+
+[STR_STATION_COPPER_LODE]
+base = "Bakır Madeni"
+
+[STR_STATION_CREOSOTING]
+base = "Kreozotlama"
+
+[STR_STATION_CRYO_PLANT]
+base = "Kriyo Tesis"
+
+[STR_STATION_DAIRY_LANE]
+base = "Süt Yolu"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Sızdırmazlık Elemanı ve Hortum"
+
+[STR_STATION_ESTATE]
+base = "Mülk"
+
+[STR_STATION_FACTORY]
+base = "Fabrika"
+
+[STR_STATION_FARM_1]
+base = "Malikane"
+
+[STR_STATION_FARM_2]
+base = "Çayırlar"
+
+[STR_STATION_FARM_3]
+base = "Çiftlik"
+
+[STR_STATION_FISHMARKET]
+base = "Balık Pazarı"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Gıda Kurumu"
+
+[STR_STATION_FOREST]
+base = "Kütük İnişi"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Çelik ustaları"
+
+[STR_STATION_FREEZERS]
+base = "Dondurucular"
+
+[STR_STATION_FURNACE]
+base = "Fırın"
+
+[STR_STATION_METAL_WORKS]
+base = "Metal Eşyalar"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "İşletmeler"
+
+[STR_STATION_HERDING_COOP]
+base = "Reinder Pens"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Sanayi Bölgesi"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Su Kenarı"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "İniş Platformu"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Kıyı Şeridi"
+
+[STR_STATION_IRONSTONE]
+base = "Demir Taşı"
+
+[STR_STATION_KILNS]
+base = "Fırınlar"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Kimberlit Yatakları"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Kireçtaşı Madenleri"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Manganez Madenleri"
+
+[STR_STATION_MILL]
+base = "Değirmen"
+
+[STR_STATION_MILLS]
+base = "Değirmenler"
+
+[STR_STATION_MINES]
+base = "Çoğunlukla et üretimi için inekler, domuzlar ve koyunlar. Diğer hayvanlar da yenebilir."
+
+[STR_STATION_MOULDINGS]
+base = "Kalıplama"
+
+[STR_STATION_OIL_RIG]
+base = "Tarla"
+
+[STR_STATION_ORCHARDS]
+base = "Meyve Bahçeleri"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Akış Hattı"
+
+[STR_STATION_PIT]
+base = "Ocak"
+
+[STR_STATION_PLANT]
+base = "Tesis"
+
+[STR_STATION_PLANTATION]
+base = "Plantasyon"
+
+[STR_STATION_PLATE_MILL]
+base = "Blok Sahası"
+
+[STR_STATION_POTASH_MINE]
+base = "Mineraller"
+
+[STR_STATION_POWERHUNGRY]
+base = "Enerji Santrali"
+
+[STR_STATION_POWERTRAIN]
+base = "Güç Aktarma Sistemi"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Tesis ve Makineler"
+
+[STR_STATION_PUMPS]
+base = "Pompalar"
+
+[STR_STATION_PYRITES]
+base = "Pirit Yatakları"
+
+[STR_STATION_REFINERY]
+base = "Rafineri"
+
+[STR_STATION_ROD_MILL]
+base = "Çubuk Değirmeni"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Kauçuk Şirketi"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Salitre Atölyesi"
+
+[STR_STATION_SEAFOOD]
+base = "Deniz Ürünleri"
+
+[STR_STATION_SHARP_STREET]
+base = "Sharp Sokağı"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Sığlıklar"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Eritme Tesisleri"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Isırgan Fırını"
+
+[STR_STATION_SOUPS]
+base = "Çorbalar"
+
+[STR_STATION_STRIP_MILL]
+base = "Bobin Hattı"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Şeker Şirketi"
+
+[STR_STATION_TANK_FARM]
+base = "Depolama Tesisi"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Tapping Kulübesi"
+
+[STR_STATION_TOWN_3]
+base = "Depolar"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Paletli Makine Atölyesi"
+
+[STR_STATION_TRONA_BEDS]
+base = "Trona Yatakları"
+
+[STR_STATION_TUBE_MILL]
+base = "Tüp Fabrikası"
+
+[STR_STATION_WATER]
+base = "Kumbankı"
+
+[STR_STATION_WELLS]
+base = "Kuyular"
+
+[STR_STATION_WHEAL]
+base = "Maden Çukuru"
+
+[STR_STATION_WINERY]
+base = "Şarap İmalathanesi"
+
+[STR_STATION_WORKS]
+base = "İşletmeler"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Kamyon Alanı"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "ARAZİ"
+
+[STR_BADGE_SEA]
+base = "DENİZ"

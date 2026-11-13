@@ -1,0 +1,40 @@
+RESTORE 466 MAPPED_IDX 219 NOREF 242 CONFLICT_IDX 3 MIXED_IDX 1
+=== CONFLICTS ===
+i=337 en='{TINYFONT}PC'
+  src/grf/lang/simplified_chinese.toml STR_CARGO_INDUSTRIAL_CARBONS.cid HEAD='{TINYFONT}碳' CUR='{TINYFONT}PC'
+  src/grf/lang/simplified_chinese.toml STR_CARGO_PAINTS_AND_COATINGS.cid HEAD='{TINYFONT}漆' CUR='{TINYFONT}PC'
+  src/grf/lang/simplified_chinese.toml STR_CARGO_PROCESS_CHEMICALS.cid HEAD='{TINYFONT}工' CUR='{TINYFONT}PC'
+i=191 en='Plant & Machinery'
+  src/grf/lang/simplified_chinese.toml STR_CARGO_PLANT_AND_MACHINERY.name HEAD='成套设备与机械' CUR='工厂与机械'
+  src/grf/lang/simplified_chinese.toml STR_STATION_POWER_SYSTEMS_FACTORY.base HEAD='成套设备' CUR='工厂与机械'
+i=69 en='Cryo Plant'
+  src/grf/lang/simplified_chinese.toml STR_IND_CRYO_PLANT.base HEAD='低温空分厂' CUR='低温工厂'
+  src/grf/lang/simplified_chinese.toml STR_STATION_CRYO_PLANT.base HEAD='低温厂' CUR='低温工厂'
+=== MIXED (index has refs outside restore set) ===
+i=244 en='Steel Mill'
+  REST src/grf/lang/simplified_chinese.toml STR_IND_INTEGRATED_STEEL_MILL.base HEAD='钢铁联合厂' CUR='钢铁厂'
+  OTHER src/docs/extra_strings_simplified_chinese.toml TTD_STR_INDUSTRY_NAME_STEEL_MILL.base
+=== NOREF (first 12) ===
+  src/grf/lang/simplified_chinese.toml STR_GRF_DESC.base HEAD='{ORANGE}CIRS 社区产业替换集{}{BLACK}这是 FIRS 的社区维护分支，原版 FIRS 由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 创作，并得到许多其他人的帮助。{SILVER}请访问网站获取更多信息，包括如何使用 CIRS。{BLACK}许可证：GPL v2。'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY.base HEAD='渔场、石油钻井平台和疏浚区距离海岸的最大距离（以格为单位）。'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_DESC_ECONOMIES.base HEAD='每种经济模式都提供不同的货物与产业组合。{}{}对于想要简单玩法的玩家，{SILVER}基础{BLACK}经济模式所含的产业和货物比其他 CIRS 经济模式更少。{}{}CIRS 网站提供了每种经济模式的详细信息。'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY.base HEAD='海洋产业距离海岸的最大距离（格）'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_ECONOMIES.base HEAD='经济模式'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT.base HEAD='提升初级产业产量至“增强”所需的供应箱数量（默认 16）'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT.base HEAD='提升初级产业产量至“工合”所需的供应箱数量（默认 80）'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT.base HEAD='农场、矿场和类似产业在收到供应箱后会提高产量：如果送达的箱子足够多，产量会先提升到 {SILVER}增强{BLACK}，然后再提升到 {SILVER}工合{BLACK}。  {}{}默认值已经很好，但如有需要，你可以在这里修改。  {}{}港口类产业的货物需求量将是这里设定值的 8 倍。'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS.base HEAD='“增强”初级产业产量水平（%）'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS.base HEAD='“工合”初级产业产量水平（%）'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_DESC_PRIMARY_LEVEL_BONUS.base HEAD='当供应需求得到满足时，农场、矿场和类似产业的产量（以 {SILVER}正常 {BLACK}产量水平的百分比表示）。'
+  src/grf/lang/simplified_chinese.toml STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE.base HEAD='温带基础'
+=== DOC_NAV_SWITCH_LANGUAGE ===
+  src/docs/lang/simplified_chinese.toml HEAD='English' CUR='切换语言' EN='简体中文'
+=== 8 REWRITES current values ===
+  DOC_CR_COMPILING_P1 = 'CIRS 源代码附带一个便于构建的 makefile，构建需要“Make”工具，它通常由 Linux/Unix 的 ports tree、macOS 的 Xcode 或 Windows 下的其他构建系统提供。'
+  DOC_CR_FRAX_P1 = '在货物类别的命名上，FIRS 4 及更新版本采用 FRAX——一套更完善的货物类别标准。'
+  DOC_CR_FRAX_P2 = 'FRAX 类别是让车辆支持改装的首选方式。但在某些细节场景下，作者可能会发现改用货物标签来设置车辆改装更为方便。'
+  DOC_CR_TOWN_GROWTH_NOTE = '** 城镇成长效果：除 TOWNGROWTH_PASSENGERS 与 TOWNGROWTH_MAIL 外，CIRS 不设置任何城镇成长效果；这正是预期行为，用于取消沙漠及雪线以上城镇对食物／水的需求。'
+  DOC_HOME_TAGLINE = 'OpenTTD 版 FIRS 的社区分支，提供开放的翻译与社区支持。'
+  DOC_HOME_WHY_1_DESC = 'Issue 与 pull request 都会在本仓库中审阅并合并。'
+  DOC_HOME_WHY_2_DESC = '游戏文本与网站文本都以简单的 TOML 文件翻译，并像代码一样接受审阅。'
+  DOC_HOME_WHY_3_DESC = 'FIRS 完整的 git 历史被保留，未来的上游改动可以直接合并，而不必另起 fork。'

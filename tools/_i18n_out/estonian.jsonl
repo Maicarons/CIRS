@@ -1,0 +1,619 @@
+{"i":0,"tr":" {BLACK}(valikuline)"}
+{"i":1,"tr":" {BLACK}(kaasas)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Hape"}
+{"i":4,"tr":"Kivimaterjalid"}
+{"i":5,"tr":"Alumiinoksiid"}
+{"i":6,"tr":"Alumiinium"}
+{"i":7,"tr":"Amonia ja lämmastikhapetooted"}
+{"i":8,"tr":"Amonia kompleks"}
+{"i":9,"tr":"Anhüdriidi kaevandus"}
+{"i":10,"tr":"Anhüdriidi protsessitehas"}
+{"i":11,"tr":"Anhüdriidikivi"}
+{"i":12,"tr":"Õunad"}
+{"i":13,"tr":"Seadmete tehas"}
+{"i":14,"tr":"On igavesti jne."}
+{"i":15,"tr":"Monteerimistehas"}
+{"i":16,"tr":"Autotööstus"}
+{"i":17,"tr":"Saadaval kõigis majandustes. Toodavad ja aktsepteerivad linnahooned ning ka mõned tööstusharud."}
+{"i":18,"tr":"Saadaval kõigis majandustes. Toodavad ja aktsepteerivad linnahooned."}
+{"i":19,"tr":"Pagar"}
+{"i":20,"tr":"Ballid."}
+{"i":21,"tr":"Panga tipp"}
+{"i":22,"tr":"Baar, grill ja toad"}
+{"i":23,"tr":"Laod"}
+{"i":24,"tr":"Tünn ja fıkk"}
+{"i":25,"tr":"Baariit ja fluoriit"}
+{"i":26,"tr":"Baas"}
+{"i":27,"tr":"Baas-hapnikuahel"}
+{"i":28,"tr":"Kõrgahelust saadud baasraud, kas sulatatud vedeliku või tahkete sulamite kujul."}
+{"i":29,"tr":"Partiikemiatehas"}
+{"i":30,"tr":"Billetid ja bloomid"}
+{"i":31,"tr":"Billetid, bloomid, sulamid ja plaadid."}
+{"i":32,"tr":"Turbast pärit biomass, mida kasutatakse kütuseks ja aianduses."}
+{"i":33,"tr":"Bituumen"}
+{"i":34,"tr":"Kõrgahi"}
+{"i":35,"tr":"Kerehoone"}
+{"i":36,"tr":"Kalmistuaed"}
+{"i":37,"tr":"Pudeli- ja puruvabrik"}
+{"i":38,"tr":"Karbid, pudelid, purgid, konservipurud jne."}
+{"i":39,"tr":"Soolalahi töötlemine"}
+{"i":40,"tr":"Koksitootmise kõrvaltoode, paks ja aeglaselt voolav vedelik."}
+{"i":41,"tr":"CIRS"}
+{"i":42,"tr":"CIRS-i kogukonna tööstuse asendussett"}
+{"i":43,"tr":"CIRS sisaldab maastikuelementide komplekti, mida mängijad saavad paigutada, et teatavad tööstusharud näeksid suuremad välja. Maastikuelementidel puudub mängumõju. Maastikuelemendid saab sisse või välja lülitada."}
+{"i":44,"tr":"CIRS-i maastikuelemendid"}
+{"i":45,"tr":"Kabiid, kapotid, uksed ja muud sarnased kereelemendid sõidukite tootmiseks."}
+{"i":46,"tr":"Kaltsiumoksiid, tuntud ka kui põletatud lubi. Transporditakse peeneks pulbriks, mida tuleb hoida kuivana."}
+{"i":47,"tr":"Süsi must"}
+{"i":48,"tr":"Süsinikmusti tehas"}
+{"i":49,"tr":"Maniok"}
+{"i":50,"tr":"Valatud tooted, nagu plokid, talad ja paneelid. Neid saab käitleta ka valmisbetoonina segamissamurites."}
+{"i":52,"tr":"Tsellulooskiletehas"}
+{"i":53,"tr":"Tsement"}
+{"i":54,"tr":"Tsement, klaas, metallkomponendid, puittooted, torud ja sarnased ehitusmaterjalid."}
+{"i":55,"tr":"Keemiatehas"}
+{"i":56,"tr":"Keemilised vaheühendid"}
+{"i":57,"tr":"Keemikaalid, seebid, hõõrumisained jne tööstuslikuks ja koduseks kasutamiseks. Peamiselt vedelad, kuid võivad olla ka pulbrilised või tahked (näiteks kuulpaisandusliiv)."}
+{"i":58,"tr":"Hiina savi"}
+{"i":59,"tr":"Puitlaastplaaditehas"}
+{"i":60,"tr":"Kloor-alkaalitehas"}
+{"i":61,"tr":"Kloor"}
+{"i":62,"tr":"Siidritehas"}
+{"i":63,"tr":"Tsiviilseks kasutatavad plahvatusained kaevandamiseks, ehituseks jne."}
+{"i":64,"tr":"Puhastusvahendid"}
+{"i":65,"tr":"Süsi"}
+{"i":66,"tr":"Süsikaevandus"}
+{"i":67,"tr":"Süsihõõbe"}
+{"i":68,"tr":"Süsi, mida on kuumutatud kokipõletis, et saada peaaegu puhas süsinikust koosnev kütus."}
+{"i":69,"tr":"Jäme liiv ehituseks või peen ränidioksiidliiv klaasi- ja metallivalamiseks. Transporditakse lahtise materjali või pulbri kujul."}
+{"i":70,"tr":"Spiraaljoon"}
+{"i":71,"tr":"Koks"}
+{"i":72,"tr":"Kooksi ahju"}
+{"i":73,"tr":"Süsikaevandus"}
+{"i":74,"tr":"Kommertspagar"}
+{"i":75,"tr":"Tavalised oad, favaoad, sojaoad ja sarnased söödavad kaunviljad."}
+{"i":76,"tr":"Kompleksne majandus, mis hõlmab raua-, terase- ja raske tööstust."}
+{"i":77,"tr":"Kompleksne majandus paljude tööstusharude ja kaubaliikidega."}
+{"i":78,"tr":"Kompleksne majandus paljude tööstusharude ja kaubaliikidega. Inspiratsiooniks on Kesk-Lääne-Aafrika. Sobib kõige paremini alamtroopilise kliimaga kasutamiseks."}
+{"i":79,"tr":"Komponendid"}
+{"i":80,"tr":"Sõidukite tootmiseks vajalikud komponendid, näiteks šassii ja vedrustuse osad, elektriosad, välisviimistlus- ja siseosad."}
+{"i":81,"tr":"Betoonitehas"}
+{"i":82,"tr":"Betoonitooted"}
+{"i":83,"tr":"Ehitusplats"}
+{"i":84,"tr":"Valmistoitude tehas"}
+{"i":85,"tr":"Vask"}
+{"i":86,"tr":"Vaskmaa"}
+{"i":87,"tr":"Vaskkaevandus"}
+{"i":88,"tr":"Vaskmaagi"}
+{"i":89,"tr":"Vasksulatusahi"}
+{"i":90,"tr":"Puuvill, lina, jüüt ja sarnased materjalid tekstiilide ja komposiitmaterjalide tootmiseks."}
+{"i":91,"tr":"Rulltraktorite tehas"}
+{"i":92,"tr":"Kreosooteerimine"}
+{"i":93,"tr":"Toore, töötlemata nafta, mida transporditakse vedelal lahtiselt."}
+{"i":94,"tr":"Krüogeentehas"}
+{"i":95,"tr":"Piimafarm"}
+{"i":96,"tr":"Piimatee"}
+{"i":97,"tr":"Teemantikaevandus"}
+{"i":98,"tr":"Teemandid"}
+{"i":99,"tr":"Trummid, vinssid, ahvid, konksud, rihmarullid, hüdraulilised tõukurid ja muud osad kraanade, tõstukite, liftide jne jaoks."}
+{"i":100,"tr":"Kuiv tsement pulbri või kliinkri kujul."}
+{"i":101,"tr":"Iga majandus pakub erinevat kauba- ja tööstusharude kombinatsiooni.{}{}Mängijatele, kes soovivad lihtsat mänguprotsessi, sisaldavad {SILVER}põhi- {BLACK}majandused vähem tööstusharusid ja kaupu kui teised CIRS-i majandused.{}{}CIRS-i veebisait pakub üksikasjalikku teavet iga majanduse kohta."}
+{"i":102,"tr":"Toiduõli"}
+{"i":103,"tr":"Söödav juurvilja, tuntud ka kui maniok ja yuca."}
+{"i":104,"tr":"Elastomeeritoodete tehas"}
+{"i":105,"tr":"Elektrikaarahi"}
+{"i":106,"tr":"Elektrilised osad"}
+{"i":107,"tr":"Elektrilised ja elektroonilised komponendid, mootorid, juhtseadmed, kaitseseadmed, valgustid jne."}
+{"i":108,"tr":"Elektroonikakaubad"}
+{"i":109,"tr":"Mootoritehas"}
+{"i":110,"tr":"Inseneritööstus"}
+{"i":111,"tr":"Mootorid ja jõuülekanded"}
+{"i":112,"tr":"Täiustatud esmase tootmise tase (%)"}
+{"i":113,"tr":"Mõis"}
+{"i":114,"tr":"Plahvatusained"}
+{"i":115,"tr":"Plahvatusainete tehas"}
+{"i":116,"tr":"Tehas"}
+{"i":117,"tr":"Farm"}
+{"i":118,"tr":"Farmid, kaevandused ja sarnased tööstusharud suurendavad tootmist, kui varustuskarbid kohale toimetatakse: esmalt {SILVER}Täiustatud{BLACK} ja seejärel {SILVER}Gung-ho{BLACK}, kui kohale toimetatakse piisavalt karpe.  {}{}Vaikimisi väärtused on head, kuid vajaduse korral saate neid siin muuta.  {}{}Sadamatüüpi tööstusharude kauba nõuded on siin määratud väärtuste 8-kordne."}
+{"i":119,"tr":"Fermenteerimistehas"}
+{"i":120,"tr":"Ferroliigid"}
+{"i":121,"tr":"Väetis"}
+{"i":122,"tr":"Väetis- ja happeveskid"}
+{"i":123,"tr":"Põld"}
+{"i":124,"tr":"Peen traat, mida kasutatakse rehvide tugevdamiseks. Transporditakse rulli kujul."}
+{"i":125,"tr":"Kala ja mereannid"}
+{"i":126,"tr":"Kalakasvatus"}
+{"i":127,"tr":"Kummist või sarnastest materjalidest valmistatud painduvad tihendid, tihendusrõngad, voolikud, rihmad, alused, laagerühid jne."}
+{"i":128,"tr":"Jahu ja tärklis"}
+{"i":129,"tr":"Vooluliin"}
+{"i":130,"tr":"Toit"}
+{"i":131,"tr":"Toit ja joogid"}
+{"i":132,"tr":"Toidulisandid"}
+{"i":133,"tr":"Toidukontsern"}
+{"i":134,"tr":"Transpordi ja ladustamise ajal külmutatult hoitavad toiduained."}
+{"i":135,"tr":"Majapidamises ja ehituses kasutamiseks. Tööriistad, tarvikud, kinnitused ja aksessuaarid metallist ning muudest materjalidest."}
+{"i":136,"tr":"Mets"}
+{"i":137,"tr":"Valtsingud ja valud"}
+{"i":138,"tr":"Külmutid"}
+{"i":139,"tr":"Värsked ja kuivatatud puuviljad, näiteks banaanid, tsitrusviljad, viinamarjad, marjad, ananass, rosinad ja sarnased tooted."}
+{"i":140,"tr":"Külmutatud magustoitade tehas"}
+{"i":141,"tr":"Külmutatud toit"}
+{"i":142,"tr":"Külmutatud toiduainete tehas"}
+{"i":143,"tr":"Puuviljaistandus"}
+{"i":144,"tr":"Ahju"}
+{"i":145,"tr":"GPL(v2)"}
+{"i":146,"tr":"GRFID"}
+{"i":147,"tr":"Üldised saviained ehitusmaterjalide tootmiseks ja muudeks tööstuslikeks otstarveteks."}
+{"i":148,"tr":"Üldine metall, näiteks teras, alumiinium või muud levinud metallid."}
+{"i":149,"tr":"Üldised orgaanilised ja anorgaanilised kemikaalid, mida käideldakse vedeliku, gaasi, katetud lahtisena, pulbri või tükkkaubana."}
+{"i":150,"tr":"Tugiraudbetoonkonstruktsioonid"}
+{"i":151,"tr":" klaistooted"}
+{"i":152,"tr":"Kaup"}
+{"i":153,"tr":"Teravili"}
+{"i":154,"tr":"Teraviljaveski"}
+{"i":155,"tr":"Kivisütt, liiva, purustatud kivi ja sarnaseid ehituses kasutatavaid materjale."}
+{"i":156,"tr":"Gung-ho esmase tootmise tase (%)"}
+{"i":157,"tr":"Riistvara ja viimistlus"}
+{"i":158,"tr":"Karjakasvatuse osutuskokkuhoid"}
+{"i":159,"tr":"Kõrge väärtusega insenerikomponendid, nagu elektriseadmed, mootorid, transformaatorid, juhtseadmed, hüdraulika, pneumaatika, pumbad, ventiilid ja jõuülekandesüsteemi seadmed."}
+{"i":160,"tr":"ID"}
+{"i":161,"tr":"Tööstuslikud süsinikud"}
+{"i":162,"tr":"Tööstuskeemikaalide tehas"}
+{"i":163,"tr":"Tööstusgaasid"}
+{"i":164,"tr":"Tööstuspark"}
+{"i":165,"tr":"Tööstushape, mida kasutatakse peamiselt väetiste ja kemikaalide tootmisel ning mis transporditakse vedelal lahtiselt."}
+{"i":166,"tr":"Tööstushapped, nagu soolhape, lämmastikhape ja väävelhape."}
+{"i":167,"tr":"Tööstusalkohol, mida kasutatakse keemilise tooraine ja kütusena ning mis transporditakse vedelal lahtiselt."}
+{"i":168,"tr":"Tööstuskeemikaal, mida tavaliselt transporditakse kriogeenselt vedelikustatud surugasina."}
+{"i":169,"tr":"Tööstuskeemikaal. Tuntud ka kui leeliselahus või kaustiline sööda. Tavaliselt transporditakse vedelikuna."}
+{"i":170,"tr":"Tööstuskeemikaal. Valge pulbrilises kujus."}
+{"i":171,"tr":"Amoniakist tuletatud tööstuskeemikaalid, näiteks ammoniaak, lämmastikhape ja uurea. Transporditakse vedelikuna, kriogeenselt vedelikustatud gaasina või kuiva lahtisena."}
+{"i":172,"tr":"Tööstuses tootmises ja töötlemises kasutatavad tööstuskeemikaalid, mida transporditakse vedelikuna, pulbrina, gaasina või pakendatud kaupadena."}
+{"i":173,"tr":"Tööstusgaas. Transporditakse kriogeenselt vedelikustatud surugasina."}
+{"i":174,"tr":"Keemilises töötlemises, metallitöötlemises ja keevitamises kasutatavad tööstusgaasid, mida transporditakse silindrites või survetankrites."}
+{"i":175,"tr":"Tööstusmineeraal, tuntud ka kui kaoliin, mida kasutatakse peamiselt paberi- ja plasttoodete valmistamisel."}
+{"i":176,"tr":"Keemilises töötlemises kasutatavad tööstusmineeraalid. Bariiti kasutatakse bariumkeemikaalides ja täiteainetes; fluoriidi aga fluori keemias ja metallurgilistes sulatusainetes."}
+{"i":177,"tr":"Valtsid."}
+{"i":178,"tr":"Toidutöötlemises kasutatavad koostisosad, näiteks säilitusained, maitseained, värvained ja töötlemisabilised ained."}
+{"i":179,"tr":"Intensiivselt must süsinikupulber, mida kasutatakse rehvides, plastides ja pigmentides. Käsitakse pulbrina."}
+{"i":180,"tr":"Vahekeemikaalid, mida kasutatakse toorainena edasises tööstuslikus töötlemises."}
+{"i":181,"tr":"Vaheained suhkurtootmiseks, rafineerimiseks, kääritamiseks ja tööstuslikuks kasutamiseks. Kleepuvaid graanuleid käiditakse katetud lahtisena; paksu siirupit vedelikuna; mõlemat võib pakendada."}
+{"i":182,"tr":"Sisepõlemismootorid ja nendega seotud jõuülekandeosad, nagu ülekandekastid ja veduriteljed."}
+{"i":183,"tr":"Raudmaak"}
+{"i":184,"tr":"Raudmaa kaevandus"}
+{"i":185,"tr":"Raudkivi"}
+{"i":186,"tr":"Ahjud"}
+{"i":187,"tr":"Kimberliidi leiukohad"}
+{"i":188,"tr":"MAA"}
+{"i":189,"tr":"Maandumisplatvorm"}
+{"i":190,"tr":"Kerged süsivesinikud"}
+{"i":191,"tr":"Kerged naftafraktsioonid, mida kasutatakse keemilise toorainena ja mis transporditakse vedelate lahtisena."}
+{"i":192,"tr":"Lubjakivi"}
+{"i":193,"tr":"Lubjakivikaevandus"}
+{"i":194,"tr":"Lubjakivikaevandused"}
+{"i":195,"tr":"Loomapidamine"}
+{"i":196,"tr":"Palkide laadimispaik"}
+{"i":197,"tr":"Palkid"}
+{"i":198,"tr":"Palkid metsast."}
+{"i":199,"tr":"Pikk õõnes toru ümmarguse, ristkülikukujulise või muu ristlõikega. Kasutatakse konstruktsioonide ja masinate valmistamiseks."}
+{"i":200,"tr":"Pikad ümmargused terastorud vedelike transpordiks torujuhtmetes, hoonetes, tööstuses jne."}
+{"i":201,"tr":"Masinad, kütus, osad, väetised ja muud varud talude, metsade ja sarnaste tegevusharude jaoks."}
+{"i":202,"tr":"Masinad, kütus, osad, puittooted, torud, plahvatusained ja muud varud kaevanduste ja sarnaste tegevusharude jaoks."}
+{"i":203,"tr":"Masinad, osad, kütus, ehitusmaterjalid ja muud varud sadamate, dokkide ja sarnaste tegevusharude jaoks."}
+{"i":204,"tr":"Postitus"}
+{"i":205,"tr":"Mais"}
+{"i":206,"tr":"Mangaan"}
+{"i":207,"tr":"Mangaanikaevandus"}
+{"i":208,"tr":"Mangaanikaevandused"}
+{"i":209,"tr":"Mangaanimalm, mida kasutatakse peamiselt terasetootmises."}
+{"i":210,"tr":"Mõis"}
+{"i":211,"tr":"Rohumaa"}
+{"i":212,"tr":"Liha"}
+{"i":213,"tr":"Kaupmehe baar"}
+{"i":214,"tr":"Metallitöökoda"}
+{"i":215,"tr":"Metalliosad, mida monteeritakse suuremateks esemeteks."}
+{"i":216,"tr":"Metalltooted"}
+{"i":217,"tr":"Metanool"}
+{"i":218,"tr":"Mild Mild West"}
+{"i":219,"tr":"Vehkid"}
+{"i":220,"tr":"Mineraalsed täiteained"}
+{"i":221,"tr":"Mineraalsete täiteainete tehas"}
+{"i":222,"tr":"Mineraalid"}
+{"i":223,"tr":"Kaevandused"}
+{"i":224,"tr":"Peamiselt lehmad, sigad ja lambad liha tootmiseks. Ka teisi loomi võib süüa."}
+{"i":225,"tr":"Peamiselt looduslik lateks."}
+{"i":226,"tr":"Peamiselt veoautod. Või autod. Või kerged veoautod. Võib-olla ka traktorid."}
+{"i":227,"tr":"Valukomponendid"}
+{"i":228,"tr":"Väävel"}
+{"i":229,"tr":"Mittemetallilised metallid, näiteks vask, nikkel, tsink ja pli."}
+{"i":230,"tr":"Pähklid"}
+{"i":231,"tr":"Nafta"}
+{"i":232,"tr":"Nafta- ja keemiaterminal"}
+{"i":233,"tr":"Naftatöötlemistehas"}
+{"i":234,"tr":"Naftaplatvorm"}
+{"i":235,"tr":"Naftakaevud"}
+{"i":236,"tr":"Nafta toiduvalmistamiseks ja tarbimiseks."}
+{"i":237,"tr":"Puuviljaaiad"}
+{"i":238,"tr":"Hapnik"}
+{"i":239,"tr":"Pakendamine"}
+{"i":240,"tr":"Värvid ja kattekihid"}
+{"i":241,"tr":"Paber"}
+{"i":242,"tr":"Paberivabrik"}
+{"i":243,"tr":"Paberitoodete tehas"}
+{"i":244,"tr":"Reisijad"}
+{"i":245,"tr":"Turvas"}
+{"i":246,"tr":"Turvemaa"}
+{"i":247,"tr":"Bensiin, diislikütus ja sarnased kütused."}
+{"i":248,"tr":"Fosfaat"}
+{"i":249,"tr":"Fosfaadikaevandus"}
+{"i":250,"tr":"Fosforhape"}
+{"i":251,"tr":"Rauamarss"}
+{"i":252,"tr":"Torude tehase"}
+{"i":253,"tr":"Taim"}
+{"i":254,"tr":"Taimed ja masinad"}
+{"i":255,"tr":"Plastmassvormide tehas"}
+{"i":256,"tr":"Plastmassid ja vaigud"}
+{"i":257,"tr":"Lehtteras"}
+{"i":258,"tr":"Kaalium"}
+{"i":259,"tr":"Kaaliumikaevandus"}
+{"i":260,"tr":"Jahustatud teraviljatooted, nagu jahu ja tärklis, mis transporditakse kotides või katetud lahtiselt."}
+{"i":261,"tr":"Jõusüsteemide tehas"}
+{"i":262,"tr":"Hoonetes, tööstuses ja põllumajanduses kasutatavad jõuseadmed ja mehaanilised süsteemid. Transporditakse terviklike ühikute või peamiste alamkooskondadena."}
+{"i":263,"tr":"Jõuülekande süsteem"}
+{"i":264,"tr":"Eelvalatud"}
+{"i":265,"tr":"Täppisdetailid"}
+{"i":266,"tr":"Täppisdetailide tehas"}
+{"i":267,"tr":"Pressitud osad"}
+{"i":268,"tr":"Protsessikemikaalid"}
+{"i":269,"tr":"Protsessikemikaalide tehas"}
+{"i":270,"tr":"Töödeldud puukiud, mida kasutatakse peamiselt paberitootmiseks ja mis transporditakse ballidena või lahtise tselluloosina."}
+{"i":271,"tr":"Töödeldud puittooted saeveskist või sarnastest tööstusharudest."}
+{"i":272,"tr":"Toodangu pakendaja"}
+{"i":273,"tr":"Tootmine taludes, kaevandustes ja sarnastes tööstusharudes, kui tarnenõuded on täidetud (protsendina {SILVER}normaalsest {BLACK}tootmistasemest)."}
+{"i":274,"tr":"Pumpad"}
+{"i":275,"tr":"Pumpad ja ventiilid"}
+{"i":276,"tr":"Püriidi leiud"}
+{"i":277,"tr":"Püriidi kaevandus"}
+{"i":278,"tr":"Püriidimaak"}
+{"i":279,"tr":"Püriidi sulatusahi"}
+{"i":280,"tr":"Python 3.11+"}
+{"i":281,"tr":"Tuhk"}
+{"i":282,"tr":"Toorsuhkur ja melass"}
+{"i":283,"tr":"Toored või röstitud kohvioad."}
+{"i":284,"tr":"Edasiseks töötlemiseks mõeldud toorplast. Tavaliselt transporditakse vaiguhelina."}
+{"i":285,"tr":"Armeerimisraud"}
+{"i":286,"tr":"Rafineeritud alumiiniummetall rullides, ingottides, plaatides jne."}
+{"i":287,"tr":"Rafineeritud vaskmetall rullides, ingottides jne."}
+{"i":288,"tr":"Rafineeritud naftatooted, nagu bensiin, diislikütus, parafiinkütus, LPG, kütuseõli ja bunkerikütus, mida transporditakse vedelate lahtisemete või vedeldatud gaasina."}
+{"i":289,"tr":"Reinderi karid"}
+{"i":290,"tr":"Roadstone'i tehas"}
+{"i":291,"tr":"Varrestehas"}
+{"i":292,"tr":"Valtsitud terasplaadid ja profiilid – I-kirja, H-kirja ja kanalprofiilid jne. Transporditakse pikkade sirgete toodetena."}
+{"i":293,"tr":"Köied ja kaablid, mis valmistatakse tõmmates terasdraadivarre väiksema läbimõõduga ja seejärel keerates neid kimbuköiteks."}
+{"i":294,"tr":"Kasematerjalist terasvalud, mis vajavad edasist töötlemist. Valud võivad olla väikesed või väga suured. Tüüpilised valuprofiilid on ristkülikukujulised või ümmargused."}
+{"i":295,"tr":"Kumm"}
+{"i":296,"tr":"Kummiettevõte"}
+{"i":297,"tr":"Kummiplantatsioon"}
+{"i":298,"tr":"MERI"}
+{"i":299,"tr":"Sool"}
+{"i":300,"tr":"Soolatehas"}
+{"i":301,"tr":"Salpeteritehas"}
+{"i":302,"tr":"Saemõis"}
+{"i":303,"tr":"Meretoit"}
+{"i":304,"tr":"Tihendid ja voolikud"}
+{"i":305,"tr":"Tihendid, voolikud ja rihmad"}
+{"i":306,"tr":"Profiili- ja baarmill"}
+{"i":307,"tr":"Poolvalmis terasvalud. Alati tasase ja ristkülikukujulise ristlõikega."}
+{"i":308,"tr":"Poolvalmis terasvalud. Ristkülikukujulise, ruut- või ümmarguse ristlõikega."}
+{"i":309,"tr":"Sharp Street"}
+{"i":311,"tr":"Rannariba"}
+{"i":312,"tr":"Silo"}
+{"i":313,"tr":"Lihtne majandus. Inspireeritud Argentiinast, Perust ja Tšiilist. Sobib kõige paremini alamtroopilise kliimaga."}
+{"i":314,"tr":"Lihtne majandus. Inspireeritud Soomest, Põhja-Canadast ja Põhja-Siberist. Sobib kõige paremini alamarktliku kliimaga."}
+{"i":315,"tr":"Lihtne majandus. Inspireeritud Ühendkuningriigi edelaosast. Sobib kõige paremini mõõduka kliimaga."}
+{"i":316,"tr":"Plaadihoov"}
+{"i":317,"tr":"Slagg"}
+{"i":318,"tr":"Slaggi jahvatusseade"}
+{"i":319,"tr":"Sulatusahi"}
+{"i":320,"tr":"Soodatuhk"}
+{"i":321,"tr":"Soodatuhka kaevandus"}
+{"i":322,"tr":"Naatriumhüdroksiid"}
+{"i":323,"tr":"Tuhkahi"}
+{"i":324,"tr":"Supid"}
+{"i":325,"tr":"Spetsiaalsed süsinikmaterjalid, nagu kaltsineeritud naftakoks, bituumen, kõrge väärtusega tõrvad ja süsinikmust, mida kasutatakse metallurgia- ja keemiaprotsessides."}
+{"i":326,"tr":"Teras"}
+{"i":327,"tr":"Terassepp ja valukoda"}
+{"i":328,"tr":"Terasliivrid"}
+{"i":329,"tr":"Terasveski"}
+{"i":330,"tr":"Terastoru"}
+{"i":331,"tr":"Terasplekk"}
+{"i":332,"tr":"Terasleht ja -riba"}
+{"i":333,"tr":"Teraslaab"}
+{"i":334,"tr":"Terasvõre"}
+{"i":335,"tr":"Terasdraadivarras"}
+{"i":336,"tr":"Terasvarred: ümarad, ruudukujulised, lameprofiilid ja muud profiilid. Transporditakse pikkade sirgete toodetena."}
+{"i":337,"tr":"Terastraat ja õhukesed vardad. Transporditakse peamiselt rullidena."}
+{"i":338,"tr":"Terasmeistrid"}
+{"i":339,"tr":"Teraslinn"}
+{"i":340,"tr":"Ladustamistankid ja torustikud"}
+{"i":341,"tr":"Ladustamistankid, rõhuallikad, silod, gaasipudelid ja torukomplektid kasutamiseks linnahoontes, tööstuses ja põllumajanduses."}
+{"i":342,"tr":"Laod"}
+{"i":344,"tr":"Konstruktsiooniteras"}
+{"i":345,"tr":"Konstruktsiooniteras rullitud profiilidena (I-kirja, H-kirja ja muud profiilid), lamedate plaatidena või plaatidest keevitatud profiilide ja taladena."}
+{"i":346,"tr":"Suhkur"}
+{"i":347,"tr":"Suhkruettevõte"}
+{"i":348,"tr":"Sulfiidimineraalid, mida sulatatakse mitmesuguste tööstustoodete valmistamiseks."}
+{"i":349,"tr":"Väävel"}
+{"i":350,"tr":"Väävelhape"}
+{"i":351,"tr":"Metalli lõikamiseks ja keevitamiseks vajalikud tarbed, näiteks keevitusvardad, tööriistad ja tööstusgaasid, sealhulgas atseleen, argoon, propaan, hapnik ja lämmastik."}
+{"i":352,"tr":"Varustuslaevakoda"}
+{"i":353,"tr":"Täiustatud esmase tootmise jaoks vajalikud varustuskarbid (vaikimisi 16)"}
+{"i":354,"tr":"Gung-ho esmase tootmise jaoks vajalikud varustuskarbid (vaikimisi 80)"}
+{"i":355,"tr":"Tankila"}
+{"i":356,"tr":"Tapperite kuur"}
+{"i":357,"tr":"Paks naftatoodang, mida kasutatakse peamiselt teede katmiseks ja katuste valmistamiseks."}
+{"i":358,"tr":"Õhuke valtsitud terasleht ja -riba, mida kasutatakse laialdaselt muude toodete valmistamiseks. Transporditakse tasaste lehtede või rullidena."}
+{"i":359,"tr":"Õhuke töötlemata terasvarda, mida kasutatakse laialdaselt betoonkonstruktsioonide tugevdamiseks. Transporditakse rullidena või sirgete vartega kimputena."}
+{"i":360,"tr":"Õhuke tsingiga kaetud terasleht korrosioonikindluse tagamiseks, mida kasutatakse peamiselt purkide, konteinerite ja muude pakendite valmistamiseks."}
+{"i":361,"tr":"Puidutooted"}
+{"i":362,"tr":"Tina"}
+{"i":363,"tr":"Tinakaevandus"}
+{"i":364,"tr":"Tinaplekk"}
+{"i":365,"tr":"Tinaplekitöökoda"}
+{"i":366,"tr":"Rööbasõidukite tehas"}
+{"i":367,"tr":"Trona magamiskohad"}
+{"i":368,"tr":"Veokite parkla"}
+{"i":369,"tr":"Toru- ja torujuhtmeveski"}
+{"i":370,"tr":"Toruveisk"}
+{"i":371,"tr":"Rehvikangas"}
+{"i":372,"tr":"Rehvitöökoda"}
+{"i":373,"tr":"Rehvid"}
+{"i":374,"tr":"Kasutatakse sulamite ja roostevaba terase tootmisel; kroomi ja rauda sulam. Hallid killud, mille suurus ja kuju sarnanevad kivisöekillude omadega."}
+{"i":375,"tr":"Kasutatakse terase tootmisel. Raua ja muude elementide, sealhulgas mangaani, nikli, kroomi, alumiiniumi, räni ja volframit sulamid. Hallid killud, mille suurus ja kuju sarnanevad kivisöekillude omadega."}
+{"i":376,"tr":"Köögiviljad"}
+{"i":377,"tr":"Sõidukikere"}
+{"i":378,"tr":"Sõidukite jaotaja"}
+{"i":379,"tr":"Sõidukid"}
+{"i":380,"tr":"Viinamarjaistandus"}
+{"i":381,"tr":"Raua- ja terasetootmise jääktoode."}
+{"i":382,"tr":"Veekogu ääres"}
+{"i":383,"tr":"Keevitusmaterjalid"}
+{"i":384,"tr":"Wells"}
+{"i":385,"tr":"Lau"}
+{"i":386,"tr":"Kaevandusauk"}
+{"i":387,"tr":"Nisu, odr jne."}
+{"i":388,"tr":"Boksidi maagist rafineeritud valge pulber, mida kasutatakse alumiiniummetalli tootmiseks."}
+{"i":389,"tr":"Valge, hall või pruun kaltsiumsulfaatkivim, mida kasutatakse väävelhappe ja tsemendi tootmiseks. Sageli transporditakse katetud lahtisena."}
+{"i":390,"tr":"Laialdaselt kasutatav tööstuskeemikaal. Helekollane, pulbri või vedeliku kujul."}
+{"i":391,"tr":"Laialdaselt kasutatav tööstuskeemikaal. Tavaliselt transporditakse lahtisena ning peab jääma kuivaks."}
+{"i":392,"tr":"Veinimõis"}
+{"i":393,"tr":"Traatvarda veski"}
+{"i":394,"tr":"Puidu tselluloos"}
+{"i":395,"tr":"Tehas"}
+{"i":396,"tr":"Tsink"}
+{"i":397,"tr":"Tsinkikaevandus"}
+{"i":398,"tr":"Tsingimaak"}
+{"i":399,"tr":"Tsingisulatusahi"}
+{"i":400,"tr":"{BLACK}Praegune toodang: {YELLOW}Täiustatud {}{}{BLACK}Selle taseme säilitamiseks tarnige vähemalt kord kolme minuti jooksul {SIGNED_WORD} kastitäit varusid.{}{WHITE}Gung-ho {BLACK}toodangu korral tarnige {SIGNED_WORD} kastitäit."}
+{"i":401,"tr":"{BLACK}Praegune toodang: {YELLOW}Täiustatud {}{}{BLACK}Selle taseme säilitamiseks tarnige vähemalt kord kolme minuti jooksul {SIGNED_WORD} kaubakomplekti.{}{WHITE}Gung-ho {BLACK}toodangu korral tarnige {SIGNED_WORD} komplekti."}
+{"i":402,"tr":"{BLACK}Praegune toodang: {YELLOW}Gung-ho {}{}{BLACK}Selle taseme säilitamiseks tarnige vähemalt kord kolme minuti jooksul {SKIP}{SIGNED_WORD} kastitäit varusid."}
+{"i":403,"tr":"{BLACK}Praegune toodang: {YELLOW}Gung-ho {}{}{BLACK}Selle taseme säilitamiseks tarnige vähemalt kord kolme minuti jooksul {SKIP}{SIGNED_WORD} kaubakomplekti."}
+{"i":404,"tr":"{BLACK}Praegune toodang: {YELLOW}Tavaline {}{}{BLACK}{WHITE}Täiustatud {BLACK}toodangu korral tarnige vähemalt kord kolme minuti jooksul {SIGNED_WORD} kastitäit varusid.{}{WHITE}Gung-ho {BLACK}toodangu korral tarnige {SIGNED_WORD} kastitäit."}
+{"i":405,"tr":"{BLACK}Praegune toodang: {YELLOW}Tavaline {}{}{BLACK}{WHITE}Täiustatud {BLACK}toodangu korral tarnige vähemalt kord kolme minuti jooksul {SIGNED_WORD} kaubakomplekti.{}{WHITE}Gung-ho {BLACK}toodangu korral tarnige {SIGNED_WORD} komplekti."}
+{"i":406,"tr":"{BLACK}Maksimaalse toodangu saamiseks tarnige vähemalt kord kolme minuti jooksul {WHITE}kõiki {BLACK}vajalikke kaubakomplekte."}
+{"i":408,"tr":"{BLACK}Maximaalse tootmiskiiruse saavutamiseks tarnige {WHITE}vähemalt kaks {BLACK}vajalikku kauba liiki vähemalt kord kolme minuti jooksul."}
+{"i":409,"tr":"{BLACK}Maximaalse tootmiskiiruse saavutamiseks tarnige {WHITE}mõlemat {BLACK}vajalikku kauba liiki vähemalt kord kolme minuti jooksul."}
+{"i":410,"tr":"{BLACK}Toodang on proportsionaalne linna elanikkonnaga. Iga minut toodetakse vähemalt {WHITE}{SIGNED_WORD} ühikut{BLACK} ja mitte rohkem kui {WHITE}{SIGNED_WORD} ühikut{BLACK} kaupa."}
+{"i":411,"tr":"{BLACK}Maximaalse tootmise saavutamiseks tarnige {WHITE}vähemalt üks {BLACK}vajalik kauba liik."}
+{"i":412,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":413,"tr":"{ORANGE}E00: CIRS nõuab OpenTTD 1.7.0-i (või pagasiruumi koostisi kasutavatel kasutajatel r27769-i)"}
+{"i":414,"tr":"{ORANGE}E01: {YELLOW}Ebasobiv komplekt: {ORANGE}{STRING}"}
+{"i":415,"tr":"{ORANGE}E02: {YELLOW}Ebasobiv parameeter: {ORANGE}CanSet parameeter 2 peab olema 0, et see CIRS-iga töötaks."}
+{"i":416,"tr":"{ORANGE}E02: {YELLOW}Ebasobiv parameeter: {ORANGE}NA City Seti parameeter 2 peab olema 0, et see CIRS-iga töötaks."}
+{"i":417,"tr":"{ORANGE}E04: {YELLOW}Ebasobiv versioon: {ORANGE}Total Town Replacement Set peab olema versioonis 3.11 või uuem."}
+{"i":418,"tr":"{TINYFONT}AA"}
+{"i":419,"tr":"{TINYFONT}AC"}
+{"i":420,"tr":"{TINYFONT}AG"}
+{"i":421,"tr":"{TINYFONT}AM"}
+{"i":422,"tr":"{TINYFONT}AO"}
+{"i":423,"tr":"{TINYFONT}AP"}
+{"i":424,"tr":"{TINYFONT}AY"}
+{"i":425,"tr":"{TINYFONT}BB"}
+{"i":426,"tr":"{TINYFONT}BI"}
+{"i":427,"tr":"{TINYFONT}BM"}
+{"i":428,"tr":"{TINYFONT}BN"}
+{"i":429,"tr":"{TINYFONT}CA"}
+{"i":430,"tr":"{TINYFONT}CB"}
+{"i":431,"tr":"{TINYFONT}CE"}
+{"i":432,"tr":"{TINYFONT}CF"}
+{"i":433,"tr":"{TINYFONT}CH"}
+{"i":434,"tr":"{TINYFONT}CI"}
+{"i":435,"tr":"{TINYFONT}CK"}
+{"i":436,"tr":"{TINYFONT}CN"}
+{"i":437,"tr":"{TINYFONT}CO"}
+{"i":438,"tr":"{TINYFONT}CP"}
+{"i":439,"tr":"{TINYFONT}CR"}
+{"i":440,"tr":"{TINYFONT}CT"}
+{"i":441,"tr":"{TINYFONT}CY"}
+{"i":442,"tr":"{TINYFONT}EL"}
+{"i":443,"tr":"{TINYFONT}EO"}
+{"i":444,"tr":"{TINYFONT}EP"}
+{"i":445,"tr":"{TINYFONT}ES"}
+{"i":446,"tr":"{TINYFONT}EX"}
+{"i":447,"tr":"{TINYFONT}FA"}
+{"i":448,"tr":"{TINYFONT}FI"}
+{"i":449,"tr":"{TINYFONT}FL"}
+{"i":450,"tr":"{TINYFONT}FO"}
+{"i":451,"tr":"{TINYFONT}FS"}
+{"i":452,"tr":"{TINYFONT}FV"}
+{"i":453,"tr":"{TINYFONT}GL"}
+{"i":454,"tr":"{TINYFONT}HW"}
+{"i":455,"tr":"{TINYFONT}IG"}
+{"i":456,"tr":"{TINYFONT}KA"}
+{"i":457,"tr":"{TINYFONT}LG"}
+{"i":458,"tr":"{TINYFONT}LH"}
+{"i":459,"tr":"{TINYFONT}LS"}
+{"i":460,"tr":"{TINYFONT}LU"}
+{"i":461,"tr":"{TINYFONT}MA"}
+{"i":462,"tr":"{TINYFONT}MF"}
+{"i":463,"tr":"{TINYFONT}MK"}
+{"i":464,"tr":"{TINYFONT}ML"}
+{"i":465,"tr":"{TINYFONT}MN"}
+{"i":466,"tr":"{TINYFONT}MO"}
+{"i":467,"tr":"{TINYFONT}N7"}
+{"i":468,"tr":"{TINYFONT}NA"}
+{"i":469,"tr":"{TINYFONT}NI"}
+{"i":470,"tr":"{TINYFONT}NT"}
+{"i":471,"tr":"{TINYFONT}O2"}
+{"i":472,"tr":"{TINYFONT}OC"}
+{"i":473,"tr":"{TINYFONT}PA"}
+{"i":474,"tr":"{TINYFONT}PC"}
+{"i":475,"tr":"{TINYFONT}PE"}
+{"i":476,"tr":"{TINYFONT}PG"}
+{"i":477,"tr":"{TINYFONT}PH"}
+{"i":478,"tr":"{TINYFONT}PI"}
+{"i":479,"tr":"{TINYFONT}PL"}
+{"i":480,"tr":"{TINYFONT}PM"}
+{"i":481,"tr":"{TINYFONT}PT"}
+{"i":482,"tr":"{TINYFONT}PV"}
+{"i":483,"tr":"{TINYFONT}PW"}
+{"i":484,"tr":"{TINYFONT}PY"}
+{"i":485,"tr":"{TINYFONT}QL"}
+{"i":486,"tr":"{TINYFONT}RB"}
+{"i":487,"tr":"{TINYFONT}SA"}
+{"i":488,"tr":"{TINYFONT}SB"}
+{"i":489,"tr":"{TINYFONT}SD"}
+{"i":490,"tr":"{TINYFONT}SE"}
+{"i":491,"tr":"{TINYFONT}SG"}
+{"i":492,"tr":"{TINYFONT}SH"}
+{"i":493,"tr":"{TINYFONT}SI"}
+{"i":494,"tr":"{TINYFONT}SL"}
+{"i":495,"tr":"{TINYFONT}SM"}
+{"i":496,"tr":"{TINYFONT}SO"}
+{"i":497,"tr":"{TINYFONT}SP"}
+{"i":498,"tr":"{TINYFONT}ST"}
+{"i":499,"tr":"{TINYFONT}STSW"}
+{"i":500,"tr":"{TINYFONT}SU"}
+{"i":501,"tr":"{TINYFONT}SW"}
+{"i":502,"tr":"{TINYFONT}SY"}
+{"i":503,"tr":"{TINYFONT}TC"}
+{"i":504,"tr":"{TINYFONT}TI"}
+{"i":505,"tr":"{TINYFONT}TP"}
+{"i":506,"tr":"{TINYFONT}TY"}
+{"i":507,"tr":"{TINYFONT}VB"}
+{"i":508,"tr":"{TINYFONT}VE"}
+{"i":509,"tr":"{TINYFONT}VG"}
+{"i":510,"tr":"{TINYFONT}VP"}
+{"i":511,"tr":"{TINYFONT}VS"}
+{"i":512,"tr":"{TINYFONT}WL"}
+{"i":513,"tr":"{TINYFONT}WP"}
+{"i":514,"tr":"{TINYFONT}WS"}
+{"i":515,"tr":"{TINYFONT}ZN"}
+{"i":516,"tr":"{TINYFONT}ZO"}
+{"i":517,"tr":"{VOLUME} happe"}
+{"i":518,"tr":"{VOLUME} ammoniaaki ja lämmastikhappe tooteid"}
+{"i":519,"tr":"{VOLUME} bituumeni"}
+{"i":520,"tr":"{VOLUME} keemilisi vaheprodukte"}
+{"i":521,"tr":"{VOLUME} kloori"}
+{"i":522,"tr":"{VOLUME} kivisöetõrva"}
+{"i":523,"tr":"{VOLUME} söögitõli"}
+{"i":524,"tr":"{VOLUME} tööstusgaase"}
+{"i":525,"tr":"{VOLUME} kergete süsivesikute"}
+{"i":526,"tr":"{VOLUME} metanooli"}
+{"i":527,"tr":"{VOLUME} lämmastikku"}
+{"i":528,"tr":"{VOLUME} hapnikku"}
+{"i":529,"tr":"{VOLUME} värve ja katteaineid"}
+{"i":530,"tr":"{VOLUME} fosforhapet"}
+{"i":531,"tr":"{VOLUME} naatriumhüdroksiidi"}
+{"i":532,"tr":"{VOLUME} väävhapet"}
+{"i":533,"tr":"{WEIGHT} agregaatide kaal"}
+{"i":534,"tr":"{WEIGHT} alumiinoksiidi kaal"}
+{"i":535,"tr":"{WEIGHT} alumiiniumi kaal"}
+{"i":536,"tr":"{WEIGHT} anhüdriidikivi kaal"}
+{"i":537,"tr":"{WEIGHT} õunte kaal"}
+{"i":538,"tr":"{WEIGHT} bariidi ja fluoriidi kaal"}
+{"i":539,"tr":"{WEIGHT} valtsiblokkide ja blokkide kaal"}
+{"i":540,"tr":"{WEIGHT} süsinikmustat"}
+{"i":541,"tr":"{WEIGHT} kassavat"}
+{"i":542,"tr":"{WEIGHT} malmi"}
+{"i":543,"tr":"{WEIGHT} tsementi"}
+{"i":544,"tr":"{WEIGHT} Hiina savi"}
+{"i":545,"tr":"{WEIGHT} puhastusaineid"}
+{"i":546,"tr":"{WEIGHT} kokku"}
+{"i":547,"tr":"{WEIGHT} betoontooteid"}
+{"i":548,"tr":"{WEIGHT} vaske"}
+{"i":549,"tr":"{WEIGHT} elektrilisi osi"}
+{"i":550,"tr":"{WEIGHT} mootoreid ja jõuülekandeid"}
+{"i":551,"tr":"{WEIGHT} plahvatusaineid"}
+{"i":552,"tr":"{WEIGHT} riistvara ja viimistlusmaterjalide kaal"}
+{"i":553,"tr":"{WEIGHT} tööstuslike süsinike kaal"}
+{"i":554,"tr":"{WEIGHT} kala ja mereannide kaal"}
+{"i":555,"tr":"{WEIGHT} jahu ja tärklise kaal"}
+{"i":556,"tr":"{WEIGHT} toidu- ja joogikaal"}
+{"i":557,"tr":"{WEIGHT} toidu lisaainete kaal"}
+{"i":558,"tr":"{WEIGHT} vormitud ja valatud osade kaal"}
+{"i":559,"tr":"{WEIGHT} külmutatud toidu kaal"}
+{"i":560,"tr":"{WEIGHT} klaistoodete kaal"}
+{"i":561,"tr":"{WEIGHT} kaupade kaal"}
+{"i":564,"tr":"{WEIGHT} lubjakivi"}
+{"i":565,"tr":"{WEIGHT} tüved"}
+{"i":566,"tr":"{WEIGHT} mangaan"}
+{"i":567,"tr":"{WEIGHT} liha"}
+{"i":568,"tr":"{WEIGHT} kaupmehe ingot"}
+{"i":569,"tr":"{WEIGHT} mineraalsed täiteained"}
+{"i":570,"tr":"{WEIGHT} pähklid"}
+{"i":571,"tr":"{WEIGHT} pakend"}
+{"i":572,"tr":"{WEIGHT} turvas"}
+{"i":573,"tr":"{WEIGHT} fosfaat"}
+{"i":574,"tr":"{WEIGHT} malm"}
+{"i":575,"tr":"{WEIGHT} taimed ja masinad"}
+{"i":576,"tr":"{WEIGHT} plastmassi ja vaigu kaal"}
+{"i":577,"tr":"{WEIGHT} kaaliumkarbonaadi kaal"}
+{"i":578,"tr":"{WEIGHT} täppisdetailide kaal"}
+{"i":579,"tr":"{WEIGHT} protsessikemikaalide kaal"}
+{"i":580,"tr":"{WEIGHT} pumpade ja ventiilide kaal"}
+{"i":581,"tr":"{WEIGHT} püriidi maagi kaal"}
+{"i":582,"tr":"{WEIGHT} sädemejahi kaal"}
+{"i":583,"tr":"{WEIGHT} toorsuhkru ja melassi kaal"}
+{"i":584,"tr":"{WEIGHT} armatuuri terase kaal"}
+{"i":585,"tr":"{WEIGHT} soola kaal"}
+{"i":586,"tr":"{WEIGHT} tihendite, voolikute ja rihmade kaal"}
+{"i":587,"tr":"{WEIGHT} slagi kaal"}
+{"i":588,"tr":"{WEIGHT} söödat"}
+{"i":589,"tr":"{WEIGHT} terast"}
+{"i":590,"tr":"{WEIGHT} terasvaltsid"}
+{"i":591,"tr":"{WEIGHT} terastorud"}
+{"i":592,"tr":"{WEIGHT} terasplaat"}
+{"i":593,"tr":"{WEIGHT} terasleht ja -riba"}
+{"i":594,"tr":"{WEIGHT} teraslabi"}
+{"i":595,"tr":"{WEIGHT} terastoru"}
+{"i":596,"tr":"{WEIGHT} terasdraadivarras"}
+{"i":597,"tr":"{WEIGHT} ladustamistankid ja torustikud"}
+{"i":598,"tr":"{WEIGHT} konstruktsiooniteras"}
+{"i":599,"tr":"{WEIGHT} väävlit"}
+{"i":600,"tr":"{WEIGHT} puidutoodete kaal"}
+{"i":601,"tr":"{WEIGHT} tinakaal"}
+{"i":602,"tr":"{WEIGHT} plekkkaal"}
+{"i":603,"tr":"{WEIGHT} rehvikanga kaal"}
+{"i":604,"tr":"{WEIGHT} rehvide kaal"}
+{"i":605,"tr":"{WEIGHT} köögiviljade kaal"}
+{"i":606,"tr":"{WEIGHT} sõidukikere kaal"}
+{"i":607,"tr":"{WEIGHT} sõidukiosade kaal"}
+{"i":608,"tr":"{WEIGHT} sõidukite kaal"}
+{"i":609,"tr":"{WEIGHT} keevitusmaterjalide kaal"}
+{"i":610,"tr":"{WEIGHT} puiduliblikaal"}
+{"i":611,"tr":"{WEIGHT} tsingi kaal"}
+{"i":612,"tr":"{WEIGHT} tsingimaagi"}
+{"i":613,"tr":"{WEIGHT} kotitäit{P 0 \"\" s} kohvi"}
+{"i":614,"tr":"{}{BLACK}Asukoht: {YELLOW}Seda saab rahastada ainult lumel."}
+{"i":51,"tr":"Valatud tooted, nagu plokid, talad ja paneelid. Neid saab käitleta ka valmisbetoonina segamissaadetel."}
+{"i":343,"tr":"Rihviveski"}
+{"i":407,"tr":"{BLACK}Maksimaalse tootmiskiiruse saavutamiseks tarnige {WHITE}vähemalt kolme {BLACK}vajalikku kauba vähemalt kord kolme minuti jooksul."}
+{"i":562,"tr":"{WEIGHT} riistvara ja viimistluse kaal"}
+{"i":563,"tr":"{WEIGHT} tööstuslike süsinike puhul"}
+{"i":310,"tr":"Rohud"}
+{"i":309,"tr":"Terav tänav"}
+{"i":312,"tr":"Silos"}
+{"i":384,"tr":"Kaevud"}
+{"i":117,"tr":"Farma"}

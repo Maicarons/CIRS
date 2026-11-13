@@ -1,0 +1,66 @@
+GRF bytes 10704891
+
+=== exact .lng values present in GRF (UTF-8 byte count) ===
+ korean [('CIRS 커뮤니티 산업 교체 세트', 0), ('커뮤니티에서 유지 관리하는', 0), ('가구 공장', 0), ('마일드 마일드 웨스트', 0)]
+ japanese [('CIRS コミュニティ産業置換セット', 0), ('マイルド・マイルド・ウェスト', 0)]
+ simplified_chinese [('CIRS 社区产业替换集', 1), ('温和西部', 1)]
+ traditional_chinese [('CIRS 社區產業替換套組', 0), ('溫和的西部', 0)]
+ russian [('Набор CIRS для замен', 0)]
+ arabic [('مجموعة استبدال الصنا', 1)]
+ tamil [('CIRS சமூகத் தொழில் ம', 2)]
+ welsh [('Set Disodli Diwydian', 2)]
+ german [('CIRS - Community Ind', 1)]
+
+=== UTF-8 lead-byte ranges in GRF ===
+  Hangul EA..ED 3-byte       2567
+  Cyrillic D0/D1             19868
+  CJK E4..E9                 7209
+  Arabic D8..DB              40272
+  Kana E3 81..83             0
+
+=== GRF container sprite scan (action-byte census) ===
+scan stopped: error('unpack_from requires a buffer of at least 3607562795 bytes for unpacking 4 bytes at offset 3607562791 (actual buffer size is 10704891)') at 3607562791
+  pseudo-sprites seen: 1
+  action first-bytes: [(0, 1)]
+  Action4 langid census (0 distinct):
+
+=== .lng grflangid -> expected Action4 count ===
+  afrikaans.lng              0x1B  action4=0
+  arabic.lng                 0x3C  action4=0
+  belarusian.lng             0x10  action4=0
+  catalan.lng                0x22  action4=0
+  croatian.lng               0x38  action4=0
+  czech.lng                  0x15  action4=0
+  danish.lng                 0x2D  action4=0
+  dutch.lng                  0x1F  action4=0
+  english.lng                0x01  action4=0
+  esperanto.lng              0x05  action4=0
+  estonian.lng               0x34  action4=0
+  finnish.lng                0x35  action4=0
+  french.lng                 0x03  action4=0
+  gaelic.lng                 0x13  action4=0
+  galician.lng               0x31  action4=0
+  german.lng                 0x02  action4=0
+  hungarian.lng              0x24  action4=0
+  indonesian.lng             0x5A  action4=0
+  italian.lng                0x27  action4=0
+  japanese.lng               0x39  action4=0
+  korean.lng                 0x3A  action4=0
+  latin.lng                  0x66  action4=0
+  luxembourgish.lng          0x23  action4=0
+  norwegian_bokmal.lng       0x2F  action4=0
+  polish.lng                 0x30  action4=0
+  portuguese.lng             0x36  action4=0
+  portuguese_BR.lng          0x37  action4=0
+  romanian.lng               0x28  action4=0
+  russian.lng                0x07  action4=0
+  serbian.lng                0x0D  action4=0
+  simplified_chinese.lng     0x56  action4=0
+  slovak.lng                 0x16  action4=0
+  spanish.lng                0x04  action4=0
+  spanish_MX.lng             0x55  action4=0
+  swedish.lng                0x2E  action4=0
+  tamil.lng                  0x0A  action4=0
+  traditional_chinese.lng    0x0C  action4=0
+  turkish.lng                0x3E  action4=0
+  welsh.lng                  0x0F  action4=0

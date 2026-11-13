@@ -1,0 +1,144 @@
+[
+ {
+  "file": "src/docs\\extra_strings_welsh.toml",
+  "lang": "welsh",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, blooms, ingots a slabs.",
+  "terms": [
+   "ingots",
+   "slabs",
+   "billets",
+   "blooms"
+  ],
+  "fix_terms": [
+   "ingots",
+   "slabs",
+   "billets",
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ],
+  "tr_new": "Billette, bloeiings, ingote a slabe."
+ },
+ {
+  "file": "src/docs\\extra_strings_welsh.toml",
+  "lang": "welsh",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, blooms, ingots a slabs.",
+  "terms": [
+   "ingots",
+   "slabs",
+   "billets",
+   "blooms"
+  ],
+  "fix_terms": [
+   "ingots",
+   "slabs",
+   "billets",
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette, bloeiings, ingote en slabe."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان، سبائك أولية، سبائك وقطع مسطحة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты, блумы, сліткі і слэбы."
+   }
+  ],
+  "tr_new": "Billette, bloeiings, ingote a slabe."
+ },
+ {
+  "file": "src/grf/lang\\latin.toml",
+  "lang": "latin",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit",
+  "en": "{WEIGHT} of billets & blooms",
+  "tr": "{WEIGHT} billetes & blooms",
+  "terms": [
+   "blooms"
+  ],
+  "fix_terms": [
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "{WEIGHT} van billette en bloeisels"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{WEIGHT} من السبائك والكتل المعدنية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{WEIGHT} сліткаў і слітак-блумоў"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{WEIGHT} de lingots i blocs de fosa"
+   }
+  ],
+  "tr_new": "{WEIGHT} billette et bloemorum"
+ },
+ {
+  "file": "src/grf/lang\\welsh.toml",
+  "lang": "welsh",
+  "key": "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name",
+  "en": "Billets & Blooms",
+  "tr": "Billets a Blooms",
+  "terms": [
+   "billets",
+   "blooms"
+  ],
+  "fix_terms": [
+   "billets",
+   "blooms"
+  ],
+  "examples": [
+   {
+    "lang": "afrikaans",
+    "tr": "Billette & Bloeiings"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قضبان وسبائك أولية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Білеты і блумы"
+   },
+   {
+    "lang": "croatian",
+    "tr": "Lijevani poluproizvodi i blovi"
+   }
+  ],
+  "tr_new": "Billette a Bloeiings"
+ }
+]

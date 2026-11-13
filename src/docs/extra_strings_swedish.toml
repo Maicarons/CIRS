@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Kolgruva"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Koppargruva"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Diamantgruva"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Livsmedelstillverkningsfabrik"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Skog"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Fruktplantage"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Järnmalmsgruva"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Oljeraffinaderi"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Oljerigg"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Oljekällor"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Pappersfabrik"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Gummplantage"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Sågverk"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Stålfabrik"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Kol"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Kopparmalm"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamanter"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Mat"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Varor"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Spannmål"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Järnmalm"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Boskap"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Post"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Majs"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Olja"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Papper"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Passagerare"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Gummi"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Socker"
+
+[ECONOMY_INFO_FIRS]
+base = "Komplex ekonomi med många industrier och laster."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Enkel ekonomi. Inspirerad av Finland, norra Kanada och norra Sibirien. Fungerar bäst med subarktiskt klimat."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Enkel ekonomi. Inspirerad av sydvästra Storbritannien. Fungerar bäst med tempererat klimat."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Enkel ekonomi. Inspirerad av Argentina, Peru och Chile. Fungerar bäst med subtropiskt klimat."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Komplex ekonomi med många industrier och laster. Inspirerad av centrala och västra Afrika. Fungerar bäst med subtropiskt klimat."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Komplex ekonomi med järn-, stål- och tung tillverkningsindustri."
+
+[CARGO_INFO_PASSENGERS]
+base = "Tillgänglig i alla ekonomier. Produceras och accepteras av stadsbyggnader, samt av ett fåtal industrier."
+
+[CARGO_INFO_MAIL]
+base = "Tillgänglig i alla ekonomier. Produceras och accepteras av stadsbyggnader."
+
+[CARGO_INFO_ACID]
+base = "Industriella syror, såsom saltsyra, salpetersyra och svavelsyra."
+
+[CARGO_INFO_AGGREGATES]
+base = "Grus, sand, krossad sten och liknande material som används inom byggsektorn."
+
+[CARGO_INFO_ALUMINA]
+base = "Vitt pulver som raffinerats från bauxitmalm och används för att framställa aluminiummetall."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Raffinerad aluminiummetall, i rullar, tackor, plattor etc."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Industrikemikalier härledda från ammoniak, såsom ammoniak, salpetersyra och urea. Transporteras som vätskor, kryogent som flytande gas, eller som torrt bulkmaterial."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Vit, grå eller brun kalciumsulfatsten som används i produktion av svavelsyra och cement. Transporteras ofta som täckt bulklast."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Industriella mineraler som används i kemisk bearbetning. Baryt används i bariumkemikalier och fyllnadsmedel; fluorspat i fluorkemi och metallurgiska fluxer."
+
+[CARGO_INFO_BASE_METALS]
+base = "Icke-järnmetaller, såsom koppar, nickel, zink och bly."
+
+[CARGO_INFO_BEANS]
+base = "Vanliga bönor, bondbönor, sojabönor och liknande ätbara baljväxter."
+
+[CARGO_INFO_BITUMEN]
+base = "Tjock petroleumprodukt som huvudsakligen används för vägbeläggning och takläggning."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Cement, glas, metallkomponenter, träprodukter, rör och liknande byggmaterial."
+
+[CARGO_INFO_CASSAVA]
+base = "Ätbar rotgrönsak, även känd som maniok och yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Intensivt svart kolpulver som används i däck, plaster och pigment. Hanteras som pulver."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billetter, blommor, gjutningar och plattor."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billetter, blommor, gjutningar och plattor."
+
+[CARGO_INFO_CEMENT]
+base = "Torr cement i pulver- eller klinkerform."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Kemiska mellanprodukter som används som råmaterial för vidare industriell bearbetning."
+
+[CARGO_INFO_CHEMICALS]
+base = "Allmänna organiska och oorganiska kemikalier, hanterade som vätska, gas, täckt bulk, pulver eller som enskilda varor."
+
+[CARGO_INFO_CHLORINE]
+base = "Industriell kemikalie, vanligtvis transporterad kryogeniskt som flytande komprimerad gas."
+
+[CARGO_INFO_CLAY]
+base = "Allmänna lertyper, för tillverkning av byggmaterial och andra industriella användningsområden."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Kemikalier, tvålar, skurmedel etc. för industriellt och hushållsmässigt bruk. Främst flytande, kan även vara pulver eller fasta (såsom sand för kulblästring)."
+
+[CARGO_INFO_COAL_TAR]
+base = "En biprodukt från kokstillverkning, en tjock, långsamt flytande vätska."
+
+[CARGO_INFO_COFFEE]
+base = "Råa eller rostade kaffebönor."
+
+[CARGO_INFO_COKE]
+base = "Kol som har värmts i en koksugn, vilket ger ett bränsle som nästan är rent kol."
+
+[CARGO_INFO_COMPONENTS]
+base = "Högvärdeskomponenter inom ingenjörskonst, såsom elektrisk utrustning, motorer, transformatorer, styrutrustning, hydraulik, pneumatik, pumpar, ventiler och drivlinjeutrustning."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Gjutna produkter såsom block, balkar och paneler. Kan även hanteras som färdigbetong i blandningslastbilar."
+
+[CARGO_INFO_COPPER]
+base = "Raffinerad kopparmetall, i rullar, tackor etc."
+
+[CARGO_INFO_DIAMONDS]
+base = "Är för evigt, etc."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Olja för matlagning och konsumtion."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Elektriska och elektroniska komponenter, motorer, styrenheter, switchutrustning, belysning etc."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Maskiner, bränsle, delar, träprodukter, rör, sprängämnen och andra förnödenheter för gruvor och liknande industrier."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Civila sprängämnen för gruvdrift, byggverksamhet etc."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Maskiner, bränsle, delar, gödsel och andra förnödenheter för jordbruk, skogar och liknande industrier."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Används i stålproduktion. Legeringar av järn och andra grundämnen, inklusive mangan, nickel, krom, aluminium, kisel och volfram. Grå klumpar, liknande kolklumpar i storlek och form."
+
+[CARGO_INFO_FERROCHROME]
+base = "Används vid produktion av legeringar och rostfritt stål, en legering av krom och järn. Grå klumpar, liknande kolklumpar i storlek och form."
+
+[CARGO_INFO_FLOUR]
+base = "Pulveriserade spannmålsprodukter såsom mjöl och stärkelse, transporterade i säckar eller i täckt bulk."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Metalldelar för montering till större föremål."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Ingredienser som används inom livsmedelsbearbetning, såsom konserveringsmedel, aromer, färgämnen och processhjälpmedel."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Livsmedel som hålls frysta under transport och lagring."
+
+[CARGO_INFO_FRUITS]
+base = "Färsk och torkad frukt, såsom bananer, citrusfrukter, vindruvor, bär, ananas, russin och liknande."
+
+[CARGO_INFO_GRAIN]
+base = "Vete, korn etc."
+
+[CARGO_INFO_HARDWARE]
+base = "För hushålls- och bygganvändning. Verktyg, redskap, fästen, beslag i metall och andra material."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Specialiserade kolmaterial såsom kalcinerad petroleumskok, tjära, högvärdiga tjäraarter och kolsvart, som används i metallurgiska och kemiska processer."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Industriegaser som används inom kemisk bearbetning, metallbearbetning och svetsning, och som transporteras i cylindrar eller trycktankvagnar."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Trummor, vinschar, bojor, krokar, block, hydrauliska stötar och andra delar till kranar, hissar, lyftanordningar etc."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Lätta petroleumfraktioner som används som kemiska råvaror, transporterade som bulkvätskor."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Främst kor, grisar och får för köttproduktion. Andra djur kan också ätas."
+
+[CARGO_INFO_LYE]
+base = "Industrikemikalie. Även känd som lut eller kaustisk soda. Transporteras vanligtvis som vätska."
+
+[CARGO_INFO_KAOLIN]
+base = "Industriellt mineral, även känt som kaolin, som huvudsakligen används i papper- och plastproduktion."
+
+[CARGO_INFO_MANGANESE]
+base = "Manganmalm, används främst i stålproduktion."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Maskiner, delar, bränsle, byggmaterial och andra förnödenheter för hamnar, kajer och liknande industrier."
+
+[CARGO_INFO_METAL]
+base = "Allmänna metaller, såsom stål, aluminium eller andra vanliga metaller."
+
+[CARGO_INFO_METHANOL]
+base = "Industriell alkohol som används som kemisk råvara och bränsle, transporterad som bulkvätska."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Mellanprodukter av socker för raffinering, jäsning och industriellt bruk. Klibbiga granulat hanteras som täckt bulk; tjock sirap som vätska; båda kan förpackas."
+
+[CARGO_INFO_NITROGEN]
+base = "Industriegas. Transporteras kryogent som flytande komprimerad gas."
+
+[CARGO_INFO_OIL]
+base = "Rå, orefinerad petroleum som transporteras som bulkvätska."
+
+[CARGO_INFO_OXYGEN]
+base = "Industriegas. Transporteras kryogent som flytande komprimerad gas."
+
+[CARGO_INFO_PACKAGING]
+base = "Lådor, flaskor, burkar, burkar etc."
+
+[CARGO_INFO_PEAT]
+base = "Biomassa från torvmarker, utvunnen för bränsle och trädgårdsodling."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Raffinerade petroleumprodukter såsom bensin, diesel, fotogen, LPG, eldningsolja och bunkerbränsle, transporterade som bulkvätskor eller flytande gas."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Industriell syra som huvudsakligen används i gödsel- och kemikalietillverkning, transporterad som bulkvätska."
+
+[CARGO_INFO_PIG_IRON]
+base = "Grundjärn från en masugn, som smält vätska eller fasta gjutningar."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Bomull, lin, jute och liknande material för produktion av textilier och kompositmaterial."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Drivna utrustningar och mekaniska system som används i byggnader, industrier och på jordbruk. Transporteras som kompletta enheter eller som större delkomponenter."
+
+[CARGO_INFO_PETROL]
+base = "Bensin, diesel och liknande bränslen."
+
+[CARGO_INFO_PLASTICS]
+base = "Rå plast för vidare bearbetning. Transporteras vanligtvis som hartspärlor."
+
+[CARGO_INFO_PIPEWORK]
+base = "Lagringstankar, tryckkärl, silos, gascylindrar och rörkonstruktioner för användning i stadsbyggnader, industrier och på jordbruk."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Industrikemikalier som används i tillverkning och bearbetning, och som transporteras som vätskor, pulver, gaser eller förpackade varor."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Sulfidmineraler som smälts för att producera en mängd olika industriprodukter."
+
+[CARGO_INFO_QUICKLIME]
+base = "Kalciumoxid, även känt som bränd kalk. Transporteras som ett fint pulver som måste hållas torrt."
+
+[CARGO_INFO_REBAR]
+base = "Tunna, grova stålstänger som i stor utsträckning används för att armera betongkonstruktioner. Transporteras som rullar eller buntar av raka stänger."
+
+[CARGO_INFO_RUBBER]
+base = "Främst naturlig latex."
+
+[CARGO_INFO_SALT]
+base = "En allmänt använd industriell kemikalie. Transporteras vanligtvis som bulklast som måste hållas torr."
+
+[CARGO_INFO_SAND]
+base = "Grovsand för byggändamål, eller fin kiselsand för glasframställning och metallgjutning. Transporteras som bulk eller pulver."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Flexibla tätningslister, packningar, slangar, remmar, mattor, bussningar etc., tillverkade av gummi eller liknande material."
+
+[CARGO_INFO_SLAG]
+base = "Avfallsprodukt från järn- och stålproduktion."
+
+[CARGO_INFO_SODA_ASH]
+base = "Industrikemikalie. Vit pulverform."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Halvfärdiga stålgytningar. Rektangulära, fyrkantiga eller runda i tvärsnitt."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Grova stålgjutningar som kräver vidare bearbetning. Tackor kan vara små eller mycket stora. Typiska tackprofiler är rektangulära eller runda."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Stålstänger, såsom runda, fyrkantiga, platta och andra profiler. Transporteras som långa, raka produkter."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Långa runda stålrör för transport av vätskor i rörledningar, byggnader, industrier etc."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Valsta plåt och profiler – I-balkar, H-balkar, kanaler etc. Transporteras som långa, raka produkter."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Tunn valsad stålplåt och -band som i stor utsträckning används för att tillverka andra produkter. Transporteras som platta ark eller som rullar."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Halvfärdiga stålgjutningar. Alltid platta och rektangulära i tvärsnitt."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Långt ihåligt rör med rund, rektangulär eller annan tvärsnittsform. Används för tillverkning av konstruktioner och maskiner."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Ståltråd och tunna stavar. Transporteras huvudsakligen som rullar."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Rep och kablar som framställs genom att dra ståltråd till en mindre diameter och sedan vira ihop dem till rep."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Stål av konstruktionskvalitet i valsade profiler (I-balkar, H-balkar etc.), som platta plåtar eller som tillverkade sektioner och balkar svetsade av plåt."
+
+[CARGO_INFO_SULPHUR]
+base = "En allmänt använd industriell kemikalie. Klargul, i pulver- eller flytande form."
+
+[CARGO_INFO_TIMBER]
+base = "Bearbetade träprodukter från en sågverk eller liknande industrier."
+
+[CARGO_INFO_TIN]
+base = "Tackor."
+
+[CARGO_INFO_TINPLATE]
+base = "Tunn stålplåt belagd med tenn för korrosionsbeständighet, som huvudsakligen används för burkar, behållare och annan förpackning."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Fintråd som används för att förstärka däck. Transporteras som rulle."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Kabiner, motorhuvar, dörrar och liknande karossdelar för fordonstillverkning."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Förbränningsmotorer och relaterade delar av drivlinan, såsom växellådor och drivaxlar."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponenter för fordonsproduktion, såsom chassi och fjädringsdelar, elektriska delar, exteriör trim och interiördelar."
+
+[CARGO_INFO_VEHICLES]
+base = "Främst lastbilar. Eller bilar. Eller lätta lastbilar. Kanske traktorer."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Förbrukningsvaror för skärning och svetsning av metall, såsom svetstråd, verktyg och industriella gaser inklusive acetylen, argon, propan, syre och kväve."
+
+[CARGO_INFO_WOOD]
+base = "Timmerstockar från en skog."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Bearbetad träfiber som huvudsakligen används för papperstillverkning, transporterad som balar eller bulkmassa."
+
+[CARGO_INFO_WOOL]
+base = "Balar."
+
+[CARGO_INFO_ZINC]
+base = "Tackor."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

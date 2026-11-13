@@ -1,0 +1,220 @@
+TASKS 31
+BY LANG {"catalan": 4, "french": 6, "galician": 3, "german": 2, "portuguese": 5, "spanish_MX": 3, "welsh": 5, "gaelic": 1, "latin": 1, "portuguese_BR": 1}
+
+catalan | extra_strings_catalan.toml | CARGO_INFO_CARBON_STEEL.base | billets
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, flors, lingots i lloses.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+catalan | extra_strings_catalan.toml | CARGO_INFO_CAST_IRON.base | billets
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, flors, lingots i lloses.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+french | extra_strings_fr.toml | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billettes, blooms, lingots et plaques.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+french | extra_strings_fr.toml | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billettes, blooms, lingots et plaques.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+french | extra_strings_french.toml | CARGO_INFO_CARBON_STEEL.base | billets,blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, lingots et dalles.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+french | extra_strings_french.toml | CARGO_INFO_CAST_IRON.base | billets,blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, lingots et dalles.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+galician | extra_strings_galician.toml | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billetes, blooms, lingotes e placas.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+galician | extra_strings_galician.toml | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billetes, blooms, lingotes e placas.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+german | extra_strings_german.toml | CARGO_INFO_CARBON_STEEL.base | billets
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, Blöme, Barren und Platten.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+german | extra_strings_german.toml | CARGO_INFO_CAST_IRON.base | billets
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, Blöme, Barren und Platten.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+portuguese | extra_strings_portuguese.toml | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Bilhetes, blooms, lingotes e lajes.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+portuguese | extra_strings_portuguese.toml | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Bilhetes, blooms, lingotes e lajes.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+portuguese | extra_strings_pt.toml | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Bilhetes, blooms, lingotes e lajes.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+portuguese | extra_strings_pt.toml | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Bilhetes, blooms, lingotes e lajes.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+spanish_MX | extra_strings_spanish_MX.toml | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billetes, blooms, lingotes y losas.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+spanish_MX | extra_strings_spanish_MX.toml | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billetes, blooms, lingotes y losas.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+welsh | extra_strings_welsh.toml | CARGO_INFO_CARBON_STEEL.base | ingots,slabs,billets,blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, ingots a slabs.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+welsh | extra_strings_welsh.toml | CARGO_INFO_CAST_IRON.base | ingots,slabs,billets,blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, ingots a slabs.
+  EG[afrikaans]: Billette, bloeiings, ingote en slabe.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[arabic]: قضبان، سبائك أولية، سبائك وقطع مسطحة.
+  EG[belarusian]: Білеты, блумы, сліткі і слэбы.
+welsh | extra_strings_welsh.toml | CARGO_INFO_PIG_IRON.base | ingots
+  EN: Basic iron from a blast furnace, as molten liquid or solid ingots.
+  TR: Haearn sylfaenol o ffwrnys ffrwydro, fel hylif wedi'i lewedu neu ingots cyfoethog.
+  EG[afrikaans]: Basiese yster uit ’n blaasoven, as gesmelte vloeistof of vaste ingote.
+  EG[arabic]: حديد أساسي من فرن الصهر، على شكل سائل منصهر أو سبائك صلبة.
+  EG[arabic]: حديد أساسي من فرن الصهر، على شكل سائل منصهر أو سبائك صلبة.
+  EG[belarusian]: Асноўнае жалеза з доменнай печы ў стане расплаўленай вадкасці або цвёрдых сліткаў.
+catalan | catalan.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | billets
+  EN: Billets & Blooms
+  TR: Billets i flors
+  EG[afrikaans]: Billette & Bloeiings
+  EG[arabic]: قضبان وسبائك أولية
+  EG[belarusian]: Білеты і блумы
+  EG[croatian]: Lijevani poluproizvodi i blovi
+catalan | catalan.toml | STR_CARGO_STEEL_INGOTS.cargo_unit | ingots
+  EN: {WEIGHT} of steel ingots
+  TR: {WEIGHT} d'ingots d'acer
+  EG[afrikaans]: {WEIGHT} staalblokke
+  EG[arabic]: {WEIGHT} من سبائك الفولاذ
+  EG[belarusian]: {WEIGHT} сталёвых сліткаў
+  EG[croatian]: {WEIGHT} čeličnih ingota
+french | french.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | blooms
+  EN: Billets & Blooms
+  TR: Billettes et blooms
+  EG[afrikaans]: Billette & Bloeiings
+  EG[arabic]: قضبان وسبائك أولية
+  EG[belarusian]: Білеты і блумы
+  EG[catalan]: Billets i flors
+french | french.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | blooms
+  EN: {WEIGHT} of billets & blooms
+  TR: {WEIGHT} de billettes et blooms
+  EG[afrikaans]: {WEIGHT} van billette en bloeisels
+  EG[arabic]: {WEIGHT} من السبائك والكتل المعدنية
+  EG[belarusian]: {WEIGHT} сліткаў і слітак-блумоў
+  EG[catalan]: {WEIGHT} de lingots i blocs de fosa
+gaelic | gaelic.toml | STR_CARGO_FARM_SUPPLIES.cargo_unit | crate
+  EN: {SIGNED_WORD} crate{P 0 "" s} of farm supplies
+  TR: {SIGNED_WORD} crate{P 0 "" s} de sholarachaidhean tuathanais
+  EG[afrikaans]: {SIGNED_WORD} krat{P 0 "" te} plaas benodighede
+  EG[arabic]: {SIGNED_WORD} صندوق{P 0 "" s} من مستلزمات المزرعة
+  EG[belarusian]: {SIGNED_WORD} адзін{P 0 ка ак ""} агратэхсродкаў
+  EG[catalan]: {SIGNED_WORD} caix{P 0 a es} de subministraments agrícoles
+galician | galician.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | blooms
+  EN: Billets & Blooms
+  TR: Billetes e blooms
+  EG[afrikaans]: Billette & Bloeiings
+  EG[arabic]: قضبان وسبائك أولية
+  EG[belarusian]: Білеты і блумы
+  EG[catalan]: Billets i flors
+latin | latin.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | blooms
+  EN: {WEIGHT} of billets & blooms
+  TR: {WEIGHT} billetes & blooms
+  EG[afrikaans]: {WEIGHT} van billette en bloeisels
+  EG[arabic]: {WEIGHT} من السبائك والكتل المعدنية
+  EG[belarusian]: {WEIGHT} сліткаў і слітак-блумоў
+  EG[catalan]: {WEIGHT} de lingots i blocs de fosa
+portuguese | portuguese.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | blooms
+  EN: Billets & Blooms
+  TR: Bilhetes e blooms
+  EG[afrikaans]: Billette & Bloeiings
+  EG[arabic]: قضبان وسبائك أولية
+  EG[belarusian]: Білеты і блумы
+  EG[catalan]: Billets i flors
+portuguese_BR | portuguese_BR.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | blooms
+  EN: {WEIGHT} of billets & blooms
+  TR: {WEIGHT} de lingotes e blooms
+  EG[afrikaans]: {WEIGHT} van billette en bloeisels
+  EG[arabic]: {WEIGHT} من السبائك والكتل المعدنية
+  EG[belarusian]: {WEIGHT} сліткаў і слітак-блумоў
+  EG[catalan]: {WEIGHT} de lingots i blocs de fosa
+spanish_MX | spanish_MX.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | blooms
+  EN: Billets & Blooms
+  TR: Billetes y blooms
+  EG[afrikaans]: Billette & Bloeiings
+  EG[arabic]: قضبان وسبائك أولية
+  EG[belarusian]: Білеты і блумы
+  EG[catalan]: Billets i flors
+welsh | welsh.toml | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | billets,blooms
+  EN: Billets & Blooms
+  TR: Billets a Blooms
+  EG[afrikaans]: Billette & Bloeiings
+  EG[arabic]: قضبان وسبائك أولية
+  EG[belarusian]: Білеты і блумы
+  EG[croatian]: Lijevani poluproizvodi i blovi
+welsh | welsh.toml | STR_CARGO_STEEL_INGOTS.name | ingots
+  EN: Steel Ingots
+  TR: Ingots Dur
+  EG[afrikaans]: Staalkluise
+  EG[arabic]: سبائك الفولاذ
+  EG[belarusian]: Сталевыя сліткі
+  EG[catalan]: Llengots d'acer

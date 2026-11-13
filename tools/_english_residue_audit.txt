@@ -1,0 +1,429 @@
+ENGLISH-RESIDUE AUDIT on generated/lang/*.lng (the strings the GAME shows)
+Non-Latin-script languages: flag when a value has ZERO native-script chars but contains English words.
+Latin-script languages: flag when a value looks like an English sentence (>=2 stopwords, >=4 words, no accented chars).
+
+### serbian  (99 flagged of 574)
+  STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY | no_native_script | Najveća udaljenost ribarskih lovišta i iskopa od obale mereno u pločicama | en_hits=3 two_words=True
+  STR_PARAM_DESC_ECONOMIES | no_native_script | Svaka ekonomija nudi različite kombinacije tovara i industrija.{}{}Za igrače koji žele jednostavniju igru, {SILVER}bazične{BLACK} ekonomije  | en_hits=8 two_words=True
+  STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY | no_native_script | Najveća udaljenost fabrika na vodi od obale | en_hits=3 two_words=True
+  STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0 | no_native_script | Bez ograničenja | en_hits=0 two_words=True
+  STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT | no_native_script | Količina sanduka tovara potrebnih za povećanje nivoa proizvodnje na "poboljšani" (zadana vrednost = 16) | en_hits=2 two_words=True
+  STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT | no_native_script | Količina sanduka tovara potrebnih za povećanje nivoa proizvodnje na "masovni" (zadana vrednost = 80) | en_hits=2 two_words=True
+  STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS | no_native_script | "Poboljšani" nivo proizvodnje (%) | en_hits=0 two_words=True
+  STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS | no_native_script | "Masovni" nivo proizvodnje (%) | en_hits=0 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_BONUS | no_native_script | Proizvodnja na farmama, u rudnicima i sličnim industrijama kada su potrebe isporuke zadovoljene (kao procenat{SILVER} Normalnog {BLACK} nivo | en_hits=3 two_words=True
+  STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE | no_native_script | Bazična - Umerena klima | en_hits=1 two_words=True
+  STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC | no_native_script | Bazična - Arktička klima | en_hits=1 two_words=True
+  STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC | no_native_script | Bazična - Tropska klima | en_hits=1 two_words=True
+  STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY | no_native_script | U vrućoj državi | en_hits=0 two_words=True
+  STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG | no_native_script | {BLACK}(dobavlja se) | en_hits=1 two_words=True
+  STR_PRIMARY_PRODUCTION_1X | no_native_script | {BLACK}Trenutna proizvodnja: {YELLOW}Normalna{}{}{BLACK}Za povećanje nivoa proizvodnje na {WHITE}poboljšani {BLACK} isporučite {SIGNED_WORD} | en_hits=5 two_words=True
+  STR_PRIMARY_PRODUCTION_2X | no_native_script | {BLACK}Trenutna proizvodnja: {YELLOW}Poboljšana{}{}{BLACK}Za zadržavanje ovog nivoa proizvodnje, isporučite{SIGNED_WORD} sanduka proizvodnog | en_hits=4 two_words=True
+  STR_PRIMARY_PRODUCTION_4X | no_native_script | {BLACK}Trenutna proizvodnja: {YELLOW}Masovna{}{}{BLACK}Za zadržavanje ovog nivoa proizvodnje, isporučite {SKIP}{SIGNED_WORD} sanduka proizvo | en_hits=2 two_words=True
+  STR_PORT_PRODUCTION_1X | no_native_script | {BLACK}Trenutna proizvodnja: {YELLOW}Normalna{}{}{BLACK}Za povećanje nivoa proizvodnje na{WHITE} poboljšani {BLACK} isporučite {SIGNED_WORD} | en_hits=5 two_words=True
+  STR_PORT_PRODUCTION_2X | no_native_script | {BLACK}Trenutna proizvodnja: {YELLOW}Poboljšana{}{}{BLACK}Za zadržavanje ovog nivoa proizvodnje, isporučite{SIGNED_WORD} jedinica proizvodno | en_hits=4 two_words=True
+  STR_PORT_PRODUCTION_4X | no_native_script | {BLACK}Trenutna proizvodnja: {YELLOW}Masovna{}{}{BLACK}Za zadržavanje ovog nivoa proizvodnje, isporučite {SKIP}{SIGNED_WORD} jedinica proizv | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_SET | no_native_script | {ORANGE}E01: {YELLOW}Nekompatibilan skup: {ORANGE}{STRING} | en_hits=1 two_words=True
+  STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE | no_native_script | mora se postaviti ispod snežnog pojasa. | en_hits=1 two_words=True
+  STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE | no_native_script | ne može se postaviti na kosinama. | en_hits=3 two_words=True
+  STR_FUND_ARABLE_FARM | no_native_script | {}{BLACK}Lokacija: {YELLOW}Ne može se graditi u snežnom/pustinjskom pojasu i na kosinama. | en_hits=4 two_words=True
+  STR_FUND_COFFEE_ESTATE | no_native_script | {}{BLACK}Lokacija: {YELLOW} Ne može se graditi na snegu i u pustinjama | en_hits=4 two_words=True
+  STR_FUND_DAIRY_FARM | no_native_script | {}{BLACK}Lokacija: {YELLOW} Ne može se graditi na snegu i u pustinjama | en_hits=4 two_words=True
+  STR_FUND_FOREST | no_native_script | {}{BLACK}Lokacija: {YELLOW}Ne može se graditi u pustinjskom pojasu. | en_hits=2 two_words=True
+  STR_FUND_FRUIT_PLANTATION | no_native_script | {}{BLACK}Lokacija: {YELLOW}Ne može se graditi u snežnom pojasu. | en_hits=2 two_words=True
+  STR_FUND_ORCHARD_PIGGERY | no_native_script | {}{BLACK}Lokacija: {YELLOW} Ne može se graditi na snegu i u pustinjama | en_hits=4 two_words=True
+  STR_FUND_RUBBER_PLANTATION | no_native_script | {}{BLACK}Lokacija: {YELLOW} Ne može se graditi na snegu i u pustinjama | en_hits=4 two_words=True
+  STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS_NAME | no_native_script | Amonijak i azotni proizvodi | en_hits=1 two_words=True
+  STR_CARGO_ANHYDRITE_NAME | no_native_script | Anhidritna stena | en_hits=0 two_words=True
+  STR_CARGO_BUILDING_MATERIALS_NAME | no_native_script | {G=muški}građevinski materijali | en_hits=0 two_words=True
+  STR_CARGO_BUILDING_MATERIALS_CARGO_UNIT | no_native_script | {WEIGHT} građevinskog materijala | en_hits=0 two_words=True
+  STR_CARGO_CHEMICALS_NAME | no_native_script | {G=muški}hemijski proizvodi | en_hits=0 two_words=True
+  STR_CARGO_CHEMICALS_CARGO_UNIT | no_native_script | {VOLUME} hemijskog proizvoda | en_hits=0 two_words=True
+  STR_CARGO_CONCRETE_PRODUCTS_NAME | no_native_script | Betonski proizvodi | en_hits=0 two_words=True
+  STR_CARGO_CONCRETE_PRODUCTS_CARGO_UNIT | no_native_script | {WEIGHT} betonskih proizvoda | en_hits=0 two_words=True
+  STR_CARGO_EDIBLE_OIL_NAME | no_native_script | Jestivo ulje | en_hits=0 two_words=True
+  STR_CARGO_EDIBLE_OIL_CARGO_UNIT | no_native_script | {VOLUME} jestivog ulja | en_hits=0 two_words=True
+  STR_CARGO_ELECTRICAL_PARTS_CARGO_UNIT | no_native_script | {WEIGHT} električnih delova | en_hits=0 two_words=True
+  STR_CARGO_ENGINEERING_SUPPLIES_NAME | no_native_script | {G=ženski}tehnička oprema | en_hits=0 two_words=True
+  STR_CARGO_ENGINEERING_SUPPLIES_CARGO_UNIT | no_native_script | {SIGNED_WORD} sanduka tehničke opreme | en_hits=0 two_words=True
+  STR_CARGO_FARM_SUPPLIES_NAME | no_native_script | {G=ženski}poljoprivredna oprema | en_hits=0 two_words=True
+  STR_CARGO_FARM_SUPPLIES_CARGO_UNIT | no_native_script | {SIGNED_WORD} sanduka poljoprivredne opreme | en_hits=0 two_words=True
+  STR_CARGO_FRUITS_NAME | no_native_script | {G=srednji}voće i povrće | en_hits=3 two_words=False
+  STR_CARGO_FRUITS_CARGO_UNIT | no_native_script | {WEIGHT} voća i povrća | en_hits=3 two_words=False
+  STR_CARGO_BARYTES_AND_FLUORSPAR_CARGO_UNIT | no_native_script | {WEIGHT} barija i fluorspar-a | en_hits=2 two_words=False
+  STR_CARGO_PETROLEUM_FUELS_NAME | no_native_script | {G=ženski}benzinska goriva | en_hits=0 two_words=True
+  STR_CARGO_PETROLEUM_FUELS_CARGO_UNIT | no_native_script | {VOLUME} benzinskih goriva | en_hits=0 two_words=True
+  STR_CARGO_PYRITE_ORE_NAME | no_native_script | Ruda pirita | en_hits=0 two_words=True
+  STR_CARGO_PYRITE_ORE_CARGO_UNIT | no_native_script | {WEIGHT}rude pirita | en_hits=0 two_words=True
+  STR_CARGO_SCRAP_METAL_NAME | no_native_script | {G=muški}metalni otpaci | en_hits=0 two_words=True
+  STR_CARGO_SCRAP_METAL_CARGO_UNIT | no_native_script | {WEIGHT} metalnih otpadaka | en_hits=0 two_words=True
+  STR_CARGO_TYRE_CORD_CARGO_UNIT | no_native_script | {WEIGHT} žičanog ojačanja gume | en_hits=1 two_words=True
+  STR_CARGO_VEGETABLES_CARGO_UNIT | no_native_script | {WEIGHT} povrća | en_hits=1 two_words=False
+  STR_CARGO_VEHICLE_BODIES_CARGO_UNIT | no_native_script | {WEIGHT} karoserija vozila | en_hits=0 two_words=True
+  STR_CARGO_VEHICLE_ENGINES_CARGO_UNIT | no_native_script | {WEIGHT} motora i pogonskog sklopa | en_hits=1 two_words=True
+  STR_CARGO_VEHICLE_PARTS_NAME | no_native_script | Delovi vozila | en_hits=0 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | no_native_script | {SIGNED_WORD} bal{P a e a} vune | en_hits=3 two_words=False
+
+### english  (38 flagged of 574)
+  STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY | english_sentence | Maximum distance of fishing grounds, oil rigs and dredging sites from the coast in tiles. | en_hits=5 two_words=True
+  STR_PARAM_DESC_ECONOMIES | english_sentence | Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}econom | en_hits=10 two_words=True
+  STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY | english_sentence | Maximum coastal distance of marine industries in tiles | en_hits=2 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT | english_sentence | Farms, mines and similar industries will increase production when supply crates are delivered, first to {SILVER}Enhanced{BLACK}, and then to | en_hits=20 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_BONUS | english_sentence | Production at farms, mines and similar industries when supply requirements are met (as percentage of {SILVER}Normal {BLACK}production level) | en_hits=6 two_words=True
+  STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY | english_sentence | In A Hot Country | en_hits=2 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY | english_sentence | {BLACK}Supply {WHITE}at least one {BLACK} required cargo for maximum production. | en_hits=2 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH | english_sentence | {BLACK}For maximum production rate, supply {WHITE}both {BLACK}required cargos at least once every three minutes. | en_hits=2 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL | english_sentence | {BLACK}For maximum production rate, supply {WHITE}all {BLACK}required cargos at least once every three minutes. | en_hits=3 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO | english_sentence | {BLACK}For maximum production rate, supply {WHITE}at least two {BLACK}required cargos at least once every three minutes. | en_hits=3 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE | english_sentence | {BLACK}For maximum production rate, supply {WHITE}at least three {BLACK}required cargos at least once every three minutes. | en_hits=3 two_words=True
+  STR_EXTRA_TEXT_TOWN_PRODUCER | english_sentence | {BLACK}Production is proportional to town population. At least {WHITE}{SIGNED_WORD} units{BLACK} and not more than {WHITE}{SIGNED_WORD} unit | en_hits=10 two_words=True
+  STR_PRIMARY_PRODUCTION_1X | english_sentence | {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} crates of supplies at least | en_hits=4 two_words=True
+  STR_PRIMARY_PRODUCTION_2X | english_sentence | {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} crates of supplies at least once every thre | en_hits=5 two_words=True
+  STR_PRIMARY_PRODUCTION_4X | english_sentence | {BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} crates of supplies at least once every | en_hits=4 two_words=True
+  STR_PORT_PRODUCTION_1X | english_sentence | {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} units of cargo at least onc | en_hits=4 two_words=True
+  STR_PORT_PRODUCTION_2X | english_sentence | {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} units of cargo at least once every three mi | en_hits=5 two_words=True
+  STR_PORT_PRODUCTION_4X | english_sentence | {BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} units of cargo at least once every thr | en_hits=4 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769) | en_hits=4 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CANSET | english_sentence | {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS. | en_hits=4 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS. | en_hits=5 two_words=True
+  STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION | english_sentence | {ORANGE}E04: {YELLOW}Incompatible version: {ORANGE}Total Town Replacement Set must be version release 3.11 or newer. | en_hits=3 two_words=True
+  STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE | english_sentence | must be placed below the snow line. | en_hits=2 two_words=True
+  STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE | english_sentence | cannot be placed on steep slopes. | en_hits=2 two_words=True
+  STR_FUND_ARABLE_FARM | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts. | en_hits=4 two_words=True
+  STR_FUND_COFFEE_ESTATE | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts. | en_hits=4 two_words=True
+  STR_FUND_DAIRY_FARM | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts. | en_hits=4 two_words=True
+  STR_FUND_FARM | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts. | en_hits=4 two_words=True
+  STR_FUND_FOREST | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded in deserts. | en_hits=2 two_words=True
+  STR_FUND_FRUIT_PLANTATION | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded on snow. | en_hits=2 two_words=True
+  STR_FUND_HERDING_COOP | english_sentence | {}{BLACK}Location: {YELLOW}Can only be funded on snow. | en_hits=3 two_words=True
+  STR_FUND_ORCHARD_PIGGERY | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts. | en_hits=4 two_words=True
+  STR_FUND_RUBBER_PLANTATION | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts. | en_hits=4 two_words=True
+  STR_FUND_VINEYARD | english_sentence | {}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts. | en_hits=4 two_words=True
+  STR_CARGO_COFFEE_CARGO_UNIT | english_sentence | {WEIGHT} sack{P 0 "" s} of coffee | en_hits=2 two_words=True
+  STR_CARGO_ENGINEERING_SUPPLIES_CARGO_UNIT | english_sentence | {SIGNED_WORD} crate{P 0 "" s} of engineering supplies | en_hits=2 two_words=True
+  STR_CARGO_FARM_SUPPLIES_CARGO_UNIT | english_sentence | {SIGNED_WORD} crate{P 0 "" s} of farm supplies | en_hits=2 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | english_sentence | {SIGNED_WORD} bale{P 0 "" s} of wool | en_hits=2 two_words=True
+
+### french  (29 flagged of 574)
+  STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY | english_sentence | Dans un pays chaud | en_hits=2 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH | english_sentence | {BLACK}Pour un taux de production maximal, fournissez {WHITE}les deux {BLACK}marchandises requises au moins une fois toutes les trois minute | en_hits=4 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL | english_sentence | {BLACK}Pour un taux de production maximal, fournissez {WHITE}toutes {BLACK}les marchandises requises au moins une fois toutes les trois minu | en_hits=4 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO | english_sentence | {BLACK}Pour un taux de production maximal, fournissez {WHITE}au moins deux {BLACK}marchandises requises au moins une fois toutes les trois m | en_hits=4 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE | english_sentence | {BLACK}Pour un taux de production maximal, fournissez {WHITE}au moins trois {BLACK}marchandises requises au moins une fois toutes les trois  | en_hits=4 two_words=True
+  STR_PRIMARY_PRODUCTION_4X | english_sentence | {BLACK}Production actuelle : {YELLOW}Entreprenante {}{}{BLACK}Pour maintenir ce niveau, livrez {SKIP}{SIGNED_WORD} caisses d’approvisionneme | en_hits=2 two_words=True
+  STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS_CARGO_UNIT | english_sentence | {VOLUME} de produits ammoniac et nitriques | en_hits=2 two_words=True
+  STR_CARGO_CARBON_BLACK_CARGO_UNIT | english_sentence | {WEIGHT} de noir de carbone | en_hits=2 two_words=True
+  STR_CARGO_COAL_TAR_CARGO_UNIT | english_sentence | {VOLUME} de goudron de houille | en_hits=2 two_words=True
+  STR_CARGO_FISH_NAME | english_sentence | Poisson et fruits de mer | en_hits=2 two_words=True
+  STR_CARGO_FISH_CARGO_UNIT | english_sentence | {WEIGHT} de poisson et fruits de mer | en_hits=3 two_words=True
+  STR_CARGO_FLOUR_CARGO_UNIT | english_sentence | {WEIGHT} de farine et amidon | en_hits=2 two_words=True
+  STR_CARGO_HARDWARE_CARGO_UNIT | english_sentence | {WEIGHT} de quincaillerie et finitions | en_hits=2 two_words=True
+  STR_CARGO_BARYTES_AND_FLUORSPAR_CARGO_UNIT | english_sentence | {WEIGHT} de baryte et fluorine | en_hits=2 two_words=True
+  STR_CARGO_PLANT_AND_MACHINERY_CARGO_UNIT | english_sentence | {WEIGHT} de plantes et machines | en_hits=2 two_words=True
+  STR_CARGO_PUMPS_AND_VALVES_CARGO_UNIT | english_sentence | {WEIGHT} de pompes et vannes | en_hits=2 two_words=True
+  STR_CARGO_PYRITE_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de minerai de pyrite | en_hits=2 two_words=True
+  STR_CARGO_SEALS_HOSES_AND_BELTS_CARGO_UNIT | english_sentence | {WEIGHT} de joints, tuyaux et courroies | en_hits=2 two_words=True
+  STR_CARGO_STEEL_BILLETS_AND_BLOOMS_CARGO_UNIT | english_sentence | {WEIGHT} de billettes et blooms | en_hits=2 two_words=True
+  STR_CARGO_TIMBER_CARGO_UNIT | english_sentence | {WEIGHT} de produits du bois | en_hits=2 two_words=True
+  STR_CARGO_VEHICLE_ENGINES_CARGO_UNIT | english_sentence | {WEIGHT} de moteurs et transmissions | en_hits=2 two_words=True
+  STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT | english_sentence | {WEIGHT} de consommables de soudage | en_hits=2 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | english_sentence | {SIGNED_WORD} balle{P 0 "" s} de laine | en_hits=2 two_words=True
+  STR_CARGO_ZINC_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de minerai de zinc | en_hits=2 two_words=True
+  STR_IND_ANHYDRITE_PROCESS_PLANT | english_sentence | Usine de traitement de l’anhydrite | en_hits=2 two_words=True
+  STR_IND_CHIPBOARD_FACTORY | english_sentence | Usine de panneaux de particules | en_hits=2 two_words=True
+  STR_IND_CARBON_BLACK_PLANT | english_sentence | Usine de noir de carbone | en_hits=2 two_words=True
+  STR_IND_BOTTLE_AND_CAN_FACTORY | english_sentence | Usine de bouteilles et de conserves | en_hits=3 two_words=True
+  STR_STATION_DAIRY_LANE | english_sentence | Route de la laiterie | en_hits=2 two_words=True
+
+### catalan  (27 flagged of 574)
+  STR_PARAM_NAME_OBJECTS | english_sentence | Objectes de paisatgisme de CIRS | en_hits=2 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS requereix OpenTTD 1.7.0 (o, per als qui utilitzin compilacions del tronc, r27769) | en_hits=4 two_words=True
+  STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE | english_sentence | s'ha de situar sota l'estatge de les neus. | en_hits=3 two_words=True
+  STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE | english_sentence | no es pot situar en terreny inclinat. | en_hits=2 two_words=True
+  STR_CARGO_CARBON_BLACK_CARGO_UNIT | english_sentence | {WEIGHT} de negre de carboni | en_hits=2 two_words=True
+  STR_CARGO_FISH_CARGO_UNIT | english_sentence | {WEIGHT} de peix i marisc | en_hits=2 two_words=True
+  STR_CARGO_FORGINGS_AND_CASTINGS_CARGO_UNIT | english_sentence | {WEIGHT} de peces forjades i foses | en_hits=2 two_words=True
+  STR_CARGO_GLASS_CARGO_UNIT | english_sentence | {WEIGHT} de productes de vidre | en_hits=2 two_words=True
+  STR_CARGO_HARDWARE_CARGO_UNIT | english_sentence | {WEIGHT} de ferratgeria i acabats | en_hits=2 two_words=True
+  STR_CARGO_BARYTES_AND_FLUORSPAR_CARGO_UNIT | english_sentence | {WEIGHT} de bari i fluorita | en_hits=2 two_words=True
+  STR_CARGO_MOLASSES_CARGO_UNIT | english_sentence | {WEIGHT} de sucre cru i melassa | en_hits=2 two_words=True
+  STR_CARGO_PAINTS_AND_COATINGS_CARGO_UNIT | english_sentence | {VOLUME} de pintures i revestiments | en_hits=2 two_words=True
+  STR_CARGO_PYRITE_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de mineral de pirita | en_hits=2 two_words=True
+  STR_CARGO_SODA_ASH_CARGO_UNIT | english_sentence | {WEIGHT} de cendra de soda | en_hits=2 two_words=True
+  STR_CARGO_STEEL_BILLETS_AND_BLOOMS_CARGO_UNIT | english_sentence | {WEIGHT} de lingots i blocs de fosa | en_hits=3 two_words=True
+  STR_CARGO_STEEL_SHEET_CARGO_UNIT | english_sentence | {WEIGHT} de fulla i franja d'acer | en_hits=2 two_words=True
+  STR_CARGO_STEEL_WIRE_ROD_CARGO_UNIT | english_sentence | {WEIGHT} de barra de fil d'acer | en_hits=2 two_words=True
+  STR_CARGO_TIMBER_CARGO_UNIT | english_sentence | {WEIGHT} de productes de fusta | en_hits=2 two_words=True
+  STR_CARGO_VEHICLE_BODIES_CARGO_UNIT | english_sentence | {WEIGHT} de carrosseries de vehicles | en_hits=2 two_words=True
+  STR_CARGO_VEHICLE_PARTS_CARGO_UNIT | english_sentence | {WEIGHT} de peces de vehicle | en_hits=2 two_words=True
+  STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT | english_sentence | {WEIGHT} de consumibles de soldadura | en_hits=2 two_words=True
+  STR_CARGO_WOOD_PULP_CARGO_UNIT | english_sentence | {WEIGHT} de pasta de fusta | en_hits=2 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | english_sentence | {SIGNED_WORD} bal{P 0 a es} de llana | en_hits=2 two_words=True
+  STR_CARGO_ZINC_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de mineral de zinc | en_hits=2 two_words=True
+  STR_IND_SECTION_AND_BAR_MILL | english_sentence | Taller de seccions i barres | en_hits=2 two_words=True
+  STR_IND_ORCHARD_PIGGERY | english_sentence | Arbres fruiters i granja de porcs | en_hits=2 two_words=True
+  STR_STATION_HERDING_COOP | english_sentence | Estables per a reinders | en_hits=2 two_words=True
+
+### galician  (27 flagged of 574)
+  STR_PARAM_NAME_OBJECTS | english_sentence | Obxectos de paisaxismo de CIRS | en_hits=2 two_words=True
+  STR_CARGO_ANHYDRITE_CARGO_UNIT | english_sentence | {WEIGHT} de rocha de anhidrita | en_hits=2 two_words=True
+  STR_CARGO_CLEANING_AGENTS_CARGO_UNIT | english_sentence | {WEIGHT} de axentes de limpeza | en_hits=2 two_words=True
+  STR_CARGO_FISH_CARGO_UNIT | english_sentence | {WEIGHT} de peixe e marisco | en_hits=2 two_words=True
+  STR_CARGO_FOOD_AND_BEVERAGES_CARGO_UNIT | english_sentence | {WEIGHT} de alimentos e bebidas | en_hits=2 two_words=True
+  STR_CARGO_FORGINGS_AND_CASTINGS_CARGO_UNIT | english_sentence | {WEIGHT} de pezas forxadas e fundidas | en_hits=2 two_words=True
+  STR_CARGO_GLASS_CARGO_UNIT | english_sentence | {WEIGHT} de produtos de vidro | en_hits=2 two_words=True
+  STR_CARGO_MOLASSES_CARGO_UNIT | english_sentence | {WEIGHT} de azucre bruto e melaza | en_hits=2 two_words=True
+  STR_CARGO_PAINTS_AND_COATINGS_CARGO_UNIT | english_sentence | {VOLUME} de pinturas e revistimentos | en_hits=2 two_words=True
+  STR_CARGO_PYRITE_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de mineral de pirita | en_hits=2 two_words=True
+  STR_CARGO_SEALS_HOSES_AND_BELTS_CARGO_UNIT | english_sentence | {WEIGHT} de selos, mangueras e correas | en_hits=2 two_words=True
+  STR_CARGO_STEEL_INGOTS_CARGO_UNIT | english_sentence | {WEIGHT} de lingotes de aceiro | en_hits=2 two_words=True
+  STR_CARGO_STEEL_PIPE_CARGO_UNIT | english_sentence | {WEIGHT} de tubos de aceiro | en_hits=2 two_words=True
+  STR_CARGO_STEEL_PLATE_CARGO_UNIT | english_sentence | {WEIGHT} de chapas de aceiro | en_hits=2 two_words=True
+  STR_CARGO_STEEL_SHEET_NAME | english_sentence | Folla e tiras de aceiro | en_hits=2 two_words=True
+  STR_CARGO_STEEL_SHEET_CARGO_UNIT | english_sentence | {WEIGHT} de follas e tiras de aceiro | en_hits=3 two_words=True
+  STR_CARGO_STEEL_SLAB_CARGO_UNIT | english_sentence | {WEIGHT} de placas de aceiro | en_hits=2 two_words=True
+  STR_CARGO_STEEL_TUBE_CARGO_UNIT | english_sentence | {WEIGHT} de tubos de aceiro | en_hits=2 two_words=True
+  STR_CARGO_STEEL_WIRE_ROD_CARGO_UNIT | english_sentence | {WEIGHT} de varas de aceiro | en_hits=2 two_words=True
+  STR_CARGO_TIMBER_CARGO_UNIT | english_sentence | {WEIGHT} de produtos de madeira | en_hits=2 two_words=True
+  STR_CARGO_TINPLATE_CARGO_UNIT | english_sentence | {WEIGHT} de follas de lata | en_hits=2 two_words=True
+  STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT | english_sentence | {WEIGHT} de consumibles de soldadura | en_hits=2 two_words=True
+  STR_CARGO_WOOD_PULP_CARGO_UNIT | english_sentence | {WEIGHT} de polpa de madeira | en_hits=2 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | english_sentence | {SIGNED_WORD} paca{P 0 "" s} de la | en_hits=3 two_words=True
+  STR_CARGO_ZINC_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de mineral de cinc | en_hits=2 two_words=True
+  STR_IND_ANHYDRITE_PROCESS_PLANT | english_sentence | Planta de procesamento de anhidrita | en_hits=2 two_words=True
+  STR_IND_SLAG_GRINDING_PLANT | english_sentence | Planta de triturado de escoura | en_hits=2 two_words=True
+
+### spanish_MX  (27 flagged of 574)
+  STR_GRF_NAME | english_sentence | Conjunto de reemplazo de industrias comunitarias de CIRS | en_hits=3 two_words=True
+  STR_PARAM_NAME_OBJECTS | english_sentence | Objetos de paisajismo de CIRS | en_hits=2 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS requiere OpenTTD 1.7.0 (o, para quienes usen compilaciones del trunk, r27769) | en_hits=3 two_words=True
+  STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE | english_sentence | se debe colocar debajo del nivel de nieve. | en_hits=3 two_words=True
+  STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE | english_sentence | no se puede colocar sobre pendientes. | en_hits=2 two_words=True
+  STR_CARGO_ANHYDRITE_CARGO_UNIT | english_sentence | {WEIGHT} de roca de anhidrita | en_hits=2 two_words=True
+  STR_CARGO_CLEANING_AGENTS_CARGO_UNIT | english_sentence | {WEIGHT} de agentes de limpieza | en_hits=2 two_words=True
+  STR_CARGO_ENGINEERING_SUPPLIES_CARGO_UNIT | english_sentence | {SIGNED_WORD} caja{P 0 "" s} de suministros de maquinaria | en_hits=3 two_words=True
+  STR_CARGO_GLASS_CARGO_UNIT | english_sentence | {WEIGHT} de productos de vidrio | en_hits=2 two_words=True
+  STR_CARGO_PYRITE_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de mineral de pirita | en_hits=2 two_words=True
+  STR_CARGO_REBAR_CARGO_UNIT | english_sentence | {WEIGHT} de barras de refuerzo | en_hits=2 two_words=True
+  STR_CARGO_SODA_ASH_CARGO_UNIT | english_sentence | {WEIGHT} de carbonato de sodio | en_hits=2 two_words=True
+  STR_CARGO_STEEL_INGOTS_CARGO_UNIT | english_sentence | {WEIGHT} de lingotes de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_PLATE_CARGO_UNIT | english_sentence | {WEIGHT} de placa de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_SHEET_CARGO_UNIT | english_sentence | {WEIGHT} de chapa y tiras de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_SLAB_CARGO_UNIT | english_sentence | {WEIGHT} de losa de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_TUBE_CARGO_UNIT | english_sentence | {WEIGHT} de tubo de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_WIRE_ROD_NAME | english_sentence | Barras de alambre de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_WIRE_ROD_CARGO_UNIT | english_sentence | {WEIGHT} de alambre de acero | en_hits=2 two_words=True
+  STR_CARGO_TIMBER_CARGO_UNIT | english_sentence | {WEIGHT} de productos de madera | en_hits=2 two_words=True
+  STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT | english_sentence | {WEIGHT} de consumibles de soldadura | en_hits=2 two_words=True
+  STR_CARGO_WOOD_PULP_CARGO_UNIT | english_sentence | {WEIGHT} de pulpa de madera | en_hits=2 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | english_sentence | {SIGNED_WORD} paca{P 0 "" s} de lana | en_hits=2 two_words=True
+  STR_CARGO_ZINC_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de mineral de zinc | en_hits=2 two_words=True
+  STR_IND_ANHYDRITE_PROCESS_PLANT | english_sentence | Planta de procesamiento de anhidrita | en_hits=2 two_words=True
+  STR_IND_SODA_ASH_MINE | english_sentence | {G=f}Mina de carbonato de sodio | en_hits=2 two_words=True
+  STR_IND_WIRE_ROD_MILL | english_sentence | Taller de barras de alambre | en_hits=2 two_words=True
+
+### spanish  (26 flagged of 574)
+  STR_PARAM_NAME_OBJECTS | english_sentence | Objetos de paisajismo de CIRS | en_hits=2 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS requiere OpenTTD 1.7.0 (o para quienes usan versiones trunk, r27769) | en_hits=2 two_words=True
+  STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE | english_sentence | no se puede colocar en pendientes pronunciadas. | en_hits=3 two_words=True
+  STR_CARGO_ANHYDRITE_CARGO_UNIT | english_sentence | {WEIGHT} de roca de anhidrita | en_hits=2 two_words=True
+  STR_CARGO_CARBON_BLACK_CARGO_UNIT | english_sentence | {WEIGHT} de negro de humo | en_hits=2 two_words=True
+  STR_CARGO_CLEANING_AGENTS_CARGO_UNIT | english_sentence | {WEIGHT} de agentes de limpieza | en_hits=2 two_words=True
+  STR_CARGO_GLASS_CARGO_UNIT | english_sentence | {WEIGHT} de productos de vidrio | en_hits=2 two_words=True
+  STR_CARGO_PYRITE_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de mineral de pirita | en_hits=2 two_words=True
+  STR_CARGO_SODA_ASH_CARGO_UNIT | english_sentence | {WEIGHT} de carbonato de sodio | en_hits=2 two_words=True
+  STR_CARGO_STEEL_INGOTS_CARGO_UNIT | english_sentence | {WEIGHT} de lingotes de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_PLATE_CARGO_UNIT | english_sentence | {WEIGHT} de chapa de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_SHEET_CARGO_UNIT | english_sentence | {WEIGHT} de chapa y banda de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_SLAB_CARGO_UNIT | english_sentence | {WEIGHT} de bloque de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_TUBE_CARGO_UNIT | english_sentence | {WEIGHT} de tubo de acero | en_hits=2 two_words=True
+  STR_CARGO_STEEL_WIRE_ROD_NAME | english_sentence | Varilla de alambre de acero | en_hits=2 two_words=True
+  STR_CARGO_TIMBER_CARGO_UNIT | english_sentence | {WEIGHT} de productos de madera | en_hits=2 two_words=True
+  STR_CARGO_TINPLATE_CARGO_UNIT | english_sentence | {WEIGHT} de hoja de lata | en_hits=2 two_words=True
+  STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT | english_sentence | {WEIGHT} de consumibles de soldadura | en_hits=2 two_words=True
+  STR_CARGO_WOOD_PULP_CARGO_UNIT | english_sentence | {WEIGHT} de pulpa de madera | en_hits=2 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | english_sentence | {SIGNED_WORD} fardo{P 0 "" s} de lana | en_hits=2 two_words=True
+  STR_CARGO_ZINC_ORE_CARGO_UNIT | english_sentence | {WEIGHT} de mineral de cinc | en_hits=2 two_words=True
+  STR_IND_ANHYDRITE_PROCESS_PLANT | english_sentence | Planta de tratamiento de anhidrita | en_hits=2 two_words=True
+  STR_IND_CARBON_BLACK_PLANT | english_sentence | Planta de negro de humo | en_hits=2 two_words=True
+  STR_IND_FOOD_PROCESSOR | english_sentence | Planta de procesamiento de alimentos | en_hits=2 two_words=True
+  STR_IND_SLAG_GRINDING_PLANT | english_sentence | Planta de molienda de escoria | en_hits=2 two_words=True
+  STR_IND_SODA_ASH_MINE | english_sentence | Mina de carbonato de sodio | en_hits=2 two_words=True
+
+### portuguese  (23 flagged of 574)
+  STR_PARAM_NAME_OBJECTS | english_sentence | Objetos de paisagismo do CIRS | en_hits=2 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: O CIRS requer OpenTTD 1.7.0 (ou, para quem usa builds de trunk, r27769) | en_hits=3 two_words=True
+  STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE | english_sentence | deve ser colocado abaixo da linha de neve. | en_hits=2 two_words=True
+  STR_CARGO_ANHYDRITE_CARGO_UNIT | english_sentence | {WEIGHT} de rocha de anidrita | en_hits=2 two_words=True
+  STR_CARGO_CARBON_BLACK_CARGO_UNIT | english_sentence | {WEIGHT} de negro de fumo | en_hits=2 two_words=True
+  STR_CARGO_CLEANING_AGENTS_CARGO_UNIT | english_sentence | {WEIGHT} de agentes de limpeza | en_hits=2 two_words=True
+  STR_CARGO_FISH_NAME | english_sentence | Peixe e Frutos do Mar | en_hits=2 two_words=True
+  STR_CARGO_FISH_CARGO_UNIT | english_sentence | {WEIGHT} de peixes e mariscos | en_hits=2 two_words=True
+  STR_CARGO_FARM_SUPPLIES_CARGO_UNIT | english_sentence | {SIGNED_WORD} caixa{P 0 "" s} de fertilizante | en_hits=2 two_words=True
+  STR_CARGO_FLOUR_CARGO_UNIT | english_sentence | {WEIGHT} de farinha e amido | en_hits=2 two_words=True
+  STR_CARGO_FOOD_AND_BEVERAGES_CARGO_UNIT | english_sentence | {WEIGHT} de alimentos e bebidas | en_hits=2 two_words=True
+  STR_CARGO_GLASS_CARGO_UNIT | english_sentence | {WEIGHT} de produtos de vidro | en_hits=2 two_words=True
+  STR_CARGO_HARDWARE_CARGO_UNIT | english_sentence | {WEIGHT} de ferragens e acabamentos | en_hits=2 two_words=True
+  STR_CARGO_PAINTS_AND_COATINGS_CARGO_UNIT | english_sentence | {VOLUME} de tintas e revestimentos | en_hits=2 two_words=True
+  STR_CARGO_PIG_IRON_CARGO_UNIT | english_sentence | {WEIGHT} de liga de ferro | en_hits=2 two_words=True
+  STR_CARGO_STEEL_BILLETS_AND_BLOOMS_CARGO_UNIT | english_sentence | {WEIGHT} de lingotes e blocos de metal | en_hits=3 two_words=True
+  STR_CARGO_TIMBER_CARGO_UNIT | english_sentence | {WEIGHT} de produtos de madeira | en_hits=2 two_words=True
+  STR_CARGO_TINPLATE_CARGO_UNIT | english_sentence | {WEIGHT} de folha de flandres | en_hits=2 two_words=True
+  STR_CARGO_TYRE_CORD_CARGO_UNIT | english_sentence | {WEIGHT} de corda de pneu | en_hits=2 two_words=True
+  STR_CARGO_WOOD_PULP_CARGO_UNIT | english_sentence | {WEIGHT} de polpa de madeira | en_hits=2 two_words=True
+  STR_IND_ANHYDRITE_PROCESS_PLANT | english_sentence | Usina de Processamento de Anidrita | en_hits=2 two_words=True
+  STR_IND_CARBON_BLACK_PLANT | english_sentence | Usina de Negro de Fumo | en_hits=2 two_words=True
+  STR_IND_FOOD_PROCESSOR | english_sentence | Usina de Processamento de Alimentos | en_hits=2 two_words=True
+
+### portuguese_BR  (22 flagged of 574)
+  STR_PARAM_NAME_OBJECTS | english_sentence | Objetos de paisagismo do CIRS | en_hits=2 two_words=True
+  STR_CARGO_ANHYDRITE_CARGO_UNIT | english_sentence | {WEIGHT} de rocha de anidrita | en_hits=2 two_words=True
+  STR_CARGO_CARBON_BLACK_CARGO_UNIT | english_sentence | {WEIGHT} de negro de carbono | en_hits=2 two_words=True
+  STR_CARGO_CLEANING_AGENTS_CARGO_UNIT | english_sentence | {WEIGHT} de agentes de limpeza | en_hits=2 two_words=True
+  STR_CARGO_CONCRETE_PRODUCTS_CARGO_UNIT | english_sentence | {WEIGHT} de produtos de concreto | en_hits=2 two_words=True
+  STR_CARGO_FISH_NAME | english_sentence | Peixes e Frutos do Mar | en_hits=2 two_words=True
+  STR_CARGO_FISH_CARGO_UNIT | english_sentence | {WEIGHT} de peixes e frutos do mar | en_hits=3 two_words=True
+  STR_CARGO_FARM_SUPPLIES_CARGO_UNIT | english_sentence | {SIGNED_WORD} caixa{P 0 "" s} de fertilizante | en_hits=2 two_words=True
+  STR_CARGO_FLOUR_CARGO_UNIT | english_sentence | {WEIGHT} de farinha e amido | en_hits=2 two_words=True
+  STR_CARGO_FOOD_AND_BEVERAGES_CARGO_UNIT | english_sentence | {WEIGHT} de alimentos e bebidas | en_hits=2 two_words=True
+  STR_CARGO_GLASS_CARGO_UNIT | english_sentence | {WEIGHT} de produtos de vidro | en_hits=2 two_words=True
+  STR_CARGO_HARDWARE_CARGO_UNIT | english_sentence | {WEIGHT} de ferragens e acabamentos | en_hits=2 two_words=True
+  STR_CARGO_BARYTES_AND_FLUORSPAR_CARGO_UNIT | english_sentence | {WEIGHT} de barita e fluorita | en_hits=2 two_words=True
+  STR_CARGO_PAINTS_AND_COATINGS_CARGO_UNIT | english_sentence | {VOLUME} de tintas e revestimentos | en_hits=2 two_words=True
+  STR_CARGO_STEEL_BILLETS_AND_BLOOMS_CARGO_UNIT | english_sentence | {WEIGHT} de lingotes e blooms | en_hits=2 two_words=True
+  STR_CARGO_TIMBER_CARGO_UNIT | english_sentence | {WEIGHT} de produtos de madeira | en_hits=2 two_words=True
+  STR_CARGO_TINPLATE_CARGO_UNIT | english_sentence | {WEIGHT} de folha de flandres | en_hits=2 two_words=True
+  STR_CARGO_TYRE_CORD_CARGO_UNIT | english_sentence | {WEIGHT} de corda de pneu | en_hits=2 two_words=True
+  STR_CARGO_WOOD_PULP_CARGO_UNIT | english_sentence | {WEIGHT} de polpa de madeira | en_hits=2 two_words=True
+  STR_IND_ANHYDRITE_PROCESS_PLANT | english_sentence | Planta de Processamento de Anidrita | en_hits=2 two_words=True
+  STR_IND_FOOD_PROCESSOR | english_sentence | Planta de Processamento de Alimentos | en_hits=2 two_words=True
+  STR_STATION_FOREST | english_sentence | Ponto de Descarga de Troncos | en_hits=2 two_words=True
+
+### welsh  (22 flagged of 574)
+  STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY | english_sentence | Pellter uchafsymol o'r arfordir ar gyfer meusydd pysgota, rigiau olew a mannau carthu fishing grounds, oil rigs and dredging sites, mewn tei | en_hits=3 two_words=True
+  STR_PARAM_DESC_ECONOMIES | english_sentence | Mae pob economi yn darparu cyfuniad gwahanol o nwyddau a diwydiannau.{}{}I chwaraewyr sydd eisiau chwarae syml, mae gan economi {SILVER}Sylf | en_hits=6 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT | english_sentence | Bydd ffermydd, mineau a diwydiannau tebyg yn cynyddu cynhyrchu pan fydd blwchau cyflenwad yn cael eu dosbarthu, yn gyntaf i {SILVER}Enhanced | en_hits=8 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_BONUS | english_sentence | Cynhyrchu ar ffermydd, mewn mines a diwydiannau tebyg pan gaiff gofynion cyflenwi eu bodloni (fel canran o lefel cynhyrchu {SILVER}Normal {B | en_hits=2 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY | english_sentence | {BLACK}Cyflenwch {WHITE}o leiaf un {BLACK} o nwyddau gofynnol ar gyfer cynhyrchu uchaf. | en_hits=3 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO | english_sentence | {BLACK}Ar gyfer cyfradd cynhyrchu uchaf, cyflenwch {WHITE}o leiaf dwy {BLACK}cargoes angenrheidiol o leiaf unwaith bob tri munud. | en_hits=2 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE | english_sentence | {BLACK}Ar gyfer cyfradd cynhyrchu uchaf, cyflenwch {WHITE}o leiaf tri {BLACK}cargos angenrheidiol o leiaf unwaith bob tri munud. | en_hits=2 two_words=True
+  STR_PRIMARY_PRODUCTION_1X | english_sentence | {BLACK}Cynhyrchiant presennol: {YELLOW}Normal {}{}{BLACK}Ar gyfer cynhyrchiant {WHITE}Gwell {BLACK}, dosbarthwch {SIGNED_WORD} blwch o gyfle | en_hits=2 two_words=True
+  STR_PRIMARY_PRODUCTION_2X | english_sentence | {BLACK}Cynhyrchiant presennol: {YELLOW}Gwell {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SIGNED_WORD} blwch o gyflenwadau o leiaf unwaith  | en_hits=3 two_words=True
+  STR_PRIMARY_PRODUCTION_4X | english_sentence | {BLACK}Cynhyrchiant presennol: {YELLOW}Gung-ho {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SKIP}{SIGNED_WORD} blwch o gyflenwadau o leiaf  | en_hits=3 two_words=True
+  STR_PORT_PRODUCTION_1X | english_sentence | {BLACK}Cynhyrchiant presennol: {YELLOW}Normal {}{}{BLACK}Ar gyfer cynhyrchiant {WHITE}Gwell {BLACK}, dosbarthwch {SIGNED_WORD} uned o nwydda | en_hits=2 two_words=True
+  STR_PORT_PRODUCTION_2X | english_sentence | {BLACK}Cynhyrchiant presennol: {YELLOW}Gwell {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SIGNED_WORD} uned o nwyddau o leiaf unwaith bob t | en_hits=3 two_words=True
+  STR_PORT_PRODUCTION_4X | english_sentence | {BLACK}Cynnyrch presennol: {YELLOW}Gung-ho{}{}{BLACK}I gadw'r lefel yma, rhaid anfon {SKIP}{SIGNED_WORD} uned o gargo o fewn tair mis | en_hits=3 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: Mae CIRS yn gofyn am OpenTTD 1.7.0 (neu, i'r rhai sy'n defnyddio adeiladau trunk, r27769) | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CANSET | english_sentence | {ORANGE}E02: {YELLOW}Paramedr anghydlynol: {ORANGE}Rhaid i baramedr CanSet 2 fod yn 0 er mwyn gweithio gyda CIRS. | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Paramedr anghydlynol: {ORANGE}Rhaid i baramedr 2 Set Dinas NA fod yn 0 er mwyn gweithio gyda CIRS. | en_hits=3 two_words=True
+  STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION | english_sentence | {ORANGE}E04: {YELLOW}Fersiwn anghydlynol: {ORANGE}Rhaid i Set Disodli Tref Cyfan fod yn fersiwn rhyddhau 3.11 neu fwy newydd. | en_hits=2 two_words=True
+  STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS_CARGO_UNIT | english_sentence | {VOLUME} o amonia a chynhyrchion nitrig | en_hits=2 two_words=True
+  STR_CARGO_FROZEN_FOOD_CARGO_UNIT | english_sentence | {WEIGHT} o fwyd wedi'i rewi | en_hits=2 two_words=True
+  STR_CARGO_MOLASSES_CARGO_UNIT | english_sentence | {WEIGHT} o siwgr crai a melas | en_hits=2 two_words=True
+  STR_CARGO_PIPEWORK_CARGO_UNIT | english_sentence | {WEIGHT} o danciau storio a phibellu | en_hits=2 two_words=True
+  STR_CARGO_STEEL_SHEET_CARGO_UNIT | english_sentence | {WEIGHT} o dapiau a stribedi dur | en_hits=2 two_words=True
+
+### italian  (18 flagged of 574)
+  STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY | english_sentence | Distanza massima, in caselle, di zone di pesca, piattaforme petrolifere e siti di dragaggio dalla costa. | en_hits=2 two_words=True
+  STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT | english_sentence | Casse di forniture necessarie per il livello di produzione Elevato (valore predefinito: 16) | en_hits=2 two_words=True
+  STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT | english_sentence | Casse di forniture necessarie per il livello di produzione Gung ho (valore predefinito: 80) | en_hits=2 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_BONUS | english_sentence | Produzione delle fattorie, miniere e industrie simili, quando le merci richieste vengono consegnate (espresso in percentuale del valore {SIL | en_hits=4 two_words=True
+  STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY | english_sentence | In un Paese caldo | en_hits=2 two_words=True
+  STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY | english_sentence | {BLACK}Raggiunge il massimo livello di produzione se {WHITE}una qualsiasi {BLACK}delle merci richieste viene consegnata. | en_hits=3 two_words=True
+  STR_PRIMARY_PRODUCTION_1X | english_sentence | {BLACK}Produzione attuale: {YELLOW}Normale{}{}{BLACK}Il livello di produzione {WHITE}Elevato {BLACK} si raggiunge consegnando {SIGNED_WORD}  | en_hits=4 two_words=True
+  STR_PRIMARY_PRODUCTION_2X | english_sentence | {BLACK}Produzione attuale: {YELLOW}Elevata{}{}{BLACK}Per mantenere questo livello di produzione, si devono consegnare {SIGNED_WORD} casse di | en_hits=4 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS richiede OpenTTD 1.7.0 (o per quelli che usano una trunk build, r27769) | en_hits=4 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CANSET | english_sentence | {ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}CanSet parameter 2 deve essere 0 per funzionare con CIRS. | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}NA City Set parameter 2 deve essere 0 per funzionare con CIRS. | en_hits=3 two_words=True
+  STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION | english_sentence | {ORANGE}E04: {YELLOW}Versione incompatibile: {ORANGE}Total Town Replacement Set deve essere versione 3.11 o superiori. | en_hits=2 two_words=True
+  STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS_CARGO_UNIT | english_sentence | {VOLUME} di prodotti a base di ammoniaca e acido nitrico | en_hits=2 two_words=True
+  STR_CARGO_ENGINEERING_SUPPLIES_CARGO_UNIT | english_sentence | {SIGNED_WORD} cass{P 0 a e} di forniture meccaniche | en_hits=2 two_words=True
+  STR_CARGO_FARM_SUPPLIES_CARGO_UNIT | english_sentence | {SIGNED_WORD} cass{P 0 a e} di forniture agricole | en_hits=2 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | english_sentence | {SIGNED_WORD} ball{P 0 a e} di lana | en_hits=2 two_words=True
+  STR_IND_SECTION_AND_BAR_MILL | english_sentence | Sezionatrice e tornio per barre | en_hits=2 two_words=True
+  STR_IND_TUBE_AND_PIPE_MILL | english_sentence | Officina per tubi e condotte | en_hits=2 two_words=True
+
+### afrikaans  (13 flagged of 574)
+  STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT | english_sentence | Plase, myne en soortgelyke nywerhede sal produksie verhoog wanneer voorraadkiste afgelewer word, eers aan {SILVER}Verbeterde{BLACK}, en daar | en_hits=6 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_BONUS | english_sentence | Produksie op plase, myne en soortgelyke nywerhede wanneer verskaffingsvereistes vervul word (as ’n persentasie van die {SILVER}normale {BLAC | en_hits=3 two_words=True
+  STR_EXTRA_TEXT_TOWN_PRODUCER | english_sentence | {BLACK}Produksie is eweredig aan die dorp se bevolking. Minstens {WHITE}{SIGNED_WORD} eenhede{BLACK} en nie meer as {WHITE}{SIGNED_WORD} een | en_hits=5 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met CIRS te werk. | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION | english_sentence | {ORANGE}E04: {YELLOW}Onversoenbare weergawe: {ORANGE}Total Town Replacement Set moet weergawe 3.11 of nuwer wees. | en_hits=2 two_words=True
+  STR_FUND_ARABLE_FARM | english_sentence | {}{BLACK}Ligging: {YELLOW}Kannie befonds word in sneeu of in die woestyn nie. | en_hits=4 two_words=True
+  STR_FUND_COFFEE_ESTATE | english_sentence | {}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word. | en_hits=3 two_words=True
+  STR_FUND_DAIRY_FARM | english_sentence | {}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word. | en_hits=3 two_words=True
+  STR_FUND_FARM | english_sentence | {}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word. | en_hits=3 two_words=True
+  STR_FUND_FOREST | english_sentence | {}{BLACK}Ligging: {YELLOW}Kannie befonds word in die woestyn. | en_hits=2 two_words=True
+  STR_FUND_ORCHARD_PIGGERY | english_sentence | {}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word. | en_hits=3 two_words=True
+  STR_FUND_RUBBER_PLANTATION | english_sentence | {}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word. | en_hits=3 two_words=True
+  STR_FUND_VINEYARD | english_sentence | {}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word. | en_hits=3 two_words=True
+
+### dutch  (12 flagged of 574)
+  STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY | english_sentence | Maximale afstand tot de kust in tegels voor visgebieden en baggermolens. | en_hits=3 two_words=True
+  STR_EXTRA_TEXT_TOWN_PRODUCER | english_sentence | {BLACK}De productie is evenredig met de bevolking van de stad. Er wordt elke minuut minstens {WHITE}{SIGNED_WORD} eenheden{BLACK} en niet me | en_hits=5 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS vereist OpenTTD 1.7.0 (of, voor degenen die trunk-builds gebruiken, r27769) | en_hits=3 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Incompatibele parameter: {ORANGE}Bij de NA City Set moet parameter 2 0 zijn om met CIRS te werken. | en_hits=3 two_words=True
+  STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION | english_sentence | {ORANGE}E04: {YELLOW}Incompatibele versie: {ORANGE}De Total Town Replacement Set moet versie 3.11 of nieuwer zijn. | en_hits=3 two_words=True
+  STR_FUND_ARABLE_FARM | english_sentence | {}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden. | en_hits=3 two_words=True
+  STR_FUND_COFFEE_ESTATE | english_sentence | {}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden. | en_hits=3 two_words=True
+  STR_FUND_DAIRY_FARM | english_sentence | {}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden. | en_hits=3 two_words=True
+  STR_FUND_FARM | english_sentence | {}{BLACK}Plaats: {YELLOW}Kan niet op sneeuw of in woestijnen gebouwd worden. | en_hits=2 two_words=True
+  STR_FUND_ORCHARD_PIGGERY | english_sentence | {}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden. | en_hits=3 two_words=True
+  STR_FUND_RUBBER_PLANTATION | english_sentence | {}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden. | en_hits=3 two_words=True
+  STR_FUND_VINEYARD | english_sentence | {}{BLACK}Plaats: {YELLOW}Kan niet op sneeuw of in woestijnen gebouwd worden. | en_hits=2 two_words=True
+
+### romanian  (8 flagged of 574)
+  STR_PARAM_NAME_OBJECTS | english_sentence | Obiectele de amenajare a peisajului CIRS | en_hits=2 two_words=True
+  STR_CARGO_CARBON_BLACK_CARGO_UNIT | english_sentence | {WEIGHT} de negru de carbon | en_hits=2 two_words=True
+  STR_CARGO_COFFEE_CARGO_UNIT | english_sentence | {WEIGHT} sac{P 0 "" s} de cafea | en_hits=2 two_words=True
+  STR_CARGO_COMPONENTS_CARGO_UNIT | english_sentence | {WEIGHT} de componente de precizie | en_hits=2 two_words=True
+  STR_CARGO_LYE_CARGO_UNIT | english_sentence | {VOLUME} de hidroxid de sodiu | en_hits=2 two_words=True
+  STR_CARGO_VEHICLE_BODIES_CARGO_UNIT | english_sentence | {WEIGHT} de caroserii de vehicule | en_hits=2 two_words=True
+  STR_IND_ANHYDRITE_PROCESS_PLANT | english_sentence | Unitate de procesare a anhidritei | en_hits=2 two_words=True
+  STR_IND_FROZEN_FOOD_PLANT | english_sentence | Unitate de procesare a alimentelor congelate | en_hits=2 two_words=True
+
+### esperanto  (6 flagged of 574)
+  STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY | english_sentence | Maksimuma marborda distanco de mara industrioj en kaheloj | en_hits=2 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_BONUS | english_sentence | Produktado en farmoj, minejoj kaj similaj industrioj kiam la provizbezonoj estas plenumitaj (kiel procento de la {SILVER}normala {BLACK}prod | en_hits=4 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CANSET | english_sentence | {ORANGE}E02: {YELLOW}Nekongrua parametro: {ORANGE}La parametro CanSet 2 devas esti 0 por funkcii kun CIRS. | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Nekongrua parametro: {ORANGE}La parametro 2 de la NA City Set devas esti 0 por funkcii kun CIRS. | en_hits=5 two_words=True
+  STR_CARGO_COFFEE_CARGO_UNIT | english_sentence | {WEIGHT} sakoj{P 0 "" s} da kafo | en_hits=2 two_words=True
+  STR_CARGO_WOOL_CARGO_UNIT | english_sentence | {SIGNED_WORD} balo{P 0 "" s} da lano | en_hits=2 two_words=True
+
+### croatian  (5 flagged of 574)
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS zahtijeva OpenTTD 1.7.0 (ili, za one koji koriste izgradnje iz glavnog granca, r27769) | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CANSET | english_sentence | {ORANGE}E02: {YELLOW}Nekompatibilni parametar: {ORANGE}Parametar CanSet 2 mora biti 0 kako bi radio s CIRS-om. | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Nekompatibilni parametar: {ORANGE}Parametar NA City Set 2 mora biti 0 kako bi radio s CIRS-om. | en_hits=3 two_words=True
+  STR_FUND_HERDING_COOP | english_sentence | {}{BLACK}Lokacija: {YELLOW}Mora se financirati na snijegu. | en_hits=2 two_words=True
+  STR_IND_PHOSPHATE_AND_ACID_PLANT | english_sentence | Postrojenje za gnojiva i kiseline | en_hits=2 two_words=True
+
+### gaelic  (4 flagged of 574)
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: Feumaidh CIRS OpenTTD 1.7.0 (no, do dh’fheadhainn a bhios a’ cleachdadh togalaichean trunk, r27769) | en_hits=5 two_words=True
+  STR_CARGO_COFFEE_CARGO_UNIT | english_sentence | {WEIGHT} poc{P 0 "" s} de chabhag | en_hits=2 two_words=True
+  STR_CARGO_FARM_SUPPLIES_CARGO_UNIT | english_sentence | {SIGNED_WORD} crate{P 0 "" s} de sholarachaidhean tuathanais | en_hits=2 two_words=True
+  STR_CARGO_PUMPS_AND_VALVES_CARGO_UNIT | english_sentence | {WEIGHT} de phuimpean is bhalbhaichean | en_hits=2 two_words=True
+
+### latin  (4 flagged of 574)
+  STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY | english_sentence | Numerus tegularum maximus a littore ad zonas piscarias, suggestus petrolearios, et situs effosionis struendos. | en_hits=2 two_words=True
+  STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT | english_sentence | Productio fundorum, fodinarum, et ceterarum industriarum augetur dum necessarii apparatus traditi sunt, primum {SILVER}aucta{BLACK}, demum { | en_hits=3 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS OpenTTD 1.7.0 requirit (vel, pro iis qui versiones e ramulo principali adhibent, r27769) | en_hits=2 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Parameter incompatibilis: {ORANGE}Parameter 2 NA City Set 0 esse debet ut cum CIRS operetur. | en_hits=2 two_words=True
+
+### finnish  (3 flagged of 574)
+  STR_ERR_INCOMPATIBLE_PARAM_CANSET | english_sentence | {ORANGE}E02: {YELLOW}Yhteensopimaton parametri: {ORANGE}CanSet-parametrin 2 arvon on oltava 0, jotta se toimii CIRS:n kanssa. | en_hits=3 two_words=True
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Yhteensopimaton parametri: {ORANGE}NA City Setin parametrin 2 arvon on oltava 0, jotta se toimii CIRS:n kanssa. | en_hits=4 two_words=True
+  STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION | english_sentence | {ORANGE}E04: {YELLOW}Yhteensopimaton versio: {ORANGE}Total Town Replacement Setin on oltava versio 3.11 tai uudempi. | en_hits=2 two_words=True
+
+### norwegian_bokmal  (2 flagged of 574)
+  STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY | english_sentence | I et hett land | en_hits=2 two_words=True
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS krever OpenTTD 1.7.0 (eller, for de som bruker trunk-bygninger, r27769) | en_hits=3 two_words=True
+
+### german  (1 flagged of 574)
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Inkompatibler Parameter: {ORANGE}NA City Set Parameter 2 muss 0 sein, um mit CIRS zu funktionieren. | en_hits=2 two_words=True
+
+### indonesian  (1 flagged of 574)
+  STR_ERR_INCOMPATIBLE_PARAM_CITYSET | english_sentence | {ORANGE}E02: {YELLOW}Parameter tidak kompatibel: {ORANGE}Parameter NA City Set 2 harus 0 agar dapat berfungsi dengan CIRS. | en_hits=2 two_words=True
+
+### polish  (1 flagged of 574)
+  STR_ERR_OPENTTD_VERSION | english_sentence | {ORANGE}E00: CIRS wymaga OpenTTD w wersji przynajmniej 1.7.0 (rewizja 27769 i kolejne) | en_hits=2 two_words=True
+

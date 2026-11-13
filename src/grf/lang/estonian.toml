@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x34"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS-i kogukonna tööstuse asendussett"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS-i kogukonna tööstuse asendussett{}{BLACK}Kogukonna hooldatav FIRS-i harg, mille algseid autorid olid andythenorth, FooBar, planetmaker, Terkhen ja Yexo ning mille loomisel aitasid paljud teised. {SILVER}Vaadake veebisaiti lisateabe saamiseks, sealhulgas selle kohta, kuidas CIRS-i kasutada. {BLACK}Litsents: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maksimum kaugus kaldast kalapüügi väljadest, nafta puurtornidest ja süvenduskohtadest."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Iga majandus pakub erinevat kauba- ja tööstusharude kombinatsiooni.{}{}Mängijatele, kes soovivad lihtsat mänguprotsessi, sisaldavad {SILVER}põhi- {BLACK}majandused vähem tööstusharusid ja kaupu kui teised CIRS-i majandused.{}{}CIRS-i veebisait pakub üksikasjalikku teavet iga majanduse kohta."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maksimum ranniku distants meretööstuste vahel ruutudes"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Majandus"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Limiidita"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Täiustatud esmase tootmise jaoks vajalikud varustuskarbid (vaikimisi 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Gung-ho esmase tootmise jaoks vajalikud varustuskarbid (vaikimisi 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Farmid, kaevandused ja sarnased tööstusharud suurendavad tootmist, kui varustuskarbid kohale toimetatakse: esmalt {SILVER}Täiustatud{BLACK} ja seejärel {SILVER}Gung-ho{BLACK}, kui kohale toimetatakse piisavalt karpe.  {}{}Vaikimisi väärtused on head, kuid vajaduse korral saate neid siin muuta.  {}{}Sadamatüüpi tööstusharude kauba nõuded on siin määratud väärtuste 8-kordne."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Täiustatud esmase tootmise tase (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho esmase tootmise tase (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Tootmine taludes, kaevandustes ja sarnastes tööstusharudes, kui tarnenõuded on täidetud (protsendina {SILVER}normaalsest {BLACK}tootmistasemest)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Tavaline parasvööde"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Tavaline Arktika"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tavaline troopiline"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Pimeduse süda"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Teraslinn"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS-i maastikuelemendid"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS sisaldab maastikuelementide komplekti, mida mängijad saavad paigutada, et teatavad tööstusharud näeksid suuremad välja. Maastikuelementidel puudub mängumõju. Maastikuelemendid saab sisse või välja lülitada."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(valikuline)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(kaasas)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Maximaalse tootmise saavutamiseks tarnige {WHITE}vähemalt üks {BLACK}vajalik kauba liik."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Maximaalse tootmiskiiruse saavutamiseks tarnige {WHITE}mõlemat {BLACK}vajalikku kauba liiki vähemalt kord kolme minuti jooksul."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Maksimaalse toodangu saamiseks tarnige vähemalt kord kolme minuti jooksul {WHITE}kõiki {BLACK}vajalikke kaubakomplekte."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Maximaalse tootmiskiiruse saavutamiseks tarnige {WHITE}vähemalt kaks {BLACK}vajalikku kauba liiki vähemalt kord kolme minuti jooksul."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Maksimaalse tootmiskiiruse saavutamiseks tarnige {WHITE}vähemalt kolme {BLACK}vajalikku kauba vähemalt kord kolme minuti jooksul."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Toodang on proportsionaalne linna elanikkonnaga. Iga minut toodetakse vähemalt {WHITE}{SIGNED_WORD} ühikut{BLACK} ja mitte rohkem kui {WHITE}{SIGNED_WORD} ühikut{BLACK} kaupa."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Praegune toodang: {YELLOW}Tavaline {}{}{BLACK}{WHITE}Täiustatud {BLACK}toodangu korral tarnige vähemalt kord kolme minuti jooksul {SIGNED_WORD} kastitäit varusid.{}{WHITE}Gung-ho {BLACK}toodangu korral tarnige {SIGNED_WORD} kastitäit."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Praegune toodang: {YELLOW}Täiustatud {}{}{BLACK}Selle taseme säilitamiseks tarnige vähemalt kord kolme minuti jooksul {SIGNED_WORD} kastitäit varusid.{}{WHITE}Gung-ho {BLACK}toodangu korral tarnige {SIGNED_WORD} kastitäit."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Praegune toodang: {YELLOW}Gung-ho {}{}{BLACK}Selle taseme säilitamiseks tarnige vähemalt kord kolme minuti jooksul {SKIP}{SIGNED_WORD} kastitäit varusid."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Praegune toodang: {YELLOW}Tavaline {}{}{BLACK}{WHITE}Täiustatud {BLACK}toodangu korral tarnige vähemalt kord kolme minuti jooksul {SIGNED_WORD} kaubakomplekti.{}{WHITE}Gung-ho {BLACK}toodangu korral tarnige {SIGNED_WORD} komplekti."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Praegune toodang: {YELLOW}Täiustatud {}{}{BLACK}Selle taseme säilitamiseks tarnige vähemalt kord kolme minuti jooksul {SIGNED_WORD} kaubakomplekti.{}{WHITE}Gung-ho {BLACK}toodangu korral tarnige {SIGNED_WORD} komplekti."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Praegune toodang: {YELLOW}Gung-ho {}{}{BLACK}Selle taseme säilitamiseks tarnige vähemalt kord kolme minuti jooksul {SKIP}{SIGNED_WORD} kaubakomplekti."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS nõuab OpenTTD 1.7.0-i (või pagasiruumi koostisi kasutavatel kasutajatel r27769-i)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Ebasobiv komplekt: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Ebasobiv parameeter: {ORANGE}CanSet parameeter 2 peab olema 0, et see CIRS-iga töötaks."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Ebasobiv parameeter: {ORANGE}NA City Seti parameeter 2 peab olema 0, et see CIRS-iga töötaks."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Ebasobiv versioon: {ORANGE}Total Town Replacement Set peab olema versioonis 3.11 või uuem."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "tuleb asetada allapoole lumepiiri"
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "ei saa piagutada järskudele nõlvadele"
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada lumel ja kõrbes."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada lumel ja kõrbes."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada lumel ja kõrbes."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada lumel ja kõrbes."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada kõrbes."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada lumel."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Asukoht: {YELLOW}Seda saab rahastada ainult lumel."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada lumel ja kõrbes."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada lumel ja kõrbes."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Asukoht: {YELLOW}ei saa rahastada lumel ja kõrbes."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Hape"
+cargo_unit = "{VOLUME} happe"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Kivimaterjalid"
+cargo_unit = "{WEIGHT} agregaatide kaal"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Alumiinium"
+cargo_unit = "{WEIGHT} alumiiniumi kaal"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumiinoksiid"
+cargo_unit = "{WEIGHT} alumiinoksiidi kaal"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Amonia ja lämmastikhapetooted"
+cargo_unit = "{VOLUME} ammoniaaki ja lämmastikhappe tooteid"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhüdriidikivi"
+cargo_unit = "{WEIGHT} anhüdriidikivi kaal"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Õunad"
+cargo_unit = "{WEIGHT} õunte kaal"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Oad"
+cargo_unit = "{WEIGHT} ube"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bituumen"
+cargo_unit = "{VOLUME} bituumeni"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Ehitusmaterjalid"
+cargo_unit = "{WEIGHT} ehitusmaterjale"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Süsi must"
+cargo_unit = "{WEIGHT} süsinikmustat"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Maniok"
+cargo_unit = "{WEIGHT} kassavat"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Valatud tooted, nagu plokid, talad ja paneelid. Neid saab käitleta ka valmisbetoonina segamissamurites."
+cargo_unit = "{WEIGHT} malmi"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Tsement"
+cargo_unit = "{WEIGHT} tsementi"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Keemilised vaheühendid"
+cargo_unit = "{VOLUME} keemilisi vaheprodukte"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Kemikaalid"
+cargo_unit = "{VOLUME} kemikaale"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CHLORINE]
+name = "Kloor"
+cargo_unit = "{VOLUME} kloori"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CLAY]
+name = "Savi"
+cargo_unit = "{WEIGHT} savi"
+cid = "{TINYFONT}CY"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Puhastusvahendid"
+cargo_unit = "{WEIGHT} puhastusaineid"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kohvi"
+cargo_unit = "{WEIGHT} kotitäit{P 0 \"\" s} kohvi"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "Süsihõõbe"
+cargo_unit = "{VOLUME} kivisöetõrva"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Koks"
+cargo_unit = "{WEIGHT} kokku"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Täppisdetailid"
+cargo_unit = "{WEIGHT} täppisdetailide kaal"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betoonitooted"
+cargo_unit = "{WEIGHT} betoontooteid"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Vask"
+cargo_unit = "{WEIGHT} vaske"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Toiduõli"
+cargo_unit = "{VOLUME} söögitõli"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Elektrilised osad"
+cargo_unit = "{WEIGHT} elektrilisi osi"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Ehitustarvikuid"
+cargo_unit = "{SIGNED_WORD} kasti{P 0 \"\" s} ehitustarvikuid"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Plahvatusained"
+cargo_unit = "{WEIGHT} plahvatusaineid"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferroliigid"
+cargo_unit = "{WEIGHT} riistvara ja viimistlusmaterjalide kaal"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Kala ja mereannid"
+cargo_unit = "{WEIGHT} kala ja mereannide kaal"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Talunduse tarvikud"
+cargo_unit = "{SIGNED_WORD}kasti{P 0 \"\" s} talunduse tarvikuid"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "Väetis"
+cargo_unit = "{WEIGHT} tööstuslike süsinike kaal"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Jahu ja tärklis"
+cargo_unit = "{WEIGHT} jahu ja tärklise kaal"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Toidulisandid"
+cargo_unit = "{WEIGHT} toidu lisaainete kaal"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Toit ja joogid"
+cargo_unit = "{WEIGHT} toidu- ja joogikaal"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Valtsingud ja valud"
+cargo_unit = "{WEIGHT} vormitud ja valatud osade kaal"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Külmutatud toit"
+cargo_unit = "{WEIGHT} külmutatud toidu kaal"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Puuvili"
+cargo_unit = "{WEIGHT} puuvilju"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = " klaistooted"
+cargo_unit = "{WEIGHT} klaistoodete kaal"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Riistvara ja viimistlus"
+cargo_unit = "{WEIGHT} riistvara ja viimistluse kaal"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Tööstuslikud süsinikud"
+cargo_unit = "{WEIGHT} tööstuslike süsinike puhul"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Tööstusgaasid"
+cargo_unit = "{VOLUME} tööstusgaase"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Hiina savi"
+cargo_unit = "{WEIGHT} Hiina savi"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Kerged süsivesinikud"
+cargo_unit = "{VOLUME} kergete süsivesikute"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Lubjakivi"
+cargo_unit = "{WEIGHT} lubjakivi"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Palkid"
+cargo_unit = "{WEIGHT} tüved"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Naatriumhüdroksiid"
+cargo_unit = "{VOLUME} naatriumhüdroksiidi"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Metanool"
+cargo_unit = "{VOLUME} metanooli"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Piim"
+cargo_unit = "{VOLUME} piima"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "Mangaan"
+cargo_unit = "{WEIGHT} mangaan"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Liha"
+cargo_unit = "{WEIGHT} liha"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Baariit ja fluoriit"
+cargo_unit = "{WEIGHT} bariidi ja fluoriidi kaal"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Mineraalsed täiteained"
+cargo_unit = "{WEIGHT} mineraalsed täiteained"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Toorsuhkur ja melass"
+cargo_unit = "{WEIGHT} toorsuhkru ja melassi kaal"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitraadid"
+cargo_unit = "{WEIGHT} nitraate"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Väävel"
+cargo_unit = "{VOLUME} lämmastikku"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Pähklid"
+cargo_unit = "{WEIGHT} pähklid"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Hapnik"
+cargo_unit = "{VOLUME} hapnikku"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Pakendamine"
+cargo_unit = "{WEIGHT} pakend"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Värvid ja kattekihid"
+cargo_unit = "{VOLUME} värve ja katteaineid"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Turvas"
+cargo_unit = "{WEIGHT} turvas"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Bensiin"
+cargo_unit = "{VOLUME} bensiini"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "Ladustamistankid ja torustikud"
+cargo_unit = "{WEIGHT} ladustamistankid ja torustikud"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfaat"
+cargo_unit = "{WEIGHT} fosfaat"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Fosforhape"
+cargo_unit = "{VOLUME} fosforhapet"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Rauamarss"
+cargo_unit = "{WEIGHT} malm"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plastmassid ja vaigud"
+cargo_unit = "{WEIGHT} plastmassi ja vaigu kaal"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Taimed ja masinad"
+cargo_unit = "{WEIGHT} taimed ja masinad"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Kaalium"
+cargo_unit = "{WEIGHT} kaaliumkarbonaadi kaal"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Protsessikemikaalid"
+cargo_unit = "{WEIGHT} protsessikemikaalide kaal"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pumpad ja ventiilid"
+cargo_unit = "{WEIGHT} pumpade ja ventiilide kaal"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Püriidimaak"
+cargo_unit = "{WEIGHT} püriidi maagi kaal"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Tuhk"
+cargo_unit = "{WEIGHT} sädemejahi kaal"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Armeerimisraud"
+cargo_unit = "{WEIGHT} armatuuri terase kaal"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Sool"
+cargo_unit = "{WEIGHT} soola kaal"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Liiv"
+cargo_unit = "{WEIGHT} liiva"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Vanametall"
+cargo_unit = "{WEIGHT} vanametalli"
+cid = "{TINYFONT}SM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Tihendid, voolikud ja rihmad"
+cargo_unit = "{WEIGHT} tihendite, voolikute ja rihmade kaal"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slagg"
+cargo_unit = "{WEIGHT} slagi kaal"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Soodatuhk"
+cargo_unit = "{WEIGHT} söödat"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Teras"
+cargo_unit = "{WEIGHT} terast"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billetid ja bloomid"
+cargo_unit = "{WEIGHT} valtsiblokkide ja blokkide kaal"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Terasliivrid"
+cargo_unit = "{WEIGHT} terasvaltsid"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Kaupmehe baar"
+cargo_unit = "{WEIGHT} kaupmehe ingot"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Terastoru"
+cargo_unit = "{WEIGHT} terastorud"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Terasplekk"
+cargo_unit = "{WEIGHT} terasplaat"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Terasleht ja -riba"
+cargo_unit = "{WEIGHT} terasleht ja -riba"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Teraslaab"
+cargo_unit = "{WEIGHT} teraslabi"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Terasvõre"
+cargo_unit = "{WEIGHT} terastoru"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Terasdraadivarras"
+cargo_unit = "{WEIGHT} terasdraadivarras"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Konstruktsiooniteras"
+cargo_unit = "{WEIGHT} konstruktsiooniteras"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Väävel"
+cargo_unit = "{WEIGHT} väävlit"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Väävelhape"
+cargo_unit = "{VOLUME} väävhapet"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Puidutooted"
+cargo_unit = "{WEIGHT} puidutoodete kaal"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_TIN]
+name = "Tina"
+cargo_unit = "{WEIGHT} tinakaal"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Tinaplekk"
+cargo_unit = "{WEIGHT} plekkkaal"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Rehvikangas"
+cargo_unit = "{WEIGHT} rehvikanga kaal"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Rehvid"
+cargo_unit = "{WEIGHT} rehvide kaal"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Köögiviljad"
+cargo_unit = "{WEIGHT} köögiviljade kaal"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Sõidukikere"
+cargo_unit = "{WEIGHT} sõidukikere kaal"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Mootorid ja jõuülekanded"
+cargo_unit = "{WEIGHT} mootoreid ja jõuülekandeid"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Sõidukiosad"
+cargo_unit = "{WEIGHT} sõidukiosade kaal"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Sõidukid"
+cargo_unit = "{WEIGHT} sõidukite kaal"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Keevitusmaterjalid"
+cargo_unit = "{WEIGHT} keevitusmaterjalide kaal"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Puidu tselluloos"
+cargo_unit = "{WEIGHT} puiduliblikaal"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Vill"
+cargo_unit = "{SIGNED_WORD} palli{P 0 \"\" s} villa"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "Tsink"
+cargo_unit = "{WEIGHT} tsingi kaal"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Tsingimaak"
+cargo_unit = "{WEIGHT} tsingimaagi"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} kaupade kaal"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Alumiiniumivabrik"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Amonia kompleks"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Anhüdriidi kaevandus"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Anhüdriidi protsessitehas"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Seadmete tehas"
+
+[STR_IND_ARABLE_FARM]
+base = "Viljakandev farm"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Monteerimistehas"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Profiili- ja baarmill"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Baas-hapnikuahel"
+
+[STR_IND_BLAST_FURNACE]
+base = "Kõrgahi"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Puitlaastplaaditehas"
+
+[STR_IND_BODY_PLANT]
+base = "Kerehoone"
+
+[STR_IND_BREWERY]
+base = "Pruulikoda"
+
+[STR_IND_CIDER_MILL]
+base = "Siidritehas"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Ehitusplats" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Süsinikmusti tehas"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Tsellulooskiletehas"
+
+[STR_IND_CEMENT_PLANT]
+base = "Tsemenditehases"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Keemiatehas"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Plahvatusainete tehas"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Kloor-alkaalitehas"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Savi auk"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Kohvi Mõis"
+
+[STR_IND_COKE_OVEN]
+base = "Kooksi ahju"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Betoonitehas"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Partiikemiatehas"
+
+[STR_IND_COPPER_SMELTER]
+base = "Vasksulatusahi"
+
+[STR_IND_CRYO_PLANT]
+base = "Krüogeentehas"
+
+[STR_IND_DAIRY]
+base = "Meierei"
+
+[STR_IND_DAIRY_FARM]
+base = "Piimafarm"
+
+[STR_IND_DREDGING_SITE]
+base = "Süvendamise plats"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Elastomeeritoodete tehas"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Elektrikaarahi"
+
+[STR_IND_ENGINE_PLANT]
+base = "Mootoritehas"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Inseneritööstus"
+
+[STR_IND_FARM]
+base = "Farma"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Protsessikemikaalide tehas"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Fermenteerimistehas"
+
+[STR_IND_FISH_FARM]
+base = "Kalakasvatus"
+
+[STR_IND_FISHING_GROUND]
+base = "Kalapüügiala"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Kalasadam"
+
+[STR_IND_GRAIN_MILL]
+base = "Teraviljaveski"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Toidutootmistehas"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Terassepp ja valukoda"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Külmutatud toiduainete tehas"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Mööblivabrik"
+
+[STR_IND_GENERAL_STORE]
+base = "Üldkaupade kauplus"
+
+[STR_IND_GLASS_WORKS]
+base = "Klaasitehas"
+
+[STR_IND_HERDING_COOP]
+base = "Karjakasvatuse osutuskokkuhoid"
+
+[STR_IND_HOTEL]
+base = "Hotell"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Külmutatud magustoitade tehas"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Terasveski"
+
+[STR_IND_SCRAP_YARD]
+base = "Lammutuskoda"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Lubjapõletusahi"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Lubjakivikaevandus"
+
+[STR_IND_MANGANESE_MINE]
+base = "Mangaanikaevandus"
+
+[STR_IND_METAL_WORKS]
+base = "Metallitöökoda"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Mineraalsete täiteainete tehas"
+
+[STR_IND_NITRATE_MINE]
+base = "Nitraatide kaevanduse"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Tööstuskeemikaalide tehas"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Nafta- ja keemiaterminal"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Viljapuuaed ja sigala"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Pudeli- ja puruvabrik"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Paberitoodete tehas"
+
+[STR_IND_PEATLANDS]
+base = "Turvemaa"
+
+[STR_IND_PETROLPUMP]
+base = "Bensiinijaam"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Fosfaadikaevandus"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Väetis- ja happeveskid"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Kommertspagar"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Torude tehase"
+
+[STR_IND_PLATE_MILL]
+base = "Lehtteras"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Plastmassvormide tehas"
+
+[STR_IND_PORT]
+base = "Sadam"
+
+[STR_IND_POTASH_MINE]
+base = "Kaaliumikaevandus"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Jõusüsteemide tehas"
+
+[STR_IND_POWER_PLANT]
+base = "Elektrijaam"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Täppisdetailide tehas"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Toodangu pakendaja"
+
+[STR_IND_PYRITE_MINE]
+base = "Püriidi kaevandus"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Püriidi sulatusahi"
+
+[STR_IND_QUARRY]
+base = "Kivimurd"
+
+[STR_IND_RANCH]
+base = "Rantšo"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Roadstone'i tehas"
+
+[STR_IND_SALT_WORKS]
+base = "Soolatehas"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Slaggi jahvatusseade"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Soodatuhka kaevandus"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Valmistoitude tehas"
+
+[STR_IND_STOCKYARD]
+base = "Loomakasvatusesaadused"
+
+[STR_IND_STRIP_MILL]
+base = "Rihviveski"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Suhkru rafineerimistehas"
+
+[STR_IND_SUPPLY_YARD]
+base = "Varustuslaevakoda"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Saeveski"
+
+[STR_IND_TIN_MINE]
+base = "Tinakaevandus"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Tinaplekitöökoda"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Rööbasõidukite tehas"
+
+[STR_IND_TRADING_POST]
+base = "Kaubavahetus post"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Toru- ja torujuhtmeveski"
+
+[STR_IND_TYRE_PLANT]
+base = "Rehvitöökoda"
+
+[STR_IND_VINEYARD]
+base = "Viinamarjaistandus"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Sõidukite jaotaja"
+
+[STR_IND_WHARF]
+base = "Lau"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Traatvarda veski"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Tsinkikaevandus"
+
+[STR_IND_ZINC_SMELTER]
+base = "Tsingisulatusahi"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Hobuste turg"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Elektroonikakaubad"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Autotööstus"
+
+[STR_STATION_BAKERY]
+base = "Pagar"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Tugiraudbetoonkonstruktsioonid"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Baar, grill ja toad"
+
+[STR_STATION_BARNS]
+base = "Laod"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Tünn ja fıkk"
+
+[STR_STATION_BASE]
+base = "Baas"
+
+[STR_STATION_BONEYARD]
+base = "Kalmistuaed"
+
+[STR_STATION_BANK_TOP]
+base = "Panga tipp"
+
+[STR_STATION_BODY_PLANT]
+base = "Pressitud osad"
+
+[STR_STATION_BRINE_WORKS]
+base = "Soolalahi töötlemine"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Ehitajate hoov"
+
+[STR_STATION_COLLIERY]
+base = "Süsikaevandus"
+
+[STR_STATION_COMPONENTS]
+base = "Komponendid"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Eelvalatud"
+
+[STR_STATION_COPPER_LODE]
+base = "Vaskmaa"
+
+[STR_STATION_CREOSOTING]
+base = "Kreosooteerimine"
+
+[STR_STATION_CRYO_PLANT]
+base = "Krüogeentehas"
+
+[STR_STATION_DAIRY_LANE]
+base = "Piimatee"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Tihendid ja voolikud"
+
+[STR_STATION_ESTATE]
+base = "Mõis"
+
+[STR_STATION_FACTORY]
+base = "Tehas"
+
+[STR_STATION_FARM_1]
+base = "Mõis"
+
+[STR_STATION_FARM_2]
+base = "Rohumaa"
+
+[STR_STATION_FARM_3]
+base = "Rantšo"
+
+[STR_STATION_FISHMARKET]
+base = "Kalaturg"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Toidukontsern"
+
+[STR_STATION_FOREST]
+base = "Palkide laadimispaik"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Terasmeistrid"
+
+[STR_STATION_FREEZERS]
+base = "Külmutid"
+
+[STR_STATION_FURNACE]
+base = "Ahju"
+
+[STR_STATION_METAL_WORKS]
+base = "Metalltooted"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Tehas"
+
+[STR_STATION_HERDING_COOP]
+base = "Reinderi karid"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Tööstuspark"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Veekogu ääres"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Maandumisplatvorm"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Rannariba"
+
+[STR_STATION_IRONSTONE]
+base = "Raudkivi"
+
+[STR_STATION_KILNS]
+base = "Ahjud"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Kimberliidi leiukohad"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Lubjakivikaevandused"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Mangaanikaevandused"
+
+[STR_STATION_MILL]
+base = "Veski"
+
+[STR_STATION_MILLS]
+base = "Vehkid"
+
+[STR_STATION_MINES]
+base = "Kaevandused"
+
+[STR_STATION_MOULDINGS]
+base = "Valukomponendid"
+
+[STR_STATION_OIL_RIG]
+base = "Põld"
+
+[STR_STATION_ORCHARDS]
+base = "Puuviljaaiad"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Vooluliin"
+
+[STR_STATION_PIT]
+base = "Kaevis"
+
+[STR_STATION_PLANT]
+base = "Taim"
+
+[STR_STATION_PLANTATION]
+base = "Istandus"
+
+[STR_STATION_PLATE_MILL]
+base = "Plaadihoov"
+
+[STR_STATION_POTASH_MINE]
+base = "Mineraalid"
+
+[STR_STATION_POWERHUNGRY]
+base = "Elektrijaam"
+
+[STR_STATION_POWERTRAIN]
+base = "Jõuülekande süsteem"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Taimed ja masinad"
+
+[STR_STATION_PUMPS]
+base = "Pumpad"
+
+[STR_STATION_PYRITES]
+base = "Püriidi leiud"
+
+[STR_STATION_REFINERY]
+base = "Portland"
+
+[STR_STATION_ROD_MILL]
+base = "Varrestehas"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Kummiettevõte"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Salpeteritehas"
+
+[STR_STATION_SEAFOOD]
+base = "Meretoit"
+
+[STR_STATION_SHARP_STREET]
+base = "Terav tänav"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Rohud"
+
+[STR_STATION_SILO]
+base = "Silos"
+
+[STR_STATION_SMELTER]
+base = "Sulatusahi"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Tuhkahi"
+
+[STR_STATION_SOUPS]
+base = "Supid"
+
+[STR_STATION_STRIP_MILL]
+base = "Spiraaljoon"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Suhkruettevõte"
+
+[STR_STATION_TANK_FARM]
+base = "Tankila"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Tapperite kuur"
+
+[STR_STATION_TOWN_3]
+base = "Laod"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Rulltraktorite tehas"
+
+[STR_STATION_TRONA_BEDS]
+base = "Trona magamiskohad"
+
+[STR_STATION_TUBE_MILL]
+base = "Toruveisk"
+
+[STR_STATION_WATER]
+base = "leetseljak"
+
+[STR_STATION_WELLS]
+base = "Kaevud"
+
+[STR_STATION_WHEAL]
+base = "Kaevandusauk"
+
+[STR_STATION_WINERY]
+base = "Veinimõis"
+
+[STR_STATION_WORKS]
+base = "Tehas"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Veokite parkla"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "MAA"
+
+[STR_BADGE_SEA]
+base = "MERI"

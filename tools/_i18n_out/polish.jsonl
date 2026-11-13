@@ -1,0 +1,355 @@
+{"i":0,"tr":" {BLACK}(opcjonalnie)"}
+{"i":1,"tr":"."}
+{"i":2,"tr":"Agregaty"}
+{"i":3,"tr":"Alumina"}
+{"i":4,"tr":"Amoniak i produkty azotowe"}
+{"i":5,"tr":"Kompleks amoniakowy"}
+{"i":6,"tr":"Kopalnia anhydrytu"}
+{"i":7,"tr":"Zakład przetwarzania anhydrytu"}
+{"i":8,"tr":"Skała anhydrytowa"}
+{"i":9,"tr":"Jabłka"}
+{"i":10,"tr":"Fabryka sprzętu AGD"}
+{"i":11,"tr":"Są na zawsze itp."}
+{"i":12,"tr":"Dostępne we wszystkich gospodarkach. Produkowane i akceptowane przez budynki miejskie, a także przez niektóre gałęzie przemysłu."}
+{"i":13,"tr":"Dostępne we wszystkich gospodarkach. Produkowane i akceptowane przez budynki miejskie."}
+{"i":14,"tr":"Piekarnia"}
+{"i":15,"tr":"Bale."}
+{"i":16,"tr":"Baryt i fluoryt"}
+{"i":17,"tr":"Podstawowe żelazo z pieca wydmuchowego, w postaci stopionej cieczy lub stałych sztabek."}
+{"i":18,"tr":"Zakład chemii wsadowej"}
+{"i":19,"tr":"Sztabki i bloki"}
+{"i":20,"tr":"Sztabki, bloki, ingoty i płyty."}
+{"i":21,"tr":"Biomasa z torfowisk, wydobywana na paliwo i do ogrodnictwa."}
+{"i":22,"tr":"Bitum"}
+{"i":23,"tr":"Fabryka butelek i puszek"}
+{"i":24,"tr":"Pudełka, butelki, słoje, puszki itp."}
+{"i":25,"tr":"Produkt uboczny produkcji koksu, gęsta ciecz o wolnym przepływie."}
+{"i":26,"tr":"CIRS"}
+{"i":27,"tr":"Zestaw zastępczy dla społeczności przemysłowej CIRS"}
+{"i":28,"tr":"CIRS zawiera zestaw obiektów krajobrazowych, które gracze mogą umieszczać, aby niektóre gałęzie przemysłu wyglądały na większe. Obiekty krajobrazowe nie mają wpływu na rozgrywkę. Można je włączać i wyłączać."}
+{"i":29,"tr":"Obiekty krajobrazowe CIRS"}
+{"i":30,"tr":"Kabiny, maski, drzwi i podobne elementy nadwozia do produkcji pojazdów."}
+{"i":31,"tr":"Tlenek wapnia, znany również jako wapno palone. Transportowany w postaci drobnego proszku, który musi być utrzymywany w suchości."}
+{"i":32,"tr":"Wylewane produkty, takie jak bloki, belki i panele. Może być również przetwarzany jako gotowa mieszanka betonu w betoniarkach."}
+{"i":33,"tr":"Fabryka folii celulozowych"}
+{"i":34,"tr":"Cement, szkło, komponenty metalowe, produkty drewniane, rury i podobne materiały budowlane."}
+{"i":35,"tr":"Kompleks chemiczny"}
+{"i":36,"tr":"Substancje chemiczne pośrednie"}
+{"i":37,"tr":"Chimikalia, mydła, środki do szorowania itp. do zastosowań przemysłowych i domowych. Głównie w postaci płynnej, ale mogą być również w proszku lub stałe (np. piasek do piaskowania strumieniowego)."}
+{"i":38,"tr":"Fabryka płyty wiórowej"}
+{"i":39,"tr":"Wybuchówki cywilne do górnictwa, budownictwa itp."}
+{"i":40,"tr":"Węgiel"}
+{"i":41,"tr":"Kopalnia węgla"}
+{"i":42,"tr":"Węgiel podgrzany w koksowni, tworzący paliwo składające się niemal wyłącznie z węgla."}
+{"i":43,"tr":"Gruby piasek budowlany lub drobny piasek krzemionkowy do produkcji szkła i odlewania metali. Transportowany jako materiał sypki lub w proszku."}
+{"i":44,"tr":"Linia do zwijania"}
+{"i":45,"tr":"Komercyjny piekarnik"}
+{"i":46,"tr":"Zwykłe fasole, bob, soja i podobne jadalne rośliny strączkowe."}
+{"i":47,"tr":"Złożona gospodarka obejmująca przemysł żelazny, stalowy i ciężki."}
+{"i":48,"tr":"Złożona gospodarka z wieloma gałęziami przemysłu i towarami."}
+{"i":49,"tr":"Złożona gospodarka z wieloma gałęziami przemysłu i towarami. Zainspirowana środkowo-zachodnią Afryką. Najlepiej sprawdza się w klimacie subtropikalnym."}
+{"i":50,"tr":"Komponenty do produkcji pojazdów, takie jak podwozia i części zawieszenia, części elektryczne, elementy zewnętrzne i części wnętrza."}
+{"i":51,"tr":"Stacja betonowa"}
+{"i":52,"tr":"Produkty betonowe"}
+{"i":53,"tr":"Plac budowlany"}
+{"i":54,"tr":"Fabryka gotowych potraw"}
+{"i":55,"tr":"Kopalnia miedzi"}
+{"i":56,"tr":"Ruda miedzi"}
+{"i":57,"tr":"Bawełna, len, juta i podobne materiały do produkcji tekstyliów i materiałów kompozytowych."}
+{"i":58,"tr":"Fabryka pojazdów gąsienicowych"}
+{"i":59,"tr":"Surowa, nierafinowana ropa naftowa transportowana jako ciecz sypka."}
+{"i":60,"tr":"Kopalnia diamentów"}
+{"i":61,"tr":"Diamenty"}
+{"i":62,"tr":"Bębny, wciągarki, kajdanki, haki, bloczki, siłowniki hydrauliczne i inne części do dźwigów, suwnic, wind itp."}
+{"i":63,"tr":"Suchy cement w postaci proszku lub klinkieru."}
+{"i":64,"tr":"Jadalna roślina korzeniowa, znana również jako maniok i juca."}
+{"i":65,"tr":"Fabryka wyrobów z elastomerów"}
+{"i":66,"tr":"Komponenty elektryczne i elektroniczne, silniki, sterowniki, rozdzielnice, oświetlenie itp."}
+{"i":67,"tr":"Sprzęt elektryczny"}
+{"i":68,"tr":"Przedsiębiorstwo inżynieryjne"}
+{"i":69,"tr":"Silniki i układy napędowe"}
+{"i":70,"tr":"Fabryka materiałów wybuchowych"}
+{"i":71,"tr":"Fabryka"}
+{"i":72,"tr":"Zakład fermentacyjny"}
+{"i":73,"tr":"Ferrosprawy"}
+{"i":74,"tr":"Zakład nawozów i kwasów"}
+{"i":75,"tr":"Drobny drut używany do wzmacniania opon. Transportowany w postaci zwoju."}
+{"i":76,"tr":"Ryby i owoce morza"}
+{"i":77,"tr":"Elastyczne uszczelki, podkładki, węże, paski, maty, tuleje itp. wykonane z gumy lub podobnych materiałów."}
+{"i":78,"tr":"Mąka i skrobia"}
+{"i":79,"tr":"Linia przepływowa"}
+{"i":80,"tr":"Żywność"}
+{"i":81,"tr":"Żywność i napoje"}
+{"i":82,"tr":"Dodatki do żywności"}
+{"i":83,"tr":"Produkty spożywcze przechowywane w stanie zamrożonym podczas transportu i magazynowania."}
+{"i":84,"tr":"Do użytku domowego i budowlanego. Narzędzia, przybory, elementy mocujące, akcesoria z metalu i innych materiałów."}
+{"i":85,"tr":"Las"}
+{"i":86,"tr":"Odkuwki i odlewy"}
+{"i":87,"tr":"Mroźnie"}
+{"i":88,"tr":"Świeże i suszone owoce, takie jak banany, cytrusy, winogrona, jagody, ananas, rodzynki i podobne."}
+{"i":89,"tr":"Fabryka mrożonych deserów"}
+{"i":90,"tr":"Żywność mrożona"}
+{"i":91,"tr":"Zakład produkcji żywności mrożonej"}
+{"i":92,"tr":"Plantacja owoców"}
+{"i":93,"tr":"GPL(v2)"}
+{"i":94,"tr":"GRFID"}
+{"i":95,"tr":"Ogólne rodzaje gliny do produkcji materiałów budowlanych i innych zastosowań przemysłowych."}
+{"i":96,"tr":"Ogólne metale, takie jak stal, aluminium lub inne powszechnie stosowane metale."}
+{"i":97,"tr":"Ogólne chemikalia organiczne i nieorganiczne, przetwarzane w stanie ciekłym, gazowym, jako materiały sypkie w workach, proszki lub towary sztuczne."}
+{"i":98,"tr":"Belki nośne"}
+{"i":99,"tr":"Wyroby szklane"}
+{"i":100,"tr":"Towary"}
+{"i":101,"tr":"Zboże"}
+{"i":102,"tr":"Młyn zbożowy"}
+{"i":103,"tr":"Żwir, piasek, kruszywa i podobne materiały stosowane w budownictwie."}
+{"i":104,"tr":"Oprzyrządowanie metalowe i wykończenia"}
+{"i":105,"tr":"Wysokowartościowe komponenty inżynieryjne, takie jak sprzęt elektryczny, silniki, transformatory, urządzenia sterujące, układy hydrauliczne, pneumatyczne, pompy, zawory i elementy układu napędowego."}
+{"i":106,"tr":"ID"}
+{"i":107,"tr":"Węgiel przemysłowy"}
+{"i":108,"tr":"Zakład chemii przemysłowej"}
+{"i":109,"tr":"Gazy przemysłowe"}
+{"i":110,"tr":"Kwas przemysłowy używany głównie w produkcji nawozów i chemikaliów, transportowany jako ciecz sypka."}
+{"i":111,"tr":"Kwasy przemysłowe, takie jak kwas solny, azotowy i siarkowy."}
+{"i":112,"tr":"Alkohol przemysłowy używany jako surowiec chemiczny i paliwo, transportowany jako ciecz sypka."}
+{"i":113,"tr":"Chemikalia przemysłowe, zazwyczaj transportowane kriogenicznie jako skroplony gaz sprężony."}
+{"i":114,"tr":"Chemikalia przemysłowe. Znane również jako ług lub soda kaustyczna. Zazwyczaj transportowane jako ciecz."}
+{"i":115,"tr":"Chemikalia przemysłowe. W postaci białego proszku."}
+{"i":116,"tr":"Chemikalia przemysłowe pochodzące z amoniaku, takie jak amoniak, kwas azotowy i mocznik. Transportowane jako ciecze, kriogenicznie jako skroplony gaz lub jako suchy materiał sypki."}
+{"i":117,"tr":"Chemikalia przemysłowe używane w produkcji i przetwarzaniu, transportowane jako ciecze, proszki, gazy lub towary opakowane."}
+{"i":118,"tr":"Gaz przemysłowy. Transportowany kriogenicznie jako skroplony gaz sprężony."}
+{"i":119,"tr":"Gazy przemysłowe używane w przetwarzaniu chemicznym, obróbce metali i spawaniu, transportowane w butlach lub cysternach ciśnieniowych."}
+{"i":120,"tr":"Minerał przemysłowy, znany również jako kaolin, używany głównie w produkcji papieru i tworzyw sztucznych."}
+{"i":121,"tr":"Minerały przemysłowe używane w procesach chemicznych. Baryt jest stosowany w chemikaliach barowych i materiałach wypełniających; fluoryt w chemii fluoru i fluksach metalurgicznych."}
+{"i":122,"tr":"Sztabki."}
+{"i":123,"tr":"Składniki używane w przetwórstwie żywności, takie jak konserwanty, aromaty, barwniki i dodatki do przetwarzania."}
+{"i":124,"tr":"Intensywnie czarny proszek węglowy, używany w oponach, tworzywach sztucznych i pigmentach. Obsługiwany jako proszek."}
+{"i":125,"tr":"Produkty chemiczne pośrednie używane jako surowce do dalszego przetwarzania przemysłowego."}
+{"i":126,"tr":"Produkty cukrowe pośrednie do rafinacji, fermentacji i zastosowań przemysłowych. Lepkie granulki są obsługiwane jako materiał sypki w workach; gęsty syrop jako ciecz; oba rodzaje mogą być pakowane."}
+{"i":127,"tr":"Silniki spalinowe i powiązane części układu napędowego, takie jak skrzynia biegów i osie napędowe."}
+{"i":128,"tr":"Ruda żelaza"}
+{"i":129,"tr":"Kopalnia rudy żelaza"}
+{"i":130,"tr":"ZIEMIA"}
+{"i":131,"tr":"Lekkie węglowodory"}
+{"i":132,"tr":"Lekkie frakcje ropy naftowej używane jako surowce chemiczne, transportowane jako ciecze sypkie."}
+{"i":133,"tr":"Inwentarz żywy"}
+{"i":134,"tr":"Pniaki z lasu."}
+{"i":135,"tr":"Długa, pusta rura o okrągłym, prostokątnym lub innym przekroju. Używana do produkcji konstrukcji i maszyn."}
+{"i":136,"tr":"Długie, okrągłe rury stalowe do transportu cieczy w rurociągach, budynkach, przemyśle itp."}
+{"i":137,"tr":"Maszyny, paliwo, części, nawozy i inne zaopatrzenie dla gospodarstw rolnych, lasów i podobnych gałęzi przemysłu."}
+{"i":138,"tr":"Maszyny, paliwo, części, produkty drzewne, rury, materiały wybuchowe i inne zaopatrzenie dla kopalni i podobnych gałęzi przemysłu."}
+{"i":139,"tr":"Maszyny, części, paliwo, materiały budowlane i inne zaopatrzenie dla portów, doków i podobnych gałęzi przemysłu."}
+{"i":140,"tr":"Poczta"}
+{"i":141,"tr":"Kukurydza"}
+{"i":142,"tr":"Ruda manganu, używana głównie w produkcji stali."}
+{"i":143,"tr":"Mięso"}
+{"i":144,"tr":"Bar handlowy"}
+{"i":145,"tr":"Warsztat metalowy"}
+{"i":146,"tr":"Metalowe części do montażu w większe przedmioty."}
+{"i":147,"tr":"Wyroby metalowe"}
+{"i":148,"tr":"Łagodny Zachód"}
+{"i":149,"tr":"Młyny"}
+{"i":150,"tr":"Mineralne wypełniacze"}
+{"i":151,"tr":"Zakład produkcji mineralnych wypełniaczy"}
+{"i":152,"tr":"Minerały"}
+{"i":153,"tr":"Kopalnie"}
+{"i":154,"tr":"Głównie krowy, świnie i owce do produkcji mięsa. Inne zwierzęta również mogą być spożywane."}
+{"i":155,"tr":"Głównie naturalny lateks."}
+{"i":156,"tr":"Głównie ciężarówki. Albo samochody. Albo lekkie ciężarówki. Może traktory."}
+{"i":157,"tr":"Azot"}
+{"i":158,"tr":"Metale nieżelazne, takie jak miedź, nikiel, cynk i ołów."}
+{"i":159,"tr":"Ropa naftowa"}
+{"i":160,"tr":"Terminal naftowo-chemiczny"}
+{"i":161,"tr":"Rafineria ropy naftowej"}
+{"i":162,"tr":"Wiertło naftowe"}
+{"i":163,"tr":"Odwierty naftowe"}
+{"i":164,"tr":"Ropa naftowa do gotowania i konsumpcji."}
+{"i":165,"tr":"Papier"}
+{"i":166,"tr":"Papiernia"}
+{"i":167,"tr":"Fabryka wyrobów papierniczych"}
+{"i":168,"tr":"Pasażerowie"}
+{"i":169,"tr":"Benzyna, olej napędowy i podobne paliwa."}
+{"i":170,"tr":"Sklep z rurami"}
+{"i":171,"tr":"Instalacje"}
+{"i":172,"tr":"Instalacje i maszyny"}
+{"i":173,"tr":"Fabryka form z tworzyw sztucznych"}
+{"i":174,"tr":"Tworzywa sztuczne i żywice"}
+{"i":175,"tr":"Walcownia blach"}
+{"i":176,"tr":"Produkty zbożowe w proszku, takie jak mąka i skrobia, transportowane w workach lub w zamkniętych zbiornikach sypkich."}
+{"i":177,"tr":"Fabryka systemów zasilających"}
+{"i":178,"tr":"Sprzęt napędzany i systemy mechaniczne używane w budynkach, przemyśle i na farmach. Transportowane jako kompletne jednostki lub jako główne podzespoły."}
+{"i":179,"tr":"Elementy prefabrykowane"}
+{"i":180,"tr":"Komponenty precyzyjne"}
+{"i":181,"tr":"Zakład części precyzyjnych"}
+{"i":182,"tr":"Odkuwki"}
+{"i":183,"tr":"Chemikalia procesowe"}
+{"i":184,"tr":"Zakład chemikaliów procesowych"}
+{"i":185,"tr":"Przetworzone włókna drzewne używane głównie do produkcji papieru, transportowane w postaci balotów lub pulpy sypkiej."}
+{"i":186,"tr":"Przetworzone produkty drzewne z tartaku lub podobnych zakładów przemysłowych."}
+{"i":187,"tr":"Pakowarz produkcyjny"}
+{"i":188,"tr":"Pompy i zawory"}
+{"i":189,"tr":"Python 3.11+"}
+{"i":190,"tr":"Cukier surowy i melasa"}
+{"i":191,"tr":"Surowe lub prażone ziarna kawy."}
+{"i":192,"tr":"Surowy plastik do dalszego przetwarzania. Zazwyczaj transportowany w postaci granulatu żywicy."}
+{"i":193,"tr":"Oczyszczony metal aluminium w rolkach, sztabach, płytach itp."}
+{"i":194,"tr":"Oczyszczony metal miedzi w rolkach, sztabach itp."}
+{"i":195,"tr":"Oczyszczone produkty naftowe, takie jak benzyna, olej napędowy, nafta, LPG, olej opałowy i paliwo bunkrowe, transportowane jako ciecze sypkie lub skroplone gazy."}
+{"i":196,"tr":"Zakład kamienia drogowego"}
+{"i":197,"tr":"Walcowane płyty i profile stalowe – belki I, belki H, profile kanałowe itp. Transportowane jako długie, proste produkty."}
+{"i":198,"tr":"Liny i kable produkowane przez przeciąganie drutu stalowego do mniejszej średnicy, a następnie skręcanie w pękowe liny."}
+{"i":199,"tr":"Surowe odlewy stalowe wymagające dalszego przetwarzania. Sztabki mogą być małe lub bardzo duże. Typowe profile sztabek to prostokątne lub okrągłe."}
+{"i":200,"tr":"Guma"}
+{"i":201,"tr":"Plantacja kauczuku"}
+{"i":202,"tr":"MORZE"}
+{"i":203,"tr":"Sólarnia"}
+{"i":204,"tr":"Piła drzewna"}
+{"i":205,"tr":"Uszczelki i węże"}
+{"i":206,"tr":"Uszczelki, węże i paski"}
+{"i":207,"tr":"Walcownia profili i prętów"}
+{"i":208,"tr":"Półwyroby z odlewu stalowego. Zawsze płaskie i prostokątne w przekroju."}
+{"i":209,"tr":"Półwyroby z odlewu stalowego. Prostokątne, kwadratowe lub okrągłe w przekroju."}
+{"i":210,"tr":"Prosta ekonomia. Zainspirowana Argentyną, Peru i Chile. Najlepiej sprawdza się w klimacie subtropikalnym."}
+{"i":211,"tr":"Prosta ekonomia. Zainspirowana Finlandią, północną Kanadą i północną Syberią. Najlepiej sprawdza się w klimacie subarktycznym."}
+{"i":212,"tr":"Prosta ekonomia. Zainspirowana południowo-zachodnią Wielką Brytanią. Najlepiej sprawdza się w klimacie umiarkowanym."}
+{"i":213,"tr":"Składowisko płyt"}
+{"i":214,"tr":"Piec na sadzę"}
+{"i":215,"tr":"Zupy"}
+{"i":216,"tr":"Specjalistyczne materiały węglowe, takie jak koks ropy naftowej po kalcynacji, smoła, wysokowartościowe smole i czarny węgiel, stosowane w procesach metalurgicznych i chemicznych."}
+{"i":217,"tr":"Kowalnia i odlewnia stali"}
+{"i":218,"tr":"Sztabki stalowe"}
+{"i":219,"tr":"Rury stalowe"}
+{"i":220,"tr":"Płyty stalowe"}
+{"i":221,"tr":"Blacha i taśma stalowa"}
+{"i":222,"tr":"Słaby stalowy"}
+{"i":223,"tr":"Rurki stalowe"}
+{"i":224,"tr":"Pręty stalowe w postaci okrągłych, kwadratowych, płaskich i innych profili. Transportowane jako długie, proste produkty."}
+{"i":225,"tr":"Drut stalowy i cienkie pręty. Transportowane głównie w rolkach."}
+{"i":226,"tr":"Mistrzowie stali"}
+{"i":227,"tr":"Zbiorniki magazynowe i rurociągi"}
+{"i":228,"tr":"Zbiorniki magazynowe, naczynia ciśnieniowe, silosy, butle gazowe i zespoły rur, przeznaczone do użytku w budynkach miejskich, przemyśle i na farmach."}
+{"i":229,"tr":"Walcownia pasków"}
+{"i":230,"tr":"Stal konstrukcyjna"}
+{"i":231,"tr":"Stal konstrukcyjna w postaci walcowanych przekrojów (belki I, belki H itp.), blach płaskich lub prefabrykowanych przekrojów i belek spawanych z blachy."}
+{"i":232,"tr":"Cukier"}
+{"i":233,"tr":"Minerały siarczkowe, przetapiane w celu produkcji różnorodnych produktów przemysłowych."}
+{"i":234,"tr":"Materiały do cięcia i spawania metalu, takie jak druty spawalnicze, narzędzia i gazy przemysłowe, w tym acetylen, argon, propan, tlen i azot."}
+{"i":235,"tr":"Gęsty produkt naftowy używany głównie do nawierzchni dróg i pokryć dachowych."}
+{"i":236,"tr":"Cienka walcowana blacha i pasek stalowy, szeroko stosowane do produkcji innych wyrobów. Transportowane jako płaskie arkusze lub zwoje."}
+{"i":237,"tr":"Cienkie, surowe pręty stalowe, szeroko stosowane do wzmacniania konstrukcji betonowych. Transportowane jako zwoje lub wiązki prostych prętów."}
+{"i":238,"tr":"Cienka blacha stalowa pokryta cyną w celu zapobiegania korozji, używana głównie do produkcji puszek, pojemników i innych opakowań."}
+{"i":239,"tr":"Produkty drzewne"}
+{"i":240,"tr":"Kopalnia cyny"}
+{"i":241,"tr":"Fabryka pojazdów gąsienicowych"}
+{"i":242,"tr":"Huta rur i przewodów"}
+{"i":243,"tr":"Huta rur"}
+{"i":244,"tr":"Wzmacniacz opon"}
+{"i":245,"tr":"Stosowany w produkcji stopów i stali nierdzewnej, czyli stopu chromu i żelaza. Szare bryłki, podobne rozmiarem i kształtem do bryłek węgla."}
+{"i":246,"tr":"Stosowany w produkcji stali. Stopy żelaza z innymi pierwiastkami, w tym manganem, niklem, chromem, aluminium, krzemem i wolframem. Szare bryłki, podobne rozmiarem i kształtem do bryłek węgla."}
+{"i":247,"tr":"Warzywa"}
+{"i":248,"tr":"Produkt odpadowy z produkcji żelaza i stali."}
+{"i":249,"tr":"Materiały zużywalne do spawania"}
+{"i":250,"tr":"Kopalnia otwarta"}
+{"i":251,"tr":"Pszenica, jęczmień itp."}
+{"i":252,"tr":"Biały proszek rafinowany z rudy boksytu, używany do produkcji metalu aluminium."}
+{"i":253,"tr":"Biała, szara lub brązowa skała siarczanu wapnia, używana w produkcji kwasu siarkowego i cementu. Często transportowana jako sypki ładunek w wagonach zadaszonych."}
+{"i":254,"tr":"Powszechnie używany chemikalia przemysłowy. Jasnożółty, w postaci proszku lub płynu."}
+{"i":255,"tr":"Powszechnie używany chemikalia przemysłowy. Zazwyczaj transportowany jako ładunek sypki, który musi być utrzymywany w suchości."}
+{"i":256,"tr":"Huta prętów drutowych"}
+{"i":257,"tr":"Miazga drzewna"}
+{"i":258,"tr":"Kopalnia cynku"}
+{"i":259,"tr":"Ruda cynku"}
+{"i":260,"tr":"Znówka cynku"}
+{"i":261,"tr":"{BLACK}Aby osiągnąć maksymalną wydajność, dostarczaj {WHITE}wszystkie {BLACK}wymagane ładunki co najmniej raz na trzy minuty."}
+{"i":262,"tr":"{BLACK}Aby osiągnąć maksymalną wydajność, dostarczaj {WHITE}co najmniej trzy {BLACK}wymagane ładunki co najmniej raz na trzy minuty."}
+{"i":263,"tr":"{BLACK}Aby osiągnąć maksymalną wydajność, dostarczaj {WHITE}co najmniej dwa {BLACK}wymagane ładunki co najmniej raz na trzy minuty."}
+{"i":264,"tr":"{BLACK}Aby uzyskać maksymalną wydajność, dostarczaj {WHITE}oba {BLACK}wymagane towary co najmniej raz na trzy minuty."}
+{"i":265,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":266,"tr":"{TINYFONT}AG"}
+{"i":267,"tr":"{TINYFONT}AP"}
+{"i":268,"tr":"{TINYFONT}AY"}
+{"i":269,"tr":"{TINYFONT}BB"}
+{"i":270,"tr":"{TINYFONT}BI"}
+{"i":271,"tr":"{TINYFONT}CP"}
+{"i":272,"tr":"{TINYFONT}EL"}
+{"i":273,"tr":"{TINYFONT}FO"}
+{"i":274,"tr":"{TINYFONT}FV"}
+{"i":275,"tr":"{TINYFONT}HW"}
+{"i":276,"tr":"{TINYFONT}IG"}
+{"i":277,"tr":"{TINYFONT}KA"}
+{"i":278,"tr":"{TINYFONT}LH"}
+{"i":279,"tr":"{TINYFONT}MF"}
+{"i":280,"tr":"{TINYFONT}MK"}
+{"i":281,"tr":"{TINYFONT}ML"}
+{"i":282,"tr":"{TINYFONT}MN"}
+{"i":283,"tr":"{TINYFONT}MO"}
+{"i":284,"tr":"{TINYFONT}N7"}
+{"i":285,"tr":"{TINYFONT}O2"}
+{"i":286,"tr":"{TINYFONT}OC"}
+{"i":287,"tr":"{TINYFONT}PG"}
+{"i":288,"tr":"{TINYFONT}PM"}
+{"i":289,"tr":"{TINYFONT}PV"}
+{"i":290,"tr":"{TINYFONT}PW"}
+{"i":291,"tr":"{TINYFONT}SI"}
+{"i":292,"tr":"{TINYFONT}SP"}
+{"i":293,"tr":"{TINYFONT}STSW"}
+{"i":294,"tr":"{TINYFONT}TC"}
+{"i":295,"tr":"{TINYFONT}VG"}
+{"i":296,"tr":"{TINYFONT}WP"}
+{"i":297,"tr":"{TINYFONT}WS"}
+{"i":298,"tr":"{TINYFONT}ZN"}
+{"i":299,"tr":"{TINYFONT}ZO"}
+{"i":300,"tr":"{VOLUME} amoniaku i produktów azotowych"}
+{"i":301,"tr":"{VOLUME} bitumu"}
+{"i":302,"tr":"{VOLUME} intermediatów chemicznych"}
+{"i":303,"tr":"{VOLUME} gazów przemysłowych"}
+{"i":304,"tr":"{VOLUME} lekkich węglowodorów"}
+{"i":305,"tr":"{VOLUME} azotu"}
+{"i":306,"tr":"{WEIGHT} kruszyw"}
+{"i":307,"tr":"{WEIGHT} tlenku glinu"}
+{"i":308,"tr":"{WEIGHT} skały anhydrytowej"}
+{"i":309,"tr":"{WEIGHT} jabłek"}
+{"i":310,"tr":"{WEIGHT} barytu i fluorytu"}
+{"i":311,"tr":"{WEIGHT} półproduktów hutniczych"}
+{"i":312,"tr":"{WEIGHT} produktów betonowych"}
+{"i":313,"tr":"{WEIGHT} silników i układu napędowego"}
+{"i":314,"tr":"{WEIGHT} materiałów wybuchowych"}
+{"i":315,"tr":"{WEIGHT} stopów żelaza"}
+{"i":316,"tr":"{WEIGHT} ryb i owoców morza"}
+{"i":317,"tr":"{WEIGHT} mąki i skrobi"}
+{"i":318,"tr":"{WEIGHT} żywności i napojów"}
+{"i":319,"tr":"{WEIGHT} dodatków do żywności"}
+{"i":320,"tr":"{WEIGHT} odlewów i kutej stali"}
+{"i":322,"tr":"{WEIGHT} wyrobów szklanych"}
+{"i":323,"tr":"{WEIGHT} towarów"}
+{"i":324,"tr":"{WEIGHT} sprzętu i wykończeń"}
+{"i":325,"tr":"{WEIGHT} węgli przemysłowych"}
+{"i":326,"tr":"{WEIGHT} mięsa"}
+{"i":327,"tr":"{WEIGHT} prętów handlowych"}
+{"i":328,"tr":"{WEIGHT} wypełniaczy mineralnych"}
+{"i":329,"tr":"{WEIGHT} orzechów"}
+{"i":330,"tr":"{WEIGHT} roślin i maszyn"}
+{"i":331,"tr":"{WEIGHT} tworzyw sztucznych i żywic"}
+{"i":332,"tr":"{WEIGHT} komponentów precyzyjnych"}
+{"i":333,"tr":"{WEIGHT} chemikaliów procesowych"}
+{"i":334,"tr":"{WEIGHT} pomp i zaworów"}
+{"i":335,"tr":"{WEIGHT} cukru surowego i melasy"}
+{"i":336,"tr":"{WEIGHT} pieczęci, węży i pasków"}
+{"i":337,"tr":"{WEIGHT} sztab stalowych"}
+{"i":338,"tr":"{WEIGHT} rur stalowych"}
+{"i":339,"tr":"{WEIGHT} płyt stalowych"}
+{"i":340,"tr":"{WEIGHT} blach i taśm stalowych"}
+{"i":341,"tr":"{WEIGHT} półproduktów stalowych"}
+{"i":342,"tr":"{WEIGHT} rur stalowych"}
+{"i":343,"tr":"{WEIGHT} zbiorników magazynowych i rurociągów"}
+{"i":344,"tr":"{WEIGHT} stali konstrukcyjnej"}
+{"i":345,"tr":"{WEIGHT} wyrobów drzewnych"}
+{"i":346,"tr":"{WEIGHT} osnowy oponowej"}
+{"i":347,"tr":"{WEIGHT} warzyw"}
+{"i":348,"tr":"{WEIGHT} materiałów spawalniczych"}
+{"i":349,"tr":"{WEIGHT} pulpy drzewnej"}
+{"i":350,"tr":"{WEIGHT} rudy cynku"}
+{"i":351,"tr":"{WEIGHT} worek{P 0 \"\" s} kawy"}
+{"i":321,"tr":"{WEIGHT} mrożonego jedzenia"}
+{"i": 281, "tr": "{TINYFONT}MTOL"}
+{"i": 287, "tr": "{TINYFONT}OPAK"}
+{"i": 351, "tr": "{WEIGHT} worek kawy"}

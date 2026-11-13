@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Tambang Batubara"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Tambang Tembaga"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Tambang Berlian"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Pabrik Pengolahan Pangan"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Hutan"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Perkebunan Buah"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Tambang Bijih Besi"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Pengecoran Minyak"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Menara Minyak"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Sumur Minyak"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Pabrik Kertas"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Perkebunan Karet"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Pabrik Gergaji"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Pabrik Baja"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Batubara"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Bijih Tembaga"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Berlian"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Makanan"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Barang"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Biji-bijian"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Bijih Besi"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Ternak"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Surat"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Jagung"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Minyak"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Kertas"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Penumpang"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Karet"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Gula"
+
+[ECONOMY_INFO_FIRS]
+base = "Ekonomi kompleks dengan banyak industri dan kargo."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Ekonomi sederhana. Terinspirasi dari Finlandia, Kanada Utara, dan Siberia Utara. Paling baik digunakan dengan iklim Sub-Arktik."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Ekonomi sederhana. Terinspirasi dari Inggris barat daya. Paling baik digunakan dengan iklim Sedang."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Ekonomi sederhana. Terinspirasi dari Argentina, Peru, dan Chili. Paling baik digunakan dengan iklim Subtropis."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Ekonomi kompleks dengan banyak industri dan kargo. Terinspirasi dari Afrika tengah-barat. Paling cocok digunakan dengan iklim Subtropis."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Ekonomi kompleks dengan industri besi, baja, dan manufaktur berat."
+
+[CARGO_INFO_PASSENGERS]
+base = "Tersedia di semua ekonomi. Diproduksi dan diterima oleh bangunan kota, serta beberapa industri."
+
+[CARGO_INFO_MAIL]
+base = "Tersedia di semua ekonomi. Diproduksi dan diterima oleh bangunan kota."
+
+[CARGO_INFO_ACID]
+base = "Asam industri, seperti asam klorida, asam nitrat, dan asam sulfat."
+
+[CARGO_INFO_AGGREGATES]
+base = "Kerikil, pasir, batu hancur, dan bahan serupa yang digunakan dalam konstruksi."
+
+[CARGO_INFO_ALUMINA]
+base = "Bubuk putih yang dimurnikan dari bijih bauksit, digunakan untuk menghasilkan logam aluminium."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Logam aluminium murni, dalam bentuk gulungan, batangan, lempengan, dll."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Bahan kimia industri yang berasal dari amonia, seperti amonia, asam nitrat, dan urea. Diangkut dalam bentuk cair, secara kriogenik sebagai gas yang dicairkan, atau sebagai curah kering."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Batu kalsium sulfat berwarna putih, abu-abu, atau cokelat, digunakan dalam produksi asam sulfat dan semen. Sering diangkut sebagai curah tertutup."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Mineral industri yang digunakan dalam pengolahan kimia. Barytes digunakan dalam bahan kimia barium dan bahan pengisi; fluorspar digunakan dalam kimia fluorin dan fluks metalurgi."
+
+[CARGO_INFO_BASE_METALS]
+base = "Logam non-fero, seperti tembaga, nikel, seng, dan timbal."
+
+[CARGO_INFO_BEANS]
+base = "Kacang biasa, kacang fava, kedelai, dan kacang-kacangan lain yang bisa dimakan."
+
+[CARGO_INFO_BITUMEN]
+base = "Produk minyak bumi kental yang terutama digunakan untuk lapisan jalan dan atap."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Semennya, kaca, komponen logam, produk kayu, pipa, dan bahan konstruksi serupa."
+
+[CARGO_INFO_CASSAVA]
+base = "Tanaman akar yang bisa dimakan, juga dikenal sebagai manioc dan yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Bubuk karbon yang sangat hitam, digunakan pada ban, plastik, dan pigmen. Ditangani sebagai bubuk."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billet, bloom, batangan, dan slab."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billet, bloom, batangan, dan slab."
+
+[CARGO_INFO_CEMENT]
+base = "Semennya kering dalam bentuk bubuk atau klinker."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Produk kimia antara yang digunakan sebagai bahan baku untuk pengolahan industri lebih lanjut."
+
+[CARGO_INFO_CHEMICALS]
+base = "Bahan kimia organik dan anorganik umum, yang ditangani dalam bentuk cair, gas, curah tertutup, bubuk, atau barang satuan."
+
+[CARGO_INFO_CHLORINE]
+base = "Bahan kimia industri, biasanya diangkut secara kriogenik sebagai gas terkompresi yang dicairkan."
+
+[CARGO_INFO_CLAY]
+base = "Tanah liat umum, untuk produksi bahan bangunan dan keperluan industri lainnya."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Bahan kimia, sabun, bahan pembersih, dll. untuk penggunaan industri dan rumah tangga. Utamanya cair, tetapi juga bisa berupa bubuk atau padat (seperti pasir untuk penyemprotan peledak)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Produk sampingan dari produksi kokas, yaitu cairan kental yang mengalir lambat."
+
+[CARGO_INFO_COFFEE]
+base = "Biji kopi mentah atau sangrai."
+
+[CARGO_INFO_COKE]
+base = "Batubara yang telah dipanaskan di dalam tungku kok, menghasilkan bahan bakar yang hampir seluruhnya terdiri dari karbon murni."
+
+[CARGO_INFO_COMPONENTS]
+base = "Komponen rekayasa bernilai tinggi seperti peralatan listrik, motor, transformator, peralatan kontrol, sistem hidrolik, pneumatik, pompa, katup, dan peralatan powertrain."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Produk tuang seperti balok, balok penyangga, dan panel. Juga dapat ditangani sebagai beton siap pakai di truk mixer."
+
+[CARGO_INFO_COPPER]
+base = "Logam tembaga murni, dalam bentuk gulungan, batangan, dll."
+
+[CARGO_INFO_DIAMONDS]
+base = "Abadi, dll."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Minyak untuk memasak dan dikonsumsi."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Komponen listrik dan elektronik, motor, pengontrol, perangkat sakelar, lampu, dll."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Mesin, bahan bakar, suku cadang, produk kayu, pipa, bahan peledak, dan pasokan lain untuk pertambangan dan industri serupa."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Bahan peledak sipil untuk pertambangan, konstruksi, dll."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Mesin, bahan bakar, suku cadang, pupuk, dan pasokan lain untuk pertanian, kehutanan, dan industri serupa."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Digunakan dalam produksi baja. Paduan besi dan unsur lain, termasuk mangan, nikel, kromium, aluminium, silikon, dan tungsten. Gumpalan abu-abu, dengan ukuran dan bentuk yang mirip gumpalan batu bara."
+
+[CARGO_INFO_FERROCHROME]
+base = "Digunakan dalam produksi paduan dan baja tahan karat, yaitu paduan kromium dan besi. Gumpalan abu-abu, dengan ukuran dan bentuk yang mirip gumpalan batu bara."
+
+[CARGO_INFO_FLOUR]
+base = "Produk sereal bubuk seperti tepung dan pati, diangkut dalam karung atau dalam curah tertutup."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Suku cadang logam untuk dirakit menjadi barang yang lebih besar."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Bahan baku yang digunakan dalam pengolahan makanan, seperti pengawet, perasa, pewarna, dan bahan bantu pengolahan."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Makanan yang disimpan dalam kondisi beku selama transportasi dan penyimpanan."
+
+[CARGO_INFO_FRUITS]
+base = "Buah segar dan kering, seperti pisang, jeruk, anggur, beri, nanas, kismis, dan sejenisnya."
+
+[CARGO_INFO_GRAIN]
+base = "Gandum, jelai, dll."
+
+[CARGO_INFO_HARDWARE]
+base = "Untuk keperluan rumah tangga dan konstruksi. Peralatan, perkakas, perlengkapan, dan aksesori dari logam serta bahan lainnya."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Bahan karbon khusus seperti kokas minyak bumi yang dikalsinasi, pitch, tar bernilai tinggi, dan karbon hitam, yang digunakan dalam proses metalurgi dan kimia."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Gas industri yang digunakan dalam pengolahan kimia, pengerjaan logam, dan pengelasan, diangkut dalam silinder atau tangki bertekanan."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Gendang, winch, belenggu, kait, katrol, silinder hidrolik, dan komponen lain untuk derek, hoist, lift, dll."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Fraksi minyak bumi ringan yang digunakan sebagai bahan baku kimia, diangkut sebagai cairan curah."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Terutama sapi, babi, dan domba untuk produksi daging. Hewan lain juga mungkin dimakan."
+
+[CARGO_INFO_LYE]
+base = "Bahan kimia industri. Juga dikenal sebagai Lye atau Soda Kaustik. Biasanya diangkut dalam bentuk cair."
+
+[CARGO_INFO_KAOLIN]
+base = "Mineral industri, juga dikenal sebagai Kaolin, terutama digunakan dalam produksi kertas dan plastik."
+
+[CARGO_INFO_MANGANESE]
+base = "Bijih mangan, yang utamanya digunakan dalam produksi baja."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Mesin, suku cadang, bahan bakar, bahan konstruksi, dan perlengkapan lain untuk pelabuhan, dermaga, dan industri serupa."
+
+[CARGO_INFO_METAL]
+base = "Logam umum, seperti baja, aluminium, atau logam umum lainnya."
+
+[CARGO_INFO_METHANOL]
+base = "Alkohol industri yang digunakan sebagai bahan baku kimia dan bahan bakar, diangkut sebagai cairan curah."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Produk gula antara untuk pemurnian, fermentasi, dan penggunaan industri. Butiran lengket ditangani sebagai curah tertutup; sirup kental sebagai cairan; keduanya dapat dikemas."
+
+[CARGO_INFO_NITROGEN]
+base = "Gas industri. Diangkut secara kriogenik sebagai gas terkompresi yang dicairkan."
+
+[CARGO_INFO_OIL]
+base = "Minyak bumi mentah yang belum dimurnikan dan diangkut sebagai cairan curah."
+
+[CARGO_INFO_OXYGEN]
+base = "Gas industri. Diangkut secara kriogenik sebagai gas terkompresi yang dicairkan."
+
+[CARGO_INFO_PACKAGING]
+base = "Kotak, botol, stoples, kaleng, dll."
+
+[CARGO_INFO_PEAT]
+base = "Biomassa dari rawa gambut, diekstraksi untuk bahan bakar dan hortikultura."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Produk minyak bumi murni seperti bensin, solar, minyak tanah, LPG, minyak bakar, dan bahan bakar bunker, yang diangkut sebagai cairan curah atau gas cair."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Asam industri yang terutama digunakan dalam produksi pupuk dan bahan kimia, diangkut sebagai cairan curah."
+
+[CARGO_INFO_PIG_IRON]
+base = "Besi dasar dari tanur tiup, dalam bentuk cair meleleh atau batangan padat."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Kapas, rami, jut, dan bahan serupa, untuk menghasilkan tekstil dan bahan komposit."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Peralatan bertenaga dan sistem mekanis yang digunakan di gedung, industri, dan pertanian. Diangkut sebagai unit lengkap atau sebagai subperakitan utama."
+
+[CARGO_INFO_PETROL]
+base = "Bensin, solar, dan bahan bakar sejenis."
+
+[CARGO_INFO_PLASTICS]
+base = "Plastik mentah untuk pengolahan lebih lanjut. Biasanya diangkut dalam bentuk manik resin."
+
+[CARGO_INFO_PIPEWORK]
+base = "Tangki penyimpanan, bejana bertekanan, silo, tabung gas, dan rakitan pipa, untuk digunakan di gedung perkotaan, industri, dan pertanian."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Bahan kimia industri yang digunakan dalam manufaktur dan pengolahan, diangkut dalam bentuk cair, bubuk, gas, atau barang kemasan."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Mineral sulfida, dilebur untuk menghasilkan berbagai produk industri."
+
+[CARGO_INFO_QUICKLIME]
+base = "Kalsium Oksida, juga dikenal sebagai kapur bakar. Diangkut dalam bentuk bubuk halus yang harus dijaga tetap kering."
+
+[CARGO_INFO_REBAR]
+base = "Batang baja kasar tipis yang banyak digunakan untuk memperkuat struktur beton. Diangkut dalam bentuk gulungan atau ikatan batang lurus."
+
+[CARGO_INFO_RUBBER]
+base = "Terutama lateks alami."
+
+[CARGO_INFO_SALT]
+base = "Bahan kimia industri yang banyak digunakan. Biasanya diangkut sebagai kargo curah yang harus dijaga tetap kering."
+
+[CARGO_INFO_SAND]
+base = "Pasir kasar untuk konstruksi, atau pasir silika halus untuk pembuatan kaca dan pengecoran logam. Diangkut dalam bentuk curah atau bubuk."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Segel fleksibel, gasket, selang, sabuk, matras, bushing, dll., yang terbuat dari karet atau bahan serupa."
+
+[CARGO_INFO_SLAG]
+base = "Produk limbah dari produksi besi dan baja."
+
+[CARGO_INFO_SODA_ASH]
+base = "Bahan kimia industri. Berbentuk bubuk putih."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Tuangan baja setengah jadi. Persegi panjang, persegi, atau bulat pada penampang melintang."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Tuangan baja kasar yang memerlukan pengolahan lebih lanjut. Batangan bisa berukuran kecil atau sangat besar. Profil batangan yang umum adalah persegi panjang atau bulat."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Batang baja, dalam bentuk bulat, persegi, pipih, dan profil lainnya. Diangkut sebagai produk lurus panjang."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Pipa baja bundar panjang untuk mengangkut cairan di dalam pipa, bangunan, industri, dll."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Pelat dan profil baja gilingan—balok I, balok H, kanal, dll. Diangkut sebagai produk lurus yang panjang."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Lembar dan strip baja gilas tipis, banyak digunakan untuk membuat produk lain. Diangkut dalam bentuk lembaran datar atau gulungan."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Tuangan baja setengah jadi. Selalu datar dan persegi panjang pada penampang melintang."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Tabung panjang berongga dengan penampang bundar, persegi panjang, dan bentuk lainnya. Digunakan untuk membuat struktur dan mesin."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Kawat baja dan batang tipis. Utamanya diangkut dalam bentuk gulungan."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Tali dan kabel yang dibuat dengan menarik batang kawat baja hingga berdiameter lebih kecil, lalu dipilin menjadi tali bundel."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Baja kelas struktural dalam bentuk bagian tergulung (balok I, balok H, dll.), atau pelat datar, atau bagian dan balok fabrikasi yang dilas dari pelat."
+
+[CARGO_INFO_SULPHUR]
+base = "Bahan kimia industri yang banyak digunakan. Berwarna kuning cerah, dalam bentuk bubuk atau cair."
+
+[CARGO_INFO_TIMBER]
+base = "Produk kayu olahan dari pabrik gergaji atau industri serupa."
+
+[CARGO_INFO_TIN]
+base = "Batu logam tuang."
+
+[CARGO_INFO_TINPLATE]
+base = "Lembar baja tipis yang dilapisi timah untuk menahan korosi, terutama digunakan untuk kaleng, wadah, dan kemasan lainnya."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Kawat halus yang digunakan untuk memperkuat ban. Diangkut dalam bentuk gulungan."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Kabin, kap mesin, pintu, dan struktur bodi serupa untuk produksi kendaraan."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Mesin pembakaran dalam dan komponen rangkaian penggerak terkait seperti transmisi dan poros penggerak."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponen untuk produksi kendaraan seperti sasis dan komponen suspensi, bagian kelistrikan, trim eksterior, dan bagian interior."
+
+[CARGO_INFO_VEHICLES]
+base = "Terutama truk. Atau mobil. Atau truk ringan. Mungkin traktor."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Perlengkapan untuk memotong dan mengelas logam, seperti batang las, perkakas, dan gas industri termasuk asetilena, argon, propana, oksigen, dan nitrogen."
+
+[CARGO_INFO_WOOD]
+base = "Kayu gelondongan dari hutan."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Serat kayu olahan yang terutama digunakan untuk produksi kertas, diangkut dalam bentuk bal atau pulp curah."
+
+[CARGO_INFO_WOOL]
+base = "Bale."
+
+[CARGO_INFO_ZINC]
+base = "Batu logam tuang."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

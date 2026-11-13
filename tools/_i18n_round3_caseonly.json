@@ -1,0 +1,16 @@
+[
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_CC_OPEN_BULK",
+  "en": "Open Bulk",
+  "tr": "Open bulk"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_ECO_INDUSTRIES",
+  "en": "{count} Industries",
+  "tr": "{count} industries"
+ }
+]

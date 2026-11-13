@@ -1,0 +1,5407 @@
+[
+ {
+  "lang": "afrikaans",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "afrikaans",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "afrikaans",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "afrikaans",
+  "en": "Sand",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_CARGO_SAND.name"
+   }
+  ],
+  "others": 32,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "رمل"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Пясок"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Femenin}Sorra"
+   }
+  ],
+  "consensus": "Areia"
+ },
+ {
+  "lang": "afrikaans",
+  "en": "Tin",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_CARGO_TIN.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "قصدير"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Воўка"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Estany"
+   }
+  ],
+  "consensus": "Cín"
+ },
+ {
+  "lang": "afrikaans",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "afrikaans",
+  "en": "Bakery",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_STATION_BAKERY.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "مخبز"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Хлебазавод"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Forn"
+   }
+  ],
+  "consensus": "Bageri"
+ },
+ {
+  "lang": "afrikaans",
+  "en": "Plant",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_STATION_PLANT.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "المصنع"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Завод"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Planta"
+   }
+  ],
+  "consensus": "Planta"
+ },
+ {
+  "lang": "afrikaans",
+  "en": "Sandbank",
+  "refs": [
+   {
+    "file": "src/grf/lang/afrikaans.toml",
+    "key": "STR_STATION_WATER.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "شريط رملي"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Участак паглыблення дна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Banc de sorra"
+   }
+  ],
+  "consensus": "Sprud"
+ },
+ {
+  "lang": "catalan",
+  "en": "Cement",
+  "refs": [
+   {
+    "file": "src/grf/lang/catalan.toml",
+    "key": "STR_CARGO_CEMENT.name"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sement"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أسمنت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цэмент"
+   }
+  ],
+  "consensus": "Sement"
+ },
+ {
+  "lang": "catalan",
+  "en": "Nitrogen",
+  "refs": [
+   {
+    "file": "src/grf/lang/catalan.toml",
+    "key": "STR_CARGO_NITROGEN.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Stikstof"
+   },
+   {
+    "lang": "arabic",
+    "tr": "نيتروجين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Азот"
+   }
+  ],
+  "consensus": "Азот"
+ },
+ {
+  "lang": "catalan",
+  "en": "Vehicles",
+  "refs": [
+   {
+    "file": "src/grf/lang/catalan.toml",
+    "key": "STR_CARGO_VEHICLES.name"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Voertuie"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مركبات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=p}Аўтамабілі"
+   }
+  ],
+  "consensus": "Vozila"
+ },
+ {
+  "lang": "catalan",
+  "en": "Zinc",
+  "refs": [
+   {
+    "file": "src/grf/lang/catalan.toml",
+    "key": "STR_CARGO_ZINC.name"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sink"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الزنك"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цынк"
+   }
+  ],
+  "consensus": "Zink"
+ },
+ {
+  "lang": "catalan",
+  "en": "Base",
+  "refs": [
+   {
+    "file": "src/grf/lang/catalan.toml",
+    "key": "STR_STATION_BASE.base"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basis"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قاعدة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Апаратная база"
+   }
+  ],
+  "consensus": "Basis"
+ },
+ {
+  "lang": "catalan",
+  "en": "Components",
+  "refs": [
+   {
+    "file": "src/grf/lang/catalan.toml",
+    "key": "STR_STATION_COMPONENTS.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Komponente"
+   },
+   {
+    "lang": "arabic",
+    "tr": "المكونات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Кампаненты"
+   }
+  ],
+  "consensus": "Componentes"
+ },
+ {
+  "lang": "catalan",
+  "en": "Mines",
+  "refs": [
+   {
+    "file": "src/grf/lang/catalan.toml",
+    "key": "STR_STATION_MINES.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Mynene"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مناجم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Галоўным чынам каровы, свіні і авечкі для вытворчасці мяса. Іншых жывёл таксама могуць есці."
+   }
+  ],
+  "consensus": "Minas"
+ },
+ {
+  "lang": "catalan",
+  "en": "Minerals",
+  "refs": [
+   {
+    "file": "src/grf/lang/catalan.toml",
+    "key": "STR_STATION_POTASH_MINE.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Minerale"
+   },
+   {
+    "lang": "arabic",
+    "tr": "معادن"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Мінералы"
+   }
+  ],
+  "consensus": "Mineraler"
+ },
+ {
+  "lang": "catalan",
+  "en": "Economies",
+  "refs": [
+   {
+    "file": "src/docs/lang/catalan.toml",
+    "key": "DOC_NAV_ECONOMIES"
+   },
+   {
+    "file": "src/docs/lang/catalan.toml",
+    "key": "DOC_ECO_TITLE"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Ekonomieë"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الاقتصادات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Гаспадаркі"
+   }
+  ],
+  "consensus": "Economías"
+ },
+ {
+  "lang": "catalan",
+  "en": "{count} economies",
+  "refs": [
+   {
+    "file": "src/docs/lang/catalan.toml",
+    "key": "DOC_GS_SETUP_INTRO_LINK"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "{count} ekonomieë"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{count} اقتصاد"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{count} гаспадаркі"
+   }
+  ],
+  "consensus": "{count} economías"
+ },
+ {
+  "lang": "catalan",
+  "en": "(decimal)",
+  "refs": [
+   {
+    "file": "src/docs/lang/catalan.toml",
+    "key": "DOC_CR_TH_DECIMAL"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "(desimaal)"
+   },
+   {
+    "lang": "arabic",
+    "tr": "(عشري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "(дзесятковае)"
+   }
+  ],
+  "consensus": "(decimalno)"
+ },
+ {
+  "lang": "catalan",
+  "en": "Potable",
+  "refs": [
+   {
+    "file": "src/docs/lang/catalan.toml",
+    "key": "DOC_CC_POTABLE"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Drinkbaar"
+   },
+   {
+    "lang": "arabic",
+    "tr": "صالح للشرب"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Пітны"
+   }
+  ],
+  "consensus": "Drinkbaar"
+ },
+ {
+  "lang": "catalan",
+  "en": "Paper",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_catalan.toml",
+    "key": "TTD_STR_CARGO_PLURAL_PAPER.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Papier"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الورق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Папера"
+   }
+  ],
+  "consensus": "Papier"
+ },
+ {
+  "lang": "catalan",
+  "en": "Bales.",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_catalan.toml",
+    "key": "CARGO_INFO_WOOL.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Bale."
+   },
+   {
+    "lang": "arabic",
+    "tr": "بالات."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Балы."
+   }
+  ],
+  "consensus": "Bale."
+ },
+ {
+  "lang": "croatian",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/croatian.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "croatian",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/croatian.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "croatian",
+  "en": "Cement",
+  "refs": [
+   {
+    "file": "src/grf/lang/croatian.toml",
+    "key": "STR_CARGO_CEMENT.name"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sement"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أسمنت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цэмент"
+   }
+  ],
+  "consensus": "Sement"
+ },
+ {
+  "lang": "croatian",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/croatian.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "czech",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/czech.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "czech",
+  "en": "Cement",
+  "refs": [
+   {
+    "file": "src/grf/lang/czech.toml",
+    "key": "STR_CARGO_CEMENT.name"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sement"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أسمنت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цэмент"
+   }
+  ],
+  "consensus": "Sement"
+ },
+ {
+  "lang": "czech",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/czech.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "danish",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "danish",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "danish",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "danish",
+  "en": "Cement",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_CARGO_CEMENT.name"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sement"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أسمنت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цэмент"
+   }
+  ],
+  "consensus": "Sement"
+ },
+ {
+  "lang": "danish",
+  "en": "Methanol",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_CARGO_METHANOL.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Metanol"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ميثانول"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Метанол"
+   }
+  ],
+  "consensus": "Metanol"
+ },
+ {
+  "lang": "danish",
+  "en": "Salt",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_CARGO_SALT.name"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sout"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ملح"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Соль"
+   }
+  ],
+  "consensus": "Sal"
+ },
+ {
+  "lang": "danish",
+  "en": "Sand",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_CARGO_SAND.name"
+   }
+  ],
+  "others": 32,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "رمل"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Пясок"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Femenin}Sorra"
+   }
+  ],
+  "consensus": "Areia"
+ },
+ {
+  "lang": "danish",
+  "en": "Tin",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_CARGO_TIN.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "قصدير"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Воўка"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Estany"
+   }
+  ],
+  "consensus": "Cín"
+ },
+ {
+  "lang": "danish",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "danish",
+  "en": "Ranch",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_IND_RANCH.base"
+   },
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_STATION_FARM_3.base"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Plaas"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سكر خام ودبس"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Фальварак"
+   }
+  ],
+  "consensus": "Ranč"
+ },
+ {
+  "lang": "danish",
+  "en": "Barns",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_STATION_BARNS.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Skure"
+   },
+   {
+    "lang": "arabic",
+    "tr": "حظائر"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Варыўня"
+   }
+  ],
+  "consensus": "Celeiros"
+ },
+ {
+  "lang": "danish",
+  "en": "Shoals",
+  "refs": [
+   {
+    "file": "src/grf/lang/danish.toml",
+    "key": "STR_STATION_SHOALS.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sande"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مياه ضحلة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Рыбпрам"
+   }
+  ],
+  "consensus": "Sande"
+ },
+ {
+  "lang": "danish",
+  "en": "{BLACK}Type: {WHITE}{RAW_STRING}",
+  "refs": [
+   {
+    "file": "src/gs/lang/danish.toml",
+    "key": "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "{BLACK}Tipe: {WHITE}{RAW_STRING}"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{BLACK}النوع: {WHITE}{RAW_STRING}"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{BLACK}Тып: {WHITE}{RAW_STRING}"
+   }
+  ],
+  "consensus": "{BLACK}Typ: {WHITE}{RAW_STRING}"
+ },
+ {
+  "lang": "danish",
+  "en": "(decimal)",
+  "refs": [
+   {
+    "file": "src/docs/lang/danish.toml",
+    "key": "DOC_CR_TH_DECIMAL"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "(desimaal)"
+   },
+   {
+    "lang": "arabic",
+    "tr": "(عشري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "(дзесятковае)"
+   }
+  ],
+  "consensus": "(decimalno)"
+ },
+ {
+  "lang": "dutch",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "dutch",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "dutch",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "dutch",
+  "en": "Cement",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_CARGO_CEMENT.name"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sement"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أسمنت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цэмент"
+   }
+  ],
+  "consensus": "Sement"
+ },
+ {
+  "lang": "dutch",
+  "en": "Methanol",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_CARGO_METHANOL.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Metanol"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ميثانول"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Метанол"
+   }
+  ],
+  "consensus": "Metanol"
+ },
+ {
+  "lang": "dutch",
+  "en": "Tin",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_CARGO_TIN.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "قصدير"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Воўка"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Estany"
+   }
+  ],
+  "consensus": "Cín"
+ },
+ {
+  "lang": "dutch",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "dutch",
+  "en": "Ranch",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_IND_RANCH.base"
+   },
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_STATION_FARM_3.base"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Plaas"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سكر خام ودبس"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Фальварак"
+   }
+  ],
+  "consensus": "Ranč"
+ },
+ {
+  "lang": "dutch",
+  "en": "Flowline",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_STATION_PIPEWORK_FABRICATOR.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Vloeilyn"
+   },
+   {
+    "lang": "arabic",
+    "tr": "خط تدفق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Патокавая лінія"
+   }
+  ],
+  "consensus": "Linha de Fluxo"
+ },
+ {
+  "lang": "dutch",
+  "en": "Plant",
+  "refs": [
+   {
+    "file": "src/grf/lang/dutch.toml",
+    "key": "STR_STATION_PLANT.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "المصنع"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Завод"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Planta"
+   }
+  ],
+  "consensus": "Planta"
+ },
+ {
+  "lang": "dutch",
+  "en": "{BLACK}Type: {WHITE}{RAW_STRING}",
+  "refs": [
+   {
+    "file": "src/gs/lang/dutch.toml",
+    "key": "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "{BLACK}Tipe: {WHITE}{RAW_STRING}"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{BLACK}النوع: {WHITE}{RAW_STRING}"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{BLACK}Тып: {WHITE}{RAW_STRING}"
+   }
+  ],
+  "consensus": "{BLACK}Typ: {WHITE}{RAW_STRING}"
+ },
+ {
+  "lang": "dutch",
+  "en": "Label",
+  "refs": [
+   {
+    "file": "src/docs/lang/dutch.toml",
+    "key": "DOC_CR_TH_LABEL"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Etiket"
+   },
+   {
+    "lang": "arabic",
+    "tr": "التسمية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Метка"
+   }
+  ],
+  "consensus": "Etiqueta"
+ },
+ {
+  "lang": "dutch",
+  "en": "Express",
+  "refs": [
+   {
+    "file": "src/docs/lang/dutch.toml",
+    "key": "DOC_CC_EXPRESS"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Spoed"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سريع"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Экспрэс"
+   }
+  ],
+  "consensus": "Exprés"
+ },
+ {
+  "lang": "dutch",
+  "en": "Rubber",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_dutch.toml",
+    "key": "TTD_STR_CARGO_PLURAL_RUBBER.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Gom"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مطاط"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Гума"
+   }
+  ],
+  "consensus": "Gummi"
+ },
+ {
+  "lang": "estonian",
+  "en": "Farm",
+  "refs": [
+   {
+    "file": "src/grf/lang/estonian.toml",
+    "key": "STR_IND_FARM.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Plaas"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مزرعة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Ферма"
+   }
+  ],
+  "consensus": "Granja"
+ },
+ {
+  "lang": "french",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "french",
+  "en": "Coke",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_CARGO_COKE.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Kook"
+   },
+   {
+    "lang": "arabic",
+    "tr": "كوكا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Кокс"
+   }
+  ],
+  "consensus": "Koks"
+ },
+ {
+  "lang": "french",
+  "en": "Nitrates",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_CARGO_NITRATES.name"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Nitrate"
+   },
+   {
+    "lang": "arabic",
+    "tr": "نترات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=p}Нітраты"
+   }
+  ],
+  "consensus": "Nitrat"
+ },
+ {
+  "lang": "french",
+  "en": "Phosphate",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_CARGO_PHOSPHATE.name"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Fosfaat"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الفوسفات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=p}Фасфаты"
+   }
+  ],
+  "consensus": "Fosfat"
+ },
+ {
+  "lang": "french",
+  "en": "Zinc",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_CARGO_ZINC.name"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sink"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الزنك"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цынк"
+   }
+  ],
+  "consensus": "Zink"
+ },
+ {
+  "lang": "french",
+  "en": "Port",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_IND_PORT.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Hawe"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الميناء"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Порт"
+   }
+  ],
+  "consensus": "Luka"
+ },
+ {
+  "lang": "french",
+  "en": "Base",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_STATION_BASE.base"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basis"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قاعدة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Апаратная база"
+   }
+  ],
+  "consensus": "Basis"
+ },
+ {
+  "lang": "french",
+  "en": "Mines",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_STATION_MINES.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Mynene"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مناجم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Галоўным чынам каровы, свіні і авечкі для вытворчасці мяса. Іншых жывёл таксама могуць есці."
+   }
+  ],
+  "consensus": "Minas"
+ },
+ {
+  "lang": "french",
+  "en": "Plantation",
+  "refs": [
+   {
+    "file": "src/grf/lang/french.toml",
+    "key": "STR_STATION_PLANTATION.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Plantasie"
+   },
+   {
+    "lang": "arabic",
+    "tr": "المزرعة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Плантацыя"
+   }
+  ],
+  "consensus": "Plantage"
+ },
+ {
+  "lang": "french",
+  "en": "Industries",
+  "refs": [
+   {
+    "file": "src/docs/lang/french.toml",
+    "key": "DOC_NAV_INDUSTRIES"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Nywerhede"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الصناعات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Галіны прамысловасці"
+   }
+  ],
+  "consensus": "Industrier"
+ },
+ {
+  "lang": "french",
+  "en": "{count} industries",
+  "refs": [
+   {
+    "file": "src/docs/lang/french.toml",
+    "key": "DOC_GS_FEATURE_INDUSTRIES"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "{count} nywerhede"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{count} صناعة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{count} галіны прамысловасці"
+   }
+  ],
+  "consensus": "{count} industrier"
+ },
+ {
+  "lang": "french",
+  "en": "Instructions",
+  "refs": [
+   {
+    "file": "src/docs/lang/french.toml",
+    "key": "DOC_GS_DOWNLOAD_B1_LINK"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Instruksies"
+   },
+   {
+    "lang": "arabic",
+    "tr": "تعليمات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Інструкцыі"
+   }
+  ],
+  "consensus": "Instruktioner"
+ },
+ {
+  "lang": "french",
+  "en": "Industries ({count})",
+  "refs": [
+   {
+    "file": "src/docs/lang/french.toml",
+    "key": "DOC_IND_TITLE"
+   },
+   {
+    "file": "src/docs/lang/french.toml",
+    "key": "DOC_CR_NAV_INDUSTRIES"
+   },
+   {
+    "file": "src/docs/lang/french.toml",
+    "key": "DOC_CR_INDUSTRIES_TITLE"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Nywerhede ({count})"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الصناعات ({count})"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Галіны прамысловасці ({count})"
+   }
+  ],
+  "consensus": "Industrier ({count})"
+ },
+ {
+  "lang": "french",
+  "en": "Express",
+  "refs": [
+   {
+    "file": "src/docs/lang/french.toml",
+    "key": "DOC_CC_EXPRESS"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Spoed"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سريع"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Экспрэс"
+   }
+  ],
+  "consensus": "Exprés"
+ },
+ {
+  "lang": "french",
+  "en": "Potable",
+  "refs": [
+   {
+    "file": "src/docs/lang/french.toml",
+    "key": "DOC_CC_POTABLE"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Drinkbaar"
+   },
+   {
+    "lang": "arabic",
+    "tr": "صالح للشرب"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Пітны"
+   }
+  ],
+  "consensus": "Drinkbaar"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Arctic Basic",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basiese Arkties"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أساسي القطب الشمالي"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Звычайная эканоміка, субарктычны клімат"
+   }
+  ],
+  "consensus": "Basiese Arkties"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Acid",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_CARGO_ACID.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Suur"
+   },
+   {
+    "lang": "arabic",
+    "tr": "حمض"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Кіслата"
+   }
+  ],
+  "consensus": "Ácido"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Cassava",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_CARGO_CASSAVA.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Kassava"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الكاسافا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Маніёк"
+   }
+  ],
+  "consensus": "Maniok"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Peat",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_CARGO_PEAT.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Turf"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الخث"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Торф"
+   }
+  ],
+  "consensus": "Turba"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Potash",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_CARGO_POTASH.name"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Kalium"
+   },
+   {
+    "lang": "arabic",
+    "tr": "بوتاس"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Калій"
+   }
+  ],
+  "consensus": "Kalium"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Slag",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_CARGO_SLAG.name"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Slak"
+   },
+   {
+    "lang": "arabic",
+    "tr": "خبث"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Дзындра"
+   }
+  ],
+  "consensus": "Slagg"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Zinc",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_CARGO_ZINC.name"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sink"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الزنك"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цынк"
+   }
+  ],
+  "consensus": "Zink"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Port",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_IND_PORT.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Hawe"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الميناء"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Порт"
+   }
+  ],
+  "consensus": "Luka"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Pit",
+  "refs": [
+   {
+    "file": "src/grf/lang/gaelic.toml",
+    "key": "STR_STATION_PIT.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Mynskag"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الحفرة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Капальня"
+   }
+  ],
+  "consensus": "Jama"
+ },
+ {
+  "lang": "gaelic",
+  "en": "Coal",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_gaelic.toml",
+    "key": "TTD_STR_CARGO_PLURAL_COAL.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Kool"
+   },
+   {
+    "lang": "arabic",
+    "tr": "فحم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Вугаль"
+   }
+  ],
+  "consensus": "Carbón"
+ },
+ {
+  "lang": "galician",
+  "en": "Base",
+  "refs": [
+   {
+    "file": "src/grf/lang/galician.toml",
+    "key": "STR_STATION_BASE.base"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basis"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قاعدة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Апаратная база"
+   }
+  ],
+  "consensus": "Basis"
+ },
+ {
+  "lang": "galician",
+  "en": "(decimal)",
+  "refs": [
+   {
+    "file": "src/docs/lang/galician.toml",
+    "key": "DOC_CR_TH_DECIMAL"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "(desimaal)"
+   },
+   {
+    "lang": "arabic",
+    "tr": "(عشري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "(дзесятковае)"
+   }
+  ],
+  "consensus": "(decimalno)"
+ },
+ {
+  "lang": "galician",
+  "en": "Potable",
+  "refs": [
+   {
+    "file": "src/docs/lang/galician.toml",
+    "key": "DOC_CC_POTABLE"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Drinkbaar"
+   },
+   {
+    "lang": "arabic",
+    "tr": "صالح للشرب"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Пітны"
+   }
+  ],
+  "consensus": "Drinkbaar"
+ },
+ {
+  "lang": "galician",
+  "en": "Bales.",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_galician.toml",
+    "key": "CARGO_INFO_WOOL.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Bale."
+   },
+   {
+    "lang": "arabic",
+    "tr": "بالات."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Балы."
+   }
+  ],
+  "consensus": "Bale."
+ },
+ {
+  "lang": "german",
+  "en": " {BLACK}(optional)",
+  "refs": [
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": " {BLACK}(opsioneel)"
+   },
+   {
+    "lang": "arabic",
+    "tr": " {BLACK}(اختياري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": " {BLACK}(неабавязкова)"
+   }
+  ],
+  "consensus": " {BLACK}(opcional)"
+ },
+ {
+  "lang": "german",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "german",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "german",
+  "en": "Methanol",
+  "refs": [
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_CARGO_METHANOL.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Metanol"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ميثانول"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Метанол"
+   }
+  ],
+  "consensus": "Metanol"
+ },
+ {
+  "lang": "german",
+  "en": "Sand",
+  "refs": [
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_CARGO_SAND.name"
+   }
+  ],
+  "others": 32,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "رمل"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Пясок"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Femenin}Sorra"
+   }
+  ],
+  "consensus": "Areia"
+ },
+ {
+  "lang": "german",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "german",
+  "en": "Ranch",
+  "refs": [
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_IND_RANCH.base"
+   },
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_STATION_FARM_3.base"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Plaas"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سكر خام ودبس"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Фальварак"
+   }
+  ],
+  "consensus": "Ranč"
+ },
+ {
+  "lang": "german",
+  "en": "Sandbank",
+  "refs": [
+   {
+    "file": "src/grf/lang/german.toml",
+    "key": "STR_STATION_WATER.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "شريط رملي"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Участак паглыблення дна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Banc de sorra"
+   }
+  ],
+  "consensus": "Sprud"
+ },
+ {
+  "lang": "german",
+  "en": "{BLACK}Name: {WHITE}{RAW_STRING}",
+  "refs": [
+   {
+    "file": "src/gs/lang/german.toml",
+    "key": "STR_MANUFACTURERS_STORY_PAGE_NAME.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "{BLACK}Naam: {WHITE}{RAW_STRING}"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{BLACK}الاسم: {WHITE}{RAW_STRING}"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{BLACK}Назва: {WHITE}{RAW_STRING}"
+   }
+  ],
+  "consensus": "{BLACK}Nome: {WHITE}{RAW_STRING}"
+ },
+ {
+  "lang": "german",
+  "en": "Name",
+  "refs": [
+   {
+    "file": "src/docs/lang/german.toml",
+    "key": "DOC_CR_TH_NAME"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Naam"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الاسم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Назва"
+   }
+  ],
+  "consensus": "Nome"
+ },
+ {
+  "lang": "german",
+  "en": "Express",
+  "refs": [
+   {
+    "file": "src/docs/lang/german.toml",
+    "key": "DOC_CC_EXPRESS"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Spoed"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سريع"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Экспрэс"
+   }
+  ],
+  "consensus": "Exprés"
+ },
+ {
+  "lang": "hungarian",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/hungarian.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "hungarian",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/hungarian.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "hungarian",
+  "en": "Cement",
+  "refs": [
+   {
+    "file": "src/grf/lang/hungarian.toml",
+    "key": "STR_CARGO_CEMENT.name"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sement"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أسمنت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цэмент"
+   }
+  ],
+  "consensus": "Sement"
+ },
+ {
+  "lang": "hungarian",
+  "en": "Farm",
+  "refs": [
+   {
+    "file": "src/grf/lang/hungarian.toml",
+    "key": "STR_IND_FARM.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Plaas"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مزرعة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Ферма"
+   }
+  ],
+  "consensus": "Granja"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Steeltown",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_PARAM_VALUE_ECONOMIES_STEELTOWN.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Staaltown"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مدينة الصلب"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Стальны пояс"
+   }
+  ],
+  "consensus": "Staaltown"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Nitrogen",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_CARGO_NITROGEN.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Stikstof"
+   },
+   {
+    "lang": "arabic",
+    "tr": "نيتروجين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Азот"
+   }
+  ],
+  "consensus": "Азот"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Slag",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_CARGO_SLAG.name"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Slak"
+   },
+   {
+    "lang": "arabic",
+    "tr": "خبث"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Дзындра"
+   }
+  ],
+  "consensus": "Slagg"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Soda Ash",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_CARGO_SODA_ASH.name"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sodaas"
+   },
+   {
+    "lang": "arabic",
+    "tr": "رماد الصودا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Сода"
+   }
+  ],
+  "consensus": "Soda"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Steelmasters",
+  "refs": [
+   {
+    "file": "src/grf/lang/indonesian.toml",
+    "key": "STR_STATION_FORGE_AND_FOUNDRY.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Staalmasters"
+   },
+   {
+    "lang": "arabic",
+    "tr": "خبراء الصلب"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Майстры сталеліцця"
+   }
+  ],
+  "consensus": "Staalmasters"
+ },
+ {
+  "lang": "indonesian",
+  "en": "Label",
+  "refs": [
+   {
+    "file": "src/docs/lang/indonesian.toml",
+    "key": "DOC_CR_TH_LABEL"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Etiket"
+   },
+   {
+    "lang": "arabic",
+    "tr": "التسمية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Метка"
+   }
+  ],
+  "consensus": "Etiqueta"
+ },
+ {
+  "lang": "japanese",
+  "en": "SEA",
+  "refs": [
+   {
+    "file": "src/grf/lang/japanese.toml",
+    "key": "STR_BADGE_SEA.base"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "SEE"
+   },
+   {
+    "lang": "arabic",
+    "tr": "البحر"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "МАРЫ"
+   }
+  ],
+  "consensus": "MAR"
+ },
+ {
+  "lang": "korean",
+  "en": "SEA",
+  "refs": [
+   {
+    "file": "src/grf/lang/korean.toml",
+    "key": "STR_BADGE_SEA.base"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "SEE"
+   },
+   {
+    "lang": "arabic",
+    "tr": "البحر"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "МАРЫ"
+   }
+  ],
+  "consensus": "MAR"
+ },
+ {
+  "lang": "latin",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/latin.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "latin",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/latin.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "latin",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/latin.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "latin",
+  "en": "Coke",
+  "refs": [
+   {
+    "file": "src/grf/lang/latin.toml",
+    "key": "STR_CARGO_COKE.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Kook"
+   },
+   {
+    "lang": "arabic",
+    "tr": "كوكا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Кокс"
+   }
+  ],
+  "consensus": "Koks"
+ },
+ {
+  "lang": "latin",
+  "en": "Barytes & Fluorspar",
+  "refs": [
+   {
+    "file": "src/grf/lang/latin.toml",
+    "key": "STR_CARGO_BARYTES_AND_FLUORSPAR.name"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Bariet & Fluorietspat"
+   },
+   {
+    "lang": "arabic",
+    "tr": "باريت وفلورسبار"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Барыт і флюарыт"
+   }
+  ],
+  "consensus": "Baryty a fluorit"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": " {BLACK}(optional)",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": " {BLACK}(opsioneel)"
+   },
+   {
+    "lang": "arabic",
+    "tr": " {BLACK}(اختياري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": " {BLACK}(неабавязкова)"
+   }
+  ],
+  "consensus": " {BLACK}(opcional)"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Methanol",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_CARGO_METHANOL.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Metanol"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ميثانول"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Метанол"
+   }
+  ],
+  "consensus": "Metanol"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Sand",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_CARGO_SAND.name"
+   }
+  ],
+  "others": 32,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "رمل"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Пясок"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Femenin}Sorra"
+   }
+  ],
+  "consensus": "Areia"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Ranch",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_IND_RANCH.base"
+   },
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_STATION_FARM_3.base"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Plaas"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سكر خام ودبس"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Фальварак"
+   }
+  ],
+  "consensus": "Ranč"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Shorefront",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_STATION_INDUSTRY_HARBOUR_4.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Kuslyn"
+   },
+   {
+    "lang": "arabic",
+    "tr": "واجهة الشاطئ"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Берагавая лінія"
+   }
+  ],
+  "consensus": "Kystfront"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Flowline",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_STATION_PIPEWORK_FABRICATOR.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Vloeilyn"
+   },
+   {
+    "lang": "arabic",
+    "tr": "خط تدفق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Патокавая лінія"
+   }
+  ],
+  "consensus": "Linha de Fluxo"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Slab yard",
+  "refs": [
+   {
+    "file": "src/grf/lang/luxembourgish.toml",
+    "key": "STR_STATION_PLATE_MILL.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Slabwerf"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ساحة الألواح"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Склад слітаў"
+   }
+  ],
+  "consensus": "Slabwerf"
+ },
+ {
+  "lang": "luxembourgish",
+  "en": "Express",
+  "refs": [
+   {
+    "file": "src/docs/lang/luxembourgish.toml",
+    "key": "DOC_CC_EXPRESS"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Spoed"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سريع"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Экспрэс"
+   }
+  ],
+  "consensus": "Exprés"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Nitrogen",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_NITROGEN.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Stikstof"
+   },
+   {
+    "lang": "arabic",
+    "tr": "نيتروجين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Азот"
+   }
+  ],
+  "consensus": "Азот"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Salt",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_SALT.name"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sout"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ملح"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Соль"
+   }
+  ],
+  "consensus": "Sal"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Sand",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_SAND.name"
+   }
+  ],
+  "others": 32,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "رمل"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Пясок"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Femenin}Sorra"
+   }
+  ],
+  "consensus": "Areia"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Tinplate",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_TINPLATE.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Tinplaat"
+   },
+   {
+    "lang": "arabic",
+    "tr": "صفائح القصدير"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Воўкавана"
+   }
+  ],
+  "consensus": "Tinplaat"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Tyre Cord",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_TYRE_CORD.name"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Buismeul"
+   },
+   {
+    "lang": "arabic",
+    "tr": "حبل الإطارات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Апорны кандат шын"
+   }
+  ],
+  "consensus": "Corda de Pneu"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Tyres",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_CARGO_TYRES.name"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Bandfabriek"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الإطارات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Шыны"
+   }
+  ],
+  "consensus": "Pneus"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Vehicle Distributor",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_IND_VEHICLE_DISTRIBUTOR.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Voertuigverdelers"
+   },
+   {
+    "lang": "arabic",
+    "tr": "موزع المركبات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Распаўсюджвальнік транспартных сродкаў"
+   }
+  ],
+  "consensus": "Distribuidor de vehículos"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "Base",
+  "refs": [
+   {
+    "file": "src/grf/lang/norwegian_bokmal.toml",
+    "key": "STR_STATION_BASE.base"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basis"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قاعدة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Апаратная база"
+   }
+  ],
+  "consensus": "Basis"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "en": "{BLACK}Type: {WHITE}{RAW_STRING}",
+  "refs": [
+   {
+    "file": "src/gs/lang/norwegian_bokmal.toml",
+    "key": "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "{BLACK}Tipe: {WHITE}{RAW_STRING}"
+   },
+   {
+    "lang": "arabic",
+    "tr": "{BLACK}النوع: {WHITE}{RAW_STRING}"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{BLACK}Тып: {WHITE}{RAW_STRING}"
+   }
+  ],
+  "consensus": "{BLACK}Typ: {WHITE}{RAW_STRING}"
+ },
+ {
+  "lang": "polish",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/polish.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "portuguese",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/portuguese.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "portuguese",
+  "en": "Base",
+  "refs": [
+   {
+    "file": "src/grf/lang/portuguese.toml",
+    "key": "STR_STATION_BASE.base"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basis"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قاعدة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Апаратная база"
+   }
+  ],
+  "consensus": "Basis"
+ },
+ {
+  "lang": "portuguese",
+  "en": "(decimal)",
+  "refs": [
+   {
+    "file": "src/docs/lang/portuguese.toml",
+    "key": "DOC_CR_TH_DECIMAL"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "(desimaal)"
+   },
+   {
+    "lang": "arabic",
+    "tr": "(عشري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "(дзесятковае)"
+   }
+  ],
+  "consensus": "(decimalno)"
+ },
+ {
+  "lang": "portuguese_BR",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/portuguese_BR.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "portuguese_BR",
+  "en": "Base",
+  "refs": [
+   {
+    "file": "src/grf/lang/portuguese_BR.toml",
+    "key": "STR_STATION_BASE.base"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basis"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قاعدة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Апаратная база"
+   }
+  ],
+  "consensus": "Basis"
+ },
+ {
+  "lang": "portuguese_BR",
+  "en": "(decimal)",
+  "refs": [
+   {
+    "file": "src/docs/lang/portuguese_BR.toml",
+    "key": "DOC_CR_TH_DECIMAL"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "(desimaal)"
+   },
+   {
+    "lang": "arabic",
+    "tr": "(عشري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "(дзесятковае)"
+   }
+  ],
+  "consensus": "(decimalno)"
+ },
+ {
+  "lang": "romanian",
+  "en": "Arctic Basic",
+  "refs": [
+   {
+    "file": "src/grf/lang/romanian.toml",
+    "key": "STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basiese Arkties"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أساسي القطب الشمالي"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Звычайная эканоміка, субарктычны клімат"
+   }
+  ],
+  "consensus": "Basiese Arkties"
+ },
+ {
+  "lang": "romanian",
+  "en": "Tropic Basic",
+  "refs": [
+   {
+    "file": "src/grf/lang/romanian.toml",
+    "key": "STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basiese Tropies"
+   },
+   {
+    "lang": "arabic",
+    "tr": "تروبيك الأساسي"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Звычайная эканоміка, субтрапічны клімат"
+   }
+  ],
+  "consensus": "Básica Tropical"
+ },
+ {
+  "lang": "romanian",
+  "en": "Acid",
+  "refs": [
+   {
+    "file": "src/grf/lang/romanian.toml",
+    "key": "STR_CARGO_ACID.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Suur"
+   },
+   {
+    "lang": "arabic",
+    "tr": "حمض"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Кіслата"
+   }
+  ],
+  "consensus": "Ácido"
+ },
+ {
+  "lang": "romanian",
+  "en": "Zinc",
+  "refs": [
+   {
+    "file": "src/grf/lang/romanian.toml",
+    "key": "STR_CARGO_ZINC.name"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sink"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الزنك"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цынк"
+   }
+  ],
+  "consensus": "Zink"
+ },
+ {
+  "lang": "romanian",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/romanian.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "romanian",
+  "en": "Port",
+  "refs": [
+   {
+    "file": "src/grf/lang/romanian.toml",
+    "key": "STR_IND_PORT.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Hawe"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الميناء"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Порт"
+   }
+  ],
+  "consensus": "Luka"
+ },
+ {
+  "lang": "simplified_chinese",
+  "en": "SEA",
+  "refs": [
+   {
+    "file": "src/grf/lang/simplified_chinese.toml",
+    "key": "STR_BADGE_SEA.base"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "SEE"
+   },
+   {
+    "lang": "arabic",
+    "tr": "البحر"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "МАРЫ"
+   }
+  ],
+  "consensus": "MAR"
+ },
+ {
+  "lang": "slovak",
+  "en": "Cement",
+  "refs": [
+   {
+    "file": "src/grf/lang/slovak.toml",
+    "key": "STR_CARGO_CEMENT.name"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sement"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أسمنت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цэмент"
+   }
+  ],
+  "consensus": "Sement"
+ },
+ {
+  "lang": "slovak",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/slovak.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "spanish",
+  "en": "Hotel",
+  "refs": [
+   {
+    "file": "src/grf/lang/spanish.toml",
+    "key": "STR_IND_HOTEL.base"
+   }
+  ],
+  "others": 25,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "فندق"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Гатэль"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Masculin}Hotel"
+   }
+  ],
+  "consensus": "{G=m}Hotel"
+ },
+ {
+  "lang": "spanish",
+  "en": "Base",
+  "refs": [
+   {
+    "file": "src/grf/lang/spanish.toml",
+    "key": "STR_STATION_BASE.base"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basis"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قاعدة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Апаратная база"
+   }
+  ],
+  "consensus": "Basis"
+ },
+ {
+  "lang": "spanish",
+  "en": "(decimal)",
+  "refs": [
+   {
+    "file": "src/docs/lang/spanish.toml",
+    "key": "DOC_CR_TH_DECIMAL"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "(desimaal)"
+   },
+   {
+    "lang": "arabic",
+    "tr": "(عشري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "(дзесятковае)"
+   }
+  ],
+  "consensus": "(decimalno)"
+ },
+ {
+  "lang": "spanish",
+  "en": "Potable",
+  "refs": [
+   {
+    "file": "src/docs/lang/spanish.toml",
+    "key": "DOC_CC_POTABLE"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Drinkbaar"
+   },
+   {
+    "lang": "arabic",
+    "tr": "صالح للشرب"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Пітны"
+   }
+  ],
+  "consensus": "Drinkbaar"
+ },
+ {
+  "lang": "spanish_MX",
+  "en": "Zinc",
+  "refs": [
+   {
+    "file": "src/grf/lang/spanish_MX.toml",
+    "key": "STR_CARGO_ZINC.name"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sink"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الزنك"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цынк"
+   }
+  ],
+  "consensus": "Zink"
+ },
+ {
+  "lang": "spanish_MX",
+  "en": "Base",
+  "refs": [
+   {
+    "file": "src/grf/lang/spanish_MX.toml",
+    "key": "STR_STATION_BASE.base"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basis"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قاعدة"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Апаратная база"
+   }
+  ],
+  "consensus": "Basis"
+ },
+ {
+  "lang": "spanish_MX",
+  "en": "Precast",
+  "refs": [
+   {
+    "file": "src/grf/lang/spanish_MX.toml",
+    "key": "STR_STATION_CONCRETE_PLANT.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Voorafgestort"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مصبوب مسبقًا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Зборныя канструкцыі"
+   }
+  ],
+  "consensus": "Voorafgestort"
+ },
+ {
+  "lang": "spanish_MX",
+  "en": "(decimal)",
+  "refs": [
+   {
+    "file": "src/docs/lang/spanish_MX.toml",
+    "key": "DOC_CR_TH_DECIMAL"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "(desimaal)"
+   },
+   {
+    "lang": "arabic",
+    "tr": "(عشري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "(дзесятковае)"
+   }
+  ],
+  "consensus": "(decimalno)"
+ },
+ {
+  "lang": "spanish_MX",
+  "en": "Potable",
+  "refs": [
+   {
+    "file": "src/docs/lang/spanish_MX.toml",
+    "key": "DOC_CC_POTABLE"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Drinkbaar"
+   },
+   {
+    "lang": "arabic",
+    "tr": "صالح للشرب"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Пітны"
+   }
+  ],
+  "consensus": "Drinkbaar"
+ },
+ {
+  "lang": "spanish_MX",
+  "en": "Bales.",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_spanish_MX.toml",
+    "key": "CARGO_INFO_WOOL.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Bale."
+   },
+   {
+    "lang": "arabic",
+    "tr": "بالات."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Балы."
+   }
+  ],
+  "consensus": "Bale."
+ },
+ {
+  "lang": "swedish",
+  "en": "Aluminium",
+  "refs": [
+   {
+    "file": "src/grf/lang/swedish.toml",
+    "key": "STR_CARGO_ALUMINIUM.name"
+   }
+  ],
+  "others": 28,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومنيوم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміній"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Aluminio"
+ },
+ {
+  "lang": "swedish",
+  "en": "Alumina",
+  "refs": [
+   {
+    "file": "src/grf/lang/swedish.toml",
+    "key": "STR_CARGO_ALUMINA.name"
+   }
+  ],
+  "others": 26,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "ألومينا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Алюміна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Alumini"
+   }
+  ],
+  "consensus": "Alúmina"
+ },
+ {
+  "lang": "swedish",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/swedish.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "swedish",
+  "en": "Cement",
+  "refs": [
+   {
+    "file": "src/grf/lang/swedish.toml",
+    "key": "STR_CARGO_CEMENT.name"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sement"
+   },
+   {
+    "lang": "arabic",
+    "tr": "أسمنت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Цэмент"
+   }
+  ],
+  "consensus": "Sement"
+ },
+ {
+  "lang": "swedish",
+  "en": "Salt",
+  "refs": [
+   {
+    "file": "src/grf/lang/swedish.toml",
+    "key": "STR_CARGO_SALT.name"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Sout"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ملح"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Соль"
+   }
+  ],
+  "consensus": "Sal"
+ },
+ {
+  "lang": "swedish",
+  "en": "Sand",
+  "refs": [
+   {
+    "file": "src/grf/lang/swedish.toml",
+    "key": "STR_CARGO_SAND.name"
+   }
+  ],
+  "others": 32,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "رمل"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Пясок"
+   },
+   {
+    "lang": "catalan",
+    "tr": "{G=Femenin}Sorra"
+   }
+  ],
+  "consensus": "Areia"
+ },
+ {
+  "lang": "swedish",
+  "en": "Sandbank",
+  "refs": [
+   {
+    "file": "src/grf/lang/swedish.toml",
+    "key": "STR_STATION_WATER.base"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "شريط رملي"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Участак паглыблення дна"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Banc de sorra"
+   }
+  ],
+  "consensus": "Sprud"
+ },
+ {
+  "lang": "swedish",
+  "en": "(decimal)",
+  "refs": [
+   {
+    "file": "src/docs/lang/swedish.toml",
+    "key": "DOC_CR_TH_DECIMAL"
+   }
+  ],
+  "others": 30,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "(desimaal)"
+   },
+   {
+    "lang": "arabic",
+    "tr": "(عشري)"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "(дзесятковае)"
+   }
+  ],
+  "consensus": "(decimalno)"
+ },
+ {
+  "lang": "swedish",
+  "en": "Express",
+  "refs": [
+   {
+    "file": "src/docs/lang/swedish.toml",
+    "key": "DOC_CC_EXPRESS"
+   }
+  ],
+  "others": 33,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Spoed"
+   },
+   {
+    "lang": "arabic",
+    "tr": "سريع"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Экспрэс"
+   }
+  ],
+  "consensus": "Exprés"
+ },
+ {
+  "lang": "tamil",
+  "en": "SEA",
+  "refs": [
+   {
+    "file": "src/grf/lang/tamil.toml",
+    "key": "STR_BADGE_SEA.base"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "SEE"
+   },
+   {
+    "lang": "arabic",
+    "tr": "البحر"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "МАРЫ"
+   }
+  ],
+  "consensus": "MAR"
+ },
+ {
+  "lang": "turkish",
+  "en": "Tropic Basic",
+  "refs": [
+   {
+    "file": "src/grf/lang/turkish.toml",
+    "key": "STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Basiese Tropies"
+   },
+   {
+    "lang": "arabic",
+    "tr": "تروبيك الأساسي"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Звычайная эканоміка, субтрапічны клімат"
+   }
+  ],
+  "consensus": "Básica Tropical"
+ },
+ {
+  "lang": "turkish",
+  "en": "Reinder Pens",
+  "refs": [
+   {
+    "file": "src/grf/lang/turkish.toml",
+    "key": "STR_STATION_HERDING_COOP.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Reinderheins"
+   },
+   {
+    "lang": "arabic",
+    "tr": "ريندر بنز"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Сядзіба"
+   }
+  ],
+  "consensus": "Reinderheins"
+ },
+ {
+  "lang": "welsh",
+  "en": "Bitumen",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_CARGO_BITUMEN.name"
+   }
+  ],
+  "others": 24,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "البيتومين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Бітум"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Bitum"
+   }
+  ],
+  "consensus": "Bitum"
+ },
+ {
+  "lang": "welsh",
+  "en": "Cassava",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_CARGO_CASSAVA.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Kassava"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الكاسافا"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Маніёк"
+   }
+  ],
+  "consensus": "Maniok"
+ },
+ {
+  "lang": "welsh",
+  "en": "Nitrogen",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_CARGO_NITROGEN.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Stikstof"
+   },
+   {
+    "lang": "arabic",
+    "tr": "نيتروجين"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Азот"
+   }
+  ],
+  "consensus": "Азот"
+ },
+ {
+  "lang": "welsh",
+  "en": "Peat",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_CARGO_PEAT.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Turf"
+   },
+   {
+    "lang": "arabic",
+    "tr": "الخث"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Торф"
+   }
+  ],
+  "consensus": "Turba"
+ },
+ {
+  "lang": "welsh",
+  "en": "Slag",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_CARGO_SLAG.name"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Slak"
+   },
+   {
+    "lang": "arabic",
+    "tr": "خبث"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Дзындра"
+   }
+  ],
+  "consensus": "Slagg"
+ },
+ {
+  "lang": "welsh",
+  "en": "Tin",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_CARGO_TIN.name"
+   }
+  ],
+  "others": 34,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "arabic",
+    "tr": "قصدير"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Воўка"
+   },
+   {
+    "lang": "catalan",
+    "tr": "Estany"
+   }
+  ],
+  "consensus": "Cín"
+ },
+ {
+  "lang": "welsh",
+  "en": "Tinplate",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_CARGO_TINPLATE.name"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Tinplaat"
+   },
+   {
+    "lang": "arabic",
+    "tr": "صفائح القصدير"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Воўкавана"
+   }
+  ],
+  "consensus": "Tinplaat"
+ },
+ {
+  "lang": "welsh",
+  "en": "Barns",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_STATION_BARNS.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Skure"
+   },
+   {
+    "lang": "arabic",
+    "tr": "حظائر"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Варыўня"
+   }
+  ],
+  "consensus": "Celeiros"
+ },
+ {
+  "lang": "welsh",
+  "en": "Colliery",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_STATION_COLLIERY.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Koolmyn"
+   },
+   {
+    "lang": "arabic",
+    "tr": "منجم فحم"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Вугальная шахта"
+   }
+  ],
+  "consensus": "Koolmyn"
+ },
+ {
+  "lang": "welsh",
+  "en": "Estate",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_STATION_ESTATE.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Landgoed"
+   },
+   {
+    "lang": "arabic",
+    "tr": "عقارات"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=m}Маёнтак"
+   }
+  ],
+  "consensus": "Landgoed"
+ },
+ {
+  "lang": "welsh",
+  "en": "Manor",
+  "refs": [
+   {
+    "file": "src/grf/lang/welsh.toml",
+    "key": "STR_STATION_FARM_1.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Landgoed"
+   },
+   {
+    "lang": "arabic",
+    "tr": "قصر ريفي"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "{G=f}Сядзіба"
+   }
+  ],
+  "consensus": "Imanje"
+ },
+ {
+  "lang": "welsh",
+  "en": "Label",
+  "refs": [
+   {
+    "file": "src/docs/lang/welsh.toml",
+    "key": "DOC_CR_TH_LABEL"
+   }
+  ],
+  "others": 35,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Etiket"
+   },
+   {
+    "lang": "arabic",
+    "tr": "التسمية"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Метка"
+   }
+  ],
+  "consensus": "Etiqueta"
+ },
+ {
+  "lang": "welsh",
+  "en": "Oil",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_welsh.toml",
+    "key": "TTD_STR_CARGO_PLURAL_OIL.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Olie"
+   },
+   {
+    "lang": "arabic",
+    "tr": "زيت"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Нафта"
+   }
+  ],
+  "consensus": "Olie"
+ },
+ {
+  "lang": "welsh",
+  "en": "Rubber",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_welsh.toml",
+    "key": "TTD_STR_CARGO_PLURAL_RUBBER.base"
+   }
+  ],
+  "others": 36,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Gom"
+   },
+   {
+    "lang": "arabic",
+    "tr": "مطاط"
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Гума"
+   }
+  ],
+  "consensus": "Gummi"
+ },
+ {
+  "lang": "welsh",
+  "en": "Ingots.",
+  "refs": [
+   {
+    "file": "src/docs/extra_strings_welsh.toml",
+    "key": "CARGO_INFO_TIN.base"
+   },
+   {
+    "file": "src/docs/extra_strings_welsh.toml",
+    "key": "CARGO_INFO_ZINC.base"
+   }
+  ],
+  "others": 37,
+  "total": 37,
+  "hints": [
+   {
+    "lang": "afrikaans",
+    "tr": "Ingote."
+   },
+   {
+    "lang": "arabic",
+    "tr": "سبائك مصبوبة."
+   },
+   {
+    "lang": "belarusian",
+    "tr": "Зліткі."
+   }
+  ],
+  "consensus": "Lingotes."
+ }
+]

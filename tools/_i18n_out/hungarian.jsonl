@@ -1,0 +1,434 @@
+{"i":0,"tr":" {BLACK}(opcionális)"}
+{"i":1,"tr":"."}
+{"i":2,"tr":"Összetevők"}
+{"i":3,"tr":"Alumina"}
+{"i":4,"tr":"Alumínium"}
+{"i":5,"tr":"Ammónia- és salétromtermékek"}
+{"i":6,"tr":"Ammóniakomplexum"}
+{"i":7,"tr":"Anhidritbánya"}
+{"i":8,"tr":"Anhidrit-feldolgozó üzem"}
+{"i":9,"tr":"Anhidritkőzet"}
+{"i":10,"tr":"Almák"}
+{"i":11,"tr":"Háztartási gépgyár"}
+{"i":12,"tr":"Örökké tart, stb."}
+{"i":13,"tr":"Minden gazdaságban elérhető. Városi épületek és néhány iparág állítja elő és fogadja el."}
+{"i":14,"tr":"Minden gazdaságban elérhető. Városi épületek állítják elő és fogadják el."}
+{"i":15,"tr":"Sütőipar"}
+{"i":16,"tr":"Balesek."}
+{"i":17,"tr":"Barit és fluorspar"}
+{"i":18,"tr":"Magvas vas öntőből, olvadt folyadék vagy szilárd öntvény formájában."}
+{"i":19,"tr":"Tételes vegyi üzem"}
+{"i":20,"tr":"Billettek és bloomok"}
+{"i":21,"tr":"Billettek, bloomok, öntvények és lemezek."}
+{"i":22,"tr":"Tőzegmocsarakból származó biomassza, amelyet tüzelőanyagnak és kertészetnek nyernek ki."}
+{"i":23,"tr":"Bitumen"}
+{"i":24,"tr":"Kocsiszekrény-gyár"}
+{"i":25,"tr":"Palack- és dobozgyár"}
+{"i":26,"tr":"Dobozok, palackok, üvegek, konzervdobozok stb."}
+{"i":27,"tr":"Sóoldat-gyár"}
+{"i":28,"tr":"A koksztermelés mellékterméke, egy sűrű, lassan folyó folyadék."}
+{"i":29,"tr":"CIRS"}
+{"i":30,"tr":"CIRS Közösségi Ipari Pótlócsomag"}
+{"i":31,"tr":"A CIRS egy tájformázó objektumkészletet tartalmaz, amelyeket a játékosok elhelyezhetnek, hogy bizonyos iparágak nagyobbaknak tűnjenek. A tájformázó objektumoknak nincs játékbeli hatásuk. A tájformázó objektumok be- és kikapcsolhatók."}
+{"i":32,"tr":"CIRS tájformázó objektumai"}
+{"i":33,"tr":"Autók kocsiszekrényei, motorháztetejei, ajtajai és hasonló karosszériaelemek a járműgyártáshoz."}
+{"i":34,"tr":"Kalcium-oxid, más néven égetett mész. Finom por formájában szállítják, és szárazon kell tartani."}
+{"i":35,"tr":"Szénfekete"}
+{"i":36,"tr":"Szénfekete-gyár"}
+{"i":37,"tr":"Öntöttvas"}
+{"i":38,"tr":"Öntött termékek, például tömbök, gerendák és panelek. Keverőkamionban készbetonként is kezelhetők."}
+{"i":39,"tr":"Cellulózfilm-gyár"}
+{"i":40,"tr":"Cement"}
+{"i":41,"tr":"Cement, üveg, fémalkatrészek, faipari termékek, csövek és hasonló építőanyagok."}
+{"i":42,"tr":"Kémiai komplexum"}
+{"i":43,"tr":"Kémiai köztesanyagok"}
+{"i":44,"tr":"Ipari és háztartási célú vegyszerek, szappanok, súrolószerek stb. Főként folyékonyak, de lehetnek por vagy szilárd formában is (például lövedéklőhomokként)."}
+{"i":45,"tr":"Rétegelt lemezgyár"}
+{"i":46,"tr":"Klóralkáli-gyár"}
+{"i":47,"tr":"Polgári robbanóanyagok bányászathoz, építkezésekhez stb."}
+{"i":48,"tr":"Tisztítószerek"}
+{"i":49,"tr":"Szén"}
+{"i":50,"tr":"Szénbánya"}
+{"i":51,"tr":"Szénkátrány"}
+{"i":52,"tr":"Szén, amelyet kokszolókemencében hevítettek, így csaknem tiszta szénből álló tüzelőanyagot állítva elő."}
+{"i":53,"tr":"Építési célra szolgáló durva homok, illetve üveggyártáshoz és fémmöntéshez használt finom szilícium-dioxid-homok. Ömlesztve vagy por formájában szállítják."}
+{"i":54,"tr":"Tekercsvonal"}
+{"i":55,"tr":"Kereskedelmi pékség"}
+{"i":56,"tr":"Általános babfajták, lóbab, szójabab és hasonló ehető hüvelyesek."}
+{"i":57,"tr":"Összetett gazdaság vas-, acél- és nehézipari ágazatokkal."}
+{"i":58,"tr":"Összetett gazdaság számos iparággal és rakománytípussal."}
+{"i":59,"tr":"Összetett gazdaság számos iparággal és rakománytípussal. Közép-nyugat-Afrika ihlette. Leginkább szubtrópusi éghajlaton használható."}
+{"i":60,"tr":"Alkatrészek"}
+{"i":61,"tr":"Járműgyártáshoz használt alkatrészek, például váz- és felfüggesztőelemek, elektromos alkatrészek, külső díszítőelemek és belső alkatrészek."}
+{"i":62,"tr":"Betonüzem"}
+{"i":63,"tr":"Betontermékek"}
+{"i":64,"tr":"Építési telephely"}
+{"i":65,"tr":"Készételek gyára"}
+{"i":66,"tr":"Rézbánya"}
+{"i":67,"tr":"Rézérc"}
+{"i":68,"tr":"Gyapot, len, juta és hasonló anyagok textil- és kompozitanyagok gyártásához."}
+{"i":69,"tr":"Csúszóalapos járműgyár"}
+{"i":70,"tr":"Nyers, finomítatlan kőolaj, ömlesztett folyadék formájában szállítva."}
+{"i":71,"tr":"Kriogénüzem"}
+{"i":72,"tr":"Gyémántbánya"}
+{"i":73,"tr":"Gyémántok"}
+{"i":74,"tr":"Dobok, csörlők, bilincsek, horgok, csigák, hidraulikus hajtóművek és egyéb alkatrészek darukhoz, emelőgépekhez, liftekhez stb."}
+{"i":75,"tr":"Száraz cement por vagy klinker formájában."}
+{"i":76,"tr":"Ehető gyökérnövény, más néven maniok és yuca."}
+{"i":77,"tr":"Elastomertermék-gyár"}
+{"i":78,"tr":"Elektromos alkatrészek"}
+{"i":79,"tr":"Elektromos és elektronikus komponensek, motorok, vezérlők, kapcsolóberendezések, lámpák stb."}
+{"i":80,"tr":"Elektromos áru"}
+{"i":81,"tr":"Motorgyár"}
+{"i":82,"tr":"Gépészeti üzem"}
+{"i":83,"tr":"Motorok és hajtásláncok"}
+{"i":84,"tr":"Robbanóanyaggyár"}
+{"i":85,"tr":"Gyár"}
+{"i":86,"tr":"Farm"}
+{"i":87,"tr":"Erjesztőüzem"}
+{"i":88,"tr":"Ferroötvözetek"}
+{"i":89,"tr":"Trágya- és savgyár"}
+{"i":90,"tr":"Finom drót gumiabroncsok megerősítésére. Tekercsként szállítják."}
+{"i":91,"tr":"Halak és tenger gyümölcsei"}
+{"i":92,"tr":"Halgazdaság"}
+{"i":93,"tr":"Gumi vagy hasonló anyagokból készült rugalmas tömítések, tömítőgyűrűk, tömlők, szíjak, szőnyegek, csapágyak stb."}
+{"i":94,"tr":"Liszt és keményítő"}
+{"i":95,"tr":"Folyósóvonal"}
+{"i":96,"tr":"Élelmiszer"}
+{"i":97,"tr":"Élelmiszerek és italok"}
+{"i":98,"tr":"Élelmiszer-adalékanyagok"}
+{"i":99,"tr":"A szállítás és tárolás során fagyasztva tartott élelmiszerek."}
+{"i":100,"tr":"Háztartási és építési célra. Szerszámok, edények, szerelvények és kiegészítők fémekből és más anyagokból."}
+{"i":101,"tr":"Erdő"}
+{"i":102,"tr":"Kovácsolatok és öntvények"}
+{"i":103,"tr":"Mélyhűtők"}
+{"i":104,"tr":"Friss és szárított gyümölcsök, például banán, citrusfélék, szőlő, bogyós gyümölcsök, ananász, mazsola és hasonló termékek."}
+{"i":105,"tr":"Fagyasztott desszertgyár"}
+{"i":106,"tr":"Fagyasztott élelmiszer"}
+{"i":107,"tr":"Fagyasztott élelmiszer-üzem"}
+{"i":108,"tr":"Gyümölcsültetvény"}
+{"i":109,"tr":"GPL(v2)"}
+{"i":110,"tr":"GRFID"}
+{"i":111,"tr":"Általános agyagok építőanyagok gyártásához és más ipari felhasználásokhoz."}
+{"i":112,"tr":"Általános fémek, például acél, alumínium vagy más gyakori fémek."}
+{"i":113,"tr":"Általános szerves és szervetlen vegyi anyagok, folyadék, gáz, fedett ömlesztett anyag, por vagy darabáru formájában."}
+{"i":114,"tr":"Hordágerék"}
+{"i":115,"tr":"Üvegtermékek"}
+{"i":116,"tr":"Áruk"}
+{"i":117,"tr":"Gabona"}
+{"i":118,"tr":"Gabonamalőr"}
+{"i":119,"tr":"Zúzalék, homok, zúzott kő és az építésben használt hasonló anyagok."}
+{"i":120,"tr":"Hardver és felületek"}
+{"i":121,"tr":"Magas értékű mérnöki alkatrészek, például elektromos berendezések, motorok, transzformátorok, vezérlőberendezések, hidraulikai és pneumatikai rendszerek, szivattyúk, szelepek és erőátviteli berendezések."}
+{"i":122,"tr":"Ipari szénanyagok"}
+{"i":123,"tr":"Ipari vegyi üzem"}
+{"i":124,"tr":"Ipari gázok"}
+{"i":125,"tr":"Ipari sav, amelyet főként műtrágya- és vegyipari termelésben használnak, és ömlesztett folyadék formájában szállítanak."}
+{"i":126,"tr":"Ipari savak, például sósav, salétromsav és kénsav."}
+{"i":127,"tr":"Ipari alkohol, amelyet vegyipari nyersanyagként és üzemanyagként használnak, és ömlesztett folyadék formájában szállítanak."}
+{"i":128,"tr":"Ipari vegyi anyag, amelyet rendszerint kriogén módon, cseppfolyósított, sűrített gáz formájában szállítanak."}
+{"i":129,"tr":"Ipari vegyi anyag. Lúgként vagy kausztiikus szóda néven is ismert. Rendszerint folyadék formájában szállítják."}
+{"i":130,"tr":"Ipari vegyi anyag. Fehér por formájában."}
+{"i":131,"tr":"Az ammóniából származó ipari vegyi anyagok, például az ammónia, a salétromsav és a karbamid. Folyadék formájában, kriogén módon cseppfolyósított gázként vagy száraz ömlesztett áruként szállítják."}
+{"i":132,"tr":"Gyártásban és feldolgozásban használt ipari vegyszerek, amelyeket folyadék, por, gáz vagy csomagolt áru formájában szállítanak."}
+{"i":133,"tr":"Ipari gáz. Kriogén módon, cseppfolyósított, sűrített gázként szállítják."}
+{"i":134,"tr":"Kémiai feldolgozásban, fémfeldolgozásban és hegesztésben használt ipari gázok, amelyeket palackokban vagy nyomásos tartálykocsikon szállítanak."}
+{"i":135,"tr":"Ipari ásvány, más néven kaolin, amelyet elsősorban papír- és műanyaggyártásban használnak."}
+{"i":136,"tr":"Kémiai feldolgozásban használt ipari ásványok. A birit báriumvegyyszerekben és töltőanyagokban használják; a fluoritot pedig a fluor-kémia és a kohászati fluxusok területén."}
+{"i":137,"tr":"Öntöttvasöntvények."}
+{"i":138,"tr":"Élelmiszer-feldolgozásban használt összetevők, például tartósítószerek, ízesítők, színezékek és feldolgozási segédanyagok."}
+{"i":139,"tr":"Intenzíven fekete szénpor, amelyet gumiabroncsokban, műanyagokban és pigmentekben használnak. Por formájában kezelik."}
+{"i":140,"tr":"Köztes kémiai termékek, amelyeket további ipari feldolgozás nyersanyagaként használnak."}
+{"i":141,"tr":"Köztes cukortermékek finomításra, erjesztésre és ipari felhasználásra. A ragacsos szemcséket fedett ömlesztett áruként, a sűrű szirupot pedig folyadékként kezelik; mindkettő csomagolható is."}
+{"i":142,"tr":"Belső égésű motorok és a hozzájuk kapcsolódó hajtáslánc-részek, például váltók és hajtótengelyek."}
+{"i":143,"tr":"Vaskő"}
+{"i":144,"tr":"Vaskőbánya"}
+{"i":145,"tr":"FÖLD"}
+{"i":146,"tr":"Könnyű szénhidrogének"}
+{"i":147,"tr":"Kémiai nyersanyagként használt könnyű kőolajfrakciók, ömlesztett folyadék formájában szállítva."}
+{"i":148,"tr":"Haszonállatok"}
+{"i":149,"tr":"Rönkök"}
+{"i":150,"tr":"Egy erdőből származó rönkök."}
+{"i":151,"tr":"Hosszú, üreges cső kerek, téglalap alakú és más keresztmetszetű változatban. Szerkezetek és gépek gyártásához használják."}
+{"i":152,"tr":"Hosszú, kerek acélcsövek folyadékok csővezetékekben, épületekben, ipari létesítményekben stb. történő szállításához."}
+{"i":153,"tr":"Gépek, üzemanyag, alkatrészek, műtrágya és egyéb kellékek farmokhoz, erdőkhez és hasonló ágazatokhoz."}
+{"i":154,"tr":"Gépek, üzemanyag, alkatrészek, faipari termékek, csövek, robbanóanyagok és egyéb kellékek bányákhoz és hasonló ágazatokhoz."}
+{"i":155,"tr":"Gépek, alkatrészek, üzemanyag, építőanyagok és egyéb kellékek kikötőkhez, dokkokhoz és hasonló ágazatokhoz."}
+{"i":156,"tr":"Posta"}
+{"i":157,"tr":"Kukorica"}
+{"i":158,"tr":"Mangánérctörmelék, amelyet elsősorban acélgyártáshoz használnak."}
+{"i":159,"tr":"Hús"}
+{"i":160,"tr":"Kereskedői bár"}
+{"i":161,"tr":"Fémfeldolgozó"}
+{"i":162,"tr":"Fémalkatrészek nagyobb tárgyak összeállításához."}
+{"i":163,"tr":"Fémáru"}
+{"i":164,"tr":"Metanol"}
+{"i":165,"tr":"Mild Mild West"}
+{"i":166,"tr":"Malomok"}
+{"i":167,"tr":"Ásványi töltőanyagok"}
+{"i":168,"tr":"Ásványi töltőanyagok gyára"}
+{"i":169,"tr":"Ásványok"}
+{"i":170,"tr":"Főként teheneket, sertéseket és juhokat hústermelésre. Más állatok is fogyaszthatók."}
+{"i":172,"tr":"Főként természetes latex."}
+{"i":173,"tr":"Főként teherautók. Vagy személyautók. Vagy könnyű teherautók. Talán traktorok is."}
+{"i":174,"tr":"Nitrogén"}
+{"i":175,"tr":"Színesfémek, például réz, nikkel, cink és ólom."}
+{"i":176,"tr":"Olaj"}
+{"i":177,"tr":"Olaj- és vegyipari terminál"}
+{"i":178,"tr":"Olajfinomító"}
+{"i":179,"tr":"Olajfúrótorony"}
+{"i":180,"tr":"Olajkutak"}
+{"i":181,"tr":"Olaj főzéshez és fogyasztáshoz."}
+{"i":182,"tr":"Oxigén"}
+{"i":183,"tr":"Festékek és bevonatok"}
+{"i":184,"tr":"Papír"}
+{"i":185,"tr":"Papírgyár"}
+{"i":186,"tr":"Papírtermék-gyár"}
+{"i":187,"tr":"Utasok"}
+{"i":188,"tr":"Benzin, dízel és hasonló üzemanyagok."}
+{"i":189,"tr":"Foszforsav"}
+{"i":190,"tr":"Csőbolt"}
+{"i":191,"tr":"Növény"}
+{"i":192,"tr":"Növények és gépek"}
+{"i":193,"tr":"Műanyagöntő üzem"}
+{"i":194,"tr":"Műanyagok és gyanták"}
+{"i":195,"tr":"Lemezmalom"}
+{"i":196,"tr":"Poros gabonatermékek, például liszt és keményítő, zsákban vagy fedett ömlesztve szállítva."}
+{"i":197,"tr":"Erőművi rendszerek gyára"}
+{"i":198,"tr":"Villamosan hajtott berendezések és épületekben, iparban és gazdaságokban használt mechanikus rendszerek. Teljes egységek vagy nagyobb alkatrészként szállítva."}
+{"i":199,"tr":"Hajtáslánc"}
+{"i":200,"tr":"Előregyártott elemek"}
+{"i":201,"tr":"Pontos alkatrészek"}
+{"i":202,"tr":"Pontos alkatrészek gyára"}
+{"i":203,"tr":"Sajtolatok"}
+{"i":204,"tr":"Folyamatkémikáliák"}
+{"i":205,"tr":"Folyamatkémiai üzem"}
+{"i":206,"tr":"Feldolgozott farost, amelyet főként papírgyártáshoz használnak, és bálákban vagy ömlesztett cellulózként szállítanak."}
+{"i":207,"tr":"Fűrészüzemekből vagy hasonló iparágakból származó feldolgozott faipari termékek."}
+{"i":208,"tr":"Termékcsomagoló"}
+{"i":209,"tr":"Szivattyúk és szelepek"}
+{"i":210,"tr":"Python 3.11+"}
+{"i":211,"tr":"Nyers cukor és melasz"}
+{"i":212,"tr":"Nyers vagy pörkölt kávébab."}
+{"i":213,"tr":"További feldolgozásra szánt nyers műanyag. Általában gyantagolyókként szállítják."}
+{"i":214,"tr":"Acélbetét"}
+{"i":215,"tr":"Finomított alumíniumfém tekercsekben, öntvényekben, lemezekben stb."}
+{"i":216,"tr":"Finomított rézfémet tekercsekben, öntvényekben stb."}
+{"i":217,"tr":"Finomított kőolajtermékek, például benzin, gázolaj, kerozin, cseppgáz, fűtőolaj és bunkergáz, ömlesztett folyadék vagy cseppfolyósított gáz formájában szállítva."}
+{"i":218,"tr":"Útkőüzem"}
+{"i":219,"tr":"Rúdgyár"}
+{"i":220,"tr":"Hengelt acéllemezek és profilok – I-sarokvasak, H-sarokvasak, csatornák stb. Hosszú, egyenes termékként szállítva."}
+{"i":221,"tr":"Zsinórok és kábelek, amelyeket acélhuzal-rúd kisebb átmérőre húzásával, majd kötegelt zsinórokká tekercselésével állítanak elő."}
+{"i":222,"tr":"Nyers acélöntvények, amelyek további feldolgozást igényelnek. Az öntvények lehetnek kicsik vagy nagyon nagyok. A jellemző öntvényprofilok téglalap alakúak vagy kerek alakúak."}
+{"i":223,"tr":"Gumi"}
+{"i":224,"tr":"Gumiplantáció"}
+{"i":225,"tr":"TENGER"}
+{"i":226,"tr":"Sóüzem"}
+{"i":227,"tr":"Fűrészüzem"}
+{"i":228,"tr":"Tenger gyümölcsei"}
+{"i":229,"tr":"Tömítések és tömlők"}
+{"i":230,"tr":"Tömítések, tömlők és övek"}
+{"i":231,"tr":"Szekciós- és rudazóüzem"}
+{"i":232,"tr":"Félkész acélöntvények. Keresztmetszetük mindig lapos és téglalap alakú."}
+{"i":233,"tr":"Félkész acélöntvények. Keresztmetszetük téglalap alakú, négyzetes vagy kerek."}
+{"i":234,"tr":"Tengerparti terület"}
+{"i":235,"tr":"Egyszerű gazdaság. Argentínából, Peruból és Chilből merít ihletet. Leginkább szubtrópusi éghajlaton használható."}
+{"i":236,"tr":"Egyszerű gazdaság. Finnországból, Észak-Kanadából és Észak-Szibériából merít ihletet. Leginkább szubarktikus éghajlaton használható."}
+{"i":237,"tr":"Egyszerű gazdaság. A Egyesült Királyság délnyugati részéről merít ihletet. Leginkább mérsékelt éghajlaton használható."}
+{"i":238,"tr":"Acéllemeztároló"}
+{"i":239,"tr":"Nátrium-hidroxid"}
+{"i":240,"tr":"Kormos kemence"}
+{"i":241,"tr":"Levesek"}
+{"i":242,"tr":"Speciális szénanyagok, például kalcinált kőolajkók, kátrány, nagy értékű kátrányok és szénfekete, amelyek a kohászati és kémiai folyamatokban használatosak."}
+{"i":243,"tr":"Acélkovácsda és öntőda"}
+{"i":244,"tr":"Acélöntvények"}
+{"i":245,"tr":"Acélgyár"}
+{"i":246,"tr":"Acélcső"}
+{"i":247,"tr":"Acéllemez"}
+{"i":248,"tr":"Acéllemez és -csík"}
+{"i":249,"tr":"Acélöntlemez"}
+{"i":250,"tr":"Acélcső"}
+{"i":251,"tr":"Acélhuzalszál"}
+{"i":252,"tr":"Acélrudak, kör-, négyzet-, lapos- és más alakú profilokként. Hosszú, egyenes termékként szállítják őket."}
+{"i":253,"tr":"Acéldrátok és vékony rudak. Elsősorban tekercsként szállítják őket."}
+{"i":254,"tr":"Acélgyártók"}
+{"i":255,"tr":"Tárolótartályok és csővezetékek"}
+{"i":256,"tr":"Tárolótartályok, nyomástartályok, silók, gázpalackok és csőegységek városi épületekben, ipari létesítményekben és gazdaságokban való felhasználásra."}
+{"i":257,"tr":"Szalaggyártó malmok"}
+{"i":258,"tr":"Vázacél"}
+{"i":259,"tr":"Vázacél hengerelt alakzatokként (I-sínek, H-sínek stb.), laplemez formájában, vagy lemezekből hegesztett alakzatokként és gerendákként."}
+{"i":260,"tr":"Cukor"}
+{"i":261,"tr":"Szulfidásványok, amelyeket olvasztva különféle ipari termékeket állítanak elő."}
+{"i":262,"tr":"Szulfúrsav"}
+{"i":263,"tr":"Fémvágáshoz és -hegesztéshez szükséges kellékek, például hegesztőrudak, szerszámok és ipari gázok, köztük acetilén, argon, propán, oxigén és nitrogén."}
+{"i":264,"tr":"Sűrű kőolajtermék, amelyet főként utak burkolására és tetőfedésre használnak."}
+{"i":265,"tr":"Vékony hengerelt acéllemez és -csík, amelyet széles körben más termékek gyártásához használnak. Lapos lemezként vagy tekercsként szállítják."}
+{"i":266,"tr":"Vékony, nyers acélrudak, amelyeket széles körben betonkonstrukciók megerősítésére használnak. Tekercsként vagy egyenes rudak kötegeiként szállítják."}
+{"i":267,"tr":"Ónnal bevont vékony acéllemez a korrózió elleni védelem érdekében, amelyet főként dobozok, tartályok és más csomagolások gyártásához használnak."}
+{"i":268,"tr":"Faipari termékek"}
+{"i":269,"tr":"Ón"}
+{"i":270,"tr":"Ónbánya"}
+{"i":271,"tr":"Ónlemezkemű"}
+{"i":272,"tr":"Ónlemezmű"}
+{"i":273,"tr":"Sínes járműgyár"}
+{"i":274,"tr":"Teherautó-parkoló"}
+{"i":275,"tr":"Cső- és csővezetékgyár"}
+{"i":276,"tr":"Csőgyár"}
+{"i":277,"tr":"Gumíj"}
+{"i":278,"tr":"Gumik"}
+{"i":279,"tr":"Ötvözetek és rozsdamentes acél gyártásában használatos; króm és vas ötvözete. Szürke csomók, méretükben és alakjukban a szénrudakhoz hasonlóak."}
+{"i":280,"tr":"Acélgyártásban használatos. Vas és más elemek, többek között mangán, nikkel, króm, alumínium, szilícium és volfrám ötvözete. Szürke csomók, méretükben és alakjukban a szénrudakhoz hasonlóak."}
+{"i":281,"tr":"Zöldségek"}
+{"i":282,"tr":"Jármű-disztribútor"}
+{"i":283,"tr":"A vas- és acélgyártás mellékterméke."}
+{"i":284,"tr":"Hegesztőfogyasztóanyagok"}
+{"i":285,"tr":"Bányagödör"}
+{"i":286,"tr":"Búza, árpa stb."}
+{"i":287,"tr":"Bauxitércből finomított fehér por, amelyet alumíniumfém gyártására használnak."}
+{"i":288,"tr":"Fehér, szürke vagy barna kalcium-szulfát-kőzet, amelyet kénsav- és cementgyártásban használnak. Gyakran fedett ömlesztett áruként szállítják."}
+{"i":289,"tr":"Széles körben használt ipari vegyi anyag. Élénksárga, por vagy folyadék formájában."}
+{"i":290,"tr":"Széles körben használt ipari vegyi anyag. Általában olyan ömlesztett áruként szállítják, amelyet szárazon kell tartani."}
+{"i":291,"tr":"Drótcsőgyár"}
+{"i":292,"tr":"Fapép"}
+{"i":293,"tr":"Cinkbánya"}
+{"i":294,"tr":"Cinkérc"}
+{"i":295,"tr":"Cinkolvasztó"}
+{"i":296,"tr":"{BLACK}A maximális termelési sebesség érdekében látassz el {WHITE}minden {BLACK}szükséges áruval legalább hárompercenként egyszer."}
+{"i":297,"tr":"{BLACK}A maximális termelési sebesség érdekében látassz el {WHITE}legalább három {BLACK}szükséges áruval legalább hárompercenként egyszer."}
+{"i":298,"tr":"{BLACK}A maximális termelési sebesség érdekében látassz el {WHITE}legalább két {BLACK}szükséges áruval legalább hárompercenként egyszer."}
+{"i":299,"tr":"{BLACK}A maximális termelési sebesség érdekében látassz el {WHITE}mindkét {BLACK}szükséges áruval legalább hárompercenként egyszer."}
+{"i":300,"tr":"{BLACK}A termelés arányos a város népességével. Minden percben legalább {WHITE}{SIGNED_WORD} egység{BLACK}, de legfeljebb {WHITE}{SIGNED_WORD} egység{BLACK} rakás lesz termelve."}
+{"i":301,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":302,"tr":"{ORANGE}E00: A CIRS az OpenTTD 1.7.0 verzióját igényli (vagy a trunk-építések használata esetén az r27769-et)"}
+{"i":303,"tr":"{ORANGE}E01: {YELLOW}Inkompatibilis készlet: {ORANGE}{STRING}"}
+{"i":304,"tr":"{ORANGE}E02: {YELLOW}Inkompatibilis paraméter: {ORANGE}A CanSet 2. paraméterének 0-nak kell lennie a CIRS-sel való működéshez."}
+{"i":305,"tr":"{ORANGE}E02: {YELLOW}Inkompatibilis paraméter: {ORANGE}A NA City Set 2. paraméterének 0-nak kell lennie a CIRS-sel való működéshez."}
+{"i":306,"tr":"{ORANGE}E04: {YELLOW}Inkompatibilis verzió: {ORANGE}A Total Town Replacement Setnek a 3.11-es kiadású vagy újabb verziójúnak kell lennie."}
+{"i":307,"tr":"{TINYFONT}AA"}
+{"i":308,"tr":"{TINYFONT}AG"}
+{"i":309,"tr":"{TINYFONT}AM"}
+{"i":310,"tr":"{TINYFONT}AO"}
+{"i":311,"tr":"{TINYFONT}AP"}
+{"i":312,"tr":"{TINYFONT}AY"}
+{"i":313,"tr":"{TINYFONT}BB"}
+{"i":314,"tr":"{TINYFONT}BI"}
+{"i":315,"tr":"{TINYFONT}CB"}
+{"i":316,"tr":"{TINYFONT}CE"}
+{"i":317,"tr":"{TINYFONT}CI"}
+{"i":318,"tr":"{TINYFONT}CN"}
+{"i":319,"tr":"{TINYFONT}CO"}
+{"i":320,"tr":"{TINYFONT}CP"}
+{"i":321,"tr":"{TINYFONT}CT"}
+{"i":322,"tr":"{TINYFONT}EL"}
+{"i":323,"tr":"{TINYFONT}EP"}
+{"i":324,"tr":"{TINYFONT}FA"}
+{"i":325,"tr":"{TINYFONT}FO"}
+{"i":326,"tr":"{TINYFONT}FV"}
+{"i":327,"tr":"{TINYFONT}GL"}
+{"i":328,"tr":"{TINYFONT}HW"}
+{"i":329,"tr":"{TINYFONT}IG"}
+{"i":330,"tr":"{TINYFONT}KA"}
+{"i":331,"tr":"{TINYFONT}LG"}
+{"i":332,"tr":"{TINYFONT}LH"}
+{"i":333,"tr":"{TINYFONT}MA"}
+{"i":334,"tr":"{TINYFONT}MF"}
+{"i":335,"tr":"{TINYFONT}ML"}
+{"i":336,"tr":"{TINYFONT}MN"}
+{"i":337,"tr":"{TINYFONT}MO"}
+{"i":338,"tr":"{TINYFONT}N7"}
+{"i":339,"tr":"{TINYFONT}O2"}
+{"i":340,"tr":"{TINYFONT}OC"}
+{"i":341,"tr":"{TINYFONT}PC"}
+{"i":342,"tr":"{TINYFONT}PG"}
+{"i":343,"tr":"{TINYFONT}PL"}
+{"i":344,"tr":"{TINYFONT}PM"}
+{"i":345,"tr":"{TINYFONT}PV"}
+{"i":346,"tr":"{TINYFONT}PW"}
+{"i":347,"tr":"{TINYFONT}RB"}
+{"i":348,"tr":"{TINYFONT}SD"}
+{"i":349,"tr":"{TINYFONT}SE"}
+{"i":350,"tr":"{TINYFONT}SH"}
+{"i":351,"tr":"{TINYFONT}SI"}
+{"i":352,"tr":"{TINYFONT}SP"}
+{"i":353,"tr":"{TINYFONT}STSW"}
+{"i":354,"tr":"{TINYFONT}SW"}
+{"i":355,"tr":"{TINYFONT}TC"}
+{"i":356,"tr":"{TINYFONT}TI"}
+{"i":357,"tr":"{TINYFONT}TP"}
+{"i":358,"tr":"{TINYFONT}TY"}
+{"i":359,"tr":"{TINYFONT}VE"}
+{"i":360,"tr":"{TINYFONT}VG"}
+{"i":361,"tr":"{TINYFONT}WP"}
+{"i":362,"tr":"{TINYFONT}WS"}
+{"i":363,"tr":"{TINYFONT}ZO"}
+{"i":364,"tr":"{VOLUME} ammónia- és salétromtermék"}
+{"i":365,"tr":"{VOLUME} bitumen"}
+{"i":366,"tr":"{VOLUME} vegyipari közbenső termék"}
+{"i":367,"tr":"{VOLUME} szénkátrány"}
+{"i":368,"tr":"{VOLUME} ipari gáz"}
+{"i":369,"tr":"{VOLUME} könnyű szénhidrogén"}
+{"i":370,"tr":"{VOLUME} metanol"}
+{"i":371,"tr":"{VOLUME} nitrogén"}
+{"i":372,"tr":"{VOLUME} oxigén"}
+{"i":373,"tr":"{VOLUME} festék és bevonat"}
+{"i":374,"tr":"{VOLUME} foszforsav"}
+{"i":375,"tr":"{VOLUME} kénsav"}
+{"i":376,"tr":"{WEIGHT} aggregátumok"}
+{"i":377,"tr":"{WEIGHT} alumina"}
+{"i":378,"tr":"{WEIGHT} alumínium"}
+{"i":379,"tr":"{WEIGHT} anhidritkőzet"}
+{"i":380,"tr":"{WEIGHT} almák"}
+{"i":381,"tr":"{WEIGHT} barit és fluorit"}
+{"i":382,"tr":"{WEIGHT} öntöttvasrudak és blokkok"}
+{"i":383,"tr":"{WEIGHT} szénfekete"}
+{"i":384,"tr":"{WEIGHT} öntöttvas"}
+{"i":385,"tr":"{WEIGHT} tisztítószerek"}
+{"i":386,"tr":"{WEIGHT} betontermékek"}
+{"i":387,"tr":"{WEIGHT} elektromos alkatrészek"}
+{"i":388,"tr":"{WEIGHT} motorok és hajtásláncok"}
+{"i":389,"tr":"{WEIGHT} robbanóanyagok"}
+{"i":390,"tr":"{WEIGHT} fémötvözetek"}
+{"i":391,"tr":"{WEIGHT} halak és tenger gyümölcsei"}
+{"i":392,"tr":"{WEIGHT} liszt és keményítő"}
+{"i":393,"tr":"{WEIGHT} élelmiszerek és italok"}
+{"i":394,"tr":"{WEIGHT} élelmiszer-adalékanyagok"}
+{"i":395,"tr":"{WEIGHT} kovácsolatok és öntvények"}
+{"i":396,"tr":"{WEIGHT} fagyasztott élelmiszer"}
+{"i":397,"tr":"{WEIGHT} üvegtermékek"}
+{"i":398,"tr":"{WEIGHT} áruk"}
+{"i":399,"tr":"{WEIGHT} vasáru és befejező anyagok"}
+{"i":400,"tr":"{WEIGHT} ipari szén"}
+{"i":401,"tr":"{WEIGHT} rönkök"}
+{"i":402,"tr":"{WEIGHT} hús"}
+{"i":403,"tr":"{WEIGHT} kereskedelmi sín"}
+{"i":404,"tr":"{WEIGHT} ásványi töltőanyagok"}
+{"i":405,"tr":"{WEIGHT} diófélék"}
+{"i":406,"tr":"{WEIGHT} növények és gépek"}
+{"i":407,"tr":"{WEIGHT} műanyagok és gyanták"}
+{"i":408,"tr":"{WEIGHT} precíziós alkatrészek súlya"}
+{"i":409,"tr":"{WEIGHT} technológiai vegyszerek súlya"}
+{"i":410,"tr":"{WEIGHT} szivattyúk és szelepek súlya"}
+{"i":411,"tr":"{WEIGHT} nyers cukor és melasz súlya"}
+{"i":412,"tr":"{WEIGHT} horganyú acél súlya"}
+{"i":413,"tr":"{WEIGHT} tömítések, tömlők és övek súlya"}
+{"i":414,"tr":"{WEIGHT} acélöntvények súlya"}
+{"i":415,"tr":"{WEIGHT} acélcsövek súlya"}
+{"i":416,"tr":"{WEIGHT} acéllemezek súlya"}
+{"i":417,"tr":"{WEIGHT} acéllemez és -csík súlya"}
+{"i":418,"tr":"{WEIGHT} acélöntött tömbök súlya"}
+{"i":419,"tr":"{WEIGHT} acélcső-szekciók súlya"}
+{"i":420,"tr":"{WEIGHT} acélhuzalszála"}
+{"i":421,"tr":"{WEIGHT} tárolótartályok és csővezetékek"}
+{"i":422,"tr":"{WEIGHT} szerkezeti acél"}
+{"i":423,"tr":"{WEIGHT} faipari termékek"}
+{"i":424,"tr":"{WEIGHT} ón"}
+{"i":425,"tr":"{WEIGHT} ónlemezek"}
+{"i":426,"tr":"{WEIGHT} gumiabroncs-szilárdszálas"}
+{"i":427,"tr":"{WEIGHT} gumiabroncsok"}
+{"i":428,"tr":"{WEIGHT} zöldségek"}
+{"i":429,"tr":"{WEIGHT} hegesztőfogyasztóanyagok"}
+{"i":430,"tr":"{WEIGHT} fapép"}
+{"i":431,"tr":"{WEIGHT} cinkérc"}
+{"i":432,"tr":"{WEIGHT} zsák{P 0 \"\" s} kávé"}
+{"i":171,"tr":"Főként marhát, sertést és juhot használnak hústermelésre. Más állatok is fogyaszthatók."}
+{"i": 342, "tr": "{TINYFONT}CM"}

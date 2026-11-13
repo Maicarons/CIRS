@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Mina de carbó"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Mina de coure"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Mina de diamants"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "{G=Femenin}Planta de processament d'aliments"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Bosc"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Planta fructícola"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Mina de minerai de ferro"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Refineria d'oli"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Plataforma petroliera"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Pous de petroli"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Fàbrica de paper"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Platja de goma"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Serradora"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Taller siderúrgic"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Carbó"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Minerai de coure"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamants"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Aliments"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Mercaderies"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Cereals"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Minerai de ferro"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Bestiar"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Correu"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Mil"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Oli"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Paper"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Passatgers"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Goma"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Sucre"
+
+[ECONOMY_INFO_FIRS]
+base = "Economia complexa amb moltes indústries i càrregues."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Economia senzilla. Inspirada per Finlàndia, el nord del Canadà i el nord de Sibèria. Es recomana utilitzar-la amb un clima subàrtic."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Economia senzilla. Inspirada pel sud-oest del Regne Unit. Es recomana utilitzar-la amb un clima temperat."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Economia senzilla. Inspirada per l'Argentina, el Perú i Xile. Es recomana utilitzar-la amb un clima subtropical."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Economia complexa amb moltes indústries i càrregues. Inspirada en l’Àfrica centro-occidental. Es recomana utilitzar-la amb un clima subtropical."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Economia complexa amb indústries del ferro, de l’acer i de fabricació pesant."
+
+[CARGO_INFO_PASSENGERS]
+base = "Disponible en totes les economies. Es produeix i s’accepta als edificis de la ciutat, així com en algunes indústries."
+
+[CARGO_INFO_MAIL]
+base = "Disponible en totes les economies. Es produeix i s’accepta als edificis de la ciutat."
+
+[CARGO_INFO_ACID]
+base = "Àcids industrials, com ara l'àcid clorhídric, nítric i sulfúric."
+
+[CARGO_INFO_AGGREGATES]
+base = "Gravilla, sorra, pedra trencada i materials similars utilitzats en la construcció."
+
+[CARGO_INFO_ALUMINA]
+base = "Polvo blanc refinat a partir de bauxita, utilitzat per produir alumini metàl·lic."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Alumini refinat, en bobines, lingots, lloses, etc."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Productes químics industrials derivats de l’amoniac, com ara l’amoniac, l’àcid nítric i l’urea. Es transporten com a líquids, de manera criogènica com a gas liquificat o en forma de granel sec."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Roca de sulfat de calci blanca, grisa o marró, utilitzada en la producció d’àcid sulfúric i ciment. Sovint es transporta com a mercaderia a granel coberta."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Minerals industrials utilitzats en el processament químic. La baritina s’utilitza en productes químics de bari i com a emplenador; la fluorita, en la química del fluor i en fluxos metal·lúrgics."
+
+[CARGO_INFO_BASE_METALS]
+base = "Metalls no ferrosos, com ara coure, níquel, zinc i plom."
+
+[CARGO_INFO_BEANS]
+base = "Mongetes comunes, mongetes de favà, soja i llegums comestibles similars."
+
+[CARGO_INFO_BITUMEN]
+base = "Producte petrolier espès utilitzat principalment per pavimentar carreteres i cobrir teulades."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Cement, vidre, components metàl·lics, productes de fusta, canonades i materials de construcció similars."
+
+[CARGO_INFO_CASSAVA]
+base = "Conre d'arrel comestible, també conegut com maniòc i yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Pols de carboni intensament negra, utilitzada en pneumàtics, plàstics i pigments. Es manipula com a pols."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billets, blooms, lingots i lloses."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billets, blooms, lingots i lloses."
+
+[CARGO_INFO_CEMENT]
+base = "Cement sec en forma de pols o clinker."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Productes químics intermedis utilitzats com a matèries primeres per a un processament industrial posterior."
+
+[CARGO_INFO_CHEMICALS]
+base = "Productes químics orgànics i inorgànics genèrics, manipulats com a líquids, gasos, materials a granel coberts, pols o articles per peces."
+
+[CARGO_INFO_CHLORINE]
+base = "Producte químic industrial, que normalment es transporta de manera criogènica com a gas comprimit liquifat."
+
+[CARGO_INFO_CLAY]
+base = "Argiles genèriques, per produir materials de construcció i per a altres usos industrials."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Productes químics, sabons, agents abrasius, etc., per a ús industrial i domèstic. Principalment líquids, però també poden ser en pols o sòlids (com ara sorra per a sablatge)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Subproducte de la producció de coque, un líquid espès que flueix lentament."
+
+[CARGO_INFO_COFFEE]
+base = "Grans de cafè crus o torrats."
+
+[CARGO_INFO_COKE]
+base = "Carbó que s’ha escalfat en un forn de coque, produint un combustible que és gairebé carbó pur."
+
+[CARGO_INFO_COMPONENTS]
+base = "Components d'enginyeria d'alt valor, com ara equipament elèctric, motors, transformadors, equips de control, sistemes hidràulics i pneumàtics, bombes, vàlvules i equipament del tren motriu."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Productes de fosa com blocs, bigues i panells. També es poden transportar com a formigó premesclat en camions barcamescladors."
+
+[CARGO_INFO_COPPER]
+base = "Coure refinat, en bobines, lingots, etc."
+
+[CARGO_INFO_DIAMONDS]
+base = "Són per sempre, etc."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Oli per cuinar i per al consum."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Components elèctrics i electrònics, motors, controladors, quadres elèctrics, llums, etc."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Maquinària, combustible, peces, productes de fusta, canonades, explosius i altres subministraments per a mines i indústries similars."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Explosius civils per a la mineria, la construcció, etc."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Maquinària, combustible, peces, fertilitzants i altres subministraments per a granges, boscos i indústries similars."
+
+[CARGO_INFO_FERROALLOYS]
+base = "S'utilitzen en la producció d'acer. Aliatges de ferro i altres elements, com ara manganes, níquel, crom, alumini, silici i tungstè. Bóls grisos, de mida i forma semblants a les peces de carbó."
+
+[CARGO_INFO_FERROCHROME]
+base = "S'utilitzen en la producció d'aliatges i d'acer inoxidable, un aliatge de crom i ferro. Bóls grisos, de mida i forma semblants a les peces de carbó."
+
+[CARGO_INFO_FLOUR]
+base = "Productes de cereals en pols, com ara farina i midó, transportats en sacs o en granel cobert."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Peças metàl·liques per muntar-les en objectes més grans."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Ingredients utilitzats en el processament alimentari, com ara conservants, aromatitzants, colorants i auxiliars de processament."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Aliments conservats congelats durant el transport i l'emmagatzematge."
+
+[CARGO_INFO_FRUITS]
+base = "Fruita fresca i seca, com ara plàtans, cítrics, raïm, baies, pinya, panses i productes similars."
+
+[CARGO_INFO_GRAIN]
+base = "Blat de blat, ordi, etc."
+
+[CARGO_INFO_HARDWARE]
+base = "Per a ús domèstic i de construcció. Eines, utensilis, fixadors i accessoris de metall i altres materials."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Materials especials de carboni, com ara coque de petroli calcinat, betum, alquitrans d'alt valor i negre de carboni, utilitzats en processos metal·lúrgics i químics."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Gasos industrials utilitzats en el processament químic, la metal·lúrgia i la soldadura, transportats en bombones o camions cisterna a pressió."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Tambors, winxes, cadenes, ganxos, polees, xafles hidràuliques i altres peces per a grúes, elevadors, ascensors, etc."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Fraccions lleugeres de petroli utilitzades com a matèries primeres químiques, transportades com a líquids a granel."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Principalment vaques, porcs i ovelles per a la producció de carn. També es poden menjar altres animals."
+
+[CARGO_INFO_LYE]
+base = "Producte químic industrial. També conegut com a lleixiu o soda càustica. Normalment es transporta en estat líquid."
+
+[CARGO_INFO_KAOLIN]
+base = "Mineral industrial, també conegut com a caolí, utilitzat principalment en la producció de paper i plàstics."
+
+[CARGO_INFO_MANGANESE]
+base = "Minerai de manganès, utilitzat principalment en la producció d'acer."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Maquinària, peces, combustible, materials de construcció i altres subministraments per a ports, molls i indústries similars."
+
+[CARGO_INFO_METAL]
+base = "Metal·lú genèric, com ara acer, alumini o altres metalls comuns."
+
+[CARGO_INFO_METHANOL]
+base = "Alcohol industrial utilitzat com a matèria primera química i combustible, transportat com a líquid a granel."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Productes intermediaris de sucre per al refinat, la fermentació i usos industrials. Els grànuls enganxosos es manipulen com a producte a granel cobert; el xarop espès, com a líquid; qualsevol dels dos es pot empaquetar."
+
+[CARGO_INFO_NITROGEN]
+base = "Gas industrial. Es transporta de manera criogènica com a gas comprimit liquificat."
+
+[CARGO_INFO_OIL]
+base = "Petroli cru, no refinat, transportat com a líquid a granel."
+
+[CARGO_INFO_OXYGEN]
+base = "Gas industrial. Es transporta de manera criogènica com a gas comprimit liquificat."
+
+[CARGO_INFO_PACKAGING]
+base = "Caixes, ampolles, pots, llaunes, etc."
+
+[CARGO_INFO_PEAT]
+base = "Biomassa procedent de turberes, extreta com a combustible i per a l’horticultura."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Productes petroliers refinats, com ara gasolina, gasoil, querosè, GPL, fuel i combustible de búnquer, transportats com a líquids a granel o gas liquefact."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Àcid industrial utilitzat principalment en la producció de fertilitzants i productes químics, transportat com a líquid a granel."
+
+[CARGO_INFO_PIG_IRON]
+base = "Fer bàsic procedent d’un alt forn, en estat líquid fos o en lingots sòlids."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Cotó, lli, jutxa i materials similars, per produir tèxtils i materials compostos."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Equipament motoritzat i sistemes mecànics utilitzats en edificis, indústries i explotacions agrícoles. Transportats com a unitats completes o com a subconjunts principals."
+
+[CARGO_INFO_PETROL]
+base = "Gasolina, gasoil i combustibles similars."
+
+[CARGO_INFO_PLASTICS]
+base = "Plàstic cru per a un processament posterior. Normalment es transporta en forma de grànuls de resina."
+
+[CARGO_INFO_PIPEWORK]
+base = "Depòsits d’emmagatzematge, recipients a pressió, silos, bombones de gas i conjunts de canonades, per a ús en edificis urbans, indústries i explotacions agrícoles."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Productes químics industrials utilitzats en la fabricació i el processament, transportats com a líquids, pols, gasos o mercaderies empaquetades."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Minerals de sulfur, fosa per produir una varietat de productes industrials."
+
+[CARGO_INFO_QUICKLIME]
+base = "Òxid de calci, també conegut com a calç cremada. Es transporta en forma de pols fi que s'ha de mantenir sec."
+
+[CARGO_INFO_REBAR]
+base = "Barres d’acer brutes i fines, molt utilitzades per reforçar estructures de formigó. Es transporten en bobines o en feixos de barres rectes."
+
+[CARGO_INFO_RUBBER]
+base = "Principalment làtex natural."
+
+[CARGO_INFO_SALT]
+base = "Producte químic industrial d’ús molt estès. Normalment es transporta com a càrrega a granel que s’ha de mantenir seca."
+
+[CARGO_INFO_SAND]
+base = "Sorra gruixuda per a la construcció, o sorra fina de silici per a fabricar vidre i fer fosa de metalls. Es transporta a granel o en pols."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Sells flexibles, juntes, mànigues, corretges, estores, buixos, etc., fabricats amb cautxú o materials similars."
+
+[CARGO_INFO_SLAG]
+base = "Producte residual de la producció de ferro i acer."
+
+[CARGO_INFO_SODA_ASH]
+base = "Producte químic industrial. En forma de pols blanc."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Peces metàl·liques semiacabades de fosa. Rectangulars, quadrades o rodones en secció transversal."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Fosa bruta d’acer que requereix un processament addicional. Els lingots poden ser petits o molt grans. Els perfils típics dels lingots són rectangulars o rodons."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Barres d'acer, com ara rodones, quadrades, planes i altres perfils. Transportades com a productes llargs i rectes."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Tubularies llargues d’acer rodó per transportar líquids en canonades, edificis, indústries, etc."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Plaques i seccions d’acer laminat: bigues en I, bigues en H, canals, etc. Transportats com a productes llargs i rectes."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Fulla i franja d’acer rodillat fi, molt utilitzada per fabricar altres productes. Es transporta en fulls plans o en bobines."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Peces metàl·liques semiacabades de fosa. Sempre planes i rectangulars en secció transversal."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Tub llarg i buit de secció rodona, rectangular o d’altres formes. S’utilitza per fabricar estructures i maquinària."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Filferro d’acer i barres fines. Es transporten principalment en bobines."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Cordons i cables produïts estirant barra d’acer fins a obtenir un diàmetre més petit i, a continuació, torçant-la per formar cordons de feixos."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Acer de qualitat estructural en seccions laminades (bigues en I, bigues en H, etc.), en plaques planes o en seccions i bigues fabricades soldades a partir de plaques."
+
+[CARGO_INFO_SULPHUR]
+base = "Producte químic industrial d’ús molt estès. De color groc viu, en forma de polvo o líquid."
+
+[CARGO_INFO_TIMBER]
+base = "Productes de fusta processats procedents d'una serra o d'indústries similars."
+
+[CARGO_INFO_TIN]
+base = "Llengots."
+
+[CARGO_INFO_TINPLATE]
+base = "Fulla d’acer fina recoberta d’estany per resistir la corrosió, utilitzada principalment per fabricar llaunes, contenidors i altres embalatges."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Fil fin utilitzat per reforçar els pneumàtics. Es transporta en bobina."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Cabines, capòts, portes i estructures de carrosseria similars per a la producció de vehicles."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Motors de combustió interna i components relacionats del tren motriu, com ara transmissions i eixos de transmissió."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Components per a la producció de vehicles, com ara xassissos, components de suspensió, peces elèctriques, acabats exteriors i peces interiors."
+
+[CARGO_INFO_VEHICLES]
+base = "Principalment camions. O cotxes. O camions lleugers. Potser tractors."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Subministraments per tallar i soldar metall, com ara barres de soldadura, eines i gasos industrials, inclosos l’acetilè, l’argó, el propan, l’oxigen i el nitrogen."
+
+[CARGO_INFO_WOOD]
+base = "Troncs procedents d’un bosc."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Fibra de fusta processada utilitzada principalment per a la producció de paper, transportada en bales o com a pasta a granel."
+
+[CARGO_INFO_WOOL]
+base = "Bales."
+
+[CARGO_INFO_ZINC]
+base = "Llengots."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

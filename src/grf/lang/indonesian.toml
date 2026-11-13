@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x5a"
+plural = "1"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "Set Pengganti Industri Komunitas CIRS"
+
+[STR_GRF_DESC]
+base = "{ORANGE}Set Pengganti Industri Komunitas CIRS{}{BLACK}Sebuah cabang FIRS yang dikelola komunitas, yang awalnya dibuat oleh andythenorth, FooBar, planetmaker, Terkhen, dan Yexo, dengan bantuan dari banyak pihak lainnya. {SILVER}Lihat situs web untuk informasi lebih lanjut, termasuk cara menggunakan CIRS. {BLACK}Lisensi: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Jarak maksimal untuk area tangkapan ikan, anjungan lepas pantai dan pengerukan pasir laut dari pantai dalam petak."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Setiap ekonomi menyediakan kombinasi kargo dan industri yang berbeda.{}{}Bagi pemain yang menginginkan gameplay sederhana, ekonomi {SILVER}Dasar {BLACK}memiliki lebih sedikit industri dan kargo dibandingkan ekonomi CIRS lainnya.{}{}Situs web CIRS menyediakan informasi terperinci tentang setiap ekonomi."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Jarak terjauh untuk industri lepas pantai dari garis pantai dalam blok area"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Sistem Ekonomi"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Tak Terbatas"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Kotak pasokan yang diperlukan untuk produksi primer Enhanced (standar 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Kotak pasokan yang diperlukan untuk produksi primer Gung-ho (standar 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Peternakan, tambang, dan industri serupa akan meningkatkan produksi saat kotak pasokan dikirimkan, pertama ke {SILVER}Enhanced{BLACK}, lalu ke {SILVER}Gung-ho{BLACK}, jika kotak yang dikirimkan cukup.  {}{}Nilai bawaannya sudah baik, tetapi jika perlu, Anda dapat mengubahnya di sini.  {}{}Persyaratan kargo untuk industri tipe pelabuhan akan menjadi 8 kali nilai yang diatur di sini."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Tingkat produksi primer yang ditingkatkan (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Tingkat produksi primer Gung-ho (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Produksi di pertanian, tambang, dan industri serupa ketika persyaratan pasokan terpenuhi (sebagai persentase dari tingkat produksi {SILVER}Normal {BLACK})."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Sedang (Iklim) Dasar"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Arktik Dasar"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tropis Dasar"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Hati Kegelapan"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Steeltown"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "Objek penataan lanskap CIRS"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS mencakup satu set objek penataan lanskap yang dapat ditempatkan oleh pemain agar industri tertentu terlihat lebih besar. Objek lanskap tidak memiliki efek pada gameplay. Objek penataan lanskap dapat diaktifkan atau dinonaktifkan."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(opsional)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(disertakan)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Sediakan {WHITE}setidaknya satu {BLACK} kargo yang diperlukan untuk produksi maksimal."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Untuk laju produksi maksimal, sediakan {WHITE}kedua {BLACK}kargo yang diperlukan setidaknya sekali setiap tiga menit."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Untuk tingkat produksi maksimal, pasokkan {WHITE}semua {BLACK}kargo yang diperlukan setidaknya sekali setiap tiga menit."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Untuk laju produksi maksimal, sediakan {WHITE}setidaknya dua {BLACK}kargo yang diperlukan setidaknya sekali setiap tiga menit."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Untuk laju produksi maksimal, sediakan {WHITE}setidaknya tiga {BLACK}kargo yang diperlukan setidaknya sekali setiap tiga menit."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Produksi sebanding dengan populasi kota. Setidaknya {WHITE}{SIGNED_WORD} unit{BLACK} dan tidak lebih dari {WHITE}{SIGNED_WORD} unit{BLACK} kargo akan diproduksi setiap menit."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Produksi saat ini: {YELLOW}Normal {}{}{BLACK}Untuk produksi {WHITE}Ditingkatkan {BLACK}, kirimkan {SIGNED_WORD} peti persediaan setidaknya sekali setiap tiga menit.{}Untuk produksi {WHITE}Gung-ho {BLACK}, kirimkan {SIGNED_WORD} peti."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Produksi saat ini: {YELLOW}Ditingkatkan {}{}{BLACK}Untuk mempertahankan level ini, kirimkan {SIGNED_WORD} peti persediaan setidaknya sekali setiap tiga menit.{}Untuk produksi {WHITE}Gung-ho {BLACK}, kirimkan {SIGNED_WORD} peti."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Produksi sekarang: {YELLOW}Gung ho (empat kali lipat){}{}{BLACK}Untuk meneruskan tingkat ini, antarkan {SKIP}{SIGNED_WORD} peti alat dalam tiga bulan"
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Produksi saat ini: {YELLOW}Normal {}{}{BLACK}Untuk produksi {WHITE}Ditingkatkan {BLACK}, kirimkan {SIGNED_WORD} unit kargo setidaknya sekali setiap tiga menit.{}Untuk produksi {WHITE}Gung-ho {BLACK}, kirimkan {SIGNED_WORD} unit."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Produksi saat ini: {YELLOW}Ditingkatkan {}{}{BLACK}Untuk mempertahankan level ini, kirimkan {SIGNED_WORD} unit kargo setidaknya sekali setiap tiga menit.{}Untuk produksi {WHITE}Gung-ho {BLACK}, kirimkan {SIGNED_WORD} unit."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Produksi sekarang: {YELLOW}Gung ho (empat kali lipat){}{}{BLACK}Untuk meneruskan tingkat ini, antarkan {SKIP}{SIGNED_WORD} satuan kargo dalam tiga bulan"
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS memerlukan OpenTTD 1.7.0 (atau bagi yang menggunakan build trunk, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Set tidak kompatibel: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Parameter tidak kompatibel: {ORANGE}Parameter CanSet 2 harus 0 agar dapat berfungsi dengan CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Parameter tidak kompatibel: {ORANGE}Parameter NA City Set 2 harus 0 agar dapat berfungsi dengan CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Versi tidak kompatibel: {ORANGE}Total Town Replacement Set harus versi rilis 3.11 atau yang lebih baru."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "hanya diletakkan di atas garis salju."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "tidak dapat diletakkan di tebing."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak dapat dibuat di atas garis salju atau di daerah gurun."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak bisa dibuat di salju atau di gurun."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak bisa dibuat di salju atau di gurun."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak bisa dibuat di salju atau di gurun."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak dapat dibuat di daerah gurun."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak dapat dibuat di atas garis salju."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Lokasi: {YELLOW}Hanya bisa didanai di atas salju."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak bisa dibuat di salju atau di gurun."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak bisa dibuat di salju atau di gurun."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Lokasi: {YELLOW}Tidak bisa dibuat di salju atau di gurun."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Asam"
+cargo_unit = "{VOLUME} asam"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Agregat"
+cargo_unit = "{WEIGHT} agregat"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Aluminium"
+cargo_unit = "{WEIGHT} aluminium"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumina"
+cargo_unit = "{WEIGHT} alumina"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Produk Amonia & Nitrat"
+cargo_unit = "{VOLUME} amonia & produk asam nitrat"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Batu Anhidrit"
+cargo_unit = "{WEIGHT} batuan anhidrit"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Apel"
+cargo_unit = "{WEIGHT} apel"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Kacang"
+cargo_unit = "{WEIGHT} kacang-kacangan"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumen"
+cargo_unit = "{VOLUME} bitumen"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Material Bangunan"
+cargo_unit = "{WEIGHT} dari material bangunan"
+cid = "{TINYFONT}MB"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Karbon Hitam"
+cargo_unit = "{WEIGHT} karbon hitam"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Singkong"
+cargo_unit = "{WEIGHT} singkong"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Besi Tuang"
+cargo_unit = "{WEIGHT} besi cor"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Semen"
+cargo_unit = "{WEIGHT} semen"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Intermediet Kimia"
+cargo_unit = "{VOLUME} bahan kimia perantara"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Bahan Kimia"
+cargo_unit = "{VOLUME} dari bahan kimia"
+cid = "{TINYFONT}BK"
+
+[STR_CARGO_CHLORINE]
+name = "Klorin"
+cargo_unit = "{VOLUME} klorin"
+cid = "{TINYFONT}BK"
+
+[STR_CARGO_CLAY]
+name = "Tanah Liat"
+cargo_unit = "{WEIGHT} dari tanah liat"
+cid = "{TINYFONT}TL"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Agen Pembersih"
+cargo_unit = "{WEIGHT} bahan pembersih"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kopi"
+cargo_unit = "{WEIGHT} karung kopi"
+cid = "{TINYFONT}KP"
+
+[STR_CARGO_COAL_TAR]
+name = "Tar Batubara"
+cargo_unit = "{VOLUME} tar batu bara"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Kok"
+cargo_unit = "{WEIGHT} kokas"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Komponen Presisi"
+cargo_unit = "{WEIGHT} komponen presisi"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Produk Beton"
+cargo_unit = "{WEIGHT} produk beton"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Tembaga"
+cargo_unit = "{WEIGHT} tembaga"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Minyak Makan"
+cargo_unit = "{VOLUME} minyak pangan"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Komponen Kelistrikan"
+cargo_unit = "{WEIGHT} komponen listrik"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Alat Teknik"
+cargo_unit = "{SIGNED_WORD} peti dari alat teknik"
+cid = "{TINYFONT}AT"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Bahan Peledak"
+cargo_unit = "{WEIGHT} bahan peledak"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferroalloy"
+cargo_unit = "{WEIGHT} ferroalloy"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Ikan & Makanan Laut"
+cargo_unit = "{WEIGHT} ikan & makanan laut"
+cid = "{TINYFONT}IK"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Alat Pertanian"
+cargo_unit = "{SIGNED_WORD} peti dari alat pertanian"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_FERTILISER]
+name = "Pupuk"
+cargo_unit = "{WEIGHT} pupuk"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Tepung & Pati"
+cargo_unit = "{WEIGHT} tepung & pati"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Bahan Tambahan Makanan"
+cargo_unit = "{WEIGHT} bahan tambahan makanan"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Makanan & Minuman"
+cargo_unit = "{WEIGHT} makanan & minuman"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Produk Tempa & Tuangan"
+cargo_unit = "{WEIGHT} hasil tempa & cor"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Makanan Beku"
+cargo_unit = "{WEIGHT} makanan beku"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Buah"
+cargo_unit = "{WEIGHT} dari buah"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Produk Kaca"
+cargo_unit = "{WEIGHT} produk kaca"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Perangkat Keras & Finishing"
+cargo_unit = "{WEIGHT} perangkat keras & lapisan akhir"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Karbon Industri"
+cargo_unit = "{WEIGHT} karbon industri"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Gas Industri"
+cargo_unit = "{VOLUME} gas industri"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Tanah Liat Tiongkok"
+cargo_unit = "{WEIGHT} tanah liat Tionghoa"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Hidrokarbon Ringan"
+cargo_unit = "{VOLUME} hidrokarbon ringan"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Batu kapur"
+cargo_unit = "{WEIGHT} batu kapur"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Log"
+cargo_unit = "{WEIGHT} besi kasar"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Natrium Hidroksida"
+cargo_unit = "{VOLUME} natrium hidroksida"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} metanol"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Susu"
+cargo_unit = "{VOLUME} dari susu"
+cid = "{TINYFONT}SS"
+
+[STR_CARGO_MANGANESE]
+name = "Mangan"
+cargo_unit = "{WEIGHT} mangan"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Daging"
+cargo_unit = "{WEIGHT} daging"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Barit & Fluorspar"
+cargo_unit = "{WEIGHT} barit & fluorspar"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Pengisi Mineral"
+cargo_unit = "{WEIGHT} pengisi mineral"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Gula Mentah & Molase"
+cargo_unit = "{WEIGHT} gula mentah & molase"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitrat"
+cargo_unit = "{WEIGHT} nitrat"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Nitrogen"
+cargo_unit = "{VOLUME} nitrogen"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Kacang-kacangan"
+cargo_unit = "{WEIGHT} kacang-kacangan"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Oksigen"
+cargo_unit = "{VOLUME} oksigen"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Pengemasan"
+cargo_unit = "{WEIGHT} kemasan"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Cat & Lapisan Pelindung"
+cargo_unit = "{VOLUME} cat & lapisan pelindung"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Gambut"
+cargo_unit = "{WEIGHT} gambut"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Bahan Bakar"
+cargo_unit = "{VOLUME} dari bahan bakar"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_PIPEWORK]
+name = "Tangki Penyimpanan & Piping"
+cargo_unit = "{WEIGHT} tangki penyimpanan & rangkaian pipa"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfat"
+cargo_unit = "{WEIGHT} fosfat"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Asam Fosfat"
+cargo_unit = "{VOLUME} asam fosfat"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Besi Tuang"
+cargo_unit = "{WEIGHT} besi tuang"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plastik & Resin"
+cargo_unit = "{WEIGHT} plastik & resin"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Pabrik & Mesin"
+cargo_unit = "{WEIGHT} tanaman & mesin"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Kalium"
+cargo_unit = "{WEIGHT} potas"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Bahan Kimia Proses"
+cargo_unit = "{WEIGHT} bahan kimia proses"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pompa & Katup"
+cargo_unit = "{WEIGHT} pompa & katup"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Bijih Pirit"
+cargo_unit = "{WEIGHT} bijih pirit"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Kapur Cepat"
+cargo_unit = "{WEIGHT} kapur tohor"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Tulang Beton"
+cargo_unit = "{WEIGHT} baja tulangan"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Garam"
+cargo_unit = "{WEIGHT} garam"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Pasir"
+cargo_unit = "{WEIGHT} dari pasir"
+cid = "{TINYFONT}PS"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Besi Bekas"
+cargo_unit = "{WEIGHT} dari besi bekas"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Segel, Selang & Sabuk"
+cargo_unit = "{WEIGHT} segel, selang & sabuk"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slag"
+cargo_unit = "{WEIGHT} terak"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Soda Ash"
+cargo_unit = "{WEIGHT} soda abu"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Baja"
+cargo_unit = "{WEIGHT} baja"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billet & Bloom"
+cargo_unit = "{WEIGHT} billet & bloom"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Bata Baja"
+cargo_unit = "{WEIGHT} ingot baja"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Bar Dagang"
+cargo_unit = "{WEIGHT} batang komersial"
+cid = "{TINYFONT}BG"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Pipa Baja"
+cargo_unit = "{WEIGHT} pipa baja"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Pelat Baja"
+cargo_unit = "{WEIGHT} pelat baja"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Lembar & Strip Baja"
+cargo_unit = "{WEIGHT} lembaran & strip baja"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Slab Baja"
+cargo_unit = "{WEIGHT} slab baja"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Tabung Baja"
+cargo_unit = "{WEIGHT} tabung baja"
+cid = "{TINYFONT}BT"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Batang Kawat Baja"
+cargo_unit = "{WEIGHT} batang kawat baja"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Baja Struktural"
+cargo_unit = "{WEIGHT} baja struktural"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Belerang"
+cargo_unit = "{WEIGHT} belerang"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Asam Sulfat"
+cargo_unit = "{VOLUME} asam sulfat"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Produk Kayu"
+cargo_unit = "{WEIGHT} produk kayu"
+cid = "{TINYFONT}KP"
+
+[STR_CARGO_TIN]
+name = "Timah"
+cargo_unit = "{WEIGHT} timah"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Lembaran Timah"
+cargo_unit = "{WEIGHT} pelat timah"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Kawat Ban"
+cargo_unit = "{WEIGHT} tali ban"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Ban"
+cargo_unit = "{WEIGHT} ban"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Sayuran"
+cargo_unit = "{WEIGHT} sayuran"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Bodi Kendaraan"
+cargo_unit = "{WEIGHT} bodi kendaraan"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Mesin & Sistem Penggerak"
+cargo_unit = "{WEIGHT} mesin & sistem penggerak"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Suku Cadang Kendaraan"
+cargo_unit = "{WEIGHT} suku cadang kendaraan"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Kendaraan"
+cargo_unit = "{WEIGHT} kendaraan"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Bahan Habis Pakai Pengelasan"
+cargo_unit = "{WEIGHT} bahan habis pakai pengelasan"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Pulp Kayu"
+cargo_unit = "{WEIGHT} bubur kayu"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Wol"
+cargo_unit = "{SIGNED_WORD} ikat dari wol"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "Seng"
+cargo_unit = "{WEIGHT} seng"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Bijih Seng"
+cargo_unit = "{WEIGHT} bijih seng"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} barang"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Peleburan Aluminium"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Kompleks Amonia"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Tambang Anhidrit"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Pabrik Proses Anhidrit"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Pabrik Peralatan Rumah Tangga"
+
+[STR_IND_ARABLE_FARM]
+base = "Pertanian Garapan"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Pabrik Perakitan"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Pabrik Potong & Batang"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Tanur Oksigen Dasar"
+
+[STR_IND_BLAST_FURNACE]
+base = "Tanur Tiup"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Pabrik Papan Serpih"
+
+[STR_IND_BODY_PLANT]
+base = "Tubuh Tanaman"
+
+[STR_IND_BREWERY]
+base = "Pabrik Pembuatan Bir"
+
+[STR_IND_CIDER_MILL]
+base = "Pabrik Cider"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Lapangan Konstruksi" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Pabrik Karbon Hitam"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Pabrik Film Selulosa"
+
+[STR_IND_CEMENT_PLANT]
+base = "Pabrik Semen"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Kompleks Kimia"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Pabrik Bahan Peledak"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Pabrik Klor-Alkali"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Tambang Tanah Liat"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Perkebunan Kopi"
+
+[STR_IND_COKE_OVEN]
+base = "Tungku Kok"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Pabrik Beton"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Pabrik Kimia Batch"
+
+[STR_IND_COPPER_SMELTER]
+base = "Peleburan Tembaga"
+
+[STR_IND_CRYO_PLANT]
+base = "Pabrik Krio"
+
+[STR_IND_DAIRY]
+base = "Pabrik Susu"
+
+[STR_IND_DAIRY_FARM]
+base = "Peternakan Susu"
+
+[STR_IND_DREDGING_SITE]
+base = "Pengerukan Pasir Laut"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Pabrik Produk Elastomer"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Tanur Arka Listrik"
+
+[STR_IND_ENGINE_PLANT]
+base = "Pabrik Mesin"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Pabrik Rekayasa"
+
+[STR_IND_FARM]
+base = "Peternakan"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Pabrik Bahan Kimia Proses"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Pabrik Fermentasi"
+
+[STR_IND_FISH_FARM]
+base = "Peternakan Ikan"
+
+[STR_IND_FISHING_GROUND]
+base = "Area Tangkapan Ikan"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Pelabuhan Ikan"
+
+[STR_IND_GRAIN_MILL]
+base = "Penggilingan Biji-bijian"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Pabrik Pengolahan Pangan"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Tempa & Coran Baja"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Pabrik Makanan Beku"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Pabrik Furnitur"
+
+[STR_IND_GENERAL_STORE]
+base = "Toko"
+
+[STR_IND_GLASS_WORKS]
+base = "Peleburan Kaca"
+
+[STR_IND_HERDING_COOP]
+base = "Koperasi Peternakan"
+
+[STR_IND_HOTEL]
+base = "Hotel"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Pabrik Dessert Beku"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Pabrik Baja"
+
+[STR_IND_SCRAP_YARD]
+base = "Pembuangan Besi Bekas"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Pabrik Pembakaran Kapur"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Tambang Batu Kapur"
+
+[STR_IND_MANGANESE_MINE]
+base = "Tambang Mangan"
+
+[STR_IND_METAL_WORKS]
+base = "Pabrik Logam"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Pabrik Pengisi Mineral"
+
+[STR_IND_NITRATE_MINE]
+base = "Tambang Nitrat"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Pabrik Bahan Kimia Industri"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Terminal Minyak & Kimia"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Perkebunan Buah-Buahan dan Perkebunan Babi"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Pabrik Botol & Kaleng"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Pabrik Produk Kertas"
+
+[STR_IND_PEATLANDS]
+base = "Lahan Gambut"
+
+[STR_IND_PETROLPUMP]
+base = "Stasiun Bahan Bakar"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Tambang Fosfat"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Pabrik Pupuk & Asam"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Panggang Komersial"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Pabrik Pipa"
+
+[STR_IND_PLATE_MILL]
+base = "Pabrik Pelat"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Pabrik Cetakan Plastik"
+
+[STR_IND_PORT]
+base = "Pekabuhan"
+
+[STR_IND_POTASH_MINE]
+base = "Tambang Kalium"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Pabrik Sistem Tenaga"
+
+[STR_IND_POWER_PLANT]
+base = "Pembangkit listrik"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Pabrik Bagian Presisi"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Pengemas Hasil Pertanian"
+
+[STR_IND_PYRITE_MINE]
+base = "Tambang Pirit"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Peleburan Pirit"
+
+[STR_IND_QUARRY]
+base = "Tambang Pasir"
+
+[STR_IND_RANCH]
+base = "Pertanian Besar"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Pabrik Roadstone"
+
+[STR_IND_SALT_WORKS]
+base = "Pabrik Garam"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Pabrik Penggilingan Slag"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Tambang Soda Ash"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Pabrik Makanan Siap Saji"
+
+[STR_IND_STOCKYARD]
+base = "Pabrik Pengalengan"
+
+[STR_IND_STRIP_MILL]
+base = "Pabrik Penggulungan Strip"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Pabrik Gula"
+
+[STR_IND_SUPPLY_YARD]
+base = "Gudang Pasokan"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Pemotongan Kayu"
+
+[STR_IND_TIN_MINE]
+base = "Tambang Timah"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Pabrik Lembaran Timah"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Pabrik Kendaraan Berrel"
+
+[STR_IND_TRADING_POST]
+base = "Tempat Perdagangan"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Pabrik Tabung & Pipa"
+
+[STR_IND_TYRE_PLANT]
+base = "Pabrik Ban"
+
+[STR_IND_VINEYARD]
+base = "Kebun Anggur"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Distributor Kendaraan"
+
+[STR_IND_WHARF]
+base = "Dermaga"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Pabrik Batang Kawat"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Tambang Seng"
+
+[STR_IND_ZINC_SMELTER]
+base = "Peleburan Seng"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Pasar Kuda"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Barang Elektronik"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Otomotif"
+
+[STR_STATION_BAKERY]
+base = "Toko Roti"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Balok penyangga"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, Panggangan, dan Kamar"
+
+[STR_STATION_BARNS]
+base = "Gudang Pertanian"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Tong dan Karung"
+
+[STR_STATION_BASE]
+base = "Dasar"
+
+[STR_STATION_BONEYARD]
+base = "Taman Reruntuhan"
+
+[STR_STATION_BANK_TOP]
+base = "Puncak Bank"
+
+[STR_STATION_BODY_PLANT]
+base = "Produk Pres"
+
+[STR_STATION_BRINE_WORKS]
+base = "Pabrik Larutan Asin"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Toko Bangunan"
+
+[STR_STATION_COLLIERY]
+base = "Tambang Batu Bara"
+
+[STR_STATION_COMPONENTS]
+base = "Komponen"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Pracetak"
+
+[STR_STATION_COPPER_LODE]
+base = "Endapan Tembaga"
+
+[STR_STATION_CREOSOTING]
+base = "Kriosotasi"
+
+[STR_STATION_CRYO_PLANT]
+base = "Pabrik Krio"
+
+[STR_STATION_DAIRY_LANE]
+base = "Jalan Susu"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Segel dan Selang"
+
+[STR_STATION_ESTATE]
+base = "Perkebunan"
+
+[STR_STATION_FACTORY]
+base = "Pabrik"
+
+[STR_STATION_FARM_1]
+base = "Tanah milik bangsawan"
+
+[STR_STATION_FARM_2]
+base = "Padang Rumput"
+
+[STR_STATION_FARM_3]
+base = "Pertanian Besar"
+
+[STR_STATION_FISHMARKET]
+base = "Pasar Ikan"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Korporasi Pangan"
+
+[STR_STATION_FOREST]
+base = "Tempat Pemuatan Kayu"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Steelmasters"
+
+[STR_STATION_FREEZERS]
+base = "Pembeku"
+
+[STR_STATION_FURNACE]
+base = "Penggiling Biji-bijian"
+
+[STR_STATION_METAL_WORKS]
+base = "Barang Logam"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Pabrik"
+
+[STR_STATION_HERDING_COOP]
+base = "Pagar Reinder"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Taman Industri"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Tepi air"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Panggung Pendaratan"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Pesisir"
+
+[STR_STATION_IRONSTONE]
+base = "Batu Besi"
+
+[STR_STATION_KILNS]
+base = "Tungku"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Endapan Kimberlit"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Tambang-Tambang Batu Kapur"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Tambang-tambang Mangan"
+
+[STR_STATION_MILL]
+base = "Pabrik"
+
+[STR_STATION_MILLS]
+base = "Pabrik Penggilingan"
+
+[STR_STATION_MINES]
+base = "Tambang"
+
+[STR_STATION_MOULDINGS]
+base = "Produk Cetakan"
+
+[STR_STATION_OIL_RIG]
+base = "Ladang"
+
+[STR_STATION_ORCHARDS]
+base = "Taman Buah"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Aliran Produksi"
+
+[STR_STATION_PIT]
+base = "Lubang"
+
+[STR_STATION_PLANT]
+base = "Pabrik"
+
+[STR_STATION_PLANTATION]
+base = "Perkebunan"
+
+[STR_STATION_PLATE_MILL]
+base = "Halaman lempengan"
+
+[STR_STATION_POTASH_MINE]
+base = "Mineral"
+
+[STR_STATION_POWERHUNGRY]
+base = "Pembangkit listrik"
+
+[STR_STATION_POWERTRAIN]
+base = "Rantai Penggerak"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Pabrik & Mesin"
+
+[STR_STATION_PUMPS]
+base = "Pompa"
+
+[STR_STATION_PYRITES]
+base = "Endapan Pirit"
+
+[STR_STATION_REFINERY]
+base = "Tanah pelabuhan"
+
+[STR_STATION_ROD_MILL]
+base = "Penggilingan Batang"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Perusahaan Karet"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Pabrik Salpetre"
+
+[STR_STATION_SEAFOOD]
+base = "Makanan Laut"
+
+[STR_STATION_SHARP_STREET]
+base = "Jalan Sharp"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Kekeringan"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Peleburan"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Tungku Soot"
+
+[STR_STATION_SOUPS]
+base = "Sup"
+
+[STR_STATION_STRIP_MILL]
+base = "Garis Koil"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Perusahaan Gula"
+
+[STR_STATION_TANK_FARM]
+base = "Ladang Tangki"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Gudang Pemetik Getah"
+
+[STR_STATION_TOWN_3]
+base = "Toko"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Pabrik Crawler"
+
+[STR_STATION_TRONA_BEDS]
+base = "Lapisan Trona"
+
+[STR_STATION_TUBE_MILL]
+base = "Pabrik Penggilingan Tabung"
+
+[STR_STATION_WATER]
+base = "Gosong pasir"
+
+[STR_STATION_WELLS]
+base = "Sumur"
+
+[STR_STATION_WHEAL]
+base = "Sumur tambang"
+
+[STR_STATION_WINERY]
+base = "Pabrik anggur"
+
+[STR_STATION_WORKS]
+base = "Pabrik"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Parkir Truk"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "LAHAN"
+
+[STR_BADGE_SEA]
+base = "LAUT"

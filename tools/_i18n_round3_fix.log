@@ -1,0 +1,44 @@
+A curated repairs 4
+B zh-Hant char conversions 14
+C SYNC extra_strings_fr.toml -> extra_strings_french.toml diff=101
+C SYNC extra_strings_de.toml -> extra_strings_german.toml diff=108
+C SYNC extra_strings_es.toml -> extra_strings_spanish.toml diff=97
+C SYNC extra_strings_zh.toml -> extra_strings_simplified_chinese.toml diff=93
+C SYNC extra_strings_ko.toml -> extra_strings_korean.toml diff=1
+C SYNC extra_strings_ar.toml -> extra_strings_arabic.toml diff=0
+C SYNC extra_strings_pt.toml -> extra_strings_portuguese.toml diff=0
+CHANGES_TOTAL 418 files 12
+  src/docs/extra_strings_croatian.toml 1
+  src/docs/extra_strings_french.toml 101
+  src/docs/extra_strings_german.toml 108
+  src/docs/extra_strings_korean.toml 1
+  src/docs/extra_strings_simplified_chinese.toml 93
+  src/docs/extra_strings_spanish.toml 97
+  src/docs/extra_strings_traditional_chinese.toml 11
+  src/docs/lang/traditional_chinese.toml 2
+  src/grf/lang/danish.toml 1
+  src/grf/lang/norwegian_bokmal.toml 1
+  src/grf/lang/traditional_chinese.toml 2
+  src/gs/lang/traditional_chinese.toml 0
+NO_WORK_REF 6 (safe: apply never touches keys outside work list)
+  NOREF src/docs/lang/traditional_chinese.toml DOC_GS_DOWNLOAD_B2_PREFIX
+  NOREF src/docs/lang/traditional_chinese.toml DOC_CR_SOURCE_P1_PREFIX
+  NOREF src/docs/extra_strings_french.toml TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT.base
+  NOREF src/docs/extra_strings_german.toml TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT.base
+  NOREF src/docs/extra_strings_spanish.toml TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT.base
+  NOREF src/docs/extra_strings_korean.toml TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT.base
+OUT_JSONL_CONFLICTS 0
+OUT_JSONL_APPENDS 401 langs 8
+PATCH src/docs/extra_strings_croatian.toml OK
+PATCH src/grf/lang/danish.toml OK
+PATCH src/grf/lang/norwegian_bokmal.toml OK
+PATCH src/docs/extra_strings_traditional_chinese.toml OK
+PATCH src/docs/lang/traditional_chinese.toml OK
+PATCH src/grf/lang/traditional_chinese.toml OK
+PATCH src/gs/lang/traditional_chinese.toml OK
+PATCH src/docs/extra_strings_french.toml OK
+PATCH src/docs/extra_strings_german.toml OK
+PATCH src/docs/extra_strings_spanish.toml OK
+PATCH src/docs/extra_strings_simplified_chinese.toml OK
+PATCH src/docs/extra_strings_korean.toml OK
+WROTE (APPLY=1)

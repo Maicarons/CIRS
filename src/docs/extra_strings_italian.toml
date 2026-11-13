@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Miniera di carbone"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Miniera di rame"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Miniera di diamanti"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "{G=f}Fabbrica di alimentari"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Foresta"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Frutteto"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Miniera di minerale di ferro"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Raffineria di petrolio"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Piattaforma petrolifera"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Pozzi petroliferi"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Cartiera"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Plantazione di gomma"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Segheria"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "{G=m}Acciaieria"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Carbone"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Minerale di rame"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamanti"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Alimenti"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Merci"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Cereali"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Minerale di ferro"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Bestiame"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Corrispondenza"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Granoturco"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Petrolio"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Carta"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Passaggeri"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Gomma"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Zucchero"
+
+[ECONOMY_INFO_FIRS]
+base = "Economia complessa con numerose industrie e merci."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Economia semplice. Ispirata da Finlandia, Canada settentrionale e Siberia settentrionale. Ideale con clima subartico."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Economia semplice. Ispirata dal sud-ovest del Regno Unito. Ideale con clima temperato."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Economia semplice. Ispirata da Argentina, Perù e Cile. Ideale con clima subtropicale."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Economia complessa con numerose industrie e merci. Ispirata all'Africa centro-occidentale. Ideale da utilizzare con un clima subtropicale."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Economia complessa caratterizzata da industrie del ferro, dell'acciaio e manifatturiere pesanti."
+
+[CARGO_INFO_PASSENGERS]
+base = "Disponibile in tutte le economie. Prodotto e accettato dagli edifici della città e anche da alcune industrie."
+
+[CARGO_INFO_MAIL]
+base = "Disponibile in tutte le economie. Prodotto e accettato dagli edifici della città."
+
+[CARGO_INFO_ACID]
+base = "Acidi industriali, come l'acido cloridrico, l'acido nitrico e l'acido solforico."
+
+[CARGO_INFO_AGGREGATES]
+base = "Ghiaia, sabbia, pietra frantumata e materiali simili utilizzati nell'edilizia."
+
+[CARGO_INFO_ALUMINA]
+base = "Polvere bianca raffinata dal minerale di bauxite, usata per produrre alluminio metallico."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Metallo di alluminio raffinato, in bobine, lingotti, lastre, ecc."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Prodotti chimici industriali derivati dall'ammoniaca, come l'ammoniaca, l'acido nitrico e l'urea. Trasportati come liquidi, in modo criogenico come gas liquefatto o come merce sfusa secca."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Roccia di solfato di calcio bianca, grigia o marrone, usata nella produzione di acido solforico e cemento. Spesso trasportata come merce sfusa coperta."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Minerali industriali utilizzati nella lavorazione chimica. La barite è usata nei composti del bario e come riempitivo; la fluorite nella chimica del fluoro e nei flussi metallurgici."
+
+[CARGO_INFO_BASE_METALS]
+base = "Metalli non ferrosi, come rame, nichel, zinco e piombo."
+
+[CARGO_INFO_BEANS]
+base = "Fagioli comuni, fave, soia e legumi commestibili simili."
+
+[CARGO_INFO_BITUMEN]
+base = "Prodotto petrolifero denso, utilizzato principalmente per la pavimentazione stradale e la copertura di tetti."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Cemento, vetro, componenti metallici, prodotti in legno, tubi e materiali da costruzione simili."
+
+[CARGO_INFO_CASSAVA]
+base = "Coltura radice commestibile, nota anche come manioca e yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Polvere di carbonio di colore intensamente nero, utilizzata in pneumatici, plastiche e pigmenti. Manipolata come polvere."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billette, colate, lingotti e lastre."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billette, colate, lingotti e lastre."
+
+[CARGO_INFO_CEMENT]
+base = "Cemento secco in polvere o sotto forma di clinker."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Prodotti chimici intermedi utilizzati come materie prime per ulteriori lavorazioni industriali."
+
+[CARGO_INFO_CHEMICALS]
+base = "Prodotti chimici organici e inorganici generici, maneggiati come liquidi, gas, sfusi coperti, polveri o come merci a pezzi."
+
+[CARGO_INFO_CHLORINE]
+base = "Prodotto chimico industriale, solitamente trasportato in modo criogenico come gas compresso liquefatto."
+
+[CARGO_INFO_CLAY]
+base = "Argille generiche, per la produzione di materiali da costruzione e altri usi industriali."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Prodotti chimici, saponi, agenti abrasivi ecc. per uso industriale e domestico. Principalmente liquidi, ma possono anche essere in polvere o solidi (come la sabbia per sabbiatura)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Sottoprodotto della produzione di coke, un liquido denso e a lento flusso."
+
+[CARGO_INFO_COFFEE]
+base = "Chicchi di caffè grezzi o tostati."
+
+[CARGO_INFO_COKE]
+base = "Carbone che è stato riscaldato in un forno a coke, producendo un combustibile composto quasi interamente da carbonio."
+
+[CARGO_INFO_COMPONENTS]
+base = "Componenti ingegneristici di alto valore, come apparecchiature elettriche, motori, trasformatori, apparecchiature di controllo, sistemi idraulici e pneumatici, pompe, valvole e componenti del gruppo motopropulsore."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Prodotti in calcestruzzo come blocchi, travi e pannelli. Può anche essere gestito come calcestruzzo preconfezionato in autocarri betoniera."
+
+[CARGO_INFO_COPPER]
+base = "Metallo di rame raffinato, in bobine, lingotti, ecc."
+
+[CARGO_INFO_DIAMONDS]
+base = "Sono per sempre, ecc."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Petrolio per cucinare e per il consumo."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Componenti elettrici ed elettronici, motori, controller, quadri elettrici, illuminazione ecc."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Macchinari, carburante, pezzi di ricambio, prodotti in legno, tubi, esplosivi e altre forniture per miniere e industrie simili."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Esplosivi civili per l'industria mineraria, edile ecc."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Macchinari, carburante, pezzi di ricambio, fertilizzanti e altre forniture per aziende agricole, foreste e industrie simili."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Utilizzato nella produzione di acciaio. Leghe di ferro e altri elementi, tra cui manganese, nichel, cromo, alluminio, silicio e tungsteno. Aggregati grigi, di dimensioni e forma simili a pezzi di carbone."
+
+[CARGO_INFO_FERROCHROME]
+base = "Utilizzato nella produzione di leghe e acciaio inossidabile, una lega di cromo e ferro. Aggregati grigi, di dimensioni e forma simili a pezzi di carbone."
+
+[CARGO_INFO_FLOUR]
+base = "Prodotti a base di cereali in polvere, come farina e amido, trasportati in sacchi o in sfuso coperto."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Parti metalliche per l'assemblaggio in oggetti più grandi."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Ingredienti utilizzati nella lavorazione alimentare, come conservanti, aromi, coloranti e ausiliari di processo."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Alimenti conservati congelati durante il trasporto e l'immagazzinamento."
+
+[CARGO_INFO_FRUITS]
+base = "Frutta fresca e secca, come banane, agrumi, uva, bacche, ananas, uva passa e simili."
+
+[CARGO_INFO_GRAIN]
+base = "Grano, orzo ecc."
+
+[CARGO_INFO_HARDWARE]
+base = "Per uso domestico e edile. Attrezzi, utensili, fissaggi, accessori, in metallo e altri materiali."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Materiali a base di carbonio speciali come coke di petrolio calcinato, pece, catrame di alto valore e nero di carbone, utilizzati nei processi metallurgici e chimici."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Gas industriali utilizzati nella lavorazione chimica, nella lavorazione dei metalli e nella saldatura, trasportati in bombole o in autocisterne a pressione."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Tamburi, argani, cinghie, ganci, pulegge, pistoni idraulici e altri componenti per gru, sollevatori, ascensori ecc."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Frazioni leggere di petrolio utilizzate come materie prime chimiche, trasportate come liquidi sfusi."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Principalmente mucche, maiali e pecore per la produzione di carne. Si possono mangiare anche altri animali."
+
+[CARGO_INFO_LYE]
+base = "Prodotto chimico industriale. Conosciuto anche come lisciva o soda caustica. Solitamente trasportato come liquido."
+
+[CARGO_INFO_KAOLIN]
+base = "Minerale industriale, noto anche come caolino, utilizzato principalmente nella produzione di carta e plastica."
+
+[CARGO_INFO_MANGANESE]
+base = "Minerale di manganese, utilizzato principalmente nella produzione di acciaio."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Macchinari, pezzi di ricambio, carburante, materiali da costruzione e altre forniture per porti, moli e industrie simili."
+
+[CARGO_INFO_METAL]
+base = "Metalli generici, come acciaio, alluminio o altri metalli comuni."
+
+[CARGO_INFO_METHANOL]
+base = "Alcol industriale utilizzato come materia prima chimica e combustibile, trasportato come liquido sfuso."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Prodotti zuccherini intermedi per la raffinazione, la fermentazione e usi industriali. I granuli appiccicosi vengono gestiti come merce sfusa coperta; lo sciroppo denso come liquido; entrambi possono essere confezionati."
+
+[CARGO_INFO_NITROGEN]
+base = "Gas industriale. Trasportato in modo criogenico come gas compresso liquefatto."
+
+[CARGO_INFO_OIL]
+base = "Petrolio greggio non raffinato trasportato come liquido sfuso."
+
+[CARGO_INFO_OXYGEN]
+base = "Gas industriale. Trasportato in modo criogenico come gas compresso liquefatto."
+
+[CARGO_INFO_PACKAGING]
+base = "Scatole, bottiglie, barattoli, lattine, ecc."
+
+[CARGO_INFO_PEAT]
+base = "Biomassa proveniente da torbiere, estratta per uso come combustibile e in orticoltura."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Prodotti petroliferi raffinati come benzina, diesel, cherosene, GPL, olio combustibile e bunker fuel, trasportati come liquidi sfusi o gas liquefatto."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Acido industriale utilizzato principalmente nella produzione di fertilizzanti e prodotti chimici, trasportato come liquido sfuso."
+
+[CARGO_INFO_PIG_IRON]
+base = "Ferro base proveniente da un altoforno, in forma liquida fusa o di lingotti solidi."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Cotone, lino, juta e materiali simili, per la produzione di tessuti e materiali compositi."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Apparecchiature motorizzate e sistemi meccanici utilizzati in edifici, industrie e aziende agricole. Trasportati come unità complete o come principali sottoassiemi."
+
+[CARGO_INFO_PETROL]
+base = "Benzina, diesel e carburanti simili."
+
+[CARGO_INFO_PLASTICS]
+base = "Plastica grezza per ulteriori lavorazioni. Solitamente trasportata sotto forma di perline di resina."
+
+[CARGO_INFO_PIPEWORK]
+base = "Serbatoi di stoccaggio, recipienti a pressione, silos, bombole di gas e assemblaggi di tubi, per uso in edifici urbani, industrie e aziende agricole."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Prodotti chimici industriali utilizzati nella produzione e nella lavorazione, trasportati come liquidi, polveri, gas o merci confezionate."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Minerali di sulfuro, fusi per produrre una varietà di prodotti industriali."
+
+[CARGO_INFO_QUICKLIME]
+base = "Ossido di calcio, noto anche come calce viva. Trasportato come polvere fine che deve essere mantenuta asciutta."
+
+[CARGO_INFO_REBAR]
+base = "Barre d'acciaio grezze e sottili, ampiamente utilizzate per rinforzare le strutture in calcestruzzo. Trasportate in rotoli o in mazzi di barre dritte."
+
+[CARGO_INFO_RUBBER]
+base = "Principalmente lattice naturale."
+
+[CARGO_INFO_SALT]
+base = "Prodotto chimico industriale molto diffuso. Solitamente trasportato come merce sfusa che deve essere mantenuta asciutta."
+
+[CARGO_INFO_SAND]
+base = "Sabbia grossolana per l'edilizia, o sabbia di silice fine per la produzione di vetro e la fusione dei metalli. Trasportata in sfuso o in polvere."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Sigilli flessibili, guarnizioni, tubi, cinghie, tappetini, boccole, ecc., realizzati in gomma o materiali simili."
+
+[CARGO_INFO_SLAG]
+base = "Prodotto di scarto della produzione di ferro e acciaio."
+
+[CARGO_INFO_SODA_ASH]
+base = "Prodotto chimico industriale. In forma di polvere bianca."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Fusi d'acciaio semilavorati. Rettangolari, quadrati o rotondi in sezione trasversale."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Fusi d'acciaio grezzi che richiedono ulteriori lavorazioni. I lingotti possono essere piccoli o molto grandi. I profili tipici dei lingotti sono rettangolari o rotondi."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Barriletti d'acciaio, come tondi, quadrati, piatti e altri profili. Trasportati come prodotti lunghi e dritti."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Lunghi tubi d'acciaio rotondi per il trasporto di liquidi in condotte, edifici, industrie, ecc."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Lamiere e sezioni d'acciaio laminato: travi a I, travi a H, canali, ecc. Trasportati come prodotti lunghi e dritti."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Lamiera e strisce d'acciaio sottili laminate, ampiamente utilizzate per fabbricare altri prodotti. Trasportate come fogli piatti o in rotoli."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Fusi d'acciaio semilavorati. Sempre piatti e rettangolari in sezione trasversale."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Lungo tubo cavo con sezione circolare, rettangolare o di altro tipo. Utilizzato per la fabbricazione di strutture e macchinari."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Fil di ferro e barre sottili. Trasportati principalmente sotto forma di rotoli."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Cime e cavi prodotti tirando tondino d'acciaio a un diametro minore, per poi attorcigliarli in cime fasciate."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Acciaio di qualità strutturale sotto forma di sezioni laminate (travi a I, travi a H, ecc.), di piastre piane o di sezioni e travi prefabbricate saldate a partire da piastre."
+
+[CARGO_INFO_SULPHUR]
+base = "Prodotto chimico industriale molto diffuso. Di colore giallo brillante, in polvere o in forma liquida."
+
+[CARGO_INFO_TIMBER]
+base = "Prodotti di legno lavorati provenienti da segherie o industrie simili."
+
+[CARGO_INFO_TIN]
+base = "Ingotti."
+
+[CARGO_INFO_TINPLATE]
+base = "Lamina d'acciaio sottile rivestita di stagno per resistere alla corrosione, usata principalmente per lattine, contenitori e altri imballaggi."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Filatura fine usata per rinforzare gli pneumatici. Trasportata sotto forma di bobina."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Cabine, cofani, portiere e strutture simili della carrozzeria per la produzione di veicoli."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Motori a combustione interna e componenti correlati del gruppo motopropulsore, come trasmissione e assi di trasmissione."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Componenti per la produzione di veicoli, come telaio e sospensioni, parti elettriche, finiture esterne e componenti interni."
+
+[CARGO_INFO_VEHICLES]
+base = "Principalmente camion. O automobili. O furgoni. Forse trattori."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Forniture per il taglio e la saldatura dei metalli, come elettrodi da saldatura, utensili e gas industriali, tra cui acetilene, argon, propano, ossigeno e azoto."
+
+[CARGO_INFO_WOOD]
+base = "Tronchi provenienti da una foresta."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Fibra di legno lavorata, utilizzata principalmente per la produzione di carta, trasportata sotto forma di balle o polpa sfusa."
+
+[CARGO_INFO_WOOL]
+base = "Bale."
+
+[CARGO_INFO_ZINC]
+base = "Ingotti."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

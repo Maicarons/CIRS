@@ -1,0 +1,37 @@
+=== first Hangul (EA..ED) occurrence ===
+at 4865592
+  HEX: F9 96 FA 01 FA 89 08 E1 4A 01 5B EC 8F DD 4E B8 BA B8 F8 01 FA 8F 38 EF 47 02 FB FB B9 4A C1 8C DD FE 01 05 88 BA 04 03 03 FB FB 8F 76 CF 85 02 FD FD 89 8C E8 42 C2 AA D0 7E E1 B2 01 FD C9 36 8F BA D0 C6 01 F7 89 8C 01 08 89 36 02 03 F7 88 BA 8F FF 02 00 F9 E1 4B C2 52 EB 9C 99 F0 02 FA F9 89 36 8F FF D0 C6 B2 52 EB 5A 9A 2E 88 BA 8F FF B1 4A A8 42 A9 F0 89
+  UTF8: '���\x01��\x08�J\x01[��N����\x01��8�G\x02���J����\x01\x05��\x04\x03\x03���vυ\x02�����Bª�~�\x01��6����\x01���\x01\x08�6\x02\x03�����\x02\x00��K�R뜙�\x02���6���ƲR�Z�.�����J�B���6�����ֺ.���������J��\x01��t�����J��d�6�����J�6�������\x02���l��\x01\x00�\x12\x00\x00�\x03\x00\x00\x04\x00(\x00@\x00��\x00\x00\x03\x00\x00\x00�\x03�\x06�\x0c�\x18\x04\x05\x06\x05\x06�"�1�@�O\x02\x06\x06�?�B�p�\x7f�>\x01\x05�~\x07\x05\x07\x05\x05\x03\x05\x05�������>\x04[["\x07��\x05\x05\x06\x07\x05'
+  LAT1: 'ù\x96ú\x01ú\x89\x08áJ\x01[ì\x8fÝN¸º¸ø\x01ú\x8f8ïG\x02ûû¹JÁ\x8cÝþ\x01\x05\x88º\x04\x03\x03ûû\x8fvÏ\x85\x02ýý\x89\x8cèBÂªÐ~á²\x01ýÉ6\x8fºÐÆ\x01÷\x89\x8c\x01\x08\x896\x02\x03÷\x88º\x8fÿ\x02\x00ùáKÂRë\x9c\x99ð\x02úù\x896\x8fÿÐÆ²RëZ\x9a.\x88º\x8fÿ±J¨B©ð\x896\x8fÿ\x89ÎÂÖº.\x89²\x8fÿ\x8fÝêÖÉJÒè\x01÷\x89t\x8fÿ\x8fÙÁJã\x9cãd\x896\x8fÿ\x8fÿ\x89J\x896\x8fÿ\x8fÿ\x8fÝê\x94\x02ýý\x8al\x8fÿ\x01\x00\x96\x12\x00\x00ï\x03\x00\x00\x04\x00(\x00@\x00áÿ\x00\x00\x03\x00\x00\x00è\x03Ð\x06\xa0\x0cÐ\x18\x04\x05\x06\x05\x06\x88"\x881\x88@\x98O\x02\x06\x06è?\x88B\x88p\x88\x7f\x98>\x01\x05è~\x07\x05\x07\x05\x05\x03\x05\x05\x88¦\x88µ\x88ÄÈ>\x04[["\x07àÀ\x05\x05\x06\x07\x05'
+
+=== first Cyrillic (D0/D1) occurrence ===
+at 59724
+  HEX: 61 72 64 00 54 69 6E 20 4D 69 6E 65 00 54 75 62 65 20 26 20 50 69 70 65 20 4D 69 6C 6C 00 54 79 72 65 20 50 6C 61 6E 74 00 56 69 6E 65 79 61 72 64 00 57 68 61 72 66 00 57 69 72 65 20 52 6F 64 20 4D 69 6C 6C 00 5A 69 6E 63 20 4D 69 6E 65 00 15 08 00 00 FF 04 00 FF 1B 35 D0 98 46 6F 72 20 6D 61 78 69 6D 75 6D 20 70 72 6F 64 75 63 74 69 6F 6E 20 72 61 74 65 2C
+  UTF8: 'ard\x00Tin Mine\x00Tube & Pipe Mill\x00Tyre Plant\x00Vineyard\x00Wharf\x00Wire Rod Mill\x00Zinc Mine\x00\x15\x08\x00\x00�\x04\x00�\x1b5ИFor maximum production rate, supply �all �required cargos at least once every three minutes.\x00\x00 �(supplied)\x00�For maximum production rate, supply �both �required cargos at least on'
+  LAT1: 'ard\x00Tin Mine\x00Tube & Pipe Mill\x00Tyre Plant\x00Vineyard\x00Wharf\x00Wire Rod Mill\x00Zinc Mine\x00\x15\x08\x00\x00ÿ\x04\x00ÿ\x1b5Ð\x98For maximum production rate, supply \x94all \x98required cargos at least once every three minutes.\x00\x00 \x98(supplied)\x00\x98For maximum production rate, supply \x94both \x98required cargos at least on'
+
+=== first CJK E4..E9 occurrence ===
+at 1493
+  HEX: D8 A8 D8 AF D8 A7 D9 84 20 D8 A7 D9 84 D8 B5 D9 86 D8 A7 D8 B9 D8 A9 20 D8 A7 D9 84 D9 85 D8 AC D8 AA D9 85 D8 B9 D9 8A D8 A9 20 D9 84 D9 80 20 43 49 52 53 20 63 69 72 73 2D 35 2E 32 2E 30 2D 32 2D 67 61 37 39 64 64 38 65 31 63 00 54 4E 41 4D 45 56 C3 9E 43 49 52 53 20 E7 A4 BE E5 8C BA E4 BA A7 E4 B8 9A E6 9B BF E6 8D A2 E9 9B 86 20 63 69 72 73 2D 35 2E 32
+  UTF8: 'بدال الصناعة المجتمعية لـ CIRS cirs-5.2.0-2-ga79dd8e1c\x00TNAMEVÞCIRS 社区产业替换集 cirs-5.2.0-2-ga79dd8e1c\x00TDESC\x02Þ\ue08eCIRS Community Industry Replacement Set\r\ue098Eine von der Community gepflegte Abspaltung von FIRS, ursprünglich von andythen'
+  LAT1: 'Ø¨Ø¯Ø§Ù\x84 Ø§Ù\x84ØµÙ\x86Ø§Ø¹Ø© Ø§Ù\x84Ù\x85Ø¬ØªÙ\x85Ø¹Ù\x8aØ© Ù\x84Ù\x80 CIRS cirs-5.2.0-2-ga79dd8e1c\x00TNAMEVÃ\x9eCIRS ç¤¾å\x8cºäº§ä¸\x9aæ\x9b¿æ\x8d¢é\x9b\x86 cirs-5.2.0-2-ga79dd8e1c\x00TDESC\x02Ã\x9eî\x82\x8eCIRS Community Industry Replacement Set\rî\x82\x98Eine von der Community gepflegte Abspaltung von FIRS, ursprÃ¼nglich von andythen'
+
+=== literal NML escape sequences in GRF ===
+  \UXXXX     0
+  \uXXXX     0
+  \xXX       0
+
+=== count of raw Hangul / Cyrillic / CJK 3-byte sequences ===
+  Hangul EA-ED: 2567
+  Cyrillic D0-D1: 19868
+  CJK E4-E9: 7209
+  Arabic D8-DB: 40272
+  Kana E3 81-83: 0
+
+=== exact korean STR_GRF_NAME fragments ===
+  'CIRS '                  113
+  '커뮤니티'                   0
+  '산업 교체 세트'               0
+  '커뮤니티 산업'                0
+  '温和西部'                   1
+  'CIRS 社区产业替换集'           1

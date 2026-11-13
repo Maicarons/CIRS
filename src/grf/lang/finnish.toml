@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x35"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS-yhteisöteollisuuden korvaussetti"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS-yhteisöteollisuuden korvaussetti{}{BLACK}Yhteisön ylläpitämä FIRS-haara, jonka ovat alun perin kehittäneet andythenorth, FooBar, planetmaker, Terkhen ja Yexo monien muiden avustuksella. {SILVER}Katso verkkosivusto saadaksesi lisätietoja, myös siitä, miten CIRS:ää käytetään. {BLACK}Lisenssi: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Kalastus- ja ruoppausalueiden sekä öljylauttojen etäisyys rannasta ruutuina."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Jokainen talousvaihtoehto mahdollistaa erilaisen yhdistelmän rahteja ja teollisuuksia.{}{}Yksinkertaisesta pelityylistä pitävien kannattaa kokeilla {SILVER}pelkistettyjä {BLACK}talouksia, joissa on vähemmän teollisuustyyppejä ja rahteja verrattuna muihin CIRS:in talouksiin.{}{}CIRS:in kotisivu antaa tarkempaa tietoa erilaisista talouksista."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Meriteollisuuden vähimmäismatka rantaan, ruutuina"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Talous"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Ei rajaa"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Toimita laatikoita vaadittuna tehostettuun alkutuotantoon (oletus 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Tarvikelaatikoita vaaditaan lietsottuun alkutuotantoon (oletusarvo 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Maatilat, kaivokset, ja vastaavat teollisuudet lisäävät tuotantoa kun tarvikelaatikoita  toimitetaan, ensin {SILVER}Tehostetuksi{BLACK}, ja sitten {SILVER}Lietsotuksi{BLACK}, jos tarvikelaatikoita toimitetaan tarpeeksi.{}{}Esiasetellut arvot ovat hyviä, mutta jos haluat, voit vaihtaa niitä tässä.{}{}Rahtivaatimukset satama-tyyppisille teollisuuksille ovat  8x täällä asetettuihin arvoihin nähden."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Tehostettu alkutuotannon taso (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Lietsottu alkutuotannon taso (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Tuotanto maatiloilla, kaivoksissa ja vastaavissa teollisuuslaitoksissa kun toimitusvaatimukset ovat saavutettu (prosentteina {SILVER}normaalista {BLACK}tuotantotasosta)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Lauhkea ilmasto, pelkistetty"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Pohjoinen ilmasto, pelkistetty"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Trooppinen, pelkistetty"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Kuumassa maassa"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Teräskylä"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS-maisemointiesineet"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS sisältää joukon maisemointiesineitä, joita pelaajat voivat sijoittaa saadakseen tietyt teollisuudet näyttämään suuremmilta. Maisemointiesineillä ei ole vaikutusta pelin kulkuun. Maisemointiesineet voidaan ottaa käyttöön tai poistaa käytöstä."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(valinnainen)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = "{BLACK}(toimitettu)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Tuottaa maksimitasolla jos {WHITE}mitä tahansa {BLACK}vaadittua rahtia on toimitettu."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Saavuttaaksesi mahdollisimman suuren tuotantotahdin, toimita {WHITE}molemmat {BLACK}vaaditut rahtit vähintään kerran kolmessa minuutissa."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Saavuttaaksesi mahdollisimman suuren tuotantotahdin, toimita {WHITE}kaikki {BLACK}vaadittavat kuormat vähintään kerran kolmessa minuutissa."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Saavuttaaksesi mahdollisimman suuren tuotantotahdin, toimita {WHITE}ainakin kaksi {BLACK}vaadittua rahtia vähintään kerran kolmessa minuutissa."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Saavuttaaksesi mahdollisimman suuren tuotantotahdin, toimita {WHITE}ainakin kolme {BLACK}vaadittua rahtia vähintään kerran kolmessa minuutissa."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Tuotanto on suoraan verrannollinen kaupungin väestöön. Rahtia tuotetaan joka minuutti vähintään {WHITE}{SIGNED_WORD} yksikköä{BLACK} ja enintään {WHITE}{SIGNED_WORD} yksikköä{BLACK}."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Nykyinen tuotanto: {YELLOW}Normaali{}{}{BLACK}Kuljeta {SIGNED_WORD} laatikkoa tarvikkeita kolmen kuukauden aikana {WHITE}tehostetulle{BLACK} tuotannolle.{}{WHITE}Lietsotulle{BLACK} tuotannolle  kuljeta {SIGNED_WORD} laatikkoa tarvikkeita."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Nykyinen tuotanto: {YELLOW}Tehostettu{}{}{BLACK}Kuljeta {SIGNED_WORD} laatikkoa tarvikkeita kolmen kuukauden sisällä pitääksesi tämän tason.{}{WHITE}Lietsotulle{BLACK} tuotannolle kuljeta {SIGNED_WORD} laatikkoa tarvikkeita."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Nykyinen tuotanto: {YELLOW}Lietsottu{}{}{BLACK}Kuljeta {SKIP}{SIGNED_WORD} laatikkoa tarvikkeita kolmen kuukauden sisällä pitääksesi tämän tason"
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Nykyinen tuotanto: {YELLOW}Normaali{}{}{BLACK}Kuljeta {SIGNED_WORD} yksikköä rahtia kolmen kuukauden aikana {WHITE}tehostetulle{BLACK} tuotannolle.{}{WHITE}Lietsotulle{BLACK} tuotannolle kuljeta {SIGNED_WORD} yksikköä rahtia."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Nykyinen tuotanto: {YELLOW}Tehostettu{}{}{BLACK}Kuljeta {SIGNED_WORD} yksikköä tavaroita kolmen kuukauden sisällä pitääksesi tämän tason.{}{WHITE}Lietsotulle{BLACK} tuotannolle  kuljeta {SIGNED_WORD} yksikköä tavaroita."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Nykyinen tuotanto: {YELLOW}Lietsottu{}{}{BLACK}Kuljeta {SKIP}{SIGNED_WORD} yksikköä tavaroita kolmen kuukauden sisällä pitääksesi tämän tason"
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS vaatii OpenTTD 1.7.0:n (tai trunk-versioita käyttäville r27769:n)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Yhteensopimaton setti: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Yhteensopimaton parametri: {ORANGE}CanSet-parametrin 2 arvon on oltava 0, jotta se toimii CIRS:n kanssa."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Yhteensopimaton parametri: {ORANGE}NA City Setin parametrin 2 arvon on oltava 0, jotta se toimii CIRS:n kanssa."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Yhteensopimaton versio: {ORANGE}Total Town Replacement Setin on oltava versio 3.11 tai uudempi."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "sijoitettava lumirajan alapuolelle."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "ei voida sijoittaa jyrkkiin rinteisiin."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida sijoittaa lumeen, aavikoille eikä rinteisiin."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida rahoittaa lumelle tai aavikolle."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida rahoittaa lumelle tai aavikolle."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida rahoittaa lumelle tai aavikolle."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida sijoittaa aavikoille."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida sijoittaa lumeen."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Sijainti: {YELLOW}Voidaan sijoittaa vain lumelle."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida rahoittaa lumelle tai aavikolle."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida rahoittaa lumelle tai aavikolle."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Sijainti: {YELLOW}Ei voida rahoittaa lumelle tai aavikolle."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Happo"
+cargo_unit = "{VOLUME} happoa"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Kerrostumat"
+cargo_unit = "{WEIGHT} aggregaatteja"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Alumiini"
+cargo_unit = "{WEIGHT} alumiinia"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumiinidioksidi"
+cargo_unit = "{WEIGHT} alumiinia"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Ammoniakin ja typpihapon tuotteet"
+cargo_unit = "{VOLUME} ammoniakin ja typpihappotuotteiden tilavuus"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhydriittikivi"
+cargo_unit = "{WEIGHT} anhydriittikiveä"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Omenat"
+cargo_unit = "{WEIGHT} omenoita"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Pavut"
+cargo_unit = "{WEIGHT} papuja"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumi"
+cargo_unit = "{VOLUME} bitumin tilavuus"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Rakennusmateriaalit"
+cargo_unit = "{WEIGHT} rakennusmateriaaleja"
+cid = "{TINYFONT}RK"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Hiilimusta"
+cargo_unit = "{WEIGHT} hiilimustaa"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Maniokki"
+cargo_unit = "{WEIGHT} maniokkia"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_CAST_IRON]
+name = "Valurauta"
+cargo_unit = "{WEIGHT} valurautaa"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Sementti"
+cargo_unit = "{WEIGHT} sementtiä"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Kemialliset välituotteet"
+cargo_unit = "{VOLUME} kemiallisten välituotteiden tilavuus"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Kemikaalit"
+cargo_unit = "{VOLUME} kemikaaleja"
+cid = "{TINYFONT}KM"
+
+[STR_CARGO_CHLORINE]
+name = "Kloori"
+cargo_unit = "{VOLUME} kloorin tilavuus"
+cid = "{TINYFONT}KM"
+
+[STR_CARGO_CLAY]
+name = "Savi"
+cargo_unit = "{WEIGHT} savea"
+cid = "{TINYFONT}SV"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Puhdistusaineet"
+cargo_unit = "{WEIGHT} puhdistusaineita"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kahvi"
+cargo_unit = "{WEIGHT} säkkiä{P 0 \"\" s} kahvia"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_COAL_TAR]
+name = "Hiiliterva"
+cargo_unit = "{VOLUME} kivihiiltäterin tilavuus"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Koksi"
+cargo_unit = "{WEIGHT} koksia"
+cid = "{TINYFONT}KO"
+
+[STR_CARGO_COMPONENTS]
+name = "Tarkkuuskomponentit"
+cargo_unit = "Tarkkuuskomponenttien {WEIGHT}"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betonituotteet"
+cargo_unit = "{WEIGHT} betonituotteiden paino"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Kupari"
+cargo_unit = "{WEIGHT} kuparia"
+cid = "{TINYFONT}KU"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Ruokaöljy"
+cargo_unit = "{VOLUME} ruokaöljyä"
+cid = "{TINYFONT}RÖ"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Sähköosat"
+cargo_unit = "{WEIGHT} sähköosien paino"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Tekniset tarvikkeet"
+cargo_unit = "{SIGNED_WORD} laatikko{P 0 \"\" a} teknisiä tarvikkeita"
+cid = "{TINYFONT}TK"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Räjähteet"
+cargo_unit = "{WEIGHT} räjähteiden paino"
+cid = "{TINYFONT}RÄ"
+
+[STR_CARGO_FERROALLOYS]
+name = "Rautaseokset"
+cargo_unit = "{WEIGHT} ferrolegurointien paino"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Kalat ja merenelävät"
+cargo_unit = "{WEIGHT} kalojen ja merenelävien paino"
+cid = "{TINYFONT}KL"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Maataloustarvikkeet"
+cargo_unit = "{SIGNED_WORD} laatikko{P 0 \"\" a} maataloustarvikkeita"
+cid = "{TINYFONT}MT"
+
+[STR_CARGO_FERTILISER]
+name = "Lannoite"
+cargo_unit = "{WEIGHT} lannoitetta"
+cid = "{TINYFONT}LN"
+
+[STR_CARGO_FLOUR]
+name = "Jauho ja tärkkelys"
+cargo_unit = "{WEIGHT} jauhojen ja tärkkelyksen paino"
+cid = "{TINYFONT}LN"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Elintarvikkeiden lisäaineet"
+cargo_unit = "{WEIGHT} elintarvikelisäaineiden paino"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Ruoka ja juomat"
+cargo_unit = "{WEIGHT} elintarvikkeiden ja juomien paino"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Muovaukset ja valut"
+cargo_unit = "{WEIGHT} muotolevien ja valujen paino"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Pakastettu ruoka"
+cargo_unit = "{WEIGHT} pakastettujen elintarvikkeiden paino"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Hedelmät"
+cargo_unit = "{WEIGHT} hedelmiä"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Lasituotteet"
+cargo_unit = "{WEIGHT} lasituotteiden paino"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Rautatavara ja viimeistelymateriaalit"
+cargo_unit = "Laitteiden ja viimeistelyjen {WEIGHT}"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Teollisuushiilet"
+cargo_unit = "Teollisten hiilien {WEIGHT}"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Teollisuuskaasut"
+cargo_unit = "{VOLUME} teollisuuskaasujen tilavuus"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Kaoliini"
+cargo_unit = "{WEIGHT} kaoliinia"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Kevyet hiilivetyt"
+cargo_unit = "{VOLUME} kevyiden hiilivetyjen tilavuus"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Kalkkikivi"
+cargo_unit = "{WEIGHT} kalkkikiveä"
+cid = "{TINYFONT}KK"
+
+[STR_CARGO_LOGS]
+name = "Puutavaratukit"
+cargo_unit = "Puutavarapölkkyjen {WEIGHT}"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Natriumhydroksidi"
+cargo_unit = "{VOLUME} natriumhydroksidia"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Metanoli"
+cargo_unit = "{VOLUME} metanolin tilavuus"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Maito"
+cargo_unit = "{VOLUME} maitoa"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MANGANESE]
+name = "Mangaani"
+cargo_unit = "{WEIGHT} mangaania"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Liha"
+cargo_unit = "Lihan {WEIGHT}"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Baryitti ja fluoriitti"
+cargo_unit = "{WEIGHT} baryyttiä ja fluoriittia"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Mineraalitäyteaineet"
+cargo_unit = "Mineraalitäyteaineiden {WEIGHT}"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Raakasokeri ja melassi"
+cargo_unit = "Raakasokerin ja melassin {WEIGHT}"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitraatit"
+cargo_unit = "{WEIGHT} nitraatteja"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Öljy"
+cargo_unit = "{VOLUME} typen tilavuus"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Pähkinöitä"
+cargo_unit = "Pähkinöiden {WEIGHT}"
+cid = "{TINYFONT}PÄ"
+
+[STR_CARGO_OXYGEN]
+name = "Hapen"
+cargo_unit = "{VOLUME} hapen tilavuus"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Pakkaukset"
+cargo_unit = "{WEIGHT} pakkauksia"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Maalit ja pinnoitteet"
+cargo_unit = "{VOLUME} maalien ja pinnoitteiden tilavuus"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Turve"
+cargo_unit = "{WEIGHT} turvetta"
+cid = "{TINYFONT}TU"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Bensiinipolttoaine"
+cargo_unit = "{VOLUME} bensiinipolttoainetta"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_PIPEWORK]
+name = "Varastotankit ja putkistot"
+cargo_unit = "Varastointisäiliöiden ja putkistojen {WEIGHT}"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfaatti"
+cargo_unit = "{WEIGHT} fosfaattia"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Fosforihappo"
+cargo_unit = "{VOLUME} fosforihapon tilavuus"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Takkirauta"
+cargo_unit = "{WEIGHT} takkirautaa"
+cid = "{TINYFONT}TR"
+
+[STR_CARGO_PLASTICS]
+name = "Muovit ja hartsit"
+cargo_unit = "Muovien ja hartsien {WEIGHT}"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Koneet ja laitteet"
+cargo_unit = "Kasvien ja koneiden {WEIGHT}"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Kaliumkarbonaatti"
+cargo_unit = "{WEIGHT} kaliumkarbonaattia"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Prosessikemikaalit"
+cargo_unit = "Prosessikemikaalien {WEIGHT}"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pumput ja venttiilit"
+cargo_unit = "Pumppujen ja venttiilien {WEIGHT}"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pyriittimalmi"
+cargo_unit = "{WEIGHT} pyriittimalmia"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Poltettu kalkki"
+cargo_unit = "{WEIGHT} poltettua kalkkia"
+cid = "{TINYFONT}SK"
+
+[STR_CARGO_REBAR]
+name = "Raudoitusrauta"
+cargo_unit = "Armeerintankojen {WEIGHT}"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Suola"
+cargo_unit = "{WEIGHT} suolaa"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_SAND]
+name = "Hiekka"
+cargo_unit = "{WEIGHT} hiekkaa"
+cid = "{TINYFONT}HK"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Romumetalli"
+cargo_unit = "{WEIGHT} romumetallia"
+cid = "{TINYFONT}RM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Tiivisteet, letkut ja remmit"
+cargo_unit = "Tiivisteiden, letkujen ja hihnojen {WEIGHT}"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Kuona"
+cargo_unit = "{WEIGHT} kuonaa"
+cid = "{TINYFONT}KN"
+
+[STR_CARGO_SODA_ASH]
+name = "Soodatuhka"
+cargo_unit = "{WEIGHT} soodatuhkaa"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL]
+name = "Teräs"
+cargo_unit = "{WEIGHT} terästä"
+cid = "{TINYFONT}TE"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billetit ja bloomit"
+cargo_unit = "{WEIGHT} billettejä ja bloomeja"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Teräsharkot"
+cargo_unit = "Teräsharkojen {WEIGHT}"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Kauppiasbari"
+cargo_unit = "Kaupallisen baarin {WEIGHT}"
+cid = "{TINYFONT}SJ"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Teräsputki"
+cargo_unit = "Teräsputkien {WEIGHT}"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Teräslaatta"
+cargo_unit = "Teräslaattojen {WEIGHT}"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Teräspelti ja -nauha"
+cargo_unit = "Teräslevyjen ja -nauhojen {WEIGHT}"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Teräslevy"
+cargo_unit = "Teräslaattojen {WEIGHT}"
+cid = "{TINYFONT}TE"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Teräsputki"
+cargo_unit = "Teräsputkien {WEIGHT}"
+cid = "{TINYFONT}KV"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Teräslankapalkki"
+cargo_unit = "Teräslankatankojen {WEIGHT}"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Rakennusteräs"
+cargo_unit = "{WEIGHT} rakennusterästä"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Rikki"
+cargo_unit = "{WEIGHT} rikkiä"
+cid = "{TINYFONT}RI"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Riittihappo"
+cargo_unit = "{VOLUME} rikkihappoa"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Puutuotteet"
+cargo_unit = "{WEIGHT} puutuotteita"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_TIN]
+name = "Tina"
+cargo_unit = "{WEIGHT} tinaa"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Tinapelti"
+cargo_unit = "{WEIGHT} tinalevyä"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Renkaiden vahaköysi"
+cargo_unit = "{WEIGHT} rengaskuorilankaa"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Renkaat"
+cargo_unit = "{WEIGHT} renkaita"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Vihannekset"
+cargo_unit = "{WEIGHT} vihanneksia"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Ajoneuvojen korit"
+cargo_unit = "{WEIGHT} ajoneuvojen koreja"
+cid = "{TINYFONT}AR"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Moottorit ja voimansiirto"
+cargo_unit = "{WEIGHT} moottorien ja voimansiirron paino"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Ajoneuvojen osat"
+cargo_unit = "{WEIGHT} ajoneuvojen osia"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_VEHICLES]
+name = "Ajoneuvot"
+cargo_unit = "{WEIGHT} ajoneuvoja"
+cid = "{TINYFONT}AJ"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Hitsauskulutustarvikkeet"
+cargo_unit = "{WEIGHT} hitsauskulutustarvikkeita"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Puusellu"
+cargo_unit = "{WEIGHT} puusellua"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Villa"
+cargo_unit = "{SIGNED_WORD} paali{P 0 \"\" a} villaa"
+cid = "{TINYFONT}VL"
+
+[STR_CARGO_ZINC]
+name = "Sinkki"
+cargo_unit = "{WEIGHT} sinkkiä"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_ZINC_ORE]
+name = "Sinkkimalmi"
+cargo_unit = "{WEIGHT} sinkkimalmia"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "Tavaroiden {WEIGHT}"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Alumiinitehdas"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Ammoniakkikompleksi"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Anhydriittikaivos"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Anhydriittiprosessilaitos"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Kodinkone tehdas"
+
+[STR_IND_ARABLE_FARM]
+base = "Viljelytila"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Ajoneuvotehdas"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Profiili- ja tangomylly"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Happipuhallusmasuuni"
+
+[STR_IND_BLAST_FURNACE]
+base = "Masuuni"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Lastulevytehdas"
+
+[STR_IND_BODY_PLANT]
+base = "Korirakenteet"
+
+[STR_IND_BREWERY]
+base = "Panimo"
+
+[STR_IND_CIDER_MILL]
+base = "Panimo"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Rakennustyömaa" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Hiilimustatehdas"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Selluloosakalvotehdas"
+
+[STR_IND_CEMENT_PLANT]
+base = "Sementtitehdas"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Kemiallinen kompleksitehdas"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Räjähde tehdas"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Kloori-alkalitehdas"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Savenottoalue"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Kahvitila"
+
+[STR_IND_COKE_OVEN]
+base = "Koksiuuni"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Betonitehdas"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Eräkemian tehdas"
+
+[STR_IND_COPPER_SMELTER]
+base = "Kuparinjalostamo"
+
+[STR_IND_CRYO_PLANT]
+base = "Kryotehdas"
+
+[STR_IND_DAIRY]
+base = "Meijeri"
+
+[STR_IND_DAIRY_FARM]
+base = "Maitotila"
+
+[STR_IND_DREDGING_SITE]
+base = "Ruoppausalue"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Elastomeerituotteiden tehdas"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Valokaariuuni"
+
+[STR_IND_ENGINE_PLANT]
+base = "Moottoritehdas"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Tekniikkatehdas"
+
+[STR_IND_FARM]
+base = "Maatila"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Prosessikemikaalitehdas"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Fermentointilaitos"
+
+[STR_IND_FISH_FARM]
+base = "Kalafarmi"
+
+[STR_IND_FISHING_GROUND]
+base = "Kalastusalue"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Kalasatama"
+
+[STR_IND_GRAIN_MILL]
+base = "Viljamylly"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Ruokatehdas"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Teräsmuokkaamo ja valimo"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Pakastetun ruoan tehdas"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Huonekalutehdas"
+
+[STR_IND_GENERAL_STORE]
+base = "Sekatavarakauppa"
+
+[STR_IND_GLASS_WORKS]
+base = "Lasitehdas"
+
+[STR_IND_HERDING_COOP]
+base = "Metsästysleiri"
+
+[STR_IND_HOTEL]
+base = "Hotelli"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Pakastettujen jälkiruokien tehdas"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Terästehdas"
+
+[STR_IND_SCRAP_YARD]
+base = "Romuttamo"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Kalkkiuuni"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Kalkkikivikaivos"
+
+[STR_IND_MANGANESE_MINE]
+base = "Mangaanikaivos"
+
+[STR_IND_METAL_WORKS]
+base = "Metallityömaa"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Mineraalitäyteaineiden tehdas"
+
+[STR_IND_NITRATE_MINE]
+base = "Nitraattikaivos"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Teollisten kemikaalien tehdas"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Öljy- ja kemikaaliterminaali"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Hedelmätarha ja sikala"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Pullon- ja tölkkitehdas"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Paperituotteiden tehdas"
+
+[STR_IND_PEATLANDS]
+base = "Turvesuo"
+
+[STR_IND_PETROLPUMP]
+base = "Huoltoasema"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Fosfaattikaivos"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Lannoite- ja happitehdas"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Kaupallinen leipomo"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Putkiliike"
+
+[STR_IND_PLATE_MILL]
+base = "Levytehdas"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Muovimuottitehdas"
+
+[STR_IND_PORT]
+base = "Satama"
+
+[STR_IND_POTASH_MINE]
+base = "Kaliumkarbonaattikaivos"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Voimajärjestelmätehdas"
+
+[STR_IND_POWER_PLANT]
+base = "Voimalaitos"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Tarkkuusosatehdas"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Tuotepakkaaja"
+
+[STR_IND_PYRITE_MINE]
+base = "Pyriittikaivos"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Pyriittipasuttamo"
+
+[STR_IND_QUARRY]
+base = "Hiekanottoalue"
+
+[STR_IND_RANCH]
+base = "Karjatila"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Tieliivestyslaitos"
+
+[STR_IND_SALT_WORKS]
+base = "Suolatehdas"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Kuonankäsittelytehdas"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Soodatuhkakaivos"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Valmisruokatehdas"
+
+[STR_IND_STOCKYARD]
+base = "Teurastamo"
+
+[STR_IND_STRIP_MILL]
+base = "Suikalevalssimylly"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Sokerinjalostamo"
+
+[STR_IND_SUPPLY_YARD]
+base = "Tarvikevarasto"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Taapeli"
+
+[STR_IND_TIN_MINE]
+base = "Tinakaivos"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Tinapeltitehdas"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Raiteikkuajoneuvotehdas"
+
+[STR_IND_TRADING_POST]
+base = "Kauppa-asema"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Putki- ja putkivalimo"
+
+[STR_IND_TYRE_PLANT]
+base = "Rengastehdas"
+
+[STR_IND_VINEYARD]
+base = "Viinitarha"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Ajoneuvojen jakelija"
+
+[STR_IND_WHARF]
+base = "Satama"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Lankapalkkitehdas"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Sinkkikaivos"
+
+[STR_IND_ZINC_SMELTER]
+base = "Sinkkisulatus"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING}{STRING}"
+
+[STR_STATION_ANIMALS]
+base = ", hevostori"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Sähkötarvikkeet"
+
+[STR_STATION_AUTOMOTIVE]
+base = ", autoteollisuus"
+
+[STR_STATION_BAKERY]
+base = "Leipomo"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Palkit"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = ", baari, grilli ja huoneet"
+
+[STR_STATION_BARNS]
+base = ", aitat"
+
+[STR_STATION_BARREL_AND_KEG]
+base = ", tynnyri ja lekkeri"
+
+[STR_STATION_BASE]
+base = ", tukikohta"
+
+[STR_STATION_BONEYARD]
+base = ", luumaa"
+
+[STR_STATION_BANK_TOP]
+base = ", pankki"
+
+[STR_STATION_BODY_PLANT]
+base = "Puristukset"
+
+[STR_STATION_BRINE_WORKS]
+base = "Suolaliuostehdas"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Rakennustarvikevarasto"
+
+[STR_STATION_COLLIERY]
+base = ", hiilikaivos"
+
+[STR_STATION_COMPONENTS]
+base = "Komponentit"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Valmisbetoni"
+
+[STR_STATION_COPPER_LODE]
+base = ", kuparisuoni"
+
+[STR_STATION_CREOSOTING]
+base = ", kyllästämö"
+
+[STR_STATION_CRYO_PLANT]
+base = "Kryotehdas"
+
+[STR_STATION_DAIRY_LANE]
+base = ", maitokatu"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Tiivisteet ja letkut"
+
+[STR_STATION_ESTATE]
+base = ", kartano"
+
+[STR_STATION_FACTORY]
+base = "Tehdas"
+
+[STR_STATION_FARM_1]
+base = ", tila"
+
+[STR_STATION_FARM_2]
+base = ", niityt"
+
+[STR_STATION_FARM_3]
+base = ", maatila"
+
+[STR_STATION_FISHMARKET]
+base = ", kalatori"
+
+[STR_STATION_FOOD_CORPORATION]
+base = ", ruokatehdas"
+
+[STR_STATION_FOREST]
+base = ", kuormausalue"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Teräsmestarit"
+
+[STR_STATION_FREEZERS]
+base = "Pakastimet"
+
+[STR_STATION_FURNACE]
+base = ", masuuni"
+
+[STR_STATION_METAL_WORKS]
+base = "Metallituotteet"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = ", paja"
+
+[STR_STATION_HERDING_COOP]
+base = ", maja"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = ", teollisuusalue"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = ", ranta"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = ", laskualue"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Rantaviiva"
+
+[STR_STATION_IRONSTONE]
+base = ", rautakivi"
+
+[STR_STATION_KILNS]
+base = ", polttouunit"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = ", kimberliittiesiintymä"
+
+[STR_STATION_LIMESTONE_MINES]
+base = ", kalkkikivikaivos"
+
+[STR_STATION_MANGANESE_MINES]
+base = ", mangaanikaivokset"
+
+[STR_STATION_MILL]
+base = ", mylly"
+
+[STR_STATION_MILLS]
+base = "Myllyt"
+
+[STR_STATION_MINES]
+base = "Pääasiassa luonnonlateksia."
+
+[STR_STATION_MOULDINGS]
+base = ", valut"
+
+[STR_STATION_OIL_RIG]
+base = ", kenttä"
+
+[STR_STATION_ORCHARDS]
+base = ", puutarha"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Virtaviiva"
+
+[STR_STATION_PIT]
+base = ", monttu"
+
+[STR_STATION_PLANT]
+base = "Tehdas"
+
+[STR_STATION_PLANTATION]
+base = ", plantaasi"
+
+[STR_STATION_PLATE_MILL]
+base = "Levykorttialue"
+
+[STR_STATION_POTASH_MINE]
+base = "Pääasiassa lehmät, siat ja lampaat lihan tuottamiseksi. Myös muita eläimiä voidaan syödä."
+
+[STR_STATION_POWERHUNGRY]
+base = ", voimalaitos"
+
+[STR_STATION_POWERTRAIN]
+base = "Voimansiirto"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Koneet ja laitteet"
+
+[STR_STATION_PUMPS]
+base = ", pumput"
+
+[STR_STATION_PYRITES]
+base = ", pyriittiesiintymä"
+
+[STR_STATION_REFINERY]
+base = ", jalostamo"
+
+[STR_STATION_ROD_MILL]
+base = "Sauvamylly"
+
+[STR_STATION_RUBBER_COMPANY]
+base = ", kumitehdas"
+
+[STR_STATION_SALTPETER_WORKS]
+base = ", ruutitehdas"
+
+[STR_STATION_SEAFOOD]
+base = "Merenelävät"
+
+[STR_STATION_SHARP_STREET]
+base = ", teräväkatu"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = ", matalikot"
+
+[STR_STATION_SILO]
+base = ", siilo"
+
+[STR_STATION_SMELTER]
+base = ", sulatto"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Hiilipolttouuni"
+
+[STR_STATION_SOUPS]
+base = "Keitot"
+
+[STR_STATION_STRIP_MILL]
+base = "Kelauslinja"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = ", sokerinjalostamo"
+
+[STR_STATION_TANK_FARM]
+base = ", tankkifarmi"
+
+[STR_STATION_TAPPERS_SHED]
+base = ", kierteytysvaja"
+
+[STR_STATION_TOWN_3]
+base = ", kauppa"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Käytäväkoneiden tehdas"
+
+[STR_STATION_TRONA_BEDS]
+base = ", karbonaattiesiintymä"
+
+[STR_STATION_TUBE_MILL]
+base = "Putkivalimo"
+
+[STR_STATION_WATER]
+base = ", hiekkasärkkä"
+
+[STR_STATION_WELLS]
+base = ", lähteet"
+
+[STR_STATION_WHEAL]
+base = "Kaivoskuoppa"
+
+[STR_STATION_WINERY]
+base = ", viinitila"
+
+[STR_STATION_WORKS]
+base = ", paja"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Kuorma-autoparkki"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "MAA"
+
+[STR_BADGE_SEA]
+base = "MERI"

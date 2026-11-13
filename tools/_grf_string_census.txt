@@ -1,0 +1,116 @@
+=== C3 9E-marked UTF-8 strings physically stored in cirs.grf ===
+total C3 9E strings: 4220
+  latin_or_ascii 2705
+  tamil          548
+  arabic         488
+  cjk            479
+
+=== samples per script ===
+  latin_or_ascii:
+    @113 CIRS - Ensemble d’industries communautaires de remplacement cirs-5.2.0-2-ga79dd8e1c
+    @291 Komunuma Industria Anstataŭiga Arĝo de CIRS cirs-5.2.0-2-ga79dd8e1c
+    @760 CIRS Közösségi Ipari Pótlócsomag cirs-5.2.0-2-ga79dd8e1c
+    @830 Setul de înlocuire a industriilor comunitare CIRS cirs-5.2.0-2-ga79dd8e1c
+    @979 CIRS Community-Industri-Ersättningspaket cirs-5.2.0-2-ga79dd8e1c
+    @1053 CIRS-i kogukonna tööstuse asendussett cirs-5.2.0-2-ga79dd8e1c
+  tamil:
+    @369 CIRS சமூகத் தொழில் மாற்றுத் தொகுப்பு cirs-5.2.0-2-ga79dd8e1c
+    @2782 CIRS சமூகத் தொழில் மாற்றுத் தொகுப்பு
+    @8082 பொருளாதாரம்
+    @9877 ஒவ்வொரு பொருளாதாரமும் சரக்குகள் மற்றும் தொழில்களின் வெவ்வேறு சேர்க்கையை வழங்குகிறது.
+    @15134 மிதமான அடிப்படை
+    @15733 ஆர்க்டிக் பேசிக்
+  arabic:
+    @1382 مجموعة استبدال الصناعة المجتمعية لـ CIRS cirs-5.2.0-2-ga79dd8e1c
+    @7192 مجموعة CIRS البديلة للصناعات المجتمعية
+    @8312 الاقتصاد
+    @14297 توفر كل اقتصاد مزيجًا مختلفًا من البضائع والصناعات.
+    @15558 معتدل أساسي
+    @16103 أساسي القطب الشمالي
+  cjk:
+    @1486 CIRS 社区产业替换集 cirs-5.2.0-2-ga79dd8e1c
+    @7624 CIRS 社区工业替换套装
+    @8337 经济模式
+    @14718 每种经济模式都提供不同的货物与产业组合。
+    @15588 温带基础
+    @16148 寒带基础
+
+=== nmlc-warning lines in korean.lng / croatian.lng / czech.lng ===
+  --- korean
+    56: STR_CARGO_ACID_NAME                                   :{G=m}산
+    57: STR_CARGO_ACID_CARGO_UNIT                             :산 {VOLUME}
+    114: STR_CARGO_COFFEE_CARGO_UNIT                           :커피 {P 0 "" s} 자루의 {WEIGHT}
+  --- croatian
+    114: STR_CARGO_COFFEE_CARGO_UNIT                           :{WEIGHT} vreća{P 0 "" s} kave
+    115: STR_CARGO_COFFEE_CID                                  :{TINYFONT}KV
+  --- czech
+    114: STR_CARGO_COFFEE_CARGO_UNIT                           :{WEIGHT} pytel{P 0 "" s} kávy
+    115: STR_CARGO_COFFEE_CID                                  :{TINYFONT}KA
+  --- japanese
+    114: STR_CARGO_COFFEE_CARGO_UNIT                           :コーヒー{P 0 "" s}袋の{WEIGHT}
+    115: STR_CARGO_COFFEE_CID                                  :{TINYFONT}CF
+  --- russian
+    83: STR_CARGO_BUILDING_MATERIALS_NAME                     :{G=p}Стройматериалы
+    84: STR_CARGO_BUILDING_MATERIALS_CARGO_UNIT               :{WEIGHT} стройматериалов
+
+=== GLOBAL_PRAGMA in src/grf/lang/*.toml (gender / case / plural / grflangid) ===
+  afrikaans                  grflangid = "0x1b" plural = "0"
+  arabic                     grflangid = "0x3C" plural = "0"
+  belarusian                 grflangid = "0x10" plural = "6"
+  catalan                    grflangid = "0x22" plural = "0"
+  croatian                   grflangid = "0x38" plural = "6"
+  czech                      grflangid = "0x15" plural = "10"
+  danish                     grflangid = "0x2d" plural = "0"
+  dutch                      grflangid = "0x1f" plural = "0"
+  english                    grflangid = "0x01" plural = "0"
+  esperanto                  grflangid = "0x05" plural = "0"
+  estonian                   grflangid = "0x34" plural = "0"
+  finnish                    grflangid = "0x35" plural = "0"
+  french                     grflangid = "0x03" plural = "2"
+  gaelic                     grflangid = "0x13" plural = "13"
+  galician                   grflangid = "0x31" plural = "0"
+  german                     grflangid = "0x02" plural = "0"
+  hungarian                  grflangid = "0x24" plural = "2"
+  indonesian                 grflangid = "0x5a" plural = "1"
+  italian                    grflangid = "0x27" plural = "0"
+  japanese                   grflangid = "0x39" plural = "1"
+  korean                     grflangid = "0x3a" plural = "11"
+  latin                      grflangid = "0x66" plural = "0"
+  luxembourgish              grflangid = "0x23" plural = "0"
+  norwegian_bokmal           grflangid = "0x2f" plural = "0"
+  polish                     grflangid = "0x30" plural = "7"
+  portuguese                 grflangid = "0x36" plural = "0"
+  portuguese_BR              grflangid = "0x37" plural = "2"
+  romanian                   grflangid = "0x28" plural = "0"
+  russian                    grflangid = "0x07" plural = "6"
+  serbian                    grflangid = "0x0d" plural = "6"
+  simplified_chinese         grflangid = "0x56" plural = "1"
+  slovak                     grflangid = "0x16" plural = "10"
+  spanish                    grflangid = "0x04" plural = "0"
+  spanish_MX                 grflangid = "0x55" plural = "0"
+  swedish                    grflangid = "0x2e" plural = "0"
+  tamil                      grflangid = "0x0a" plural = "0"
+  traditional_chinese        grflangid = "0x0c" plural = "1"
+  turkish                    grflangid = "0x3e" plural = "1"
+  welsh                      grflangid = "0x0f" plural = "0"
+
+=== FIRS 4.x corpus headers (gender/case/plural) for the 19 warned languages ===
+  belarusian               ##grflangid 0x10 | ##plural 6 | ##gender p n m f | ##case acc nom pre f abl m n dat p gen
+  catalan                  ##grflangid 0x22 | ##plural 0 | ##gender Masculin Femenin
+  croatian                 ##grflangid 0x38 | ##plural 6 | ##gender middle male female | ##case nom lok aku vok dat ins gen
+  czech                    ##grflangid 0x15 | ##plural 10 | ##gender fp map f mnp m n np | ##case acc nom loc big voc ins dat small gen
+  gaelic                   ##grflangid 0x13 | ##plural 13 | ##gender m f | ##case dat gen nom voc
+  galician                 ##grflangid 0x31 | ##plural 0 | ##gender m f
+  indonesian               ##grflangid 0x5a | ##plural 1
+  italian                  ##grflangid 0x27 | ##plural 0 | ##gender m f | ##case fp fs mp ms
+  japanese                 ##grflangid 0x39 | ##plural 1
+  korean                   ##grflangid 0x3a | ##plural 11 | ##gender m f
+  latin                    ##grflangid 0x66 | ##plural 0 | ##gender m f n mp fp np | ##case abl acc dat gen
+  norwegian_bokmal         ##grflangid 0x2f | ##plural 0 | ##gender masculine feminine neuter | ##case small
+  polish                   ##grflangid 0x30 | ##plural 7 | ##gender m f n | ##case b c d m n w
+  russian                  ##grflangid 0x07 | ##plural 6 | ##gender m f n p | ##case abl acc dat f gen m n nom p pre
+  serbian                  ##grflangid 0x0d | ##plural 6 | ##gender muški ženski srednji | ##case nom big aku vok dat lok ins gen
+  slovak                   ##grflangid 0x16 | ##plural 10 | ##gender m z s | ##case g
+  spanish_MX               ##grflangid 0x55 | ##plural 0 | ##gender m f
+  traditional_chinese      ##grflangid 0x0c | ##plural 1
+  turkish                  ##grflangid 0x3e | ##plural 1 | ##case tamlanan

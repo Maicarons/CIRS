@@ -1,0 +1,150 @@
+catalan | STR_GRF_DESC.base | stops=['per', 'per', 'per']
+  EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIR
+  TR: {ORANGE}Conjunt de substitució d'indústries comunitàries de CIRS{}{BLACK}Una bifurcació de
+catalan | STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT.base | stops=['per', 'per']
+  EN: Supply crates required for Enhanced primary production (default 16)
+  TR: Caixes de subministrament necessàries per a la producció primària millorada (per defecte, 
+catalan | STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT.base | stops=['per', 'per']
+  EN: Supply crates required for Gung-ho primary production (default 80)
+  TR: Caixes de subministrament necessàries per a la producció primària Gung-ho (per defecte, 80
+catalan | STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT.base | stops=['per', 'per']
+  EN: Farms, mines and similar industries will increase production when supply crates are delive
+  TR: Les granges, les mines i les indústries similars augmentaran la producció quan s'entreguin
+catalan | STR_PRIMARY_PRODUCTION_1X.base | stops=['per', 'per']
+  EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production
+  TR: {BLACK}Producció actual: {YELLOW}Normal {}{}{BLACK}Per a una producció {WHITE}Millorada {B
+catalan | STR_PRIMARY_PRODUCTION_2X.base | stops=['per', 'per']
+  EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED
+  TR: {BLACK}Producció actual: {YELLOW}Millorada {}{}{BLACK}Per mantenir aquest nivell, lliureu 
+danish | STR_GRF_DESC.base | stops=['set', 'for']
+  EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIR
+  TR: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En fællesskabsvedligeholdt forgren
+danish | STR_PRIMARY_PRODUCTION_1X.base | stops=['for', 'for']
+  EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production
+  TR: {BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produkt
+danish | STR_PRIMARY_PRODUCTION_2X.base | stops=['for', 'for']
+  EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED
+  TR: {BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau s
+danish | STR_PORT_PRODUCTION_1X.base | stops=['for', 'for']
+  EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production
+  TR: {BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produkt
+danish | STR_PORT_PRODUCTION_2X.base | stops=['for', 'for']
+  EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED
+  TR: {BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau s
+danish | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base | stops=['set', 'for']
+  EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to 
+  TR: {ORANGE}E02: {YELLOW}Ukompatibel parameter: {ORANGE}NA City Set-parameter 2 skal være 0 fo
+esperanto | DOC_TRANS_HISTORY_P1 | stops=['per', 'per']
+  EN: FIRS 3.x and 4.x shipped translations as .lng files managed with the #openttdcoop Web Tran
+  TR: FIRS 3.x kaj 4.x liveris tradukojn kiel .lng dosierojn administratajn per la #openttdcoop 
+italian | STR_GRF_NAME.base | stops=['set', 'per']
+  EN: CIRS Community Industry Replacement Set
+  TR: CIRS – Set di sostituzione per industrie comunitarie
+italian | STR_GRF_DESC.base | stops=['set', 'per', 'per']
+  EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIR
+  TR: {ORANGE}CIRS – Set di sostituzione per industrie comunitarie{}{BLACK}Un fork di FIRS mante
+italian | STR_PARAM_DESC_OBJECTS.base | stops=['set', 'per']
+  EN: CIRS includes a set of landscaping objects, which players can place to make certain indust
+  TR: CIRS include un set di oggetti di arredo paesaggistico che i giocatori possono posizionare
+italian | STR_PRIMARY_PRODUCTION_2X.base | stops=['per', 'per']
+  EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED
+  TR: {BLACK}Produzione attuale: {YELLOW}Elevata{}{}{BLACK}Per mantenere questo livello di produ
+italian | STR_PORT_PRODUCTION_2X.base | stops=['per', 'per']
+  EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED
+  TR: {BLACK}Produzione attuale: {YELLOW}Elevata{}{}{BLACK}Per mantenere questo livello di produ
+italian | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base | stops=['set', 'per']
+  EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to 
+  TR: {ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}NA City Set parameter 2 deve essere 
+luxembourgish | STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL.base | stops=['all', 'all']
+  EN: {BLACK}For maximum production rate, supply {WHITE}all {BLACK}required cargos at least once
+  TR: {BLACK}Fir déi maximal Produktiounsgeschwindegkeet, liwwert {WHITE}all {BLACK}nëtzeg Frach
+luxembourgish | DOC_TRANS_HOW_P2 | stops=['all', 'all']
+  EN: Copy english.toml to a new file named after your language, translate every base value, and
+  TR: Kopéiert english.toml an eng nei Fichier genannt nodeems déng Sprooch, iwwersetzt all Basi
+norwegian_bokmal | STR_PARAM_DESC_ECONOMIES.base | stops=['for', 'for']
+  EN: Each economy provides a different combination of cargos and industries.{}{}For players who
+  TR: Hver økonomi tilbyr en ulik kombinasjon av varer og industrier.{}{}For spillere som ønsker
+norwegian_bokmal | STR_PRIMARY_PRODUCTION_1X.base | stops=['for', 'for']
+  EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production
+  TR: {BLACK}Produserer nå: {YELLOW}Normal{}{}{BLACK}For {WHITE}Forbedret produksjon{BLACK} må d
+norwegian_bokmal | STR_PRIMARY_PRODUCTION_2X.base | stops=['for', 'for']
+  EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED
+  TR: {BLACK}Produserer nå: {YELLOW}Forbedret{}{}{BLACK}For å opprettholde dette nivået, lever {
+norwegian_bokmal | STR_PORT_PRODUCTION_1X.base | stops=['for', 'for']
+  EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production
+  TR: {BLACK}Produserer nå: {YELLOW}Normal{}{}{BLACK}For {WHITE}Forbedret {BLACK}produksjon må d
+norwegian_bokmal | STR_PORT_PRODUCTION_2X.base | stops=['for', 'for']
+  EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED
+  TR: {BLACK}Produserer nå: {YELLOW}Forbedret{}{}{BLACK}For å opprettholde dette nivået, lever {
+norwegian_bokmal | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base | stops=['set', 'for']
+  EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to 
+  TR: {ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}NA City Set-parameter 2 må være 0 for
+TOTAL en_stopwords samples 27
+
+=== HIGH_OVERLAP samples (all 25) ===
+afrikaans | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (parser vir Markdown-teksformaat)
+croatian | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (parser formata teksta Markdown)
+czech | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (parser formátu Markdown)
+czech | DOC_TRANS_HOW_P1
+  EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript
+  TR: Text hry se nachází v src/grf/lang/*.toml (řetězce NewGRF) a src/gs/lang/*.toml (řetězce G
+dutch | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (parser voor het Markdown-tekstformaat)
+french | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (analyseur de format texte Markdown)
+gaelic | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (mìneadair air format teacsa Markdown)
+german | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (Parser für das Markdown-Textformat)
+german | DOC_TRANS_HOW_P1
+  EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript
+  TR: Der Spieltext befindet sich in src/grf/lang/*.toml (NewGRF-Zeichenketten) und src/gs/lang/
+indonesian | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (pengurai format teks Markdown)
+latin | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (parser formati textualis Markdown)
+luxembourgish | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (Parser fir das Markdown-Textformat)
+luxembourgish | DOC_TRANS_HOW_P1
+  EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript
+  TR: De Spilltext ass an src/grf/lang/*.toml (NewGRF Strings) a src/gs/lang/*.toml (GameScript 
+polish | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (parser formatu tekstowego Markdown)
+portuguese_BR | DOC_TRANS_HOW_P1
+  EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript
+  TR: O texto do jogo está em src/grf/lang/*.toml (strings NewGRF) e src/gs/lang/*.toml (strings
+romanian | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (analizor pentru formatul de text Markdown)
+serbian | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (parser formata teksta Markdown)
+slovak | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (parser formátu Markdown)
+slovak | DOC_TRANS_HOW_P1
+  EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript
+  TR: Text hry sa nachádza v src/grf/lang/*.toml (reťazce NewGRF) a src/gs/lang/*.toml (reťazce 
+welsh | DOC_CR_DEP_MARKDOWN
+  EN: Markdown (Markdown text format parser)
+  TR: Markdown (dadansoddwr format testun Markdown)
+welsh | CARGO_INFO_CARBON_STEEL.base
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, ingots a slabs.
+welsh | CARGO_INFO_CAST_IRON.base
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, ingots a slabs.

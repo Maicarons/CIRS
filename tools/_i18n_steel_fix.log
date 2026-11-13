@@ -1,0 +1,11 @@
+work refs indexed: 20277
+CHANGES 7  RESIDUAL_WRONG_BEFORE 7
+  extra_strings_latin.toml CARGO_INFO_CARBON_STEEL.base | Billetae, flores, lingotae et laeae. => Billetae, blooms, lingotae et laeae.
+  extra_strings_latin.toml CARGO_INFO_CAST_IRON.base | Billetae, flores, lingotae et laeae. => Billetae, blooms, lingotae et laeae.
+  extra_strings_portuguese_BR.toml CARGO_INFO_CARBON_STEEL.base | Billets, flores, lingotes e lajes. => Billets, blooms, lingotes e lajes.
+  extra_strings_portuguese_BR.toml CARGO_INFO_CAST_IRON.base | Billets, flores, lingotes e lajes. => Billets, blooms, lingotes e lajes.
+  afrikaans.toml STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | Billette & Bloeiings => Billette & blooms
+  latin.toml STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | Billetae & flores => Billetae & blooms
+  latin.toml STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | {WEIGHT} billetes & blooms => {WEIGHT} Billets & blooms
+RESIDUAL_WRONG_AFTER 0
+PATCHED 7 OUT_JSONL_APPENDS 7 langs 3

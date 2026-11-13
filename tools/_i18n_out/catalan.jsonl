@@ -1,0 +1,605 @@
+{"i":0,"tr":" {BLACK}(opcional)"}
+{"i":1,"tr":" {BLACK}(inclòs)"}
+{"i":2,"tr":"(decimal)"}
+{"i":3,"tr":"."}
+{"i":4,"tr":"Àcid"}
+{"i":5,"tr":"Àgrecs"}
+{"i":6,"tr":"Alumina"}
+{"i":7,"tr":"Alumini"}
+{"i":8,"tr":"Amoníac i productes nítrics"}
+{"i":9,"tr":"Complex d’amoníac"}
+{"i":10,"tr":"Mina d’anhidrita"}
+{"i":11,"tr":"Planta de processament d’anhidrita"}
+{"i":12,"tr":"Roca d’anhidrita"}
+{"i":13,"tr":"Pomes"}
+{"i":14,"tr":"Fàbrica d’electrodomèstics"}
+{"i":15,"tr":"Són per sempre, etc."}
+{"i":16,"tr":"Automoció"}
+{"i":17,"tr":"Disponible en totes les economies. Es produeix i s’accepta als edificis de la ciutat, així com en algunes indústries."}
+{"i":18,"tr":"Disponible en totes les economies. Es produeix i s’accepta als edificis de la ciutat."}
+{"i":19,"tr":"Forn"}
+{"i":20,"tr":"Bales."}
+{"i":21,"tr":"Part superior del banc"}
+{"i":22,"tr":"Bar, graella i habitacions"}
+{"i":23,"tr":"Esguerres"}
+{"i":24,"tr":"Barril i bóta"}
+{"i":25,"tr":"Bari i fluorita"}
+{"i":26,"tr":"Base"}
+{"i":27,"tr":"Forn d’oxigen bàsic"}
+{"i":28,"tr":"Fer bàsic procedent d’un alt forn, en estat líquid fos o en lingots sòlids."}
+{"i":29,"tr":"Fàbrica química per lots"}
+{"i":30,"tr":"Billets i flors"}
+{"i":31,"tr":"Billets, flors, lingots i lloses."}
+{"i":32,"tr":"Biomassa procedent de turberes, extreta com a combustible i per a l’horticultura."}
+{"i":33,"tr":"Bitum"}
+{"i":34,"tr":"Alt forn"}
+{"i":35,"tr":"Planta de cossos"}
+{"i":36,"tr":"Depòsit de restes"}
+{"i":37,"tr":"Fàbrica d'ampolles i llaunes"}
+{"i":38,"tr":"Caixes, ampolles, pots, llaunes, etc."}
+{"i":39,"tr":"Fàbrica de salmorra"}
+{"i":40,"tr":"Subproducte de la producció de coque, un líquid espès que flueix lentament."}
+{"i":41,"tr":"CIRS"}
+{"i":42,"tr":"Conjunt de substitució d'indústries comunitàries de CIRS"}
+{"i":43,"tr":"CIRS inclou un conjunt d'objectes de paisatgisme que els jugadors poden col·locar per fer que determinades indústries semblin més grans. Els objectes de paisatge no tenen cap efecte en la jugabilitat. Els objectes de paisatgisme es poden activar o desactivar."}
+{"i":44,"tr":"Objectes de paisatgisme de CIRS"}
+{"i":45,"tr":"Cabines, capòts, portes i estructures de carrosseria similars per a la producció de vehicles."}
+{"i":46,"tr":"Òxid de calci, també conegut com a calç cremada. Es transporta en forma de pols fi que s'ha de mantenir sec."}
+{"i":47,"tr":"Negre de carboni"}
+{"i":48,"tr":"Fàbrica de negre de carboni"}
+{"i":49,"tr":"Mandioca"}
+{"i":50,"tr":"Fosa"}
+{"i":51,"tr":"Productes de fosa com blocs, bigues i panells. També es poden transportar com a formigó premesclat en camions barcamescladors."}
+{"i":52,"tr":"Fàbrica de films de cel·lulosa"}
+{"i":53,"tr":"Cement"}
+{"i":54,"tr":"Cement, vidre, components metàl·lics, productes de fusta, canonades i materials de construcció similars."}
+{"i":55,"tr":"Complex químic"}
+{"i":56,"tr":"Intermediaris químics"}
+{"i":57,"tr":"Productes químics, sabons, agents abrasius, etc., per a ús industrial i domèstic. Principalment líquids, però també poden ser en pols o sòlids (com ara sorra per a sablatge)."}
+{"i":58,"tr":"Argila caolínica"}
+{"i":59,"tr":"Fàbrica de contraplà"}
+{"i":60,"tr":"Planta de clor-alcalins"}
+{"i":61,"tr":"Clor"}
+{"i":62,"tr":"Explosius civils per a la mineria, la construcció, etc."}
+{"i":63,"tr":"Agents de neteja"}
+{"i":64,"tr":"Carbó"}
+{"i":65,"tr":"Mina de carbó"}
+{"i":66,"tr":"Catranya de carbó"}
+{"i":67,"tr":"Carbó que s’ha escalfat en un forn de coque, produint un combustible que és gairebé carbó pur."}
+{"i":68,"tr":"Sorra gruixuda per a la construcció, o sorra fina de silici per a fabricar vidre i fer fosa de metalls. Es transporta a granel o en pols."}
+{"i":69,"tr":"Línia d’enrotllament"}
+{"i":70,"tr":"Coque"}
+{"i":71,"tr":"Forn de coque"}
+{"i":72,"tr":"Mina de carbó"}
+{"i":73,"tr":"Forn comercial"}
+{"i":74,"tr":"Mongetes comunes, mongetes de favà, soja i llegums comestibles similars."}
+{"i":75,"tr":"Economia complexa amb indústries del ferro, de l’acer i de fabricació pesant."}
+{"i":76,"tr":"Economia complexa amb moltes indústries i càrregues."}
+{"i":77,"tr":"Economia complexa amb moltes indústries i càrregues. Inspirada en l’Àfrica centro-occidental. Es recomana utilitzar-la amb un clima subtropical."}
+{"i":78,"tr":"Components"}
+{"i":79,"tr":"Components per a la producció de vehicles, com ara xassissos, components de suspensió, peces elèctriques, acabats exteriors i peces interiors."}
+{"i":80,"tr":"Central de formigó"}
+{"i":81,"tr":"Productes de formigó"}
+{"i":82,"tr":"Obra de construcció"}
+{"i":83,"tr":"Fàbrica d’aliments de conveniència"}
+{"i":84,"tr":"Coure"}
+{"i":85,"tr":"Veta de coure"}
+{"i":86,"tr":"Mina de coure"}
+{"i":87,"tr":"Minerai de coure"}
+{"i":88,"tr":"Foneria de coure"}
+{"i":89,"tr":"Cotó, lli, jutxa i materials similars, per produir tèxtils i materials compostos."}
+{"i":90,"tr":"Obra de rastellera"}
+{"i":91,"tr":"Creosotació"}
+{"i":92,"tr":"Petroli cru, no refinat, transportat com a líquid a granel."}
+{"i":93,"tr":"Planta criogènica"}
+{"i":94,"tr":"Granja làctia"}
+{"i":95,"tr":"Carrer làctiu"}
+{"i":96,"tr":"Mina de diamants"}
+{"i":97,"tr":"Diamants"}
+{"i":98,"tr":"Tambors, winxes, cadenes, ganxos, polees, xafles hidràuliques i altres peces per a grúes, elevadors, ascensors, etc."}
+{"i":99,"tr":"Cement sec en forma de pols o clinker."}
+{"i":100,"tr":"Cada economia ofereix una combinació diferent de càrregues i indústries.{}{}Per als jugadors que vulguin una jugabilitat senzilla, les economies {SILVER}Bàsiques {BLACK}contenen menys indústries i càrregues que altres economies de CIRS.{}{}El lloc web de CIRS proporciona informació detallada sobre cada economia."}
+{"i":101,"tr":"Economies"}
+{"i":102,"tr":"Oli comestible"}
+{"i":103,"tr":"Conre d'arrel comestible, també conegut com maniòc i yuca."}
+{"i":104,"tr":"Fàbrica de productes d'elastòmer"}
+{"i":105,"tr":"Forn d'arc elèctric"}
+{"i":106,"tr":"Peces elèctriques"}
+{"i":107,"tr":"Components elèctrics i electrònics, motors, controladors, quadres elèctrics, llums, etc."}
+{"i":108,"tr":"Productes elèctrics"}
+{"i":109,"tr":"Planta de motors"}
+{"i":110,"tr":"Taller d'enginyeria"}
+{"i":111,"tr":"Motors i trens de transmissió"}
+{"i":112,"tr":"Nivell de producció primària millorat (%)"}
+{"i":113,"tr":"Finca"}
+{"i":114,"tr":"Explosius"}
+{"i":115,"tr":"Fàbrica d'explosius"}
+{"i":116,"tr":"Fàbrica"}
+{"i":117,"tr":"Granja"}
+{"i":118,"tr":"Les granges, les mines i les indústries similars augmentaran la producció quan s'entreguin caixes de subministrament, primer a {SILVER}Enhanced{BLACK} i després a {SILVER}Gung-ho{BLACK}, si s'entreguen prou caixes.  {}{}Els valors predeterminats són adequats, però, si cal, els podeu canviar aquí.  {}{}Els requisits de càrrega per a les indústries de tipus port seran 8 vegades superiors als valors establerts aquí."}
+{"i":119,"tr":"Planta de fermentació"}
+{"i":120,"tr":"Ferrolegis"}
+{"i":121,"tr":"Fertilitzant"}
+{"i":122,"tr":"Fàbrica de fertilitzants i àcids"}
+{"i":123,"tr":"Camp"}
+{"i":124,"tr":"Fil fin utilitzat per reforçar els pneumàtics. Es transporta en bobina."}
+{"i":125,"tr":"Peix i marisc"}
+{"i":126,"tr":"Granja piscícola"}
+{"i":127,"tr":"Sells flexibles, juntes, mànigues, corretges, estores, buixos, etc., fabricats amb cautxú o materials similars."}
+{"i":128,"tr":"Farina i midó"}
+{"i":129,"tr":"Línia de transport"}
+{"i":130,"tr":"Aliments"}
+{"i":131,"tr":"Aliments i begudes"}
+{"i":132,"tr":"Additius alimentaris"}
+{"i":133,"tr":"Corporació Alimentària"}
+{"i":134,"tr":"Aliments conservats congelats durant el transport i l'emmagatzematge."}
+{"i":135,"tr":"Per a ús domèstic i de construcció. Eines, utensilis, fixadors i accessoris de metall i altres materials."}
+{"i":136,"tr":"Bosc"}
+{"i":137,"tr":"Forjats i peces foses"}
+{"i":138,"tr":"Congeladors"}
+{"i":139,"tr":"Fruita fresca i seca, com ara plàtans, cítrics, raïm, baies, pinya, panses i productes similars."}
+{"i":140,"tr":"Fàbrica de postres congelats"}
+{"i":141,"tr":"Aliments congelats"}
+{"i":142,"tr":"Planta d'aliments congelats"}
+{"i":143,"tr":"Planta fructícola"}
+{"i":144,"tr":"Molí de cereals"}
+{"i":145,"tr":"GPL(v2)"}
+{"i":146,"tr":"GRFID"}
+{"i":147,"tr":"Argiles genèriques, per produir materials de construcció i per a altres usos industrials."}
+{"i":148,"tr":"Metal·lú genèric, com ara acer, alumini o altres metalls comuns."}
+{"i":149,"tr":"Productes químics orgànics i inorgànics genèrics, manipulats com a líquids, gasos, materials a granel coberts, pols o articles per peces."}
+{"i":150,"tr":"Bigues"}
+{"i":151,"tr":"Productes de vidre"}
+{"i":152,"tr":"Mercaderies"}
+{"i":153,"tr":"Cereals"}
+{"i":155,"tr":"Gravilla, sorra, pedra trencada i materials similars utilitzats en la construcció."}
+{"i":156,"tr":"Nivell de producció primària Gung-ho (%)"}
+{"i":157,"tr":"Hardware i acabats"}
+{"i":158,"tr":"Cooperativa ramadera"}
+{"i":159,"tr":"Components d'enginyeria d'alt valor, com ara equipament elèctric, motors, transformadors, equips de control, sistemes hidràulics i pneumàtics, bombes, vàlvules i equipament del tren motriu."}
+{"i":160,"tr":"ID"}
+{"i":161,"tr":"Carbons industrials"}
+{"i":162,"tr":"Planta de productes químics industrials"}
+{"i":163,"tr":"Gasos industrials"}
+{"i":164,"tr":"Àcid industrial utilitzat principalment en la producció de fertilitzants i productes químics, transportat com a líquid a granel."}
+{"i":165,"tr":"Àcids industrials, com ara l'àcid clorhídric, nítric i sulfúric."}
+{"i":166,"tr":"Alcohol industrial utilitzat com a matèria primera química i combustible, transportat com a líquid a granel."}
+{"i":167,"tr":"Producte químic industrial, que normalment es transporta de manera criogènica com a gas comprimit liquifat."}
+{"i":168,"tr":"Producte químic industrial. També conegut com a lleixiu o soda càustica. Normalment es transporta en estat líquid."}
+{"i":169,"tr":"Producte químic industrial. En forma de pols blanc."}
+{"i":170,"tr":"Productes químics industrials derivats de l’amoniac, com ara l’amoniac, l’àcid nítric i l’urea. Es transporten com a líquids, de manera criogènica com a gas liquificat o en forma de granel sec."}
+{"i":171,"tr":"Productes químics industrials utilitzats en la fabricació i el processament, transportats com a líquids, pols, gasos o mercaderies empaquetades."}
+{"i":172,"tr":"Gas industrial. Es transporta de manera criogènica com a gas comprimit liquificat."}
+{"i":173,"tr":"Gasos industrials utilitzats en el processament químic, la metal·lúrgia i la soldadura, transportats en bombones o camions cisterna a pressió."}
+{"i":174,"tr":"Mineral industrial, també conegut com a caolí, utilitzat principalment en la producció de paper i plàstics."}
+{"i":175,"tr":"Minerals industrials utilitzats en el processament químic. La baritina s’utilitza en productes químics de bari i com a emplenador; la fluorita, en la química del fluor i en fluxos metal·lúrgics."}
+{"i":176,"tr":"Llengots."}
+{"i":177,"tr":"Ingredients utilitzats en el processament alimentari, com ara conservants, aromatitzants, colorants i auxiliars de processament."}
+{"i":178,"tr":"Pols de carboni intensament negra, utilitzada en pneumàtics, plàstics i pigments. Es manipula com a pols."}
+{"i":179,"tr":"Productes químics intermedis utilitzats com a matèries primeres per a un processament industrial posterior."}
+{"i":180,"tr":"Productes intermediaris de sucre per al refinat, la fermentació i usos industrials. Els grànuls enganxosos es manipulen com a producte a granel cobert; el xarop espès, com a líquid; qualsevol dels dos es pot empaquetar."}
+{"i":181,"tr":"Motors de combustió interna i components relacionats del tren motriu, com ara transmissions i eixos de transmissió."}
+{"i":182,"tr":"Minerai de ferro"}
+{"i":183,"tr":"Mina de minerai de ferro"}
+{"i":184,"tr":"Pedra de ferro"}
+{"i":185,"tr":"Forns"}
+{"i":186,"tr":"Dipòsits de kimberlita"}
+{"i":187,"tr":"TERRE"}
+{"i":188,"tr":"Passarel·la d'aterratge"}
+{"i":189,"tr":"Hidrocarburs lleugers"}
+{"i":190,"tr":"Fraccions lleugeres de petroli utilitzades com a matèries primeres químiques, transportades com a líquids a granel."}
+{"i":191,"tr":"Pedra calcària"}
+{"i":192,"tr":"Mina de calcària"}
+{"i":193,"tr":"Mines de calcària"}
+{"i":194,"tr":"Bestiar"}
+{"i":195,"tr":"Descàrrega de troncs"}
+{"i":196,"tr":"Troncs"}
+{"i":197,"tr":"Troncs procedents d’un bosc."}
+{"i":198,"tr":"Tub llarg i buit de secció rodona, rectangular o d’altres formes. S’utilitza per fabricar estructures i maquinària."}
+{"i":199,"tr":"Tubularies llargues d’acer rodó per transportar líquids en canonades, edificis, indústries, etc."}
+{"i":200,"tr":"Maquinària, combustible, peces, fertilitzants i altres subministraments per a granges, boscos i indústries similars."}
+{"i":201,"tr":"Maquinària, combustible, peces, productes de fusta, canonades, explosius i altres subministraments per a mines i indústries similars."}
+{"i":202,"tr":"Maquinària, peces, combustible, materials de construcció i altres subministraments per a ports, molls i indústries similars."}
+{"i":203,"tr":"Correu"}
+{"i":204,"tr":"Mil"}
+{"i":205,"tr":"Manganès"}
+{"i":206,"tr":"Mina de manganès"}
+{"i":207,"tr":"Mines de manganès"}
+{"i":208,"tr":"Minerai de manganès, utilitzat principalment en la producció d'acer."}
+{"i":209,"tr":"Prats"}
+{"i":210,"tr":"Carne"}
+{"i":211,"tr":"Bar de comerciants"}
+{"i":212,"tr":"Fàbrica de metall"}
+{"i":213,"tr":"Peças metàl·liques per muntar-les en objectes més grans."}
+{"i":214,"tr":"Objectes metàl·lics"}
+{"i":215,"tr":"Metanol"}
+{"i":216,"tr":"Mild Mild West"}
+{"i":217,"tr":"Mills"}
+{"i":218,"tr":"Emplidors minerals"}
+{"i":219,"tr":"Fàbrica d’emplidors minerals"}
+{"i":220,"tr":"Minerals"}
+{"i":221,"tr":"Mines"}
+{"i":222,"tr":"Principalment vaques, porcs i ovelles per a la producció de carn. També es poden menjar altres animals."}
+{"i":223,"tr":"Principalment làtex natural."}
+{"i":224,"tr":"Principalment camions. O cotxes. O camions lleugers. Potser tractors."}
+{"i":225,"tr":"Moldejos"}
+{"i":226,"tr":"Nitrogen"}
+{"i":227,"tr":"Metalls no ferrosos, com ara coure, níquel, zinc i plom."}
+{"i":228,"tr":"Nou"}
+{"i":229,"tr":"Oli"}
+{"i":230,"tr":"Terminal d'oli i productes químics"}
+{"i":231,"tr":"Refineria d'oli"}
+{"i":232,"tr":"Plataforma petroliera"}
+{"i":233,"tr":"Pous de petroli"}
+{"i":234,"tr":"Oli per cuinar i per al consum."}
+{"i":235,"tr":"Horts fruiters"}
+{"i":236,"tr":"Oxigen"}
+{"i":237,"tr":"Envasos"}
+{"i":238,"tr":"Pintures i revestiments"}
+{"i":239,"tr":"Paper"}
+{"i":240,"tr":"Fàbrica de paper"}
+{"i":241,"tr":"Fàbrica de productes de paper"}
+{"i":242,"tr":"Passatgers"}
+{"i":243,"tr":"Torba"}
+{"i":244,"tr":"Terrenys de torba"}
+{"i":245,"tr":"Gasolina, gasoil i combustibles similars."}
+{"i":246,"tr":"Fosfat"}
+{"i":247,"tr":"Mina de fosfat"}
+{"i":248,"tr":"Àcid fosfòric"}
+{"i":249,"tr":"Ferro-gusa"}
+{"i":250,"tr":"Taller de canonades"}
+{"i":251,"tr":"Planta"}
+{"i":252,"tr":"Plantes i maquinària"}
+{"i":253,"tr":"Fàbrica de peces de plàstic molderes"}
+{"i":254,"tr":"Plàstics i resines"}
+{"i":255,"tr":"Mòbil de xapa"}
+{"i":256,"tr":"Potable"}
+{"i":257,"tr":"Potassa"}
+{"i":258,"tr":"Mina de potassa"}
+{"i":259,"tr":"Productes de cereals en pols, com ara farina i midó, transportats en sacs o en granel cobert."}
+{"i":260,"tr":"Fàbrica de sistemes d’alimentació"}
+{"i":261,"tr":"Equipament motoritzat i sistemes mecànics utilitzats en edificis, indústries i explotacions agrícoles. Transportats com a unitats completes o com a subconjunts principals."}
+{"i":262,"tr":"Transmissió"}
+{"i":263,"tr":"Prefabricat"}
+{"i":264,"tr":"Components de precisió"}
+{"i":265,"tr":"Fàbrica de peces de precisió"}
+{"i":266,"tr":"Premsats"}
+{"i":267,"tr":"Productes químics de procés"}
+{"i":268,"tr":"Fàbrica de productes químics de procés"}
+{"i":269,"tr":"Fibra de fusta processada utilitzada principalment per a la producció de paper, transportada en bales o com a pasta a granel."}
+{"i":270,"tr":"Productes de fusta processats procedents d'una serra o d'indústries similars."}
+{"i":271,"tr":"Empaquetador de productes"}
+{"i":272,"tr":"Producció en explotacions agrícoles, mines i indústries similars quan es compleixen els requisits de subministrament (com a percentatge del nivell de producció {SILVER}normal {BLACK})."}
+{"i":273,"tr":"Bombers"}
+{"i":274,"tr":"Bombers i vàlvules"}
+{"i":275,"tr":"Dipòsits de pirita"}
+{"i":276,"tr":"Mina de pirita"}
+{"i":277,"tr":"Minerai de pirita"}
+{"i":278,"tr":"Foneria de pirita"}
+{"i":279,"tr":"Python 3.11+"}
+{"i":280,"tr":"Calç viva"}
+{"i":281,"tr":"Sucre cru i melassa"}
+{"i":282,"tr":"Grans de cafè crus o torrats."}
+{"i":283,"tr":"Plàstic cru per a un processament posterior. Normalment es transporta en forma de grànuls de resina."}
+{"i":284,"tr":"Barres d’acer d’armar"}
+{"i":285,"tr":"Alumini refinat, en bobines, lingots, lloses, etc."}
+{"i":286,"tr":"Coure refinat, en bobines, lingots, etc."}
+{"i":287,"tr":"Productes petroliers refinats, com ara gasolina, gasoil, querosè, GPL, fuel i combustible de búnquer, transportats com a líquids a granel o gas liquefact."}
+{"i":288,"tr":"Reinder Pens"}
+{"i":289,"tr":"Fàbrica Roadstone"}
+{"i":290,"tr":"Molí de barres"}
+{"i":291,"tr":"Plaques i seccions d’acer laminat: bigues en I, bigues en H, canals, etc. Transportats com a productes llargs i rectes."}
+{"i":292,"tr":"Cordons i cables produïts estirant barra d’acer fins a obtenir un diàmetre més petit i, a continuació, torçant-la per formar cordons de feixos."}
+{"i":293,"tr":"Fosa bruta d’acer que requereix un processament addicional. Els lingots poden ser petits o molt grans. Els perfils típics dels lingots són rectangulars o rodons."}
+{"i":294,"tr":"Goma"}
+{"i":295,"tr":"Empresa de goma"}
+{"i":296,"tr":"Platja de goma"}
+{"i":297,"tr":"MAR"}
+{"i":298,"tr":"Sal"}
+{"i":299,"tr":"Salina"}
+{"i":300,"tr":"Fàbrica de salnitre"}
+{"i":301,"tr":"Serradora"}
+{"i":302,"tr":"Marisc"}
+{"i":303,"tr":"Juntes i mànigues"}
+{"i":304,"tr":"Juntes, mànigues i corretges"}
+{"i":305,"tr":"Taller de seccions i barres"}
+{"i":306,"tr":"Peces metàl·liques semiacabades de fosa. Sempre planes i rectangulars en secció transversal."}
+{"i":307,"tr":"Peces metàl·liques semiacabades de fosa. Rectangulars, quadrades o rodones en secció transversal."}
+{"i":308,"tr":"Carrer Sharp"}
+{"i":309,"tr":"Aiguats"}
+{"i":311,"tr":"Silo"}
+{"i":312,"tr":"Economia senzilla. Inspirada per l'Argentina, el Perú i Xile. Es recomana utilitzar-la amb un clima subtropical."}
+{"i":313,"tr":"Economia senzilla. Inspirada per Finlàndia, el nord del Canadà i el nord de Sibèria. Es recomana utilitzar-la amb un clima subàrtic."}
+{"i":314,"tr":"Economia senzilla. Inspirada pel sud-oest del Regne Unit. Es recomana utilitzar-la amb un clima temperat."}
+{"i":315,"tr":"Patí de lloses"}
+{"i":316,"tr":"Escòria"}
+{"i":317,"tr":"Planta de mòlta d'escòria"}
+{"i":318,"tr":"Foneria"}
+{"i":319,"tr":"Cendra sòdica"}
+{"i":320,"tr":"Mina de cendra sòdica"}
+{"i":321,"tr":"Hidròxid de sodi"}
+{"i":322,"tr":"Forne de suro"}
+{"i":323,"tr":"Sopes"}
+{"i":324,"tr":"Materials especials de carboni, com ara coque de petroli calcinat, betum, alquitrans d'alt valor i negre de carboni, utilitzats en processos metal·lúrgics i químics."}
+{"i":325,"tr":"Acè"}
+{"i":326,"tr":"Farga i foneria d'acer"}
+{"i":327,"tr":"Llengots d'acer"}
+{"i":328,"tr":"Taller siderúrgic"}
+{"i":329,"tr":"Tuberia d'acer"}
+{"i":330,"tr":"Placa d'acer"}
+{"i":331,"tr":"Fulla i franja d'acer"}
+{"i":332,"tr":"Llana d'acer"}
+{"i":333,"tr":"Tub d'acer"}
+{"i":334,"tr":"Barra de filferro d'acer"}
+{"i":335,"tr":"Barres d'acer, com ara rodones, quadrades, planes i altres perfils. Transportades com a productes llargs i rectes."}
+{"i":336,"tr":"Filferro d’acer i barres fines. Es transporten principalment en bobines."}
+{"i":337,"tr":"Mestres de l’acer"}
+{"i":338,"tr":"Ciutat de l’acer"}
+{"i":339,"tr":"Depòsits d’emmagatzematge i canonades"}
+{"i":340,"tr":"Depòsits d’emmagatzematge, recipients a pressió, silos, bombones de gas i conjunts de canonades, per a ús en edificis urbans, indústries i explotacions agrícoles."}
+{"i":341,"tr":"Magatzems"}
+{"i":342,"tr":"Taller de laminació de tires"}
+{"i":343,"tr":"Acer estructural"}
+{"i":344,"tr":"Acer de qualitat estructural en seccions laminades (bigues en I, bigues en H, etc.), en plaques planes o en seccions i bigues fabricades soldades a partir de plaques."}
+{"i":345,"tr":"Sucre"}
+{"i":346,"tr":"Companyia del Sucre"}
+{"i":347,"tr":"Minerals de sulfur, fosa per produir una varietat de productes industrials."}
+{"i":348,"tr":"Sulfur"}
+{"i":349,"tr":"Àcid sulfúric"}
+{"i":350,"tr":"Subministraments per tallar i soldar metall, com ara barres de soldadura, eines i gasos industrials, inclosos l’acetilè, l’argó, el propan, l’oxigen i el nitrogen."}
+{"i":351,"tr":"Depòsit de subministraments"}
+{"i":352,"tr":"Caixes de subministrament necessàries per a la producció primària millorada (per defecte, 16)"}
+{"i":353,"tr":"Caixes de subministrament necessàries per a la producció primària Gung-ho (per defecte, 80)"}
+{"i":354,"tr":"Depòsit de dipòsits"}
+{"i":355,"tr":"Barracó de taps"}
+{"i":356,"tr":"Producte petrolier espès utilitzat principalment per pavimentar carreteres i cobrir teulades."}
+{"i":357,"tr":"Fulla i franja d’acer rodillat fi, molt utilitzada per fabricar altres productes. Es transporta en fulls plans o en bobines."}
+{"i":358,"tr":"Barres d’acer brutes i fines, molt utilitzades per reforçar estructures de formigó. Es transporten en bobines o en feixos de barres rectes."}
+{"i":359,"tr":"Fulla d’acer fina recoberta d’estany per resistir la corrosió, utilitzada principalment per fabricar llaunes, contenidors i altres embalatges."}
+{"i":360,"tr":"Productes de fusta"}
+{"i":361,"tr":"Estany"}
+{"i":362,"tr":"Mina d'estany"}
+{"i":363,"tr":"Folre d'estany"}
+{"i":364,"tr":"Fàbrica de folre d'estany"}
+{"i":365,"tr":"Fàbrica de vehicles sobre rails"}
+{"i":366,"tr":"Llits de trona"}
+{"i":367,"tr":"Pàrquing de camions"}
+{"i":368,"tr":"Fàbrica de tubs i canonades"}
+{"i":369,"tr":"Fàbrica de tubs"}
+{"i":370,"tr":"Corda per a pneumàtics"}
+{"i":371,"tr":"Fàbrica de pneumàtics"}
+{"i":372,"tr":"Pneumàtics"}
+{"i":373,"tr":"S'utilitzen en la producció d'aliatges i d'acer inoxidable, un aliatge de crom i ferro. Bóls grisos, de mida i forma semblants a les peces de carbó."}
+{"i":374,"tr":"S'utilitzen en la producció d'acer. Aliatges de ferro i altres elements, com ara manganes, níquel, crom, alumini, silici i tungstè. Bóls grisos, de mida i forma semblants a les peces de carbó."}
+{"i":375,"tr":"Verdura"}
+{"i":376,"tr":"Cossos de vehicles"}
+{"i":377,"tr":"Distribuidor de vehicles"}
+{"i":378,"tr":"Vehicles"}
+{"i":379,"tr":"Vinya"}
+{"i":380,"tr":"Producte residual de la producció de ferro i acer."}
+{"i":381,"tr":"Riba"}
+{"i":382,"tr":"Consumibles de soldadura"}
+{"i":383,"tr":"Pous"}
+{"i":384,"tr":"Moll"}
+{"i":385,"tr":"Mina"}
+{"i":386,"tr":"Blat de blat, ordi, etc."}
+{"i":387,"tr":"Polvo blanc refinat a partir de bauxita, utilitzat per produir alumini metàl·lic."}
+{"i":388,"tr":"Roca de sulfat de calci blanca, grisa o marró, utilitzada en la producció d’àcid sulfúric i ciment. Sovint es transporta com a mercaderia a granel coberta."}
+{"i":389,"tr":"Producte químic industrial d’ús molt estès. De color groc viu, en forma de polvo o líquid."}
+{"i":390,"tr":"Producte químic industrial d’ús molt estès. Normalment es transporta com a càrrega a granel que s’ha de mantenir seca."}
+{"i":391,"tr":"Celler"}
+{"i":392,"tr":"Fàbrica de barres d’acer"}
+{"i":393,"tr":"Polpa de fusta"}
+{"i":394,"tr":"Fàbrica"}
+{"i":395,"tr":"Zinc"}
+{"i":396,"tr":"Mina de zinc"}
+{"i":397,"tr":"Minerai de zinc"}
+{"i":398,"tr":"Foneria de zinc"}
+{"i":399,"tr":"{BLACK}Producció actual: {YELLOW}Millorada {}{}{BLACK}Per mantenir aquest nivell, lliureu {SIGNED_WORD} caixes de subministraments almenys un cop cada tres minuts.{}Per a una producció {WHITE}Gung-ho {BLACK}, lliureu {SIGNED_WORD} caixes."}
+{"i":400,"tr":"{BLACK}Producció actual: {YELLOW}Millorada {}{}{BLACK}Per mantenir aquest nivell, lliureu {SIGNED_WORD} unitats de càrrega almenys un cop cada tres minuts.{}Per a una producció {WHITE}Gung-ho {BLACK}, lliureu {SIGNED_WORD} unitats."}
+{"i":401,"tr":"{BLACK}Producció actual: {YELLOW}Normal {}{}{BLACK}Per a una producció {WHITE}Millorada {BLACK}, lliureu {SIGNED_WORD} caixes de subministraments almenys un cop cada tres minuts.{}Per a una producció {WHITE}Gung-ho {BLACK}, lliureu {SIGNED_WORD} caixes."}
+{"i":402,"tr":"{BLACK}Producció actual: {YELLOW}Normal {}{}{BLACK}Per a una producció {WHITE}Millorada {BLACK}, lliureu {SIGNED_WORD} unitats de càrrega almenys un cop cada tres minuts.{}Per a una producció {WHITE}Gung-ho {BLACK}, lliureu {SIGNED_WORD} unitats."}
+{"i":403,"tr":"{BLACK}Per assolir la taxa de producció màxima, proveïu {WHITE}totes {BLACK}les càrregues necessàries almenys un cop cada tres minuts."}
+{"i":404,"tr":"{BLACK}Per assolir la taxa de producció màxima, proveïu {WHITE}almenys tres {BLACK}de les càrregues necessàries almenys un cop cada tres minuts."}
+{"i":405,"tr":"{BLACK}Per assolir la taxa de producció màxima, proveïu {WHITE}almenys dues {BLACK}de les càrregues necessàries almenys un cop cada tres minuts."}
+{"i":406,"tr":"{BLACK}Per assolir la taxa de producció màxima, proveïu {WHITE}ambdues {BLACK}càrregues necessàries almenys un cop cada tres minuts."}
+{"i":407,"tr":"{BLACK}La producció és proporcional a la població de la ciutat. Cada minut es produiran almenys {WHITE}{SIGNED_WORD} unitats{BLACK} i com a màxim {WHITE}{SIGNED_WORD} unitats{BLACK} de càrrega."}
+{"i":408,"tr":"{BLACK}Subministra {WHITE}almenys una {BLACK}càrrega necessària per assolir la producció màxima."}
+{"i":409,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":410,"tr":"{ORANGE}E00: CIRS requereix OpenTTD 1.7.0 (o, per als qui utilitzin compilacions del tronc, r27769)"}
+{"i":411,"tr":"{ORANGE}E01: {YELLOW}Conjunt incompatible: {ORANGE}{STRING}"}
+{"i":412,"tr":"{ORANGE}E02: {YELLOW}Paràmetre incompatible: {ORANGE}El paràmetre 2 de CanSet ha de ser 0 per funcionar amb CIRS."}
+{"i":413,"tr":"{ORANGE}E02: {YELLOW}Paràmetre incompatible: {ORANGE}El paràmetre 2 de NA City Set ha de ser 0 per funcionar amb CIRS."}
+{"i":414,"tr":"{ORANGE}E04: {YELLOW}Versió incompatible: {ORANGE}Total Town Replacement Set ha de ser la versió 3.11 o una versió més recent."}
+{"i":415,"tr":"{TINYFONT}AA"}
+{"i":416,"tr":"{TINYFONT}AC"}
+{"i":417,"tr":"{TINYFONT}AG"}
+{"i":418,"tr":"{TINYFONT}AM"}
+{"i":419,"tr":"{TINYFONT}AO"}
+{"i":420,"tr":"{TINYFONT}AP"}
+{"i":421,"tr":"{TINYFONT}AY"}
+{"i":422,"tr":"{TINYFONT}BB"}
+{"i":423,"tr":"{TINYFONT}BI"}
+{"i":424,"tr":"{TINYFONT}CA"}
+{"i":425,"tr":"{TINYFONT}CB"}
+{"i":426,"tr":"{TINYFONT}CE"}
+{"i":427,"tr":"{TINYFONT}CF"}
+{"i":428,"tr":"{TINYFONT}CI"}
+{"i":429,"tr":"{TINYFONT}CK"}
+{"i":430,"tr":"{TINYFONT}CN"}
+{"i":431,"tr":"{TINYFONT}CO"}
+{"i":432,"tr":"{TINYFONT}CP"}
+{"i":433,"tr":"{TINYFONT}CR"}
+{"i":434,"tr":"{TINYFONT}CT"}
+{"i":435,"tr":"{TINYFONT}EL"}
+{"i":436,"tr":"{TINYFONT}EO"}
+{"i":437,"tr":"{TINYFONT}EP"}
+{"i":438,"tr":"{TINYFONT}EX"}
+{"i":439,"tr":"{TINYFONT}FA"}
+{"i":440,"tr":"{TINYFONT}FL"}
+{"i":441,"tr":"{TINYFONT}FO"}
+{"i":442,"tr":"{TINYFONT}FV"}
+{"i":443,"tr":"{TINYFONT}GL"}
+{"i":444,"tr":"{TINYFONT}HW"}
+{"i":445,"tr":"{TINYFONT}IG"}
+{"i":446,"tr":"{TINYFONT}KA"}
+{"i":447,"tr":"{TINYFONT}LG"}
+{"i":448,"tr":"{TINYFONT}LH"}
+{"i":449,"tr":"{TINYFONT}LS"}
+{"i":450,"tr":"{TINYFONT}MA"}
+{"i":451,"tr":"{TINYFONT}MF"}
+{"i":452,"tr":"{TINYFONT}ML"}
+{"i":453,"tr":"{TINYFONT}MN"}
+{"i":454,"tr":"{TINYFONT}MO"}
+{"i":455,"tr":"{TINYFONT}N7"}
+{"i":456,"tr":"{TINYFONT}NA"}
+{"i":457,"tr":"{TINYFONT}NI"}
+{"i":458,"tr":"{TINYFONT}NT"}
+{"i":459,"tr":"{TINYFONT}O2"}
+{"i":460,"tr":"{TINYFONT}OC"}
+{"i":461,"tr":"{TINYFONT}PA"}
+{"i":462,"tr":"{TINYFONT}PC"}
+{"i":463,"tr":"{TINYFONT}PE"}
+{"i":464,"tr":"{TINYFONT}PG"}
+{"i":465,"tr":"{TINYFONT}PH"}
+{"i":466,"tr":"{TINYFONT}PI"}
+{"i":467,"tr":"{TINYFONT}PL"}
+{"i":468,"tr":"{TINYFONT}PM"}
+{"i":469,"tr":"{TINYFONT}PV"}
+{"i":470,"tr":"{TINYFONT}PW"}
+{"i":471,"tr":"{TINYFONT}PY"}
+{"i":472,"tr":"{TINYFONT}QL"}
+{"i":473,"tr":"{TINYFONT}RB"}
+{"i":474,"tr":"{TINYFONT}SD"}
+{"i":475,"tr":"{TINYFONT}SE"}
+{"i":476,"tr":"{TINYFONT}SG"}
+{"i":477,"tr":"{TINYFONT}SH"}
+{"i":478,"tr":"{TINYFONT}SI"}
+{"i":479,"tr":"{TINYFONT}SL"}
+{"i":480,"tr":"{TINYFONT}SO"}
+{"i":481,"tr":"{TINYFONT}SP"}
+{"i":482,"tr":"{TINYFONT}STSW"}
+{"i":483,"tr":"{TINYFONT}SU"}
+{"i":484,"tr":"{TINYFONT}SW"}
+{"i":485,"tr":"{TINYFONT}SY"}
+{"i":486,"tr":"{TINYFONT}TC"}
+{"i":487,"tr":"{TINYFONT}TI"}
+{"i":488,"tr":"{TINYFONT}TP"}
+{"i":489,"tr":"{TINYFONT}TY"}
+{"i":490,"tr":"{TINYFONT}VB"}
+{"i":491,"tr":"{TINYFONT}VE"}
+{"i":492,"tr":"{TINYFONT}VG"}
+{"i":493,"tr":"{TINYFONT}VS"}
+{"i":494,"tr":"{TINYFONT}WP"}
+{"i":495,"tr":"{TINYFONT}WS"}
+{"i":496,"tr":"{TINYFONT}ZN"}
+{"i":497,"tr":"{TINYFONT}ZO"}
+{"i":498,"tr":"{VOLUME} d'àcid"}
+{"i":499,"tr":"{VOLUME} d'amoniac i productes nítrics"}
+{"i":500,"tr":"{VOLUME} de bitum"}
+{"i":501,"tr":"{VOLUME} d'intermediaris químics"}
+{"i":502,"tr":"{VOLUME} de clor"}
+{"i":503,"tr":"{VOLUME} de catràn de carbó"}
+{"i":504,"tr":"{VOLUME} d'oli comestible"}
+{"i":505,"tr":"{VOLUME} de gasos industrials"}
+{"i":506,"tr":"{VOLUME} d'hidrocarburs lleugers"}
+{"i":507,"tr":"{VOLUME} de metanol"}
+{"i":508,"tr":"{VOLUME} de nitrogen"}
+{"i":509,"tr":"{VOLUME} d'oxigen"}
+{"i":510,"tr":"{VOLUME} de pintures i revestiments"}
+{"i":511,"tr":"{VOLUME} d'àcid fosfòric"}
+{"i":512,"tr":"{VOLUME} d'hidróxid de sodi"}
+{"i":513,"tr":"{VOLUME} d'àcid sulfúric"}
+{"i":514,"tr":"{WEIGHT} d'agregats"}
+{"i":515,"tr":"{WEIGHT} d'alumina"}
+{"i":516,"tr":"{WEIGHT} d'alumini"}
+{"i":517,"tr":"{WEIGHT} de roca d'anhidrita"}
+{"i":518,"tr":"{WEIGHT} de pomes"}
+{"i":519,"tr":"{WEIGHT} de bari i fluorita"}
+{"i":520,"tr":"{WEIGHT} de lingots i blocs de fosa"}
+{"i":521,"tr":"{WEIGHT} de negre de carboni"}
+{"i":522,"tr":"{WEIGHT} de mandioca"}
+{"i":523,"tr":"{WEIGHT} de ferro fos"}
+{"i":524,"tr":"{WEIGHT} de ciment"}
+{"i":525,"tr":"{WEIGHT} d'argila blanca"}
+{"i":526,"tr":"{WEIGHT} d'agents de neteja"}
+{"i":527,"tr":"{WEIGHT} de coque"}
+{"i":528,"tr":"{WEIGHT} de productes de formigó"}
+{"i":529,"tr":"{WEIGHT} de coure"}
+{"i":530,"tr":"{WEIGHT} de peces elèctriques"}
+{"i":531,"tr":"{WEIGHT} de motors i sistemes de transmissió"}
+{"i":532,"tr":"{WEIGHT} d'explosius"}
+{"i":533,"tr":"{WEIGHT} de ferroaliatges"}
+{"i":534,"tr":"{WEIGHT} de fertilitzant"}
+{"i":535,"tr":"{WEIGHT} de peix i marisc"}
+{"i":536,"tr":"{WEIGHT} de farina i midó"}
+{"i":537,"tr":"{WEIGHT} d'aliments i begudes"}
+{"i":538,"tr":"{WEIGHT} d'additius alimentaris"}
+{"i":539,"tr":"{WEIGHT} de peces forjades i foses"}
+{"i":540,"tr":"{WEIGHT} d'aliments congelats"}
+{"i":541,"tr":"{WEIGHT} de productes de vidre"}
+{"i":542,"tr":"{WEIGHT} de mercaderies"}
+{"i":543,"tr":"{WEIGHT} de ferratgeria i acabats"}
+{"i":544,"tr":"{WEIGHT} de carbons industrials"}
+{"i":545,"tr":"{WEIGHT} de pedra calcària"}
+{"i":546,"tr":"{WEIGHT} de troncs"}
+{"i":547,"tr":"{WEIGHT} de manganès"}
+{"i":548,"tr":"{WEIGHT} de carn"}
+{"i":549,"tr":"{WEIGHT} de barra comercial"}
+{"i":550,"tr":"{WEIGHT} d'emplenadors minerals"}
+{"i":551,"tr":"{WEIGHT} de fruits secs"}
+{"i":552,"tr":"{WEIGHT} d'embalatge"}
+{"i":553,"tr":"{WEIGHT} de torba"}
+{"i":554,"tr":"{WEIGHT} de fosfat"}
+{"i":555,"tr":"{WEIGHT} de ferro-gusa"}
+{"i":556,"tr":"{WEIGHT} de plantes i maquinària"}
+{"i":557,"tr":"{WEIGHT} de plàstics i resines"}
+{"i":558,"tr":"{WEIGHT} de potassa"}
+{"i":559,"tr":"{WEIGHT} de components de precisió"}
+{"i":560,"tr":"{WEIGHT} de productes químics de procés"}
+{"i":561,"tr":"{WEIGHT} de bombes i vàlvules"}
+{"i":562,"tr":"{WEIGHT} de mineral de pirita"}
+{"i":563,"tr":"{WEIGHT} de cal viva"}
+{"i":564,"tr":"{WEIGHT} de sucre cru i melassa"}
+{"i":565,"tr":"{WEIGHT} d'armadura d'acer"}
+{"i":566,"tr":"{WEIGHT} de sal"}
+{"i":567,"tr":"{WEIGHT} de segells, mànigues i cinturons"}
+{"i":568,"tr":"{WEIGHT} d'escombraria"}
+{"i":569,"tr":"{WEIGHT} de cendra de soda"}
+{"i":570,"tr":"{WEIGHT} d'acer"}
+{"i":571,"tr":"{WEIGHT} d'ingots d'acer"}
+{"i":572,"tr":"{WEIGHT} de tub d'acer"}
+{"i":573,"tr":"{WEIGHT} de placa d'acer"}
+{"i":574,"tr":"{WEIGHT} de fulla i franja d'acer"}
+{"i":575,"tr":"{WEIGHT} de lingot d'acer"}
+{"i":576,"tr":"{WEIGHT} de tub d'acer"}
+{"i":577,"tr":"{WEIGHT} de barra de fil d'acer"}
+{"i":578,"tr":"{WEIGHT} de dipòsits d'emmagatzematge i canonades"}
+{"i":579,"tr":"{WEIGHT} d'acer estructural"}
+{"i":580,"tr":"{WEIGHT} de sofre"}
+{"i":581,"tr":"{WEIGHT} de productes de fusta"}
+{"i":582,"tr":"{WEIGHT} d'estany"}
+{"i":583,"tr":"{WEIGHT} de fulla d'estany"}
+{"i":584,"tr":"{WEIGHT} de corda de pneumàtics"}
+{"i":585,"tr":"{WEIGHT} de pneumàtics"}
+{"i":586,"tr":"{WEIGHT} de verdures"}
+{"i":587,"tr":"{WEIGHT} de carrosseries de vehicles"}
+{"i":588,"tr":"{WEIGHT} de peces de vehicle"}
+{"i":589,"tr":"{WEIGHT} de vehicles"}
+{"i":590,"tr":"{WEIGHT} de consumibles de soldadura"}
+{"i":591,"tr":"{WEIGHT} de pasta de fusta"}
+{"i":592,"tr":"{WEIGHT} de zinc"}
+{"i":593,"tr":"{WEIGHT} de mineral de zinc"}
+{"i":594,"tr":"{WEIGHT} sac{P 0 \"\" s} de cafè"}
+{"i":595,"tr":"{count} economies"}
+{"i":596,"tr":"{}{BLACK}Ubicació: {YELLOW}Només es pot finançar sobre neu."}
+{"i":154,"tr":"Molí de gra"}
+{"i":310,"tr":"Front marítim"}
+{"i":6,"tr":"Alumini"}
+{"i":288,"tr":"Estables per a reinders"}
+{"i":217,"tr":"Molins"}
+{"i":311,"tr":"Silos"}
+{"i":53,"tr":"Ciment"}
+{"i": 31, "tr": "Billets, blooms, lingots i lloses."}
+{"i": 31, "tr": "Billets, blooms, lingots i lloses."}
+{"i": 30, "tr": "Billets i blooms"}

@@ -1,0 +1,1325 @@
+STRICT AUDIT — every English key vs every non-English TOML
+Legend: same_real = value byte-identical to English real text (untranslated) after excluding brands/codes/URLs
+
+### docs/afrikaans  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/arabic  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/belarusian  (26)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/catalan  (28)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_CR_TH_DECIMAL | EN=(decimal) | TR=(decimal)
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/croatian  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/czech  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/danish  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/dutch  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/esperanto  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/estonian  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/finnish  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/french  (30)
+  same_real | .DOC_IND_TITLE | EN=Industries ({count}) | TR=Industries ({count})
+  same_real | .DOC_CR_NAV_INDUSTRIES | EN=Industries ({count}) | TR=Industries ({count})
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_CR_INDUSTRIES_TITLE | EN=Industries ({count}) | TR=Industries ({count})
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/gaelic  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/galician  (28)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_CR_TH_DECIMAL | EN=(decimal) | TR=(decimal)
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/german  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/hungarian  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/indonesian  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/italian  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/japanese  (26)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/korean  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/latin  (26)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/luxembourgish  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/norwegian_bokmal  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/polish  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/portuguese  (28)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_CR_TH_DECIMAL | EN=(decimal) | TR=(decimal)
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/portuguese_BR  (28)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_CR_TH_DECIMAL | EN=(decimal) | TR=(decimal)
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/romanian  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/russian  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/serbian  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/simplified_chinese  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/slovak  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/spanish  (28)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_CR_TH_DECIMAL | EN=(decimal) | TR=(decimal)
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/spanish_MX  (28)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_CR_TH_DECIMAL | EN=(decimal) | TR=(decimal)
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/swedish  (28)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_CR_TH_DECIMAL | EN=(decimal) | TR=(decimal)
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/tamil  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/traditional_chinese  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/turkish  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### docs/welsh  (27)
+  same_real | .DOC_CR_SOURCE_P2_LINK | EN=GPL(v2) | TR=GPL(v2)
+  same_real | .DOC_CR_DEP_PYTHON | EN=Python 3.11+ | TR=Python 3.11+
+  same_real | .DOC_TRANS_LANG_ZH | EN=简体中文（Chinese, Simplified） | TR=简体中文（Chinese, Simplified）
+  same_real | .DOC_TRANS_LANG_BELARUSIAN | EN=Беларуская | TR=Беларуская
+  same_real | .DOC_TRANS_LANG_CATALAN | EN=Català | TR=Català
+  same_real | .DOC_TRANS_LANG_CZECH | EN=Čeština | TR=Čeština
+  same_real | .DOC_TRANS_LANG_ENGLISH_AU | EN=English (AU) | TR=English (AU)
+  same_real | .DOC_TRANS_LANG_ENGLISH_US | EN=English (US) | TR=English (US)
+  same_real | .DOC_TRANS_LANG_FRENCH | EN=Français | TR=Français
+  same_real | .DOC_TRANS_LANG_GAELIC | EN=Gàidhlig | TR=Gàidhlig
+  same_real | .DOC_TRANS_LANG_JAPANESE | EN=日本語 | TR=日本語
+  same_real | .DOC_TRANS_LANG_KOREAN | EN=한국어 | TR=한국어
+  same_real | .DOC_TRANS_LANG_LUXEMBOURGISH | EN=Lëtzebuergesch | TR=Lëtzebuergesch
+  same_real | .DOC_TRANS_LANG_NORWEGIAN_BOKMAL | EN=Norsk (Bokmål) | TR=Norsk (Bokmål)
+  same_real | .DOC_TRANS_LANG_PORTUGUESE | EN=Português | TR=Português
+  same_real | .DOC_TRANS_LANG_PORTUGUESE_BR | EN=Português (BR) | TR=Português (BR)
+  same_real | .DOC_TRANS_LANG_ROMANIAN | EN=Română | TR=Română
+  same_real | .DOC_TRANS_LANG_RUSSIAN | EN=Русский | TR=Русский
+  same_real | .DOC_TRANS_LANG_SERBIAN | EN=Српски | TR=Српски
+  same_real | .DOC_TRANS_LANG_SIMPLIFIED_CHINESE | EN=简体中文 | TR=简体中文
+  same_real | .DOC_TRANS_LANG_SLOVAK | EN=Slovenčina | TR=Slovenčina
+  same_real | .DOC_TRANS_LANG_SPANISH | EN=Español | TR=Español
+  same_real | .DOC_TRANS_LANG_SPANISH_MX | EN=Español (MX) | TR=Español (MX)
+  same_real | .DOC_TRANS_LANG_TAMIL | EN=தமிழ் | TR=தமிழ்
+  same_real | .DOC_TRANS_LANG_TRADITIONAL_CHINESE | EN=繁體中文 | TR=繁體中文
+  same_real | .DOC_TRANS_LANG_TURKISH | EN=Türkçe | TR=Türkçe
+  same_real | .DOC_TRANS_LANG_ARABIC | EN=العربية | TR=العربية
+### grf/gaelic  (1)
+  same_real | STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base | EN=Arctic Basic | TR=Arctic Basic
+### grf/german  (1)
+  same_real | STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG.base | EN= {BLACK}(optional) | TR= {BLACK}(optional)
+### grf/indonesian  (1)
+  same_real | STR_CARGO_SODA_ASH.name | EN=Soda Ash | TR=Soda Ash
+### grf/latin  (1)
+  same_real | STR_CARGO_BARYTES_AND_FLUORSPAR.name | EN=Barytes & Fluorspar | TR=Barytes & Fluorspar
+### grf/luxembourgish  (1)
+  same_real | STR_STATION_PLATE_MILL.base | EN=Slab yard | TR=Slab yard
+### grf/norwegian_bokmal  (2)
+  same_real | STR_CARGO_TYRE_CORD.name | EN=Tyre Cord | TR=Tyre Cord
+  same_real | STR_IND_VEHICLE_DISTRIBUTOR.base | EN=Vehicle Distributor | TR=Vehicle Distributor
+### grf/romanian  (2)
+  same_real | STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base | EN=Arctic Basic | TR=Arctic Basic
+  same_real | STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base | EN=Tropic Basic | TR=Tropic Basic
+### grf/turkish  (2)
+  same_real | STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base | EN=Tropic Basic | TR=Tropic Basic
+  same_real | STR_STATION_HERDING_COOP.base | EN=Reinder Pens | TR=Reinder Pens
+### gs/afrikaans  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/arabic  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/belarusian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/catalan  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/croatian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/czech  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/danish  (3)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  same_real | STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base | EN={BLACK}Type: {WHITE}{RAW_STRING} | TR={BLACK}Type: {WHITE}{RAW_STRING}
+### gs/dutch  (3)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  same_real | STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base | EN={BLACK}Type: {WHITE}{RAW_STRING} | TR={BLACK}Type: {WHITE}{RAW_STRING}
+### gs/esperanto  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/estonian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/finnish  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/french  (1)
+  empty | STR_EMPTY.base | EN= | TR=
+### gs/gaelic  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/galician  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/german  (3)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  same_real | STR_MANUFACTURERS_STORY_PAGE_NAME.base | EN={BLACK}Name: {WHITE}{RAW_STRING} | TR={BLACK}Name: {WHITE}{RAW_STRING}
+### gs/hungarian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/indonesian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/italian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/japanese  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/korean  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/latin  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/luxembourgish  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/norwegian_bokmal  (3)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  same_real | STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base | EN={BLACK}Type: {WHITE}{RAW_STRING} | TR={BLACK}Type: {WHITE}{RAW_STRING}
+### gs/polish  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/portuguese  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/portuguese_BR  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/romanian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/russian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/serbian  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/simplified_chinese  (1)
+  empty | STR_EMPTY.base | EN= | TR=
+### gs/slovak  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/spanish  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/spanish_MX  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/swedish  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/tamil  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/traditional_chinese  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/turkish  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+### gs/welsh  (2)
+  empty | STR_EMPTY.base | EN= | TR=
+  same_real | STR_GRIND_TEST.base | EN={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING} | TR={BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+
+=== PER-LANGUAGE COUNTS ===
+docs/afrikaans {"lang": "afrikaans", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/arabic {"lang": "arabic", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 139}
+docs/belarusian {"lang": "belarusian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 26, "xs_missing": 0, "xs_same": 0}
+docs/catalan {"lang": "catalan", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 28, "xs_missing": 0, "xs_same": 0}
+docs/croatian {"lang": "croatian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/czech {"lang": "czech", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/danish {"lang": "danish", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/dutch {"lang": "dutch", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/esperanto {"lang": "esperanto", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/estonian {"lang": "estonian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/finnish {"lang": "finnish", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/french {"lang": "french", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 30, "xs_missing": 0, "xs_same": 125}
+docs/gaelic {"lang": "gaelic", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/galician {"lang": "galician", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 28, "xs_missing": 0, "xs_same": 0}
+docs/german {"lang": "german", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 112}
+docs/hungarian {"lang": "hungarian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/indonesian {"lang": "indonesian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/italian {"lang": "italian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/japanese {"lang": "japanese", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 26, "xs_missing": 0, "xs_same": 0}
+docs/korean {"lang": "korean", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 127}
+docs/latin {"lang": "latin", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 26, "xs_missing": 0, "xs_same": 0}
+docs/luxembourgish {"lang": "luxembourgish", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/norwegian_bokmal {"lang": "norwegian_bokmal", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/polish {"lang": "polish", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/portuguese {"lang": "portuguese", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 28, "xs_missing": 0, "xs_same": 126}
+docs/portuguese_BR {"lang": "portuguese_BR", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 28, "xs_missing": 0, "xs_same": 0}
+docs/romanian {"lang": "romanian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/russian {"lang": "russian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/serbian {"lang": "serbian", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/simplified_chinese {"lang": "simplified_chinese", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 121}
+docs/slovak {"lang": "slovak", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/spanish {"lang": "spanish", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 28, "xs_missing": 0, "xs_same": 125}
+docs/spanish_MX {"lang": "spanish_MX", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 28, "xs_missing": 0, "xs_same": 0}
+docs/swedish {"lang": "swedish", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 28, "xs_missing": 0, "xs_same": 0}
+docs/tamil {"lang": "tamil", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/traditional_chinese {"lang": "traditional_chinese", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/turkish {"lang": "turkish", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+docs/welsh {"lang": "welsh", "group": "docs", "en": 220, "keys": 220, "missing": 0, "empty": 0, "badph": 0, "same_real": 27, "xs_missing": 0, "xs_same": 0}
+grf/afrikaans {"lang": "afrikaans", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/arabic {"lang": "arabic", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/belarusian {"lang": "belarusian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/catalan {"lang": "catalan", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/croatian {"lang": "croatian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/czech {"lang": "czech", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/danish {"lang": "danish", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/dutch {"lang": "dutch", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/esperanto {"lang": "esperanto", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/estonian {"lang": "estonian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/finnish {"lang": "finnish", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/french {"lang": "french", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/gaelic {"lang": "gaelic", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+grf/galician {"lang": "galician", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/german {"lang": "german", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+grf/hungarian {"lang": "hungarian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/indonesian {"lang": "indonesian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+grf/italian {"lang": "italian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/japanese {"lang": "japanese", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/korean {"lang": "korean", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/latin {"lang": "latin", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+grf/luxembourgish {"lang": "luxembourgish", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+grf/norwegian_bokmal {"lang": "norwegian_bokmal", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 2, "xs_missing": 0, "xs_same": 0}
+grf/polish {"lang": "polish", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/portuguese {"lang": "portuguese", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/portuguese_BR {"lang": "portuguese_BR", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/romanian {"lang": "romanian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 2, "xs_missing": 0, "xs_same": 0}
+grf/russian {"lang": "russian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/serbian {"lang": "serbian", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/simplified_chinese {"lang": "simplified_chinese", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/slovak {"lang": "slovak", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/spanish {"lang": "spanish", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/spanish_MX {"lang": "spanish_MX", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/swedish {"lang": "swedish", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/tamil {"lang": "tamil", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/traditional_chinese {"lang": "traditional_chinese", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+grf/turkish {"lang": "turkish", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 2, "xs_missing": 0, "xs_same": 0}
+grf/welsh {"lang": "welsh", "group": "grf", "en": 573, "keys": 573, "missing": 0, "empty": 0, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+gs/afrikaans {"lang": "afrikaans", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/arabic {"lang": "arabic", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/belarusian {"lang": "belarusian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/catalan {"lang": "catalan", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/croatian {"lang": "croatian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/czech {"lang": "czech", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/danish {"lang": "danish", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 2, "xs_missing": 0, "xs_same": 0}
+gs/dutch {"lang": "dutch", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 2, "xs_missing": 0, "xs_same": 0}
+gs/esperanto {"lang": "esperanto", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/estonian {"lang": "estonian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/finnish {"lang": "finnish", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/french {"lang": "french", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+gs/gaelic {"lang": "gaelic", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/galician {"lang": "galician", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/german {"lang": "german", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 2, "xs_missing": 0, "xs_same": 0}
+gs/hungarian {"lang": "hungarian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/indonesian {"lang": "indonesian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/italian {"lang": "italian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/japanese {"lang": "japanese", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/korean {"lang": "korean", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/latin {"lang": "latin", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/luxembourgish {"lang": "luxembourgish", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/norwegian_bokmal {"lang": "norwegian_bokmal", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 2, "xs_missing": 0, "xs_same": 0}
+gs/polish {"lang": "polish", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/portuguese {"lang": "portuguese", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/portuguese_BR {"lang": "portuguese_BR", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/romanian {"lang": "romanian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/russian {"lang": "russian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/serbian {"lang": "serbian", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/simplified_chinese {"lang": "simplified_chinese", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 0, "xs_missing": 0, "xs_same": 0}
+gs/slovak {"lang": "slovak", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/spanish {"lang": "spanish", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/spanish_MX {"lang": "spanish_MX", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/swedish {"lang": "swedish", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/tamil {"lang": "tamil", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/traditional_chinese {"lang": "traditional_chinese", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/turkish {"lang": "turkish", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}
+gs/welsh {"lang": "welsh", "group": "gs", "en": 44, "keys": 44, "missing": 0, "empty": 1, "badph": 0, "same_real": 1, "xs_missing": 0, "xs_same": 0}

@@ -1,0 +1,131 @@
+[STR_WELCOME]
+base = "Halo {COMPANY}!{}{}Anda memainkan permainan dengan GS uji CIRS{}{}Versi Git dari GS ini adalah {NUM}"
+
+[STR_EMPTY]
+base = ""
+
+[STR_CABBAGE]
+base = "{BLUE}Kubis"
+
+[STR_CABBAGE_TOWN_HAPPY]
+base = "senang"
+
+[STR_CABBAGE_TOWN_UNHAPPY]
+base = "tidak senang"
+
+[STR_CABBAGE_TOWN]
+base = "Kota adalah {STRING}{}{}Untuk mengetahui lebih lanjut tentang kota ini (termasuk persyaratan pertumbuhan dan kebahagiaan), buka Buku Cerita dan temukan halaman untuk {TOWN}"
+
+[STR_GRIND_SUB_HEADING]
+base = "{YELLOW}{RAW_STRING}"
+
+[STR_GRIND_TEST]
+base = "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+
+[STR_GRIND_TEST_INDUSTRY_NAME]
+base = "{TINY_FONT}{YELLOW}{DOWN_ARROW} {INDUSTRY} {NORMAL_FONT}"
+
+[STR_GRIND_DELAYED_UPDATE]
+base = "{BLACK}Perhatikan bahwa ini tidak akan menyegarkan saat ini kecuali Grind dimatikan dan dihidupkan kembali di pengaturan GS"
+
+[STR_TOWN_STORY_PAGE_TEST]
+base = "{BLACK}Kata acak (tes): {WHITE}{RAW_STRING}"
+
+[STR_TOWN_STORY_PAGE_GROWTH_RATE]
+base = "{BLACK}Tingkat pertumbuhan saat ini: {WHITE}{RAW_STRING}"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGOS_GROWTH_TITLE]
+base = "{YELLOW}Muatan yang diperlukan untuk pertumbuhan"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGOS_HAPPINESS_TITLE]
+base = "{YELLOW}Muatan yang diperlukan untuk kebahagiaan"
+
+[STR_TOWN_STORY_PAGE_REQUIRED_CARGO_STATS]
+base = "{BLACK}Disediakan: {WHITE}{CARGO_LONG}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_TITLE]
+base = "{BLACK}--- Industri kota --- {}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_ACCEPTED_TITLE]
+base = "{BLACK}Muatan yang diperlukan disediakan bulan lalu"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_PRODUCED_TITLE]
+base = "{BLACK}Muatan yang diproduksi bulan lalu"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_INDUSTRY_NAME]
+base = "{YELLOW}{INDUSTRY}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_CARGO_STATS]
+base = "{WHITE}{CARGO_LONG}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_TITLE]
+base = "{BLACK}Riwayat peningkatan produksi (permanen) (10 kejadian terakhir)"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_NEVER_INCREASED]
+base = "{WHITE}- industri ini tidak pernah meningkatkan produksi secara permanen"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_SUBSTR]
+base = "{WHITE}{DATE_LONG}{}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_1]
+base = "{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_2]
+base = "{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_3]
+base = "{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_4]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_5]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_6]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_7]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_8]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_9]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_HISTORY_DATE_COUNT_10]
+base = "{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}"
+
+[STR_TOWN_STORY_INDUSTRY_REPORT_CURRENT_PROD_LEVEL]
+base = "{BLACK}Tingkat produksi saat ini: {WHITE}{NUM}"
+
+[STR_MANUFACTURERS_STORY_PAGE_TEST]
+base = "{BLACK}Kata acak (tes): {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_NAME]
+base = "{BLACK}Nama: {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_CATEGORY]
+base = "{BLACK}Tipe: {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_HQ_TOWN]
+base = "{BLACK}Kota markas: {WHITE}{TOWN}"
+
+[STR_MANUFACTURERS_STORY_PAGE_VALID_TOWNS]
+base = "{BLACK}Kota yang valid: {WHITE}{RAW_STRING}"
+
+[STR_MANUFACTURERS_STORY_PAGE_INDUSTRIES_OWNED]
+base = "{BLACK}Industri yang dimiliki: {WHITE}{RAW_STRING}"
+
+[STR_CABBAGE_CLICKABLE_TEST]
+base = "{BLACK}Ini adalah teks GS. {WHITE}Klik saya untuk halaman cerita kota. {BLACK}Berikut lebih banyak teks."
+
+[STR_INDUSTRY_OWNER]
+base = "Pemilik: {RAW_STRING}"
+
+[STR_INDUSTRY_TOWN_BLACK_HOLE_EXTRA_TEXT_GROWTH]
+base = "{BLACK}Pengiriman ke industri ini akan berkontribusi pada pertumbuhan dan/atau kebahagiaan kota"
+
+[STR_NEWS_INDUSTRY_INCREASES_PRODUCTION]
+base = "{INDUSTRY} meningkatkan produksi!"

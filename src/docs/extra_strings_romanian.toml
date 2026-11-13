@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Mină de cărbune"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Mină de cupru"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Mină de diamante"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Unitate de procesare alimentară"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Pădure"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Plantație de fructe"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Mină de minerale de fier"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Rafinărie de ulei"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Platformă petrolieră"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Fântâni petroliere"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Fabrică de hârtie"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Plantație de cauciuc"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Găleată de fier"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Oțelărie"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Cărbune"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Minerale de cupru"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamante"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Alimente"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Mărfuri"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Cereale"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Minerale de fier"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Animale domestice"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Corespondență"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Porumb"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Ulei"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Hârtie"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Pasageri"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Cauciuc"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Zahăr"
+
+[ECONOMY_INFO_FIRS]
+base = "Economie complexă cu multe industrii și mărfuri."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Economie simplă. Inspirată de Finlanda, nordul Canadei și nordul Siberiei. Cel mai bine utilizată cu un climat subarctic."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Economie simplă. Inspirată de sud-vestul Regatului Unit. Cel mai bine utilizată cu un climat temperat."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Economie simplă. Inspirată de Argentina, Peru și Chile. Cel mai bine se folosește cu un climat subtropical."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Economie complexă cu multe industrii și mărfuri. Inspirată de Africa central-vestică. Cel mai bine se folosește cu un climat subtropical."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Economie complexă cu industrii de fier, oțel și producție grea."
+
+[CARGO_INFO_PASSENGERS]
+base = "Disponibil în toate economiile. Produs și acceptat de clădirile orașului, precum și de câteva industrii."
+
+[CARGO_INFO_MAIL]
+base = "Disponibil în toate economiile. Produs și acceptat de clădirile orașului."
+
+[CARGO_INFO_ACID]
+base = "Acizi industriali, precum acidul clorhidric, azotic și sulfuric."
+
+[CARGO_INFO_AGGREGATES]
+base = "Bolovani, nisip, piatră spartă și materiale similare utilizate în construcții."
+
+[CARGO_INFO_ALUMINA]
+base = "Pudră albă rafinată din minereu de bauxită, folosită pentru a produce metal de aluminiu."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Aluminiu rafinat, sub formă de role, lingouri, plăci etc."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Produse chimice industriale derivate din amoniac, cum ar fi amoniacul, acidul azotic și ureea. Transportate sub formă lichidă, criogenic sub formă de gaz lichefiat sau în vrac uscat."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Rocă de sulfat de calciu albă, gri sau maro, folosită în producția de acid sulfuric și ciment. Adesea transportată în vrac, în vagonete acoperite."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Minerale industriale utilizate în prelucrarea chimică. Baritul este folosit în produsele chimice pe bază de bariu și ca umplutură; fluoritul în chimia fluorului și în fluxurile metalurgice."
+
+[CARGO_INFO_BASE_METALS]
+base = "Metale neferoase, cum ar fi cuprul, nichelul, zincul și plumbul."
+
+[CARGO_INFO_BEANS]
+base = "Boabe comune, fasole fava, soia și leguminoase comestibile similare."
+
+[CARGO_INFO_BITUMEN]
+base = "Produs petrolier gros, utilizat în principal pentru acoperirea drumurilor și a acoperișurilor."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Ciment, sticlă, componente metalice, produse din lemn, țevi și materiale de construcție similare."
+
+[CARGO_INFO_CASSAVA]
+base = "Planta rădăcinoasă comestibilă, cunoscută și sub numele de manioc și yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Pulbere de carbon de un negru intens, utilizată în anvelope, materiale plastice și pigmenți. Manipulată sub formă de pulbere."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billete, lingouri brute, lingouri și plăci."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billete, lingouri brute, lingouri și plăci."
+
+[CARGO_INFO_CEMENT]
+base = "Ciment uscat sub formă de pulbere sau clinker."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Produse chimice intermediare utilizate ca materii prime pentru prelucrări industriale ulterioare."
+
+[CARGO_INFO_CHEMICALS]
+base = "Produse chimice organice și anorganice generice, manipulate sub formă lichidă, gazoasă, vrac acoperit, pulbere sau ca mărfuri individuale."
+
+[CARGO_INFO_CHLORINE]
+base = "Substanță chimică industrială, de obicei transportată criogenic sub formă de gaz comprimat lichefiat."
+
+[CARGO_INFO_CLAY]
+base = "Argile generice, pentru producerea de materiale de construcție și alte utilizări industriale."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Produse chimice, săpunuri, agenți de curățare etc., pentru uz industrial și casnic. În principal lichide, dar pot fi și sub formă de pulbere sau solide (cum ar fi nisipul pentru sablare)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Subprodus al producției de cocs, un lichid gros cu curgere lentă."
+
+[CARGO_INFO_COFFEE]
+base = "Boabe de cafea crude sau prăjite."
+
+[CARGO_INFO_COKE]
+base = "Cărbune încălzit într-un cuptor de cocs, producând un combustibil aproape pur din carbon."
+
+[CARGO_INFO_COMPONENTS]
+base = "Componente inginerești de mare valoare, cum ar fi echipamente electrice, motoare, transformatoare, echipamente de control, sisteme hidraulice, pneumatice, pompe, supape și echipamente pentru transmisia puterii."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Produse turnate, cum ar fi blocuri, grinzi și panouri. Pot fi, de asemenea, manipulate ca beton gata preparat în camioane amestecătoare."
+
+[CARGO_INFO_COPPER]
+base = "Cupru rafinat, sub formă de role, lingouri etc."
+
+[CARGO_INFO_DIAMONDS]
+base = "Sunt veșnice etc."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Ulei pentru gătit și consum."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Componente electrice și electronice, motoare, controlere, aparate de comutație, lumini etc."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Mașinării, combustibil, piese, produse din lemn, țevi, explozibili și alte provizii pentru mine și industrii similare."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Explozivi civili pentru minerit, construcții etc."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Mașinării, combustibil, piese, îngrășăminte și alte provizii pentru ferme, păduri și industrii similare."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Utilizat în producția de oțel. Aliaje de fier și alte elemente, inclusiv mangan, nichel, crom, aluminiu, siliciu și tungsten. Bucăți gri, asemănătoare ca mărime și formă cu bucățile de cărbune."
+
+[CARGO_INFO_FERROCHROME]
+base = "Utilizat în producția de aliaje și oțel inoxidabil, un aliaj de crom și fier. Bucăți gri, asemănătoare ca mărime și formă cu bucățile de cărbune."
+
+[CARGO_INFO_FLOUR]
+base = "Produse cerealiere sub formă de pulbere, cum ar fi făina și amidonul, transportate în saci sau în vrac, în containere acoperite."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Piese metalice pentru asamblarea în obiecte mai mari."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Ingrediente utilizate în prelucrarea alimentară, cum ar fi conservanți, arome, coloranți și adjuvanți de procesare."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Alimente păstrate congelate în timpul transportului și depozitării."
+
+[CARGO_INFO_FRUITS]
+base = "Fructe proaspete și uscate, cum ar fi banane, citrice, struguri, fructe de pădure, ananas, stafide și altele similare."
+
+[CARGO_INFO_GRAIN]
+base = "Grâu, orz etc."
+
+[CARGO_INFO_HARDWARE]
+base = "Pentru uz casnic și de construcții. Unelte, ustensile, fixaje, accesorii, din metal și alte materiale."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Materiale speciale pe bază de carbon, cum ar fi cocsul petrolier calcinat, smoala, gudronele de înaltă valoare și negrul de carbon, utilizate în procese metalurgice și chimice."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Gaze industriale utilizate în prelucrarea chimică, prelucrarea metalelor și sudură, transportate în cilindri sau în autocisterne presurizate."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Tobe, troli, cătușe, cârlige, scripeți, cilindri hidraulici și alte piese pentru macarale, troliuri, lifturi etc."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Frații ușoare de petrol utilizate ca materii prime chimice, transportate ca lichide vrac."
+
+[CARGO_INFO_LIVESTOCK]
+base = "În principal vaci, porci și oi pentru producția de carne. Pot fi consumate și alte animale."
+
+[CARGO_INFO_LYE]
+base = "Produs chimic industrial. Cunoscut și sub numele de Leșie sau Sodă Caustică. De obicei transportat sub formă lichidă."
+
+[CARGO_INFO_KAOLIN]
+base = "Mineral industrial, cunoscut și sub numele de Caolin, utilizat în principal în producția de hârtie și materiale plastice."
+
+[CARGO_INFO_MANGANESE]
+base = "Minerale de mangan, utilizate în principal în producția de oțel."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Mașinării, piese, combustibil, materiale de construcție și alte provizii pentru porturi, docuri și industrii similare."
+
+[CARGO_INFO_METAL]
+base = "Metale generice, cum ar fi oțelul, aluminiul sau alte metale comune."
+
+[CARGO_INFO_METHANOL]
+base = "Alcool industrial utilizat ca materie primă chimică și combustibil, transportat ca lichid vrac."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Produse intermediare din zahăr pentru rafinare, fermentare și utilizări industriale. Granulele lipicioase sunt manipulate ca mărfuri vrac acoperite; siropul gros ca lichid; ambele pot fi ambalate."
+
+[CARGO_INFO_NITROGEN]
+base = "Gaz industrial. Transportat criogenic sub formă de gaz comprimat lichefiat."
+
+[CARGO_INFO_OIL]
+base = "Petrol brut, nerafinat, transportat sub formă de lichid vrac."
+
+[CARGO_INFO_OXYGEN]
+base = "Gaz industrial. Transportat criogenic sub formă de gaz comprimat lichefiat."
+
+[CARGO_INFO_PACKAGING]
+base = "Cutii, sticle, borcane, doze etc."
+
+[CARGO_INFO_PEAT]
+base = "Biomasă din mlaștini de turbă, extrasă pentru combustibil și horticultură."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Produse petroliere rafinate, cum ar fi benzină, motorină, kerosen, GPL, ulei combustibil și combustibil de buncăr, transportate ca lichide vrac sau gaz lichefiat."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Acid industrial utilizat în principal în producția de îngrășăminte și substanțe chimice, transportat ca lichid vrac."
+
+[CARGO_INFO_PIG_IRON]
+base = "Fier de bază dintr-un furnal, sub formă lichidă topită sau lingouri solide."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Bumbac, in, iută și materiale similare, pentru producerea de textile și materiale compozite."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Echipamente motorizate și sisteme mecanice utilizate în clădiri, industrii și ferme. Transportate ca unități complete sau ca subansambluri majore."
+
+[CARGO_INFO_PETROL]
+base = "Benzină, motorină și combustibili similari."
+
+[CARGO_INFO_PLASTICS]
+base = "Plastic brut pentru prelucrare ulterioară. De obicei transportat sub formă de mărgele de rășină."
+
+[CARGO_INFO_PIPEWORK]
+base = "Rezervoare de stocare, vase sub presiune, silozuri, butelii de gaz și ansambluri de conducte, pentru utilizare în clădiri urbane, industrii și ferme."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Produse chimice industriale utilizate în fabricație și prelucrare, transportate sub formă de lichide, pulberi, gaze sau bunuri ambalate."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Minerale de sulfură, topite pentru a produce o varietate de produse industriale."
+
+[CARGO_INFO_QUICKLIME]
+base = "Oxid de calciu, cunoscut și sub numele de var ars. Se transportă sub formă de pulbere fină, care trebuie menținută uscată."
+
+[CARGO_INFO_REBAR]
+base = "Bare subțiri de oțel brut, utilizate pe scară largă pentru a armă structuri de beton. Transportate sub formă de role sau de pachete de bare drepte."
+
+[CARGO_INFO_RUBBER]
+base = "În principal latex natural."
+
+[CARGO_INFO_SALT]
+base = "Produs chimic industrial utilizat pe scară largă. De obicei transportat ca marfă vrac care trebuie menținută uscată."
+
+[CARGO_INFO_SAND]
+base = "Nisip grosier pentru construcții sau nisip fin de siliciu pentru fabricarea sticlei și turnarea metalelor. Transportat în vrac sau sub formă de pulbere."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Sigilii flexibile, garnituri, furtunuri, curele, covoare, bucșe etc., fabricate din cauciuc sau materiale similare."
+
+[CARGO_INFO_SLAG]
+base = "Produs rezidual din producția de fier și oțel."
+
+[CARGO_INFO_SODA_ASH]
+base = "Produs chimic industrial. Sub formă de pulbere albă."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Turnături din oțel semifabricate. Rectangulare, pătrate sau rotunde în secțiune transversală."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Turnături brute din oțel, care necesită prelucrare ulterioară. Lingourile pot fi mici sau foarte mari. Profilele tipice ale lingourilor sunt rectangulare sau rotunde."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Bare de oțel, sub formă de rotunde, pătrate, plate și alte profiluri. Transportate ca produse lungi și drepte."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Țevi lungi, rotunde, din oțel, pentru transportul de lichide în conducte, clădiri, industrii etc."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Plăci și secțiuni de oțel laminat – grinzi I, grinzi H, profiluri U etc. Transportate ca produse lungi și drepte."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Foaie și bandă subțire de oțel laminat, utilizate pe scară largă pentru fabricarea altor produse. Transportate sub formă de foi plate sau de role."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Turnături din oțel semifabricate. Întotdeauna plate și rectangulare în secțiune transversală."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Tub lung, gol, cu secțiune transversală rotundă, rectangulară sau de alt tip. Folosit pentru fabricarea de structuri și mașinării."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Sârmă de oțel și bare subțiri. Transportate în principal sub formă de role."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Frânghii și cabluri produse prin tragerea barelor de sârmă de oțel la un diametru mai mic, apoi prin torsiunea lor în frânghii împletite."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Oțel de calitate structurală sub formă de secțiuni laminate (grinzi I, grinzi H etc.), plăci plate sau secțiuni și grinzi fabricate, sudate din plăci."
+
+[CARGO_INFO_SULPHUR]
+base = "Produs chimic industrial utilizat pe scară largă. De un galben intens, sub formă de pudră sau lichid."
+
+[CARGO_INFO_TIMBER]
+base = "Produse din lemn prelucrate provenite de la o ferărie sau industrii similare."
+
+[CARGO_INFO_TIN]
+base = "Lingouri."
+
+[CARGO_INFO_TINPLATE]
+base = "Foaie subțire de oțel acoperită cu staniu pentru rezistență la coroziune, utilizată în principal pentru conserve, recipiente și alte ambalaje."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Sârmă fină folosită pentru a întări anvelopele. Transportată sub formă de bobină."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Cabine, capote, uși și structuri similare ale caroseriei pentru producția de vehicule."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Motoare cu ardere internă și piese conexe ale grupului de transmisie, cum ar fi transmisia și axele de transmisie."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Componente pentru producția de vehicule, cum ar fi șasiuri și componente de suspensie, piese electrice, elemente de finisaj exterioare și piese interioare."
+
+[CARGO_INFO_VEHICLES]
+base = "În principal camioane. Sau mașini. Sau camioane ușoare. Poate tractoare."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Materiale pentru tăierea și sudarea metalelor, cum ar fi electrozi de sudură, unelte și gaze industriale, inclusiv acetilenă, argon, propan, oxigen și azot."
+
+[CARGO_INFO_WOOD]
+base = "Bușteni dintr-o pădure."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Fibră de lemn prelucrată, utilizată în principal pentru producția de hârtie, transportată sub formă de baloturi sau pulpă vrac."
+
+[CARGO_INFO_WOOL]
+base = "Bale."
+
+[CARGO_INFO_ZINC]
+base = "Lingouri."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

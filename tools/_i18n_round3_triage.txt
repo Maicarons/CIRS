@@ -1,0 +1,26 @@
+=== PRECISE zh-Hant simplified-char lines (unambiguous map 414 chars) ===
+TOTAL lines 2
+src/docs/lang/traditional_chinese.toml:173 | 体简 | DOC_TRANS_LANG_ZH = "简体中文（Chinese, Simplified）"
+src/docs/lang/traditional_chinese.toml:231 | 体简 | DOC_TRANS_LANG_SIMPLIFIED_CHINESE = "简体中文"
+
+=== RENDERED short-code extra_strings health ===
+extra_strings_zh.toml keys=139 english=0 FIRS=0 cyr=0 kana=0
+extra_strings_fr.toml keys=139 english=0 FIRS=0 cyr=0 kana=0
+extra_strings_de.toml keys=139 english=0 FIRS=0 cyr=0 kana=0
+extra_strings_es.toml keys=139 english=0 FIRS=0 cyr=0 kana=0
+extra_strings_pt.toml keys=139 english=0 FIRS=0 cyr=0 kana=0
+extra_strings_ko.toml keys=139 english=0 FIRS=0 cyr=0 kana=0
+extra_strings_ar.toml keys=139 english=0 FIRS=0 cyr=0 kana=0
+
+=== WORK-LIST COVERAGE ===
+contam croatian CARGO_INFO_PLANT_AND_MACHINERY.base in_work=True
+contam danish STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.name in_work=True
+contam norwegian_bokmal STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.name in_work=True
+contam traditional_chinese CARGO_INFO_WOOD_PULP.base in_work=True
+dual french extra refs {"extra_strings_french.toml": 138}
+dual german extra refs {"extra_strings_german.toml": 137}
+dual spanish extra refs {"extra_strings_spanish.toml": 138}
+dual simplified_chinese extra refs {"extra_strings_simplified_chinese.toml": 138}
+dual korean extra refs {"extra_strings_ko.toml": 139, "extra_strings_korean.toml": 138}
+dual arabic extra refs {"extra_strings_ar.toml": 139, "extra_strings_arabic.toml": 139}
+dual portuguese extra refs {"extra_strings_portuguese.toml": 139, "extra_strings_pt.toml": 139}

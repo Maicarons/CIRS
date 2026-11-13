@@ -1,0 +1,542 @@
+FLAGS 136 TARGETED 32
+===== TARGETED BY PATTERN =====
+--- upstream count=14
+  belarusian           | src/docs/lang/belarusian.toml | DOC_HOME_WHY_3_TITLE
+     EN: Upstream tracking
+     TR: Адсочванне upstream
+  belarusian           | src/docs/lang/belarusian.toml | DOC_HOME_WHY_3_DESC
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Поўная гісторыя git FIRS захоўваецца, таму будучыя змены upstream могуць быць аб'яднаны, а не адгалінаваны.
+  danish               | src/docs/lang/danish.toml | DOC_HOME_WHY_3_TITLE
+     EN: Upstream tracking
+     TR: Upstream-sporende
+  danish               | src/docs/lang/danish.toml | DOC_HOME_WHY_3_DESC
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Den fulde FIRS git-historik bevares, så fremtidige upstream-ændringer kan flettes i stedet for at blive fra-forket.
+  dutch                | src/docs/lang/dutch.toml | DOC_HOME_WHY_3_TITLE
+     EN: Upstream tracking
+     TR: Upstream-volging
+  dutch                | src/docs/lang/dutch.toml | DOC_HOME_WHY_3_DESC
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: De volledige FIRS git-geschiedenis wordt behouden, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van weggeforkt.
+  german               | src/docs/lang/german.toml | DOC_HOME_WHY_3_TITLE
+     EN: Upstream tracking
+     TR: Upstream-Verfolgung
+  german               | src/docs/lang/german.toml | DOC_HOME_WHY_3_DESC
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Der vollständige FIRS-Git-Verlauf wird beibehalten, sodass künftige Upstream-Änderungen zusammengeführt und nicht weggeforkt werden können.
+  italian              | src/docs/lang/italian.toml | DOC_HOME_WHY_3_TITLE
+     EN: Upstream tracking
+     TR: Tracciamento upstream
+  italian              | src/docs/lang/italian.toml | DOC_HOME_WHY_3_DESC
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: L'intera cronologia git di FIRS è preservata, così i futuri cambiamenti upstream possono essere uniti invece di essere separati con un fork.
+  latin                | src/docs/lang/latin.toml | DOC_HOME_WHY_3_TITLE
+     EN: Upstream tracking
+     TR: Vestigium Upstream
+  latin                | src/docs/lang/latin.toml | DOC_HOME_WHY_3_DESC
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Tota historia git FIRS conservatur, ita mutationes futurae upstream coniungi possunt potius quam furculari.
+  polish               | src/docs/lang/polish.toml | DOC_HOME_WHY_3_TITLE
+     EN: Upstream tracking
+     TR: Śledzenie upstream
+  polish               | src/docs/lang/polish.toml | DOC_HOME_WHY_3_DESC
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Pełna historia git FIRS jest zachowywana, dzięki czemu przyszłe zmiany z upstream mogą być scalane zamiast być rozwidlane.
+--- old_firs_name count=15
+  catalan              | src/grf/lang/catalan.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Fet per andythenorth, FooBar, planetmaker, Terkhen i Yexo, amb l'ajuda de molts altres. {SILVER}Consulteu el llegeix-me per a més informació, incloent-hi com usar FIRS. {BLACK}Llicència: GPL v2.
+  danish               | src/grf/lang/danish.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Bragt til dig af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se "readme"-filen for mere information, inklusiv hvordan man anvender FIRS. {BLACK}Licens: GPL v2.
+  dutch                | src/grf/lang/dutch.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Gemaakt door andythenorth, FooBar, planetmaker, Terkhen en Yexo met hulp van vele anderen. {SILVER}Lees de 'readme' voor meer informatie, inclusief hoe je FIRS kunt gebruiken. {BLACK}Licentie: GPL V2.
+  estonian             | src/grf/lang/estonian.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Toodud Teieni andythenorth, FooBar, planetmaker, Terkhen and Yexo ja paljude teiste poolt{SILVER}Rohkem infot "read me"-s, ka see kuidas kasutada FIRS-i. {BLACK}Litsents: GPL v2.
+  finnish              | src/grf/lang/finnish.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Tekijät: andythenorth, FooBar, planetmaker, Terkhen and Yexo sekä kaikki muut apuna olleet. {SILVER}Lisätietoja, mukaan lukien käyttöoppaan, löydät readme-tiedostosta. {BLACK}Lisenssi: GPL v2.
+  galician             | src/grf/lang/galician.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Creado por andythenorth, FooBar, planetmaker, Terkhen e Yexo, coa axuda de moitos outros. {SILVER}Consulta o Readme para máis información, incluíndo como usar o FIRS. {BLACK}Licencia: GPL v2.
+  hungarian            | src/grf/lang/hungarian.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Készítette: andythenorth, FooBar, planetmaker, Terkhen, Yexo és még sokan mások. {SILVER}További információkhoz (például a FIRS használatához) lásd a readme-t. {BLACK}Licenc: GPL v2.
+  indonesian           | src/grf/lang/indonesian.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set -{}{BLACK}Dibuat untuk anda oleh andythenorth, FooBar, planetmaker, Terkhen and Yexo, dan bantuan dari yang lain. {SILVER}Lihat readme untuk informasi lebih lanjut, termasuk cara penggunaan FIRS. {BLACK}Lisensi: GPL v2.
+  italian              | src/grf/lang/italian.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Di andythenorth, FooBar, planetmaker, Terkhen e Yexo, e con il contributo di molti altri. {SILVER}Leggete il file readme per informazioni e per consigli su come usare FIRS. {BLACK}Licenza: GPL v2.
+  luxembourgish        | src/grf/lang/luxembourgish.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Codéiert vum andythenorth, FooBar, planetmaker, Terkhen an Yexo, mat der Hëllef vun villen aneren. {SILVER}Lies de readme fir méi Informatiounen iwwert d'Benotzung vun FIRS. {BLACK}Lizenz: GPL v2.
+  polish               | src/grf/lang/polish.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Autorzy: andythenorth, FooBar, planetmaker, Terkhen, Yexo i inni. {SILVER}Więcej informacji w pliku readme. {BLACK}Licencja: GPL v2.
+  romanian             | src/grf/lang/romanian.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Publicat de andythenorth, FooBar, planetmaker, Terkhen şi Yexo, cu ajutorul miultor altora. {SILVER}Vezi fişierul readme pentru mai multe informaţii, inclusiv cum să foloseşti FIRS. {BLACK}License: GPL v2.
+  slovak               | src/grf/lang/slovak.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Vám prináša andythenorth, FooBar, planetmaker, Terkhen, Yexo a ďalší. {SILVER}Pozri ReadMe pre viac informácií, vrátane ako použiť FIRS. {BLACK}Licencia: GPL v2.
+  spanish_MX           | src/grf/lang/spanish_MX.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Creado por andythenorth, FooBar, planetmaker, Terkhen y Yexo, con colaboración de muchos otros. {SILVER}Consulta el archivo Léeme para más información, incluyendo cómo usar FIRS. {BLACK}Licencia: GPL v2.
+  swedish              | src/grf/lang/swedish.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Skapat av andythenorth, FooBar, planetmaker, Terkhen och Yexo, med hjälp av många andra. {SILVER}Se "readme"-filen för mer information, inklusive om hur man använder FIRS. {BLACK}Licens: GPL v2.
+--- na_city_param count=2
+  german               | src/grf/lang/german.toml | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Inkompatibler Parameter: {ORANGE}NA City Set Parameter 2 muss 0 sein, um mit CIRS zu funktionieren.
+  italian              | src/grf/lang/italian.toml | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}NA City Set parameter 2 deve essere 0 per funzionare con FIRS.
+--- conflicting_newgrfs count=1
+  japanese             | src/docs/lang/japanese.toml | DOC_GS_CONFLICTS_P3_LINK
+     EN: conflicting newgrfs
+     TR: conflicting newGRFs
+===== ALL FLAGS =====
+--- afrikaans count=1
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/afrikaans.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser vir Markdown-teksformaat)
+--- arabic count=3
+  [latin_ratio] r=0.5 ov=0 stops=[] | src/docs/lang/arabic.toml | DOC_CR_DEP_CHAMELEON
+     EN: Chameleon (Template engine)
+     TR: Chameleon (محرك قوالب)
+  [latin_ratio] r=0.62 ov=0.4 stops=[] | src/docs/lang/arabic.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (محلل صيغة نص Markdown)
+  [latin_ratio] r=0.59 ov=0.57 stops=[] | src/docs/lang/arabic.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: يوجد نص اللعبة في src/grf/lang/*.toml (سلاسل NewGRF) وsrc/gs/lang/*.toml (سلاسل GameScript). ويوجد نص الموقع في src/docs/lang/*.toml وsrc/docs/extra_strings*.toml.
+--- belarusian count=4
+  [latin_ratio] r=0.38 ov=0 stops=[] | src/docs/lang/belarusian.toml | DOC_CR_DEP_CHAMELEON
+     EN: Chameleon (Template engine)
+     TR: Chameleon (рухавік шаблонаў)
+  [latin_ratio] r=0.41 ov=0.4 stops=[] | src/docs/lang/belarusian.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (парсер тэкставага фармату Markdown)
+  [latin_ratio] r=0.5 ov=0.57 stops=[] | src/docs/lang/belarusian.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: Гульнявы тэкст знаходзіцца ў src/grf/lang/*.toml (радкі NewGRF) і src/gs/lang/*.toml (радкі GameScript). Тэкст сайта знаходзіцца ў src/docs/lang/*.toml і src/docs/extra_strings*.toml.
+  [latin_ratio] r=0.44 ov=0 stops=[] | src/docs/lang/belarusian.toml | DOC_HOME_WHY_3_TITLE
+     EN: Upstream tracking
+     TR: Адсочванне upstream
+--- catalan count=23
+  [en_stopwords] r=0.98 ov=0.29 stops=["set","per","per"] | src/grf/lang/catalan.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Fet per andythenorth, FooBar, planetmaker, Terkhen i Yexo, amb l'ajuda de molts altres. {SILVER}Consulteu el llegeix-me per a més informació, incloent-hi com usar FIRS. {BLACK}Llicència: GPL v2.
+  [en_stopwords] r=0.96 ov=0 stops=["per","per"] | src/grf/lang/catalan.toml | STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT.base
+     EN: Supply crates required for Enhanced primary production (default 16)
+     TR: Caixes de subministrament necessàries per a la producció primària millorada (per defecte, 16)
+  [en_stopwords] r=0.96 ov=0.12 stops=["per","per"] | src/grf/lang/catalan.toml | STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT.base
+     EN: Supply crates required for Gung-ho primary production (default 80)
+     TR: Caixes de subministrament necessàries per a la producció primària Gung-ho (per defecte, 80)
+  [en_stopwords] r=0.97 ov=0.09 stops=["per","per"] | src/grf/lang/catalan.toml | STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT.base
+     EN: Farms, mines and similar industries will increase production when supply crates are delivered, first to {SILVER}Enhanced{BLACK}, and then to {SILVER}Gung-ho{BLACK}, if enough crates are delivered.  {}{}The default values are good, but if you need to, you can change them here.  {}{}Cargo requirements for port-type industries will be 8x the values set here.
+     TR: Les granges, les mines i les indústries similars augmentaran la producció quan s'entreguin caixes de subministrament, primer a {SILVER}Enhanced{BLACK} i després a {SILVER}Gung-ho{BLACK}, si s'entreguen prou caixes.  {}{}Els valors predeterminats són adequats, però, si cal, els podeu canviar aquí.  {}{}Els requisits de càrrega per a les indústries de tipus port seran 8 vegades superiors als valors establerts aquí.
+  [en_stopwords] r=0.98 ov=0.11 stops=["per","per"] | src/grf/lang/catalan.toml | STR_PRIMARY_PRODUCTION_1X.base
+     EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+     TR: {BLACK}Producció actual: {YELLOW}Normal {}{}{BLACK}Per a una producció {WHITE}Millorada {BLACK}, lliureu {SIGNED_WORD} caixes de subministraments almenys un cop cada tres minuts.{}Per a una producció {WHITE}Gung-ho {BLACK}, lliureu {SIGNED_WORD} caixes.
+  [en_stopwords] r=0.99 ov=0.05 stops=["per","per"] | src/grf/lang/catalan.toml | STR_PRIMARY_PRODUCTION_2X.base
+     EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+     TR: {BLACK}Producció actual: {YELLOW}Millorada {}{}{BLACK}Per mantenir aquest nivell, lliureu {SIGNED_WORD} caixes de subministraments almenys un cop cada tres minuts.{}Per a una producció {WHITE}Gung-ho {BLACK}, lliureu {SIGNED_WORD} caixes.
+  [en_stopwords] r=0.97 ov=0.11 stops=["per","per"] | src/grf/lang/catalan.toml | STR_PORT_PRODUCTION_1X.base
+     EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+     TR: {BLACK}Producció actual: {YELLOW}Normal {}{}{BLACK}Per a una producció {WHITE}Millorada {BLACK}, lliureu {SIGNED_WORD} unitats de càrrega almenys un cop cada tres minuts.{}Per a una producció {WHITE}Gung-ho {BLACK}, lliureu {SIGNED_WORD} unitats.
+  [en_stopwords] r=0.98 ov=0.05 stops=["per","per"] | src/grf/lang/catalan.toml | STR_PORT_PRODUCTION_2X.base
+     EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+     TR: {BLACK}Producció actual: {YELLOW}Millorada {}{}{BLACK}Per mantenir aquest nivell, lliureu {SIGNED_WORD} unitats de càrrega almenys un cop cada tres minuts.{}Per a una producció {WHITE}Gung-ho {BLACK}, lliureu {SIGNED_WORD} unitats.
+  [en_stopwords] r=0.97 ov=0.38 stops=["set","per"] | src/grf/lang/catalan.toml | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Paràmetre incompatible: {ORANGE}El paràmetre 2 de NA City Set ha de ser 0 per funcionar amb CIRS.
+  [en_stopwords] r=0.97 ov=0 stops=["per","per"] | src/docs/lang/catalan.toml | DOC_GS_FEATURE_SNOW
+     EN: Snow for buildings above snowline
+     TR: Neu per als edificis per sobre de la línia de neu
+  [en_stopwords] r=0.98 ov=0.05 stops=["per","per","per"] | src/docs/lang/catalan.toml | DOC_GS_TIPS_5
+     EN: CIRS adjusts default town behaviour: towns above snowline do not require food to grow, and towns in desert do not require food and water to grow.
+     TR: CIRS ajusta el comportament predeterminat de les ciutats: les ciutats per sobre de la línia de neu no necessiten menjar per créixer, i les ciutats al desert no necessiten menjar ni aigua per créixer.
+  [en_stopwords] r=0.98 ov=0.11 stops=["per","per"] | src/docs/lang/catalan.toml | DOC_GS_SETUP_B4
+     EN: Economies can be used in any OpenTTD climate, but some are designed to work best in the temperate, sub-arctic or sub-tropic climates.
+     TR: Les economies es poden fer servir en qualsevol clima d'OpenTTD, però algunes estan dissenyades per funcionar millor en els climes temperat, subàrtic o subtropical.
+  [high_overlap] r=1 ov=0.8 stops=[] | src/docs/lang/catalan.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (analitzador del format de text Markdown)
+  [en_stopwords] r=0.96 ov=0.08 stops=["per","per"] | src/docs/lang/catalan.toml | DOC_CR_FRAX_P1
+     EN: For cargo class names, FIRS 4 and newer uses FRAX, an improved standard for cargo classes.
+     TR: Per als noms de classe de càrrega, FIRS 4 i posteriors usen FRAX, un estàndard millorat per a classes de càrrega.
+  [en_stopwords] r=0.97 ov=0.25 stops=["per","per"] | src/docs/lang/catalan.toml | DOC_CR_PRICE_NOTE
+     EN: * Price Factor is a base value, will be automatically adjusted per economy to ensure no prices overlap.
+     TR: * El factor de preu és un valor base, que s'ajustarà automàticament per economia per assegurar que els preus no es solapin.
+  [en_stopwords] r=0.99 ov=0.16 stops=["per","per"] | src/docs/lang/catalan.toml | DOC_CR_TOWN_GROWTH_NOTE
+     EN: ** Town growth effects: apart from TOWNGROWTH_PASSENGERS and TOWNGROWTH_MAIL, CIRS does not set any town growth effects; this has the intended effect of disabling food / water requirements for towns in desert and above snowline.
+     TR: ** Efectes de creixement de la ciutat: excepte TOWNGROWTH_PASSENGERS i TOWNGROWTH_MAIL, CIRS no defineix cap efecte de creixement de la ciutat; això té l'efecte previst de desactivar els requisits de menjar / aigua per a les ciutats al desert i per sobre de la línia de neu.
+  [high_overlap] r=1 ov=0.65 stops=[] | src/docs/lang/catalan.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: El text del joc es troba a src/grf/lang/*.toml (cadenes NewGRF) i src/gs/lang/*.toml (cadenes GameScript). El text del lloc web es troba a src/docs/lang/*.toml i src/docs/extra_strings*.toml.
+  [en_stopwords] r=0.99 ov=0.08 stops=["per","per"] | src/docs/extra_strings_catalan.toml | ECONOMY_INFO_BASIC_TROPIC.base
+     EN: Simple economy. Inspired by Argentina, Peru and Chile. Best used with Sub-Tropic climate.
+     TR: Economia senzilla. Inspirada per l'Argentina, el Perú i Xile. Es recomana utilitzar-la amb un clima subtropical.
+  [en_stopwords] r=0.97 ov=0.1 stops=["per","per"] | src/docs/extra_strings_catalan.toml | CARGO_INFO_CLAY.base
+     EN: Generic clays, for producing building materials and other industrial uses.
+     TR: Argiles genèriques, per produir materials de construcció i per a altres usos industrials.
+  [en_stopwords] r=0.95 ov=0.15 stops=["per","per","per"] | src/docs/extra_strings_catalan.toml | CARGO_INFO_CLEANING_AGENTS.base
+     EN: Chemicals, soaps, scouring agents etc for industrial and domestic use. Primarily liquid, can also be powder or solid (such as shot blasting sand).
+     TR: Productes químics, sabons, agents abrasius, etc., per a ús industrial i domèstic. Principalment líquids, però també poden ser en pols o sòlids (com ara sorra per a sablatge).
+  [en_stopwords] r=1 ov=0 stops=["per","per"] | src/docs/extra_strings_catalan.toml | CARGO_INFO_EDIBLE_OIL.base
+     EN: Oil for cooking and consumption.
+     TR: Oli per cuinar i per al consum.
+  [en_stopwords] r=0.99 ov=0 stops=["per","per"] | src/docs/extra_strings_catalan.toml | CARGO_INFO_SAND.base
+     EN: Coarse sand for construction, or fine silica sand for glass-making and metal casting. Transported as bulk or powder.
+     TR: Sorra gruixuda per a la construcció, o sorra fina de silici per a fabricar vidre i fer fosa de metalls. Es transporta a granel o en pols.
+  [en_stopwords] r=0.98 ov=0 stops=["per","per"] | src/docs/extra_strings_catalan.toml | CARGO_INFO_TINPLATE.base
+     EN: Thin steel sheet coated with tin for corrosion resistance, used mainly for cans, containers and other packaging.
+     TR: Fulla d’acer fina recoberta d’estany per resistir la corrosió, utilitzada principalment per fabricar llaunes, contenidors i altres embalatges.
+--- croatian count=1
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/croatian.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser formata teksta Markdown)
+--- czech count=2
+  [high_overlap] r=0.97 ov=0.6 stops=[] | src/docs/lang/czech.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser formátu Markdown)
+  [high_overlap] r=0.93 ov=0.65 stops=[] | src/docs/lang/czech.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: Text hry se nachází v src/grf/lang/*.toml (řetězce NewGRF) a src/gs/lang/*.toml (řetězce GameScript). Text webu se nachází v src/docs/lang/*.toml a src/docs/extra_strings*.toml.
+--- danish count=13
+  [en_stopwords] r=0.99 ov=0.36 stops=["set","for"] | src/grf/lang/danish.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Bragt til dig af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se "readme"-filen for mere information, inklusiv hvordan man anvender FIRS. {BLACK}Licens: GPL v2.
+  [en_stopwords] r=0.99 ov=0.21 stops=["for","for"] | src/grf/lang/danish.toml | STR_PRIMARY_PRODUCTION_1X.base
+     EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+     TR: {BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produktion skal der leveres {SIGNED_WORD} kasser med forsyninger mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal der leveres {SIGNED_WORD} kasser.
+  [en_stopwords] r=0.99 ov=0.11 stops=["for","for"] | src/grf/lang/danish.toml | STR_PRIMARY_PRODUCTION_2X.base
+     EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+     TR: {BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau skal du levere {SIGNED_WORD} kasser med forsyninger mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal du levere {SIGNED_WORD} kasser.
+  [en_stopwords] r=0.99 ov=0.21 stops=["for","for"] | src/grf/lang/danish.toml | STR_PORT_PRODUCTION_1X.base
+     EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+     TR: {BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produktion skal der leveres {SIGNED_WORD} enheder fragt mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal der leveres {SIGNED_WORD} enheder.
+  [en_stopwords] r=0.99 ov=0.11 stops=["for","for"] | src/grf/lang/danish.toml | STR_PORT_PRODUCTION_2X.base
+     EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+     TR: {BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau skal du levere {SIGNED_WORD} enheder last mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal du levere {SIGNED_WORD} enheder.
+  [en_stopwords] r=0.98 ov=0.5 stops=["set","for"] | src/grf/lang/danish.toml | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Ukompatibel parameter: {ORANGE}NA City Set-parameter 2 skal være 0 for at fungere med CIRS.
+  [en_stopwords] r=0.98 ov=0.1 stops=["for","for"] | src/gs/lang/danish.toml | STR_CABBAGE_TOWN.base
+     EN: Town is {STRING}{}{}To find out more about this town (including growth and happiness requirements), open the Story Book, and find the page for {TOWN}
+     TR: Byen er {STRING}{}{}For at finde mere om denne by (inklusive vækst- og lykkekrav), åbn Historiebogen og find siden for {TOWN}
+  [en_stopwords] r=0.98 ov=0 stops=["over","for","for","for","for"] | src/docs/lang/danish.toml | DOC_GS_TIPS_5
+     EN: CIRS adjusts default town behaviour: towns above snowline do not require food to grow, and towns in desert do not require food and water to grow.
+     TR: CIRS justerer standardbyernes adfærd: byer over snegrænsen har ikke brug for mad for at vokse, og byer i ørkenen har ikke brug for mad og vand for at vokse.
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/danish.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser til Markdown-tekstformatet)
+  [en_stopwords] r=1 ov=0.25 stops=["for","for"] | src/docs/lang/danish.toml | DOC_CR_FRAX_P1
+     EN: For cargo class names, FIRS 4 and newer uses FRAX, an improved standard for cargo classes.
+     TR: For godsklassenavne bruger FIRS 4 og nyere FRAX, en forbedret standard for gods klasser.
+  [en_stopwords] r=0.97 ov=0.04 stops=["for","via"] | src/docs/lang/danish.toml | DOC_CR_FRAX_P2
+     EN: FRAX classes are the preferred method for vehicle refittability support. There are some detailed cases where authors may find it helpful to set vehicle refittability using cargo labels instead.
+     TR: FRAX-klasser er den foretrukne metode til understøttelse af køretøjsomstilling. Der er nogle detaljerede tilfælde, hvor det kan være nyttigt for forfattere at definere omstilling via gods-etiketter i stedet.
+  [en_stopwords] r=0.98 ov=0.16 stops=["for","over"] | src/docs/lang/danish.toml | DOC_CR_TOWN_GROWTH_NOTE
+     EN: ** Town growth effects: apart from TOWNGROWTH_PASSENGERS and TOWNGROWTH_MAIL, CIRS does not set any town growth effects; this has the intended effect of disabling food / water requirements for towns in desert and above snowline.
+     TR: ** Byvæksteffekter: med undtagelse af TOWNGROWTH_PASSENGERS og TOWNGROWTH_MAIL angiver CIRS ingen byvæksteffekter; dette har den tilsigtede effekt at deaktivere mad-/vandkravene for byer i ørkenen og over snegrænsen.
+  [en_stopwords] r=0.99 ov=0.25 stops=["via","for"] | src/docs/lang/danish.toml | DOC_TRANS_HOW_P3
+     EN: Translations are accepted through GitHub pull requests. See README_zh.md and TRANSLATING.md in the repository for details.
+     TR: Oversættelser accepteres via GitHub-pullrequests. Se README_zh.md og TRANSLATING.md i repositoriet for detaljer.
+--- dutch count=1
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/dutch.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser voor het Markdown-tekstformaat)
+--- esperanto count=1
+  [en_stopwords] r=1 ov=0.2 stops=["per","per"] | src/docs/lang/esperanto.toml | DOC_TRANS_HISTORY_P1
+     EN: FIRS 3.x and 4.x shipped translations as .lng files managed with the #openttdcoop Web Translator. FIRS 5 dropped translations. CIRS restores community translation with a simpler, reviewable TOML workflow.
+     TR: FIRS 3.x kaj 4.x liveris tradukojn kiel .lng dosierojn administratajn per la #openttdcoop Web Translator. FIRS 5 forlasis tradukojn. CIRS revivigas komunuman tradukadon per pli simpla, revizebla TOML-fluo.
+--- estonian count=1
+  [en_stopwords] r=1 ov=0.36 stops=["set","and"] | src/grf/lang/estonian.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Toodud Teieni andythenorth, FooBar, planetmaker, Terkhen and Yexo ja paljude teiste poolt{SILVER}Rohkem infot "read me"-s, ka see kuidas kasutada FIRS-i. {BLACK}Litsents: GPL v2.
+--- finnish count=1
+  [en_stopwords] r=0.96 ov=0.32 stops=["set","and"] | src/grf/lang/finnish.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Tekijät: andythenorth, FooBar, planetmaker, Terkhen and Yexo sekä kaikki muut apuna olleet. {SILVER}Lisätietoja, mukaan lukien käyttöoppaan, löydät readme-tiedostosta. {BLACK}Lisenssi: GPL v2.
+--- french count=1
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/french.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (analyseur de format texte Markdown)
+--- gaelic count=1
+  [high_overlap] r=0.97 ov=0.6 stops=[] | src/docs/lang/gaelic.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (mìneadair air format teacsa Markdown)
+--- german count=2
+  [high_overlap] r=0.97 ov=0.6 stops=[] | src/docs/lang/german.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (Parser für das Markdown-Textformat)
+  [high_overlap] r=1 ov=0.65 stops=[] | src/docs/lang/german.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: Der Spieltext befindet sich in src/grf/lang/*.toml (NewGRF-Zeichenketten) und src/gs/lang/*.toml (GameScript-Zeichenketten). Der Website-Text befindet sich in src/docs/lang/*.toml und src/docs/extra_strings*.toml.
+--- indonesian count=2
+  [en_stopwords] r=1 ov=0.32 stops=["set","and"] | src/grf/lang/indonesian.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set -{}{BLACK}Dibuat untuk anda oleh andythenorth, FooBar, planetmaker, Terkhen and Yexo, dan bantuan dari yang lain. {SILVER}Lihat readme untuk informasi lebih lanjut, termasuk cara penggunaan FIRS. {BLACK}Lisensi: GPL v2.
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/indonesian.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (pengurai format teks Markdown)
+--- italian count=16
+  [en_stopwords] r=0.98 ov=0 stops=["set","per"] | src/grf/lang/italian.toml | STR_GRF_NAME.base
+     EN: CIRS Community Industry Replacement Set
+     TR: CIRS – Set di sostituzione per industrie comunitarie
+  [en_stopwords] r=1 ov=0.29 stops=["set","per","per"] | src/grf/lang/italian.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Di andythenorth, FooBar, planetmaker, Terkhen e Yexo, e con il contributo di molti altri. {SILVER}Leggete il file readme per informazioni e per consigli su come usare FIRS. {BLACK}Licenza: GPL v2.
+  [en_stopwords] r=0.99 ov=0.09 stops=["set","per"] | src/grf/lang/italian.toml | STR_PARAM_DESC_OBJECTS.base
+     EN: CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.
+     TR: FIRS include un set di oggetti di arredo paesaggistico che i giocatori possono posizionare per far apparire alcune industrie più grandi. Gli oggetti di arredo non hanno alcun effetto sul gameplay. Possono essere attivati o disattivati.
+  [en_stopwords] r=1 ov=0.05 stops=["per","per"] | src/grf/lang/italian.toml | STR_PRIMARY_PRODUCTION_2X.base
+     EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+     TR: {BLACK}Produzione attuale: {YELLOW}Elevata{}{}{BLACK}Per mantenere questo livello di produzione, si devono consegnare {SIGNED_WORD} casse di forniture entro 3 mesi{}Per salire al livello {WHITE}Gung ho{BLACK} si devono consegnare {SIGNED_WORD} casse.
+  [en_stopwords] r=0.99 ov=0.05 stops=["per","per"] | src/grf/lang/italian.toml | STR_PORT_PRODUCTION_2X.base
+     EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+     TR: {BLACK}Produzione attuale: {YELLOW}Elevata{}{}{BLACK}Per mantenere questo livello di produzione, si devono consegnare {SIGNED_WORD} unità di merci entro 3 mesi{}Per salire al livello {WHITE}Gung ho {BLACK}, si devono consegnare {SIGNED_WORD} unità.
+  [en_stopwords] r=1 ov=0.38 stops=["set","per"] | src/grf/lang/italian.toml | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}NA City Set parameter 2 deve essere 0 per funzionare con FIRS.
+  [en_stopwords] r=0.95 ov=0 stops=["per","per"] | src/gs/lang/italian.toml | STR_CABBAGE_TOWN.base
+     EN: Town is {STRING}{}{}To find out more about this town (including growth and happiness requirements), open the Story Book, and find the page for {TOWN}
+     TR: La città è {STRING}{}{}Per saperne di più su questa città (inclusi i requisiti di crescita e felicità), apri il Libro delle storie e trova la pagina per {TOWN}
+  [en_stopwords] r=0.98 ov=0 stops=["set","per"] | src/docs/lang/italian.toml | DOC_TITLE
+     EN: CIRS Community Industry Replacement Set
+     TR: CIRS – Set di sostituzione per industrie comunitarie
+  [en_stopwords] r=0.99 ov=0 stops=["per","per"] | src/docs/lang/italian.toml | DOC_GS_TIPS_5
+     EN: CIRS adjusts default town behaviour: towns above snowline do not require food to grow, and towns in desert do not require food and water to grow.
+     TR: CIRS adatta il comportamento predefinito delle città: le città sopra la linea delle nevi non necessitano di cibo per crescere e quelle nel deserto non necessitano di cibo e acqua per crescere.
+  [en_stopwords] r=1 ov=0 stops=["set","per"] | src/docs/lang/italian.toml | DOC_GS_VEHICLES_P2
+     EN: There are also lots of great NewGRF vehicle sets with CIRS support.
+     TR: Esistono anche molti ottimi set di veicoli NewGRF con supporto per CIRS.
+  [en_stopwords] r=1 ov=0.08 stops=["per","per"] | src/docs/lang/italian.toml | DOC_CR_FRAX_P1
+     EN: For cargo class names, FIRS 4 and newer uses FRAX, an improved standard for cargo classes.
+     TR: Per i nomi delle classi di carico, FIRS 4 e successivi usano FRAX, uno standard migliorato per le classi di carico.
+  [en_stopwords] r=0.98 ov=0.17 stops=["per","per"] | src/docs/lang/italian.toml | DOC_CR_PRICE_NOTE
+     EN: * Price Factor is a base value, will be automatically adjusted per economy to ensure no prices overlap.
+     TR: * Il fattore di prezzo è un valore di base, verrà regolato automaticamente per economia per evitare sovrapposizioni di prezzo.
+  [en_stopwords] r=1 ov=0 stops=["per","per"] | src/docs/extra_strings_italian.toml | CARGO_INFO_CLEANING_AGENTS.base
+     EN: Chemicals, soaps, scouring agents etc for industrial and domestic use. Primarily liquid, can also be powder or solid (such as shot blasting sand).
+     TR: Prodotti chimici, saponi, agenti abrasivi ecc. per uso industriale e domestico. Principalmente liquidi, ma possono anche essere in polvere o solidi (come la sabbia per sabbiatura).
+  [en_stopwords] r=1 ov=0 stops=["per","per"] | src/docs/extra_strings_italian.toml | CARGO_INFO_EDIBLE_OIL.base
+     EN: Oil for cooking and consumption.
+     TR: Petrolio per cucinare e per il consumo.
+  [en_stopwords] r=1 ov=0.06 stops=["per","per"] | src/docs/extra_strings_italian.toml | CARGO_INFO_SAND.base
+     EN: Coarse sand for construction, or fine silica sand for glass-making and metal casting. Transported as bulk or powder.
+     TR: Sabbia grossolana per l'edilizia, o sabbia di silice fine per la produzione di vetro e la fusione dei metalli. Trasportata in sfuso o in polvere.
+  [en_stopwords] r=1 ov=0 stops=["per","per"] | src/docs/extra_strings_italian.toml | CARGO_INFO_TINPLATE.base
+     EN: Thin steel sheet coated with tin for corrosion resistance, used mainly for cans, containers and other packaging.
+     TR: Lamina d'acciaio sottile rivestita di stagno per resistere alla corrosione, usata principalmente per lattine, contenitori e altri imballaggi.
+--- japanese count=5
+  [latin_ratio] r=0.46 ov=0 stops=[] | src/grf/lang/japanese.toml | STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS.base
+     EN: Gung-ho primary production level (%)
+     TR: Gung-ho 一次生産レベル (%)
+  [latin_ratio] r=1 ov=0 stops=[] | src/docs/lang/japanese.toml | DOC_GS_CONFLICTS_P3_LINK
+     EN: conflicting newgrfs
+     TR: conflicting newGRFs
+  [latin_ratio] r=0.43 ov=0 stops=[] | src/docs/lang/japanese.toml | DOC_CR_DEP_CHAMELEON
+     EN: Chameleon (Template engine)
+     TR: Chameleon（テンプレートエンジン）
+  [latin_ratio] r=0.57 ov=0.4 stops=[] | src/docs/lang/japanese.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown（Markdownテキスト形式のパーサ）
+  [latin_ratio] r=0.57 ov=0.57 stops=[] | src/docs/lang/japanese.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: ゲームのテキストは src/grf/lang/*.toml（NewGRF文字列）と src/gs/lang/*.toml（GameScript文字列）にあります。ウェブサイトのテキストは src/docs/lang/*.toml と src/docs/extra_strings*.toml にあります。
+--- korean count=6
+  [latin_ratio] r=0.42 ov=0.18 stops=[] | src/grf/lang/korean.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS 산업 시설 대체 세트{}{BLACK}andythenorth, FooBar, planetmaker, Terkhen, Yexo 등 많은 분들의 도움을 받아 제공됩니다. {SILVER}FIRS를 사용하는 방법 등을 포함한 자세한 정보는 읽어보기를 참고하세요. {BLACK}라이선스: GPL v2
+  [latin_ratio] r=0.64 ov=0 stops=[] | src/docs/lang/korean.toml | DOC_CR_DEP_CHAMELEON
+     EN: Chameleon (Template engine)
+     TR: Chameleon (템플릿 엔진)
+  [latin_ratio] r=0.7 ov=0.4 stops=[] | src/docs/lang/korean.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (Markdown 텍스트 형식 파서)
+  [latin_ratio] r=0.39 ov=0.22 stops=[] | src/docs/lang/korean.toml | DOC_CR_DEP_GRAPHVIZ
+     EN: Graphviz (optional, used to generate cargo flow charts in html docs)
+     TR: Graphviz (선택 사항, HTML 문서에서 화물 흐름 차트 생성에 사용)
+  [latin_ratio] r=0.65 ov=0.57 stops=[] | src/docs/lang/korean.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: 게임 텍스트는 src/grf/lang/*.toml (NewGRF 문자열) 및 src/gs/lang/*.toml (GameScript 문자열)에 있습니다. 웹사이트 텍스트는 src/docs/lang/*.toml 및 src/docs/extra_strings*.toml에 있습니다.
+  [latin_ratio] r=0.42 ov=0.17 stops=[] | src/docs/lang/korean.toml | DOC_TRANS_HOW_P3
+     EN: Translations are accepted through GitHub pull requests. See README_zh.md and TRANSLATING.md in the repository for details.
+     TR: 번역은 GitHub 풀 리퀘스트를 통해 받습니다. 자세한 내용은 저장소의 README_zh.md 및 TRANSLATING.md를 참조하세요.
+--- latin count=1
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/latin.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser formati textualis Markdown)
+--- luxembourgish count=4
+  [en_stopwords] r=0.97 ov=0.08 stops=["all","all"] | src/grf/lang/luxembourgish.toml | STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL.base
+     EN: {BLACK}For maximum production rate, supply {WHITE}all {BLACK}required cargos at least once every three minutes.
+     TR: {BLACK}Fir déi maximal Produktiounsgeschwindegkeet, liwwert {WHITE}all {BLACK}nëtzeg Fracht op d'mannst all dräi Minutten.
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/luxembourgish.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (Parser fir das Markdown-Textformat)
+  [high_overlap] r=0.99 ov=0.7 stops=[] | src/docs/lang/luxembourgish.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: De Spilltext ass an src/grf/lang/*.toml (NewGRF Strings) a src/gs/lang/*.toml (GameScript Strings). De Websäit-Text ass an src/docs/lang/*.toml a src/docs/extra_strings*.toml.
+  [en_stopwords] r=0.97 ov=0.15 stops=["all","all"] | src/docs/lang/luxembourgish.toml | DOC_TRANS_HOW_P2
+     EN: Copy english.toml to a new file named after your language, translate every base value, and keep all placeholders such as {ORANGE}, {}{} and {SIGNED_WORD} unchanged. Then run tools/check_translations.py to verify that keys and placeholders match the English source.
+     TR: Kopéiert english.toml an eng nei Fichier genannt nodeems déng Sprooch, iwwersetzt all Basiswert a behalen all Plazhalter wéi {ORANGE}, {}{} a {SIGNED_WORD} onverännert. Féiert dann tools/check_translations.py aus fir ze verifizéieren datt d'Schlësselen a Plazhalter mat der englescher Quell iwwerene stëmmen.
+--- norwegian_bokmal count=16
+  [en_stopwords] r=0.97 ov=0.03 stops=["for","for"] | src/grf/lang/norwegian_bokmal.toml | STR_PARAM_DESC_ECONOMIES.base
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Hver økonomi tilbyr en ulik kombinasjon av varer og industrier.{}{}For spillere som ønsker et enklere spill, har {SILVER}basis{BLACK}økonomiene færre industrier og varer enn andre økonomier.{}{}Nettstedet for FIRS har detaljert informasjon om hver enkelt økonomi.
+  [en_stopwords] r=0.97 ov=0.21 stops=["for","for"] | src/grf/lang/norwegian_bokmal.toml | STR_PRIMARY_PRODUCTION_1X.base
+     EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+     TR: {BLACK}Produserer nå: {YELLOW}Normal{}{}{BLACK}For {WHITE}Forbedret produksjon{BLACK} må du levere {SIGNED_WORD} kasser utstyr innen tre måneder.{}For {WHITE}Gung-ho {BLACK}produksjon lever {SIGNED_WORD} kasser.
+  [en_stopwords] r=0.96 ov=0.11 stops=["for","for"] | src/grf/lang/norwegian_bokmal.toml | STR_PRIMARY_PRODUCTION_2X.base
+     EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.
+     TR: {BLACK}Produserer nå: {YELLOW}Forbedret{}{}{BLACK}For å opprettholde dette nivået, lever {SIGNED_WORD} kasser utstyr innen tre måneder{}For {WHITE}Gung-ho {BLACK}produksjon lever {SIGNED_WORD} kasser.
+  [en_stopwords] r=0.97 ov=0.21 stops=["for","for"] | src/grf/lang/norwegian_bokmal.toml | STR_PORT_PRODUCTION_1X.base
+     EN: {BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+     TR: {BLACK}Produserer nå: {YELLOW}Normal{}{}{BLACK}For {WHITE}Forbedret {BLACK}produksjon må du levere {SIGNED_WORD} vareenheter innen tre måneder.{}For {WHITE}Gung-ho {BLACK}produksjon lever {SIGNED_WORD} vareenheter.
+  [en_stopwords] r=0.96 ov=0.11 stops=["for","for"] | src/grf/lang/norwegian_bokmal.toml | STR_PORT_PRODUCTION_2X.base
+     EN: {BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.
+     TR: {BLACK}Produserer nå: {YELLOW}Forbedret{}{}{BLACK}For å opprettholde dette nivået, lever {SIGNED_WORD} vareenheter innen tre måneder{}For {WHITE}Gung-ho {BLACK}produksjon lever {SIGNED_WORD} vareenheter.
+  [en_stopwords] r=0.97 ov=0.5 stops=["set","for"] | src/grf/lang/norwegian_bokmal.toml | STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}NA City Set-parameter 2 må være 0 for at dette skal fungere med CIRS.
+  [en_stopwords] r=0.98 ov=0.05 stops=["for","for"] | src/gs/lang/norwegian_bokmal.toml | STR_CABBAGE_TOWN.base
+     EN: Town is {STRING}{}{}To find out more about this town (including growth and happiness requirements), open the Story Book, and find the page for {TOWN}
+     TR: Byen er {STRING}{}{}For å finne ut mer om denne byen (inkludert vekst- og lykkekrav), åpne Historieboken og finn siden for {TOWN}
+  [en_stopwords] r=0.93 ov=0.2 stops=["for","over"] | src/docs/lang/norwegian_bokmal.toml | DOC_GS_FEATURE_SNOW
+     EN: Snow for buildings above snowline
+     TR: Snø for bygninger over snøgrensen
+  [en_stopwords] r=0.96 ov=0 stops=["over","for","for"] | src/docs/lang/norwegian_bokmal.toml | DOC_GS_TIPS_5
+     EN: CIRS adjusts default town behaviour: towns above snowline do not require food to grow, and towns in desert do not require food and water to grow.
+     TR: CIRS justerer standardbyenes oppførsel: byer over snøgrensen trenger ikke mat for å vokse, og byer i ørkenen trenger verken mat eller vann for å vokse.
+  [en_stopwords] r=0.97 ov=0.12 stops=["for","via"] | src/docs/lang/norwegian_bokmal.toml | DOC_CR_COMPILING_P1
+     EN: CIRS source includes a makefile for convenient building. This requires 'Make', typically provided by the ports tree on Linux / Unix, Xcode on macOS, and other build systems on Windows.
+     TR: CIRS-kildekoden inkluderer en makefile for enkel bygging. Dette krever 'Make', som vanligvis leveres via portstreet på Linux/Unix, Xcode på macOS og andre byggesystemer på Windows.
+  [en_stopwords] r=1 ov=0.25 stops=["for","for"] | src/docs/lang/norwegian_bokmal.toml | DOC_CR_FRAX_P1
+     EN: For cargo class names, FIRS 4 and newer uses FRAX, an improved standard for cargo classes.
+     TR: For vareklassenavn bruker FIRS 4 og nyere FRAX, en forbedret standard for vareklasser.
+  [en_stopwords] r=0.97 ov=0.04 stops=["for","for","via"] | src/docs/lang/norwegian_bokmal.toml | DOC_CR_FRAX_P2
+     EN: FRAX classes are the preferred method for vehicle refittability support. There are some detailed cases where authors may find it helpful to set vehicle refittability using cargo labels instead.
+     TR: FRAX-klasser er den foretrukne metoden for støtte av kjøretøyomstilling. Det finnes noen detaljerte tilfeller der det kan være nyttig for forfattere å definere omstilling via vareetiketter i stedet.
+  [en_stopwords] r=0.98 ov=0.08 stops=["per","for"] | src/docs/lang/norwegian_bokmal.toml | DOC_CR_PRICE_NOTE
+     EN: * Price Factor is a base value, will be automatically adjusted per economy to ensure no prices overlap.
+     TR: * Prisfaktoren er en grunnverdi som automatisk justeres per økonomi for å sikre at priser ikke overlapper.
+  [en_stopwords] r=0.98 ov=0.16 stops=["for","over"] | src/docs/lang/norwegian_bokmal.toml | DOC_CR_TOWN_GROWTH_NOTE
+     EN: ** Town growth effects: apart from TOWNGROWTH_PASSENGERS and TOWNGROWTH_MAIL, CIRS does not set any town growth effects; this has the intended effect of disabling food / water requirements for towns in desert and above snowline.
+     TR: ** Byveksteffekter: med unntak av TOWNGROWTH_PASSENGERS og TOWNGROWTH_MAIL angir CIRS ingen byveksteffekter; dette har den tiltenkte effekten å deaktivere mat-/vannkravene for byer i ørkenen og over snøgrensen.
+  [en_stopwords] r=0.99 ov=0.25 stops=["via","for"] | src/docs/lang/norwegian_bokmal.toml | DOC_TRANS_HOW_P3
+     EN: Translations are accepted through GitHub pull requests. See README_zh.md and TRANSLATING.md in the repository for details.
+     TR: Oversettelser aksepteres via GitHub-pull-forespørsler. Se README_zh.md og TRANSLATING.md i depotet for detaljer.
+  [en_stopwords] r=0.99 ov=0.25 stops=["for","for"] | src/docs/extra_strings_norwegian_bokmal.toml | CARGO_INFO_SAND.base
+     EN: Coarse sand for construction, or fine silica sand for glass-making and metal casting. Transported as bulk or powder.
+     TR: Grovt sand for byggearbeider, eller fin kiselsand for glassproduksjon og metallstøping. Transporteres som bulk eller pulver.
+--- polish count=1
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/polish.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser formatu tekstowego Markdown)
+--- portuguese_BR count=2
+  [en_stopwords] r=0.98 ov=0.29 stops=["set","and"] | src/grf/lang/portuguese_BR.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industrial Replacement Set{}{BLACK}Trazido a você por andythenorth, FooBar, planetmaker, Terkhen and Yexo, com a ajuda de muitos outros. {SILVER}Veja o arquivo readme para mais informações, incluindo como usar o FIRS. {BLACK}Licença: GPL v2.
+  [high_overlap] r=0.98 ov=0.65 stops=[] | src/docs/lang/portuguese_BR.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: O texto do jogo está em src/grf/lang/*.toml (strings NewGRF) e src/gs/lang/*.toml (strings GameScript). O texto do site está em src/docs/lang/*.toml e src/docs/extra_strings*.toml.
+--- romanian count=1
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/romanian.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (analizor pentru formatul de text Markdown)
+--- russian count=3
+  [latin_ratio] r=0.43 ov=0 stops=[] | src/docs/lang/russian.toml | DOC_CR_DEP_CHAMELEON
+     EN: Chameleon (Template engine)
+     TR: Chameleon (шаблонизатор)
+  [latin_ratio] r=0.46 ov=0.4 stops=[] | src/docs/lang/russian.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (парсер формата текста Markdown)
+  [latin_ratio] r=0.53 ov=0.57 stops=[] | src/docs/lang/russian.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: Текст игры находится в src/grf/lang/*.toml (строки NewGRF) и src/gs/lang/*.toml (строки GameScript). Текст сайта находится в src/docs/lang/*.toml и src/docs/extra_strings*.toml.
+--- serbian count=1
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/serbian.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser formata teksta Markdown)
+--- simplified_chinese count=7
+  [latin_ratio] r=0.63 ov=0.25 stops=["and"] | src/grf/lang/simplified_chinese.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS工业扩展包{}{BLACK}由andythenorth, FooBar, planetmaker, Terkhen and Yexo以及其他贡献者呈献。 {SILVER}查看readme获取更多信息，其中包括怎样使用FIRS. {BLACK}License: GPL v2.
+  [latin_ratio] r=0.6 ov=0 stops=[] | src/docs/lang/simplified_chinese.toml | DOC_CR_DEP_CHAMELEON
+     EN: Chameleon (Template engine)
+     TR: Chameleon（模板引擎）
+  [latin_ratio] r=0.64 ov=0.4 stops=[] | src/docs/lang/simplified_chinese.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown（Markdown 文本格式解析器）
+  [latin_ratio] r=0.4 ov=0.22 stops=[] | src/docs/lang/simplified_chinese.toml | DOC_CR_DEP_GRAPHVIZ
+     EN: Graphviz (optional, used to generate cargo flow charts in html docs)
+     TR: Graphviz（可选，用于在 HTML 文档中生成货物流动图）
+  [latin_ratio] r=0.39 ov=0.12 stops=[] | src/docs/lang/simplified_chinese.toml | DOC_CR_TOWN_GROWTH_NOTE
+     EN: ** Town growth effects: apart from TOWNGROWTH_PASSENGERS and TOWNGROWTH_MAIL, CIRS does not set any town growth effects; this has the intended effect of disabling food / water requirements for towns in desert and above snowline.
+     TR: ** 城镇成长效果：除 TOWNGROWTH_PASSENGERS 与 TOWNGROWTH_MAIL 外，CIRS 不设置任何城镇成长效果；这正是预期行为，用于取消沙漠及雪线以上城镇对食物／水的需求。
+  [latin_ratio] r=0.69 ov=0.57 stops=[] | src/docs/lang/simplified_chinese.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: 游戏文本位于 src/grf/lang/*.toml（NewGRF 字符串）和 src/gs/lang/*.toml（GameScript 字符串）。网站文本位于 src/docs/lang/*.toml 和 src/docs/extra_strings*.toml。
+  [latin_ratio] r=0.59 ov=0.17 stops=[] | src/docs/lang/simplified_chinese.toml | DOC_TRANS_HOW_P3
+     EN: Translations are accepted through GitHub pull requests. See README_zh.md and TRANSLATING.md in the repository for details.
+     TR: 翻译通过 GitHub 的 pull request 接受。详见仓库中的 README_zh.md 与 TRANSLATING.md。
+--- slovak count=2
+  [high_overlap] r=0.97 ov=0.6 stops=[] | src/docs/lang/slovak.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (parser formátu Markdown)
+  [high_overlap] r=0.96 ov=0.65 stops=[] | src/docs/lang/slovak.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: Text hry sa nachádza v src/grf/lang/*.toml (reťazce NewGRF) a src/gs/lang/*.toml (reťazce GameScript). Text webu sa nachádza v src/docs/lang/*.toml a src/docs/extra_strings*.toml.
+--- tamil count=2
+  [latin_ratio] r=0.44 ov=0.4 stops=[] | src/docs/lang/tamil.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (Markdown உரை வடிவப் பகுப்பாய்வி)
+  [latin_ratio] r=0.41 ov=0.57 stops=[] | src/docs/lang/tamil.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: விளையாட்டு உரை src/grf/lang/*.toml (NewGRF சரங்கள்) மற்றும் src/gs/lang/*.toml (GameScript சரங்கள்) ஆகியவற்றில் உள்ளது. இணையதள உரை src/docs/lang/*.toml மற்றும் src/docs/extra_strings*.toml ஆகியவற்றில் உள்ளது.
+--- traditional_chinese count=9
+  [latin_ratio] r=0.63 ov=0.25 stops=["and"] | src/grf/lang/traditional_chinese.toml | STR_GRF_DESC.base
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS工業擴展包{}{BLACK}由andythenorth, FooBar, planetmaker, Terkhen and Yexo以及其他貢獻者呈獻。 {SILVER}查看readme獲取更多信息，其中包括怎樣使用FIRS. {BLACK}License: GPL v2.
+  [latin_ratio] r=0.82 ov=0 stops=[] | src/grf/lang/traditional_chinese.toml | STR_IND_ROADSTONE_PLANT.base
+     EN: Roadstone Plant
+     TR: Roadstone 工廠
+  [latin_ratio] r=0.78 ov=0 stops=[] | src/grf/lang/traditional_chinese.toml | STR_STATION_HERDING_COOP.base
+     EN: Reinder Pens
+     TR: Reinder 圍欄
+  [latin_ratio] r=0.6 ov=0 stops=[] | src/docs/lang/traditional_chinese.toml | DOC_CR_DEP_CHAMELEON
+     EN: Chameleon (Template engine)
+     TR: Chameleon（模板引擎）
+  [latin_ratio] r=0.64 ov=0.4 stops=[] | src/docs/lang/traditional_chinese.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown（Markdown 文字格式解析器）
+  [latin_ratio] r=0.4 ov=0.22 stops=[] | src/docs/lang/traditional_chinese.toml | DOC_CR_DEP_GRAPHVIZ
+     EN: Graphviz (optional, used to generate cargo flow charts in html docs)
+     TR: Graphviz（選用，用於在 HTML 文件中生成貨物流動圖）
+  [latin_ratio] r=0.39 ov=0.12 stops=[] | src/docs/lang/traditional_chinese.toml | DOC_CR_TOWN_GROWTH_NOTE
+     EN: ** Town growth effects: apart from TOWNGROWTH_PASSENGERS and TOWNGROWTH_MAIL, CIRS does not set any town growth effects; this has the intended effect of disabling food / water requirements for towns in desert and above snowline.
+     TR: ** 城鎮成長效果：除 TOWNGROWTH_PASSENGERS 和 TOWNGROWTH_MAIL 外，CIRS 不設定任何城鎮成長效果；這會產生預期效果，即取消沙漠和雪線以上城鎮對食物／水的需求。
+  [latin_ratio] r=0.71 ov=0.57 stops=[] | src/docs/lang/traditional_chinese.toml | DOC_TRANS_HOW_P1
+     EN: Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.
+     TR: 遊戲文字位於 src/grf/lang/*.toml（NewGRF 字串）和 src/gs/lang/*.toml（GameScript 字串）。網站文字位於 src/docs/lang/*.toml 和 src/docs/extra_strings*.toml。
+  [latin_ratio] r=0.59 ov=0.17 stops=[] | src/docs/lang/traditional_chinese.toml | DOC_TRANS_HOW_P3
+     EN: Translations are accepted through GitHub pull requests. See README_zh.md and TRANSLATING.md in the repository for details.
+     TR: 翻譯透過 GitHub 的 pull request 接受。詳見倉庫中的 README_zh.md 與 TRANSLATING.md。
+--- welsh count=3
+  [high_overlap] r=1 ov=0.6 stops=[] | src/docs/lang/welsh.toml | DOC_CR_DEP_MARKDOWN
+     EN: Markdown (Markdown text format parser)
+     TR: Markdown (dadansoddwr format testun Markdown)
+  [high_overlap] r=1 ov=0.8 stops=[] | src/docs/extra_strings_welsh.toml | CARGO_INFO_CARBON_STEEL.base
+     EN: Billets, blooms, ingots and slabs.
+     TR: Billets, blooms, ingots a slabs.
+  [high_overlap] r=1 ov=0.8 stops=[] | src/docs/extra_strings_welsh.toml | CARGO_INFO_CAST_IRON.base
+     EN: Billets, blooms, ingots and slabs.
+     TR: Billets, blooms, ingots a slabs.

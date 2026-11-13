@@ -1,0 +1,6 @@
+french       translated 41/935 values (4%)
+german       translated 52/796 values (6%)
+spanish      translated 52/796 values (6%)
+portuguese   translated 79/935 values (8%)
+korean       translated 104/935 values (11%)
+arabic       translated 9/935 values (0%)

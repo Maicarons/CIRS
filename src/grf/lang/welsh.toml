@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x0f"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "Set Disodli Diwydiant Cymunedol CIRS"
+
+[STR_GRF_DESC]
+base = "{ORANGE}Set Disodli Diwydiant Cymunedol CIRS{}{BLACK}Fforc a gynhelir gan y gymuned o FIRS, a grëwyd yn wreiddiol gan andythenorth, FooBar, planetmaker, Terkhen a Yexo, gyda help gan llawer eraill. {SILVER}Gweler y wefan am fwy o wybodaeth, gan gynnwys sut i ddefnyddio CIRS. {BLACK}Trwydded: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Pellter uchafsymol o'r arfordir ar gyfer meusydd pysgota, rigiau olew a mannau carthu fishing grounds, oil rigs and dredging sites, mewn teiliau."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Mae pob economi yn darparu cyfuniad gwahanol o nwyddau a diwydiannau.{}{}I chwaraewyr sydd eisiau chwarae syml, mae gan economi {SILVER}Sylfaenol {BLACK}CIRS lai o ddiwydiannau a nwyddau na economi CIRS eraill.{}{}Mae gwefan CIRS yn darparu gwybodaeth fanwl am bob economi."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Pellter o'r arfordir ar gyfer diwydiannau morol (mewn teiliau)"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Economi"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Dim terfyn"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Cristiau cyflenwi sydd eu hangen ar gyfer cynhyrchu cynradd Gwell (default 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Cristiau cyflenwi sydd eu hangen ar gyfer cynhyrchu cynradd Gung-ho (default 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Bydd ffermydd, mineau a diwydiannau tebyg yn cynyddu cynhyrchu pan fydd blwchau cyflenwad yn cael eu dosbarthu, yn gyntaf i {SILVER}Enhanced{BLACK}, ac yna i {SILVER}Gung-ho{BLACK}, os cyflwynir digon o blwchau.  {}{}Mae'r gwerthoedd diffiniol yn dda, ond os oes angen, gallwch eu newid yma.  {}{}Bydd gofynion cludo ar gyfer diwydiannau o fath porthladd yn 8x y gwerthoedd a osodir yma."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Lefel cynhyrchu cynradd gwella (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Lefel cynhyrchu cynradd Gung-ho (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Cynhyrchu ar ffermydd, mewn mines a diwydiannau tebyg pan gaiff gofynion cyflenwi eu bodloni (fel canran o lefel cynhyrchu {SILVER}Normal {BLACK})."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Temperate Sylfaenol"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Arctig Sylfaenol"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tropic Sylfaenol"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Mewn Gwlad Poeth"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Tref Dur"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "Wrthrychau tirwedd CIRS"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "Mae CIRS yn cynnwys set o wrthrychau tirwedd, y gall chwaraewyr eu gosod i wneud i ddiwydiannau penodol edrych yn fwy. Nid oes gan wrthrychau tirwedd unrhyw effaith ar y gêm. Gellir eu troi ymlaen neu allan wrthrychau tirwedd."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(ddewisol)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(a gyflenwir)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Cyflenwch {WHITE}o leiaf un {BLACK} o nwyddau gofynnol ar gyfer cynhyrchu uchaf."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Er mwyn cyfradd cynhyrchu uchaf, cyflenwch {WHITE}y ddau {BLACK}cargos sydd eu hangen o leiaf unwaith bob tri munud."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Er mwyn cael y gyfradd cynhyrchu uchaf, cyflenwch {WHITE}pob {BLACK}carg sydd ei angen o leiaf unwaith bob tri munud."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Ar gyfer cyfradd cynhyrchu uchaf, cyflenwch {WHITE}o leiaf dwy {BLACK}cargoes angenrheidiol o leiaf unwaith bob tri munud."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Ar gyfer cyfradd cynhyrchu uchaf, cyflenwch {WHITE}o leiaf tri {BLACK}cargos angenrheidiol o leiaf unwaith bob tri munud."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Mae cynhyrchu yn gymesur â phoblogaeth y dref. Bydd o leiaf {WHITE}{SIGNED_WORD} uned{BLACK} ac nid mwy na {WHITE}{SIGNED_WORD} uned{BLACK} o nwyddau yn cael eu cynhyrchu bob munud."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Cynhyrchiant presennol: {YELLOW}Normal {}{}{BLACK}Ar gyfer cynhyrchiant {WHITE}Gwell {BLACK}, dosbarthwch {SIGNED_WORD} blwch o gyflenwadau o leiaf unwaith bob tri munud.{}Ar gyfer cynhyrchiant {WHITE}Gung-ho {BLACK}, dosbarthwch {SIGNED_WORD} blwch."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Cynhyrchiant presennol: {YELLOW}Gwell {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SIGNED_WORD} blwch o gyflenwadau o leiaf unwaith bob tri munud.{}Ar gyfer cynhyrchiant {WHITE}Gung-ho {BLACK}, dosbarthwch {SIGNED_WORD} blwch."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Cynhyrchiant presennol: {YELLOW}Gung-ho {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SKIP}{SIGNED_WORD} blwch o gyflenwadau o leiaf unwaith bob tri munud."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Cynhyrchiant presennol: {YELLOW}Normal {}{}{BLACK}Ar gyfer cynhyrchiant {WHITE}Gwell {BLACK}, dosbarthwch {SIGNED_WORD} uned o nwyddau o leiaf unwaith bob tri munud.{}Ar gyfer cynhyrchiant {WHITE}Gung-ho {BLACK}, dosbarthwch {SIGNED_WORD} uned."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Cynhyrchiant presennol: {YELLOW}Gwell {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SIGNED_WORD} uned o nwyddau o leiaf unwaith bob tri munud.{}Ar gyfer cynhyrchiant {WHITE}Gung-ho {BLACK}, dosbarthwch {SIGNED_WORD} uned."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Cynnyrch presennol: {YELLOW}Gung-ho{}{}{BLACK}I gadw'r lefel yma, rhaid anfon {SKIP}{SIGNED_WORD} uned o gargo o fewn tair mis"
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: Mae CIRS yn gofyn am OpenTTD 1.7.0 (neu, i'r rhai sy'n defnyddio adeiladau trunk, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Set anghydlynol: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Paramedr anghydlynol: {ORANGE}Rhaid i baramedr CanSet 2 fod yn 0 er mwyn gweithio gyda CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Paramedr anghydlynol: {ORANGE}Rhaid i baramedr 2 Set Dinas NA fod yn 0 er mwyn gweithio gyda CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Fersiwn anghydlynol: {ORANGE}Rhaid i Set Disodli Tref Cyfan fod yn fersiwn rhyddhau 3.11 neu fwy newydd."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "rhaid fod islaw'r llinell eira."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "ni gaiff fod ar lethrau serth."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Location: {YELLOW}Ni ellir ei ariannu ar eira, mewn anialwch nac ar lethrau."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Lleoliad: {YELLOW}Ni ellir ei ariannu ar eira neu anialwch."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Lleoliad: {YELLOW}Ni ellir ei ariannu ar eira neu anialwch."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Lleoliad: {YELLOW}Ni ellir ei ariannu ar eira neu anialwch."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Location: {YELLOW}Ni ellir ei ariannu mewn anialwch."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Location: {YELLOW}Ni ellir ei ariannu ar eira."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Lleoliad: {YELLOW}Dim ond ar eira y gellir ei ariannu."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Lleoliad: {YELLOW}Ni ellir ei ariannu ar eira neu anialwch."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Lleoliad: {YELLOW}Ni ellir ei ariannu ar eira neu anialwch."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Lleoliad: {YELLOW}Ni ellir ei ariannu ar eira neu anialwch."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Asid"
+cargo_unit = "{VOLUME} o asid"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Aggregadau"
+cargo_unit = "{WEIGHT} o agryfadau"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Alwminiwm"
+cargo_unit = "{WEIGHT} o alwminiwm"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alwmina"
+cargo_unit = "{WEIGHT} o alwmina"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Amonia a Chynhyrchion Nitrig"
+cargo_unit = "{VOLUME} o amonia a chynhyrchion nitrig"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Carreg Anhidrit"
+cargo_unit = "{WEIGHT} o garreg anhidrit"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Afil"
+cargo_unit = "{WEIGHT} o afalau"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Ddohs"
+cargo_unit = "{WEIGHT} o fasau"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitwmen"
+cargo_unit = "{VOLUME} o bitwmen"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Deunyddiau Adeiladu"
+cargo_unit = "{WEIGHT} o ddeunyddiau adeiladu"
+cid = "{TINYFONT}ADL"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Carbon Du"
+cargo_unit = "{WEIGHT} o garbon du"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Cassava"
+cargo_unit = "{WEIGHT} o gasava"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Haearn Gwaledig"
+cargo_unit = "{WEIGHT} o haearn gwaledig"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Sement"
+cargo_unit = "{WEIGHT} o sment"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Canolraddion Cemegol"
+cargo_unit = "{VOLUME} o gyfryngwyr cemegol"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Cemegion"
+cargo_unit = "{VOLUME} o gemegion"
+cid = "{TINYFONT}CEM"
+
+[STR_CARGO_CHLORINE]
+name = "Clorin"
+cargo_unit = "{VOLUME} o glorin"
+cid = "{TINYFONT}CEM"
+
+[STR_CARGO_CLAY]
+name = "Clai"
+cargo_unit = "{WEIGHT} o glai"
+cid = "{TINYFONT}CLI"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Asiantau Glanhau"
+cargo_unit = "{WEIGHT} o asiantau glanhau"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Coffi"
+cargo_unit = "{WEIGHT} bag{P 0 \"\" s} o goffi"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "Tar Glo"
+cargo_unit = "{VOLUME} o tar glo"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Coca"
+cargo_unit = "{WEIGHT} o gog"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Cymponentau Manwl Gywir"
+cargo_unit = "{WEIGHT} o gydrannau manwl gywir"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Cynhyrchion Concrit"
+cargo_unit = "{WEIGHT} o ffrwydron"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Copr"
+cargo_unit = "{WEIGHT} o ffero-alloyau"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Oil Bwyd"
+cargo_unit = "{VOLUME} o olew bwyd"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Pars Trydanol"
+cargo_unit = "{WEIGHT} o ffrwythlonydd"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Deunyddiau Peirianneg"
+cargo_unit = "{SIGNED_WORD} crât o ddeunyddiau peirianneg"
+cid = "{TINYFONT}PEI"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Deunyddiau Chwythol"
+cargo_unit = "{WEIGHT} o ffrwydron"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferroalloyau"
+cargo_unit = "{WEIGHT} o ferroalloyau"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Pysgod a Bwyd Môr"
+cargo_unit = "{WEIGHT} o fisg a bwyd môr"
+cid = "{TINYFONT}PSG"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Deunyddiau Fferm"
+cargo_unit = "{SIGNED_WORD} crât o ddeunyddiau fferm"
+cid = "{TINYFONT}FRM"
+
+[STR_CARGO_FERTILISER]
+name = "Ffertiliser"
+cargo_unit = "{WEIGHT} o ffrwythlonydd"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Pwdr a Stârc"
+cargo_unit = "{WEIGHT} o fwyn a stârwch"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Ychwanegion Bwyd"
+cargo_unit = "{WEIGHT} o ychwanegion bwyd"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Bwyd a Diodau"
+cargo_unit = "{WEIGHT} o fwyd a diodyddion"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Gweithiau a Chastio"
+cargo_unit = "{WEIGHT} o ffurfion a chastio"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Bwyd Rewedig"
+cargo_unit = "{WEIGHT} o fwyd wedi'i rewi"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Frwythau"
+cargo_unit = "{WEIGHT} o ffrwythau"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Cynhyrchion Gwydr"
+cargo_unit = "{WEIGHT} o gynhyrchion gwydr"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Offer a Gorffeniadau"
+cargo_unit = "{WEIGHT} o offer a gorffeniadau"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Carbonau Diwydiannol"
+cargo_unit = "{WEIGHT} o garbonau diwydiannol"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Gasau Diwydiannol"
+cargo_unit = "{VOLUME} o nwyon diwydiannol"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Clai Tsieina"
+cargo_unit = "{WEIGHT} o glai Tsieina"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Hydrocarbonau Ysgafn"
+cargo_unit = "{VOLUME} o hydrocarbonau ysgafn"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Cerrig Calch"
+cargo_unit = "{WEIGHT} o garreg gwyn"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Logiau"
+cargo_unit = "{WEIGHT} o logiau"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Hydrocsid Sodiwm"
+cargo_unit = "{VOLUME} o hidrocsid sodiwm"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} o methanol"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Llefrith"
+cargo_unit = "{VOLUME} o lefrith"
+cid = "{TINYFONT}LLF"
+
+[STR_CARGO_MANGANESE]
+name = "Manganîs"
+cargo_unit = "{WEIGHT} o fanegan"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Cig"
+cargo_unit = "{WEIGHT} o gig"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Barytes a Fluorspar"
+cargo_unit = "{WEIGHT} o farït a fflworospar"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Dewchfeydd Mineral"
+cargo_unit = "{WEIGHT} o lenyddion minerol"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Siwgr Crŵn a Molasses"
+cargo_unit = "{WEIGHT} o siwgr crai a melas"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitradau"
+cargo_unit = "{WEIGHT} o nitradau"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Nitrogen"
+cargo_unit = "{VOLUME} o nitrojen"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Nwtiau"
+cargo_unit = "{WEIGHT} o nôtiau"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Ocsigen"
+cargo_unit = "{VOLUME} o ocsigen"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Pecynnu"
+cargo_unit = "{WEIGHT} o becynnu"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Pentiau a Chyffwrdd"
+cargo_unit = "{VOLUME} o baentiau & gorchuddion"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Peat"
+cargo_unit = "{WEIGHT} o bât"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Petrol"
+cargo_unit = "{VOLUME} o betrol"
+cid = "{TINYFONT}PTL"
+
+[STR_CARGO_PIPEWORK]
+name = "Tanciau Storio a Phipiau"
+cargo_unit = "{WEIGHT} o danciau storio a phibellu"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosffad"
+cargo_unit = "{WEIGHT} o ffosffad"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Asid Fosfforig"
+cargo_unit = "{VOLUME} o asid ffosfforig"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Haearn Pig"
+cargo_unit = "{WEIGHT} o haearn moch"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plastigau a Rhewynau"
+cargo_unit = "{WEIGHT} o blastigau a rhewiadau"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Gweithdy Moldio Plastig"
+cargo_unit = "{WEIGHT} o lannau a pheiriantwaith"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Potas"
+cargo_unit = "{WEIGHT} o botas"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Cemegau Prosesu"
+cargo_unit = "{WEIGHT} o gemegau prosesu"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pwmpiau a Falfiau"
+cargo_unit = "{WEIGHT} o bwmpiau a falfiau"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Oer Pyrit"
+cargo_unit = "{WEIGHT} o or pyrit"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Calch Cyflym"
+cargo_unit = "{WEIGHT} o galswm cyflym"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Arfwisg"
+cargo_unit = "{WEIGHT} o arfwisg arfwisg"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Hal"
+cargo_unit = "{WEIGHT} o halen"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Tywod"
+cargo_unit = "{WEIGHT} o dywod"
+cid = "{TINYFONT}TYW"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Metel Sgrap"
+cargo_unit = "{WEIGHT} o fetel sgrap"
+cid = "{TINYFONT}SGP"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Siapiau, Hosau a Beltau"
+cargo_unit = "{WEIGHT} o seliau, hosau a beltau"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slag"
+cargo_unit = "{WEIGHT} o sglâc"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Ash Soda"
+cargo_unit = "{WEIGHT} o lwch sodiwm"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Dur"
+cargo_unit = "{WEIGHT} o dur"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billets a Blooms"
+cargo_unit = "{WEIGHT} o filitau a blodeuoedd"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Ingots Dur"
+cargo_unit = "{WEIGHT} o ingotiau dur"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Bar Masnachwyr"
+cargo_unit = "{WEIGHT} o far merchant"
+cid = "{TINYFONT}BTM"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Pibell Dur"
+cargo_unit = "{WEIGHT} o bibellau dur"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Plât Dur"
+cargo_unit = "{WEIGHT} o flac dur"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Dalen a Stryp Dur"
+cargo_unit = "{WEIGHT} o dapiau a stribedi dur"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Slab Dur"
+cargo_unit = "{WEIGHT} o slatau dur"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Tiwb Dur"
+cargo_unit = "{WEIGHT} o bibellau dur"
+cid = "{TINYFONT}CRG"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Rod Gwifren Dur"
+cargo_unit = "{WEIGHT} o wrthod gwifren dur"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Dur Strwythurol"
+cargo_unit = "{WEIGHT} o dur strwythurol"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Swlffwr"
+cargo_unit = "{WEIGHT} o salfwr"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Asid Swlffwrig"
+cargo_unit = "{VOLUME} o asid sulfurig"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Cynhyrchion Coed"
+cargo_unit = "{WEIGHT} o gynhyrchion pren"
+cid = "{TINYFONT}PRN"
+
+[STR_CARGO_TIN]
+name = "Tin"
+cargo_unit = "{WEIGHT} o dain"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Plât tin"
+cargo_unit = "{WEIGHT} o flach tin"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Cord Tiroedd"
+cargo_unit = "{WEIGHT} o wifren teir"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Tiroedd"
+cargo_unit = "{WEIGHT} o deir"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Llysiau"
+cargo_unit = "{WEIGHT} o lysiau"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Corff Cerbydau"
+cargo_unit = "{WEIGHT} o gorffau cerbydau"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Peiriannau a Llinellau Gyriant"
+cargo_unit = "{WEIGHT} o fisg a bwyd môr"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Pars Cerbydau"
+cargo_unit = "{WEIGHT} o rannau cerbydau"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Cerbydau"
+cargo_unit = "{WEIGHT} o gerbydau"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Defnyddion Gweldio"
+cargo_unit = "{WEIGHT} o ddefnyddiadau weldio"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Pwlp Coed"
+cargo_unit = "{WEIGHT} o fflus pren"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Gwlân"
+cargo_unit = "{SIGNED_WORD} bale{P 0 \"\" s} o wol"
+cid = "{TINYFONT}GWL"
+
+[STR_CARGO_ZINC]
+name = "Sinc"
+cargo_unit = "{WEIGHT} o sinc"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Or Sinc"
+cargo_unit = "{WEIGHT} o orwedd sinc"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} o nwyddau"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Gwaith Alwminiwm"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Cymhleth Amonia"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Mynydd Anhidrit"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Gweithfan Proses Anhidrit"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Ffatri Offer"
+
+[STR_IND_ARABLE_FARM]
+base = "Fferm Âr"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Gweithdy Cynulliad"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Adran a Mili Bar"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Ffwrnys Ocsigen Sylfaenol"
+
+[STR_IND_BLAST_FURNACE]
+base = "Ffwrnais Ffrwydrol"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Ffatri Bwrdd Tipyn"
+
+[STR_IND_BODY_PLANT]
+base = "Plannu Corff"
+
+[STR_IND_BREWERY]
+base = "Bragdy"
+
+[STR_IND_CIDER_MILL]
+base = "Mlyn Cider"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Iard Adeiladu" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Planhigion Carbon Du"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Gweithdy Ffilm Sellwlos"
+
+[STR_IND_CEMENT_PLANT]
+base = "Gwaith Sment"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Cymhlethdod Cemegol"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Ffatri Deunyddiau Chwythol"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Gweithdy Clor-alkali"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Pwll Clai"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Estate Coffi"
+
+[STR_IND_COKE_OVEN]
+base = "Ffwrn Coca"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Gweithdy Concrit"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Gweithdy Cemegol Bach"
+
+[STR_IND_COPPER_SMELTER]
+base = "Mellt copr"
+
+[STR_IND_CRYO_PLANT]
+base = "Plannu Cryo"
+
+[STR_IND_DAIRY]
+base = "Hufenfa"
+
+[STR_IND_DAIRY_FARM]
+base = "Fferm Llaeth"
+
+[STR_IND_DREDGING_SITE]
+base = "Safle Carthu"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Plannu Cynhyrchion Elastomer"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Ffwrnais Arc Trydanol"
+
+[STR_IND_ENGINE_PLANT]
+base = "Planhigion Peiriant"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Gweithiau Peirianneg"
+
+[STR_IND_FARM]
+base = "Fferm"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Gweithdy Cemegau Prosesu"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Planth Ffermiant"
+
+[STR_IND_FISH_FARM]
+base = "Fferm Bysgod"
+
+[STR_IND_FISHING_GROUND]
+base = "Maes Pysgota"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Porthladd Pysgota"
+
+[STR_IND_GRAIN_MILL]
+base = "Mlyn Grawn"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Gweithdy Prosesu Bwyd"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Forj a Ffwrnais Dur"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Gweithfan Bwyd Rewedig"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Ffatri Dodrefn"
+
+[STR_IND_GENERAL_STORE]
+base = "Siop Gyffredinol"
+
+[STR_IND_GLASS_WORKS]
+base = "Gwaith Gwydr"
+
+[STR_IND_HERDING_COOP]
+base = "Cydweithrediad Porthu"
+
+[STR_IND_HOTEL]
+base = "Gwesty"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Gweithdy Ddeserthau Rewedig"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Mill Dur"
+
+[STR_IND_SCRAP_YARD]
+base = "Iard Sgrap"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Cylyn Calch"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Mynydd Cerrig Calch"
+
+[STR_IND_MANGANESE_MINE]
+base = "Mân Manganês"
+
+[STR_IND_METAL_WORKS]
+base = "Gweithdy Metel"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Plannu Dewchfeydd Mineral"
+
+[STR_IND_NITRATE_MINE]
+base = "Mwynglawdd Nitradau"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Gweithdy Cemegau Diwydiannol"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Terminol Olew a Cemegau"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Ardd Ffrwythau a Fferm Pigiau"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Ffatri Bottlau a Chanau"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Ffatri Cynhyrchion Papur"
+
+[STR_IND_PEATLANDS]
+base = "Tirweddau Peat"
+
+[STR_IND_PETROLPUMP]
+base = "Pwmp Petrol"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Mynydd Fosffad"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Gweithdy Ffertiliser a Asid"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Bacery Fasnachol"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Siop Pibau"
+
+[STR_IND_PLATE_MILL]
+base = "Mlyn Plât"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Gweithdy Moldio Plastig"
+
+[STR_IND_PORT]
+base = "Porthladd"
+
+[STR_IND_POTASH_MINE]
+base = "Mynydd Potas"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Gweithdy Systemau Pŵer"
+
+[STR_IND_POWER_PLANT]
+base = "Gorsaf Bŵer"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Gweithdy Partiau Manwl Gywir"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Pecynnydd Cynnyrch"
+
+[STR_IND_PYRITE_MINE]
+base = "Mynydd Pyrit"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Mellt Pyrit"
+
+[STR_IND_QUARRY]
+base = "Chwarel"
+
+[STR_IND_RANCH]
+base = "Fferm"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Planhigion Roadstone"
+
+[STR_IND_SALT_WORKS]
+base = "Gweithdy Hal"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Gweithdy Millu Slag"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Mynydd Ash Soda"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Ffatri Bwyd Cyfleus"
+
+[STR_IND_STOCKYARD]
+base = "Iard Nwyddau"
+
+[STR_IND_STRIP_MILL]
+base = "Mlyn Strip"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Purfa Siwgr"
+
+[STR_IND_SUPPLY_YARD]
+base = "Iard Gyflenwi"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Iard Goed"
+
+[STR_IND_TIN_MINE]
+base = "Mynydd Tin"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Gweithdy Tinplate"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Ffatri Cerbydau Traced"
+
+[STR_IND_TRADING_POST]
+base = "Post Masnach"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Melin Tiwb a Phib"
+
+[STR_IND_TYRE_PLANT]
+base = "Gweithdy Tiroedd"
+
+[STR_IND_VINEYARD]
+base = "Gwinfa"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Dosbarthwr Cerbyd"
+
+[STR_IND_WHARF]
+base = "Porthladd"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Mlin Rod Gwifren"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Mynydd Sinc"
+
+[STR_IND_ZINC_SMELTER]
+base = "Gwreiddiwr Sinc"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Marchnad Ceffylau"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Nwyddau Trydanol"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Motocars"
+
+[STR_STATION_BAKERY]
+base = "Bwyty Cacen"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Beirniau"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, Grill a Ystafelloedd"
+
+[STR_STATION_BARNS]
+base = "Tŷllau"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Barrel a Keg"
+
+[STR_STATION_BASE]
+base = "Bwys"
+
+[STR_STATION_BONEYARD]
+base = "Cae Esgyrn"
+
+[STR_STATION_BANK_TOP]
+base = "Pen Banc"
+
+[STR_STATION_BODY_PLANT]
+base = "Prysiadau"
+
+[STR_STATION_BRINE_WORKS]
+base = "Gweithdy Halen"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Iard Adeiladu"
+
+[STR_STATION_COLLIERY]
+base = "Mynydd glo"
+
+[STR_STATION_COMPONENTS]
+base = "Cymwysau"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Rhag-gast"
+
+[STR_STATION_COPPER_LODE]
+base = "Loddi copr"
+
+[STR_STATION_CREOSOTING]
+base = "Creosoto"
+
+[STR_STATION_CRYO_PLANT]
+base = "Plannu Cryo"
+
+[STR_STATION_DAIRY_LANE]
+base = "Llwybr Llaeth"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Siâp a Hos"
+
+[STR_STATION_ESTATE]
+base = "Eiddo"
+
+[STR_STATION_FACTORY]
+base = "Ffatri"
+
+[STR_STATION_FARM_1]
+base = "Manor"
+
+[STR_STATION_FARM_2]
+base = "Maeadau"
+
+[STR_STATION_FARM_3]
+base = "Fferm"
+
+[STR_STATION_FISHMARKET]
+base = "Marchnad Bysgod"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Corfforaeth Bwyd"
+
+[STR_STATION_FOREST]
+base = "Lloches Logiau"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Meistr Dur"
+
+[STR_STATION_FREEZERS]
+base = "Reiwyr"
+
+[STR_STATION_FURNACE]
+base = "Ffwrnés"
+
+[STR_STATION_METAL_WORKS]
+base = "Nwyddau Metel"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Gweithdy"
+
+[STR_STATION_HERDING_COOP]
+base = "Penau Reinder"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Parc Diwydiannol"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Ynys dŵr"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Tafod Glanio"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Ynysfa"
+
+[STR_STATION_IRONSTONE]
+base = "Cerrig Haearn"
+
+[STR_STATION_KILNS]
+base = "Ffwrneisiau"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Darganodion Kimberlite"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Minau Cerrig Gwair"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Mânau Manganês"
+
+[STR_STATION_MILL]
+base = "Mlyn"
+
+[STR_STATION_MILLS]
+base = "Mlynyddau"
+
+[STR_STATION_MINES]
+base = "Minau"
+
+[STR_STATION_MOULDINGS]
+base = "Moldiadau"
+
+[STR_STATION_OIL_RIG]
+base = "Caer"
+
+[STR_STATION_ORCHARDS]
+base = "Arddoedd Ffrwythau"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Llinell Llifo"
+
+[STR_STATION_PIT]
+base = "Pwll"
+
+[STR_STATION_PLANT]
+base = "Planhigion"
+
+[STR_STATION_PLANTATION]
+base = "Plannu"
+
+[STR_STATION_PLATE_MILL]
+base = "Iard slabiau"
+
+[STR_STATION_POTASH_MINE]
+base = "Mineralau"
+
+[STR_STATION_POWERHUNGRY]
+base = "Gorsaf Bŵer"
+
+[STR_STATION_POWERTRAIN]
+base = "Llinell pŵer"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Gweithdy Moldio Plastig"
+
+[STR_STATION_PUMPS]
+base = "Pwmpiau"
+
+[STR_STATION_PYRITES]
+base = "Dewiniau Pyrit"
+
+[STR_STATION_REFINERY]
+base = "Purfa"
+
+[STR_STATION_ROD_MILL]
+base = "Mlyn Rod"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Cwmni Ruber"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Gweithdy Saltpeter"
+
+[STR_STATION_SEAFOOD]
+base = "Bwyd Môr"
+
+[STR_STATION_SHARP_STREET]
+base = "Stryd Sharp"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Ddyfroedd dwfn"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Meltrwr"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Ffwrnais Soot"
+
+[STR_STATION_SOUPS]
+base = "Cawlau"
+
+[STR_STATION_STRIP_MILL]
+base = "Llinell coil"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Cwmni Siwgr"
+
+[STR_STATION_TANK_FARM]
+base = "Fferm Tancriau"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Tŷ Tappers"
+
+[STR_STATION_TOWN_3]
+base = "Storau"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Gweithdy Crawler"
+
+[STR_STATION_TRONA_BEDS]
+base = "Cwyr Trona"
+
+[STR_STATION_TUBE_MILL]
+base = "Melin Tiwb"
+
+[STR_STATION_WATER]
+base = "Banc Tywod"
+
+[STR_STATION_WELLS]
+base = "Pwllau"
+
+[STR_STATION_WHEAL]
+base = "Pwll mwynglawdd"
+
+[STR_STATION_WINERY]
+base = "Gweithdy gwin"
+
+[STR_STATION_WORKS]
+base = "Gweithdy"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Parc Llwyrau"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "DAIR"
+
+[STR_BADGE_SEA]
+base = "MOR"

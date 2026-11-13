@@ -1,0 +1,50 @@
+AUDIT src/docs/extra_strings_*.toml vs extra_strings.toml (English)
+same_english = untranslated real text
+
+
+=== COUNTS ===
+  afrikaans                keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  ar                       keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  arabic                   keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  belarusian               keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  catalan                  keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  croatian                 keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  czech                    keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  danish                   keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  de                       keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  dutch                    keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  es                       keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  esperanto                keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  estonian                 keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  finnish                  keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  fr                       keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  french                   keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  gaelic                   keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  galician                 keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  german                   keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  hungarian                keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  indonesian               keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  italian                  keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  japanese                 keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  ko                       keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  korean                   keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  latin                    keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  luxembourgish            keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  norwegian_bokmal         keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  polish                   keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  portuguese               keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  portuguese_BR            keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  pt                       keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  romanian                 keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  russian                  keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  serbian                  keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  simplified_chinese       keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  slovak                   keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  spanish                  keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  spanish_MX               keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  swedish                  keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  tamil                    keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  traditional_chinese      keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  turkish                  keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  welsh                    keys= 139 missing=   0 empty=   0 badph=   0 same=    0
+  zh                       keys= 139 missing=   0 empty=   0 badph=   0 same=    0

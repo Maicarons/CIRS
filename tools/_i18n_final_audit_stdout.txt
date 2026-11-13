@@ -1,0 +1,106 @@
+GRAND: {"total": 35401, "translated": 31672, "same_brand_or_proper_noun": 216, "same_cargo_id_code": 3065, "same_REAL_TEXT_UNTRANSLATED": 248, "same_punctuation_or_symbol": 200}
+
+language | translated | same_real_text | same_code_brand_loan | total
+  afrikaans                  777    11   118   906  <<<
+  arabic                     929     1   115  1045  <<<
+  belarusian                 838     1    67   906  <<<
+  catalan                    791    15   100   906  <<<
+  croatian                   825     5    76   906  <<<
+  czech                      815     5    86   906  <<<
+  danish                     783    16   107   906  <<<
+  dutch                      801    17    88   906  <<<
+  esperanto                  800     1   105   906  <<<
+  estonian                   788     1   117   906  <<<
+  finnish                    830     1    75   906  <<<
+  french                     948    18    79  1045  <<<
+  gaelic                     777    13   116   906  <<<
+  galician                   851     5    50   906  <<<
+  german                     914    13   118  1045  <<<
+  hungarian                  834     5    67   906  <<<
+  indonesian                 792    12   102   906  <<<
+  italian                    856     1    49   906  <<<
+  japanese                   795     2   109   906  <<<
+  korean                    1005     1    39  1045  <<<
+  latin                      803     6    97   906  <<<
+  luxembourgish              803    14    89   906  <<<
+  norwegian_bokmal           777    14   115   906  <<<
+  polish                     859     2    45   906  <<<
+  portuguese                 939     5   101  1045  <<<
+  portuguese_BR              799     5   102   906  <<<
+  romanian                   792     8   106   906  <<<
+  russian                    805     1   100   906  <<<
+  serbian                    804     1   101   906  <<<
+  simplified_chinese         983     1    61  1045  <<<
+  slovak                     791     4   111   906  <<<
+  spanish                    923     5   117  1045  <<<
+  spanish_MX                 826     8    72   906  <<<
+  swedish                    809    11    86   906  <<<
+  tamil                      792     1   113   906  <<<
+  traditional_chinese        822     1    83   906  <<<
+  turkish                    805     4    97   906  <<<
+  welsh                      791    13   102   906  <<<
+
+=== REAL_TEXT_UNTRANSLATED detail (max 60) ===
+  afrikaans            grf    STR_CARGO_ALUMINIUM.name               Aluminium
+  afrikaans            grf    STR_CARGO_ALUMINA.name                 Alumina
+  afrikaans            grf    STR_CARGO_BITUMEN.name                 Bitumen
+  afrikaans            grf    STR_CARGO_SAND.name                    Sand
+  afrikaans            grf    STR_CARGO_TIN.name                     Tin
+  afrikaans            grf    STR_IND_HOTEL.base                     Hotel
+  afrikaans            grf    STR_STATION_BAKERY.base                Bakery
+  afrikaans            grf    STR_STATION_PLANT.base                 Plant
+  afrikaans            grf    STR_STATION_SILO.base                  Silo
+  afrikaans            grf    STR_STATION_WATER.base                 Sandbank
+  afrikaans            gs     STR_GRIND_TEST.base                    {BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  arabic               gs     STR_GRIND_TEST.base                    {BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  belarusian           gs     STR_GRIND_TEST.base                    {BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  catalan              grf    STR_CARGO_NITROGEN.name                Nitrogen
+  catalan              grf    STR_CARGO_VEHICLES.name                Vehicles
+  catalan              grf    STR_CARGO_ZINC.name                    Zinc
+  catalan              grf    STR_STATION_BASE.base                  Base
+  catalan              grf    STR_STATION_COMPONENTS.base            Components
+  catalan              grf    STR_STATION_MINES.base                 Mines
+  catalan              grf    STR_STATION_POTASH_MINE.base           Minerals
+  catalan              gs     STR_GRIND_TEST.base                    {BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  catalan              docs   DOC_NAV_ECONOMIES                      Economies
+  catalan              docs   DOC_GS_SETUP_INTRO_LINK                {count} economies
+  catalan              docs   DOC_ECO_TITLE                          Economies
+  catalan              docs   DOC_CR_TH_DECIMAL                      (decimal)
+  catalan              docs   DOC_CC_POTABLE                         Potable
+  catalan              extra  TTD_STR_CARGO_PLURAL_PAPER.base        Paper
+  catalan              extra  CARGO_INFO_WOOL.base                   Bales.
+  croatian             grf    STR_CARGO_ALUMINA.name                 Alumina
+  croatian             grf    STR_CARGO_BITUMEN.name                 Bitumen
+  croatian             grf    STR_CARGO_CEMENT.name                  Cement
+  croatian             grf    STR_IND_HOTEL.base                     Hotel
+  croatian             gs     STR_GRIND_TEST.base                    {BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  czech                grf    STR_CARGO_BITUMEN.name                 Bitumen
+  czech                grf    STR_CARGO_CEMENT.name                  Cement
+  czech                grf    STR_IND_HOTEL.base                     Hotel
+  czech                grf    STR_STATION_SILO.base                  Silo
+  czech                gs     STR_GRIND_TEST.base                    {BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  danish               grf    STR_CARGO_ALUMINIUM.name               Aluminium
+  danish               grf    STR_CARGO_ALUMINA.name                 Alumina
+  danish               grf    STR_CARGO_BITUMEN.name                 Bitumen
+  danish               grf    STR_CARGO_CEMENT.name                  Cement
+  danish               grf    STR_CARGO_METHANOL.name                Methanol
+  danish               grf    STR_CARGO_SALT.name                    Salt
+  danish               grf    STR_CARGO_SAND.name                    Sand
+  danish               grf    STR_CARGO_TIN.name                     Tin
+  danish               grf    STR_IND_HOTEL.base                     Hotel
+  danish               grf    STR_IND_RANCH.base                     Ranch
+  danish               grf    STR_STATION_BARNS.base                 Barns
+  danish               grf    STR_STATION_FARM_3.base                Ranch
+  danish               grf    STR_STATION_SHOALS.base                Shoals
+  danish               grf    STR_STATION_SILO.base                  Silo
+  danish               gs     STR_GRIND_TEST.base                    {BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+  danish               gs     STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base {BLACK}Type: {WHITE}{RAW_STRING}
+  dutch                grf    STR_CARGO_ALUMINIUM.name               Aluminium
+  dutch                grf    STR_CARGO_ALUMINA.name                 Alumina
+  dutch                grf    STR_CARGO_BITUMEN.name                 Bitumen
+  dutch                grf    STR_CARGO_CEMENT.name                  Cement
+  dutch                grf    STR_CARGO_METHANOL.name                Methanol
+  dutch                grf    STR_CARGO_TIN.name                     Tin
+
+=== hard errors ===
+  missing_key= 0  bad_placeholder= 0

@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Uhelný důl"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Rudna mědi"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Diamantový důl"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Potravinářský závod"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Lesnictví"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Ovocná plantáž"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Důl na železnou rudu"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Rafinerie ropy"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Vrtěžná plošina"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Ropné vrty"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Papírna"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Guma"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Pila"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Ocelárna"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Uhlí"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Měděná ruda"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamanty"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Jídlo"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Zboží"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Obilí"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Železná ruda"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Dobytek"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Pošta"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Kukuřice"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Ropa"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Papír"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Cestující"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Hrubá ocelová lití vyžadující další zpracování. Ingoty mohou být malé nebo velmi velké. Typické profily ingotů jsou obdélníkové nebo kulaté."
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Cukr"
+
+[ECONOMY_INFO_FIRS]
+base = "Komplexní ekonomika s mnoha odvětvími a náklady."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Jednoduchá ekonomika. Inspirována Finskem, severní Kanadou a severní Sibiří. Nejlepší je v subarktickém podnebí."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Jednoduchá ekonomika. Inspirována jihozápadní Velkou Británií. Nejlepší je v mírném podnebí."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Jednoduchá ekonomika. Inspirována Argentinou, Peru a Chile. Nejlepší je v subtropickém podnebí."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Komplexní ekonomika s mnoha odvětvími a náklady. Inspirována středozápadní Afrikou. Nejlepší je její použití v subtropickém podnebí."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Komplexní ekonomika zahrnující železárny, ocelárny a těžký průmysl."
+
+[CARGO_INFO_PASSENGERS]
+base = "Dostupné ve všech ekonomikách. Vyrábějí je a přijímají městské budovy i některá průmyslová zařízení."
+
+[CARGO_INFO_MAIL]
+base = "Dostupné ve všech ekonomikách. Vyrábějí je a přijímají městské budovy."
+
+[CARGO_INFO_ACID]
+base = "Průmyslové kyseliny, například kyselina chlorovodíková, dusičná a sírová."
+
+[CARGO_INFO_AGGREGATES]
+base = "Štěrk, písek, drcený kámen a podobné materiály používané ve stavebnictví."
+
+[CARGO_INFO_ALUMINA]
+base = "Bílý prášek získaný rafinací bauxitové rudy, používaný k výrobě hliníku."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Rafinovaný hliník ve svitcích, ingotech, plátech apod."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Průmyslové chemikálie získávané z amoniaku, například amoniak, dusičná kyselina a močovina. Dopravují se jako kapaliny, kryogenně jako zkapalněný plyn nebo jako suchý sypký materiál."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Bílá, šedá nebo hnědá kámeninová sádrovce, používaná při výrobě kyseliny sírové a cementu. Často se přepravuje jako krytý sypký náklad."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Průmyslové minerály používané při chemickém zpracování. Baryt se používá v bariových chemikáliích a jako plnidlo; fluorit ve fluorové chemii a metalurgických fluidech."
+
+[CARGO_INFO_BASE_METALS]
+base = "Ropný a chemický terminál"
+
+[CARGO_INFO_BEANS]
+base = "Běžné fazole, hrách, sójové boby a podobné jedlé luštěniny."
+
+[CARGO_INFO_BITUMEN]
+base = "Hustý ropný produkt používaný hlavně k povrchové úpravě silnic a k zateplování střech."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Cement, sklo, kovové součásti, dřevěné výrobky, potrubí a podobné stavební materiály."
+
+[CARGO_INFO_CASSAVA]
+base = "Jedlá kořenová plodina, známá také jako maniok a yuka."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Intenzivně černý uhlíkový prášek používaný v pneumatikách, plastech a pigmentech. Manipuluje se s ním jako s práškem."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Polotovary, bloky, slitky a desky."
+
+[CARGO_INFO_CAST_IRON]
+base = "Polotovary, bloky, slitky a desky."
+
+[CARGO_INFO_CEMENT]
+base = "Suchý cement v práškové formě nebo ve formě klinkru."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Meziprodukt chemické výroby používaný jako surovina pro další průmyslové zpracování."
+
+[CARGO_INFO_CHEMICALS]
+base = "Obecné organické a anorganické chemikálie, manipulované jako kapaliny, plyny, kryté sypké hmoty, prášky nebo kusové zboží."
+
+[CARGO_INFO_CHLORINE]
+base = "Průmyslová chemikálie, obvykle přepravovaná kryogenně jako zkapalněný stlačený plyn."
+
+[CARGO_INFO_CLAY]
+base = "Obecné jíly pro výrobu stavebních materiálů a další průmyslové účely."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Chemikálie, mýdla, čisticí prostředky atd. pro průmyslové i domácí použití. Převážně tekuté, ale mohou být také práškové nebo pevné (například písek pro tryskání)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Vedlejší produkt výroby koksu, hustá tekutina s pomalým tokem."
+
+[CARGO_INFO_COFFEE]
+base = "Syrové nebo pražené kávové zrna."
+
+[CARGO_INFO_COKE]
+base = "Uhlí, které bylo zahřáté v koksovací peci, čímž vzniká palivo tvořené téměř čistým uhlíkem."
+
+[CARGO_INFO_COMPONENTS]
+base = "Vysoce hodnotné inženýrské komponenty, jako jsou elektrická zařízení, motory, transformátory, řídicí zařízení, hydraulika, pneumatika, čerpadla, ventily a součásti hnací soustavy."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Lité výrobky, jako jsou bloky, nosníky a panely. Lze je také zpracovávat jako hotový beton v míchacích vozidlech."
+
+[CARGO_INFO_COPPER]
+base = "Rafinovaná měď ve svitcích, ingotech apod."
+
+[CARGO_INFO_DIAMONDS]
+base = "Jsou navždy atd."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Ropa na vaření a spotřebu."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Elektrotechnické a elektronické komponenty, motory, ovladače, rozvaděče, osvětlení atd."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Stroje, palivo, díly, dřevěné výrobky, potrubí, výbušniny a další potřeby pro důlní a podobné odvětví."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Civilní výbušniny pro těžbu, stavebnictví atd."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Stroje, palivo, náhradní díly, hnojiva a další zásoby pro farmy, lesy a podobné odvětví."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Používá se při výrobě oceli. Slitiny železa s dalšími prvky, včetně manganu, niklu, chromu, hliníku, křemíku a wolframu. Šedé kusy podobné uhlíkovým kusům velikostí a tvarem."
+
+[CARGO_INFO_FERROCHROME]
+base = "Používá se při výrobě slitin a nerezové oceli, tedy slitiny chromu a železa. Šedé kusy podobné uhlíkovým kusům velikostí a tvarem."
+
+[CARGO_INFO_FLOUR]
+base = "Práškové obilné výrobky, jako jsou mouka a škrob, přepravované v pytlích nebo ve zakrytém sypkém stavu."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Kovové díly určené k sestavení do větších výrobků."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Složky používané při zpracování potravin, například konzervanty, aromatizanty, barviva a pomocné látky při zpracování."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Potraviny uchovávané zmrazené během přepravy a skladování."
+
+[CARGO_INFO_FRUITS]
+base = "Čerstvé a sušené ovoce, například banány, citrusové plody, hrozny, bobulové ovoce, ananas, rozinky a podobně."
+
+[CARGO_INFO_GRAIN]
+base = "Pšenice, ječmen atd."
+
+[CARGO_INFO_HARDWARE]
+base = "Pro domácí a stavební použití. Nástroje, náčiní, konstrukční prvky, armatury z kovu a dalších materiálů."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Speciální uhlíkové materiály, jako jsou kalcinovaný petrolejový koks, smůla, vysoce hodnotné dehty a černé uhlí, používané v metalurgických a chemických procesech."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Průmyslové plyny používané při chemickém zpracování, zpracování kovů a svařování, dopravované ve válcích nebo tlakových cisternách."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Bubny, navijáky, okovy, háky, kladky, hydraulické válce a další součásti jeřábů, zdvihadel, výtahů atd."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Lehké ropné frakce používané jako chemické suroviny, přepravované jako sypké kapaliny."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Převážně nákladní vozy. Nebo osobní vozy. Nebo lehké nákladní vozy. Možná traktory."
+
+[CARGO_INFO_LYE]
+base = "Průmyslová chemikálie. Známá také jako louh nebo praskavá soda. Obvykle se přepravuje jako kapalina."
+
+[CARGO_INFO_KAOLIN]
+base = "Průmyslový minerál, známý také jako kaolín, používaný především při výrobě papíru a plastů."
+
+[CARGO_INFO_MANGANESE]
+base = "Manganová ruda, používaná především při výrobě oceli."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Stroje, díly, palivo, stavební materiály a další potřeby pro přístavy, doky a podobné odvětví."
+
+[CARGO_INFO_METAL]
+base = "Obecný kov, například ocel, hliník nebo jiné běžné kovy."
+
+[CARGO_INFO_METHANOL]
+base = "Průmyslový alkohol používaný jako chemická surovina a palivo, přepravovaný jako sypká kapalina."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Meziprodukty cukru určené k rafinaci, fermentaci a průmyslovému využití. Lepivé granule se manipuluje jako krytý sypký materiál; hustý sirup jako kapalina; oba druhy lze balit."
+
+[CARGO_INFO_NITROGEN]
+base = "Průmyslový plyn. Dopravuje se kryogenně jako zkapalněný stlačený plyn."
+
+[CARGO_INFO_OIL]
+base = "Surová, nerafinovaná ropa přepravovaná jako sypká kapalina."
+
+[CARGO_INFO_OXYGEN]
+base = "Průmyslový plyn. Dopravuje se kryogenně jako zkapalněný stlačený plyn."
+
+[CARGO_INFO_PACKAGING]
+base = "Krabice, láhve, sklenice, plechovky atd."
+
+[CARGO_INFO_PEAT]
+base = "Biomasa z rašelinišť, získávaná jako palivo a pro zahradnictví."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Rafinované ropné produkty, jako jsou benzín, nafta, kerosin, LPG, topný olej a bunkrové palivo, přepravované jako sypké kapaliny nebo zkapalněný plyn."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Průmyslová kyselina používaná především ve výrobě hnojiv a chemikálií, přepravovaná jako sypká kapalina."
+
+[CARGO_INFO_PIG_IRON]
+base = "Základní železo z výškového peci, ve formě roztavené kapaliny nebo pevných slitků."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Bavlna, len, juta a podobné materiály pro výrobu textilií a kompozitních materiálů."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Motorizované zařízení a mechanické systémy používané v budovách, průmyslu a na farmách. Přepravované jako kompletní jednotky nebo jako hlavní dílčí sestavy."
+
+[CARGO_INFO_PETROL]
+base = "Benzín, nafta a podobná paliva."
+
+[CARGO_INFO_PLASTICS]
+base = "Syrový plast určený k dalšímu zpracování. Obvykle se přepravuje ve formě pryskyřičných kuliček."
+
+[CARGO_INFO_PIPEWORK]
+base = "Skladovací nádrže, tlakové nádoby, sila, plynové válce a sestavy potrubí určené pro budovy ve městech, průmysl a zemědělství."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Průmyslové chemikálie používané ve výrobě a zpracování, dopravované jako kapaliny, prášky, plyny nebo balené zboží."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Sulfidové minerály, které se taví za účelem výroby nejrůznějších průmyslových výrobků."
+
+[CARGO_INFO_QUICKLIME]
+base = "Oxid vápenatý, známý také jako pálené vápno. Dopravuje se jako jemný prášek, který musí zůstat suchý."
+
+[CARGO_INFO_REBAR]
+base = "Tenké hrubé ocelové tyče široce používané k zesílení betonových konstrukcí. Dopravují se jako kotouče nebo svazky rovných tyčí."
+
+[CARGO_INFO_RUBBER]
+base = "Dusík"
+
+[CARGO_INFO_SALT]
+base = "Široce používaná průmyslová chemikálie. Obvykle se přepravuje jako sypký náklad, který musí zůstat suchý."
+
+[CARGO_INFO_SAND]
+base = "Hrubý písek pro stavebnictví nebo jemný křemičitý písek pro výrobu skla a lití kovů. Dopravuje se jako sypký materiál nebo prášek."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Pružná těsnění, podložky, hadice, řeměny, rohože, vložky atd. vyrobené z gumy nebo podobných materiálů."
+
+[CARGO_INFO_SLAG]
+base = "Vedlejší produkt výroby železa a oceli."
+
+[CARGO_INFO_SODA_ASH]
+base = "Průmyslová chemikálie. Ve formě bílého prášku."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Polotovary z lité oceli. V průřezu obdélníkové, čtvercové nebo kulaté."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Provazky a kabely vyráběné tažením ocelové drátěné tyče na menší průměr a následným splétáním do svazkových provazů."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Ocelové tyče ve tvaru kruhů, čtverců, plochých profilů a dalších profilů. Dopravují se jako dlouhé rovné výrobky."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Dlouhé kulaté ocelové trubky pro přepravu kapalin v potrubích, budovách, průmyslu atd."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Válcovna tyčí"
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Tenký válcovaný ocelový plech a pás, široce používané k výrobě dalších produktů. Dopravují se jako ploché plechy nebo kotouče."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Polotovary z lité oceli. V průřezu vždy ploché a obdélníkové."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Dlouhá dutá trubka s kulatým, obdélníkovým nebo jiným průřezem. Používá se k výrobě konstrukcí a strojů."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Ocelový drát a tenké tyče. Dopravují se především ve formě svitků."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Valcované ocelové plechy a profily – I-trámy, H-trámy, nosníky apod. Přepravované jako dlouhé rovné výrobky."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Ocel konstrukční kvality ve formě válcovaných profilů (I-trámy, H-trámy atd.), plochých plechů nebo sestavených profilů a trámů svařených z plechu."
+
+[CARGO_INFO_SULPHUR]
+base = "Široce používaná průmyslová chemikálie. Jasně žlutá, v práškové nebo tekuté formě."
+
+[CARGO_INFO_TIMBER]
+base = "Zpracované dřevní výrobky z pil nebo podobných podniků."
+
+[CARGO_INFO_TIN]
+base = "Slitky."
+
+[CARGO_INFO_TINPLATE]
+base = "Tenký ocelový plech potažený cínem pro odolnost proti korozi, používaný hlavně na plechovky, nádoby a další obaly."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Tenký drát používaný k vyztužení pneumatik. Dopravuje se ve formě svitku."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Kabiny, kapoty, dveře a podobné konstrukce karoserií pro výrobu vozidel."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Motory spalovací a související součásti pohonné soustavy, jako jsou převodovky a hnací nápravy."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponenty pro výrobu vozidel, jako jsou podvozky a součásti zavěšení, elektrické díly, vnější obložení a interiérové díly."
+
+[CARGO_INFO_VEHICLES]
+base = "Neželezné kovy, jako jsou měď, nikl, zinek a olovo."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Pomůcky pro řezání a svařování kovů, jako jsou svařovací elektrody, nástroje a průmyslové plyny včetně acetylenu, argonu, propanu, kyslíku a dusíku."
+
+[CARGO_INFO_WOOD]
+base = "Kmeny ze lesa."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Zpracované dřevní vlákno používané především k výrobě papíru, přepravované ve formě balíků nebo jako sypká celulóza."
+
+[CARGO_INFO_WOOL]
+base = "Balíky."
+
+[CARGO_INFO_ZINC]
+base = "Slitky."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

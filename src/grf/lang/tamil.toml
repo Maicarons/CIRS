@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x0a"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS சமூகத் தொழில் மாற்றுத் தொகுப்பு"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS சமூகத் தொழில் மாற்றுத் தொகுப்பு{}{BLACK}FIRS-இன் சமூகம் பராமரிக்கும் ஃபோர்க் இது; இதை முதலில் andythenorth, FooBar, planetmaker, Terkhen மற்றும் Yexo ஆகியோர், பலரின் உதவியுடன் உருவாக்கினர். {SILVER}CIRS-ஐ எவ்வாறு பயன்படுத்துவது என்பது உட்பட கூடுதல் தகவல்களுக்கு இணையதளத்தைப் பாருங்கள். {BLACK}உரிமம்: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "டைல்களில் கடற்கரையிலிருந்து மீன்பிடிக் களங்கள், எண்ணெய் தளங்கள் மற்றும் அகழ்வுத் தளங்களுக்கான அதிகபட்சத் தொலைவு."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "ஒவ்வொரு பொருளாதாரமும் சரக்குகள் மற்றும் தொழில்களின் வெவ்வேறு சேர்க்கையை வழங்குகிறது.{}{}எளிய விளையாட்டு அனுபவத்தை விரும்பும் வீரர்களுக்கு, {SILVER}Basic {BLACK}பொருளாதாரங்களில் மற்ற CIRS பொருளாதாரங்களைவிடக் குறைவான தொழில்களும் சரக்குகளும் உள்ளன.{}{}ஒவ்வொரு பொருளாதாரம் பற்றிய விரிவான தகவல்கள் CIRS இணையதளத்தில் கிடைக்கின்றன."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "டைல்களில் கடல் தொழில்களுக்கான அதிகபட்ச கடற்கரைத் தொலைவு"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "பொருளாதாரம்"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "எந்தவொரு வரம்பும் இல்லை"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "மேம்படுத்தப்பட்ட முதன்மை உற்பத்திக்குத் தேவையான பொருள் பெட்டிகள் (இயல்பாக 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Gung-ho முதன்மை உற்பத்திக்குத் தேவையான பொருள் பெட்டிகள் (இயல்பாக 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "போதுமான குடிசைகள் வழங்கப்பட்டால், விவசாய நிலங்கள், சுரங்கங்கள் மற்றும் இதேபோன்ற தொழில்கள் வழங்கல் குடிசைகள் வந்தவுடன் உற்பத்தியை அதிகரிக்கும்; முதலில் {SILVER}Enhanced{BLACK}-க்கும், பின்னர் {SILVER}Gung-ho{BLACK}-க்கும் அது வழங்கப்படும்.  {}{}இயல்புநிலை மதிப்புகள் நல்லவையே; ஆனால் தேவைப்பட்டால், அவற்றை இங்கே மாற்றலாம்.  {}{}துறைமுக வகைத் தொழில்களுக்கான சரக்குத் தேவைகள் இங்கே அமைக்கப்பட்ட மதிப்புகளின் 8 மடங்காக இருக்கும்."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "மேம்படுத்தப்பட்ட முதன்மை உற்பத்தி நிலை (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho முதன்மை உற்பத்தி நிலை (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "விவசாய நிலங்கள், சுரங்கங்கள் மற்றும் அதற்கு ஒத்த தொழில்களில், வழங்கல் தேவைகள் நிறைவு செய்யப்பட்டபோது உள்ள உற்பத்தி ({SILVER}சாதாரண {BLACK}உற்பத்தி நிலவரத்தின் சதவீதமாக)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "மிதமான அடிப்படை"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "ஆர்க்டிக் பேசிக்"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "ட்ரோபிக் பேசிக்"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "சூடான நாட்டில்"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "மைல்ட் மைல்ட் வெஸ்ட்"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "எஃகு நகரம்"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS நிலப்பரப்பு அமைப்புப் பொருட்கள்"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS-இல் நிலப்பரப்பு அமைப்புப் பொருட்களின் தொகுப்பு ஒன்று உள்ளது; வீரர்கள் அவற்றை வைத்து சில தொழில்கள் பெரிதாகத் தெரியுமாறு செய்யலாம். நிலப்பரப்புப் பொருட்கள் விளையாட்டு நடவடிக்கையில் எந்த விளைவையும் ஏற்படுத்தாது. அவற்றை இயக்கவோ நிறுத்தவோ முடியும்."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(விருப்பம்)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(வழங்கப்படுகிறது)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}அதிகபட்ச உற்பத்திக்காகக் குறைந்தது ஒரு {WHITE}தேவைப்படும் {BLACK}சரக்கை வழங்குங்கள்."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}அதிகபட்ச உற்பத்தி வீதத்திற்காக, {WHITE}இரண்டு {BLACK}தேவைப்படும் சரக்குகளையும் ஒவ்வொரு மூன்று நிமிடங்களுக்கும் குறைந்தது ஒருமுறையாவது வழங்குங்கள்."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}அதிகபட்ச உற்பத்தி வீதத்தைப் பெற, {WHITE}தேவைப்படும் அனைத்து {BLACK}சரக்குகளையும் மூன்று நிமிடங்களுக்கு ஒருமுறையாவது வழங்கவும்."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}அதிகபட்ச உற்பத்தி வீதத்திற்காக, {WHITE}குறைந்தது இரண்டு {BLACK}தேவைப்படும் சரக்குகளை ஒவ்வொரு மூன்று நிமிடங்களுக்கும் குறைந்தது ஒருமுறை வழங்குங்கள்."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}அதிகபட்ச உற்பத்தி வீதத்திற்காக, {WHITE}குறைந்தது மூன்று {BLACK}தேவைப்படும் சரக்குகளை ஒவ்வொரு மூன்று நிமிடங்களுக்கும் குறைந்தது ஒருமுறை வழங்குங்கள்."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}உற்பத்தி நகரின் மக்கள்தொகைக்கு விகிதாசாரமாக இருக்கும். ஒவ்வொரு நிமிடத்திற்கும் குறைந்தது {WHITE}{SIGNED_WORD} அலகுகள்{BLACK} முதல் அதிகபட்சம் {WHITE}{SIGNED_WORD} அலகுகள்{BLACK} வரை சரக்கு உற்பத்தி செய்யப்படும்."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}தற்போதைய உற்பத்தி: {YELLOW}சாதாரணம் {}{}{BLACK}{WHITE}மேம்படுத்தப்பட்ட {BLACK}உற்பத்திக்காக, மூன்று நிமிடங்களுக்கு ஒருமுறை குறைந்தது {SIGNED_WORD} பெட்டிகள் பொருட்களை வழங்குங்கள்.{}{WHITE}Gung-ho {BLACK}உற்பத்திக்காக {SIGNED_WORD} பெட்டிகளை வழங்குங்கள்."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}தற்போதைய உற்பத்தி: {YELLOW}மேம்படுத்தப்பட்ட {}{}{BLACK}இந்த நிலையைப் பேண, மூன்று நிமிடங்களுக்கு ஒருமுறையாவது {SIGNED_WORD} பெட்டிகள் பொருட்களை வழங்குங்கள்.{}{WHITE}Gung-ho {BLACK}உற்பத்திக்காக {SIGNED_WORD} பெட்டிகளை வழங்குங்கள்."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}தற்போதைய உற்பத்தி: {YELLOW}Gung-ho {}{}{BLACK}இந்த நிலையைத் தொடர, ஒவ்வொரு மூன்று நிமிடங்களுக்கும் குறைந்தது ஒருமுறை {SKIP}{SIGNED_WORD} பெட்டிகள் பொருட்களை வழங்குங்கள்."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}தற்போதைய உற்பத்தி: {YELLOW}சாதாரணம் {}{}{BLACK}{WHITE}மேம்படுத்தப்பட்ட {BLACK}உற்பத்திக்கு, ஒவ்வொரு மூன்று நிமிடங்களுக்கும் குறைந்தது ஒருமுறை {SIGNED_WORD} அலகுகள் சரக்கை வழங்கவும்.{}{WHITE}Gung-ho {BLACK}உற்பத்திக்கு {SIGNED_WORD} அலகுகளை வழங்கவும்."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}தற்போதைய உற்பத்தி: {YELLOW}மேம்படுத்தப்பட்ட {}{}{BLACK}இந்த நிலையைப் பேண, மூன்று நிமிடங்களுக்கு ஒருமுறை குறைந்தது {SIGNED_WORD} சரக்கு அலகுகளை வழங்கவும்.{}{WHITE}Gung-ho {BLACK}உற்பத்திக்காக {SIGNED_WORD} அலகுகளை வழங்கவும்."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}தற்போதைய உற்பத்தி: {YELLOW}Gung-ho {}{}{BLACK}இந்த நிலையைப் பேண, மூன்று நிமிடங்களுக்கு ஒருமுறை குறைந்தது {SKIP}{SIGNED_WORD} சரக்கு அலகுகளை வழங்கவும்."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS-க்கு OpenTTD 1.7.0 (அல்லது trunk build-களைப் பயன்படுத்துபவர்களுக்கு r27769) தேவை"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}பொருந்தாத தொகுப்பு: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}பொருந்தாத அளவுரு: {ORANGE}CIRS உடன் செயல்பட, CanSet அளவுரு 2 ஆனது 0 ஆக இருக்க வேண்டும்."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}பொருந்தாத அளவுரு: {ORANGE}NA City Set அளவுரு 2, CIRS உடன் செயல்பட 0 ஆக இருக்க வேண்டும்."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}பொருந்தாத பதிப்பு: {ORANGE}Total Town Replacement Set என்பது பதிப்பு 3.11 அல்லது அதற்குப் புதிய பதிப்பாக இருக்க வேண்டும்."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "பனி வரம்புக்குக் கீழே வைக்கப்பட வேண்டும்."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "திட்டும் சரிவுகளில் வைக்க முடியாது."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}இடம்: {YELLOW}பனியிலோ பாலைவனங்களிலோ நிதியளிக்க முடியாது."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}இடம்: {YELLOW}பனியிலோ பாலைவனங்களிலோ நிதியளிக்க முடியாது."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}இடம்: {YELLOW}பனியிலோ பாலைவனங்களிலோ நிதியளிக்க முடியாது."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}இடம்: {YELLOW}பனியிலோ பாலைவனங்களிலோ நிதியளிக்க முடியாது."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}இடம்: {YELLOW}பாலைவனங்களில் நிதியளிக்க முடியாது."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}இடம்: {YELLOW}பனியில் நிதியளிக்க முடியாது."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}இடம்: {YELLOW}பனியில் மட்டுமே நிதியளிக்க முடியும்."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}இடம்: {YELLOW}பனியிலோ பாலைவனங்களிலோ நிதியளிக்க முடியாது."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}இடம்: {YELLOW}பனியிலோ பாலைவனங்களிலோ நிதியளிக்க முடியாது."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}இடம்: {YELLOW}பனியிலோ பாலைவனங்களிலோ நிதியளிக்க முடியாது."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "அமிலம்"
+cargo_unit = "{VOLUME} அமிலம்"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "திரண்டல்கள்"
+cargo_unit = "{WEIGHT} கலவைப் பொருட்கள்"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "அலுமினியம்"
+cargo_unit = "{WEIGHT} அலுமினியம்"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "அலுமினா"
+cargo_unit = "{WEIGHT} அலுமினா"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "அமோனியா மற்றும் நைட்ரிக் தயாரிப்புகள்"
+cargo_unit = "{VOLUME} அமோனியா மற்றும் நைட்ரிக் தயாரிப்புகள்"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "அன்ஹைட்ரைட் பாறை"
+cargo_unit = "{WEIGHT} அனஹைட்ரைட் பாறை"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "ஆப்பிள்கள்"
+cargo_unit = "ஆப்பிள்களின் {WEIGHT}"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "அவரை"
+cargo_unit = "பீன்ஸின் {WEIGHT}"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "பிடுமென்"
+cargo_unit = "{VOLUME} பிடுமென்"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "கட்டுமானப் பொருட்கள்"
+cargo_unit = "கட்டிடப் பொருட்களின் {WEIGHT}"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "கார்பன் பிளாக்"
+cargo_unit = "கார்பன் பிளாக்கின் {WEIGHT}"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "கச்சாவா"
+cargo_unit = "கசாவாவின் {WEIGHT}"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "கலப்பு இரும்பு"
+cargo_unit = "காஸ்ட் இரும்பின் {WEIGHT}"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "சிமெண்ட்"
+cargo_unit = "சிமெண்டின் {WEIGHT}"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "வேதியியல் இடைநிலைப் பொருட்கள்"
+cargo_unit = "{VOLUME} வேதியியல் இடைநிலைப் பொருட்கள்"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "இரசாயனங்கள்"
+cargo_unit = "{VOLUME} வேதியியல் பொருட்கள்"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CHLORINE]
+name = "குளோரின்"
+cargo_unit = "{VOLUME} குளோரின்"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CLAY]
+name = "களிமண்"
+cargo_unit = "க்ளேயின் {WEIGHT}"
+cid = "{TINYFONT}CY"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "சுத்திகரிப்புப் பொருட்கள்"
+cargo_unit = "சுத்திகரிப்பு முகவர்களின் {WEIGHT}"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "காப்பி"
+cargo_unit = "{WEIGHT} காபி மூடை{P 0 \"\" s}"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "நிலக்கரி பிசாசு"
+cargo_unit = "{VOLUME} கரிப் பித்தள்"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "கோக்"
+cargo_unit = "{WEIGHT} கோக்"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "துல்லியக் கூறுகள்"
+cargo_unit = "துல்லியக் கூறுகளின் {WEIGHT}"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "கான்கிரீட் தயாரிப்புகள்"
+cargo_unit = "{WEIGHT} கான்கிரீட் தயாரிப்புகள்"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "செப்பு"
+cargo_unit = "{WEIGHT} செம்பு"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "சாப்பிடக்கூடிய எண்ணெய்"
+cargo_unit = "{VOLUME} உணவு எண்ணெய்"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "மின்சாரப் பாகங்கள்"
+cargo_unit = "{WEIGHT} மின்சாரப் பாகங்கள்"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "பொறியியல் தேவைப்பொருட்கள்"
+cargo_unit = "{SIGNED_WORD} பொறியியல் தேவைப்பொருட்கள் பெட்டி{P 0 \"\" s}"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "வெடிமருந்துகள்"
+cargo_unit = "{WEIGHT} வெடிமருந்துகள்"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "ஃபெர்ரோஅலாய்கள்"
+cargo_unit = "{WEIGHT} ஃபெரோஅலாய்கள்"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "மீன் & கடல் உணவு"
+cargo_unit = "{WEIGHT} மீன் & கடல் உணவுகள்"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "விவசாயப் பொருட்கள்"
+cargo_unit = "{SIGNED_WORD} விவசாயப் பொருட்கள் பெருக்குண்டு{P 0 \"\" s}"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "சாராயம்"
+cargo_unit = "{WEIGHT} உரம்"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "தூரியம் & ஸ்டார்ச்"
+cargo_unit = "{WEIGHT} மாவு & ஸ்டார்ச்"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "உணவுச் சேர்க்கைகள்"
+cargo_unit = "{WEIGHT} உணவுச் சேர்க்கைகள்"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "உணவு மற்றும் பானங்கள்"
+cargo_unit = "{WEIGHT} உணவு & பானங்கள்"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "ஃபோர்ஜிங்குகள் மற்றும் காஸ்டிங்குகள்"
+cargo_unit = "ஃபோர்ஜிங்குகள் & காஸ்டிங்குகளின் {WEIGHT}"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "உறைந்த உணவு"
+cargo_unit = "உறைந்த உணவின் {WEIGHT}"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "பழம்"
+cargo_unit = "பழங்களின் {WEIGHT}"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "கண்ணாடி தயாரிப்புகள்"
+cargo_unit = "கண்ணாடி தயாரிப்புகளின் {WEIGHT}"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "ஹார்ட்வேர் மற்றும் முடிவுப்படுத்தல்கள்"
+cargo_unit = "ஹார்ட்வேர் & முடிவுப் பூச்சுகளின் {WEIGHT}"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "தொழில்துறை கார்பன்கள்"
+cargo_unit = "தொழில்துறை கார்பன்களின் {WEIGHT}"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "தொழில்துறை வாயுக்கள்"
+cargo_unit = "{VOLUME} தொழில்துறை வாயுக்கள்"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "சைனா க்ளே"
+cargo_unit = "சைனா க்ளேயின் {WEIGHT}"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "இலகு ஹைட்ரோகார்பன்கள்"
+cargo_unit = "{VOLUME} லைட் ஹைட்ரோகார்பன்கள்"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "சுண்ணாம்புக் கல்"
+cargo_unit = "சுண்ணாம்புக் கல்லின் {WEIGHT}"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "பதிவுகள்"
+cargo_unit = "கட்டுகளின் {WEIGHT}"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "சோடியம் ஹைட்ராக்சைட்"
+cargo_unit = "{VOLUME} சோடியம் ஹைட்ராக்சைடு"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "மெத்தனால்"
+cargo_unit = "{VOLUME} மெத்தனால்"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "பால்"
+cargo_unit = "{VOLUME} பால்"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "மாங்கனீசு"
+cargo_unit = "மாங்கனீசின் {WEIGHT}"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "இறைச்சல்"
+cargo_unit = "இறைச்சலின் {WEIGHT}"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "பாரைட்ஸ் மற்றும் ஃப்ளூர்ஸ்பார்"
+cargo_unit = "பாரைட்ஸ் மற்றும் ஃப்ளூர்ஸ்பாரின் {WEIGHT}"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "மினரல் ஃபில்லர்கள்"
+cargo_unit = "மினரல் நிரப்பிகளின் {WEIGHT}"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "பச்சை சர்க்கரை மற்றும் மாலாசஸ்"
+cargo_unit = "பச்சைச் சர்க்கரை & மாலாஸின் {WEIGHT}"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "நைட்ரேட்கள்"
+cargo_unit = "நைட்ரேட்களின் {WEIGHT}"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "நைட்ரஜன்"
+cargo_unit = "{VOLUME} நைட்ரஜன்"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "கொட்டைகள்"
+cargo_unit = "கொட்டைகளின் {WEIGHT}"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "ஆக்சிஜன்"
+cargo_unit = "{VOLUME} ஆக்சிஜன்"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "பொதிப்பதிப்பு"
+cargo_unit = "பேக்கேஜிங்கின் {WEIGHT}"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "பெயிண்டுகள் மற்றும் பூச்சுகள்"
+cargo_unit = "{VOLUME} வண்ணம் & பூச்சுகள்"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "பீட்"
+cargo_unit = "பீட்டின் {WEIGHT}"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "பெட்ரோலியம் எரிபொருட்கள்"
+cargo_unit = "{VOLUME} பெட்ரோலியம் எரிபொருட்கள்"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "சேமிப்புத் தொட்டிகள் & குழாய் அமைப்புகள்"
+cargo_unit = "சேமிப்புத் தொட்டிகள் மற்றும் குழாய்ச் செட்டுகளின் {WEIGHT}"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "பாஸ்பேட்டு"
+cargo_unit = "பாஸ்பேட்டின் {WEIGHT}"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "பாஸ்போரிக் அமிலம்"
+cargo_unit = "{VOLUME} பாஸ்போரிக் அமிலம்"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "பிக் இரும்பு"
+cargo_unit = "பிக் இரும்பின் {WEIGHT}"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "பிளாஸ்டிக்ஸ் & ரெசின்கள்"
+cargo_unit = "பிளாஸ்டிக்குகள் & ரெசின்களின் {WEIGHT}"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "தொழிற்சாலை & இயந்திரங்கள்"
+cargo_unit = "செடிகள் & இயந்திரங்களின் {WEIGHT}"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "போடாஷ்"
+cargo_unit = "பொட்டாஷின் {WEIGHT}"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "செயல்முறை வேதியியல் பொருட்கள்"
+cargo_unit = "செயல்முறை வேதியியல் பொருட்களின் {WEIGHT}"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "பம்புகள் & வால்வுகள்"
+cargo_unit = "பம்புகள் & வால்வுகளின் {WEIGHT}"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "பைரைட் கனிமம்"
+cargo_unit = "பைரைட் சுரங்கக் கல்லின் {WEIGHT}"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "குவிக்லைம்"
+cargo_unit = "குவிக்லைமின் {WEIGHT}"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "ரீபார்"
+cargo_unit = "ரீபாரின் {WEIGHT}"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "உப்பு"
+cargo_unit = "உப்பின் {WEIGHT}"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "மண்"
+cargo_unit = "மணலின் {WEIGHT}"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "குப்பு உலோகம்"
+cargo_unit = "கழிவு உலோகத்தின் {WEIGHT}"
+cid = "{TINYFONT}SM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "சீல்கள், ஹோஸ்கள் மற்றும் பெல்ட்கள்"
+cargo_unit = "சீல்கள், ஹோஸ்கள் & பெல்ட்களின் {WEIGHT}"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "ஸ்லாக்"
+cargo_unit = "ஸ்லாக்கின் {WEIGHT}"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "சோடா அஷ்"
+cargo_unit = "சோடா அஷின் {WEIGHT}"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "எஃகு"
+cargo_unit = "எஃகின் {WEIGHT}"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "பில்லெட்ஸ் மற்றும் ப்ளூம்ஸ்"
+cargo_unit = "பில்லெட்ஸ் மற்றும் ப்ளூம்ஸின் {WEIGHT}"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "எஃகு இங்காட்டுகள்"
+cargo_unit = "இரும்புத் தகடுகளின் {WEIGHT}"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "வணிகர் பார்"
+cargo_unit = "வணிகப் பட்டைகளின் {WEIGHT}"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "எஃகு குழாய்"
+cargo_unit = "இரும்புத் தொட்டியின் {WEIGHT}"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "எஃகு தகடு"
+cargo_unit = "இரும்புத் தகட்டின் {WEIGHT}"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "எஃகு தாள் மற்றும் பட்டை"
+cargo_unit = "இரும்புத் தாள் மற்றும் பட்டையின் {WEIGHT}"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "எஃகு ஸ்லாப்"
+cargo_unit = "இரும்புத் தகட்டின் {WEIGHT}"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "எஃகு குழாய்"
+cargo_unit = "இரும்புத் துப்புரோவின் {WEIGHT}"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "எஃகு வயர் ராட்"
+cargo_unit = "இரும்புத் திருப்புத் தண்டின் {WEIGHT}"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "கட்டமைப்பு எஃகு"
+cargo_unit = "கட்டமைப்பு இரும்பின் {WEIGHT}"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "சல்பர்"
+cargo_unit = "சல்பரின் {WEIGHT}"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "சல்புரிக் அமிலம்"
+cargo_unit = "{VOLUME} சல்புரிக் அமிலம்"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "மரத் தயாரிப்புகள்"
+cargo_unit = "மரப் பொருட்களின் {WEIGHT}"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_TIN]
+name = "டின்"
+cargo_unit = "செம்மறியாட்டின் {WEIGHT}"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "டின்பிளேட்"
+cargo_unit = "{WEIGHT} டின் தகடு"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "டயர் கார்டு"
+cargo_unit = "{WEIGHT} டயர் கோர்டு"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "டயர்கள்"
+cargo_unit = "{WEIGHT} டயர்கள்"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "காய்கறிகள்"
+cargo_unit = "{WEIGHT} காய்கறிகள்"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "வாகன உடல்கள்"
+cargo_unit = "{WEIGHT} வாகன உடல்கள்"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "எஞ்சின்கள் & டிரைவ்லைன்"
+cargo_unit = "{WEIGHT} எஞ்சின்கள் & டிரைவ்லைன்"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "வாகன பாகங்கள்"
+cargo_unit = "{WEIGHT} வாகனப் பாகங்கள்"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "வாகனங்கள்"
+cargo_unit = "{WEIGHT} வாகனங்கள்"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "வெல்டிங் நுகர்வுப் பொருட்கள்"
+cargo_unit = "{WEIGHT} வெல்டிங் நுகர்வுப் பொருட்கள்"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "மரச்சுருள்"
+cargo_unit = "{WEIGHT} மரச்சுருள்"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "கம்பளி"
+cargo_unit = "{SIGNED_WORD} கம்பளி மூட்டை{P 0 \"\" s}"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "செம்மறு"
+cargo_unit = "{WEIGHT} செம்மறு"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "செம்மறு சுரப்பி"
+cargo_unit = "{WEIGHT} செம்மறு சுரங்கக் கனி"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "பொருட்களின் {WEIGHT}"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "அலுமினியம் தொழிற்சாலை"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "அமோனியா கலவை"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "அனஹைட்ரைட் சுரங்கம்"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "அனஹைட்ரைட் செயல்முறைத் தொழிற்சாலை"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "மின்சாதனத் தொழிற்சாலை"
+
+[STR_IND_ARABLE_FARM]
+base = "விவசாயத் தோட்டம்"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "வாகன தொழிற்சாலை"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "பிரிவு மற்றும் துண்டு மில்"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "அடிப்படை ஆக்சிஜன் உலை"
+
+[STR_IND_BLAST_FURNACE]
+base = "பிளாஸ்ட் ஃபர்னஸ்"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "சிப்ப்போர்ட் தொழிற்சாலை"
+
+[STR_IND_BODY_PLANT]
+base = "உடல் தொழிற்சாலை"
+
+[STR_IND_BREWERY]
+base = "மதுபானத் தொழிற்சாலை"
+
+[STR_IND_CIDER_MILL]
+base = "சைடர் மில்"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "கட்டுமானப் பணிமனை" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "கார்பன் பிளாக் தொழிற்சாலை"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "செல்லுலோஸ் படத் தொழிற்சாலை"
+
+[STR_IND_CEMENT_PLANT]
+base = "சிமெண்ட் தொழிற்சாலை"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "வேதியியல் கலவைச் செயலகம்"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "வெடிமருந்து தொழிற்சாலை"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "குளோர்-ஆல்கலி தொழிற்சாலை"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "க்ளே குழி"
+
+[STR_IND_COFFEE_ESTATE]
+base = "காபி தோட்டம்"
+
+[STR_IND_COKE_OVEN]
+base = "கோக் சுடும் அடுப்பு"
+
+[STR_IND_CONCRETE_PLANT]
+base = "கான்கிரீட் நிலையம்"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "பேச்ச் வேதியியல் தொழிற்சாலை"
+
+[STR_IND_COPPER_SMELTER]
+base = "தாமிர உருக்கக் கூடம்"
+
+[STR_IND_CRYO_PLANT]
+base = "க்ரையோ நிலையம்"
+
+[STR_IND_DAIRY]
+base = "பால்நிலையம்"
+
+[STR_IND_DAIRY_FARM]
+base = "பால்நிலைப் பண்ணை"
+
+[STR_IND_DREDGING_SITE]
+base = "குழிதோண்டும் இடம்"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "எலாஸ்டோமர் தயாரிப்பு தொழிற்சாலை"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "மின்சார ஆர் பிண்டம்"
+
+[STR_IND_ENGINE_PLANT]
+base = "எஞ்சின் தொழிற்சாலை"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "பொறியியல் பணிகள்"
+
+[STR_IND_FARM]
+base = "விவசாய நிலம்"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "செயல்முறை வேதியியல் பொருட்கள் தொழிற்சாலை"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "புளிப்புச் செயல் நிலையம்"
+
+[STR_IND_FISH_FARM]
+base = "மீன் வளர்ப்புத் தொழிற்சாலை"
+
+[STR_IND_FISHING_GROUND]
+base = "மீன்பிடிப் பகுதிகள்"
+
+[STR_IND_FISHING_HARBOUR]
+base = "மீன்பிடித் துறைமுகம்"
+
+[STR_IND_GRAIN_MILL]
+base = "தானிய அரைக்கும் ஆலை"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "உணவு செயலாக்க நிலையம்"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "எஃகு ஃபோர்ஜ் மற்றும் ஃபவுண்ட்ரி"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "உறைந்த உணவு தொழிற்சாலை"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "கட்டுப்பொருள் தொழிற்சாலை"
+
+[STR_IND_GENERAL_STORE]
+base = "பொதுக் கடை"
+
+[STR_IND_GLASS_WORKS]
+base = "கண்ணாடி தொழிற்சாலை"
+
+[STR_IND_HERDING_COOP]
+base = "கால்நடை வளர்ப்பு கூட்டுறவு"
+
+[STR_IND_HOTEL]
+base = "ஹோட்டல்"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "உறைந்த இனிப்பு உணவு தொழிற்சாலை"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "எஃகு மில்"
+
+[STR_IND_SCRAP_YARD]
+base = "குப்பு உலோகக் கிடங்கு"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "சுண்ணாம்புச் சுடுமனை"
+
+[STR_IND_LIMESTONE_MINE]
+base = "சுண்ணாம்புக் கல் சுரங்கம்"
+
+[STR_IND_MANGANESE_MINE]
+base = "மாங்கனீஸ் சுரங்கம்"
+
+[STR_IND_METAL_WORKS]
+base = "உலோகப் பணிமனை"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "மினரல் ஃபில்லர் தொழிற்சாலை"
+
+[STR_IND_NITRATE_MINE]
+base = "நைட்ரேட் சுரங்கம்"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "தொழில்துறை வேதிப்பொருள் தொழிற்சாலை"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "எண்ணெய் & வேதியியல் முனையம்"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "பழமரத் தோட்டம் & பன்றி வளர்ப்பு இடம்"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "பாட்டில் & கேன் தொழிற்சாலை"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "காகிதத் தயாரிப்பு தொழிற்சாலை"
+
+[STR_IND_PEATLANDS]
+base = "பீட் நிலங்கள்"
+
+[STR_IND_PETROLPUMP]
+base = "பெட்ரோல் நிலையம்"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "பாஸ்பேட் சுரங்கம்"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "சாராயம் & அமில ஆலை"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "வணிக ரீதியான பேக்கரி"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "பைப் கடை"
+
+[STR_IND_PLATE_MILL]
+base = "பிளேட் மில்"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "பிளாஸ்டிக் மவுல்டிங் தொழிற்சாலை"
+
+[STR_IND_PORT]
+base = "துறைமுகம்"
+
+[STR_IND_POTASH_MINE]
+base = "பொட்டாஷ் சுரங்கம்"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "மின் அமைப்புகள் தொழிற்சாலை"
+
+[STR_IND_POWER_PLANT]
+base = "மின் உற்பத்தி நிலையம்"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "துல்லியப் பாகங்கள் தொழிற்சாலை"
+
+[STR_IND_PRODUCE_PACKER]
+base = "உற்பத்திப் பொதிப்பவர்"
+
+[STR_IND_PYRITE_MINE]
+base = "பைரைட் சுரங்கம்"
+
+[STR_IND_PYRITE_SMELTER]
+base = "பைரைட் உருக்கக் கூடம்"
+
+[STR_IND_QUARRY]
+base = "கற்றைச் சுரங்கம்"
+
+[STR_IND_RANCH]
+base = "பண்ணை"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "ரோட்ஸ்டோன் தொழிற்சாலை"
+
+[STR_IND_SALT_WORKS]
+base = "உப்புத் தொழிற்சாலை"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "ஸ்லாக் அரைப்பு நிலையம்"
+
+[STR_IND_SODA_ASH_MINE]
+base = "சோடா அஷ் சுரங்கம்"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "செல்லமான உணவுத் தொழிற்சாலை"
+
+[STR_IND_STOCKYARD]
+base = "சரக்குத் தளம்"
+
+[STR_IND_STRIP_MILL]
+base = "பட்டைக் கோலி நெடுவரிசை"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "சர்க்கரை சுத்திகரிப்பு நிலையம்"
+
+[STR_IND_SUPPLY_YARD]
+base = "பொருள் வழங்கல் மையம்"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "மரக்கட்டுச்சாலை"
+
+[STR_IND_TIN_MINE]
+base = "டின் சுரங்கம்"
+
+[STR_IND_TINPLATE_WORKS]
+base = "டின்பிளேட் தொழிற்சாலை"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "டிராக் வாகனத் தொழிற்சாலை"
+
+[STR_IND_TRADING_POST]
+base = "வர்த்தக நிலையம்"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "டியூப் & பைப் மில்"
+
+[STR_IND_TYRE_PLANT]
+base = "டயர் தொழிற்சாலை"
+
+[STR_IND_VINEYARD]
+base = "திராட்சைத் தோட்டம்"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "வாகன விநியோகஸ்தர்"
+
+[STR_IND_WHARF]
+base = "துறைமுகம்"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "துண்டுத் துண்டு உற்பத்தி நிலையம்"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "செம்மறு சுரங்கம்"
+
+[STR_IND_ZINC_SMELTER]
+base = "செம்மறு உருக்கும் நிலையம்"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "குதிரை சந்தை"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "மின்சாரப் பொருட்கள்"
+
+[STR_STATION_AUTOMOTIVE]
+base = "மோட்டார் வாகனத் துறை"
+
+[STR_STATION_BAKERY]
+base = "பேக்கரி"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "கிரீடர்கள்"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "பார், கிரில் மற்றும் அறைகள்"
+
+[STR_STATION_BARNS]
+base = "வரத்துக் கட்டிடங்கள்"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "பாரெல் மற்றும் கெக்"
+
+[STR_STATION_BASE]
+base = "அடிப்படை"
+
+[STR_STATION_BONEYARD]
+base = "எலும்புச் சுங்கம்"
+
+[STR_STATION_BANK_TOP]
+base = "வங்கி உச்சி"
+
+[STR_STATION_BODY_PLANT]
+base = "அழுத்தி உருவாக்கப்பட்ட பாகங்கள்"
+
+[STR_STATION_BRINE_WORKS]
+base = "உப்புநீர் தொழிற்சாலை"
+
+[STR_STATION_BUILDERS_YARD]
+base = "கட்டுமானப் பொருட்கள் சேமிப்பிடம்"
+
+[STR_STATION_COLLIERY]
+base = "நிலக்கரி சுரங்க நிலம்"
+
+[STR_STATION_COMPONENTS]
+base = "கூறுகள்"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "முன்னரே ஊற்றி உறுதிப்படுத்தப்பட்டது"
+
+[STR_STATION_COPPER_LODE]
+base = "தாமிரக் கனிம வெட்டு"
+
+[STR_STATION_CREOSOTING]
+base = "க்ரியோசோட்டிங்"
+
+[STR_STATION_CRYO_PLANT]
+base = "க்ரையோ நிலையம்"
+
+[STR_STATION_DAIRY_LANE]
+base = "பால்நிலைச் சாலை"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "சீல் மற்றும் ஹோஸ்"
+
+[STR_STATION_ESTATE]
+base = "எஸ்டேட்"
+
+[STR_STATION_FACTORY]
+base = "தொழிற்சாலை"
+
+[STR_STATION_FARM_1]
+base = "மேனர்"
+
+[STR_STATION_FARM_2]
+base = "புற்றுகள்"
+
+[STR_STATION_FARM_3]
+base = "பண்ணை"
+
+[STR_STATION_FISHMARKET]
+base = "மீன் சந்தை"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "உணவு நிறுவனம்"
+
+[STR_STATION_FOREST]
+base = "லாக் லாண்டிங்"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "எஃகுத் தொழில் நிபுணர்கள்"
+
+[STR_STATION_FREEZERS]
+base = "உறைப்பான்கள்"
+
+[STR_STATION_FURNACE]
+base = "அடுப்பு"
+
+[STR_STATION_METAL_WORKS]
+base = "உலோகப் பொருட்கள்"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "தொழிற்சாலைகள்"
+
+[STR_STATION_HERDING_COOP]
+base = "ரைண்டர் கூண்டுகள்"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "தொழில் பூங்கா"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "நீர்ப்பகுதி"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "இறங்குதளம்"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "கடற்கரைப் பகுதி"
+
+[STR_STATION_IRONSTONE]
+base = "இரும்புக் கல்"
+
+[STR_STATION_KILNS]
+base = "சுடுமனைகள்"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "கிம்பர்லைட் சேகரங்கள்"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "சுண்ணாம்புக் கல் சுரங்கங்கள்"
+
+[STR_STATION_MANGANESE_MINES]
+base = "மாங்கனீஸ் சுரங்கங்கள்"
+
+[STR_STATION_MILL]
+base = "மில்"
+
+[STR_STATION_MILLS]
+base = "மில்ஸ்"
+
+[STR_STATION_MINES]
+base = "சுரங்கங்கள்"
+
+[STR_STATION_MOULDINGS]
+base = "மோல்டிங்குகள்"
+
+[STR_STATION_OIL_RIG]
+base = "வயல்"
+
+[STR_STATION_ORCHARDS]
+base = "பழமரத் தோட்டங்கள்"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "ஃப்ளோலைன்"
+
+[STR_STATION_PIT]
+base = "குழி"
+
+[STR_STATION_PLANT]
+base = "தொழிற்சாலை"
+
+[STR_STATION_PLANTATION]
+base = "தோட்டம்"
+
+[STR_STATION_PLATE_MILL]
+base = "ஸ்லாப் முற்றம்"
+
+[STR_STATION_POTASH_MINE]
+base = "மினரல்கள்"
+
+[STR_STATION_POWERHUNGRY]
+base = "மின் உற்பத்தி நிலையம்"
+
+[STR_STATION_POWERTRAIN]
+base = "பவர்டிரெயின்"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "தொழிற்சாலை & இயந்திரங்கள்"
+
+[STR_STATION_PUMPS]
+base = "பம்புகள்"
+
+[STR_STATION_PYRITES]
+base = "பைரைட் சேமிப்புகள்"
+
+[STR_STATION_REFINERY]
+base = "சுத்திகரிப்பு நிலையம்"
+
+[STR_STATION_ROD_MILL]
+base = "ராட் மில்"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "ரப்பர் நிறுவனம்"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "சால்ட்பீட்டர் தொழிற்சாலைகள்"
+
+[STR_STATION_SEAFOOD]
+base = "கடல் உணவு"
+
+[STR_STATION_SHARP_STREET]
+base = "ஷார்ப் தெரு"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "குறுகிய ஆழமுள்ள நீர்ப்பகுதிகள்"
+
+[STR_STATION_SILO]
+base = "சைலோ"
+
+[STR_STATION_SMELTER]
+base = "உருக்கும் நிலையம்"
+
+[STR_STATION_SOOT_FURNACE]
+base = "சூட் அடுப்பு"
+
+[STR_STATION_SOUPS]
+base = "சூப்புகள்"
+
+[STR_STATION_STRIP_MILL]
+base = "சுருள் கோடு"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "சர்க்கரை நிறுவனம்"
+
+[STR_STATION_TANK_FARM]
+base = "தொட்டிச் சேமிப்பு நிலம்"
+
+[STR_STATION_TAPPERS_SHED]
+base = "திருப்பிகளின் கூடம்"
+
+[STR_STATION_TOWN_3]
+base = "சரக்குச் சேமிப்பகங்கள்"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "கிராலர் தொழிற்சாலை"
+
+[STR_STATION_TRONA_BEDS]
+base = "ட்ரோனா படுக்கைகள்"
+
+[STR_STATION_TUBE_MILL]
+base = "டியூப் மில்"
+
+[STR_STATION_WATER]
+base = "மணல் வங்கு"
+
+[STR_STATION_WELLS]
+base = "கிணறுகள்"
+
+[STR_STATION_WHEAL]
+base = "குழி"
+
+[STR_STATION_WINERY]
+base = "மதுவின்றிச் செயலகம்"
+
+[STR_STATION_WORKS]
+base = "தொழிற்சாலைகள்"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "டிரக் நிலம்"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "நிலம்"
+
+[STR_BADGE_SEA]
+base = "கடல்"

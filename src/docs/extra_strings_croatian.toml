@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Rudnik uglja"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Rudnik bakra"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Rudnik dijamanta"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Tvornica za preradu hrane"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Šuma"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Voćarsko imanje"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Rudnik željezne rude"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Naftna rafinerija"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Naftna platforma"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Naftne bušotine"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Papirna tvornica"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Gumarsko plantažno gospodarstvo"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Pilana"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Čeličana"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Ugalj"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Bakrena ruda"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Dijamanti"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Hrana"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Roba"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Žito"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Željezna ruda"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Stoka"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Pošta"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Kukuruz"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Nafta"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Papir"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Putnici"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Guma"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Šećer"
+
+[ECONOMY_INFO_FIRS]
+base = "Složena ekonomija s brojnim industrijama i teretima."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Jednostavna ekonomija. Nadahnuta Finskom, sjevernim Kanadom i sjevernim Sibirom. Najbolje se koristi u subarktičkoj klimi."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Jednostavna ekonomija. Nadahnuta jugozapadnom Ujedinjenom Kraljevstvom. Najbolje se koristi u umjerenoj klimi."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Jednostavna ekonomija. Nadahnuta Argentinom, Peruu i Čileom. Najbolje se koristi u subtropskoj klimi."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Složena ekonomija s brojnim industrijama i teretima. Nadahnuta središnjim i zapadnim dijelom Afrike. Najbolje se koristi u podtropskoj klimi."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Složena ekonomija s industrijama željeza, čelika i teške industrije."
+
+[CARGO_INFO_PASSENGERS]
+base = "Dostupno u svim ekonomijama. Proizvode ga i prihvaćaju gradske zgrade, kao i neke industrije."
+
+[CARGO_INFO_MAIL]
+base = "Dostupno u svim ekonomijama. Proizvode ga i prihvaćaju gradske zgrade."
+
+[CARGO_INFO_ACID]
+base = "Industrijske kiseline, poput klorovodične, dušične i sumporne kiseline."
+
+[CARGO_INFO_AGGREGATES]
+base = "Šljunak, pijesak, drobljeni kamen i slični materijali koji se koriste u graditeljstvu."
+
+[CARGO_INFO_ALUMINA]
+base = "Bijeli prašak rafiniran iz boksitne rude, koji se koristi za proizvodnju aluminija."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Pročišćeni aluminij u kolutima, liticama, pločama itd."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Industrijske kemikalije dobivene iz amonijaka, kao što su amonijak, dušična kiselina i urea. Prevoze se kao tekućine, kriogenički kao skrapljeni plinovi ili kao suha rasuta roba."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Bijela, siva ili smeđa kalcijeva sulfatna stijena koja se koristi u proizvodnji sumporne kiseline i cementa. Često se prevozi kao pokriveno rasuto terete."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Industrijski minerali koji se koriste u kemijskoj obradi. Barit se koristi u proizvodnji barijevih kemikalija i punila; fluorit u fluornoj kemiji i metalurškim fluksovima."
+
+[CARGO_INFO_BASE_METALS]
+base = "Neželjezni metali, poput bakra, nikla, cinka i olova."
+
+[CARGO_INFO_BEANS]
+base = "Uobičajeni grah, bob, sojini zrna i slične jestive mahunarke."
+
+[CARGO_INFO_BITUMEN]
+base = "Gust naftni proizvod koji se uglavnom koristi za oblaganje cesta i krovova."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Cement, staklo, metalne komponente, drveni proizvodi, cijevi i slični građevni materijali."
+
+[CARGO_INFO_CASSAVA]
+base = "Jedivi korjenasti usjev, poznat i kao maniok i juka."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Intenzivno crni ugljični prašak koji se koristi u gumama, plastici i pigmentima. Rukuje se kao prašak."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Lijevani poluproizvodi, blovi, litice i ploče."
+
+[CARGO_INFO_CAST_IRON]
+base = "Lijevani poluproizvodi, blovi, litice i ploče."
+
+[CARGO_INFO_CEMENT]
+base = "Suhi cement u obliku praha ili klinkera."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Intermedijarni kemijski proizvodi koji se koriste kao sirovine za daljnju industrijsku obradu."
+
+[CARGO_INFO_CHEMICALS]
+base = "Opće organske i anorganske kemikalije, koje se rukuju kao tekućine, plinovi, pokriveni rasuti materijali, praškovi ili komadno roba."
+
+[CARGO_INFO_CHLORINE]
+base = "Industrijska kemikalija koja se obično prevozi kriogenički kao skrapljeni plin u tekućem stanju."
+
+[CARGO_INFO_CLAY]
+base = "Opće vrste glina za proizvodnju građevnog materijala i druge industrijske namjene."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Kemikalije, sapuni, sredstva za struganje itd. za industrijsku i kućnu uporabu. Uglavnom tekući, ali mogu biti i u obliku praha ili čvrstih tvari (kao što je pijesak za pješačenje)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Pobochni proizvod proizvodnje koksa, gusta tekućina koja se sporo teče."
+
+[CARGO_INFO_COFFEE]
+base = "Sirove ili pržene zrna kave."
+
+[CARGO_INFO_COKE]
+base = "Ugalj koji je zagrijan u koksnoj peći, čime nastaje gorivo koje je gotovo čisti ugljik."
+
+[CARGO_INFO_COMPONENTS]
+base = "Vrijedne inženjerske komponente poput električne opreme, motora, transformatora, upravljačke opreme, hidrauličnih i pneumatskih sustava, pumpi, ventila i opreme za pogonski sklop."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Lijevi proizvodi poput blokova, greda i panela. Mogu se prevoziti i kao gotova betonska smjesa u kamionima s miješalicom."
+
+[CARGO_INFO_COPPER]
+base = "Pročišćena bakrena metalna sirovina u kolutima, liticama itd."
+
+[CARGO_INFO_DIAMONDS]
+base = "Traju zauvijek itd."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Nafta za kuhanje i potrošnju."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Električne i elektroničke komponente, motori, upravljači, rashodovnici, svjetla itd."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Oprema, gorivo, dijelovi, proizvodi od drveta, cijevi, eksploziv i drugi potrepštini za rudnike i slične djelatnosti."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Građevna eksplozivna sredstva za rudarstvo, gradnju itd."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Strojevi, gorivo, dijelovi, gnojiva i druga oprema za poljoprivredu, šumarstvo i slične djelatnosti."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Koristi se u proizvodnji čelika. Legure željeza i drugih elemenata, uključujući mangan, nikl, krom, aluminij, silicij i volfram. Sivi grudvi, slični grudvama ugljena po veličini i obliku."
+
+[CARGO_INFO_FERROCHROME]
+base = "Koristi se u proizvodnji legura i nehrđajućeg čelika, legure kroma i željeza. Sivi grudvi, slični grudvama ugljena po veličini i obliku."
+
+[CARGO_INFO_FLOUR]
+base = "Proizvodi od zobenih pahuljica poput brašna i škroba, prevozeni u vrećama ili u natkrivenim spremnicima za rasutu robu."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Metalni dijelovi za sastavljanje u veće predmete."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Sastojci koji se koriste u preradi hrane, kao što su konzervansi, aromatizatori, boje i pomoćne tvari za preradu."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Hrana koja se tijekom prijevoza i skladištenja drži smrznuta."
+
+[CARGO_INFO_FRUITS]
+base = "Svježe i sušeno voće, poput banana, agruma, grožđa, bobica, ananasa, grožđica i sličnog."
+
+[CARGO_INFO_GRAIN]
+base = "Pšenica, ječam itd."
+
+[CARGO_INFO_HARDWARE]
+base = "Za kućnu i građevinsku uporabu. Alati, pribor, konstrukcijski dijelovi i oprema od metala i drugih materijala."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Specijalni ugljikovinski materijali poput kalciniranog naftnog koksa, katrana, visokovrijednih katrana i ugljičnog crnog, koji se koriste u metalurškim i kemijskim procesima."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Industrijski plinovi koji se koriste u kemijskoj obradi, obradi metala i zavarivanju, a prevoze se u bocama ili cisternama pod tlakom."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Bubnjevi, vitlovi, okovi, kuke, kotačići, hidraulični potisnici i drugi dijelovi za dizalice, podizače, dizala itd."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Lake naftne frakcije koje se koriste kao kemijska sirovina i prevoze kao tekućine u rasutom stanju."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Uglavnom krave, svinje i ovce za proizvodnju mesa. Mogu se jesti i druge životinje."
+
+[CARGO_INFO_LYE]
+base = "Industrijska kemikalija. Poznat je i kao luga ili kaustična soda. Obično se prevozi kao tekućina."
+
+[CARGO_INFO_KAOLIN]
+base = "Industrijski mineral, poznat i kao kaolin, koji se prvenstveno koristi u proizvodnji papira i plastike."
+
+[CARGO_INFO_MANGANESE]
+base = "Manganova ruda, koja se prvenstveno koristi u proizvodnji čelika."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Oprema, dijelovi, gorivo, građevni materijal i drugi potrepštini za luke, dokove i slične djelatnosti."
+
+[CARGO_INFO_METAL]
+base = "Opći metal, poput čelika, aluminija ili drugih uobičajenih metala."
+
+[CARGO_INFO_METHANOL]
+base = "Industrijski alkohol koji se koristi kao kemijska sirovina i gorivo te se prevozi kao tekućina u rasutom stanju."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Intermedijarni šećerni proizvodi za rafiniranje, fermentaciju i industrijsku upotrebu. Ljepljive granule rukuju se kao prekrivena rasuta roba; gusti sirup kao tekućina; oba se mogu pakirati."
+
+[CARGO_INFO_NITROGEN]
+base = "Industrijski plin. Prevozi se kriogenički kao skrapljeni komprimirani plin."
+
+[CARGO_INFO_OIL]
+base = "Sirova, nerafinirana nafta koja se prevozi kao tekućina u rasutom stanju."
+
+[CARGO_INFO_OXYGEN]
+base = "Industrijski plin. Prevozi se kriogenički kao skrapljeni komprimirani plin."
+
+[CARGO_INFO_PACKAGING]
+base = "Kutije, boce, staklenke, limenke itd."
+
+[CARGO_INFO_PEAT]
+base = "Biomasa iz tresetišta, izvađena za gorivo i hortikulturu."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Pročišćeni naftni proizvodi poput benzina, dizelskog goriva, kerozina, LPG-a, ložnog ulja i bunkerskog goriva, prevozeni kao tekućine u rasutom stanju ili kao skrapljeni plin."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Industrijska kiselina koja se uglavnom koristi u proizvodnji gnojiva i kemikalija te se prevozi kao tekućina u rasutom stanju."
+
+[CARGO_INFO_PIG_IRON]
+base = "Osnovno željezo iz visokog peća, u obliku rastaljene tekućine ili čvrstih litica."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Pamuk, lan, juta i slični materijali za proizvodnju tekstila i kompozitnih materijala."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Oprema s pogonom i mehanički sustavi koji se koriste u zgradama, industriji i na farmama. Prevoze se kao cjelovite jedinice ili kao veliki podsklopovi."
+
+[CARGO_INFO_PETROL]
+base = "Benzin, dizel i slična goriva."
+
+[CARGO_INFO_PLASTICS]
+base = "Sirova plastika za daljnju obradu. Obično se prevozi u obliku resinskih kuglica."
+
+[CARGO_INFO_PIPEWORK]
+base = "Skladišni spremnici, posude pod tlakom, silosi, plinske boce i sklopovi cijevi za uporabu u gradskim zgradama, industriji i na farmama."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Industrijske kemikalije koje se koriste u proizvodnji i obradi, a prevoze se kao tekućine, praškovi, plinovi ili pakirana roba."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Sulfidni minerali, taljeni radi proizvodnje raznih industrijskih proizvoda."
+
+[CARGO_INFO_QUICKLIME]
+base = "Kalcijev oksid, poznat i kao pečeni kreč. Prevozi se kao fini prah koji mora ostati suh."
+
+[CARGO_INFO_REBAR]
+base = "Tanke neobrađene čelične šipke koje se široko koriste za armiranje betonskih konstrukcija. Prevoze se kao koturovi ili svezi ravnih šipki."
+
+[CARGO_INFO_RUBBER]
+base = "Uglavnom prirodni lateks."
+
+[CARGO_INFO_SALT]
+base = "Široko korištena industrijska kemikalija. Obično se prevozi kao rasuta tereta koja mora ostati suha."
+
+[CARGO_INFO_SAND]
+base = "Grubi pijesak za gradnju ili fini silicijev pijesak za izradu stakla i lijevanje metala. Prevozi se kao rasuti teret ili u obliku praha."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Fleksibilne brtve, podmetači, crijeva, remeni, prostirke, ležajevi i dr., izrađeni od gume ili sličnih materijala."
+
+[CARGO_INFO_SLAG]
+base = "Otpadni proizvod iz proizvodnje željeza i čelika."
+
+[CARGO_INFO_SODA_ASH]
+base = "Industrijska kemikalija. U obliku bijelog praška."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Poluproizvodi od lijevanog čelika. Pravokutnog, četvrtastog ili okruglog poprečnog presjeka."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Uže čelično lijevano željezo koje zahtijeva daljnju obradu. Litice mogu biti male ili vrlo velike. Tipični profili litica pravokutni su ili okrugli."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Čelične šipke, okrugle, četverokutne, ravne i drugih profila. Prevoze se kao duga ravna proizvoda."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Duge okrugle čelične cijevi za prijevoz tekućina u cjevovodima, zgradama, industriji itd."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Mlin za šipke"
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Tanak valjani čelični list i traka koji se široko koriste za izradu drugih proizvoda. Prevoze se kao ravni listovi ili koturovi."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Poluproizvodi od lijevanog čelika. Uvijek ravni i pravokutnog poprečnog presjeka."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Duga šuplja cijela okruglog, pravokutnog ili drugog poprečnog presjeka. Koristi se za izradu konstrukcija i strojeva."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Čelična žica i tanke šipke. Uglavnom se prevoze u obliku motaka."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Valjane čelične ploče i profili – I-grederi, H-grederi, kanali itd. Prevoze se kao duga, ravna proizvoda."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Čelik konstrukcijske kvalitete u obliku valjanih profila (I-grederi, H-grederi itd.), ravnih ploča ili izrađenih profila i gredera zavaranih od ploča."
+
+[CARGO_INFO_SULPHUR]
+base = "Široko korištena industrijska kemikalija. Jarkožuta, u obliku praška ili tekućine."
+
+[CARGO_INFO_TIMBER]
+base = "Obradjeni drveni proizvodi iz pilane ili sličnih industrija."
+
+[CARGO_INFO_TIN]
+base = "Lijevi."
+
+[CARGO_INFO_TINPLATE]
+base = "Tanak čelični list obložen kosom radi otpornosti na koroziju, koji se uglavnom koristi za limenke, spremnike i drugu ambalažu."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Tanak žičani materijal koji se koristi za ojačavanje guma. Prevozi se u obliku motka."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Kabine, haube, vrata i slične strukture karoserije za proizvodnju vozila."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Duge okrugle čelične cijevi za prijevoz tekućina kroz cjevovode, zgrade, industriju itd."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponente za proizvodnju vozila, kao što su šasija i dijelovi ovjesa, električni dijelovi, vanjska oprema i unutarnji dijelovi."
+
+[CARGO_INFO_VEHICLES]
+base = "Uglavnom kamioni. Ili automobili. Ili lagani kamioni. Možda traktori."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Potrepštine za rezanje i zavarivanje metala, kao što su zavarivačke elektrode, alati i industrijski plinovi, uključujući acetylene, argon, propane, kisik i dušik."
+
+[CARGO_INFO_WOOD]
+base = "Drveni trupci iz šume."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Obradana drvena vlakna koja se uglavnom koriste za proizvodnju papira, a prevoze se u balama ili kao rasuta celuloza."
+
+[CARGO_INFO_WOOL]
+base = "Bale."
+
+[CARGO_INFO_ZINC]
+base = "Lijevi."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

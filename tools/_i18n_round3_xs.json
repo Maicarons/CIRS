@@ -1,0 +1,58 @@
+[
+ {
+  "lang": "arabic",
+  "a": "ar",
+  "b": "arabic",
+  "keys": 139,
+  "diff": 0,
+  "sample": []
+ },
+ {
+  "lang": "french",
+  "a": "fr",
+  "b": "french",
+  "keys": 139,
+  "diff": 0,
+  "sample": []
+ },
+ {
+  "lang": "german",
+  "a": "de",
+  "b": "german",
+  "keys": 139,
+  "diff": 0,
+  "sample": []
+ },
+ {
+  "lang": "korean",
+  "a": "ko",
+  "b": "korean",
+  "keys": 139,
+  "diff": 0,
+  "sample": []
+ },
+ {
+  "lang": "portuguese",
+  "a": "portuguese",
+  "b": "pt",
+  "keys": 139,
+  "diff": 0,
+  "sample": []
+ },
+ {
+  "lang": "simplified_chinese",
+  "a": "simplified_chinese",
+  "b": "zh",
+  "keys": 139,
+  "diff": 0,
+  "sample": []
+ },
+ {
+  "lang": "spanish",
+  "a": "es",
+  "b": "spanish",
+  "keys": 139,
+  "diff": 0,
+  "sample": []
+ }
+]

@@ -1,0 +1,460 @@
+{"i":0,"tr":" {BLACK}(valfritt)"}
+{"i":1,"tr":"(decimal)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Aggregat"}
+{"i":4,"tr":"Alumina"}
+{"i":5,"tr":"Aluminium"}
+{"i":6,"tr":"Ammoniak- och salpetersyraprodukter"}
+{"i":7,"tr":"Ammoniakkomplex"}
+{"i":8,"tr":"Anhydritgruva"}
+{"i":9,"tr":"Anhydritprocessanläggning"}
+{"i":10,"tr":"Anhydritberg"}
+{"i":11,"tr":"Äpplen"}
+{"i":12,"tr":"Apparatfabrik"}
+{"i":13,"tr":"Är för evigt, etc."}
+{"i":14,"tr":"Tillgänglig i alla ekonomier. Produceras och accepteras av stadsbyggnader, samt av ett fåtal industrier."}
+{"i":15,"tr":"Tillgänglig i alla ekonomier. Produceras och accepteras av stadsbyggnader."}
+{"i":16,"tr":"Bageri"}
+{"i":17,"tr":"Balar."}
+{"i":18,"tr":"Baryt och fluorspat"}
+{"i":19,"tr":"Grundjärn från en masugn, som smält vätska eller fasta gjutningar."}
+{"i":20,"tr":"Batchkemisk fabrik"}
+{"i":21,"tr":"Billetter och blommor"}
+{"i":22,"tr":"Billetter, blommor, gjutningar och plattor."}
+{"i":23,"tr":"Biomassa från torvmarker, utvunnen för bränsle och trädgårdsodling."}
+{"i":24,"tr":"Bitumen"}
+{"i":25,"tr":"Karosskomponenter"}
+{"i":26,"tr":"Flaska- och burkfabrik"}
+{"i":27,"tr":"Lådor, flaskor, burkar, burkar etc."}
+{"i":28,"tr":"Saltlakefabrik"}
+{"i":29,"tr":"En biprodukt från kokstillverkning, en tjock, långsamt flytande vätska."}
+{"i":30,"tr":"CIRS"}
+{"i":31,"tr":"CIRS Community Industry Replacement Set"}
+{"i":32,"tr":"CIRS inkluderar en uppsättning landskapsobjekt som spelare kan placera för att få vissa industrier att se större ut. Landskapsobjekt har ingen effekt på spelandet. Landskapsobjekt kan slås på eller av."}
+{"i":33,"tr":"CIRS landskapsobjekt"}
+{"i":34,"tr":"Kabiner, motorhuvar, dörrar och liknande karossdelar för fordonstillverkning."}
+{"i":35,"tr":"Kalciumoxid, även känt som bränd kalk. Transporteras som ett fint pulver som måste hållas torrt."}
+{"i":36,"tr":"Kol svart"}
+{"i":37,"tr":"Kol svart-fabrik"}
+{"i":38,"tr":"Gjutjärn"}
+{"i":39,"tr":"Gjutna produkter såsom block, balkar och paneler. Kan även hanteras som färdigbetong i blandningslastbilar."}
+{"i":40,"tr":"Cellulosfilmfabrik"}
+{"i":41,"tr":"Cement"}
+{"i":42,"tr":"Cement, glas, metallkomponenter, träprodukter, rör och liknande byggmaterial."}
+{"i":43,"tr":"Kemiskt komplex"}
+{"i":44,"tr":"Kemiska mellanprodukter"}
+{"i":45,"tr":"Kemikalier, tvålar, skurmedel etc. för industriellt och hushållsmässigt bruk. Främst flytande, kan även vara pulver eller fasta (såsom sand för kulblästring)."}
+{"i":46,"tr":"Spånskivfabrik"}
+{"i":47,"tr":"Kloralkalifabrik"}
+{"i":48,"tr":"Civila sprängämnen för gruvdrift, byggverksamhet etc."}
+{"i":49,"tr":"Rengöringsmedel"}
+{"i":50,"tr":"Kol"}
+{"i":51,"tr":"Kolgruva"}
+{"i":52,"tr":"Kolteer"}
+{"i":53,"tr":"Kol som har värmts i en koksugn, vilket ger ett bränsle som nästan är rent kol."}
+{"i":54,"tr":"Grovsand för byggändamål, eller fin kiselsand för glasframställning och metallgjutning. Transporteras som bulk eller pulver."}
+{"i":55,"tr":"Spolledning"}
+{"i":56,"tr":"Kommersiellt bageri"}
+{"i":57,"tr":"Vanliga bönor, bondbönor, sojabönor och liknande ätbara baljväxter."}
+{"i":58,"tr":"Komplex ekonomi med järn-, stål- och tung tillverkningsindustri."}
+{"i":59,"tr":"Komplex ekonomi med många industrier och laster."}
+{"i":60,"tr":"Komplex ekonomi med många industrier och laster. Inspirerad av centrala och västra Afrika. Fungerar bäst med subtropiskt klimat."}
+{"i":61,"tr":"Komponenter"}
+{"i":62,"tr":"Komponenter för fordonsproduktion, såsom chassi och fjädringsdelar, elektriska delar, exteriör trim och interiördelar."}
+{"i":63,"tr":"Betongverk"}
+{"i":64,"tr":"Betongprodukter"}
+{"i":65,"tr":"Byggplats"}
+{"i":66,"tr":"Fabrik för färdigmat"}
+{"i":67,"tr":"Koppargruva"}
+{"i":68,"tr":"Kopparmalm"}
+{"i":69,"tr":"Bomull, lin, jute och liknande material för produktion av textilier och kompositmaterial."}
+{"i":70,"tr":"Krypkranverkstad"}
+{"i":71,"tr":"Rå, orefinerad petroleum som transporteras som bulkvätska."}
+{"i":72,"tr":"Kryoplanter"}
+{"i":73,"tr":"Diamantgruva"}
+{"i":74,"tr":"Diamanter"}
+{"i":75,"tr":"Trummor, vinschar, bojor, krokar, block, hydrauliska stötar och andra delar till kranar, hissar, lyftanordningar etc."}
+{"i":76,"tr":"Torr cement i pulver- eller klinkerform."}
+{"i":77,"tr":"Ätbar rotgrönsak, även känd som maniok och yuca."}
+{"i":78,"tr":"Fabrik för elastomerprodukter"}
+{"i":79,"tr":"Elektriska delar"}
+{"i":80,"tr":"Elektriska och elektroniska komponenter, motorer, styrenheter, switchutrustning, belysning etc."}
+{"i":81,"tr":"Elektronikvaror"}
+{"i":82,"tr":"Motorfabrik"}
+{"i":83,"tr":"Ingenjörsverkstad"}
+{"i":84,"tr":"Motorer och drivlina"}
+{"i":85,"tr":"Sprängämnesfabrik"}
+{"i":86,"tr":"Express"}
+{"i":87,"tr":"Fabrik"}
+{"i":88,"tr":"Gård"}
+{"i":89,"tr":"Jäsningsanläggning"}
+{"i":90,"tr":"Ferrolegeringar"}
+{"i":91,"tr":"Gödsel- och syrafabrik"}
+{"i":92,"tr":"Fintråd som används för att förstärka däck. Transporteras som rulle."}
+{"i":93,"tr":"Fisk och skaldjur"}
+{"i":94,"tr":"Fiskodling"}
+{"i":95,"tr":"Flexibla tätningslister, packningar, slangar, remmar, mattor, bussningar etc., tillverkade av gummi eller liknande material."}
+{"i":96,"tr":"Mjöl & stärkelse"}
+{"i":97,"tr":"Flödeslinje"}
+{"i":98,"tr":"Mat"}
+{"i":99,"tr":"Mat och dryck"}
+{"i":100,"tr":"Livsmedelstillsatser"}
+{"i":101,"tr":"Livsmedel som hålls frysta under transport och lagring."}
+{"i":102,"tr":"För hushålls- och bygganvändning. Verktyg, redskap, fästen, beslag i metall och andra material."}
+{"i":103,"tr":"Skog"}
+{"i":104,"tr":"Smide & gjutning"}
+{"i":105,"tr":"Frysar"}
+{"i":106,"tr":"Färsk och torkad frukt, såsom bananer, citrusfrukter, vindruvor, bär, ananas, russin och liknande."}
+{"i":107,"tr":"Fabrik för frysta desserter"}
+{"i":108,"tr":"Fryst mat"}
+{"i":109,"tr":"Fabrik för fryst mat"}
+{"i":110,"tr":"Fruktplantage"}
+{"i":111,"tr":"GPL(v2)"}
+{"i":112,"tr":"GRFID"}
+{"i":113,"tr":"Allmänna lertyper, för tillverkning av byggmaterial och andra industriella användningsområden."}
+{"i":114,"tr":"Allmänna metaller, såsom stål, aluminium eller andra vanliga metaller."}
+{"i":115,"tr":"Allmänna organiska och oorganiska kemikalier, hanterade som vätska, gas, täckt bulk, pulver eller som enskilda varor."}
+{"i":116,"tr":"Balkar"}
+{"i":117,"tr":"Glasprodukter"}
+{"i":118,"tr":"Varor"}
+{"i":119,"tr":"Spannmål"}
+{"i":120,"tr":"Kornkvarn"}
+{"i":121,"tr":"Grus, sand, krossad sten och liknande material som används inom byggsektorn."}
+{"i":122,"tr":"Hårdvara och ytbehandlingar"}
+{"i":123,"tr":"Högvärdeskomponenter inom ingenjörskonst, såsom elektrisk utrustning, motorer, transformatorer, styrutrustning, hydraulik, pneumatik, pumpar, ventiler och drivlinjeutrustning."}
+{"i":124,"tr":"ID"}
+{"i":125,"tr":"Industriella kolprodukter"}
+{"i":126,"tr":"Anläggning för industriella kemikalier"}
+{"i":127,"tr":"Industriella gaser"}
+{"i":128,"tr":"Industriell syra som huvudsakligen används i gödsel- och kemikalietillverkning, transporterad som bulkvätska."}
+{"i":129,"tr":"Industriella syror, såsom saltsyra, salpetersyra och svavelsyra."}
+{"i":130,"tr":"Industriell alkohol som används som kemisk råvara och bränsle, transporterad som bulkvätska."}
+{"i":131,"tr":"Industriell kemikalie, vanligtvis transporterad kryogeniskt som flytande komprimerad gas."}
+{"i":132,"tr":"Industrikemikalie. Även känd som lut eller kaustisk soda. Transporteras vanligtvis som vätska."}
+{"i":133,"tr":"Industrikemikalie. Vit pulverform."}
+{"i":134,"tr":"Industrikemikalier härledda från ammoniak, såsom ammoniak, salpetersyra och urea. Transporteras som vätskor, kryogent som flytande gas, eller som torrt bulkmaterial."}
+{"i":135,"tr":"Industrikemikalier som används i tillverkning och bearbetning, och som transporteras som vätskor, pulver, gaser eller förpackade varor."}
+{"i":136,"tr":"Industriegas. Transporteras kryogent som flytande komprimerad gas."}
+{"i":137,"tr":"Industriegaser som används inom kemisk bearbetning, metallbearbetning och svetsning, och som transporteras i cylindrar eller trycktankvagnar."}
+{"i":138,"tr":"Industriellt mineral, även känt som kaolin, som huvudsakligen används i papper- och plastproduktion."}
+{"i":139,"tr":"Industriella mineraler som används i kemisk bearbetning. Baryt används i bariumkemikalier och fyllnadsmedel; fluorspat i fluorkemi och metallurgiska fluxer."}
+{"i":140,"tr":"Tackor."}
+{"i":141,"tr":"Ingredienser som används inom livsmedelsbearbetning, såsom konserveringsmedel, aromer, färgämnen och processhjälpmedel."}
+{"i":142,"tr":"Intensivt svart kolpulver som används i däck, plaster och pigment. Hanteras som pulver."}
+{"i":143,"tr":"Kemiska mellanprodukter som används som råmaterial för vidare industriell bearbetning."}
+{"i":144,"tr":"Mellanprodukter av socker för raffinering, jäsning och industriellt bruk. Klibbiga granulat hanteras som täckt bulk; tjock sirap som vätska; båda kan förpackas."}
+{"i":145,"tr":"Förbränningsmotorer och relaterade delar av drivlinan, såsom växellådor och drivaxlar."}
+{"i":146,"tr":"Järnmalm"}
+{"i":147,"tr":"Järnmalmsgruva"}
+{"i":148,"tr":"MARK"}
+{"i":149,"tr":"Lätta kolväten"}
+{"i":150,"tr":"Lätta petroleumfraktioner som används som kemiska råvaror, transporterade som bulkvätskor."}
+{"i":151,"tr":"Boskap"}
+{"i":152,"tr":"Timmerstockar"}
+{"i":153,"tr":"Timmerstockar från en skog."}
+{"i":154,"tr":"Långt ihåligt rör med rund, rektangulär eller annan tvärsnittsform. Används för tillverkning av konstruktioner och maskiner."}
+{"i":155,"tr":"Långa runda stålrör för transport av vätskor i rörledningar, byggnader, industrier etc."}
+{"i":156,"tr":"Maskiner, bränsle, delar, gödsel och andra förnödenheter för jordbruk, skogar och liknande industrier."}
+{"i":157,"tr":"Maskiner, bränsle, delar, träprodukter, rör, sprängämnen och andra förnödenheter för gruvor och liknande industrier."}
+{"i":158,"tr":"Maskiner, delar, bränsle, byggmaterial och andra förnödenheter för hamnar, kajer och liknande industrier."}
+{"i":159,"tr":"Post"}
+{"i":160,"tr":"Majs"}
+{"i":161,"tr":"Manganmalm, används främst i stålproduktion."}
+{"i":162,"tr":"Kött"}
+{"i":163,"tr":"Handelsbar"}
+{"i":164,"tr":"Metallverkstad"}
+{"i":165,"tr":"Metalldelar för montering till större föremål."}
+{"i":166,"tr":"Metallvaror"}
+{"i":167,"tr":"Metanol"}
+{"i":168,"tr":"Mild Mild West"}
+{"i":169,"tr":"Mills"}
+{"i":170,"tr":"Mineralfyllnadsmedel"}
+{"i":171,"tr":"Anläggning för mineralfyllnadsmedel"}
+{"i":172,"tr":"Mineraler"}
+{"i":173,"tr":"Gruvor"}
+{"i":174,"tr":"Främst kor, grisar och får för köttproduktion. Andra djur kan också ätas."}
+{"i":175,"tr":"Främst naturlig latex."}
+{"i":176,"tr":"Främst lastbilar. Eller bilar. Eller lätta lastbilar. Kanske traktorer."}
+{"i":177,"tr":"Kväve"}
+{"i":178,"tr":"Icke-järnmetaller, såsom koppar, nickel, zink och bly."}
+{"i":179,"tr":"Olja"}
+{"i":180,"tr":"Olje- och kemiterminal"}
+{"i":181,"tr":"Oljeraffinaderi"}
+{"i":182,"tr":"Oljerigg"}
+{"i":183,"tr":"Oljekällor"}
+{"i":184,"tr":"Olja för matlagning och konsumtion."}
+{"i":185,"tr":"Syre"}
+{"i":186,"tr":"Färger och beläggningar"}
+{"i":187,"tr":"Papper"}
+{"i":188,"tr":"Pappersfabrik"}
+{"i":189,"tr":"Fabrik för pappersprodukter"}
+{"i":190,"tr":"Passagerare"}
+{"i":191,"tr":"Bensin, diesel och liknande bränslen."}
+{"i":192,"tr":"Fosforsyra"}
+{"i":193,"tr":"Rörbutik"}
+{"i":194,"tr":"Anläggning"}
+{"i":195,"tr":"Anläggningar och maskiner"}
+{"i":196,"tr":"Fabrik för plastformar"}
+{"i":197,"tr":"Plast och hartser"}
+{"i":198,"tr":"Plattvalsverk"}
+{"i":199,"tr":"Pulveriserade spannmålsprodukter såsom mjöl och stärkelse, transporterade i säckar eller i täckt bulk."}
+{"i":200,"tr":"Fabrik för kraftsystem"}
+{"i":201,"tr":"Drivna utrustningar och mekaniska system som används i byggnader, industrier och på jordbruk. Transporteras som kompletta enheter eller som större delkomponenter."}
+{"i":202,"tr":"Drivlina"}
+{"i":203,"tr":"Förbetong"}
+{"i":204,"tr":"Precisionskomponenter"}
+{"i":205,"tr":"Fabrik för precisionsdelar"}
+{"i":206,"tr":"Pressade delar"}
+{"i":207,"tr":"Processkemikalier"}
+{"i":208,"tr":"Fabrik för processkemikalier"}
+{"i":209,"tr":"Bearbetad träfiber som huvudsakligen används för papperstillverkning, transporterad som balar eller bulkmassa."}
+{"i":210,"tr":"Bearbetade träprodukter från en sågverk eller liknande industrier."}
+{"i":211,"tr":"Produktförpackare"}
+{"i":212,"tr":"Pumpar & ventiler"}
+{"i":213,"tr":"Python 3.11+"}
+{"i":214,"tr":"Gård"}
+{"i":215,"tr":"Råsocker & melass"}
+{"i":216,"tr":"Råa eller rostade kaffebönor."}
+{"i":217,"tr":"Rå plast för vidare bearbetning. Transporteras vanligtvis som hartspärlor."}
+{"i":218,"tr":"Armeringsjärn"}
+{"i":219,"tr":"Raffinerad aluminiummetall, i rullar, tackor, plattor etc."}
+{"i":220,"tr":"Raffinerad kopparmetall, i rullar, tackor etc."}
+{"i":221,"tr":"Raffinerade petroleumprodukter såsom bensin, diesel, fotogen, LPG, eldningsolja och bunkerbränsle, transporterade som bulkvätskor eller flytande gas."}
+{"i":222,"tr":"Vägbasverk"}
+{"i":223,"tr":"Stångkvarn"}
+{"i":224,"tr":"Valsta plåt och profiler – I-balkar, H-balkar, kanaler etc. Transporteras som långa, raka produkter."}
+{"i":225,"tr":"Rep och kablar som framställs genom att dra ståltråd till en mindre diameter och sedan vira ihop dem till rep."}
+{"i":226,"tr":"Grova stålgjutningar som kräver vidare bearbetning. Tackor kan vara små eller mycket stora. Typiska tackprofiler är rektangulära eller runda."}
+{"i":227,"tr":"Gummi"}
+{"i":228,"tr":"Gummplantage"}
+{"i":229,"tr":"HAV"}
+{"i":230,"tr":"Salt"}
+{"i":231,"tr":"Saltverk"}
+{"i":232,"tr":"Sand"}
+{"i":233,"tr":"Sandbank"}
+{"i":234,"tr":"Sågverk"}
+{"i":235,"tr":"Skaldjur"}
+{"i":236,"tr":"Tätningar och slangar"}
+{"i":237,"tr":"Tätningar, slangar och remmar"}
+{"i":238,"tr":"Sektion- och stångvalsverk"}
+{"i":239,"tr":"Halvfärdiga stålgjutningar. Alltid platta och rektangulära i tvärsnitt."}
+{"i":240,"tr":"Halvfärdiga stålgytningar. Rektangulära, fyrkantiga eller runda i tvärsnitt."}
+{"i":241,"tr":"Strandnära"}
+{"i":242,"tr":"Silo"}
+{"i":243,"tr":"Enkel ekonomi. Inspirerad av Argentina, Peru och Chile. Fungerar bäst med subtropiskt klimat."}
+{"i":244,"tr":"Enkel ekonomi. Inspirerad av Finland, norra Kanada och norra Sibirien. Fungerar bäst med subarktiskt klimat."}
+{"i":245,"tr":"Enkel ekonomi. Inspirerad av sydvästra Storbritannien. Fungerar bäst med tempererat klimat."}
+{"i":246,"tr":"Stålplattdepå"}
+{"i":247,"tr":"Natriumhydroxid"}
+{"i":248,"tr":"Sotugn"}
+{"i":249,"tr":"Soppor"}
+{"i":250,"tr":"Specialiserade kolmaterial såsom kalcinerad petroleumskok, tjära, högvärdiga tjäraarter och kolsvart, som används i metallurgiska och kemiska processer."}
+{"i":251,"tr":"Stålsmedja och gjuteri"}
+{"i":252,"tr":"Stålingotar"}
+{"i":253,"tr":"Stålfabrik"}
+{"i":254,"tr":"Stålrör"}
+{"i":255,"tr":"Stålplåt"}
+{"i":256,"tr":"Stålskiva och -remsa"}
+{"i":257,"tr":"Stålslabb"}
+{"i":258,"tr":"Stålrör"}
+{"i":259,"tr":"Ståltråd"}
+{"i":260,"tr":"Stålstänger, såsom runda, fyrkantiga, platta och andra profiler. Transporteras som långa, raka produkter."}
+{"i":261,"tr":"Ståltråd och tunna stavar. Transporteras huvudsakligen som rullar."}
+{"i":262,"tr":"Stålmästare"}
+{"i":263,"tr":"Lagringstankar och rörledningar"}
+{"i":264,"tr":"Lagringstankar, tryckkärl, silos, gascylindrar och rörkonstruktioner för användning i stadsbyggnader, industrier och på jordbruk."}
+{"i":265,"tr":"Bandvalsverk"}
+{"i":266,"tr":"Konstruktionsstål"}
+{"i":267,"tr":"Stål av konstruktionskvalitet i valsade profiler (I-balkar, H-balkar etc.), som platta plåtar eller som tillverkade sektioner och balkar svetsade av plåt."}
+{"i":268,"tr":"Socker"}
+{"i":269,"tr":"Sulfidmineraler som smälts för att producera en mängd olika industriprodukter."}
+{"i":270,"tr":"Svavelsyra"}
+{"i":271,"tr":"Förbrukningsvaror för skärning och svetsning av metall, såsom svetstråd, verktyg och industriella gaser inklusive acetylen, argon, propan, syre och kväve."}
+{"i":272,"tr":"Tjock petroleumprodukt som huvudsakligen används för vägbeläggning och takläggning."}
+{"i":273,"tr":"Tunn valsad stålplåt och -band som i stor utsträckning används för att tillverka andra produkter. Transporteras som platta ark eller som rullar."}
+{"i":274,"tr":"Tunna, grova stålstänger som i stor utsträckning används för att armera betongkonstruktioner. Transporteras som rullar eller buntar av raka stänger."}
+{"i":275,"tr":"Tunn stålplåt belagd med tenn för korrosionsbeständighet, som huvudsakligen används för burkar, behållare och annan förpackning."}
+{"i":276,"tr":"Trävaruprodukter"}
+{"i":277,"tr":"Tenn"}
+{"i":278,"tr":"Tenngruva"}
+{"i":279,"tr":"Tennplåt"}
+{"i":280,"tr":"Tennplåtsverk"}
+{"i":281,"tr":"Fabrik för spårfordon"}
+{"i":282,"tr":"Lastbilsplats"}
+{"i":283,"tr":"Rör- och tubfabrik"}
+{"i":284,"tr":"Tubfabrik"}
+{"i":285,"tr":"Däckkärva"}
+{"i":286,"tr":"Däck"}
+{"i":287,"tr":"Används vid produktion av legeringar och rostfritt stål, en legering av krom och järn. Grå klumpar, liknande kolklumpar i storlek och form."}
+{"i":288,"tr":"Används i stålproduktion. Legeringar av järn och andra grundämnen, inklusive mangan, nickel, krom, aluminium, kisel och volfram. Grå klumpar, liknande kolklumpar i storlek och form."}
+{"i":289,"tr":"Grönsaker"}
+{"i":290,"tr":"Fordonsdistributör"}
+{"i":291,"tr":"Avfallsprodukt från järn- och stålproduktion."}
+{"i":292,"tr":"Svetsförbrukningsmaterial"}
+{"i":293,"tr":"Gruva"}
+{"i":294,"tr":"Vete, korn etc."}
+{"i":295,"tr":"Vitt pulver som raffinerats från bauxitmalm och används för att framställa aluminiummetall."}
+{"i":296,"tr":"Vit, grå eller brun kalciumsulfatsten som används i produktion av svavelsyra och cement. Transporteras ofta som täckt bulklast."}
+{"i":297,"tr":"En allmänt använd industriell kemikalie. Klargul, i pulver- eller flytande form."}
+{"i":298,"tr":"En allmänt använd industriell kemikalie. Transporteras vanligtvis som bulklast som måste hållas torr."}
+{"i":299,"tr":"Trådvalsverk"}
+{"i":300,"tr":"Trämassa"}
+{"i":301,"tr":"Zinkgruva"}
+{"i":302,"tr":"Zinkmalm"}
+{"i":303,"tr":"Zinksmälta"}
+{"i":304,"tr":"{BLACK}För maximal produktionshastighet, leverera {WHITE}alla {BLACK}krävda laster minst en gång var tredje minut."}
+{"i":305,"tr":"{BLACK}För maximal produktionshastighet, leverera {WHITE}minst tre {BLACK}krävda laster minst en gång var tredje minut."}
+{"i":306,"tr":"{BLACK}För maximal produktionshastighet, leverera {WHITE}minst två {BLACK}krävda laster minst en gång var tredje minut."}
+{"i":307,"tr":"{BLACK}För maximal produktionshastighet, leverera {WHITE}båda de {BLACK}krävda lasterna minst en gång var tredje minut."}
+{"i":308,"tr":"{BLACK}Produktionen är proportionell mot stadens befolkning. Minst {WHITE}{SIGNED_WORD} enheter{BLACK} och högst {WHITE}{SIGNED_WORD} enheter{BLACK} av last kommer att produceras varje minut."}
+{"i":309,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":310,"tr":"{ORANGE}E00: CIRS kräver OpenTTD 1.7.0 (eller för de som använder trunk-byggen, r27769)"}
+{"i":311,"tr":"{ORANGE}E01: {YELLOW}Inkompatibelt set: {ORANGE}{STRING}"}
+{"i":312,"tr":"{ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}CanSet-parameter 2 måste vara 0 för att fungera med CIRS."}
+{"i":313,"tr":"{ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}NA City Set-parameter 2 måste vara 0 för att fungera med CIRS."}
+{"i":314,"tr":"{ORANGE}E04: {YELLOW}Inkompatibel version: {ORANGE}Total Town Replacement Set måste vara version 3.11 eller nyare."}
+{"i":315,"tr":"{TINYFONT}AA"}
+{"i":316,"tr":"{TINYFONT}AG"}
+{"i":317,"tr":"{TINYFONT}AM"}
+{"i":318,"tr":"{TINYFONT}AO"}
+{"i":319,"tr":"{TINYFONT}AP"}
+{"i":320,"tr":"{TINYFONT}AY"}
+{"i":321,"tr":"{TINYFONT}BB"}
+{"i":322,"tr":"{TINYFONT}BI"}
+{"i":323,"tr":"{TINYFONT}BM"}
+{"i":324,"tr":"{TINYFONT}BN"}
+{"i":325,"tr":"{TINYFONT}CB"}
+{"i":326,"tr":"{TINYFONT}CE"}
+{"i":327,"tr":"{TINYFONT}CI"}
+{"i":328,"tr":"{TINYFONT}CN"}
+{"i":329,"tr":"{TINYFONT}CO"}
+{"i":330,"tr":"{TINYFONT}CP"}
+{"i":331,"tr":"{TINYFONT}CT"}
+{"i":332,"tr":"{TINYFONT}EL"}
+{"i":333,"tr":"{TINYFONT}EP"}
+{"i":334,"tr":"{TINYFONT}EX"}
+{"i":335,"tr":"{TINYFONT}FA"}
+{"i":336,"tr":"{TINYFONT}FIRS"}
+{"i":337,"tr":"{TINYFONT}CIRS"}
+{"i":338,"tr":"{TINYFONT}FRAX"}
+{"i":339,"tr":"{TINYFONT}GL"}
+{"i":340,"tr":"{TINYFONT}HW"}
+{"i":341,"tr":"{TINYFONT}IG"}
+{"i":342,"tr":"{TINYFONT}KA"}
+{"i":343,"tr":"{TINYFONT}LG"}
+{"i":344,"tr":"{TINYFONT}LH"}
+{"i":345,"tr":"{TINYFONT}MA"}
+{"i":346,"tr":"{TINYFONT}MF"}
+{"i":347,"tr":"{TINYFONT}MK"}
+{"i":348,"tr":"{TINYFONT}ML"}
+{"i":349,"tr":"{TINYFONT}MN"}
+{"i":350,"tr":"{TINYFONT}MO"}
+{"i":351,"tr":"{TINYFONT}N7"}
+{"i":352,"tr":"{TINYFONT}NI"}
+{"i":353,"tr":"{TINYFONT}NT"}
+{"i":354,"tr":"{TINYFONT}O2"}
+{"i":355,"tr":"{TINYFONT}OC"}
+{"i":356,"tr":"{TINYFONT}PA"}
+{"i":357,"tr":"{TINYFONT}PC"}
+{"i":358,"tr":"{TINYFONT}PG"}
+{"i":359,"tr":"{TINYFONT}PL"}
+{"i":360,"tr":"{TINYFONT}PM"}
+{"i":361,"tr":"{TINYFONT}PV"}
+{"i":362,"tr":"{TINYFONT}PW"}
+{"i":363,"tr":"{TINYFONT}PY"}
+{"i":364,"tr":"{TINYFONT}RB"}
+{"i":365,"tr":"{TINYFONT}SA"}
+{"i":366,"tr":"{TINYFONT}SB"}
+{"i":367,"tr":"{TINYFONT}SD"}
+{"i":368,"tr":"{TINYFONT}SE"}
+{"i":369,"tr":"{TINYFONT}SG"}
+{"i":370,"tr":"{TINYFONT}SH"}
+{"i":371,"tr":"{TINYFONT}SI"}
+{"i":372,"tr":"{TINYFONT}SL"}
+{"i":373,"tr":"{TINYFONT}SP"}
+{"i":374,"tr":"{TINYFONT}ST"}
+{"i":375,"tr":"{TINYFONT}STSW"}
+{"i":376,"tr":"{TINYFONT}SW"}
+{"i":377,"tr":"{TINYFONT}TC"}
+{"i":378,"tr":"{TINYFONT}TI"}
+{"i":379,"tr":"{TINYFONT}TP"}
+{"i":380,"tr":"{TINYFONT}TY"}
+{"i":381,"tr":"{TINYFONT}VE"}
+{"i":382,"tr":"{TINYFONT}VG"}
+{"i":383,"tr":"{TINYFONT}WP"}
+{"i":384,"tr":"{TINYFONT}WS"}
+{"i":385,"tr":"{TINYFONT}ZN"}
+{"i":386,"tr":"{TINYFONT}ZO"}
+{"i":387,"tr":"{VOLUME} av ammoniak- och salpetersyraprodukter"}
+{"i":388,"tr":"{VOLUME} av bitumen"}
+{"i":389,"tr":"{VOLUME} av kemiska intermediärer"}
+{"i":390,"tr":"{VOLUME} av kolteri"}
+{"i":391,"tr":"{VOLUME} av industriella gaser"}
+{"i":392,"tr":"{VOLUME} av lätta kolväten"}
+{"i":393,"tr":"{VOLUME} av metanol"}
+{"i":394,"tr":"{VOLUME} av kväve"}
+{"i":395,"tr":"{VOLUME} av syre"}
+{"i":396,"tr":"{VOLUME} färg och beläggningar"}
+{"i":397,"tr":"{VOLUME} fosforsyra"}
+{"i":398,"tr":"{VOLUME} svavelsyra"}
+{"i":399,"tr":"{WEIGHT} aggregat"}
+{"i":400,"tr":"{WEIGHT} aluminiumoxid"}
+{"i":401,"tr":"{WEIGHT} aluminium"}
+{"i":402,"tr":"{WEIGHT} anhydritberg"}
+{"i":403,"tr":"{WEIGHT} äpplen"}
+{"i":404,"tr":"{WEIGHT} baryt och fluorspat"}
+{"i":405,"tr":"{WEIGHT} gjutblock och blommor"}
+{"i":406,"tr":"{WEIGHT} karbon svart"}
+{"i":407,"tr":"{WEIGHT} gjutjärn"}
+{"i":408,"tr":"{WEIGHT} rengöringsmedel"}
+{"i":409,"tr":"{WEIGHT} betongprodukter"}
+{"i":410,"tr":"{WEIGHT} elektriska delar"}
+{"i":411,"tr":"{WEIGHT} motorer & drivlinor"}
+{"i":412,"tr":"{WEIGHT} sprängämnen"}
+{"i":413,"tr":"{WEIGHT} ferrolegeringar"}
+{"i":414,"tr":"{WEIGHT} fisk & skaldjur"}
+{"i":415,"tr":"{WEIGHT} mjöl & stärkelse"}
+{"i":416,"tr":"{WEIGHT} mat & dryck"}
+{"i":417,"tr":"{WEIGHT} livsmedelstillsatser"}
+{"i":418,"tr":"{WEIGHT} smide & gjutgods"}
+{"i":419,"tr":"{WEIGHT} fryst mat"}
+{"i":420,"tr":"{WEIGHT} glasprodukter"}
+{"i":421,"tr":"{WEIGHT} varor"}
+{"i":422,"tr":"{WEIGHT} beslag och ytbehandlingar"}
+{"i":423,"tr":"{WEIGHT} industriella kolprodukter"}
+{"i":424,"tr":"{WEIGHT} stockar"}
+{"i":425,"tr":"{WEIGHT} kött"}
+{"i":426,"tr":"{WEIGHT} kommersiellt järn"}
+{"i":427,"tr":"{WEIGHT} mineraliska fyllmedel"}
+{"i":428,"tr":"{WEIGHT} nötter"}
+{"i":429,"tr":"{WEIGHT} anläggningar och maskiner"}
+{"i":430,"tr":"{WEIGHT} plaster och hartser"}
+{"i":431,"tr":"{WEIGHT} precisionskomponenter"}
+{"i":432,"tr":"{WEIGHT} av processkemikalier"}
+{"i":433,"tr":"{WEIGHT} av pumpar och ventiler"}
+{"i":434,"tr":"{WEIGHT} av råsocker och melass"}
+{"i":435,"tr":"{WEIGHT} av armeringsjärn"}
+{"i":436,"tr":"{WEIGHT} av tätningar, slangar och remmar"}
+{"i":437,"tr":"{WEIGHT} av stålingotar"}
+{"i":438,"tr":"{WEIGHT} av stålrör"}
+{"i":439,"tr":"{WEIGHT} av stålplåt"}
+{"i":440,"tr":"{WEIGHT} av stålark och -band"}
+{"i":441,"tr":"{WEIGHT} av stålblock"}
+{"i":442,"tr":"{WEIGHT} av stålrör"}
+{"i":443,"tr":"{WEIGHT} av ståltråd"}
+{"i":444,"tr":"{WEIGHT} av lagringstankar och rörledningar"}
+{"i":445,"tr":"{WEIGHT} av konstruktionsstål"}
+{"i":446,"tr":"{WEIGHT} av träprodukter"}
+{"i":447,"tr":"{WEIGHT} av tenn"}
+{"i":448,"tr":"{WEIGHT} av tennplåt"}
+{"i":449,"tr":"{WEIGHT} av däckkord"}
+{"i":450,"tr":"{WEIGHT} av däck"}
+{"i":451,"tr":"{WEIGHT} av grönsaker"}
+{"i":452,"tr":"{WEIGHT} av svetsförbrukningsmaterial"}
+{"i":453,"tr":"{WEIGHT} av trämassa"}
+{"i":454,"tr":"{WEIGHT} av zinkmalm"}
+{"i":455,"tr":"{WEIGHT} säck{P 0 \"\" s} med kaffe"}
+{"i":31,"tr":"CIRS – Community Industry Replacement Set"}
+{"i":31,"tr":"CIRS Community-Industri-Ersättningspaket"}
+{"i":169,"tr":"Möln"}
+{"i": 336, "tr": "{TINYFONT}FI"}

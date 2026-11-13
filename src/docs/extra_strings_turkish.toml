@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Kömür Madeni"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Bakır Madeni"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Elmas Madeni"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Gıda İşleme Tesisi"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Orman"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Meyve Plantasyonu"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Demir Cevheri Madeni"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Petrol Rafinerisi"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Petrol Platformu"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Petrol Kuyuları"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Kağıt Fabrikası"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Kauçuk Plantasyonu"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Testerehane"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Çelik Fabrikası"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Kömür"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Bakır Cevheri"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Elmaslar"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Gıda"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Malzemeler"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Tahıl"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Demir Cevheri"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Hayvan Yetiştiriciliği"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Posta"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Mısır"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Petrol"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Kağıt"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Yolcular"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Kauçuk"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Şeker"
+
+[ECONOMY_INFO_FIRS]
+base = "Birçok sanayi ve kargo türünü içeren karmaşık bir ekonomi."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Basit ekonomi. Finlandiya, Kuzey Kanada ve Kuzey Sibirya'dan esinlenmiştir. En iyi Alt-Arktik ikliminde kullanılır."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Basit ekonomi. Birleşik Krallık'ın güneybatısından esinlenmiştir. En iyi Ilıman ikliminde kullanılır."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Basit ekonomi. Arjantin, Peru ve Şili'den esinlenmiştir. En iyi Alt-Çöl ikliminde kullanılır."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Birçok sanayi ve kargo türünü içeren karmaşık bir ekonomi. Orta-batı Afrika'dan esinlenmiştir. En iyi Alt-İklim ile kullanılır."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Demir, çelik ve ağır imalat sanayilerini içeren karmaşık bir ekonomi."
+
+[CARGO_INFO_PASSENGERS]
+base = "Tüm ekonomilerde mevcuttur. Kasaba binaları ve ayrıca birkaç sanayi tarafından üretilir ve kabul edilir."
+
+[CARGO_INFO_MAIL]
+base = "Tüm ekonomilerde mevcuttur. Kasaba binaları tarafından üretilir ve kabul edilir."
+
+[CARGO_INFO_ACID]
+base = "Hidroklorik, nitrik ve sülfürik asit gibi endüstriyel asitler."
+
+[CARGO_INFO_AGGREGATES]
+base = "İnşaatlarda kullanılan çakıl, kum, kırılmış taş ve benzeri malzemeler."
+
+[CARGO_INFO_ALUMINA]
+base = "Boksit cevherinden rafine edilen, alüminyum metalinin üretiminde kullanılan beyaz toz."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Rulo, külçe, levha vb. şekillerde rafine alüminyum metali."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Amonyak, nitrik asit ve üre gibi amonyaktan türetilen endüstriyel kimyasallar. Sıvı, kriyojenik olarak sıvılaştırılmış gaz veya kuru dökme malzeme olarak taşınır."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Kükürt asidi ve çimento üretiminde kullanılan beyaz, gri veya kahverengi kalsiyum sülfat kayası. Genellikle kapalı dökümlü olarak taşınır."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Kimyasal işlemede kullanılan endüstriyel mineraller. Barit, baryum kimyasallarında ve dolgu maddelerinde; florit ise flor kimyasında ve metalurjik akı malzemelerinde kullanılır."
+
+[CARGO_INFO_BASE_METALS]
+base = "Bakır, nikel, çinko ve kurşun gibi demir dışı metaller."
+
+[CARGO_INFO_BEANS]
+base = "Sıradan fasulyeler, bakla, soya fasulyesi ve benzeri yenilebilir baklagiller."
+
+[CARGO_INFO_BITUMEN]
+base = "Esas olarak yol kaplaması ve çatı kaplaması için kullanılan yoğun petrol ürünü."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Çimento, cam, metal bileşenler, ahşap ürünler, borular ve benzeri inşaat malzemeleri."
+
+[CARGO_INFO_CASSAVA]
+base = "Maniok ve yuca olarak da bilinen yenilebilir kök bitkisi."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Lastiklerde, plastiklerde ve pigmentlerde kullanılan yoğun siyah karbon tozu. Toz olarak işlenir."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billetler, bloomlar, külçeler ve levhalar."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billetler, bloomlar, külçeler ve levhalar."
+
+[CARGO_INFO_CEMENT]
+base = "Toz veya klinker formunda kuru çimento."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Daha fazla endüstriyel işleme için hammadde olarak kullanılan ara kimyasal ürünler."
+
+[CARGO_INFO_CHEMICALS]
+base = "Sıvı, gaz, kapalı dökme, toz veya parça mal olarak işlenen genel organik ve inorganik kimyasallar."
+
+[CARGO_INFO_CHLORINE]
+base = "Genellikle sıvılaştırılmış sıkıştırılmış gaz olarak kriyojenik yöntemlerle taşınan endüstriyel kimyasal."
+
+[CARGO_INFO_CLAY]
+base = "İnşaat malzemeleri üretimi ve diğer endüstriyel kullanımlar için genel killer."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Endüstriyel ve ev kullanımı için kimyasallar, sabunlar, ovma maddeleri vb. Esas olarak sıvıdır, ancak toz veya katı (örneğin kum püskürtme kumu) da olabilir."
+
+[CARGO_INFO_COAL_TAR]
+base = "Kok üretiminin bir yan ürünü; koyu ve yavaş akan bir sıvıdır."
+
+[CARGO_INFO_COFFEE]
+base = "Ham veya kavrulmuş kahve çekirdekleri."
+
+[CARGO_INFO_COKE]
+base = "Kok fırınında ısıtılmış kömür; neredeyse saf karbon içeren bir yakıt üretir."
+
+[CARGO_INFO_COMPONENTS]
+base = "Elektrik ekipmanları, motorlar, transformatörler, kontrol cihazları, hidrolik, pnömatik, pompalar, valfler ve güç aktarma organı ekipmanları gibi yüksek değerli mühendislik bileşenleri."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Blok, kiriş ve panel gibi döküm ürünler. Karıştırıcı kamyonlarda hazır beton olarak da işlenebilir."
+
+[CARGO_INFO_COPPER]
+base = "Rulo, külçe vb. şekillerde rafine bakır metali."
+
+[CARGO_INFO_DIAMONDS]
+base = "Sonsuza dek, vb."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Pişirme ve tüketim için petrol."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Elektrik ve elektronik bileşenler, motorlar, kontrol cihazları, şalt ekipmanları, aydınlatma vb."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Madenler ve benzeri endüstriler için makineler, yakıt, parçalar, ahşap ürünler, borular, patlayıcılar ve diğer malzemeler."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Madencilik, inşaat vb. için sivil patlayıcılar."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Çiftlikler, ormanlar ve benzeri endüstriler için makineler, yakıt, parçalar, gübre ve diğer malzemeler."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Çelik üretiminde kullanılır. Manganez, nikel, krom, alüminyum, silikon ve tungsten dahil olmak üzere demir ve diğer elementlerin alaşımları. Kömür parçalarına benzer boyut ve şekle sahip gri topaklar."
+
+[CARGO_INFO_FERROCHROME]
+base = "Alaşım ve paslanmaz çelik üretiminde kullanılan, krom ve demirden oluşan bir alaşım. Kömür parçalarına benzer boyut ve şekle sahip gri topaklar."
+
+[CARGO_INFO_FLOUR]
+base = "Un ve nişasta gibi torbalı veya kapalı dökme halde taşınan tozlu tahıl ürünleri."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Daha büyük nesneler için monte edilecek metal parçalar."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Gıda işlemede kullanılan koruyucular, aromalar, renklendiriciler ve işleme yardımcıları gibi bileşenler."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Taşıma ve depolama sırasında dondurulmuş halde tutulan gıdalar."
+
+[CARGO_INFO_FRUITS]
+base = "Muz, narenciye, üzüm, meyveler, ananas, kuru üzüm ve benzerleri gibi taze ve kuru meyveler."
+
+[CARGO_INFO_GRAIN]
+base = "Buğday, arpa vb."
+
+[CARGO_INFO_HARDWARE]
+base = "Ev ve inşaat kullanımı için. Metal ve diğer malzemelerden yapılmış aletler, kaplar, donanımlar ve fittings."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Metalurji ve kimya süreçlerinde kullanılan kalsine petrol kok, zift, yüksek değerli katranlar ve karbon siyahı gibi özel karbon malzemeleri."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Kimyasal işleme, metal işleme ve kaynakta kullanılan, tüp veya basınçlı tankerlerle taşınan endüstriyel gazlar."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Variller, vinçler, zincir halkaları, kancalar, makaralar, hidrolik iticiler ve vinçler, çekiciler, asansörler vb. için diğer parçalar."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Kimyasal hammadde olarak kullanılan, dökme sıvı halinde taşınan hafif petrol fraksiyonları."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Çoğunlukla et üretimi için inekler, domuzlar ve koyunlar kullanılır. Diğer hayvanlar da yenebilir."
+
+[CARGO_INFO_LYE]
+base = "Endüstriyel kimyasal. Lye veya Kaustik Soda olarak da bilinir. Genellikle sıvı olarak taşınır."
+
+[CARGO_INFO_KAOLIN]
+base = "Esas olarak kağıt ve plastik üretiminde kullanılan, Kaolin olarak da bilinen endüstriyel mineral."
+
+[CARGO_INFO_MANGANESE]
+base = "Esas olarak çelik üretiminde kullanılan manganez cevheri."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Limanlar, iskeleler ve benzeri endüstriler için makineler, parçalar, yakıt, inşaat malzemeleri ve diğer malzemeler."
+
+[CARGO_INFO_METAL]
+base = "Çelik, alüminyum veya diğer yaygın metaller gibi genel metaller."
+
+[CARGO_INFO_METHANOL]
+base = "Kimyasal hammadde ve yakıt olarak kullanılan, dökme sıvı halinde taşınan endüstriyel alkol."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Arıtma, fermantasyon ve endüstriyel kullanımlar için ara şeker ürünleri. Yapışkan granüller kapalı dökme malzeme olarak; koyu şurup ise sıvı olarak işlenir; her ikisi de paketlenabilir."
+
+[CARGO_INFO_NITROGEN]
+base = "Endüstriyel gaz. Sıvılaştırılmış sıkıştırılmış gaz olarak kriyojenik yöntemlerle taşınır."
+
+[CARGO_INFO_OIL]
+base = "Dökme sıvı olarak taşınan ham, işlenmemiş petrol."
+
+[CARGO_INFO_OXYGEN]
+base = "Endüstriyel gaz. Sıvılaştırılmış sıkıştırılmış gaz olarak kriyojenik yöntemlerle taşınır."
+
+[CARGO_INFO_PACKAGING]
+base = "Kutular, şişeler, kavanozlar, teneke kutular vb."
+
+[CARGO_INFO_PEAT]
+base = "Turba bataklıklarından elde edilen, yakıt ve bahçecilik için çıkarılan biyokütle."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Benzin, dizel, gazyağı, LPG, fuel oil ve bunker yakıtı gibi rafine petrol ürünleri; dökme sıvı veya sıvılaştırılmış gaz olarak taşınır."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Esas olarak gübre ve kimyasal üretiminde kullanılan, dökme sıvı olarak taşınan endüstriyel asit."
+
+[CARGO_INFO_PIG_IRON]
+base = "Üfleme fırınından elde edilen temel demir; erimiş sıvı veya katı külçe halinde."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Tekstil ve kompozit malzemeler üretmek için pamuk, keten, jüt ve benzeri malzemeler."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Binalarda, sanayide ve çiftliklerde kullanılan motorlu ekipmanlar ve mekanik sistemler. Tam birimler veya ana alt montajlar olarak taşınır."
+
+[CARGO_INFO_PETROL]
+base = "Petrol, dizel ve benzeri yakıtlar."
+
+[CARGO_INFO_PLASTICS]
+base = "İleri işleme için ham plastik. Genellikle reçine boncukları şeklinde taşınır."
+
+[CARGO_INFO_PIPEWORK]
+base = "Şehir binalarında, sanayide ve çiftliklerde kullanılmak üzere depolama tankları, basınç kapları, silolar, gaz tüpleri ve boru montajları."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "İmalat ve işlemede kullanılan, sıvı, toz, gaz veya paketlenmiş mal olarak taşınan endüstriyel kimyasallar."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Çeşitli endüstriyel ürünler üretmek için eritilen sülfür mineralleri."
+
+[CARGO_INFO_QUICKLIME]
+base = "Kalsiyum oksit, yanmış kireç olarak da bilinir. Kuru tutulması gereken ince bir toz olarak taşınır."
+
+[CARGO_INFO_REBAR]
+base = "Beton yapıları güçlendirmek için yaygın olarak kullanılan ince, pürüzlü çelik çubuklar. Rulo veya düz çubuk demetleri halinde taşınır."
+
+[CARGO_INFO_RUBBER]
+base = "Çoğunlukla doğal lateks."
+
+[CARGO_INFO_SALT]
+base = "Geniş çapta kullanılan endüstriyel kimyasal. Genellikle kuru tutulması gereken dökme kargo olarak taşınır."
+
+[CARGO_INFO_SAND]
+base = "İnşaat için kaba kum veya cam yapımı ve metal dökümü için ince silika kumu. Dökme veya toz halinde taşınır."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Lastik veya benzeri malzemelerden yapılmış esnek sızdırmazlık elemanları, contalar, hortumlar, kayışlar, matlar, burçlar vb."
+
+[CARGO_INFO_SLAG]
+base = "Demir ve çelik üretiminden elde edilen atık ürün."
+
+[CARGO_INFO_SODA_ASH]
+base = "Endüstriyel kimyasal. Beyaz toz formunda."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Yarı mamul çelik dökümler. Kesitleri dikdörtgen, kare veya yuvarlak."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Daha fazla işleme gerektiren ham çelik dökümleri. Külçeler küçük veya çok büyük olabilir. Tipik külçe profilleri dikdörtgen veya yuvarlaktır."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Dairesel, kare, düz ve diğer profiller halinde çelik çubuklar. Uzun, düz ürünler olarak taşınır."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Boru hatlarında, binalarda, sanayide vb. sıvı taşımacılığı için uzun, yuvarlak çelik borular."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Haddelenmiş çelik levhalar ve profiller - I kirişler, H kirişler, kanallar vb. Uzun, düz ürünler olarak taşınır."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Diğer ürünlerin imalatında yaygın olarak kullanılan ince haddelenmiş çelik levha ve şerit. Düz levha veya rulo olarak taşınır."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Yarı mamul çelik dökümler. Kesitleri her zaman düz ve dikdörtgen."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Yuvarlak, dikdörtgen ve diğer kesitlere sahip uzun, içi boş tüp. Yapıların ve makinelerin imalatında kullanılır."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Çelik tel ve ince çubuklar. Esas olarak bobinler halinde taşınır."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Çelik tel çubuğunun daha küçük bir çapa çekilmesiyle ve ardından demet halindeki halatlara bükülmesiyle üretilen halatlar ve kablolar."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Haddelenmiş kesitler (I kirişler, H kirişler vb.), düz levha veya levhadan kaynaklanmış fabrikasyon kesitler ve kirişler olarak yapısal sınıf çelik."
+
+[CARGO_INFO_SULPHUR]
+base = "Geniş çapta kullanılan endüstriyel kimyasal. Parlak sarı renkte, toz veya sıvı formda bulunur."
+
+[CARGO_INFO_TIMBER]
+base = "Fırınlama tesisi veya benzeri sanayilerden elde edilen işlenmiş ahşap ürünleri."
+
+[CARGO_INFO_TIN]
+base = "Kütleler."
+
+[CARGO_INFO_TINPLATE]
+base = "Korozyona karşı direnç için kalayla kaplanmış ince çelik levha; esas olarak kutular, kaplar ve diğer ambalajlar için kullanılır."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Lastikleri güçlendirmek için kullanılan ince tel. Bobin halinde taşınır."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Araç üretimi için kabinler, kaputlar, kapılar ve benzeri gövde yapıları."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "İçten yanmalı motorlar ve şanzıman ile tahrik aksları gibi ilgili güç aktarma organı parçaları."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Şasi ve süspansiyon bileşenleri, elektrikli parçalar, dış kaplama ve iç parçalar gibi araç üretimi için bileşenler."
+
+[CARGO_INFO_VEHICLES]
+base = "Çoğunlukla kamyonlar. Veya arabalar. Veya hafif kamyonlar. Belki traktörler."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Kaynak çubukları, aletler ve asetilen, argon, propan, oksijen ve azot dahil olmak üzere endüstriyel gazlar gibi metal kesme ve kaynak malzemeleri."
+
+[CARGO_INFO_WOOD]
+base = "Ormandan gelen kütükler."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Esas olarak kağıt üretimi için kullanılan, balya veya dökme hamur şeklinde taşınan işlenmiş odun lifi."
+
+[CARGO_INFO_WOOL]
+base = "Balyalar."
+
+[CARGO_INFO_ZINC]
+base = "Kütleler."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

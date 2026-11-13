@@ -1,0 +1,611 @@
+{"i":0,"tr":" {BLACK}(opcional)"}
+{"i":1,"tr":" {BLACK}(fornecido)"}
+{"i":2,"tr":"(decimal)"}
+{"i":3,"tr":"."}
+{"i":4,"tr":"Ácido"}
+{"i":5,"tr":"Agregados"}
+{"i":6,"tr":"Alumina"}
+{"i":7,"tr":"Alumínio"}
+{"i":8,"tr":"Amônia e Produtos Nítricos"}
+{"i":9,"tr":"Complexo de Amônia"}
+{"i":10,"tr":"Mineração de Anidrita"}
+{"i":11,"tr":"Planta de Processamento de Anidrita"}
+{"i":12,"tr":"Rocha de Anidrita"}
+{"i":13,"tr":"Maçãs"}
+{"i":14,"tr":"Fábrica de Eletrodomésticos"}
+{"i":15,"tr":"São eternos, etc."}
+{"i":16,"tr":"Planta de Montagem"}
+{"i":17,"tr":"Automotivo"}
+{"i":18,"tr":"Disponível em todas as economias. Produzido e aceito por edifícios da cidade, bem como por algumas indústrias."}
+{"i":19,"tr":"Disponível em todas as economias. Produzido e aceito por edifícios da cidade."}
+{"i":20,"tr":"Padaria"}
+{"i":21,"tr":"Fardos."}
+{"i":22,"tr":"Topo do Banco"}
+{"i":23,"tr":"Bar, Churrasco e Quartos"}
+{"i":24,"tr":"Celeiros"}
+{"i":25,"tr":"Barril e Tambor"}
+{"i":26,"tr":"Barita e Fluorita"}
+{"i":27,"tr":"Base"}
+{"i":28,"tr":"Forno de Oxigênio Básico"}
+{"i":29,"tr":"Ferro básico de um alto-forno, como líquido fundido ou lingotes sólidos."}
+{"i":30,"tr":"Unidade Química por Lotes"}
+{"i":31,"tr":"Feijões"}
+{"i":32,"tr":"Bilhetes e Flores"}
+{"i":33,"tr":"Bilhetes, flores, lingotes e lajes."}
+{"i":34,"tr":"Biomassa de turfeiras, extraída para combustível e horticultura."}
+{"i":35,"tr":"Betume"}
+{"i":36,"tr":"Forno Altíssimo"}
+{"i":37,"tr":"Planta de Carroceria"}
+{"i":38,"tr":"Cemitério de Veículos"}
+{"i":39,"tr":"Fábrica de Garrafas e Latas"}
+{"i":40,"tr":"Caixas, garrafas, potes, latas, etc."}
+{"i":41,"tr":"Usina de Salmoura"}
+{"i":42,"tr":"Subproduto da produção de coque, um líquido espesso de fluxo lento."}
+{"i":43,"tr":"CIRS"}
+{"i":44,"tr":"Conjunto de Substituição de Indústrias Comunitárias CIRS"}
+{"i":45,"tr":"O CIRS inclui um conjunto de objetos de paisagismo que os jogadores podem colocar para fazer certas indústrias parecerem maiores. Os objetos de paisagismo não têm efeito na jogabilidade. Eles podem ser ativados ou desativados."}
+{"i":46,"tr":"Objetos de paisagismo do CIRS"}
+{"i":47,"tr":"Cabines, capôs, portas e estruturas de carroceria similares para a produção de veículos."}
+{"i":48,"tr":"Óxido de cálcio, também conhecido como cal queimada. Transportado como um pó fino que deve ser mantido seco."}
+{"i":49,"tr":"Carvão Negro"}
+{"i":50,"tr":"Planta de Carvão Negro"}
+{"i":51,"tr":"Mandioca"}
+{"i":52,"tr":"Ferro Fundido"}
+{"i":53,"tr":"Produtos fundidos, como blocos, vigas e painéis. Também pode ser manuseado como concreto pré-misturado em caminhões betoneira."}
+{"i":54,"tr":"Indústria de Filmes de Celulose"}
+{"i":55,"tr":"Cimento"}
+{"i":56,"tr":"Cimento, vidro, componentes metálicos, produtos de madeira, tubos e materiais de construção similares."}
+{"i":57,"tr":"Complexo Químico"}
+{"i":58,"tr":"Intermediários Químicos"}
+{"i":59,"tr":"Produtos químicos, sabões, agentes abrasivos etc., para uso industrial e doméstico. Principalmente líquidos, mas também podem ser em pó ou sólidos (como a areia para jateamento)."}
+{"i":60,"tr":"Argila chinesa"}
+{"i":61,"tr":"Fábrica de aglomerado"}
+{"i":62,"tr":"Usina de cloro-alcali"}
+{"i":63,"tr":"Cloro"}
+{"i":64,"tr":"Explosivos civis para mineração, construção etc."}
+{"i":65,"tr":"Agentes de limpeza"}
+{"i":66,"tr":"Carvão"}
+{"i":67,"tr":"Mina de carvão"}
+{"i":68,"tr":"Alcatrão de carvão"}
+{"i":69,"tr":"Carvão que foi aquecido num forno de coque, produzindo um combustível que é quase carbono puro."}
+{"i":70,"tr":"Areia grossa para construção, ou areia fina de sílica para fabrico de vidro e fundição de metais. Transportada a granel ou em pó."}
+{"i":71,"tr":"Linha de bobinas"}
+{"i":72,"tr":"Coca"}
+{"i":73,"tr":"Forno de Coca"}
+{"i":74,"tr":"Mineração de Carvão"}
+{"i":75,"tr":"Padaria Comercial"}
+{"i":76,"tr":"Feijões comuns, favas, soja e leguminosas comestíveis similares."}
+{"i":77,"tr":"Economia complexa com indústrias de ferro, aço e manufatura pesada."}
+{"i":78,"tr":"Economia complexa com muitas indústrias e cargas."}
+{"i":79,"tr":"Economia complexa com muitas indústrias e cargas. Inspirada na África centro-oeste. Melhor utilizada com clima subtropical."}
+{"i":80,"tr":"Componentes"}
+{"i":81,"tr":"Componentes para produção de veículos, como chassi e peças de suspensão, partes elétricas, acabamentos externos e peças internas."}
+{"i":82,"tr":"Usina de Concreto"}
+{"i":83,"tr":"Produtos de Concreto"}
+{"i":84,"tr":"Pátio de Construção"}
+{"i":85,"tr":"Fábrica de Alimentos Prontos"}
+{"i":86,"tr":"Cobre"}
+{"i":87,"tr":"Veio de Cobre"}
+{"i":88,"tr":"Mina de Cobre"}
+{"i":89,"tr":"Minério de Cobre"}
+{"i":90,"tr":"Fusão de Cobre"}
+{"i":91,"tr":"Algodão, linho, juta e materiais similares, para produção de têxteis e materiais compósitos."}
+{"i":92,"tr":"Oficina de Veículos sobre Lagartas"}
+{"i":93,"tr":"Tratamento com Creosoto"}
+{"i":94,"tr":"Petróleo bruto, não refinado, transportado como líquido a granel."}
+{"i":95,"tr":"Planta Criogênica"}
+{"i":96,"tr":"Fazenda de Laticínios"}
+{"i":97,"tr":"Rua dos Laticínios"}
+{"i":98,"tr":"Mina de Diamantes"}
+{"i":99,"tr":"Diamantes"}
+{"i":100,"tr":"Tambores, guinchos, correntes, ganchos, polias, cilindros hidráulicos e outras peças para guindastes, elevadores, ascensores etc."}
+{"i":101,"tr":"Cimento seco em pó ou na forma de clínquer."}
+{"i":102,"tr":"Cada economia oferece uma combinação diferente de cargas e indústrias.{}{}Para jogadores que desejam uma jogabilidade simples, as economias {SILVER}Básicas {BLACK}contêm menos indústrias e cargas do que outras economias do CIRS.{}{}O site do CIRS fornece informações detalhadas sobre cada economia."}
+{"i":103,"tr":"Óleo Comestível"}
+{"i":104,"tr":"Cultura de raiz comestível, também conhecida como mandioca e yuca."}
+{"i":105,"tr":"Fábrica de Produtos de Elastômero"}
+{"i":106,"tr":"Forno de Arco Elétrico"}
+{"i":107,"tr":"Peças Elétricas"}
+{"i":108,"tr":"Componentes elétricos e eletrônicos, motores, controladores, quadros de distribuição, iluminação etc."}
+{"i":109,"tr":"Artigos Elétricos"}
+{"i":110,"tr":"Unidade de Motor"}
+{"i":111,"tr":"Obra de Engenharia"}
+{"i":112,"tr":"Motores e Transmissão"}
+{"i":113,"tr":"Nível aprimorado de produção primária (%)"}
+{"i":114,"tr":"Propriedade"}
+{"i":115,"tr":"Explosivos"}
+{"i":116,"tr":"Fábrica de Explosivos"}
+{"i":117,"tr":"Fábrica"}
+{"i":118,"tr":"Fazenda"}
+{"i":119,"tr":"Fazendas, minas e indústrias similares aumentarão a produção quando as caixas de suprimentos forem entregues, primeiro para {SILVER}Aprimorado{BLACK} e, em seguida, para {SILVER}Gung-ho{BLACK}, se caixas suficientes forem entregues.  {}{}Os valores padrão são bons, mas, se necessário, você pode alterá-los aqui.  {}{}Os requisitos de carga para indústrias do tipo porto serão 8x os valores definidos aqui."}
+{"i":120,"tr":"Planta de Fermentação"}
+{"i":121,"tr":"Ferroligas"}
+{"i":122,"tr":"Fertilizante"}
+{"i":123,"tr":"Fábrica de Fertilizantes e Ácidos"}
+{"i":124,"tr":"Campo"}
+{"i":125,"tr":"Fio fino usado para reforçar pneus. Transportado em rolo."}
+{"i":126,"tr":"Peixes e Frutos do Mar"}
+{"i":127,"tr":"Aquicultura"}
+{"i":128,"tr":"Vedantes flexíveis, juntas, mangueiras, correias, tapetes, buchas etc., feitos de borracha ou materiais similares."}
+{"i":129,"tr":"Farinha e Amido"}
+{"i":130,"tr":"Linha de Fluxo"}
+{"i":131,"tr":"Alimentos"}
+{"i":132,"tr":"Alimentos e Bebidas"}
+{"i":133,"tr":"Aditivos Alimentares"}
+{"i":134,"tr":"Corporação Alimentar"}
+{"i":135,"tr":"Planta de Processamento de Alimentos"}
+{"i":136,"tr":"Alimentos mantidos congelados durante o transporte e o armazenamento."}
+{"i":137,"tr":"Para uso doméstico e na construção. Ferramentas, utensílios, fixadores e acessórios de metal e outros materiais."}
+{"i":138,"tr":"Floresta"}
+{"i":139,"tr":"Forjados e Fundidos"}
+{"i":140,"tr":"Congeladores"}
+{"i":141,"tr":"Frutas frescas e secas, como bananas, cítricos, uvas, bagas, abacaxi, uvas-passas e similares."}
+{"i":142,"tr":"Fábrica de Sobremesas Congeladas"}
+{"i":143,"tr":"Alimento Congelado"}
+{"i":144,"tr":"Fábrica de Alimentos Congelados"}
+{"i":145,"tr":"Horto Frutícola"}
+{"i":146,"tr":"Forno"}
+{"i":147,"tr":"GPL(v2)"}
+{"i":148,"tr":"GRFID"}
+{"i":149,"tr":"Argilas genéricas, para produção de materiais de construção e outros usos industriais."}
+{"i":150,"tr":"Metal genérico, como aço, alumínio ou outros metais comuns."}
+{"i":151,"tr":"Produtos químicos orgânicos e inorgânicos genéricos, manuseados como líquido, gás, granel coberto, pó ou em peças."}
+{"i":152,"tr":"Vigas"}
+{"i":153,"tr":"Produtos de Vidro"}
+{"i":154,"tr":"Mercadorias"}
+{"i":155,"tr":"Grãos"}
+{"i":156,"tr":"Moinho de Grãos"}
+{"i":157,"tr":"Cascalho, areia, pedra britada e materiais similares usados na construção."}
+{"i":158,"tr":"Nível de produção primária Gung-ho (%)"}
+{"i":159,"tr":"Ferragens e Acabamentos"}
+{"i":160,"tr":"Cooperativa de Pastoreio"}
+{"i":161,"tr":"Componentes de engenharia de alto valor, como equipamentos elétricos, motores, transformadores, equipamentos de controle, sistemas hidráulicos e pneumáticos, bombas, válvulas e equipamentos de trem de força."}
+{"i":162,"tr":"Hotel"}
+{"i":163,"tr":"ID"}
+{"i":164,"tr":"Carbones Industriais"}
+{"i":165,"tr":"Planta de Produtos Químicos Industriais"}
+{"i":166,"tr":"Gases Industriais"}
+{"i":167,"tr":"Ácido industrial usado principalmente na produção de fertilizantes e produtos químicos, transportado como líquido a granel."}
+{"i":168,"tr":"Ácidos industriais, como o ácido clorídrico, nítrico e sulfúrico."}
+{"i":169,"tr":"Álcool industrial usado como matéria-prima química e combustível, transportado como líquido a granel."}
+{"i":170,"tr":"Produto químico industrial, geralmente transportado de forma criogênica como gás comprimido liquefeito."}
+{"i":171,"tr":"Produto químico industrial. Também conhecido como Lixivia ou Soda Cáustica. Geralmente transportado como líquido."}
+{"i":172,"tr":"Produto químico industrial. Na forma de pó branco."}
+{"i":173,"tr":"Produtos químicos industriais derivados da amônia, como amônia, ácido nítrico e ureia. Transportados como líquidos, de forma criogênica como gás liquefeito ou como granel seco."}
+{"i":174,"tr":"Produtos químicos industriais usados na fabricação e no processamento, transportados como líquidos, pós, gases ou produtos embalados."}
+{"i":175,"tr":"Gás industrial. Transportado de forma criogênica como gás comprimido liquefeito."}
+{"i":176,"tr":"Gases industriais usados no processamento químico, na metalurgia e na soldagem, transportados em cilindros ou caminhões-tanque pressurizados."}
+{"i":177,"tr":"Mineral industrial, também conhecido como caulim, usado principalmente na produção de papel e plásticos."}
+{"i":178,"tr":"Minerais industriais usados no processamento químico. A barita é usada em produtos químicos de bário e como enchimento; a fluorita, na química do flúor e em fluxos metalúrgicos."}
+{"i":179,"tr":"Ingotes."}
+{"i":180,"tr":"Ingredientes utilizados no processamento de alimentos, como conservantes, aromatizantes, corantes e auxiliares de processamento."}
+{"i":181,"tr":"Pó de carbono intensamente preto, usado em pneus, plásticos e pigmentos. Manipulado em forma de pó."}
+{"i":182,"tr":"Produtos químicos intermediários usados como matérias-primas para processamento industrial posterior."}
+{"i":183,"tr":"Produtos intermediários de açúcar para refino, fermentação e usos industriais. Grânulos pegajosos são manipulados como granel coberto; xarope espesso como líquido; ambos podem ser embalados."}
+{"i":184,"tr":"Motores de combustão interna e peças relacionadas do trem de força, como transmissão e eixos de tração."}
+{"i":185,"tr":"Minério de Ferro"}
+{"i":186,"tr":"Mineração de Minério de Ferro"}
+{"i":187,"tr":"Pedra-Ferro"}
+{"i":188,"tr":"Fornos"}
+{"i":189,"tr":"Depósitos de Kimberlito"}
+{"i":190,"tr":"TERRENO"}
+{"i":191,"tr":"Plataforma de Pouso"}
+{"i":192,"tr":"Hidrocarbonetos Leves"}
+{"i":193,"tr":"Frações leves de petróleo usadas como matérias-primas químicas, transportadas como líquidos a granel."}
+{"i":194,"tr":"Calcaria"}
+{"i":195,"tr":"Mina de Calcaria"}
+{"i":196,"tr":"Minas de Calcaria"}
+{"i":197,"tr":"Gado"}
+{"i":198,"tr":"Ponto de Descarga de Troncos"}
+{"i":199,"tr":"Troncos"}
+{"i":200,"tr":"Troncos de uma floresta."}
+{"i":201,"tr":"Tubo longo oco com seção transversal redonda, retangular ou de outros formatos. Usado na fabricação de estruturas e máquinas."}
+{"i":202,"tr":"Tubos de aço longos e redondos para transportar líquidos em dutos, edifícios, indústrias etc."}
+{"i":203,"tr":"Máquinas, combustível, peças, fertilizantes e outros suprimentos para fazendas, florestas e indústrias similares."}
+{"i":204,"tr":"Maquinário, combustível, peças, produtos de madeira, tubos, explosivos e outros suprimentos para minas e indústrias similares."}
+{"i":205,"tr":"Maquinário, peças, combustível, materiais de construção e outros suprimentos para portos, docas e indústrias similares."}
+{"i":206,"tr":"Correio"}
+{"i":207,"tr":"Milho"}
+{"i":208,"tr":"Manganês"}
+{"i":209,"tr":"Mina de manganês"}
+{"i":210,"tr":"Minas de manganês"}
+{"i":211,"tr":"Minério de manganês, usado principalmente na produção de aço."}
+{"i":212,"tr":"Prados"}
+{"i":213,"tr":"Carne"}
+{"i":214,"tr":"Barraca de mercador"}
+{"i":215,"tr":"Usina metalúrgica"}
+{"i":216,"tr":"Peças metálicas para montagem em itens maiores."}
+{"i":217,"tr":"Artigos de metal"}
+{"i":218,"tr":"Metanol"}
+{"i":219,"tr":"Mild Mild West"}
+{"i":220,"tr":"Moinhos"}
+{"i":221,"tr":"Preenchedores minerais"}
+{"i":222,"tr":"Planta de preenchedores minerais"}
+{"i":223,"tr":"Minerais"}
+{"i":224,"tr":"Minas"}
+{"i":225,"tr":"Principalmente vacas, porcos e ovelhas para produção de carne. Outros animais também podem ser consumidos."}
+{"i":226,"tr":"Principalmente látex natural."}
+{"i":227,"tr":"Principalmente caminhões. Ou carros. Ou caminhões leves. Talvez tratores."}
+{"i":228,"tr":"Molduras"}
+{"i":229,"tr":"Mina de Nitrato"}
+{"i":230,"tr":"Nitratos"}
+{"i":231,"tr":"Nitrogênio"}
+{"i":232,"tr":"Metais não ferrosos, como cobre, níquel, zinco e chumbo."}
+{"i":233,"tr":"Porcas"}
+{"i":234,"tr":"Óleo"}
+{"i":235,"tr":"Terminal de Óleo e Produtos Químicos"}
+{"i":236,"tr":"Refinaria de Óleo"}
+{"i":237,"tr":"Plataforma de Petróleo"}
+{"i":238,"tr":"Poços de Petróleo"}
+{"i":239,"tr":"Óleo para cozinhar e consumo."}
+{"i":240,"tr":"Frutais"}
+{"i":241,"tr":"Oxigênio"}
+{"i":242,"tr":"Embalagem"}
+{"i":243,"tr":"Tintas e Revestimentos"}
+{"i":244,"tr":"Papel"}
+{"i":245,"tr":"Fábrica de Papel"}
+{"i":246,"tr":"Fábrica de Produtos de Papel"}
+{"i":247,"tr":"Passageiros"}
+{"i":248,"tr":"Turfa"}
+{"i":249,"tr":"Terras de Turfa"}
+{"i":250,"tr":"Gasolina, diesel e combustíveis similares."}
+{"i":251,"tr":"Fosfato"}
+{"i":252,"tr":"Mina de Fosfato"}
+{"i":253,"tr":"Ácido Fosfórico"}
+{"i":254,"tr":"Ferro-gusa"}
+{"i":255,"tr":"Loja de Tubos"}
+{"i":256,"tr":"Planta"}
+{"i":257,"tr":"Planta e Maquinário"}
+{"i":258,"tr":"Fábrica de Moldagens de Plástico"}
+{"i":259,"tr":"Plásticos e Resinas"}
+{"i":260,"tr":"Moinho de Chapas"}
+{"i":261,"tr":"Cálcio Potássico"}
+{"i":262,"tr":"Mina de Cálcio Potássico"}
+{"i":263,"tr":"Produtos de cereais em pó, como farinha e amido, transportados ensacados ou a granel em carga coberta."}
+{"i":264,"tr":"Fábrica de Sistemas de Energia"}
+{"i":265,"tr":"Equipamentos motorizados e sistemas mecânicos usados em edifícios, indústrias e fazendas. Transportados como unidades completas ou como submontagens principais."}
+{"i":266,"tr":"Transmissão"}
+{"i":267,"tr":"Pré-moldado"}
+{"i":268,"tr":"Componentes de Precisão"}
+{"i":269,"tr":"Planta de Peças de Precisão"}
+{"i":270,"tr":"Peças Pressurizadas"}
+{"i":271,"tr":"Produtos Químicos de Processo"}
+{"i":272,"tr":"Planta de Produtos Químicos de Processo"}
+{"i":273,"tr":"Fibra de madeira processada, usada principalmente na produção de papel, transportada em fardos ou como polpa a granel."}
+{"i":274,"tr":"Produtos de madeira processados de uma serraria ou indústrias similares."}
+{"i":275,"tr":"Empacotador de Produtos"}
+{"i":276,"tr":"Produção em fazendas, minas e indústrias similares quando os requisitos de suprimento são atendidos (como porcentagem do nível de produção {SILVER}Normal {BLACK})."}
+{"i":277,"tr":"Bombas"}
+{"i":278,"tr":"Bombas e Válvulas"}
+{"i":279,"tr":"Depósitos de Pirita"}
+{"i":280,"tr":"Mina de Pirita"}
+{"i":281,"tr":"Minério de Pirita"}
+{"i":282,"tr":"Fusão de Pirita"}
+{"i":283,"tr":"Python 3.11+"}
+{"i":284,"tr":"Cal viva"}
+{"i":285,"tr":"Açúcar Cru e Melaço"}
+{"i":286,"tr":"Grãos de café crus ou torrados."}
+{"i":287,"tr":"Plástico cru para processamento posterior. Geralmente transportado na forma de grânulos de resina."}
+{"i":288,"tr":"Rebarba"}
+{"i":289,"tr":"Metal de alumínio refinado, em bobinas, lingotes, placas etc."}
+{"i":290,"tr":"Metal de cobre refinado, em bobinas, lingotes etc."}
+{"i":291,"tr":"Produtos derivados de petróleo refinados, como gasolina, diesel, querosene, GLP, óleo combustível e combustível de bunker, transportados como líquidos a granel ou gás liquefeito."}
+{"i":292,"tr":"Currais para renas"}
+{"i":293,"tr":"Usina de Roadstone"}
+{"i":294,"tr":"Moinho de barras"}
+{"i":295,"tr":"Placas e seções de aço laminado — vigas I, vigas H, canais etc. Transportados como produtos longos e retos."}
+{"i":296,"tr":"Cordas e cabos produzidos pela trefilação de arame de aço até um diâmetro menor e, em seguida, pela torção para formar cordas entrelaçadas."}
+{"i":297,"tr":"Fundidos de aço bruto que exigem processamento adicional. Os lingotes podem ser pequenos ou muito grandes. Os perfis típicos de lingotes são retangulares ou redondos."}
+{"i":298,"tr":"Borracha"}
+{"i":299,"tr":"Empresa de Borracha"}
+{"i":300,"tr":"Plantação de Borracha"}
+{"i":301,"tr":"MAR"}
+{"i":302,"tr":"Sal"}
+{"i":303,"tr":"Salina"}
+{"i":304,"tr":"Fábrica de Salitre"}
+{"i":305,"tr":"Serraria"}
+{"i":306,"tr":"Frutos do Mar"}
+{"i":307,"tr":"Vedante e Mangueira"}
+{"i":308,"tr":"Vedantes, Mangueiras e Correias"}
+{"i":309,"tr":"Moinho de Seção e Barra"}
+{"i":310,"tr":"Peças fundidas de aço semiacabadas. Sempre planas e retangulares em seção transversal."}
+{"i":311,"tr":"Peças fundidas de aço semiacabadas. Retangulares, quadradas ou redondas em seção transversal."}
+{"i":312,"tr":"Rua Afiada"}
+{"i":313,"tr":"Riachos"}
+{"i":314,"tr":"Orla"}
+{"i":315,"tr":"Silo"}
+{"i":316,"tr":"Economia simples. Inspirada na Argentina, no Peru e no Chile. Melhor utilizada com clima subtropical."}
+{"i":317,"tr":"Economia simples. Inspirada na Finlândia, no norte do Canadá e no norte da Sibéria. Melhor utilizada com clima subártico."}
+{"i":318,"tr":"Economia simples. Inspirada no sudoeste do Reino Unido. Melhor utilizada com clima temperado."}
+{"i":319,"tr":"Pátio de blocos"}
+{"i":320,"tr":"Escória"}
+{"i":321,"tr":"Usina de Moagem de Escória"}
+{"i":322,"tr":"Fusão"}
+{"i":323,"tr":"Cinza de Sódio"}
+{"i":324,"tr":"Mina de Cinza Sódica"}
+{"i":325,"tr":"Hidróxido de Sódio"}
+{"i":326,"tr":"Forno de Fuligem"}
+{"i":327,"tr":"Sopas"}
+{"i":328,"tr":"Materiais de carbono especiais, como coque de petróleo calcinado, piche, alcatrões de alto valor e negro de carbono, usados em processos metalúrgicos e químicos."}
+{"i":329,"tr":"Aço"}
+{"i":330,"tr":"Ferraria e Fundição de Aço"}
+{"i":331,"tr":"Ingotes de Aço"}
+{"i":332,"tr":"Usina de Aço"}
+{"i":333,"tr":"Tubo de Aço"}
+{"i":334,"tr":"Chapa de Aço"}
+{"i":335,"tr":"Folha e Tira de Aço"}
+{"i":336,"tr":"Lamaço de aço"}
+{"i":337,"tr":"Tubo de aço"}
+{"i":338,"tr":"Barra de arame de aço"}
+{"i":339,"tr":"Barras de aço, como redondas, quadradas, chatas e outros perfis. Transportadas como produtos longos e retos."}
+{"i":340,"tr":"Fio de aço e barras finas. Transportados principalmente em rolos."}
+{"i":341,"tr":"Mestres do aço"}
+{"i":342,"tr":"Cidade do aço"}
+{"i":343,"tr":"Tanques de armazenamento e tubulações"}
+{"i":344,"tr":"Tanques de armazenamento, vasos de pressão, silos, cilindros de gás e conjuntos de tubos, para uso em edifícios urbanos, indústrias e fazendas."}
+{"i":345,"tr":"Armazéns"}
+{"i":346,"tr":"Moinho de laminação a frio"}
+{"i":347,"tr":"Aço estrutural"}
+{"i":348,"tr":"Aço de grau estrutural em seções laminadas (vigas I, vigas H etc.), em chapas planas ou em seções e vigas fabricadas, soldadas a partir de chapas."}
+{"i":349,"tr":"Açúcar"}
+{"i":350,"tr":"Empresa de Açúcar"}
+{"i":351,"tr":"Minerais de sulfeto, fundidos para produzir uma variedade de produtos industriais."}
+{"i":352,"tr":"Enxofre"}
+{"i":353,"tr":"Ácido Sulfúrico"}
+{"i":354,"tr":"Suprimentos para corte e soldagem de metal, como eletrodos de solda, ferramentas e gases industriais, incluindo acetileno, argônio, propano, oxigênio e nitrogênio."}
+{"i":355,"tr":"Pátio de Suprimentos"}
+{"i":356,"tr":"Caixas de suprimentos necessárias para a produção primária aprimorada (padrão: 16)"}
+{"i":357,"tr":"Caixas de suprimentos necessárias para a produção primária Gung-ho (padrão: 80)"}
+{"i":358,"tr":"Estação de Tanques"}
+{"i":359,"tr":"Galpão dos Tappers"}
+{"i":360,"tr":"Produto de petróleo espesso usado principalmente para pavimentação de estradas e cobertura de telhados."}
+{"i":361,"tr":"Chapa e tira de aço laminado fino, amplamente utilizadas na fabricação de outros produtos. Transportadas como chapas planas ou em rolos."}
+{"i":362,"tr":"Barras de aço brutas e finas, amplamente utilizadas para reforçar estruturas de concreto. Transportadas em rolos ou feixes de barras retas."}
+{"i":363,"tr":"Chapa fina de aço revestida com estanho para resistir à corrosão, usada principalmente para latas, recipientes e outras embalagens."}
+{"i":364,"tr":"Produtos de Madeira"}
+{"i":365,"tr":"Estanho"}
+{"i":366,"tr":"Mineração de Estanho"}
+{"i":367,"tr":"Lata"}
+{"i":368,"tr":"Fábrica de Lata"}
+{"i":369,"tr":"Fábrica de Veículos sobre Trilhos"}
+{"i":370,"tr":"Leitos de Trona"}
+{"i":371,"tr":"Pátio de Caminhões"}
+{"i":372,"tr":"Fábrica de Tubos e Canos"}
+{"i":373,"tr":"Fábrica de Tubos"}
+{"i":374,"tr":"Corda de Pneu"}
+{"i":375,"tr":"Fábrica de Pneus"}
+{"i":376,"tr":"Pneus"}
+{"i":377,"tr":"Usado na produção de ligas e aço inoxidável, uma liga de cromo e ferro. Pedacos cinzentos, de tamanho e formato semelhantes aos de carvão."}
+{"i":378,"tr":"Usado na produção de aço. Ligas de ferro e outros elementos, incluindo manganês, níquel, cromo, alumínio, silício e tungstênio. Pedacos cinzentos, de tamanho e formato semelhantes aos de carvão."}
+{"i":379,"tr":"Vegetais"}
+{"i":380,"tr":"Carrocerias de Veículos"}
+{"i":381,"tr":"Distribuidor de Veículos"}
+{"i":382,"tr":"Peças de Veículos"}
+{"i":383,"tr":"Veículos"}
+{"i":384,"tr":"Vinhedo"}
+{"i":385,"tr":"Resíduo da produção de ferro e aço."}
+{"i":386,"tr":"Beira d'água"}
+{"i":387,"tr":"Consumíveis de soldagem"}
+{"i":388,"tr":"Poços"}
+{"i":389,"tr":"Cais"}
+{"i":390,"tr":"Poço de mineração"}
+{"i":391,"tr":"Trigo, cevada etc."}
+{"i":392,"tr":"Pó branco refinado a partir do minério de bauxita, usado para produzir alumínio metálico."}
+{"i":393,"tr":"Rocha de sulfato de cálcio branca, cinzenta ou marrom, usada na produção de ácido sulfúrico e cimento. Frequentemente transportada como carga a granel coberta."}
+{"i":394,"tr":"Produto químico industrial amplamente utilizado. Amarelo brilhante, em forma de pó ou líquido."}
+{"i":395,"tr":"Produto químico industrial amplamente utilizado. Geralmente transportado como carga a granel que deve ser mantida seca."}
+{"i":396,"tr":"Vinícola"}
+{"i":397,"tr":"Usina de Arame"}
+{"i":398,"tr":"Polpa de Madeira"}
+{"i":399,"tr":"Fábrica"}
+{"i":400,"tr":"Zinco"}
+{"i":401,"tr":"Mineração de Zinco"}
+{"i":402,"tr":"Minério de Zinco"}
+{"i":403,"tr":"Fundição de Zinco"}
+{"i":404,"tr":"{BLACK}Produção atual: {YELLOW}Melhorada {}{}{BLACK}Para manter este nível, entregue {SIGNED_WORD} caixas de suprimentos pelo menos uma vez a cada três minutos.{}Para produção {WHITE}Gung-ho {BLACK}, entregue {SIGNED_WORD} caixas."}
+{"i":405,"tr":"{BLACK}Produção atual: {YELLOW}Melhorada {}{}{BLACK}Para manter este nível, entregue {SIGNED_WORD} unidades de carga pelo menos uma vez a cada três minutos.{}Para produção {WHITE}Gung-ho {BLACK}, entregue {SIGNED_WORD} unidades."}
+{"i":406,"tr":"{BLACK}Produção atual: {YELLOW}Normal {}{}{BLACK}Para produção {WHITE}Melhorada {BLACK}, entregue {SIGNED_WORD} caixas de suprimentos pelo menos uma vez a cada três minutos.{}Para produção {WHITE}Gung-ho {BLACK}, entregue {SIGNED_WORD} caixas."}
+{"i":407,"tr":"{BLACK}Produção atual: {YELLOW}Normal {}{}{BLACK}Para produção {WHITE}Melhorada {BLACK}, entregue {SIGNED_WORD} unidades de carga pelo menos uma vez a cada três minutos.{}Para produção {WHITE}Gung-ho {BLACK}, entregue {SIGNED_WORD} unidades."}
+{"i":408,"tr":"{BLACK}Para obter a taxa máxima de produção, forneça {WHITE}todos os {BLACK}cargos necessários pelo menos uma vez a cada três minutos."}
+{"i":409,"tr":"{BLACK}Para obter a taxa máxima de produção, forneça {WHITE}pelo menos três {BLACK}cargos necessários pelo menos uma vez a cada três minutos."}
+{"i":410,"tr":"{BLACK}Para obter a taxa máxima de produção, forneça {WHITE}pelo menos dois {BLACK}cargos necessários pelo menos uma vez a cada três minutos."}
+{"i":411,"tr":"{BLACK}Para obter a taxa máxima de produção, forneça {WHITE}ambos os {BLACK}cargos necessários pelo menos uma vez a cada três minutos."}
+{"i":412,"tr":"{BLACK}A produção é proporcional à população da cidade. Pelo menos {WHITE}{SIGNED_WORD} unidades{BLACK} e no máximo {WHITE}{SIGNED_WORD} unidades{BLACK} de carga serão produzidas a cada minuto."}
+{"i":413,"tr":"{BLACK}Forneça {WHITE}pelo menos um {BLACK} cargo necessário para obter a produção máxima."}
+{"i":414,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":415,"tr":"{ORANGE}E00: O CIRS requer o OpenTTD 1.7.0 (ou, para quem usa compilações do trunk, r27769)"}
+{"i":416,"tr":"{ORANGE}E01: {YELLOW}Conjunto incompatível: {ORANGE}{STRING}"}
+{"i":417,"tr":"{ORANGE}E02: {YELLOW}Parâmetro incompatível: {ORANGE}O parâmetro 2 do CanSet deve ser 0 para funcionar com o CIRS."}
+{"i":418,"tr":"{ORANGE}E02: {YELLOW}Parâmetro incompatível: {ORANGE}O parâmetro 2 do NA City Set deve ser 0 para funcionar com o CIRS."}
+{"i":419,"tr":"{ORANGE}E04: {YELLOW}Versão incompatível: {ORANGE}O Total Town Replacement Set deve ser da versão 3.11 ou mais recente."}
+{"i":420,"tr":"{TINYFONT}AA"}
+{"i":421,"tr":"{TINYFONT}AC"}
+{"i":422,"tr":"{TINYFONT}AG"}
+{"i":423,"tr":"{TINYFONT}AM"}
+{"i":424,"tr":"{TINYFONT}AO"}
+{"i":425,"tr":"{TINYFONT}AP"}
+{"i":426,"tr":"{TINYFONT}AY"}
+{"i":427,"tr":"{TINYFONT}BB"}
+{"i":428,"tr":"{TINYFONT}BI"}
+{"i":429,"tr":"{TINYFONT}BN"}
+{"i":430,"tr":"{TINYFONT}CA"}
+{"i":431,"tr":"{TINYFONT}CB"}
+{"i":432,"tr":"{TINYFONT}CE"}
+{"i":433,"tr":"{TINYFONT}CF"}
+{"i":434,"tr":"{TINYFONT}CI"}
+{"i":435,"tr":"{TINYFONT}CK"}
+{"i":436,"tr":"{TINYFONT}CN"}
+{"i":437,"tr":"{TINYFONT}CO"}
+{"i":438,"tr":"{TINYFONT}CP"}
+{"i":439,"tr":"{TINYFONT}CR"}
+{"i":440,"tr":"{TINYFONT}CT"}
+{"i":441,"tr":"{TINYFONT}EL"}
+{"i":442,"tr":"{TINYFONT}EO"}
+{"i":443,"tr":"{TINYFONT}EP"}
+{"i":444,"tr":"{TINYFONT}EX"}
+{"i":445,"tr":"{TINYFONT}FA"}
+{"i":446,"tr":"{TINYFONT}FL"}
+{"i":447,"tr":"{TINYFONT}FO"}
+{"i":448,"tr":"{TINYFONT}FV"}
+{"i":449,"tr":"{TINYFONT}GL"}
+{"i":450,"tr":"{TINYFONT}HW"}
+{"i":451,"tr":"{TINYFONT}IG"}
+{"i":452,"tr":"{TINYFONT}KA"}
+{"i":453,"tr":"{TINYFONT}LG"}
+{"i":454,"tr":"{TINYFONT}LH"}
+{"i":455,"tr":"{TINYFONT}LS"}
+{"i":456,"tr":"{TINYFONT}MA"}
+{"i":457,"tr":"{TINYFONT}MF"}
+{"i":458,"tr":"{TINYFONT}ML"}
+{"i":459,"tr":"{TINYFONT}MN"}
+{"i":460,"tr":"{TINYFONT}MO"}
+{"i":461,"tr":"{TINYFONT}N7"}
+{"i":462,"tr":"{TINYFONT}NA"}
+{"i":463,"tr":"{TINYFONT}NI"}
+{"i":464,"tr":"{TINYFONT}NT"}
+{"i":465,"tr":"{TINYFONT}O2"}
+{"i":466,"tr":"{TINYFONT}OC"}
+{"i":467,"tr":"{TINYFONT}PA"}
+{"i":468,"tr":"{TINYFONT}PC"}
+{"i":469,"tr":"{TINYFONT}PE"}
+{"i":470,"tr":"{TINYFONT}PG"}
+{"i":471,"tr":"{TINYFONT}PH"}
+{"i":472,"tr":"{TINYFONT}PI"}
+{"i":473,"tr":"{TINYFONT}PL"}
+{"i":474,"tr":"{TINYFONT}PM"}
+{"i":475,"tr":"{TINYFONT}PV"}
+{"i":476,"tr":"{TINYFONT}PW"}
+{"i":477,"tr":"{TINYFONT}PY"}
+{"i":478,"tr":"{TINYFONT}QL"}
+{"i":479,"tr":"{TINYFONT}RB"}
+{"i":480,"tr":"{TINYFONT}SD"}
+{"i":481,"tr":"{TINYFONT}SE"}
+{"i":482,"tr":"{TINYFONT}SG"}
+{"i":483,"tr":"{TINYFONT}SH"}
+{"i":484,"tr":"{TINYFONT}SI"}
+{"i":485,"tr":"{TINYFONT}SL"}
+{"i":486,"tr":"{TINYFONT}SO"}
+{"i":487,"tr":"{TINYFONT}SP"}
+{"i":488,"tr":"{TINYFONT}STSW"}
+{"i":489,"tr":"{TINYFONT}SU"}
+{"i":490,"tr":"{TINYFONT}SW"}
+{"i":491,"tr":"{TINYFONT}SY"}
+{"i":492,"tr":"{TINYFONT}TC"}
+{"i":493,"tr":"{TINYFONT}TI"}
+{"i":494,"tr":"{TINYFONT}TP"}
+{"i":495,"tr":"{TINYFONT}TY"}
+{"i":496,"tr":"{TINYFONT}VB"}
+{"i":497,"tr":"{TINYFONT}VE"}
+{"i":498,"tr":"{TINYFONT}VG"}
+{"i":499,"tr":"{TINYFONT}VP"}
+{"i":500,"tr":"{TINYFONT}VS"}
+{"i":501,"tr":"{TINYFONT}WP"}
+{"i":502,"tr":"{TINYFONT}WS"}
+{"i":503,"tr":"{TINYFONT}ZN"}
+{"i":504,"tr":"{TINYFONT}ZO"}
+{"i":505,"tr":"{VOLUME} de ácido"}
+{"i":506,"tr":"{VOLUME} de amônia e produtos nítricos"}
+{"i":507,"tr":"{VOLUME} de betume"}
+{"i":508,"tr":"{VOLUME} de intermediários químicos"}
+{"i":509,"tr":"{VOLUME} de cloro"}
+{"i":510,"tr":"{VOLUME} de alcatrão de carvão"}
+{"i":511,"tr":"{VOLUME} de óleo comestível"}
+{"i":512,"tr":"{VOLUME} de gases industriais"}
+{"i":513,"tr":"{VOLUME} de hidrocarbonetos leves"}
+{"i":514,"tr":"{VOLUME} de metanol"}
+{"i":515,"tr":"{VOLUME} de nitrogênio"}
+{"i":516,"tr":"{VOLUME} de oxigênio"}
+{"i":517,"tr":"{VOLUME} de tintas e revestimentos"}
+{"i":518,"tr":"{VOLUME} de ácido fosfórico"}
+{"i":519,"tr":"{VOLUME} de hidróxido de sódio"}
+{"i":520,"tr":"{VOLUME} de ácido sulfúrico"}
+{"i":521,"tr":"{WEIGHT} de agregados"}
+{"i":522,"tr":"{WEIGHT} de alumina"}
+{"i":523,"tr":"{WEIGHT} de alumínio"}
+{"i":524,"tr":"{WEIGHT} de rocha de anidrita"}
+{"i":525,"tr":"{WEIGHT} de maçãs"}
+{"i":526,"tr":"{WEIGHT} de barita e fluorita"}
+{"i":527,"tr":"{WEIGHT} de feijão"}
+{"i":528,"tr":"{WEIGHT} de lingotes e blooms"}
+{"i":529,"tr":"{WEIGHT} de negro de carbono"}
+{"i":530,"tr":"{WEIGHT} de mandioca"}
+{"i":531,"tr":"{WEIGHT} de ferro fundido"}
+{"i":532,"tr":"{WEIGHT} de cimento"}
+{"i":533,"tr":"{WEIGHT} de caulim"}
+{"i":534,"tr":"{WEIGHT} de agentes de limpeza"}
+{"i":535,"tr":"{WEIGHT} de coque"}
+{"i":536,"tr":"{WEIGHT} de produtos de concreto"}
+{"i":537,"tr":"{WEIGHT} de cobre"}
+{"i":538,"tr":"{WEIGHT} de peças elétricas"}
+{"i":539,"tr":"{WEIGHT} de motores e sistemas de transmissão"}
+{"i":540,"tr":"{WEIGHT} de explosivos"}
+{"i":541,"tr":"{WEIGHT} de ferro-ligas"}
+{"i":542,"tr":"{WEIGHT} de fertilizante"}
+{"i":543,"tr":"{WEIGHT} de peixes e frutos do mar"}
+{"i":544,"tr":"{WEIGHT} de farinha e amido"}
+{"i":545,"tr":"{WEIGHT} de alimentos e bebidas"}
+{"i":546,"tr":"{WEIGHT} de aditivos alimentares"}
+{"i":547,"tr":"{WEIGHT} de peças forjadas e fundidas"}
+{"i":548,"tr":"{WEIGHT} de alimentos congelados"}
+{"i":549,"tr":"{WEIGHT} de produtos de vidro"}
+{"i":550,"tr":"{WEIGHT} de mercadorias"}
+{"i":551,"tr":"{WEIGHT} de ferragens e acabamentos"}
+{"i":552,"tr":"{WEIGHT} de carvão industrial"}
+{"i":553,"tr":"{WEIGHT} de calcário"}
+{"i":554,"tr":"{WEIGHT} de troncos"}
+{"i":555,"tr":"{WEIGHT} de manganês"}
+{"i":556,"tr":"{WEIGHT} de carne"}
+{"i":557,"tr":"{WEIGHT} de barra comercial"}
+{"i":558,"tr":"{WEIGHT} de enchimentos minerais"}
+{"i":559,"tr":"{WEIGHT} de nitratos"}
+{"i":560,"tr":"{WEIGHT} de nozes"}
+{"i":561,"tr":"{WEIGHT} de embalagens"}
+{"i":562,"tr":"{WEIGHT} de turfa"}
+{"i":563,"tr":"{WEIGHT} de fosfato"}
+{"i":564,"tr":"{WEIGHT} de ferro-gusa"}
+{"i":565,"tr":"{WEIGHT} de instalações e máquinas"}
+{"i":566,"tr":"{WEIGHT} de plásticos e resinas"}
+{"i":567,"tr":"{WEIGHT} de potássio"}
+{"i":568,"tr":"{WEIGHT} de componentes de precisão"}
+{"i":569,"tr":"{WEIGHT} de produtos químicos de processo"}
+{"i":570,"tr":"{WEIGHT} de bombas e válvulas"}
+{"i":571,"tr":"{WEIGHT} de minério de pirita"}
+{"i":572,"tr":"{WEIGHT} de cal viva"}
+{"i":573,"tr":"{WEIGHT} de açúcar bruto e melaço"}
+{"i":574,"tr":"{WEIGHT} de vergalhão"}
+{"i":575,"tr":"{WEIGHT} de sal"}
+{"i":576,"tr":"{WEIGHT} de vedações, mangueiras e correias"}
+{"i":577,"tr":"{WEIGHT} de escória"}
+{"i":578,"tr":"{WEIGHT} de cinza de sódio"}
+{"i":579,"tr":"{WEIGHT} de aço"}
+{"i":580,"tr":"{WEIGHT} de lingotes de aço"}
+{"i":581,"tr":"{WEIGHT} de tubos de aço"}
+{"i":582,"tr":"{WEIGHT} de chapas de aço"}
+{"i":583,"tr":"{WEIGHT} de folhas e tiras de aço"}
+{"i":584,"tr":"{WEIGHT} de lajes de aço"}
+{"i":585,"tr":"{WEIGHT} de tubos de aço"}
+{"i":586,"tr":"{WEIGHT} de vergalhões de aço"}
+{"i":587,"tr":"{WEIGHT} de tanques de armazenamento e tubulações"}
+{"i":588,"tr":"{WEIGHT} de aço estrutural"}
+{"i":589,"tr":"{WEIGHT} de enxofre"}
+{"i":590,"tr":"{WEIGHT} de produtos de madeira"}
+{"i":591,"tr":"{WEIGHT} de estanho"}
+{"i":592,"tr":"{WEIGHT} de folha de flandres"}
+{"i":593,"tr":"{WEIGHT} de corda de pneu"}
+{"i":594,"tr":"{WEIGHT} de pneus"}
+{"i":595,"tr":"{WEIGHT} de vegetais"}
+{"i":596,"tr":"{WEIGHT} de carrocerias de veículos"}
+{"i":597,"tr":"{WEIGHT} de peças de veículos"}
+{"i":598,"tr":"{WEIGHT} de veículos"}
+{"i":599,"tr":"{WEIGHT} de consumíveis de soldagem"}
+{"i":600,"tr":"{WEIGHT} de polpa de madeira"}
+{"i":601,"tr":"{WEIGHT} de zinco"}
+{"i":602,"tr":"{WEIGHT} de minério de zinco"}
+{"i":603,"tr":"{WEIGHT} saco{P 0 \"\" s} de café"}
+{"i":604,"tr":"{}{BLACK}Localização: {YELLOW}Só pode ser financiado na neve."}
+{"i":6,"tr":"Alúmina"}
+{"i": 33, "tr": "Billets, flores, lingotes e lajes."}
+{"i": 33, "tr": "Billets, flores, lingotes e lajes."}
+{"i": 32, "tr": "Billets e blooms"}
+{"i": 33, "tr": "Billets, blooms, lingotes e lajes."}
+{"i": 33, "tr": "Billets, blooms, lingotes e lajes."}

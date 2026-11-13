@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Kullgruve"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Kobbergruve"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Diamantgruve"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "{G=masculine}Hermetikkfabrikk"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Skog"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Fruktplantasjon"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Jernmalmgruve"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Oljeraffinaderi"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Oljerigg"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Oljekilder"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Papirfabrikk"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Gummplantasje"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Sagbruk"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Stålverk"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Kull"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Kobbermalm"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamanter"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Mat"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Varer"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Korn"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Jernmalm"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Husdyr"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Post"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Majs"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Olje"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Papir"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Passasjerer"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Gummi"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Sukker"
+
+[ECONOMY_INFO_FIRS]
+base = "Kompleks økonomi med mange næringer og laster."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Enkel økonomi. Inspirert av Finland, nordlige Canada og nordlige Sibir. Fungerer best med subarktisk klima."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Enkel økonomi. Inspirert av sørvestlige Storbritannia. Fungerer best med temperert klima."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Enkel økonomi. Inspirert av Argentina, Peru og Chile. Fungerer best med subtropisk klima."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Kompleks økonomi med mange næringer og laster. Inspirert av sentral-vest-Afrika. Fungerer best med et subtropisk klima."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Kompleks økonomi med jern-, stål- og tungindustri."
+
+[CARGO_INFO_PASSENGERS]
+base = "Tilgjengelig i alle økonomier. Produseres og aksepteres av bybygninger og også enkelte industrier."
+
+[CARGO_INFO_MAIL]
+base = "Tilgjengelig i alle økonomier. Produseres og aksepteres av bybygninger."
+
+[CARGO_INFO_ACID]
+base = "Industrielle syrer, som saltsyre, salpetersyre og svovelsyre."
+
+[CARGO_INFO_AGGREGATES]
+base = "Grus, sand, knust stein og lignende materialer som brukes i byggearbeider."
+
+[CARGO_INFO_ALUMINA]
+base = "Hvitt pulver som er foredlet fra bauxittmalm og brukes til å produsere aluminiumsmetall."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Raffinert aluminiumsmetall i ruller, støpeblokker, plater osv."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Industrielle kjemikalier utledet fra ammoniakk, som ammoniakk, salpetersyre og urea. Transporteres som væsker, kryogenisk som flytende gass eller som tørr bulklast."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Hvit, grå eller brun kalsiumsulfatbergart som brukes i produksjon av svovelsyre og sement. Transporteres ofte som dekket bulklast."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Industrielle mineraler som brukes ved kjemisk bearbeiding. Baryt brukes i bariumkjemikalier og fyllstoffer; fluorspat brukes i fluor-kjemi og metallurgiske fluxer."
+
+[CARGO_INFO_BASE_METALS]
+base = "Ikke-jernholdige metaller, som kobber, nikkel, sink og bly."
+
+[CARGO_INFO_BEANS]
+base = "Vanlige bønner, favabønner, soyabønner og lignende spiselige belgfrukter."
+
+[CARGO_INFO_BITUMEN]
+base = "Tykt petroleumsprodukt som hovedsakelig brukes til veidekke og taktekking."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Sement, glass, metallkomponenter, trevarer, rør og lignende byggematerialer."
+
+[CARGO_INFO_CASSAVA]
+base = "Spiselig rotgrønt, også kjent som maniok og yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Intensivt svart karbonpulver som brukes i dekk, plast og pigmenter. Håndteres som pulver."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billetter, blomer, støperier og plater."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billetter, blomer, støperier og plater."
+
+[CARGO_INFO_CEMENT]
+base = "Tørr sement i pulver- eller klinkerform."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Mellomliggende kjemiske produkter som brukes som råvarer for videre industriell bearbeiding."
+
+[CARGO_INFO_CHEMICALS]
+base = "Generelle organiske og uorganiske kjemikalier, håndtert som væske, gass, dekket bulk, pulver eller stykkvarer."
+
+[CARGO_INFO_CHLORINE]
+base = "Industrielt kjemikalie som vanligvis transporteres kryogenisk som flytende komprimert gass."
+
+[CARGO_INFO_CLAY]
+base = "Generelle leirer, for produksjon av byggematerialer og andre industrielle formål."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Kjemikalier, såper, skuremidler osv. til industriell og husholdningsmessig bruk. Primært flytende, men kan også være pulver eller faststoff (som til eksempel sand til sandblasting)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Et biprodukt fra koksproduksjon, en tykk væske som renner sakte."
+
+[CARGO_INFO_COFFEE]
+base = "Rå eller ristede kaffebønner."
+
+[CARGO_INFO_COKE]
+base = "Kull som er oppvarmet i en koksovn, slik at det produseres et brensel som nesten utelukkende består av karbon."
+
+[CARGO_INFO_COMPONENTS]
+base = "Verdifulle ingeniørkomponenter som elektrisk utstyr, motorer, transformatorer, styringsutstyr, hydraulikk, pneumatikk, pumper, ventiler og drivlinjeutstyr."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Støpte produkter som blokker, bjelker og paneler. Kan også håndteres som ferdigbetong i blandebil."
+
+[CARGO_INFO_COPPER]
+base = "Raffinert kobbermetall i ruller, støpeblokker osv."
+
+[CARGO_INFO_DIAMONDS]
+base = "Er evige, osv."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Olje til matlaging og konsum."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Elektriske og elektroniske komponenter, motorer, styreenheter, koblingsutstyr, lys osv."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Maskiner, brensel, deler, trevarer, rør, eksplosiver og andre forsyninger til gruver og lignende næringer."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Sivil eksplosiver til gruvedrift, byggearbeider osv."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Maskiner, brensel, deler, gjødsel og andre forsyninger til gårder, skoger og lignende næringer."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Brukes i stålproduksjon. Legeringer av jern og andre grunnstoffer, blant annet mangan, nikkel, krom, aluminium, silisium og wolfram. Grå klumper som ligner kullklumper i størrelse og form."
+
+[CARGO_INFO_FERROCHROME]
+base = "Brukes i produksjon av legeringer og rustfritt stål, en legering av krom og jern. Grå klumper som ligner kullklumper i størrelse og form."
+
+[CARGO_INFO_FLOUR]
+base = "Kornprodukter i pulverform, som mel og stivelse, transportert i sekker eller i dekket bulk."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Metalldele som skal monteres til større enheter."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Ingredienser som brukes i matforedling, som konserveringsmidler, smakstilsetninger, fargestoffer og prosesshjelpemidler."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Matvarer som holdes frosne under transport og lagring."
+
+[CARGO_INFO_FRUITS]
+base = "Fersk og tørket frukt, som bananer, sitrusfrukter, druer, bær, ananas, rosiner og lignende."
+
+[CARGO_INFO_GRAIN]
+base = "Hvete, bygg m.m."
+
+[CARGO_INFO_HARDWARE]
+base = "Til bruk i husholdningen og byggearbeid. Verktøy, redskaper, innredningsdetaljer og armaturer i metall og andre materialer."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Spesialkarbonmaterialer som kalsinert petroleumskok, tjære, høyt verdifulle tjærer og karbonsvart, som brukes i metallurgiske og kjemiske prosesser."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Industrielle gasser som brukes ved kjemisk bearbeiding, metallbearbeiding og sveising, og som transporteres i sylindere eller trykkreservoartanker."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Trummer, vinsjer, lenker, kroker, taljer, hydrauliske stempler og andre deler til kraner, løfteanlegg, heiser osv."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Lette petroleumsfraksjoner som brukes som kjemiske råvarer og transporteres som bulkvæsker."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Mest kuer, griser og sauer til kjøttproduksjon. Andre dyr kan også spises."
+
+[CARGO_INFO_LYE]
+base = "Industrielt kjemikalie. Også kjent som lut eller kaustisk soda. Transporteres vanligvis som væske."
+
+[CARGO_INFO_KAOLIN]
+base = "Industrielt mineral, også kjent som kaolin, som hovedsakelig brukes i papir- og plastproduksjon."
+
+[CARGO_INFO_MANGANESE]
+base = "Manganmalm, som hovedsakelig brukes i stålproduksjon."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Maskiner, deler, drivstoff, byggematerialer og andre forsyninger for havner, kaier og lignende næringer."
+
+[CARGO_INFO_METAL]
+base = "Generelle metaller, som stål, aluminium eller andre vanlige metaller."
+
+[CARGO_INFO_METHANOL]
+base = "Industriell alkohol som brukes som kjemisk råvare og brensel, og som transporteres som bulkvæske."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Mellomliggende sukkervarer for foredling, gjæring og industriell bruk. Klistrete granulater håndteres som dekket bulklast; tykk sirup som væske; begge kan emballeres."
+
+[CARGO_INFO_NITROGEN]
+base = "Industriell gass. Transporteres kryogenisk som flytende komprimert gass."
+
+[CARGO_INFO_OIL]
+base = "Rå, uforedlet petroleum transportert som bulkvæske."
+
+[CARGO_INFO_OXYGEN]
+base = "Industriell gass. Transporteres kryogenisk som flytende komprimert gass."
+
+[CARGO_INFO_PACKAGING]
+base = "Esker, flasker, glass, bokser osv."
+
+[CARGO_INFO_PEAT]
+base = "Biomasse fra torvmyrer, hentet ut som brensel og til gartneri."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Raffinerte petroleumsprodukter som bensin, diesel, parafin, LPG, fyringsolje og bunkerbrensel, transportert som bulkvæsker eller flytende gass."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Industriell syre som hovedsakelig brukes i gjødsel- og kjemikalieproduksjon, og som transporteres som bulkvæske."
+
+[CARGO_INFO_PIG_IRON]
+base = "Basisk jern fra en høyovn, som smeltet væske eller faste støperier."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Bomull, lin, jute og lignende materialer for produksjon av tekstiler og komposittmaterialer."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Drevet utstyr og mekaniske systemer som brukes i bygninger, industri og på gårder. Transporteres som komplette enheter eller som større delmonteringer."
+
+[CARGO_INFO_PETROL]
+base = "Bensin, diesel og lignende drivstoffer."
+
+[CARGO_INFO_PLASTICS]
+base = "Råplast for videre bearbeiding. Transporteres vanligvis som harpikskuler."
+
+[CARGO_INFO_PIPEWORK]
+base = "Lagertanker, trykkbeholdere, siloer, gassflasker og rørsamlinger for bruk i bybygninger, industri og på gårder."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Industrielle kjemikalier som brukes i produksjon og bearbeiding, og som transporteres som væsker, pulver, gasser eller emballerte varer."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Sulfidmineraler som smeltes for å produsere en rekke industrielle produkter."
+
+[CARGO_INFO_QUICKLIME]
+base = "Kalsiumoksid, også kjent som brent kalk. Transporteres som fint pulver som må holdes tørt."
+
+[CARGO_INFO_REBAR]
+base = "Tynde, uforarbeidede stålstenger som i stor grad brukes til å forsterke betongkonstruksjoner. Transporteres som ruller eller bunter med rette stenger."
+
+[CARGO_INFO_RUBBER]
+base = "Mest naturlig latex."
+
+[CARGO_INFO_SALT]
+base = "Et mye brukt industrielt kjemikalie. Transporteres vanligvis som bulklast som må holdes tørr."
+
+[CARGO_INFO_SAND]
+base = "Grovt sand for byggearbeider, eller fin kiselsand for glassproduksjon og metallstøping. Transporteres som bulk eller pulver."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Fleksible tetninger, pakninger, slanger, belter, matter, bøsninger osv., laget av gummi eller lignende materialer."
+
+[CARGO_INFO_SLAG]
+base = "Avfallsprodukt fra jern- og stålproduksjon."
+
+[CARGO_INFO_SODA_ASH]
+base = "Industrielt kjemikalie. I form av hvitt pulver."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Halvfabrikerte stålstøpegodser. Rektangulære, firkantede eller runde i tverrsnitt."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Ubehandlet stålstøpegods som krever videre bearbeiding. Støpeblokkene kan være små eller svært store. Vanlige profiler er rektangulære eller runde."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Stålstenger, som runde, firkantede, flate og andre profiler. Transporteres som lange, rette produkter."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Lange, runde stålrør for transport av væsker i rørledninger, bygninger, industrianlegg osv."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Valste stålplater og profiller – I-bjelker, H-bjelker, kanaler osv. Transporteres som lange, rette produkter."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Tynt valset stålark og -strimmel som i stor grad brukes til fremstilling av andre produkter. Transporteres som flate ark eller ruller."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Halvfabrikerte stålstøpegodser. Alltid flate og rektangulære i tverrsnitt."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Langt, hult rør med rund, rektangulær eller annen tverrsnittform. Brukes til fremstilling av konstruksjoner og maskiner."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Ståltråd og tynne stenger. Transporteres hovedsakelig som ruller."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Tau og kabler produsert ved å trekke ståltråd til en mindre diameter og deretter tvinne dem til samlet tauverk."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Konstruksjonsstål som valset profiler (I-bjelker, H-bjelker osv.), som flatplate eller som ferdiglagde profiler og bjelker sveist av plate."
+
+[CARGO_INFO_SULPHUR]
+base = "Et mye brukt industrielt kjemikalie. Klar gult, i pulver- eller væskeform."
+
+[CARGO_INFO_TIMBER]
+base = "Behandlede trevarer fra en sagbruk eller lignende næringer."
+
+[CARGO_INFO_TIN]
+base = "Tallerkener."
+
+[CARGO_INFO_TINPLATE]
+base = "Tynt stålark belagt med tinn for korrosjonsbeskyttelse, hovedsakelig brukt til bokser, beholdere og annen emballasje."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Fintråd som brukes til å forsterke dekk. Transporteres som rull."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Kabiner, motorhetter, dører og lignende karosseristrukturer for kjøretøyproduksjon."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Forbrenningsmotorer og tilhørende deler av drivlinjen, som girboks og drivakslar."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponenter til kjøretøyproduksjon, som chassis- og fjæringdeler, elektriske deler, eksteriørdekor og interiørdeler."
+
+[CARGO_INFO_VEHICLES]
+base = "Mest lastebiler. Eller personbiler. Eller lette lastebiler. Kanskje traktorer."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Forbruksvarer for skjæring og sveising av metall, som sveiseelektroder, verktøy og industrielle gasser, inkludert acetylen, argon, propan, oksygen og nitrogen."
+
+[CARGO_INFO_WOOD]
+base = "Tømmerstokker fra en skog."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Behandlet trefiber som hovedsakelig brukes til papirproduksjon, og som transporteres som baller eller bulkmasse."
+
+[CARGO_INFO_WOOL]
+base = "Baller."
+
+[CARGO_INFO_ZINC]
+base = "Tallerkener."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

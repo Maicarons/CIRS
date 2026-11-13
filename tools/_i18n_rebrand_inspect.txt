@@ -1,0 +1,170 @@
+=== DESC RETRANSLATIONS 24 ===
+afrikaans | CIRS:2 FIRS:1 | len:310
+   {ORANGE}CIRS-gemeenskapsbedryfsvervangingsstel{}{BLACK}’n deur die gemeenskap onderhoude vertakking van FIRS, oorspronklik deur andythenorth, FooBar, planetmaker, Terkhen en Yexo, met hulp van talle ander. {SILVER}Sien die webwerf vir meer inligting, insluitend hoe om CIRS te gebruik. {BLACK}Lisensie: GPL v2.
+belarusian | CIRS:2 FIRS:1 | len:344
+   {ORANGE}Набор CIRS для замены аб’ектаў прамысловасці супольнасці{}{BLACK}Супольнасцю падтрымліваемая галіна FIRS, першапачаткова створаная andythenorth, FooBar, planetmaker, Terkhen і Yexo пры дапамозе многіх іншых аўтараў. {SILVER}Падрабязную інфармацыю, у тым ліку пра тое, як карыстацца CIRS, можна знайсці на сайце. 
+catalan | CIRS:2 FIRS:1 | len:358
+   {ORANGE}Conjunt de substitució d'indústries comunitàries de CIRS{}{BLACK}Una bifurcació de FIRS mantinguda per la comunitat, creada originalment per andythenorth, FooBar, planetmaker, Terkhen i Yexo, amb l'ajuda de moltes altres persones. {SILVER}Consulteu el lloc web per obtenir més informació, inclosa la manera d'uti
+danish | CIRS:2 FIRS:1 | len:300
+   {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En fællesskabsvedligeholdt forgrening af FIRS, oprindeligt udviklet af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se websiden for mere information, herunder hvordan CIRS bruges. {BLACK}Licens: GPL v2.
+dutch | CIRS:2 FIRS:1 | len:314
+   {ORANGE}CIRS Community-Industrie-Ersatzset{}{BLACK}Een door de community onderhouden fork van FIRS, oorspronkelijk gemaakt door andythenorth, FooBar, planetmaker, Terkhen en Yexo, met hulp van vele anderen. {SILVER}Zie de website voor meer informatie, inclusief hoe je CIRS kunt gebruiken. {BLACK}Licentie: GPL v2.
+estonian | CIRS:2 FIRS:1 | len:328
+   {ORANGE}CIRS-i kogukonna tööstuse asendussett{}{BLACK}Kogukonna hooldatav FIRS-i harg, mille algseid autorid olid andythenorth, FooBar, planetmaker, Terkhen ja Yexo ning mille loomisel aitasid paljud teised. {SILVER}Vaadake veebisaiti lisateabe saamiseks, sealhulgas selle kohta, kuidas CIRS-i kasutada. {BLACK}Litsents:
+finnish | CIRS:2 FIRS:1 | len:312
+   {ORANGE}CIRS-yhteisöteollisuuden korvaussetti{}{BLACK}Yhteisön ylläpitämä FIRS-haara, jonka ovat alun perin kehittäneet andythenorth, FooBar, planetmaker, Terkhen ja Yexo monien muiden avustuksella. {SILVER}Katso verkkosivusto saadaksesi lisätietoja, myös siitä, miten CIRS:ää käytetään. {BLACK}Lisenssi: GPL v2.
+galician | CIRS:2 FIRS:1 | len:340
+   {ORANGE}Conxunto de substitución industrial comunitaria de CIRS{}{BLACK}Unha bifurcación de FIRS mantida pola comunidade, creada orixinalmente por andythenorth, FooBar, planetmaker, Terkhen e Yexo, coa axuda de moitas outras persoas. {SILVER}Consulta o sitio web para obter máis información, incluído como usar CIRS. {BL
+hungarian | CIRS:2 FIRS:1 | len:316
+   {ORANGE}CIRS Közösségi Ipari Pótlócsomag{}{BLACK}A FIRS közösség által karbantartott ága, amelyet eredetileg andythenorth, FooBar, planetmaker, Terkhen és Yexo készített, számos más személy segítségével. {SILVER}További információért, köztük a CIRS használatának módjáról is, lásd a weboldalt. {BLACK}Licenc: GPL v2.
+indonesian | CIRS:2 FIRS:1 | len:328
+   {ORANGE}Set Pengganti Industri Komunitas CIRS{}{BLACK}Sebuah cabang FIRS yang dikelola komunitas, yang awalnya dibuat oleh andythenorth, FooBar, planetmaker, Terkhen, dan Yexo, dengan bantuan dari banyak pihak lainnya. {SILVER}Lihat situs web untuk informasi lebih lanjut, termasuk cara menggunakan CIRS. {BLACK}Lisensi:
+italian | CIRS:2 FIRS:1 | len:333
+   {ORANGE}CIRS – Set di sostituzione per industrie comunitarie{}{BLACK}Un fork di FIRS mantenuto dalla comunità, originariamente creato da andythenorth, FooBar, planetmaker, Terkhen e Yexo, con l’aiuto di molte altre persone. {SILVER}Consulta il sito web per maggiori informazioni, incluso come utilizzare CIRS. {BLACK}Lic
+korean | CIRS:2 FIRS:1 | len:207
+   {ORANGE}CIRS 커뮤니티 산업 교체 세트{}{BLACK}커뮤니티에서 유지 관리하는 FIRS의 포크로, 원래 andythenorth, FooBar, planetmaker, Terkhen, Yexo가 개발했으며 많은 다른 사람들의 도움을 받았습니다. {SILVER}CIRS 사용법을 포함한 더 자세한 정보는 웹사이트를 참조하세요. {BLACK}라이선스: GPL v2.
+latin | CIRS:2 FIRS:1 | len:328
+   {ORANGE}CIRS Complementum Industrialium Communium Substitutionis{}{BLACK}Ramus FIRS a communitate curatus, initio ab andythenorth, FooBar, planetmaker, Terkhen et Yexo creatus, plurimorum aliorum auxilio. {SILVER}Plura cognoscere, inter quae etiam quomodo CIRS adhibendum sit, in situ interretiali vide. {BLACK}Licentia:
+luxembourgish | CIRS:2 FIRS:1 | len:313
+   {ORANGE}CIRS Community-Industrie-Ersatzset{}{BLACK}Eng vun der Communautéit gewartete Fork vu FIRS, ursprénglech vun andythenorth, FooBar, planetmaker, Terkhen an Yexo entwéckelt, mat Hëllef vu villeenen aneren. {SILVER}Kuckt d'Website fir méi Informatiounen, dorënner wéi een CIRS benotzt. {BLACK}Lizenz: GPL v2.
+norwegian_bokmal | CIRS:2 FIRS:1 | len:307
+   {ORANGE}CIRS – samfunnets industriutskiftingspakke{}{BLACK}En fellesskapsvedlikeholdt forgrening av FIRS, opprinnelig utviklet av andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjelp fra mange andre. {SILVER}Se nettsiden for mer informasjon, inkludert hvordan du bruker CIRS. {BLACK}Lisens: GPL v2.
+polish | CIRS:2 FIRS:1 | len:348
+   {ORANGE}Zestaw zastępczy dla społeczności przemysłowej CIRS{}{BLACK}Wspólnotowo utrzymywany fork projektu FIRS, pierwotnie stworzony przez andythenorth, FooBar, planetmaker, Terkhen i Yexo, przy wsparciu wielu innych osób. {SILVER}Zobacz stronę internetową, aby uzyskać więcej informacji, w tym o tym, jak korzystać z CI
+portuguese_BR | CIRS:2 FIRS:1 | len:332
+   {ORANGE}Conjunto de Substituição de Indústrias Comunitárias CIRS{}{BLACK}Um fork do FIRS mantido pela comunidade, originalmente criado por andythenorth, FooBar, planetmaker, Terkhen e Yexo, com a ajuda de muitas outras pessoas. {SILVER}Consulte o site para obter mais informações, incluindo como usar o CIRS. {BLACK}Lice
+romanian | CIRS:2 FIRS:1 | len:326
+   {ORANGE}Setul comunitar de înlocuire a industriilor CIRS{}{BLACK}O ramură întreținută de comunitate a FIRS, creată inițial de andythenorth, FooBar, planetmaker, Terkhen și Yexo, cu ajutorul multor alții. {SILVER}Consultați site-ul web pentru mai multe informații, inclusiv despre cum să utilizați CIRS. {BLACK}Licență: G
+russian | CIRS:2 FIRS:1 | len:342
+   {ORANGE}Набор CIRS для замены объектов промышленности в сообществе{}{BLACK}Общественно поддерживаемая вилка FIRS, первоначально созданная andythenorth, FooBar, planetmaker, Terkhen и Yexo при помощи многих других. {SILVER}См. веб-сайт для получения дополнительной информации, в том числе о том, как использовать CIRS. {B
+simplified_chinese | CIRS:2 FIRS:1 | len:164
+   {ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 开发，并得到了许多其他人的帮助。{SILVER}请访问网站了解更多信息，包括如何使用 CIRS。{BLACK}许可证：GPL v2。
+slovak | CIRS:2 FIRS:1 | len:309
+   {ORANGE}Kompletná sada nahradenia priemyslu CIRS{}{BLACK}Komunitou udržiavaná odnož FIRS, pôvodne vytvorená používateľmi andythenorth, FooBar, planetmaker, Terkhen a Yexo, s pomocou mnohých ďalších. {SILVER}Viac informácií vrátane návodu na používanie CIRS nájdete na webovej stránke. {BLACK}Licencia: GPL v2.
+spanish_MX | CIRS:2 FIRS:1 | len:341
+   {ORANGE}Conjunto de reemplazo de industrias comunitarias de CIRS{}{BLACK}Un fork de FIRS mantenido por la comunidad, creado originalmente por andythenorth, FooBar, planetmaker, Terkhen y Yexo, con la ayuda de muchas otras personas. {SILVER}Consulta el sitio web para obtener más información, incluido cómo usar CIRS. {BL
+swedish | CIRS:2 FIRS:1 | len:299
+   {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En community-underhållen fork av FIRS, ursprungligen skapad av andythenorth, FooBar, planetmaker, Terkhen och Yexo, med hjälp från många andra. {SILVER}Se webbplatsen för mer information, inklusive hur man använder CIRS. {BLACK}Licens: GPL v2.
+traditional_chinese | CIRS:2 FIRS:1 | len:163
+   {ORANGE}CIRS 社區產業替換套組{}{BLACK}一個由社區維護的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 開發，並得到許多其他人的協助。{SILVER}請參閱網站以取得更多資訊，包括如何使用 CIRS。{BLACK}授權：GPL v2。
+
+=== REMAINING RETRANSLATE (non-desc) 20 ===
+belarusian src/docs/lang/belarusian.toml DOC_HOME_WHY_3_DESC
+   EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+   TR: Поўная гісторыя git FIRS захоўваецца, таму будучыя змены upstream могуць быць аб'яднаны, а не адгалінаваны.
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+belarusian src/docs/lang/belarusian.toml DOC_HOME_WHY_3_TITLE
+   EN: Upstream tracking
+   TR: Адсочванне upstream
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+czech src/grf/lang/czech.toml STR_PARAM_DESC_ECONOMIES.base
+   EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS w
+   TR: Každá ekonomika poskytuje různou kombinaci nákladů a průmyslu.{}{} {SILVER}Základní {BLACK}ekonomiky obsahují méně průmyslu a nákladů než ostatní FIRS ekonomiky a jsou tedy vhodné i pro začínající hráče.{}{}Detailní info
+   NOTE: 英语里两处 CIRS 必须译为 CIRS；不要出现英语里没有的 FIRS；保留 {SILVER}/{BLACK}/{}{} 等占位符。
+danish src/docs/lang/danish.toml DOC_HOME_WHY_3_DESC
+   EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+   TR: Den fulde FIRS git-historik bevares, så fremtidige upstream-ændringer kan flettes i stedet for at blive fra-forket.
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+danish src/docs/lang/danish.toml DOC_HOME_WHY_3_TITLE
+   EN: Upstream tracking
+   TR: Upstream-sporende
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+dutch src/docs/lang/dutch.toml DOC_HOME_WHY_3_DESC
+   EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+   TR: De volledige FIRS git-geschiedenis wordt behouden, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van weggeforkt.
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+dutch src/docs/lang/dutch.toml DOC_HOME_WHY_3_TITLE
+   EN: Upstream tracking
+   TR: Upstream-volging
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+french src/docs/lang/french.toml DOC_ECO_CARGOS
+   EN: {count} Cargos
+   TR: {count} cargos
+   NOTE: 若当前形式在该语言中是合法同形词可保留，否则译成地道的复数货物名。
+galician src/grf/lang/galician.toml STR_PARAM_DESC_ECONOMIES.base
+   EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS w
+   TR: Cada un dos tipos de economía contén unha combinación diferente de industrias e cargas.{}{}Para xogadores que busquen partidas máis sinxelas, as {BLACK}economías {SILVER}básicas conteñen menos industrias e cargas que out
+   NOTE: 英语里两处 CIRS 必须译为 CIRS；不要出现英语里没有的 FIRS；保留 {SILVER}/{BLACK}/{}{} 等占位符。
+german src/docs/lang/german.toml DOC_HOME_WHY_3_DESC
+   EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+   TR: Der vollständige FIRS-Git-Verlauf wird beibehalten, sodass künftige Upstream-Änderungen zusammengeführt und nicht weggeforkt werden können.
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+german src/docs/lang/german.toml DOC_HOME_WHY_3_TITLE
+   EN: Upstream tracking
+   TR: Upstream-Verfolgung
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+italian src/docs/lang/italian.toml DOC_HOME_WHY_3_DESC
+   EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+   TR: L'intera cronologia git di FIRS è preservata, così i futuri cambiamenti upstream possono essere uniti invece di essere separati con un fork.
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+italian src/docs/lang/italian.toml DOC_HOME_WHY_3_TITLE
+   EN: Upstream tracking
+   TR: Tracciamento upstream
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+japanese src/docs/lang/japanese.toml DOC_GS_CONFLICTS_P3_LINK
+   EN: conflicting newgrfs
+   TR: conflicting newGRFs
+   NOTE: 必须译成目标语言，不要只改大小写；NewGRF 作为专有名词保留。
+latin src/docs/lang/latin.toml DOC_HOME_WHY_3_DESC
+   EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+   TR: Tota historia git FIRS conservatur, ita mutationes futurae upstream coniungi possunt potius quam furculari.
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+latin src/docs/lang/latin.toml DOC_HOME_WHY_3_TITLE
+   EN: Upstream tracking
+   TR: Vestigium Upstream
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+polish src/docs/lang/polish.toml DOC_HOME_WHY_3_DESC
+   EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+   TR: Pełna historia git FIRS jest zachowywana, dzięki czemu przyszłe zmiany z upstream mogą być scalane zamiast być rozwidlane.
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+polish src/docs/lang/polish.toml DOC_HOME_WHY_3_TITLE
+   EN: Upstream tracking
+   TR: Śledzenie upstream
+   NOTE: git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。
+tamil src/grf/lang/tamil.toml STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit
+   EN: {SIGNED_WORD} crate{P 0 "" s} of engineering supplies
+   TR: {SIGNED_WORD} FIRS பொறியியல் பொருட்கள் பெட்டி{P 0 "" s}
+   NOTE: 当前译文里混入了多余的 FIRS 一词，必须去掉；忠实译出 crate of ... supplies（……补给箱），保留 {SIGNED_WORD} 与 {P 0  s} 占位符。
+tamil src/grf/lang/tamil.toml STR_CARGO_FARM_SUPPLIES.cargo_unit
+   EN: {SIGNED_WORD} crate{P 0 "" s} of farm supplies
+   TR: {SIGNED_WORD} FIRS பண்ணைப் பொருட்கள் பெட்டி{P 0 "" s}
+   NOTE: 当前译文里混入了多余的 FIRS 一词，必须去掉；忠实译出 crate of ... supplies（……补给箱），保留 {SIGNED_WORD} 与 {P 0  s} 占位符。
+
+=== DETERMINISTIC sample (first 8) ===
+afrikaans STR_ERR_INCOMPATIBLE_PARAM_CANSET.base | {ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}CanSet-parameter 2 moet 0 wees om met FIRS te werk. => {ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}CanSet-parameter 2 moet 0 wees om met CIRS te werk.
+afrikaans STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base | {ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met FIRS te werk. => {ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met CIRS te werk.
+afrikaans STR_ERR_OPENTTD_VERSION.base | {ORANGE}E00: FIRS vereis OpenTTD 1.7.0 (of, vir dié wat tronkbouwerke gebruik, r27769) => {ORANGE}E00: CIRS vereis OpenTTD 1.7.0 (of, vir dié wat tronkbouwerke gebruik, r27769)
+afrikaans STR_PARAM_DESC_ECONOMIES.base | Elke ekonomie bied ’n ander kombinasie van vragte en nywerhede.{}{}Vir spelers wat eenvoudige spel wil hê, bev => Elke ekonomie bied ’n ander kombinasie van vragte en nywerhede.{}{}Vir spelers wat eenvoudige spel wil hê, bev
+belarusian STR_PARAM_DESC_ECONOMIES.base | Кожная эканоміка прадстаўляе розную камбінацыю грузаў і прадпрыемстваў.{}{}Для гульцоў, якія жадаюць простую э => Кожная эканоміка прадстаўляе розную камбінацыю грузаў і прадпрыемстваў.{}{}Для гульцоў, якія жадаюць простую э
+croatian STR_PARAM_DESC_ECONOMIES.base | Svaka ekonomija daje različite kombinacije tereta i industrija.{}{}Za igrače koji žele jednostavnost igre, {SI => Svaka ekonomija daje različite kombinacije tereta i industrija.{}{}Za igrače koji žele jednostavnost igre, {SI
+dutch STR_PARAM_DESC_ECONOMIES.base | Elke economie heeft een andere combinatie van goederen en industrieën.{}{}Voor spelers die een eenvoudig spelv => Elke economie heeft een andere combinatie van goederen en industrieën.{}{}Voor spelers die een eenvoudig spelv
+finnish STR_PARAM_DESC_ECONOMIES.base | Jokainen talousvaihtoehto mahdollistaa erilaisen yhdistelmän rahteja ja teollisuuksia.{}{}Yksinkertaisesta pel => Jokainen talousvaihtoehto mahdollistaa erilaisen yhdistelmän rahteja ja teollisuuksia.{}{}Yksinkertaisesta pel
+
+=== RESTORE ===
+arabic src/grf/lang/arabic.toml STR_CARGO_FOOD_ADDITIVES.cid '{TINYFONT}FIRS' => '{TINYFONT}FV'
+swedish src/grf/lang/swedish.toml STR_CARGO_FISH.cid '{TINYFONT}FIRS' => '{TINYFONT}FI'
+
+=== MANUAL ===
+{"lang": "french", "file": "src/docs/lang/french.toml", "key": "DOC_ECO_CARGOS", "en": "{count} Cargos", "tr": "{count} marchandises"}
+
+=== IN_WORK non-desc ===
+belarusian DOC_HOME_WHY_3_DESC wi=None in_work=False
+belarusian DOC_HOME_WHY_3_TITLE wi=None in_work=False
+czech STR_PARAM_DESC_ECONOMIES.base wi=None in_work=False
+danish DOC_HOME_WHY_3_DESC wi=None in_work=False
+danish DOC_HOME_WHY_3_TITLE wi=None in_work=False
+dutch DOC_HOME_WHY_3_DESC wi=None in_work=False
+dutch DOC_HOME_WHY_3_TITLE wi=None in_work=False
+french DOC_ECO_CARGOS wi=None in_work=False
+galician STR_PARAM_DESC_ECONOMIES.base wi=None in_work=False
+german DOC_HOME_WHY_3_DESC wi=None in_work=False
+german DOC_HOME_WHY_3_TITLE wi=None in_work=False
+italian DOC_HOME_WHY_3_DESC wi=None in_work=False
+italian DOC_HOME_WHY_3_TITLE wi=None in_work=False
+japanese DOC_GS_CONFLICTS_P3_LINK wi=None in_work=False
+latin DOC_HOME_WHY_3_DESC wi=None in_work=False
+latin DOC_HOME_WHY_3_TITLE wi=None in_work=False
+polish DOC_HOME_WHY_3_DESC wi=None in_work=False
+polish DOC_HOME_WHY_3_TITLE wi=None in_work=False
+tamil STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit wi=464 in_work=True
+tamil STR_CARGO_FARM_SUPPLIES.cargo_unit wi=465 in_work=True

@@ -1,0 +1,36 @@
+=== EVIDENCE: English cids/names for the 8 diverging keys ===
+  STR_CARGO_CHEMICALS.cid EN_cid={TINYFONT}CH EN_name=Chemicals
+  STR_CARGO_METHANOL.cid EN_cid={TINYFONT}ML EN_name=Methanol
+  STR_CARGO_PACKAGING.cid EN_cid={TINYFONT}PG EN_name=Packaging
+  STR_CARGO_PHOSPHORIC_ACID.cid EN_cid={TINYFONT}PA EN_name=Phosphoric Acid
+=== EVIDENCE: CHEMICALS vs CHLORINE cid collision (before fix) ===
+  belarusian CHEMICALS={TINYFONT}ХЛ CHLORINE={TINYFONT}ХЛ
+  croatian CHEMICALS={TINYFONT}KL CHLORINE={TINYFONT}KL
+  hungarian CHEMICALS={TINYFONT}KL CHLORINE={TINYFONT}KL
+  korean CHEMICALS={TINYFONT}염 CHLORINE={TINYFONT}염
+  polish CHEMICALS={TINYFONT}CHL CHLORINE={TINYFONT}CHL
+  simplified_chinese CHEMICALS={TINYFONT}氯 CHLORINE={TINYFONT}氯
+CHANGES 16 files 6 noref 8 conflicts 0 appends 8
+  belarusian.toml STR_CARGO_CHEMICALS.cid -> {TINYFONT}ХМ
+  belarusian.toml STR_CARGO_PACKAGING.cid -> {TINYFONT}УП
+  croatian.toml STR_CARGO_CHEMICALS.cid -> {TINYFONT}KM
+  croatian.toml STR_CARGO_PACKAGING.cid -> {TINYFONT}AM
+  hungarian.toml STR_CARGO_CHEMICALS.cid -> {TINYFONT}VS
+  hungarian.toml STR_CARGO_PACKAGING.cid -> {TINYFONT}CM
+  korean.toml STR_CARGO_CHEMICALS.cid -> {TINYFONT}화
+  korean.toml STR_CARGO_METHANOL.cid -> {TINYFONT}올
+  korean.toml STR_CARGO_PACKAGING.cid -> {TINYFONT}포
+  korean.toml STR_CARGO_PHOSPHORIC_ACID.cid -> {TINYFONT}인
+  polish.toml STR_CARGO_CHEMICALS.cid -> {TINYFONT}CHEM
+  polish.toml STR_CARGO_METHANOL.cid -> {TINYFONT}MTOL
+  polish.toml STR_CARGO_PACKAGING.cid -> {TINYFONT}OPAK
+  polish.toml STR_CARGO_PHOSPHORIC_ACID.cid -> {TINYFONT}KWFS
+  simplified_chinese.toml STR_CARGO_CHEMICALS.cid -> {TINYFONT}化
+  simplified_chinese.toml STR_CARGO_PACKAGING.cid -> {TINYFONT}包
+PATCH src/grf/lang/belarusian.toml OK
+PATCH src/grf/lang/croatian.toml OK
+PATCH src/grf/lang/hungarian.toml OK
+PATCH src/grf/lang/korean.toml OK
+PATCH src/grf/lang/polish.toml OK
+PATCH src/grf/lang/simplified_chinese.toml OK
+WROTE (APPLY=1)

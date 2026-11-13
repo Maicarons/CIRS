@@ -1,0 +1,8294 @@
+{
+ "per": {
+  "grf/afrikaans": {
+   "lang": "afrikaans",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/arabic": {
+   "lang": "arabic",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/belarusian": {
+   "lang": "belarusian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/catalan": {
+   "lang": "catalan",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/croatian": {
+   "lang": "croatian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/czech": {
+   "lang": "czech",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/danish": {
+   "lang": "danish",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/dutch": {
+   "lang": "dutch",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/esperanto": {
+   "lang": "esperanto",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/estonian": {
+   "lang": "estonian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/finnish": {
+   "lang": "finnish",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/french": {
+   "lang": "french",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/gaelic": {
+   "lang": "gaelic",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/galician": {
+   "lang": "galician",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/german": {
+   "lang": "german",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/hungarian": {
+   "lang": "hungarian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/indonesian": {
+   "lang": "indonesian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/italian": {
+   "lang": "italian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/japanese": {
+   "lang": "japanese",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/korean": {
+   "lang": "korean",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/latin": {
+   "lang": "latin",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/luxembourgish": {
+   "lang": "luxembourgish",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/norwegian_bokmal": {
+   "lang": "norwegian_bokmal",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 2,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/polish": {
+   "lang": "polish",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/portuguese": {
+   "lang": "portuguese",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/portuguese_BR": {
+   "lang": "portuguese_BR",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/romanian": {
+   "lang": "romanian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 2,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/russian": {
+   "lang": "russian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/serbian": {
+   "lang": "serbian",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/simplified_chinese": {
+   "lang": "simplified_chinese",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/slovak": {
+   "lang": "slovak",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/spanish": {
+   "lang": "spanish",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/spanish_MX": {
+   "lang": "spanish_MX",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/swedish": {
+   "lang": "swedish",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/tamil": {
+   "lang": "tamil",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/traditional_chinese": {
+   "lang": "traditional_chinese",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/turkish": {
+   "lang": "turkish",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 2,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "grf/welsh": {
+   "lang": "welsh",
+   "group": "grf",
+   "en": 573,
+   "keys": 573,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/afrikaans": {
+   "lang": "afrikaans",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/arabic": {
+   "lang": "arabic",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/belarusian": {
+   "lang": "belarusian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/catalan": {
+   "lang": "catalan",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/croatian": {
+   "lang": "croatian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/czech": {
+   "lang": "czech",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/danish": {
+   "lang": "danish",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 2,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/dutch": {
+   "lang": "dutch",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 2,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/esperanto": {
+   "lang": "esperanto",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/estonian": {
+   "lang": "estonian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/finnish": {
+   "lang": "finnish",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/french": {
+   "lang": "french",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/gaelic": {
+   "lang": "gaelic",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/galician": {
+   "lang": "galician",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/german": {
+   "lang": "german",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 2,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/hungarian": {
+   "lang": "hungarian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/indonesian": {
+   "lang": "indonesian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/italian": {
+   "lang": "italian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/japanese": {
+   "lang": "japanese",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/korean": {
+   "lang": "korean",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/latin": {
+   "lang": "latin",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/luxembourgish": {
+   "lang": "luxembourgish",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/norwegian_bokmal": {
+   "lang": "norwegian_bokmal",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 2,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/polish": {
+   "lang": "polish",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/portuguese": {
+   "lang": "portuguese",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/portuguese_BR": {
+   "lang": "portuguese_BR",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/romanian": {
+   "lang": "romanian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/russian": {
+   "lang": "russian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/serbian": {
+   "lang": "serbian",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/simplified_chinese": {
+   "lang": "simplified_chinese",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 0,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/slovak": {
+   "lang": "slovak",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/spanish": {
+   "lang": "spanish",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/spanish_MX": {
+   "lang": "spanish_MX",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/swedish": {
+   "lang": "swedish",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/tamil": {
+   "lang": "tamil",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/traditional_chinese": {
+   "lang": "traditional_chinese",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/turkish": {
+   "lang": "turkish",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "gs/welsh": {
+   "lang": "welsh",
+   "group": "gs",
+   "en": 44,
+   "keys": 44,
+   "missing": 0,
+   "empty": 1,
+   "badph": 0,
+   "same_real": 1,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/afrikaans": {
+   "lang": "afrikaans",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/arabic": {
+   "lang": "arabic",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 139
+  },
+  "docs/belarusian": {
+   "lang": "belarusian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 26,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/catalan": {
+   "lang": "catalan",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 28,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/croatian": {
+   "lang": "croatian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/czech": {
+   "lang": "czech",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/danish": {
+   "lang": "danish",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/dutch": {
+   "lang": "dutch",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/esperanto": {
+   "lang": "esperanto",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/estonian": {
+   "lang": "estonian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/finnish": {
+   "lang": "finnish",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/french": {
+   "lang": "french",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 30,
+   "xs_missing": 0,
+   "xs_same": 125
+  },
+  "docs/gaelic": {
+   "lang": "gaelic",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/galician": {
+   "lang": "galician",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 28,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/german": {
+   "lang": "german",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 112
+  },
+  "docs/hungarian": {
+   "lang": "hungarian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/indonesian": {
+   "lang": "indonesian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/italian": {
+   "lang": "italian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/japanese": {
+   "lang": "japanese",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 26,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/korean": {
+   "lang": "korean",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 127
+  },
+  "docs/latin": {
+   "lang": "latin",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 26,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/luxembourgish": {
+   "lang": "luxembourgish",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/norwegian_bokmal": {
+   "lang": "norwegian_bokmal",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/polish": {
+   "lang": "polish",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/portuguese": {
+   "lang": "portuguese",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 28,
+   "xs_missing": 0,
+   "xs_same": 126
+  },
+  "docs/portuguese_BR": {
+   "lang": "portuguese_BR",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 28,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/romanian": {
+   "lang": "romanian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/russian": {
+   "lang": "russian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/serbian": {
+   "lang": "serbian",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/simplified_chinese": {
+   "lang": "simplified_chinese",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 121
+  },
+  "docs/slovak": {
+   "lang": "slovak",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/spanish": {
+   "lang": "spanish",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 28,
+   "xs_missing": 0,
+   "xs_same": 125
+  },
+  "docs/spanish_MX": {
+   "lang": "spanish_MX",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 28,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/swedish": {
+   "lang": "swedish",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 28,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/tamil": {
+   "lang": "tamil",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/traditional_chinese": {
+   "lang": "traditional_chinese",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/turkish": {
+   "lang": "turkish",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  },
+  "docs/welsh": {
+   "lang": "welsh",
+   "group": "docs",
+   "en": 220,
+   "keys": 220,
+   "missing": 0,
+   "empty": 0,
+   "badph": 0,
+   "same_real": 27,
+   "xs_missing": 0,
+   "xs_same": 0
+  }
+ },
+ "total": {
+  "grf_missing": 0,
+  "grf_empty": 0,
+  "grf_badph": 0,
+  "grf_same_real": 11,
+  "grf_xs_missing": 0,
+  "grf_xs_same": 0,
+  "gs_missing": 0,
+  "gs_empty": 38,
+  "gs_badph": 0,
+  "gs_same_real": 40,
+  "gs_xs_missing": 0,
+  "gs_xs_same": 0,
+  "docs_missing": 0,
+  "docs_empty": 0,
+  "docs_badph": 0,
+  "docs_same_real": 1033,
+  "docs_xs_missing": 0,
+  "docs_xs_same": 875
+ },
+ "details": {
+  "grf/gaelic": [
+   [
+    "same_real",
+    "STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base",
+    "Arctic Basic",
+    "Arctic Basic"
+   ]
+  ],
+  "grf/german": [
+   [
+    "same_real",
+    "STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG.base",
+    " {BLACK}(optional)",
+    " {BLACK}(optional)"
+   ]
+  ],
+  "grf/indonesian": [
+   [
+    "same_real",
+    "STR_CARGO_SODA_ASH.name",
+    "Soda Ash",
+    "Soda Ash"
+   ]
+  ],
+  "grf/latin": [
+   [
+    "same_real",
+    "STR_CARGO_BARYTES_AND_FLUORSPAR.name",
+    "Barytes & Fluorspar",
+    "Barytes & Fluorspar"
+   ]
+  ],
+  "grf/luxembourgish": [
+   [
+    "same_real",
+    "STR_STATION_PLATE_MILL.base",
+    "Slab yard",
+    "Slab yard"
+   ]
+  ],
+  "grf/norwegian_bokmal": [
+   [
+    "same_real",
+    "STR_CARGO_TYRE_CORD.name",
+    "Tyre Cord",
+    "Tyre Cord"
+   ],
+   [
+    "same_real",
+    "STR_IND_VEHICLE_DISTRIBUTOR.base",
+    "Vehicle Distributor",
+    "Vehicle Distributor"
+   ]
+  ],
+  "grf/romanian": [
+   [
+    "same_real",
+    "STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base",
+    "Arctic Basic",
+    "Arctic Basic"
+   ],
+   [
+    "same_real",
+    "STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base",
+    "Tropic Basic",
+    "Tropic Basic"
+   ]
+  ],
+  "grf/turkish": [
+   [
+    "same_real",
+    "STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base",
+    "Tropic Basic",
+    "Tropic Basic"
+   ],
+   [
+    "same_real",
+    "STR_STATION_HERDING_COOP.base",
+    "Reinder Pens",
+    "Reinder Pens"
+   ]
+  ],
+  "gs/afrikaans": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/arabic": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/belarusian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/catalan": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/croatian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/czech": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/danish": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ],
+   [
+    "same_real",
+    "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base",
+    "{BLACK}Type: {WHITE}{RAW_STRING}",
+    "{BLACK}Type: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/dutch": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ],
+   [
+    "same_real",
+    "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base",
+    "{BLACK}Type: {WHITE}{RAW_STRING}",
+    "{BLACK}Type: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/esperanto": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/estonian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/finnish": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/french": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ]
+  ],
+  "gs/gaelic": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/galician": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/german": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ],
+   [
+    "same_real",
+    "STR_MANUFACTURERS_STORY_PAGE_NAME.base",
+    "{BLACK}Name: {WHITE}{RAW_STRING}",
+    "{BLACK}Name: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/hungarian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/indonesian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/italian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/japanese": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/korean": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/latin": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/luxembourgish": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/norwegian_bokmal": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ],
+   [
+    "same_real",
+    "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base",
+    "{BLACK}Type: {WHITE}{RAW_STRING}",
+    "{BLACK}Type: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/polish": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/portuguese": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/portuguese_BR": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/romanian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/russian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/serbian": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/simplified_chinese": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ]
+  ],
+  "gs/slovak": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/spanish": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/spanish_MX": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/swedish": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/tamil": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/traditional_chinese": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/turkish": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "gs/welsh": [
+   [
+    "empty",
+    "STR_EMPTY.base",
+    "",
+    ""
+   ],
+   [
+    "same_real",
+    "STR_GRIND_TEST.base",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+    "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"
+   ]
+  ],
+  "docs/afrikaans": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/arabic": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/belarusian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/catalan": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_TH_DECIMAL",
+    "(decimal)",
+    "(decimal)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/croatian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/czech": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/danish": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/dutch": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/esperanto": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/estonian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/finnish": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/french": [
+   [
+    "same_real",
+    ".DOC_IND_TITLE",
+    "Industries ({count})",
+    "Industries ({count})"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_NAV_INDUSTRIES",
+    "Industries ({count})",
+    "Industries ({count})"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_INDUSTRIES_TITLE",
+    "Industries ({count})",
+    "Industries ({count})"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/gaelic": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/galician": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_TH_DECIMAL",
+    "(decimal)",
+    "(decimal)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/german": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/hungarian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/indonesian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/italian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/japanese": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/korean": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/latin": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/luxembourgish": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/norwegian_bokmal": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/polish": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/portuguese": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_TH_DECIMAL",
+    "(decimal)",
+    "(decimal)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/portuguese_BR": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_TH_DECIMAL",
+    "(decimal)",
+    "(decimal)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/romanian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/russian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/serbian": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/simplified_chinese": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/slovak": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/spanish": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_TH_DECIMAL",
+    "(decimal)",
+    "(decimal)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/spanish_MX": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_TH_DECIMAL",
+    "(decimal)",
+    "(decimal)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/swedish": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_TH_DECIMAL",
+    "(decimal)",
+    "(decimal)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/tamil": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/traditional_chinese": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/turkish": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ],
+  "docs/welsh": [
+   [
+    "same_real",
+    ".DOC_CR_SOURCE_P2_LINK",
+    "GPL(v2)",
+    "GPL(v2)"
+   ],
+   [
+    "same_real",
+    ".DOC_CR_DEP_PYTHON",
+    "Python 3.11+",
+    "Python 3.11+"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ZH",
+    "简体中文（Chinese, Simplified）",
+    "简体中文（Chinese, Simplified）"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_BELARUSIAN",
+    "Беларуская",
+    "Беларуская"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CATALAN",
+    "Català",
+    "Català"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_CZECH",
+    "Čeština",
+    "Čeština"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_AU",
+    "English (AU)",
+    "English (AU)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ENGLISH_US",
+    "English (US)",
+    "English (US)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_FRENCH",
+    "Français",
+    "Français"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_GAELIC",
+    "Gàidhlig",
+    "Gàidhlig"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_JAPANESE",
+    "日本語",
+    "日本語"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_KOREAN",
+    "한국어",
+    "한국어"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_LUXEMBOURGISH",
+    "Lëtzebuergesch",
+    "Lëtzebuergesch"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_NORWEGIAN_BOKMAL",
+    "Norsk (Bokmål)",
+    "Norsk (Bokmål)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE",
+    "Português",
+    "Português"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_PORTUGUESE_BR",
+    "Português (BR)",
+    "Português (BR)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ROMANIAN",
+    "Română",
+    "Română"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_RUSSIAN",
+    "Русский",
+    "Русский"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SERBIAN",
+    "Српски",
+    "Српски"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SIMPLIFIED_CHINESE",
+    "简体中文",
+    "简体中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SLOVAK",
+    "Slovenčina",
+    "Slovenčina"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH",
+    "Español",
+    "Español"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_SPANISH_MX",
+    "Español (MX)",
+    "Español (MX)"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TAMIL",
+    "தமிழ்",
+    "தமிழ்"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TRADITIONAL_CHINESE",
+    "繁體中文",
+    "繁體中文"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_TURKISH",
+    "Türkçe",
+    "Türkçe"
+   ],
+   [
+    "same_real",
+    ".DOC_TRANS_LANG_ARABIC",
+    "العربية",
+    "العربية"
+   ]
+  ]
+ }
+}

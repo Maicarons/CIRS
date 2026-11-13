@@ -1,0 +1,6 @@
+APPLY True RESTORE 465 SKIP_KEYS 9 OUT_APPENDS 214
+CONFLICT [69, 191, 337] MIXED [244] POLISHED_SKIP 1
+ECON i=164 -> '温和西部'
+STR_GRF_DESC kept = '{ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmak'
+BRAND_GUARD excluded 1 keys
+WROTE files=3 appends=214

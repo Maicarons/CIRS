@@ -1,0 +1,202 @@
+[
+ {
+  "lang": "afrikaans",
+  "file": "src/docs/lang/afrikaans.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser vir Markdown-teksformaat)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/lang/catalan.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (analitzador del format de text Markdown)",
+  "overlap": 0.8
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/lang/catalan.toml",
+  "key": "DOC_TRANS_HOW_P1",
+  "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.",
+  "tr": "El text del joc es troba a src/grf/lang/*.toml (cadenes NewGRF) i src/gs/lang/*.toml (cadenes GameScript). El text del lloc web es troba a src/docs/lang/*.toml i src/docs/extra_strings*.toml.",
+  "overlap": 0.65
+ },
+ {
+  "lang": "croatian",
+  "file": "src/docs/lang/croatian.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser formata teksta Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "czech",
+  "file": "src/docs/lang/czech.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser formátu Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "czech",
+  "file": "src/docs/lang/czech.toml",
+  "key": "DOC_TRANS_HOW_P1",
+  "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.",
+  "tr": "Text hry se nachází v src/grf/lang/*.toml (řetězce NewGRF) a src/gs/lang/*.toml (řetězce GameScript). Text webu se nachází v src/docs/lang/*.toml a src/docs/extra_strings*.toml.",
+  "overlap": 0.65
+ },
+ {
+  "lang": "danish",
+  "file": "src/docs/lang/danish.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser til Markdown-tekstformatet)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser voor het Markdown-tekstformaat)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (analyseur de format texte Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/docs/lang/gaelic.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (mìneadair air format teacsa Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "german",
+  "file": "src/docs/lang/german.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (Parser für das Markdown-Textformat)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "german",
+  "file": "src/docs/lang/german.toml",
+  "key": "DOC_TRANS_HOW_P1",
+  "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.",
+  "tr": "Der Spieltext befindet sich in src/grf/lang/*.toml (NewGRF-Zeichenketten) und src/gs/lang/*.toml (GameScript-Zeichenketten). Der Website-Text befindet sich in src/docs/lang/*.toml und src/docs/extra_strings*.toml.",
+  "overlap": 0.65
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/docs/lang/indonesian.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (pengurai format teks Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "latin",
+  "file": "src/docs/lang/latin.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser formati textualis Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/docs/lang/luxembourgish.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (Parser fir das Markdown-Textformat)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/docs/lang/luxembourgish.toml",
+  "key": "DOC_TRANS_HOW_P1",
+  "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.",
+  "tr": "De Spilltext ass an src/grf/lang/*.toml (NewGRF Strings) a src/gs/lang/*.toml (GameScript Strings). De Websäit-Text ass an src/docs/lang/*.toml a src/docs/extra_strings*.toml.",
+  "overlap": 0.7
+ },
+ {
+  "lang": "polish",
+  "file": "src/docs/lang/polish.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser formatu tekstowego Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "portuguese_BR",
+  "file": "src/docs/lang/portuguese_BR.toml",
+  "key": "DOC_TRANS_HOW_P1",
+  "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.",
+  "tr": "O texto do jogo está em src/grf/lang/*.toml (strings NewGRF) e src/gs/lang/*.toml (strings GameScript). O texto do site está em src/docs/lang/*.toml e src/docs/extra_strings*.toml.",
+  "overlap": 0.65
+ },
+ {
+  "lang": "romanian",
+  "file": "src/docs/lang/romanian.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (analizor pentru formatul de text Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "serbian",
+  "file": "src/docs/lang/serbian.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser formata teksta Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "slovak",
+  "file": "src/docs/lang/slovak.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (parser formátu Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "slovak",
+  "file": "src/docs/lang/slovak.toml",
+  "key": "DOC_TRANS_HOW_P1",
+  "en": "Game text lives in src/grf/lang/*.toml (NewGRF strings) and src/gs/lang/*.toml (GameScript strings). Website text lives in src/docs/lang/*.toml and src/docs/extra_strings*.toml.",
+  "tr": "Text hry sa nachádza v src/grf/lang/*.toml (reťazce NewGRF) a src/gs/lang/*.toml (reťazce GameScript). Text webu sa nachádza v src/docs/lang/*.toml a src/docs/extra_strings*.toml.",
+  "overlap": 0.65
+ },
+ {
+  "lang": "welsh",
+  "file": "src/docs/lang/welsh.toml",
+  "key": "DOC_CR_DEP_MARKDOWN",
+  "en": "Markdown (Markdown text format parser)",
+  "tr": "Markdown (dadansoddwr format testun Markdown)",
+  "overlap": 0.6
+ },
+ {
+  "lang": "welsh",
+  "file": "src/docs/extra_strings_welsh.toml",
+  "key": "CARGO_INFO_CARBON_STEEL.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, blooms, ingots a slabs.",
+  "overlap": 0.8
+ },
+ {
+  "lang": "welsh",
+  "file": "src/docs/extra_strings_welsh.toml",
+  "key": "CARGO_INFO_CAST_IRON.base",
+  "en": "Billets, blooms, ingots and slabs.",
+  "tr": "Billets, blooms, ingots a slabs.",
+  "overlap": 0.8
+ }
+]

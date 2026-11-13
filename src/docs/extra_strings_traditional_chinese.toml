@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "煤礦"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "銅礦"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "鑽石礦"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "食品加工廠"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "森林"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "果樹園"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "鐵礦石礦場"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "石油煉油廠"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "石油鑽探平台"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "油井"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "紙廠"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "橡膠種植園"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "鋸木廠"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "鋼鐵廠"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "煤炭"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "銅礦石"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "鑽石"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "食品"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "貨物"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "穀物"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "鐵礦石"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "牲畜"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "郵件"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "玉米"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "石油"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "紙張"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "乘客"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "橡膠"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "糖"
+
+[ECONOMY_INFO_FIRS]
+base = "複雜經濟體系，擁有眾多產業與貨物。"
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "簡單經濟體系。靈感來自芬蘭、加拿大北部和西伯利亞北部。最適合搭配亞寒帶氣候使用。"
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "簡單經濟體系。靈感來自英國西南部。最適合搭配溫帶氣候使用。"
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "簡單經濟體系。靈感來自阿根廷、秘魯和智利。最適合搭配亞熱帶氣候使用。"
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "複雜經濟體系，擁有眾多產業與貨物。靈感來自非洲中西部。最適合搭配亞熱帶氣候使用。"
+
+[ECONOMY_INFO_STEELTOWN]
+base = "複雜經濟體系，包含鐵、鋼與重工業製造業。"
+
+[CARGO_INFO_PASSENGERS]
+base = "所有經濟體皆有。由城鎮建築以及少數產業生產和接受。"
+
+[CARGO_INFO_MAIL]
+base = "所有經濟體皆有。由城鎮建築生產和接受。"
+
+[CARGO_INFO_ACID]
+base = "工業酸，例如鹽酸、硝酸與硫酸。"
+
+[CARGO_INFO_AGGREGATES]
+base = "用於建築的碎石、沙石、碎石及類似材料。"
+
+[CARGO_INFO_ALUMINA]
+base = "從鋁土礦提煉出的白色粉末，用於生產鋁金屬。"
+
+[CARGO_INFO_ALUMINIUM]
+base = "精製鋁金屬，以線圈、錠塊、板塊等形態存在。"
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "源自氨的工業化學品，例如氨、硝酸和尿素。以液體、極低溫液化的氣體或乾散貨形式運輸。"
+
+[CARGO_INFO_ANHYDRITE]
+base = "白色、灰色或棕色的硫酸鈣岩石，用於生產硫酸和水泥。通常以蓋貨散裝方式運輸。"
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "用於化學加工的工業礦物。重晶石用於釤化合物與填充劑；螢石則用於氟化學與冶金熔劑。"
+
+[CARGO_INFO_BASE_METALS]
+base = "非鐵金屬，例如銅、鎳、鋅和鉛。"
+
+[CARGO_INFO_BEANS]
+base = "普通豆類、馬豆、大豆及類似的可食用豆科植物。"
+
+[CARGO_INFO_BITUMEN]
+base = "一種稠狀石油產品，主要用於道路鋪面與屋頂鋪設。"
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "水泥、玻璃、金屬部件、木製品、管線及類似建築材料。"
+
+[CARGO_INFO_CASSAVA]
+base = "可食用根莖作物，亦稱木薯。"
+
+[CARGO_INFO_CARBON_BLACK]
+base = "極黑的碳粉，用於輪胎、塑膠與顏料。以粉末形式處理。"
+
+[CARGO_INFO_CARBON_STEEL]
+base = "坯塊、初坯、錠塊與板坯。"
+
+[CARGO_INFO_CAST_IRON]
+base = "坯塊、初坯、錠塊與板坯。"
+
+[CARGO_INFO_CEMENT]
+base = "粉末或熟料形式的乾水泥。"
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "用於進一步工業加工之原料的中間化學產品。"
+
+[CARGO_INFO_CHEMICALS]
+base = "通用有機與無機化學品，以液體、氣體、覆蓋式散裝、粉末或零散貨物形式處理。"
+
+[CARGO_INFO_CHLORINE]
+base = "工業化學品，通常以液化壓縮氣體的形式以極低溫方式運輸。"
+
+[CARGO_INFO_CLAY]
+base = "通用黏土，用於生產建築材料及其他工業用途。"
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "用於工業及家用的化學品、肥皂、清潔劑等。主要為液體，也可能是粉末或固體（例如噴砂用砂）。"
+
+[CARGO_INFO_COAL_TAR]
+base = "焦碳生產的副產品，是一種濃稠且流動緩慢的液體。"
+
+[CARGO_INFO_COFFEE]
+base = "原豆或烘焙後的咖啡豆。"
+
+[CARGO_INFO_COKE]
+base = "在焦爐中加熱過的煤炭，產生幾乎純為碳的燃料。"
+
+[CARGO_INFO_COMPONENTS]
+base = "高價值工程元件，例如電氣設備、馬達、變壓器、控制裝置、液壓系統、氣壓系統、泵浦、閥門與傳動系統設備。"
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "鑄造產品，例如方塊、樑和面板。也可作為預拌混凝土，由攪拌車運送。"
+
+[CARGO_INFO_COPPER]
+base = "精製銅金屬，以線圈、錠塊等形態存在。"
+
+[CARGO_INFO_DIAMONDS]
+base = "是永久的，等等。"
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "用於烹調與消費的石油。"
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "電氣與電子元件、馬達、控制器、開關設備、燈具等"
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "礦場及類似產業所需的機械、燃料、零件、木製品、管線、爆炸物及其他供應品。"
+
+[CARGO_INFO_EXPLOSIVES]
+base = "用於採礦、建築等的民用爆炸品。"
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "農場、森林及類似產業所需的機械、燃料、零件、肥料及其他供應品。"
+
+[CARGO_INFO_FERROALLOYS]
+base = "用於鋼鐵生產。鐵與其他元素（包括錳、鎳、鉻、鋁、矽和钨）的合金。灰色塊狀物，大小和形狀類似煤塊。"
+
+[CARGO_INFO_FERROCHROME]
+base = "用於合金與不鏽鋼生產，為鉻與鐵的合金。灰色塊狀物，大小和形狀類似煤塊。"
+
+[CARGO_INFO_FLOUR]
+base = "袋裝或覆蓋式散裝運送的粉狀穀物製品，例如麵粉和澱粉。"
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "用於組裝成較大物品的金屬零件。"
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "用於食品加工的原料，例如防腐劑、調味劑、色素與加工輔助劑。"
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "在運輸與儲存期間保持冷凍狀態的食品。"
+
+[CARGO_INFO_FRUITS]
+base = "新鮮與乾燥水果，例如香蕉、柑橘類、葡萄、莓果、鳳梨、葡萄乾及類似產品。"
+
+[CARGO_INFO_GRAIN]
+base = "小麥、大麥等。"
+
+[CARGO_INFO_HARDWARE]
+base = "用於家庭與建築。工具、器皿、固定裝置、配件，材質包括金屬及其他材料。"
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "特殊碳材料，例如煅燒石油焦、瀝青、高價值瀝青和碳黑，用於冶金與化學流程。"
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "用於化學加工、金屬加工與焊接的工業氣體，以氣瓶或壓力槽車運輸。"
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "用於起重機、吊車、電梯等的圓桶、絞車、束鏈、鉤子、滑輪、液壓推桿及其他零件。"
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "用作化學原料的輕質石油分餾物，以散裝液體方式運輸。"
+
+[CARGO_INFO_LIVESTOCK]
+base = "主要用於生產肉類的是牛、豬和羊。其他動物也可能被食用。"
+
+[CARGO_INFO_LYE]
+base = "工業化學品。亦稱氫氧化鈉或燒鹼。通常以液體形式運輸。"
+
+[CARGO_INFO_KAOLIN]
+base = "工業礦物，亦稱高嶺土，主要用於紙張與塑膠生產。"
+
+[CARGO_INFO_MANGANESE]
+base = "錳礦石，主要用於鋼鐵生產。"
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "港口、碼頭及類似產業所需的機械、零件、燃料、建築材料及其他供應品。"
+
+[CARGO_INFO_METAL]
+base = "通用金屬，例如鋼、鋁或其他常見金屬。"
+
+[CARGO_INFO_METHANOL]
+base = "用作化學原料與燃料的工業酒精，以散裝液體形式運輸。"
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "用於提煉、發酵及工業用途的中間糖製品。黏性顆粒按覆蓋式散裝處理；濃糖漿則按液體處理；兩者均可包裝。"
+
+[CARGO_INFO_NITROGEN]
+base = "工業氣體。以液化壓縮氣體的形式以極低溫方式運輸。"
+
+[CARGO_INFO_OIL]
+base = "以散裝液體形式運輸的未經精製原油。"
+
+[CARGO_INFO_OXYGEN]
+base = "工業氣體。以液化壓縮氣體的形式以極低溫方式運輸。"
+
+[CARGO_INFO_PACKAGING]
+base = "箱子、瓶子、罐子、罐頭等"
+
+[CARGO_INFO_PEAT]
+base = "來自泥炭沼的生物質，用於提取燃料與園藝用途。"
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "精製石油產品，例如汽油、柴油、煤油、液化石油氣、燃料油與 bunker 燃料，以散裝液體或液化氣體形式運輸。"
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "主要用於肥料與化學品生產的工業酸，以散裝液體形式運輸。"
+
+[CARGO_INFO_PIG_IRON]
+base = "高爐製得的基本鐵，呈熔融液體或固體錠塊。"
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "棉、亞麻、黃麻及類似材料，用於生產紡織品與複合材料。"
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "用於建築、工業和農場的動力設備與機械系統。以完整單元或主要子組件形式運送。"
+
+[CARGO_INFO_PETROL]
+base = "汽油、柴油及類似燃料。"
+
+[CARGO_INFO_PLASTICS]
+base = "用於進一步加工的原生塑膠。通常以樹脂珠形式運輸。"
+
+[CARGO_INFO_PIPEWORK]
+base = "儲油槽、壓力容器、穀倉、氣瓶及管組件，用於城鎮建築、工業與農場。"
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "用於製造與加工的工業化學品，以液體、粉末、氣體或包裝貨品形式運輸。"
+
+[CARGO_INFO_PYRITE_ORE]
+base = "硫化物礦物，經熔煉後可生產各種工業產品。"
+
+[CARGO_INFO_QUICKLIME]
+base = "氧化鈣，也稱為燒石灰。以細粉形式運輸，必須保持乾燥。"
+
+[CARGO_INFO_REBAR]
+base = "薄徑粗糙鋼條，廣泛用於加固混凝土結構。以鋼卷或直條鋼條束狀方式運輸。"
+
+[CARGO_INFO_RUBBER]
+base = "主要是天然乳膠。"
+
+[CARGO_INFO_SALT]
+base = "廣泛使用的工業化學品。通常以必須保持乾燥的散裝貨物方式運輸。"
+
+[CARGO_INFO_SAND]
+base = "用於建築的粗砂，或用於製玻璃和金屬鑄造的細矽砂。以散裝或粉末形式運輸。"
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "由橡膠或類似材料製成的柔軟密封件、墊片、軟管、皮帶、墊墊、襯套等。"
+
+[CARGO_INFO_SLAG]
+base = "鋼鐵生產的廢料。"
+
+[CARGO_INFO_SODA_ASH]
+base = "工業化學品。白色粉末形態。"
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "半成品的鋼製鑄件。橫截面為長方形、正方形或圓形。"
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "粗糙鋼鑄件，需進一步加工。錠塊可能很小，也可能非常大。典型的錠塊形狀為長方形或圓形。"
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "鋼條，包括圓條、方條、扁條及其他形狀。以長直製品形式運輸。"
+
+[CARGO_INFO_STEEL_PIPE]
+base = "用於管線輸送液體、建築、工業等領域的長圓形鋼管。"
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "軋製鋼板與鋼材截面——工字梁、H 形梁、槽鋼等。以長直製品形式運輸。"
+
+[CARGO_INFO_STEEL_SHEET]
+base = "薄軋鋼板與鋼帶，廣泛用於製造其他產品。以平板或卷狀方式運輸。"
+
+[CARGO_INFO_STEEL_SLAB]
+base = "半成品的鋼製鑄件。橫截面始終為扁平長方形。"
+
+[CARGO_INFO_STEEL_TUBE]
+base = "長而中空的管狀物，橫截面可為圓形、矩形或其他形狀。用於製造結構與機械。"
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "鋼線與細棒。主要以線圈形式運輸。"
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "將鋼線桿拉製成較小直徑後，再扭結成束狀繩索所製成的繩索與纜線。"
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "結構用鋼，以軋製型材（工字梁、H 形梁等）、平板，或由鋼板焊接而成的組件與梁材形式提供。"
+
+[CARGO_INFO_SULPHUR]
+base = "廣泛使用的工業化學品。鮮黃色，有粉末或液體兩種形態。"
+
+[CARGO_INFO_TIMBER]
+base = "來自鋸木廠或類似產業的木製品。"
+
+[CARGO_INFO_TIN]
+base = "錠塊。"
+
+[CARGO_INFO_TINPLATE]
+base = "表面鍍錫以防腐蝕的薄鋼板，主要用於製造罐頭、容器及其他包裝。"
+
+[CARGO_INFO_TYRE_CORD]
+base = "用於強化輪胎的細線。以線圈形式運輸。"
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "用於車輛生產的車廂、引擎蓋、車門及類似車身結構。"
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "內燃機及相關傳動系統零件，例如變速箱與驅動軸。"
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "用於車輛生產的組件，例如車架與懸吊系統組件、電氣零件、外觀裝飾件與內裝零件。"
+
+[CARGO_INFO_VEHICLES]
+base = "主要是卡車，或是汽車，或是輕型卡車。也可能是拖拉機。"
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "用於切割和焊接金屬的供應品，例如焊條、工具，以及乙炔、氬氣、丙烷、氧氣和氮氣等工業氣體。"
+
+[CARGO_INFO_WOOD]
+base = "來自森林的原木。"
+
+[CARGO_INFO_WOOD_PULP]
+base = "經加工後的木纖維，主要用於紙張生產，以捆包或散裝紙漿形式運輸。"
+
+[CARGO_INFO_WOOL]
+base = "包。"
+
+[CARGO_INFO_ZINC]
+base = "錠塊。"
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

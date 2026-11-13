@@ -1,0 +1,91 @@
+=== EXACT DUPLICATE COLLAPSE (>=3 distinct English -> same exact translation) ===
+indonesian | tr=pabrik | distinct_en=4 | slots=5
+    STR_STATION_FACTORY.base | EN: Factory | TR: Pabrik
+    STR_STATION_HEAVY_INDUSTRY_2.base | EN: Works | TR: Pabrik
+    STR_STATION_MILL.base | EN: Mill | TR: Pabrik
+    STR_STATION_PLANT.base | EN: Plant | TR: Pabrik
+    STR_STATION_WORKS.base | EN: Works | TR: Pabrik
+korean | tr={tinyfont}염 | distinct_en=3 | slots=3
+    STR_CARGO_CHLORINE.cid | EN: {TINYFONT}CH | TR: {TINYFONT}염
+    STR_CARGO_PHOSPHATE.cid | EN: {TINYFONT}PH | TR: {TINYFONT}염
+    STR_CARGO_SALT.cid | EN: {TINYFONT}NA | TR: {TINYFONT}염
+korean | tr={tinyfont}황 | distinct_en=3 | slots=3
+    STR_CARGO_PYRITE_ORE.cid | EN: {TINYFONT}PY | TR: {TINYFONT}황
+    STR_CARGO_SULPHUR.cid | EN: {TINYFONT}SU | TR: {TINYFONT}황
+    STR_CARGO_SULPHURIC_ACID.cid | EN: {TINYFONT}SD | TR: {TINYFONT}황
+TOTAL exact dup groups 3
+
+=== DUAL extra_strings DIFF SAMPLES ===
+arabic | ar vs arabic | diff=0/139 | english_on_ar=0 english_on_arabic=0
+french | fr vs french | diff=0/139 | english_on_fr=0 english_on_french=0
+german | de vs german | diff=0/139 | english_on_de=0 english_on_german=0
+korean | ko vs korean | diff=0/139 | english_on_ko=0 english_on_korean=0
+portuguese | portuguese vs pt | diff=0/139 | english_on_portuguese=0 english_on_pt=0
+simplified_chinese | simplified_chinese vs zh | diff=0/139 | english_on_simplified_chinese=0 english_on_zh=0
+spanish | es vs spanish | diff=0/139 | english_on_es=0 english_on_spanish=0
+
+=== render_site.py lines mentioning extra_strings_ ===
+    "simplified_chinese": ("zh", "extra_strings_zh.toml", "DOC_TRANS_LANG_ZH", "zh"),
+    "french": ("fr", "extra_strings_fr.toml", "DOC_TRANS_LANG_FR", "fr"),
+    "german": ("de", "extra_strings_de.toml", "DOC_TRANS_LANG_DE", "de"),
+    "spanish": ("es", "extra_strings_es.toml", "DOC_TRANS_LANG_ES", "es"),
+    "portuguese": ("pt", "extra_strings_pt.toml", "DOC_TRANS_LANG_PT", "pt"),
+    "korean": ("ko", "extra_strings_ko.toml", "DOC_TRANS_LANG_KO", "ko"),
+    "arabic": ("ar", "extra_strings_ar.toml", "DOC_TRANS_LANG_AR", "ar"),
+    "afrikaans": ("af", "extra_strings_afrikaans.toml", "DOC_TRANS_LANG_AFRIKAANS", "af"),
+    "belarusian": ("be", "extra_strings_belarusian.toml", "DOC_TRANS_LANG_BELARUSIAN", "be"),
+    "catalan": ("ca", "extra_strings_catalan.toml", "DOC_TRANS_LANG_CATALAN", "ca"),
+    "croatian": ("hr", "extra_strings_croatian.toml", "DOC_TRANS_LANG_CROATIAN", "hr"),
+    "czech": ("cs", "extra_strings_czech.toml", "DOC_TRANS_LANG_CZECH", "cs"),
+    "danish": ("da", "extra_strings_danish.toml", "DOC_TRANS_LANG_DANISH", "da"),
+    "dutch": ("nl", "extra_strings_dutch.toml", "DOC_TRANS_LANG_DUTCH", "nl"),
+    "esperanto": ("eo", "extra_strings_esperanto.toml", "DOC_TRANS_LANG_ESPERANTO", "eo"),
+    "estonian": ("et", "extra_strings_estonian.toml", "DOC_TRANS_LANG_ESTONIAN", "et"),
+    "finnish": ("fi", "extra_strings_finnish.toml", "DOC_TRANS_LANG_FINNISH", "fi"),
+    "gaelic": ("gd", "extra_strings_gaelic.toml", "DOC_TRANS_LANG_GAELIC", "gd"),
+    "galician": ("gl", "extra_strings_galician.toml", "DOC_TRANS_LANG_GALICIAN", "gl"),
+    "hungarian": ("hu", "extra_strings_hungarian.toml", "DOC_TRANS_LANG_HUNGARIAN", "hu"),
+    "indonesian": ("id", "extra_strings_indonesian.toml", "DOC_TRANS_LANG_INDONESIAN", "id"),
+    "italian": ("it", "extra_strings_italian.toml", "DOC_TRANS_LANG_ITALIAN", "it"),
+    "japanese": ("ja", "extra_strings_japanese.toml", "DOC_TRANS_LANG_JAPANESE", "ja"),
+    "latin": ("la", "extra_strings_latin.toml", "DOC_TRANS_LANG_LATIN", "la"),
+    "luxembourgish": ("lb", "extra_strings_luxembourgish.toml", "DOC_TRANS_LANG_LUXEMBOURGISH", "lb"),
+    "norwegian_bokmal": ("nb", "extra_strings_norwegian_bokmal.toml", "DOC_TRANS_LANG_NORWEGIAN_BOKMAL", "nb"),
+    "polish": ("pl", "extra_strings_polish.toml", "DOC_TRANS_LANG_POLISH", "pl"),
+    "portuguese_BR": ("pt-br", "extra_strings_portuguese_BR.toml", "DOC_TRANS_LANG_PORTUGUESE_BR", "pt-br"),
+    "romanian": ("ro", "extra_strings_romanian.toml", "DOC_TRANS_LANG_ROMANIAN", "ro"),
+    "russian": ("ru", "extra_strings_russian.toml", "DOC_TRANS_LANG_RUSSIAN", "ru"),
+    "serbian": ("sr", "extra_strings_serbian.toml", "DOC_TRANS_LANG_SERBIAN", "sr"),
+    "traditional_chinese": ("zh-hant", "extra_strings_traditional_chinese.toml", "DOC_TRANS_LANG_TRADITIONAL_CHINESE", "zh-hant"),
+    "slovak": ("sk", "extra_strings_slovak.toml", "DOC_TRANS_LANG_SLOVAK", "sk"),
+    "spanish_MX": ("es-mx", "extra_strings_spanish_MX.toml", "DOC_TRANS_LANG_SPANISH_MX", "es-mx"),
+    "swedish": ("sv", "extra_strings_swedish.toml", "DOC_TRANS_LANG_SWEDISH", "sv"),
+    "tamil": ("ta", "extra_strings_tamil.toml", "DOC_TRANS_LANG_TAMIL", "ta"),
+    "turkish": ("tr", "extra_strings_turkish.toml", "DOC_TRANS_LANG_TURKISH", "tr"),
+    "welsh": ("cy", "extra_strings_welsh.toml", "DOC_TRANS_LANG_WELSH", "cy"),
+    extra_strings_source = tomllib.load(fp)
+    for node_name, node_value in extra_strings_source.items():
+
+=== TRADITIONAL-CHINESE simplified-char census ===
+total_lines 21 chars {"系": 19, "只": 2, "卷": 2}
+  src/docs/lang/traditional_chinese.toml | 只 | DOC_GS_SETUP_B3 = "同一時間只能啟用一種經濟。"
+  src/docs/lang/traditional_chinese.toml | 系 | DOC_GS_ADVANCED_P1 = "除了經濟參數外，CIRS 還提供一系列其他參數。"
+  src/docs/lang/traditional_chinese.toml | 系 | DOC_CR_COMPILING_P1 = "CIRS 原始碼包含一個用於便捷建置的 makefile。這要求具備「Make」，它通常由 Linux/Unix 的 ports tree、macOS 的 Xcode 以及 Windows 上的其他建置系統提供。"
+  src/grf/lang/traditional_chinese.toml | 只 | base = "{}{BLACK}位置：{YELLOW}只能在雪地上獲得資金。"
+  src/grf/lang/traditional_chinese.toml | 系 | name = "儲油槽與管線系統"
+  src/grf/lang/traditional_chinese.toml | 系 | name = "引擎與傳動系統"
+  src/grf/lang/traditional_chinese.toml | 系 | cargo_unit = "{WEIGHT} 引擎與傳動系統"
+  src/grf/lang/traditional_chinese.toml | 系 | base = "電力系統工廠"
+  src/grf/lang/traditional_chinese.toml | 系 | base = "傳動系統"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "複雜經濟體系，擁有眾多產業與貨物。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "簡單經濟體系。靈感來自芬蘭、加拿大北部和西伯利亞北部。最適合搭配亞寒帶氣候使用。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "簡單經濟體系。靈感來自英國西南部。最適合搭配溫帶氣候使用。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "簡單經濟體系。靈感來自阿根廷、秘魯和智利。最適合搭配亞熱帶氣候使用。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "複雜經濟體系，擁有眾多產業與貨物。靈感來自非洲中西部。最適合搭配亞熱帶氣候使用。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "複雜經濟體系，包含鐵、鋼與重工業製造業。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "高價值工程元件，例如電氣設備、馬達、變壓器、控制裝置、液壓系統、氣壓系統、泵浦、閥門與傳動系統設備。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "用於建築、工業和農場的動力設備與機械系統。以完整單元或主要子組件形式運送。"
+  src/docs/extra_strings_traditional_chinese.toml | 卷 | base = "薄徑粗糙鋼條，廣泛用於加固混凝土結構。以鋼卷或直條鋼條束狀方式運輸。"
+  src/docs/extra_strings_traditional_chinese.toml | 卷 | base = "薄軋鋼板與鋼帶，廣泛用於製造其他產品。以平板或卷狀方式運輸。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "內燃機及相關傳動系統零件，例如變速箱與驅動軸。"
+  src/docs/extra_strings_traditional_chinese.toml | 系 | base = "用於車輛生產的組件，例如車架與懸吊系統組件、電氣零件、外觀裝飾件與內裝零件。"

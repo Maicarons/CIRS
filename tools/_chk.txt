@@ -1,0 +1,7 @@
+[TRANSLATIONS] FAILED
+  - G:\GitHub\CIRS\src\gs\lang\spanish.toml: 键 STR_TOWN_STORY_PAGE_TEST.base 的占位符不一致 (Counter({'BLACK': 1, 'WHITE': 1, 'RAW_STRING': 1}) != Counter({'BLACK': 1}))
+  - G:\GitHub\CIRS\src\gs\lang\spanish.toml: 键 STR_TOWN_STORY_PAGE_REQUIRED_CARGO_STATS.base 的占位符不一致 (Counter({'BLACK': 1, 'WHITE': 1, 'CARGO_LONG': 1}) != Counter({'BLACK': 2, 'WHITE': 1}))
+  - G:\GitHub\CIRS\src\gs\lang\spanish.toml: 键 STR_TOWN_STORY_INDUSTRY_REPORT_ACCEPTED_TITLE.base 的占位符不一致 (Counter({'BLACK': 1}) != Counter({'BLACK': 1, 'WHITE': 1, 'CARGO_LONG': 1}))
+  - G:\GitHub\CIRS\src\gs\lang\spanish.toml: 键 STR_MANUFACTURERS_STORY_PAGE_TEST.base 的占位符不一致 (Counter({'BLACK': 1, 'WHITE': 1, 'RAW_STRING': 1}) != Counter({'BLACK': 1}))
+  - G:\GitHub\CIRS\src\gs\lang\spanish.toml: 键 STR_MANUFACTURERS_STORY_PAGE_VALID_TOWNS.base 的占位符不一致 (Counter({'BLACK': 1, 'WHITE': 1, 'RAW_STRING': 1}) != Counter({'RAW_STRING': 2, 'BLACK': 1, 'WHITE': 1}))
+  - G:\GitHub\CIRS\src\gs\lang\spanish.toml: 键 STR_CABBAGE_CLICKABLE_TEST.base 的占位符不一致 (Counter({'BLACK': 2, 'WHITE': 1}) != Counter({'BLACK': 1, 'WHITE': 1, 'RAW_STRING': 1}))

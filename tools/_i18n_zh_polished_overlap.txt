@@ -1,0 +1,1 @@
+224 src/grf/lang/simplified_chinese.toml STR_BADGE_SEA.base HEAD='海洋' POLISHED='海'

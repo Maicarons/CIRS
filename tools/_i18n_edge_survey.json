@@ -1,0 +1,353 @@
+{
+ "afrikaans": {
+  "STR_GRF_NAME.base": "CIRS-gemeenskapsbedryfsvervangingsstel",
+  "STR_PARAM_DESC_ECONOMIES.base": "Elke ekonomie bied ’n ander kombinasie van vragte en nywerhede.{}{}Vir spelers wat eenvoudige spel wil hê, bevat {SILVER}Basiese {BLACK}ekonomieë minder nywerhede en vragte as ander FIRS-ekonomieë.{}{}Die FIRS-webwerf verskaf gedetailleerde inligting oor elke ekonomie.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktiveer CIRS via die ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-instellingvenster",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Oorspronklike-boom-opsporing",
+  "DOC_HOME_WHY_3_DESC": "Die volle FIRS git-geskiedenis word bewaar, sodat toekomstige veranderinge van die oorspronklike boom saamgesmelt kan word in plaas van afgevurk."
+ },
+ "arabic": {
+  "STR_GRF_NAME.base": "مجموعة استبدال الصناعة المجتمعية لـ CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "توفر كل اقتصاد مزيجًا مختلفًا من البضائع والصناعات.{}{}بالنسبة للاعبين الذين يرغبون في تجربة لعب بسيطة، تحتوي اقتصادات {SILVER}الأساسية {BLACK}على صناعات وبضائع أقل من اقتصادات CIRS الأخرى.{}{}يوفر موقع CIRS الإلكتروني معلومات مفصلة عن كل اقتصاد.",
+  "DOC_GS_SETUP_B1_PREFIX": "فعّل CIRS عبر ",
+  "DOC_GS_SETUP_B1_LINK": "نافذة إعدادات NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "متابعة المنبع",
+  "DOC_HOME_WHY_3_DESC": "يُحفظ سجل git الكامل لـ FIRS، بحيث يمكن دمج تغييرات المنبع المستقبلية بدلاً من الانشطار عبر شوكة."
+ },
+ "belarusian": {
+  "STR_GRF_NAME.base": "Набор CIRS для замены аб’ектаў прамысловасці супольнасці",
+  "STR_PARAM_DESC_ECONOMIES.base": "Кожная эканоміка прадстаўляе розную камбінацыю грузаў і прадпрыемстваў.{}{}Для гульцоў, якія жадаюць простую эканоміку, {SILVER}звычайная {BLACK}эканоміка змяшчае меней прадпрыемстваў і грузаў, чым іншыя эканомікі FIRS.{}{} Веб-сайт FIRS прадугледжвае дэтальную інфармацыю пра кожную эканоміку.",
+  "DOC_GS_SETUP_B1_PREFIX": "Актывуйце CIRS праз ",
+  "DOC_GS_SETUP_B1_LINK": "акно налад NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Адсочванне upstream",
+  "DOC_HOME_WHY_3_DESC": "Поўная гісторыя git FIRS захоўваецца, таму будучыя змены upstream могуць быць аб'яднаны, а не адгалінаваны."
+ },
+ "catalan": {
+  "STR_GRF_NAME.base": "Conjunt de substitució d'indústries comunitàries de CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Cada economia ofereix una combinació diferent de càrregues i indústries.{}{}Per als jugadors que vulguin una jugabilitat senzilla, les economies {SILVER}Bàsiques {BLACK}contenen menys indústries i càrregues que altres economies de CIRS.{}{}El lloc web de CIRS proporciona informació detallada sobre cada economia.",
+  "DOC_GS_SETUP_B1_PREFIX": "Activa CIRS a través de la ",
+  "DOC_GS_SETUP_B1_LINK": "finestra de configuració de NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Seguiment de la font original",
+  "DOC_HOME_WHY_3_DESC": "L'historial git complet de FIRS es conserva, perquè els futurs canvis de la font original es puguin fusionar en lloc de bifurcar-se."
+ },
+ "croatian": {
+  "STR_GRF_NAME.base": "Kompletni skup zamjene industrija za zajednicu CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Svaka ekonomija daje različite kombinacije tereta i industrija.{}{}Za igrače koji žele jednostavnost igre, {SILVER}Osnovne {BLACK} ekonomije imaju manje industrija i tereta nego druge FIRS ekonomije.{}{}Na FIRS web stranici se nalaze detaljne informacije o svakoj vrsti ekonomije.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivirajte CIRS putem ",
+  "DOC_GS_SETUP_B1_LINK": "prozora postavki NewGRF-a",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Praćenje nadređenog projekta",
+  "DOC_HOME_WHY_3_DESC": "Cijela povijest git FIRS-a sačuvana je, tako da se buduće promjene iz nadređenog projekta mogu spojiti umjesto razgranati."
+ },
+ "czech": {
+  "STR_GRF_NAME.base": "Nahradní sada komunitního průmyslu CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Každá ekonomika poskytuje různou kombinaci nákladů a průmyslu.{}{} {SILVER}Základní {BLACK}ekonomiky obsahují méně průmyslu a nákladů než ostatní FIRS ekonomiky a jsou tedy vhodné i pro začínající hráče.{}{}Detailní informace ke každé ekonomice jsou k dispozici na stránkách FIRSu.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivujte CIRS prostřednictvím ",
+  "DOC_GS_SETUP_B1_LINK": "okna nastavení NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Sledování nadřazeného projektu",
+  "DOC_HOME_WHY_3_DESC": "Celá historie git FIRS je zachována, takže budoucí změny z nadřazeného projektu lze sloučit místo vytvoření forku."
+ },
+ "danish": {
+  "STR_GRF_NAME.base": "CIRS Community-Industri-Ersatzpakke",
+  "STR_PARAM_DESC_ECONOMIES.base": "Hver økonomi tilbyder en anden kombination af laster og industrier.{}{}For spillere, der ønsker en enkel spiloplevelse, indeholder {SILVER}grundlæggende {BLACK}økonomier færre industrier og laster end andre CIRS-økonomier.{}{}CIRS' hjemmeside indeholder detaljerede oplysninger om hver økonomi.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivér CIRS via ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-indstillingerne",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Upstream-sporende",
+  "DOC_HOME_WHY_3_DESC": "Den fulde FIRS git-historik bevares, så fremtidige upstream-ændringer kan flettes i stedet for at blive fra-forket."
+ },
+ "dutch": {
+  "STR_GRF_NAME.base": "CIRS Community-Industrie-Ersatzset",
+  "STR_PARAM_DESC_ECONOMIES.base": "Elke economie heeft een andere combinatie van goederen en industrieën.{}{}Voor spelers die een eenvoudig spelverloop willen zijn er {SILVER}basis{BLACK} economieën die minder industrieën en goederen bevatten.{}{}De FIRS website (Engelstalig) geeft gedetailleerde informatie over elke economie.",
+  "DOC_GS_SETUP_B1_PREFIX": "Activeer CIRS via het ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-instellingenvenster",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Upstream-volging",
+  "DOC_HOME_WHY_3_DESC": "De volledige FIRS git-geschiedenis wordt behouden, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van weggeforkt."
+ },
+ "english": {
+  "STR_GRF_NAME.base": "CIRS - Ensemble d’industries communautaires de remplacement",
+  "STR_PARAM_DESC_ECONOMIES.base": "Chaque modèle économique présente des industries et des cargaisons différentes.{}{}Pour les joueurs intéressés par un jeu plus simple, les économies {SILVER}\"Basiques\"{BLACK} contiennent moins d'industries et de cargaisons que les autres économies \"FIRS\".{}{}Le site web de FIRS procure des informations détaillées sur chaque modèle économique.",
+  "DOC_GS_SETUP_B1_PREFIX": "Activez CIRS via la ",
+  "DOC_GS_SETUP_B1_LINK": "fenêtre de paramètres NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Suivi amont",
+  "DOC_HOME_WHY_3_DESC": "L'historique git complet de FIRS est préservé, afin que les futurs changements amont puissent être fusionnés plutôt que séparés par un fork."
+ },
+ "esperanto": {
+  "STR_GRF_NAME.base": "Komunuma Industria Anstataŭiga Arĝo de CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Ĉiu ekonomio provizas malsaman kombinaĵon da ŝarĝoj kaj industrioj.{}{}Por ludantoj, kiuj volas simplan ludadon, la {SILVER}bazaj {BLACK}ekonomioj enhavas malpli da industrioj kaj ŝarĝoj ol aliaj CIRS-ekonomioj.{}{}La retejo de CIRS provizas detalajn informojn pri ĉiu ekonomio.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivigu CIRS per la ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-agorda fenestro",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Sekvado de la supra fluo",
+  "DOC_HOME_WHY_3_DESC": "La plena FIRS git-historio estas konservita, tiel ke estontaj ŝanĝoj de la supra fluo povas esti kunfanditaj anstataŭ forki."
+ },
+ "estonian": {
+  "STR_GRF_NAME.base": "CIRS-i kogukonna tööstuse asendussett",
+  "STR_PARAM_DESC_ECONOMIES.base": "Iga majandus pakub erinevat kauba- ja tööstusharude kombinatsiooni.{}{}Mängijatele, kes soovivad lihtsat mänguprotsessi, sisaldavad {SILVER}põhi- {BLACK}majandused vähem tööstusharusid ja kaupu kui teised CIRS-i majandused.{}{}CIRS-i veebisait pakub üksikasjalikku teavet iga majanduse kohta.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktiveeri CIRS läbi ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF seadistuste akna",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Ülemharu jälgimine",
+  "DOC_HOME_WHY_3_DESC": "Kogu FIRSi git ajalugu säilitatakse, nii et tulevased ülemharu muudatused saab ühendada haru loomise asemel."
+ },
+ "finnish": {
+  "STR_GRF_NAME.base": "CIRS-yhteisöteollisuuden korvaussetti",
+  "STR_PARAM_DESC_ECONOMIES.base": "Jokainen talousvaihtoehto mahdollistaa erilaisen yhdistelmän rahteja ja teollisuuksia.{}{}Yksinkertaisesta pelityylistä pitävien kannattaa kokeilla {SILVER}pelkistettyjä {BLACK}talouksia, joissa on vähemmän teollisuustyyppejä ja rahteja verrattuna muihin FIRS:in talouksiin.{}{}FIRS:in kotisivu antaa tarkempaa tietoa erilaisista talouksista.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivoi CIRS ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-asetusikkunan",
+  "DOC_GS_SETUP_B1_SUFFIX": " kautta.",
+  "DOC_HOME_WHY_3_TITLE": "Ylävirran seuranta",
+  "DOC_HOME_WHY_3_DESC": "Koko FIRS git-historia säilytetään, jotta tulevat ylävirran muutokset voidaan yhdistää sen sijaan, että ne haarautuisivat erilleen."
+ },
+ "french": {
+  "STR_GRF_NAME.base": "CIRS - Ensemble d’industries communautaires de remplacement",
+  "STR_PARAM_DESC_ECONOMIES.base": "Chaque modèle économique présente des industries et des cargaisons différentes.{}{}Pour les joueurs intéressés par un jeu plus simple, les économies {SILVER}\"Basiques\"{BLACK} contiennent moins d'industries et de cargaisons que les autres économies \"FIRS\".{}{}Le site web de FIRS procure des informations détaillées sur chaque modèle économique.",
+  "DOC_GS_SETUP_B1_PREFIX": "Activez CIRS via la ",
+  "DOC_GS_SETUP_B1_LINK": "fenêtre de paramètres NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Suivi amont",
+  "DOC_HOME_WHY_3_DESC": "L'historique git complet de FIRS est préservé, afin que les futurs changements amont puissent être fusionnés plutôt que séparés par un fork."
+ },
+ "gaelic": {
+  "STR_GRF_NAME.base": "Seata Cuir-rèiteachaidh Gnìomhachas Coimhearsnachd CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Tha cothlamadh eadar-dhealaichte de luchd-giùlain agus gnìomhachasan aig gach eaconamaidh.{}{}Do chluicheadairean a tha ag iarraidh cluich sìmplidh, tha nas lugha de ghnìomhachasan agus luchd-giùlain ann an eaconamaidhean {SILVER}Bunasach {BLACK}CIRS na tha ann an eaconamaidhean CIRS eile.{}{}Tha an làrach-lìn CIRS a’ toirt seachad mion-fhiosrachadh mu gach eaconamaidh.",
+  "DOC_GS_SETUP_B1_PREFIX": "Cuir CIRS an comas tro ",
+  "DOC_GS_SETUP_B1_LINK": "uinneag roghainnean NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Tracadh air an tùs tùsail",
+  "DOC_HOME_WHY_3_DESC": "Tha eachdraidh làn git FIRS air a glèidheadh, gus am faodar atharraichean bhon tùs tùsail a chur còmhla an àite fork a chruthachadh."
+ },
+ "galician": {
+  "STR_GRF_NAME.base": "Conxunto de substitución industrial comunitaria de CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Cada un dos tipos de economía contén unha combinación diferente de industrias e cargas.{}{}Para xogadores que busquen partidas máis sinxelas, as {BLACK}economías {SILVER}básicas conteñen menos industrias e cargas que outras economías FIRS.{}{} A páxina web de FIRST proporciona información máis detallada sobre cada economía.",
+  "DOC_GS_SETUP_B1_PREFIX": "Activa CIRS a través da ",
+  "DOC_GS_SETUP_B1_LINK": "xanela de configuración de NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Seguimento da orixe orixinal",
+  "DOC_HOME_WHY_3_DESC": "O historial git completo de FIRS consérvase, para que os futuros cambios da orixe orixinal poidan fusionarse no canto de bifurcarse."
+ },
+ "german": {
+  "STR_GRF_NAME.base": "CIRS - Community Industry Replacement Set",
+  "STR_PARAM_DESC_ECONOMIES.base": "Jede Wirtschaft bietet eine andere Kombination aus Gütern und Industrien.{}{}Für Spieler, die einfaches Spiel bevorzugen, enthalten {SILVER}Basis-{BLACK}Wirtschaften weniger Industrien und Güter als andere CIRS-Wirtschaften.{}{}Die CIRS-Website bietet detaillierte Informationen zu jeder Wirtschaft.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktiviere CIRS über das ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-Einstellungsfenster",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Upstream-Verfolgung",
+  "DOC_HOME_WHY_3_DESC": "Der vollständige FIRS-Git-Verlauf wird beibehalten, sodass künftige Upstream-Änderungen zusammengeführt und nicht weggeforkt werden können."
+ },
+ "hungarian": {
+  "STR_GRF_NAME.base": "CIRS Közösségi Ipari Pótlócsomag",
+  "STR_PARAM_DESC_ECONOMIES.base": "Az egyes gazdaságokban különféle rakományok és gazdasági épületek érhetőek el.{}{}Az egyszerűbb játékmenet érdekében az {SILVER}alap {BLACK}gazdaságok kevesebb rakományt és gazdasági épületet tartalmaznak, mint a többi FIRS gazdaság.{}{}A FIRS weboldalán részletes leírás található mindegyik gazdaságról.",
+  "DOC_GS_SETUP_B1_PREFIX": "Engedélyezd a CIRS-t a ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF beállítási ablakán",
+  "DOC_GS_SETUP_B1_SUFFIX": " keresztül.",
+  "DOC_HOME_WHY_3_TITLE": "Felső ág követése",
+  "DOC_HOME_WHY_3_DESC": "A teljes FIRS git előzmény megőrzésre kerül, így a jövőbeli felső ági változások egyesíthetők ahelyett, hogy elágaztatnánk."
+ },
+ "indonesian": {
+  "STR_GRF_NAME.base": "Set Pengganti Industri Komunitas CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Setiap ekonomi menyediakan kombinasi kargo dan industri yang berbeda.{}{}Bagi pemain yang menginginkan gameplay sederhana, ekonomi {SILVER}Dasar {BLACK}memiliki lebih sedikit industri dan kargo dibandingkan ekonomi CIRS lainnya.{}{}Situs web CIRS menyediakan informasi terperinci tentang setiap ekonomi.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktifkan CIRS melalui ",
+  "DOC_GS_SETUP_B1_LINK": "jendela pengaturan NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Pelacakan hulu",
+  "DOC_HOME_WHY_3_DESC": "Seluruh riwayat git FIRS disimpan, sehingga perubahan hulu di masa depan dapat digabungkan alih-alih membuat fork."
+ },
+ "italian": {
+  "STR_GRF_NAME.base": "CIRS – Set di sostituzione per industrie comunitarie",
+  "STR_PARAM_DESC_ECONOMIES.base": "Ogni economia dà una combinazione diversa di merci e industrie.{}{}Per uno schema di gioco semplificato, un'economia di {SILVER}base {BLACK} comprende meno industrie e merci rispetto ad altre economie di FIRS.{}{}Sul sito web di FIRS si trovano informazioni dettagliate su ogni economia.",
+  "DOC_GS_SETUP_B1_PREFIX": "Attiva CIRS tramite la ",
+  "DOC_GS_SETUP_B1_LINK": "finestra delle impostazioni NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Tracciamento upstream",
+  "DOC_HOME_WHY_3_DESC": "L'intera cronologia git di FIRS è preservata, così i futuri cambiamenti upstream possono essere uniti invece di essere separati con un fork."
+ },
+ "japanese": {
+  "STR_GRF_NAME.base": "CIRS コミュニティ産業置換セット",
+  "STR_PARAM_DESC_ECONOMIES.base": "各経済圏は、異なる貨物と産業の組み合わせを提供します。{}{}シンプルなゲームプレイを希望するプレイヤー向けに、{SILVER}Basic {BLACK}経済圏には、他のCIRS経済圏よりも少ない産業と貨物が含まれています。{}{}CIRSのウェブサイトでは、各経済圏に関する詳細な情報が提供されています。",
+  "DOC_GS_SETUP_B1_PREFIX": "CIRSは ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF設定ウィンドウ",
+  "DOC_GS_SETUP_B1_SUFFIX": " から有効化します。",
+  "DOC_HOME_WHY_3_TITLE": "アップストリームの追跡",
+  "DOC_HOME_WHY_3_DESC": "FIRSの完全なgit履歴が保持されているため、フォークするのではなく、将来のアップストリームの変更をマージできます。"
+ },
+ "korean": {
+  "STR_GRF_NAME.base": "CIRS 커뮤니티 산업 교체 세트",
+  "STR_PARAM_DESC_ECONOMIES.base": "각각의 경제 설정에 따라 화물과 산업시설의 구성이 달라집니다.{}{}간단한 게임 플레이를 원하는 플레이어의 경우, 다른 FIRS 경제에 비해 '{SILVER}기본{BLACK}' 경제가 산업 시설과 화물의 종류가 적으므로 이를 사용하십시오.{}{} FIRS 웹 사이트에서 각 경제 설정에 대한 상세 정보를 확인하실 수 있습니다.",
+  "DOC_GS_SETUP_B1_PREFIX": "다음을 통해 CIRS를 활성화하세요: ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF 설정 창",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "업스트림 추적",
+  "DOC_HOME_WHY_3_DESC": "전체 FIRS git 기록이 보존되므로, 향후 업스트림 변경 사항을 포크하지 않고 병합할 수 있습니다."
+ },
+ "latin": {
+  "STR_GRF_NAME.base": "CIRS Complementum Industrialium Communium Substitutionis",
+  "STR_PARAM_DESC_ECONOMIES.base": "Oeconomiae produnt varia onera et variae industriae.{}{}Ei qui vult ludum simplicem habere debet eligere oeconomiam {SILVER}simplicem{BLACK}, nam habent pauciores industrias oneraque quam aliae oeconomiae.{}{}Situs Interretialis FIRS habet plures descriptiones oeconomiarum.",
+  "DOC_GS_SETUP_B1_PREFIX": "CIRS activa per ",
+  "DOC_GS_SETUP_B1_LINK": "fenestram configurationis NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Vestigium Upstream",
+  "DOC_HOME_WHY_3_DESC": "Tota historia git FIRS conservatur, ita mutationes futurae upstream coniungi possunt potius quam furculari."
+ },
+ "luxembourgish": {
+  "STR_GRF_NAME.base": "CIRS Community-Industrie-Ersatzset",
+  "STR_PARAM_DESC_ECONOMIES.base": "All Wiertschaftstyp stellt verschidden Industrien a Frachtarten bereed.{}{}De Wiertschaftstyp {SILVER}Einfach {BLACK}bidd manner Industrien a Frachtarten un, wéi déi aner Wiertschaftstypen.{}{}Op der FIRS Websäit kann een weider Informatiounen iwwer déi verschidden Wiertschaftstypen noliesen.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivéiert CIRS iwwert d'",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-Astellungsfenster",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Original-Quell Verfollegung",
+  "DOC_HOME_WHY_3_DESC": "D'ganz FIRS git Geschicht gëtt behal, sou datt zukünfteg Ännerungen vun der Original-Quell kënnen fusionnéiert ginn amplaz ofzezwéngen."
+ },
+ "norwegian_bokmal": {
+  "STR_GRF_NAME.base": "CIRS – samfunnets industriutskiftingspakke",
+  "STR_PARAM_DESC_ECONOMIES.base": "Hver økonomi tilbyr en ulik kombinasjon av varer og industrier.{}{}For spillere som ønsker et enklere spill, har {SILVER}basis{BLACK}økonomiene færre industrier og varer enn andre økonomier.{}{}Nettstedet for FIRS har detaljert informasjon om hver enkelt økonomi.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktiver CIRS via ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-innstillingene",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Oppstrøms-sporing",
+  "DOC_HOME_WHY_3_DESC": "Hele FIRS git-historikken bevares, slik at fremtidige oppstrømsendringer kan flettes i stedet for å bli forgreninger."
+ },
+ "polish": {
+  "STR_GRF_NAME.base": "Zestaw zastępczy dla społeczności przemysłowej CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Każda z dostępnych w FIRS ekonomii oferuje inną kombinację towarów i fabryk.{}{}Dla graczy preferujących proste zasady gry zalecany jest wybór ekonomii {SILVER}Zwykła. {BLACK}Zawiera ona mniej fabryk i towarów niż inne ekonomie FIRS.{}{}Strona internetowa FIRS zawiera szczegółowe informacje na temat każdej z ekonomii.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktywuj CIRS przez ",
+  "DOC_GS_SETUP_B1_LINK": "okno ustawień NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Śledzenie upstream",
+  "DOC_HOME_WHY_3_DESC": "Pełna historia git FIRS jest zachowywana, dzięki czemu przyszłe zmiany z upstream mogą być scalane zamiast być rozwidlane."
+ },
+ "portuguese": {
+  "STR_GRF_NAME.base": "Conjunto CIRS de Substituição de Indústrias da Comunidade",
+  "STR_PARAM_DESC_ECONOMIES.base": "Cada economia fornece uma combinação diferente de cargas e indústrias.{}{}Para jogadores que querem uma jogabilidade simples, economias {SILVER}Básicas {BLACK}contêm menos indústrias e cargas do que outras economias do CIRS.{}{}O site do CIRS fornece informações detalhadas sobre cada economia.",
+  "DOC_GS_SETUP_B1_PREFIX": "Ative o CIRS através da ",
+  "DOC_GS_SETUP_B1_LINK": "janela de configurações de NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Acompanhamento da origem",
+  "DOC_HOME_WHY_3_DESC": "O histórico git completo do FIRS é preservado, para que futuras mudanças da origem possam ser mescladas em vez de separadas por fork."
+ },
+ "portuguese_BR": {
+  "STR_GRF_NAME.base": "Conjunto de Substituição de Indústrias Comunitárias CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Cada economia oferece uma combinação diferente de cargas e indústrias.{}{}Para jogadores que desejam uma jogabilidade simples, as economias {SILVER}Básicas {BLACK}contêm menos indústrias e cargas do que outras economias do CIRS.{}{}O site do CIRS fornece informações detalhadas sobre cada economia.",
+  "DOC_GS_SETUP_B1_PREFIX": "Ative o CIRS pela ",
+  "DOC_GS_SETUP_B1_LINK": "janela de configuração de NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Acompanhamento da origem",
+  "DOC_HOME_WHY_3_DESC": "Todo o histórico git do FIRS é preservado, para que futuras mudanças da origem possam ser mescladas em vez de bifurcadas."
+ },
+ "romanian": {
+  "STR_GRF_NAME.base": "Setul de înlocuire a industriilor comunitare CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Fiecare economie oferă o combinație diferită de mărfuri și industrii.{}{}Pentru jucătorii care doresc un mod de joc simplu, economiile {SILVER}de bază {BLACK}conțin mai puține industrii și mărfuri decât alte economii CIRS.{}{}Site-ul web CIRS oferă informații detaliate despre fiecare economie.",
+  "DOC_GS_SETUP_B1_PREFIX": "Activează CIRS prin ",
+  "DOC_GS_SETUP_B1_LINK": "fereastra de setări NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Urmărirea sursei originale",
+  "DOC_HOME_WHY_3_DESC": "Întregul istoric git FIRS este păstrat, astfel încât modificările viitoare din sursa originală pot fi îmbinate în loc să fie bifurcate."
+ },
+ "russian": {
+  "STR_GRF_NAME.base": "Набор CIRS для замены объектов промышленности в сообществе",
+  "STR_PARAM_DESC_ECONOMIES.base": "Каждая экономика предлагает разное сочетание грузов и отраслей.{}{}Для игроков, предпочитающих простой игровой процесс, {SILVER}базовые {BLACK}экономики содержат меньше отраслей и грузов, чем другие экономики FIRS.{}{}На сайте FIRS представлена подробная информация о каждой экономике.",
+  "DOC_GS_SETUP_B1_PREFIX": "Активируйте CIRS через ",
+  "DOC_GS_SETUP_B1_LINK": "окно настроек NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Отслеживание основной ветки",
+  "DOC_HOME_WHY_3_DESC": "Вся история git FIRS сохранена, поэтому будущие изменения основной ветки можно объединить, а не создавать ответвления."
+ },
+ "serbian": {
+  "STR_GRF_NAME.base": "CIRS комплет за замену објеката индустрије у заједници",
+  "STR_PARAM_DESC_ECONOMIES.base": "Svaka ekonomija nudi različite kombinacije tovara i industrija.{}{}Za igrače koji žele jednostavniju igru, {SILVER}bazične{BLACK} ekonomije sadrže manji broj industrija i tovara od ostalih FIRS ekonomija.{}{} FIRS vebsajt pruža detaljne informacije o svakoj ekonomiji.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivirajte CIRS putem ",
+  "DOC_GS_SETUP_B1_LINK": "prozora podešavanja NewGRF-a",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Praćenje nadređenog projekta",
+  "DOC_HOME_WHY_3_DESC": "Cela istorija git FIRS-a sačuvana je, tako da se buduće promene iz nadređenog projekta mogu spojiti umesto razgranati."
+ },
+ "simplified_chinese": {
+  "STR_GRF_NAME.base": "CIRS 社区工业替换套装",
+  "STR_PARAM_DESC_ECONOMIES.base": "每种经济模式对应不同的货物和工业组合。{}{}休闲玩家可以选择简单模式，{SILVER}'基础'{BLACK}经济模式的货物和工业种类比'FIRS'经济模式的种类要少。{}{}FIRS主页提供了每种经济模式更详细的介绍。",
+  "DOC_GS_SETUP_B1_PREFIX": "通过 ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF 设置窗口",
+  "DOC_GS_SETUP_B1_SUFFIX": " 启用 CIRS。",
+  "DOC_HOME_WHY_3_TITLE": "追踪上游",
+  "DOC_HOME_WHY_3_DESC": "FIRS 完整的 git 历史被保留，未来的上游改动可以直接合并，而不必另起 fork。"
+ },
+ "slovak": {
+  "STR_GRF_NAME.base": "Kompletná sada nahradenia priemyslu CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Každá ekonomika poskytuje inú kombináciu nákladov a odvetví.{}{}Pre hráčov, ktorí chcú jednoduché hranie, obsahujú {SILVER}základné {BLACK}ekonomiky menej odvetví a nákladov než ostatné ekonomiky FIRS.{}{}Webová stránka FIRS poskytuje podrobné informácie o každej ekonomike.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivujte CIRS cez ",
+  "DOC_GS_SETUP_B1_LINK": "okno nastavení NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Sledovanie nadradeného projektu",
+  "DOC_HOME_WHY_3_DESC": "Celá história git FIRS je zachovaná, takže budúce zmeny z nadradeného projektu možno zlúčiť namiesto vytvorenia forku."
+ },
+ "spanish": {
+  "STR_GRF_NAME.base": "CIRS - Conjunto de Reemplazo de Industria Comunitaria",
+  "STR_PARAM_DESC_ECONOMIES.base": "Cada economía ofrece una combinación diferente de mercancías e industrias.{}{}Para los jugadores que quieren una jugabilidad simple, las economías {SILVER}Básicas{BLACK} contienen menos industrias y mercancías que otras economías de CIRS.{}{}El sitio web de CIRS proporciona información detallada sobre cada economía.",
+  "DOC_GS_SETUP_B1_PREFIX": "Activa CIRS a través de la ",
+  "DOC_GS_SETUP_B1_LINK": "ventana de configuración de NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Seguimiento de la fuente original",
+  "DOC_HOME_WHY_3_DESC": "El historial git completo de FIRS se conserva, para que los futuros cambios de la fuente original se puedan fusionar en lugar de bifurcarse."
+ },
+ "spanish_MX": {
+  "STR_GRF_NAME.base": "Conjunto de reemplazo de industrias comunitarias de CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Cada economía ofrece una combinación distinta de cargamentos e industrias.{}{}Para aquellos que quieran un juego sencillo, las economías {SILVER}Básicas {BLACK}de FIRS presentan menos industrias y cargamentos que las demás.{}{}El sitio web de FIRS ofrece mayor información acerca de cada economía.",
+  "DOC_GS_SETUP_B1_PREFIX": "Activa CIRS a través de la ",
+  "DOC_GS_SETUP_B1_LINK": "ventana de configuración de NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Seguimiento de la fuente original",
+  "DOC_HOME_WHY_3_DESC": "El historial git completo de FIRS se conserva, para que los futuros cambios de la fuente original se puedan fusionar en lugar de bifurcarse."
+ },
+ "swedish": {
+  "STR_GRF_NAME.base": "CIRS Community-Industri-Ersättningspaket",
+  "STR_PARAM_DESC_ECONOMIES.base": "Varje ekonomi har egen kombination av godstyper och industrier.{}{}För spelare som vill ha en mer okomplicerad spelupplevelse innehåller {SILVER}bas{BLACK}-ekonomierna färre industrier och godstyper än andra FIRS-ekonomier.{}{}Detaljerad information om varje ekonomityp finns på FIRS hemsida.",
+  "DOC_GS_SETUP_B1_PREFIX": "Aktivera CIRS via ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF-inställningsfönstret",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Uppströmsföljning",
+  "DOC_HOME_WHY_3_DESC": "Hela FIRS git-historik bevaras, så framtida uppströmsändringar kan sammanfogas istället för att förgreningas bort."
+ },
+ "tamil": {
+  "STR_GRF_NAME.base": "CIRS சமூகத் தொழில் மாற்றுத் தொகுப்பு",
+  "STR_PARAM_DESC_ECONOMIES.base": "ஒவ்வொரு பொருளாதாரமும் சரக்குகள் மற்றும் தொழில்களின் வெவ்வேறு சேர்க்கையை வழங்குகிறது.{}{}எளிய விளையாட்டு அனுபவத்தை விரும்பும் வீரர்களுக்கு, {SILVER}Basic {BLACK}பொருளாதாரங்களில் மற்ற CIRS பொருளாதாரங்களைவிடக் குறைவான தொழில்களும் சரக்குகளும் உள்ளன.{}{}ஒவ்வொரு பொருளாதாரம் பற்றிய விரிவான தகவல்கள் CIRS இணையதளத்தில் கிடைக்கின்றன.",
+  "DOC_GS_SETUP_B1_PREFIX": "CIRSஐ ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF அமைப்புச் சாளரம்",
+  "DOC_GS_SETUP_B1_SUFFIX": " வழியாகச் செயல்படுத்தவும்.",
+  "DOC_HOME_WHY_3_TITLE": "மேலோடைக் கண்காணிப்பு",
+  "DOC_HOME_WHY_3_DESC": "FIRSஇன் முழு git வரலாறும் பாதுகாக்கப்படுகிறது, எனவே எதிர்கால மேலோடை மாற்றங்களைக் கிளை (fork) உருவாக்காமல் இணைக்க முடியும்."
+ },
+ "traditional_chinese": {
+  "STR_GRF_NAME.base": "CIRS 社區產業替換套組",
+  "STR_PARAM_DESC_ECONOMIES.base": "每種經濟模式對應不同的貨物和工業組合。{}{}希望簡單遊戲的休閑玩家可以選擇{SILVER}基礎{BLACK}模式，其所提供的貨物與工業種類比其他FIRS經濟模式所提供的為少。{}{}FIRS網站提供各經濟模式的詳盡信息。",
+  "DOC_GS_SETUP_B1_PREFIX": "透過 ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF 設定視窗",
+  "DOC_GS_SETUP_B1_SUFFIX": " 啟用 CIRS。",
+  "DOC_HOME_WHY_3_TITLE": "追蹤上游",
+  "DOC_HOME_WHY_3_DESC": "FIRS 完整的 git 歷史被保留，因此未來的上游變更可以被合併，而不是被迫 fork。"
+ },
+ "turkish": {
+  "STR_GRF_NAME.base": "CIRS Topluluk Sanayi Değiştirme Seti",
+  "STR_PARAM_DESC_ECONOMIES.base": "Her ekonomi, farklı bir kargo ve sanayi kombinasyonu sunar.{}{}Basit bir oyun deneyimi isteyen oyuncular için, {SILVER}Temel {BLACK}ekonomiler diğer CIRS ekonomilerine göre daha az sanayi ve kargo içerir.{}{}CIRS web sitesi her ekonomi hakkında ayrıntılı bilgi sunar.",
+  "DOC_GS_SETUP_B1_PREFIX": "CIRS'ı ",
+  "DOC_GS_SETUP_B1_LINK": "NewGRF ayar penceresi",
+  "DOC_GS_SETUP_B1_SUFFIX": " üzerinden etkinleştir.",
+  "DOC_HOME_WHY_3_TITLE": "Ana kaynağı izleme",
+  "DOC_HOME_WHY_3_DESC": "Tüm FIRS git geçmişi korunur, böylece gelecekteki ana kaynak değişiklikleri çatal oluşturmak yerine birleştirilebilir."
+ },
+ "welsh": {
+  "STR_GRF_NAME.base": "Set Disodli Diwydiant Cymunedol CIRS",
+  "STR_PARAM_DESC_ECONOMIES.base": "Mae pob economi yn darparu cyfuniad gwahanol o nwyddau a diwydiannau.{}{}I chwaraewyr sydd eisiau chwarae syml, mae gan economi {SILVER}Sylfaenol {BLACK}FIRS lai o ddiwydiannau a nwyddau na economi CIRS eraill.{}{}Mae gwefan CIRS yn darparu gwybodaeth fanwl am bob economi.",
+  "DOC_GS_SETUP_B1_PREFIX": "Actifaduwch CIRS trwy'r ",
+  "DOC_GS_SETUP_B1_LINK": "ffenestr gosodiadau NewGRF",
+  "DOC_GS_SETUP_B1_SUFFIX": ".",
+  "DOC_HOME_WHY_3_TITLE": "Olrhain ffynhonnell wreiddiol",
+  "DOC_HOME_WHY_3_DESC": "Caiff hanes git llawn FIRS ei gadw, fel y gellir cyfuno newidiadau ffynhonnell yn y dyfodol yn hytrach na ffurfio fforc."
+ }
+}

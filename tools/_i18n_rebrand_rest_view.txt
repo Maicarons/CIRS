@@ -1,0 +1,59 @@
+=== SUCCESSES (non-desc) ===
+belarusian DOC_HOME_WHY_3_TITLE
+  EN: Upstream tracking
+  OLD: Адсочванне upstream
+  NEW: Адсочванне ў верхнім патоку
+czech STR_PARAM_DESC_ECONOMIES.base
+  EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+  OLD: Každá ekonomika poskytuje různou kombinaci nákladů a průmyslu.{}{} {SILVER}Základní {BLACK}ekonomiky obsahují méně průmyslu a nákladů než ostatní FIRS ekonomiky a jsou tedy vhodné i pro začínající hráče.{}{}Detailní informace ke každé ekonomice jsou k dispozici na stránkách FIRSu.
+  NEW: Každá ekonomie nabízí odlišnou kombinaci nákladů a odvětví.{}{}Pro hráče, kteří chtějí jednoduché hraní, obsahují {SILVER}základní {BLACK}ekonomie méně odvětví a nákladů než ostatní ekonomie CIRS.{}{}Webová stránka CIRS poskytuje podrobné informace o každé ekonomii.
+danish DOC_HOME_WHY_3_TITLE
+  EN: Upstream tracking
+  OLD: Upstream-sporende
+  NEW: Opstrømsopfølgning
+galician STR_PARAM_DESC_ECONOMIES.base
+  EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+  OLD: Cada un dos tipos de economía contén unha combinación diferente de industrias e cargas.{}{}Para xogadores que busquen partidas máis sinxelas, as {BLACK}economías {SILVER}básicas conteñen menos industrias e cargas que outras economías FIRS.{}{} A páxina web de FIRST proporciona información máis detallada sobre cada economía.
+  NEW: Cada economía ofrece unha combinación diferente de cargas e industrias.{}{}Para os xogadores que desexan unha xogabilidade sinxela, as economías {SILVER}Básicas {BLACK}contén menos industrias e cargas que outras economías CIRS.{}{}O sitio web de CIRS ofrece información detallada sobre cada economía.
+japanese DOC_GS_CONFLICTS_P3_LINK
+  EN: conflicting newgrfs
+  OLD: conflicting newGRFs
+  NEW: 競合する NewGRF
+latin DOC_HOME_WHY_3_TITLE
+  EN: Upstream tracking
+  OLD: Vestigium Upstream
+  NEW: Rastrellatio superioris
+polish DOC_HOME_WHY_3_TITLE
+  EN: Upstream tracking
+  OLD: Śledzenie upstream
+  NEW: Śledzenie zmian w głównym repozytorium
+tamil STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit
+  EN: {SIGNED_WORD} crate{P 0 "" s} of engineering supplies
+  OLD: {SIGNED_WORD} FIRS பொறியியல் பொருட்கள் பெட்டி{P 0 "" s}
+  NEW: {SIGNED_WORD} பொறியியல் தேவைப்பொருட்கள் பெட்டி{P 0 "" s}
+tamil STR_CARGO_FARM_SUPPLIES.cargo_unit
+  EN: {SIGNED_WORD} crate{P 0 "" s} of farm supplies
+  OLD: {SIGNED_WORD} FIRS பண்ணைப் பொருட்கள் பெட்டி{P 0 "" s}
+  NEW: {SIGNED_WORD} விவசாயப் பொருட்கள் பெருக்குண்டு{P 0 "" s}
+
+=== FAILS ===
+belarusian DOC_HOME_WHY_3_DESC ["upstream_left"]
+  Поўная гісторыя FIRS у git захавана, таму будучыя змены з upstream можна будзе аб’яднаць, а не ствараць асобны форк.
+danish DOC_HOME_WHY_3_DESC ["upstream_left"]
+  Den fuldstændige FIRS git-historik er bevaret, så fremtidige ændringer fra upstream kan slås sammen i stedet for at blive forket væk.
+dutch DOC_HOME_WHY_3_DESC ["upstream_left"]
+  De volledige FIRS git-geschiedenis wordt bewaard, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van afgesplitst.
+dutch DOC_HOME_WHY_3_TITLE ["upstream_left"]
+  Tracking van de upstream-bron
+german DOC_HOME_WHY_3_DESC ["upstream_left"]
+  Die vollständige FIRS-git-Vorgeschichte wird erhalten, sodass zukünftige Änderungen aus dem Upstream zusammengeführt werden können, anstatt in einen separaten Fork ausgegliedert zu
+german DOC_HOME_WHY_3_TITLE ["upstream_left"]
+  Nachverfolgung im Upstream
+italian DOC_HOME_WHY_3_DESC ["upstream_left"]
+  La cronologia completa di FIRS su git è stata conservata, in modo che le future modifiche upstream possano essere integrate invece di essere gestite tramite un fork separato.
+italian DOC_HOME_WHY_3_TITLE ["unchanged"]
+  Tracciamento upstream
+latin DOC_HOME_WHY_3_DESC ["upstream_left"]
+  Historia integra FIRS in git servatur, ut mutationes futures upstream coniungi possint, potius quam in ramum separatum abducantur.
+polish DOC_HOME_WHY_3_DESC ["upstream_left"]
+  Pełna historia git projektu FIRS została zachowana, dzięki czemu przyszłe zmiany z upstreamu można będzie połączyć, zamiast tworzyć osobny fork.

@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x3C"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "مجموعة استبدال الصناعة المجتمعية لـ CIRS"
+
+[STR_GRF_DESC]
+base = "{ORANGE}مجموعة CIRS البديلة للصناعات المجتمعية{}{BLACK}نسخة معدلة من FIRS يديرها المجتمع، أنشأها في الأصل andythenorth وFooBar وplanetmaker وTerkhen وYexo، بمساعدة الكثيرين غيرهم. {SILVER}راجع الموقع الإلكتروني لمزيد من المعلومات، بما في ذلك كيفية استخدام CIRS. {BLACK}الترخيص: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "أقصى مسافة لمناطق الصيد ومنصات النفط ومواقع التجريف عن الساحل بالبلاطات."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "توفر كل اقتصاد مزيجًا مختلفًا من البضائع والصناعات.{}{}بالنسبة للاعبين الذين يرغبون في تجربة لعب بسيطة، تحتوي اقتصادات {SILVER}الأساسية {BLACK}على صناعات وبضائع أقل من اقتصادات CIRS الأخرى.{}{}يوفر موقع CIRS الإلكتروني معلومات مفصلة عن كل اقتصاد."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "أقصى مسافة ساحلية للصناعات البحرية بالبلاطات"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "الاقتصاد"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "لا يوجد حد"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "صناديق التوريد المطلوبة للإنتاج الأولي المحسّن (الافتراضي 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "صناديق التوريد المطلوبة للإنتاج الأولي الحماسي (الافتراضي 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "ستزيد المزارع والمناجم والصناعات المماثلة إنتاجها عند تسليم صناديق الإمداد، أولاً إلى {SILVER}Enhanced{BLACK}، ثم إلى {SILVER}Gung-ho{BLACK}، إذا تم تسليم عدد كافٍ من الصناديق. {}{}القيم الافتراضية جيدة، ولكن إذا احتجت إلى ذلك، يمكنك تغييرها هنا. {}{}ستكون متطلبات الشحن للصناعات من نوع الموانئ 8 أضعاف القيم المحددة هنا."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "مستوى الإنتاج الأولي المحسّن (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "مستوى الإنتاج الأولي الحماسي (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "الإنتاج في المزارع والمناجم والصناعات المماثلة عند تلبية متطلبات التوريد (كنسبة مئوية من مستوى الإنتاج {SILVER}الطبيعي {BLACK})."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "معتدل أساسي"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "أساسي القطب الشمالي"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "تروبيك الأساسي"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "في بلد حار"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "ميلد ميلد ويست"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "مدينة الصلب"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "عناصر تنسيق المناظر الطبيعية في CIRS"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "تتضمن CIRS مجموعة من عناصر تنسيق المناظر الطبيعية التي يمكن للاعبين وضعها لجعل بعض الصناعات تبدو أكبر. ليس لعناصر المناظر الطبيعية أي تأثير على طريقة اللعب. يمكن تشغيل عناصر تنسيق المناظر الطبيعية أو إيقافها."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(اختياري)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(مُورَّد)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}قم بتوفير {WHITE}نوع واحد على الأقل من {BLACK}البضائع المطلوبة لتحقيق أقصى إنتاج."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}للحصول على أقصى معدل إنتاج، قم بتوفير {WHITE}كلا النوعين من {BLACK}البضائع المطلوبة مرة واحدة كل ثلاث دقائق على الأقل."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}للحصول على أقصى معدل إنتاج، قدّم {WHITE}جميع {BLACK}البضائع المطلوبة مرة واحدة على الأقل كل ثلاث دقائق."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}للحصول على أقصى معدل إنتاج، قم بتوفير {WHITE}على الأقل نوعين من {BLACK}البضائع المطلوبة مرة واحدة كل ثلاث دقائق على الأقل."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}للحصول على أقصى معدل إنتاج، قدّم {WHITE}ثلاث {BLACK}بضائع مطلوبة على الأقل مرة واحدة على الأقل كل ثلاث دقائق."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}يتناسب الإنتاج مع عدد سكان المدينة. سيتم إنتاج ما لا يقل عن {WHITE}{SIGNED_WORD} وحدة{BLACK} وما لا يزيد عن {WHITE}{SIGNED_WORD} وحدة{BLACK} من البضائع كل دقيقة."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}الإنتاج الحالي: {YELLOW}عادي {}{}{BLACK}للحصول على إنتاج {WHITE}مُحسَّن {BLACK}، سلّم {SIGNED_WORD} صندوقًا من الإمدادات مرة واحدة على الأقل كل ثلاث دقائق.{}للحصول على إنتاج {WHITE}Gung-ho {BLACK}، سلّم {SIGNED_WORD} صندوقًا."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}الإنتاج الحالي: {YELLOW}مُحسَّن {}{}{BLACK}للحفاظ على هذا المستوى، سلّم {SIGNED_WORD} صندوقًا من الإمدادات مرة واحدة على الأقل كل ثلاث دقائق.{}للحصول على إنتاج {WHITE}Gung-ho {BLACK}، سلّم {SIGNED_WORD} صندوقًا."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}الإنتاج الحالي: {YELLOW}Gung-ho {}{}{BLACK}للحفاظ على هذا المستوى، سلّم {SKIP}{SIGNED_WORD} صندوقًا من الإمدادات مرة واحدة على الأقل كل ثلاث دقائق."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}الإنتاج الحالي: {YELLOW}عادي {}{}{BLACK}للحصول على إنتاج {WHITE}مُحسَّن {BLACK}، سلّم {SIGNED_WORD} وحدة من البضائع مرة واحدة على الأقل كل ثلاث دقائق.{}للحصول على إنتاج {WHITE}Gung-ho {BLACK}، سلّم {SIGNED_WORD} وحدة."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}الإنتاج الحالي: {YELLOW}مُحسَّن {}{}{BLACK}للحفاظ على هذا المستوى، سلّم {SIGNED_WORD} وحدة من البضائع مرة واحدة على الأقل كل ثلاث دقائق.{}للحصول على إنتاج {WHITE}Gung-ho {BLACK}، سلّم {SIGNED_WORD} وحدة."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}الإنتاج الحالي: {YELLOW}Gung-ho {}{}{BLACK}للحفاظ على هذا المستوى، سلّم {SKIP}{SIGNED_WORD} وحدة من البضائع مرة واحدة على الأقل كل ثلاث دقائق."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: تتطلب CIRS إصدار OpenTTD 1.7.0 (أو بالنسبة للمستخدمين الذين يعتمدون على إصدارات trunk، r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}مجموعة غير متوافقة: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}معامل غير متوافق: {ORANGE}يجب أن يكون معامل CanSet 2 مساويًا لـ 0 ليعمل مع CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}معامل غير متوافق: {ORANGE}يجب أن يكون المعامل 2 في مجموعة NA City Set مساويًا لـ 0 ليعمل مع CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}إصدار غير متوافق: {ORANGE}يجب أن تكون مجموعة Total Town Replacement Set من الإصدار 3.11 أو أحدث."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "يجب وضعه أسفل خط الثلج."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "لا يمكن وضعه على المنحدرات الشديدة."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله على الثلج أو في الصحاري."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله على الثلج أو في الصحاري."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله على الثلج أو في الصحاري."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله على الثلج أو في الصحاري."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله في الصحاري."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله على الثلج."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله إلا على الثلج."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله على الثلج أو في الصحاري."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله على الثلج أو في الصحاري."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}الموقع: {YELLOW}لا يمكن تمويله على الثلج أو في الصحاري."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "حمض"
+cargo_unit = "{VOLUME} من الحمض"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "مجمّعات"
+cargo_unit = "{WEIGHT} من الركام"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "ألومنيوم"
+cargo_unit = "{WEIGHT} من الألومنيوم"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "ألومينا"
+cargo_unit = "{WEIGHT} من الألومينا"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "منتجات الأمونيا والنيتريك"
+cargo_unit = "{VOLUME} من الأمونيا ومنتجات النيتريك"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "صخر الأنهيدريت"
+cargo_unit = "{WEIGHT} من صخر الأنهيدريت"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "تفاح"
+cargo_unit = "{WEIGHT} من التفاح"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "فول"
+cargo_unit = "{WEIGHT} من الفاصوليا"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "البيتومين"
+cargo_unit = "{VOLUME} من البيتومين"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "مواد البناء"
+cargo_unit = "{WEIGHT} من مواد البناء"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "الكربون الأسود"
+cargo_unit = "{WEIGHT} من الكربون الأسود"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "الكاسافا"
+cargo_unit = "{WEIGHT} من الكاسافا"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "الحديد الزهر"
+cargo_unit = "{WEIGHT} من الكاسافا"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "أسمنت"
+cargo_unit = "{WEIGHT} من الإسمنت"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "مواد كيميائية وسيطة"
+cargo_unit = "{VOLUME} من المواد الكيميائية الوسيطة"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "مواد كيميائية"
+cargo_unit = "{VOLUME} من المواد الكيميائية"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CHLORINE]
+name = "كلور"
+cargo_unit = "{VOLUME} من الكلور"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CLAY]
+name = "طين"
+cargo_unit = "{WEIGHT} من الطين"
+cid = "{TINYFONT}CY"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "عوامل تنظيف"
+cargo_unit = "{WEIGHT} من مواد التنظيف"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "قهوة"
+cargo_unit = "{WEIGHT} كيس{P 0 \"\" s} من القهوة"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "قطران الفحم"
+cargo_unit = "{VOLUME} من قطران الفحم"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "كوكا"
+cargo_unit = "{WEIGHT} من الكوك"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "مكونات دقيقة"
+cargo_unit = "{WEIGHT} من مكونات الدقة"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "منتجات الخرسانة"
+cargo_unit = "{WEIGHT} من منتجات الخرسانة"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "نحاس"
+cargo_unit = "{WEIGHT} من النحاس"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "زيت صالح للأكل"
+cargo_unit = "{VOLUME} من الزيت الصالح للأكل"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "قطع غيار كهربائية"
+cargo_unit = "{WEIGHT} من الأجزاء الكهربائية"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "مستلزمات هندسية"
+cargo_unit = "{SIGNED_WORD} صندوق{P 0 \"\" s} من مستلزمات الهندسة"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "متفجرات"
+cargo_unit = "{WEIGHT} من المتفجرات"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "السبائك الحديدية"
+cargo_unit = "{WEIGHT} من السبائك الحديدية"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "الأسماك والمأكولات البحرية"
+cargo_unit = "{WEIGHT} من الأسماك والمأكولات البحرية"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "مستلزمات المزرعة"
+cargo_unit = "{SIGNED_WORD} صندوق{P 0 \"\" s} من مستلزمات المزرعة"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "سماد"
+cargo_unit = "{WEIGHT} من الأسمدة"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "دقيق ونشا"
+cargo_unit = "{WEIGHT} من الدقيق والنشا"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "إضافات غذائية"
+cargo_unit = "{WEIGHT} من إضافات الأغذية"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "الأطعمة والمشروبات"
+cargo_unit = "{WEIGHT} من الأطعمة والمشروبات"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "قطع الحدادة والصب"
+cargo_unit = "{WEIGHT} من القطع المصبوبة والمطروقة"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "أطعمة مجمدة"
+cargo_unit = "{WEIGHT} من الأطعمة المجمدة"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "فواكه"
+cargo_unit = "{WEIGHT} من الفاكهة"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "منتجات زجاجية"
+cargo_unit = "{WEIGHT} من منتجات الزجاج"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "الأجهزة والتشطيبات"
+cargo_unit = "{WEIGHT} من الأدوات المعدنية والتشطيبات"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "فحم صناعي"
+cargo_unit = "{WEIGHT} من الكربون الصناعي"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "غازات صناعية"
+cargo_unit = "{VOLUME} من الغازات الصناعية"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "طين الصين"
+cargo_unit = "{WEIGHT} من طين الصين"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "الهيدروكربونات الخفيفة"
+cargo_unit = "{VOLUME} من الهيدروكربونات الخفيفة"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "الحجر الجيري"
+cargo_unit = "{WEIGHT} من الحجر الجيري"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "جذوع الأشجار"
+cargo_unit = "{WEIGHT} من جذوع الأشجار"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "هيدروكسيد الصوديوم"
+cargo_unit = "{VOLUME} من هيدروكسيد الصوديوم"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "ميثانول"
+cargo_unit = "{VOLUME} من الميثانول"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "حليب"
+cargo_unit = "{VOLUME} من الحليب"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "منغنيز"
+cargo_unit = "{WEIGHT} من المنغنيز"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "لحم"
+cargo_unit = "{WEIGHT} من اللحم"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "باريت وفلورسبار"
+cargo_unit = "{WEIGHT} من الباريت والفلورسبار"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "مواد حشو معدنية"
+cargo_unit = "{WEIGHT} من مواد الحشو المعدنية"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "حبوب القهوة الخام أو المحمصة."
+cargo_unit = "{WEIGHT} من السكر الخام والدبس"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "نترات"
+cargo_unit = "{WEIGHT} من النترات"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "نيتروجين"
+cargo_unit = "{VOLUME} من النيتروجين"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "جوزات"
+cargo_unit = "{WEIGHT} من المكسرات"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "أكسجين"
+cargo_unit = "{VOLUME} من الأكسجين"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "التغليف"
+cargo_unit = "{WEIGHT} من التغليف"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "الطلاء والطلاءات"
+cargo_unit = "{VOLUME} من الدهانات والطلاءات"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "الخث"
+cargo_unit = "{WEIGHT} من الخث"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "وقود البترول"
+cargo_unit = "{VOLUME} من وقود البترول"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "خزانات التخزين وأنابيب التوصيل"
+cargo_unit = "{WEIGHT} من خزانات التخزين وأنابيب التوصيل"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "الفوسفات"
+cargo_unit = "{WEIGHT} من الفوسفات"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "حمض الفوسفوريك"
+cargo_unit = "{VOLUME} من حمض الفوسفوريك"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "الحديد الزهر"
+cargo_unit = "{WEIGHT} من الحديد الزهر"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "البلاستيك والراتنجات"
+cargo_unit = "{WEIGHT} من البلاستيك والراتنجات"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "النباتات والآلات"
+cargo_unit = "{WEIGHT} من النباتات والآلات"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "بوتاس"
+cargo_unit = "{WEIGHT} من البوتاس"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "كيميائيات المعالجة"
+cargo_unit = "{WEIGHT} من كيميائيات المعالجة"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "المضخات والصمامات"
+cargo_unit = "{WEIGHT} من المضخات والصمامات"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "خام البيريت"
+cargo_unit = "{WEIGHT} من خام البيريت"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "جير حرق"
+cargo_unit = "{WEIGHT} من الجير الحي"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "ألومنيوم مكرر، على شكل لفائف وسبائك وكتل، إلخ."
+cargo_unit = "{WEIGHT} من حديد التسليح"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "ملح"
+cargo_unit = "{WEIGHT} من الملح"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "رمل"
+cargo_unit = "{WEIGHT} من الرمل"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "خردة معدنية"
+cargo_unit = "{WEIGHT} من الخردة المعدنية"
+cid = "{TINYFONT}SM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "ختم وخراطيم وأحزمة"
+cargo_unit = "{WEIGHT} من الأختام والخراطيم والأحزمة"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "خبث"
+cargo_unit = "{WEIGHT} من الخبث"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "رماد الصودا"
+cargo_unit = "{WEIGHT} من رماد الصودا"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "الفولاذ"
+cargo_unit = "{WEIGHT} من الفولاذ"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "قضبان وسبائك أولية"
+cargo_unit = "{WEIGHT} من السبائك والكتل المعدنية"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "سبائك الفولاذ"
+cargo_unit = "{WEIGHT} من سبائك الفولاذ"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "حانة التجار"
+cargo_unit = "{WEIGHT} من سبائك التاجر"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "أنابيب الفولاذ"
+cargo_unit = "{WEIGHT} من أنابيب الفولاذ"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "صفائح الفولاذ"
+cargo_unit = "{WEIGHT} من صفائح الفولاذ"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "ألواح وشرائح الفولاذ"
+cargo_unit = "{WEIGHT} من ألواح وشرائح الفولاذ"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "كتل الفولاذ"
+cargo_unit = "{WEIGHT} من بلاطات الفولاذ"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "أنبوب فولاذي"
+cargo_unit = "{WEIGHT} من أنابيب الفولاذ"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "قضيب سلك فولاذي"
+cargo_unit = "{WEIGHT} من سلك الفولاذ"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "الصلب الإنشائي"
+cargo_unit = "{WEIGHT} من الفولاذ الإنشائي"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "كبريت"
+cargo_unit = "{WEIGHT} من الكبريت"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "حمض الكبريتيك"
+cargo_unit = "{VOLUME} من حمض الكبريتيك"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "منتجات الخشب"
+cargo_unit = "{WEIGHT} من منتجات الخشب"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_TIN]
+name = "قصدير"
+cargo_unit = "{WEIGHT} من القصدير"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "صفائح القصدير"
+cargo_unit = "{WEIGHT} من الصفيح المغطى بالقصدير"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "حبل الإطارات"
+cargo_unit = "{WEIGHT} من حبال الإطارات"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "الإطارات"
+cargo_unit = "{WEIGHT} من الإطارات"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "خضروات"
+cargo_unit = "{WEIGHT} من الخضروات"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "هياكل المركبات"
+cargo_unit = "{WEIGHT} من هياكل المركبات"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "المحركات وأنظمة الدفع"
+cargo_unit = "{WEIGHT} من المحركات وخطوط الدفع"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "قطع غيار المركبات"
+cargo_unit = "{WEIGHT} من أجزاء المركبات"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "مركبات"
+cargo_unit = "{WEIGHT} من المركبات"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "مواد اللحام الاستهلاكية"
+cargo_unit = "{WEIGHT} من مواد اللحام الاستهلاكية"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "لب الخشب"
+cargo_unit = "{WEIGHT} من لب الخشب"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "الصوف"
+cargo_unit = "{SIGNED_WORD} حزمة{P 0 \"\" s} من الصوف"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "الزنك"
+cargo_unit = "{WEIGHT} من الزنك"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "خام الزنك"
+cargo_unit = "{WEIGHT} من خام الزنك"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} من البضائع"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "مصنع ألومنيوم"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "مركب الأمونيا"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "منجم الأنهيدريت"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "مصنع معالجة الأنهيدريت"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "مصنع الأجهزة"
+
+[STR_IND_ARABLE_FARM]
+base = "مزرعة صالحة للزراعة"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "مصنع التجميع"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "طحن الأقسام والقضبان"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "فرن الأكسجين الأساسي"
+
+[STR_IND_BLAST_FURNACE]
+base = "فرن الصهر"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "مصنع ألواح الخشب المضغوط"
+
+[STR_IND_BODY_PLANT]
+base = "مصنع الهياكل"
+
+[STR_IND_BREWERY]
+base = "مصنع الجعة"
+
+[STR_IND_CIDER_MILL]
+base = "مطحنة عصير التفاح"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "ساحة البناء" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "مصنع الكربون الأسود"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "مصانع أغشية السليلوز"
+
+[STR_IND_CEMENT_PLANT]
+base = "مصنع أسمنت"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "مركب كيميائي"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "مصنع المتفجرات"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "مصنع الكلور والقلويات"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "حفرة طين"
+
+[STR_IND_COFFEE_ESTATE]
+base = "مزرعة قهوة"
+
+[STR_IND_COKE_OVEN]
+base = "فرن الكوكا"
+
+[STR_IND_CONCRETE_PLANT]
+base = "محطة الخرسانة"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "مصنع الكيماويات الدفعي"
+
+[STR_IND_COPPER_SMELTER]
+base = "فرن صهر النحاس"
+
+[STR_IND_CRYO_PLANT]
+base = "محطة التبريد العميق"
+
+[STR_IND_DAIRY]
+base = "منتجات الألبان"
+
+[STR_IND_DAIRY_FARM]
+base = "مزرعة ألبان"
+
+[STR_IND_DREDGING_SITE]
+base = "موقع التجريف"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "مصنع منتجات الإلاستومر"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "فرن القوس الكهربائي"
+
+[STR_IND_ENGINE_PLANT]
+base = "مصنع المحركات"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "ورش هندسية"
+
+[STR_IND_FARM]
+base = "مزرعة"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "مصنع الكيماويات الصناعية"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "مصنع التخمير"
+
+[STR_IND_FISH_FARM]
+base = "مزرعة أسماك"
+
+[STR_IND_FISHING_GROUND]
+base = "مناطق صيد الأسماك"
+
+[STR_IND_FISHING_HARBOUR]
+base = "ميناء صيد الأسماك"
+
+[STR_IND_GRAIN_MILL]
+base = "طاحونة الحبوب"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "مصنع معالجة الأغذية"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "ورشة صهر وتشكيل الفولاذ"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "مصنع الأغذية المجمدة"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "مصنع الأثاث"
+
+[STR_IND_GENERAL_STORE]
+base = "متجر عام"
+
+[STR_IND_GLASS_WORKS]
+base = "مصنع زجاج"
+
+[STR_IND_HERDING_COOP]
+base = "تعاونية الرعي"
+
+[STR_IND_HOTEL]
+base = "فندق"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "مصنع الحلويات المجمدة"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "مصنع الفولاذ"
+
+[STR_IND_SCRAP_YARD]
+base = "ساحة خردة"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "فرن الجير"
+
+[STR_IND_LIMESTONE_MINE]
+base = "منجم الحجر الجيري"
+
+[STR_IND_MANGANESE_MINE]
+base = "منجم منغنيز"
+
+[STR_IND_METAL_WORKS]
+base = "مصنع المعادن"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "مصنع مواد الحشو المعدنية"
+
+[STR_IND_NITRATE_MINE]
+base = "منجم نترات"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "مصنع كيميائيات صناعية"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "محطة النفط والكيماويات"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "بستان ومزرعة خنازير"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "مصنع الزجاجات والعلب"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "مصنع منتجات الورق"
+
+[STR_IND_PEATLANDS]
+base = "أراضي الخث"
+
+[STR_IND_PETROLPUMP]
+base = "محطة بنزين"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "منجم الفوسفات"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "مصنع السماد والحمض"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "مخبز تجاري"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "ورشة الأنابيب"
+
+[STR_IND_PLATE_MILL]
+base = "مطحنة الصفائح"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "مصنع القولبة البلاستيكية"
+
+[STR_IND_PORT]
+base = "الميناء"
+
+[STR_IND_POTASH_MINE]
+base = "منجم البوتاس"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "مصنع أنظمة الطاقة"
+
+[STR_IND_POWER_PLANT]
+base = "محطة طاقة"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "مصنع الأجزاء الدقيقة"
+
+[STR_IND_PRODUCE_PACKER]
+base = "مُعبِّئ المنتجات"
+
+[STR_IND_PYRITE_MINE]
+base = "منجم البيريت"
+
+[STR_IND_PYRITE_SMELTER]
+base = "صهر البيريت"
+
+[STR_IND_QUARRY]
+base = "محجر"
+
+[STR_IND_RANCH]
+base = "سكر خام ودبس"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "مصنع رودستون"
+
+[STR_IND_SALT_WORKS]
+base = "مصنع الملح"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "محطة طحن الخبث"
+
+[STR_IND_SODA_ASH_MINE]
+base = "منجم رماد الصودا"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "مصنع الأغذية الجاهزة"
+
+[STR_IND_STOCKYARD]
+base = "ساحة التخزين"
+
+[STR_IND_STRIP_MILL]
+base = "مصنع الدرفلة الشريطية"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "مصفاة السكر"
+
+[STR_IND_SUPPLY_YARD]
+base = "ساحة التوريد"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "ساحة الأخشاب"
+
+[STR_IND_TIN_MINE]
+base = "منجم القصدير"
+
+[STR_IND_TINPLATE_WORKS]
+base = "مصنع صفائح القصدير"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "مصنع المركبات المتتبعة"
+
+[STR_IND_TRADING_POST]
+base = "مركز التجارة"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "مصنع الأنابيب والأقواس"
+
+[STR_IND_TYRE_PLANT]
+base = "مصنع الإطارات"
+
+[STR_IND_VINEYARD]
+base = "كرم عنب"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "موزع المركبات"
+
+[STR_IND_WHARF]
+base = "رصيف"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "مصنع قضبان الأسلاك"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "منجم الزنك"
+
+[STR_IND_ZINC_SMELTER]
+base = "مصهر الزنك"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "سوق الخيول"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "السلع الكهربائية"
+
+[STR_STATION_AUTOMOTIVE]
+base = "سيارات"
+
+[STR_STATION_BAKERY]
+base = "مخبز"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "عوارض فولاذية"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "بار، شواء وأغراض غرفية"
+
+[STR_STATION_BARNS]
+base = "حظائر"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "برميل وإبريق"
+
+[STR_STATION_BASE]
+base = "قاعدة"
+
+[STR_STATION_BONEYARD]
+base = "مقبرة المركبات"
+
+[STR_STATION_BANK_TOP]
+base = "قمة البنك"
+
+[STR_STATION_BODY_PLANT]
+base = "قطع مكبس"
+
+[STR_STATION_BRINE_WORKS]
+base = "مصنع المحلول الملحي"
+
+[STR_STATION_BUILDERS_YARD]
+base = "ساحة البناء"
+
+[STR_STATION_COLLIERY]
+base = "منجم فحم"
+
+[STR_STATION_COMPONENTS]
+base = "المكونات"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "مصبوب مسبقًا"
+
+[STR_STATION_COPPER_LODE]
+base = "عرق النحاس"
+
+[STR_STATION_CREOSOTING]
+base = "التكرسوت"
+
+[STR_STATION_CRYO_PLANT]
+base = "محطة التبريد العميق"
+
+[STR_STATION_DAIRY_LANE]
+base = "طريق الألبان"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "ختم وخراطيم"
+
+[STR_STATION_ESTATE]
+base = "عقارات"
+
+[STR_STATION_FACTORY]
+base = "مصنع"
+
+[STR_STATION_FARM_1]
+base = "قصر ريفي"
+
+[STR_STATION_FARM_2]
+base = "مراعي"
+
+[STR_STATION_FARM_3]
+base = "سكر خام ودبس"
+
+[STR_STATION_FISHMARKET]
+base = "سوق الأسماك"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "شركة أغذية"
+
+[STR_STATION_FOREST]
+base = "هبوط جذوع الأشجار"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "خبراء الصلب"
+
+[STR_STATION_FREEZERS]
+base = "أجهزة التجميد"
+
+[STR_STATION_FURNACE]
+base = "فرن"
+
+[STR_STATION_METAL_WORKS]
+base = "أدوات معدنية"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "مصنع"
+
+[STR_STATION_HERDING_COOP]
+base = "ريندر بنز"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "المجمع الصناعي"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "على ضفة الماء"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "منصة الهبوط"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "واجهة الشاطئ"
+
+[STR_STATION_IRONSTONE]
+base = "الحديد الحجري"
+
+[STR_STATION_KILNS]
+base = "أفران"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "رواسب الكيمبرلايت"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "مناجم الحجر الجيري"
+
+[STR_STATION_MANGANESE_MINES]
+base = "مناجم المنغنيز"
+
+[STR_STATION_MILL]
+base = "مطحنة"
+
+[STR_STATION_MILLS]
+base = "مطاحن"
+
+[STR_STATION_MINES]
+base = "مناجم"
+
+[STR_STATION_MOULDINGS]
+base = "قوالب"
+
+[STR_STATION_OIL_RIG]
+base = "حقل"
+
+[STR_STATION_ORCHARDS]
+base = "البساتين"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "خط تدفق"
+
+[STR_STATION_PIT]
+base = "الحفرة"
+
+[STR_STATION_PLANT]
+base = "المصنع"
+
+[STR_STATION_PLANTATION]
+base = "المزرعة"
+
+[STR_STATION_PLATE_MILL]
+base = "ساحة الألواح"
+
+[STR_STATION_POTASH_MINE]
+base = "معادن"
+
+[STR_STATION_POWERHUNGRY]
+base = "محطة طاقة"
+
+[STR_STATION_POWERTRAIN]
+base = "نظام نقل الحركة"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "النباتات والآلات"
+
+[STR_STATION_PUMPS]
+base = "المضخات"
+
+[STR_STATION_PYRITES]
+base = "رواسب البيريت"
+
+[STR_STATION_REFINERY]
+base = "حظائر حيوانات الريندر"
+
+[STR_STATION_ROD_MILL]
+base = "مطحنة القضبان"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "شركة المطاط"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "مصنع نترات البوتاسيوم"
+
+[STR_STATION_SEAFOOD]
+base = "مأكولات بحرية"
+
+[STR_STATION_SHARP_STREET]
+base = "شارع شارب"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "مياه ضحلة"
+
+[STR_STATION_SILO]
+base = "برج صوامع"
+
+[STR_STATION_SMELTER]
+base = "مصهر"
+
+[STR_STATION_SOOT_FURNACE]
+base = "فرن السخام"
+
+[STR_STATION_SOUPS]
+base = "الشوربات"
+
+[STR_STATION_STRIP_MILL]
+base = "خط ملفوف"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "شركة السكر"
+
+[STR_STATION_TANK_FARM]
+base = "مجمع الخزانات"
+
+[STR_STATION_TAPPERS_SHED]
+base = "كشك النقر"
+
+[STR_STATION_TOWN_3]
+base = "المخازن"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "مصنع الزحافات"
+
+[STR_STATION_TRONA_BEDS]
+base = "سرير الترونا"
+
+[STR_STATION_TUBE_MILL]
+base = "مصنع الأنابيب"
+
+[STR_STATION_WATER]
+base = "شريط رملي"
+
+[STR_STATION_WELLS]
+base = "آبار"
+
+[STR_STATION_WHEAL]
+base = "حفرة تعدين"
+
+[STR_STATION_WINERY]
+base = "مصنع نبيذ"
+
+[STR_STATION_WORKS]
+base = "مصنع"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "ساحة الشاحنات"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "أرض"
+
+[STR_BADGE_SEA]
+base = "البحر"

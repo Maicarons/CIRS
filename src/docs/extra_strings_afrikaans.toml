@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Koolmyn"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Kopermyn"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Diamantmyn"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Voedsel Verwerkings Fabriek"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Woud"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Vrugteplantasie"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Ysterertsmyn"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Olieraffinage"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Olieboorplatform"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Oliebronne"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Papiermaalmasjien"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Gomplantasie"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Sagmeul"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Staalmolen"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Kool"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Kopererts"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamante"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Voedsel"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Ware"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Graan"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Ystererts"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Vee"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Pos"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Mieliemeel"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Olie"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Papier"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Passasiers"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Gom"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Suiker"
+
+[ECONOMY_INFO_FIRS]
+base = "Komplekse ekonomie met talle bedrywe en vragte."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Eenvoudige ekonomie. Geïnspireer deur Finland, Noord-Canada en Noord-Siberië. Word die beste met ’n subarktiese klimaat gebruik."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Eenvoudige ekonomie. Geïnspireer deur die suidweste van die Verenigde Koninkryk. Word die beste met ’n gematigde klimaat gebruik."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Eenvoudige ekonomie. Geïnspireer deur Argentinië, Peru en Chili. Werk die beste met ’n Subtropiese klimaat."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Komplekse ekonomie met talle bedrywe en vragte. Geïnspireer deur die sentrale-wes van Afrika. Werk die beste met ’n Subtropiese klimaat."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Komplekse ekonomie met yster-, staal- en swaarvervaardigingsbedrywe."
+
+[CARGO_INFO_PASSENGERS]
+base = "Beskikbaar in alle ekonomieë. Word deur dorpgeboue en ook ’n paar nywerhede vervaardig en aanvaar."
+
+[CARGO_INFO_MAIL]
+base = "Beskikbaar in alle ekonomieë. Word deur dorpgeboue vervaardig en aanvaar."
+
+[CARGO_INFO_ACID]
+base = "Industriële sure, soos hidrokloriensuur, salpetersuur en swawelsuur."
+
+[CARGO_INFO_AGGREGATES]
+base = "Gruis, sand, verbryselde steen en soortgelyke materiale wat in die boubedryf gebruik word."
+
+[CARGO_INFO_ALUMINA]
+base = "Wit poeier wat uit boksieterts verfyn word en gebruik word om aluminiummetaal te vervaardig."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Verfynde aluminiummetaal, in rolle, staafstukke, slabe ens."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Industriële chemikalieë wat uit ammoniak afgelei word, soos ammoniak, salpetersuur en ureum. Word as vloeistowwe, kriogenies as vloeibare gas of as droë bulk vervoer."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Wit, grys of bruin kalsiumsulfaatklip wat in die produksie van swawelsuur en sement gebruik word. Word dikwels as bedekte bulk vervoer."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Industriële minerale wat in chemiese verwerking gebruik word. Bariet word in bariumchemikalieë en vulmiddels gebruik; fluorspar word in fluorchemie en metallurgiese fluxe gebruik."
+
+[CARGO_INFO_BASE_METALS]
+base = "Nie-ysterhoudende metale, soos koper, nikkel, sink en lood."
+
+[CARGO_INFO_BEANS]
+base = "Gewone bone, fava-bone, sojabone en soortgelyke eetbare peulgewasse."
+
+[CARGO_INFO_BITUMEN]
+base = "Dik petroliumprodukt wat hoofsaaklik vir padoppervlakke en dakbedekking gebruik word."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Sement, glas, metaalkomponente, houtprodukte, pype en soortgelyke boumateriaal."
+
+[CARGO_INFO_CASSAVA]
+base = "Eetbare wortelgewas, ook bekend as maniok en yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Intens swart koolstofpoeier wat in bande, plastiek en pigmente gebruik word. Word as ’n poeier hanteer."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billette, blooms, ingote en slabe."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billette, blooms, ingote en slabe."
+
+[CARGO_INFO_CEMENT]
+base = "Droë sement in poeier- of klinkervorm."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Tussenganger-chemiese produkte wat as grondstowwe vir verdere industriële verwerking gebruik word."
+
+[CARGO_INFO_CHEMICALS]
+base = "Algemene organiese en anorganiese chemikalieë wat as vloeistof, gas, bedekte bulk, poeier of as stukware hanteer word."
+
+[CARGO_INFO_CHLORINE]
+base = "Industriële chemikalie, gewoonlik kriogenies as vloeibare saamgedrukte gas vervoer."
+
+[CARGO_INFO_CLAY]
+base = "Algemene kleisoorte vir die vervaardiging van boumateriaal en ander nywerheidstoepassings."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Chemiese stowwe, seep, skuurmiddels ens. vir industriële en huishoudelike gebruik. Hoofsaaklik vloeibaar, maar kan ook poeier of vast wees (soos skietstraalsand)."
+
+[CARGO_INFO_COAL_TAR]
+base = "’n Byproduk van koolproduksie, ’n dik vloeistof wat stadig vloei."
+
+[CARGO_INFO_COFFEE]
+base = "Rou of geroosterde koffiebone."
+
+[CARGO_INFO_COKE]
+base = "Kool wat in ’n kookoond verhit is om ’n brandstof te produseer wat byna suiwer koolstof is."
+
+[CARGO_INFO_COMPONENTS]
+base = "Hoëwaarde-ingenieurskomponente soos elektriese toerusting, motors, transformers, beheertoerusting, hidrouliek, pneumatiek, pompe, kleppe en aandrywingstelseltoerusting."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Gietprodukte soos blokke, balks en panele. Kan ook as gereedgemengde beton in mengvoertuie vervoer word."
+
+[CARGO_INFO_COPPER]
+base = "Verfynde kopermetaal, in rolle, staafstukke ens."
+
+[CARGO_INFO_DIAMONDS]
+base = "Is vir altyd, ens."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Olie vir kook en verbruik."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Elektriese en elektroniese komponente, motors, beheerders, skakeltoerusting, ligte ens."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Masjiene, brandstof, onderdele, houtprodukte, pype, springstof en ander voorrade vir myne en soortgelyke nywerhede."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Siviele springstof vir mynbou, konstruksie ens."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Masjiene, brandstof, onderdele, kunsmis en ander voorrade vir plase, woude en soortgelyke nywerhede."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Word in staalproduksie gebruik. Legerings van yster en ander elemente, waaronder mangaan, nikkel, chroom, aluminium, silisium en wolfraam. Grys klonte, soortgelyk aan steenkoolklonte in grootte en vorm."
+
+[CARGO_INFO_FERROCHROME]
+base = "Word in die produksie van legerings en vlekvrye staal gebruik; ’n legering van chroom en yster. Grys klonte, soortgelyk aan steenkoolklonte in grootte en vorm."
+
+[CARGO_INFO_FLOUR]
+base = "Gevormde graanprodukte soos meel en stysel, in sakke of in bedekte grootmaat vervoer."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Metaaldele vir samestelling tot groter items."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Bestanddele wat in voedselverwerking gebruik word, soos konserveermiddels, geurmiddels, kleurstowwe en verwerkingshulpmiddels."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Voedsel wat tydens vervoer en berging bevrore gehou word."
+
+[CARGO_INFO_FRUITS]
+base = "Vars en gedroogde vrugte, soos piesangs, sitrus, druiwe, bessies, ananas, rosyne en soortgelyke produkte."
+
+[CARGO_INFO_GRAIN]
+base = "Koring, gerst ens."
+
+[CARGO_INFO_HARDWARE]
+base = "Vir huishoudelike en konstruksiegebruik. Gereedskap, hulpmiddels, vaste installasies en toebehore uit metaal en ander materiale."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Roetoven"
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Industriële gase wat in chemiese verwerking, metaalbewerking en sweiswerk gebruik word, en in silinders of drukvragmotors vervoer word."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Drums, winke, boeie, hake, katrolle, hidrouliese ramme en ander onderdele vir kranes, hysmasjiene, hysbakke ens."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Ligte petrolemfraksies wat as chemiese grondstowwe gebruik word en as grootmaatvloeistowwe vervoer word."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Hoofsaaklik koeie, varke en skape vir vleisproduksie. Ander diere kan ook geëet word."
+
+[CARGO_INFO_LYE]
+base = "Industriële chemikalie. Ook bekend as Lye of Kaustiese Sooda. Gewoonlik as vloeistof vervoer."
+
+[CARGO_INFO_KAOLIN]
+base = "’n Industriële mineraal, ook bekend as kaolien, wat hoofsaaklik in papier- en plastiekproduksie gebruik word."
+
+[CARGO_INFO_MANGANESE]
+base = "Mangaanerts, hoofsaaklik gebruik in staalproduksie."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Masjiene, onderdele, brandstof, boumateriaal en ander voorrade vir hawens, dokke en soortgelyke nywerhede."
+
+[CARGO_INFO_METAL]
+base = "Algemene metaal, soos staal, aluminium of ander gewone metale."
+
+[CARGO_INFO_METHANOL]
+base = "Industriële alkohol wat as ’n chemiese grondstof en brandstof gebruik word en as vloeibare bulgoed vervoer word."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Tussenganger-suikerprodukte vir raffinering, fermentasie en industriële gebruik. Klewerige korrels word as bedekte bulk hanteer; dik stroop as ’n vloeistof; albei kan verpak word."
+
+[CARGO_INFO_NITROGEN]
+base = "Industriële gas. Word kriogenies as vloeibare, saamgeperste gas vervoer."
+
+[CARGO_INFO_OIL]
+base = "Ruwe, onverfynde petrolium wat as vloeibare massa vervoer word."
+
+[CARGO_INFO_OXYGEN]
+base = "Industriële gas. Word kriogenies as vloeibare, saamgeperste gas vervoer."
+
+[CARGO_INFO_PACKAGING]
+base = "Kaste, bottels, potte, blikkies, ens."
+
+[CARGO_INFO_PEAT]
+base = "Biomassa uit turfveld, onttrek vir brandstof en tuinbou."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Verfynde petroleumprodukte soos petrol, diesel, kerosien, LPG, brandolie en bunkerbrandstof, vervoer as massavloeistowwe of vloeibaargas."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Industriële suur wat hoofsaaklik in die produksie van kunsmis en chemikalieë gebruik word en as vloeibare bulgoed vervoer word."
+
+[CARGO_INFO_PIG_IRON]
+base = "Basiese yster uit ’n blaasoven, as gesmelte vloeistof of vaste ingote."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Katoen, vlas, jute en soortgelyke materiale vir die vervaardiging van tekstiele en saamgestelde materiale."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Aangedrewe toerusting en meganiese stelsels wat in geboue, nywerhede en plase gebruik word. As volledige eenhede of as groot deelmonterings vervoer."
+
+[CARGO_INFO_PETROL]
+base = "Petrol, diesel en soortgelyke brandstowwe."
+
+[CARGO_INFO_PLASTICS]
+base = "Rou plastiek vir verdere verwerking. Gewoonlik as harskrale vervoer."
+
+[CARGO_INFO_PIPEWORK]
+base = "Opleidingsvate, drukvate, silo's, gascilinders en pypassemblages vir gebruik in stedelike geboue, nywerhede en plase."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Industriële chemikalieë wat in vervaardiging en verwerking gebruik word, en as vloeistowwe, poeiers, gase of verpakte goedere vervoer word."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Sulfiedminerale, gesmelt om 'n verskeidenheid nywerheidsprodukte te vervaardig."
+
+[CARGO_INFO_QUICKLIME]
+base = "Kalsiumoksied, ook bekend as gebrande kalk. Dit word as ’n fyn poeier vervoer wat droog gehou moet word."
+
+[CARGO_INFO_REBAR]
+base = "Dun, growwe staalstawe wat wyd gebruik word om betonstrukture te versterk. Dit word as rolle of bondels reguit stawe vervoer."
+
+[CARGO_INFO_RUBBER]
+base = "Hoofsaaklik natuurlike latex."
+
+[CARGO_INFO_SALT]
+base = "Wyd gebruikte nywerheidschemikalie. Word gewoonlik as bulklading vervoer wat droog gehou moet word."
+
+[CARGO_INFO_SAND]
+base = "Grof sand vir konstruksie, of fyn silikasand vir glasvervaardiging en metaalgietery. Word as bulk of poeier vervoer."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Buigsame verseëlaars, pakkinge, slange, rieme, matte, bousings, ens., gemaak van rubber of soortgelyke materiale."
+
+[CARGO_INFO_SLAG]
+base = "Afvalproduk uit yster- en staalproduksie."
+
+[CARGO_INFO_SODA_ASH]
+base = "Industriële chemikalie. In die vorm van ’n wit poeier."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Halfverwerkte staalgietstukke. Reghoekig, vierkantig of rond in dwarsdoorsnit."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Ruwe staalgietstukke wat verdere verwerking vereis. Ingote kan klein of baie groot wees. Tipiese ingootprofiele is reghoekig of rond."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Staale, soos ronde, vierkante, platte en ander profile. Vervoer word as lang, reguit produkte."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Lang ronde staalpipe vir die vervoer van vloeistowwe in pyplyne, geboue, nywerhede, ens."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Gerolde staalplate en profiele – I-balks, H-balks, kanale ens. Vervoer word as lang, reguit produkte uitgevoer."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Dun gerolde staalplate en -strepies wat wyd gebruik word om ander produkte te vervaardig. Dit word as plat plate of rolle vervoer."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Halfverwerkte staalgietstukke. Alttyd plat en reghoekig in dwarsdoorsnit."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Lang hol buise met ronde, reghoekige en ander dwarsdeursnee. Word gebruik om strukture en masjiene te vervaardig."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Staaldraad en dun stawe. Word hoofsaaklik as rolle vervoer."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Toue en kables wat vervaardig word deur staaldraadstaaf tot ’n kleiner deursnee te trek en dit dan tot gebundelde toue te draai."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Staal van strukturele gehalte as gerolde profiele (I-balks, H-balks, ens.), as plat plaat of as vervaardigde profiele en balks wat uit plaat gesweis is."
+
+[CARGO_INFO_SULPHUR]
+base = "Wyd gebruikte nywerheidschemikalie. Heldergeel, in poeier- of vloeibare vorm."
+
+[CARGO_INFO_TIMBER]
+base = "Verwerkte houtprodukte van ’n saagsaag of soortgelyke nywerhede."
+
+[CARGO_INFO_TIN]
+base = "Ingote."
+
+[CARGO_INFO_TINPLATE]
+base = "Dun staalplate wat met tyn bedek is om korrosie te weerstaan en hoofsaaklik vir blikkies, houers en ander verpakking gebruik word."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Fyn draad wat gebruik word om bande te versterk. Word as ’n spoel vervoer."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Kajuite, motorkapte, deure en soortgelyke karrosseriestrukture vir voertuigproduksie."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Binneverbrandingsenjins en verwante aandrywingstelselonderdele, soos transmissies en aandryfasse."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponente vir voertuigproduksie, soos chassis- en ophangingskomponente, elektriese onderdele, eksterne afwerking en binnedeelonderdele."
+
+[CARGO_INFO_VEHICLES]
+base = "Hoofsaaklik vragmotore. Of motors. Of ligte vragmotore. Moontlik trekkers."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Voorsienings vir die sny en sweis van metaal, soos sweisstawe, gereedskap en nywerheidsgasse, waaronder asetileen, argon, propaan, suurstof en stikstof."
+
+[CARGO_INFO_WOOD]
+base = "Houtstamme uit ’n woud."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Verwerkte houtsvesel wat hoofsaaklik vir papierproduksie gebruik word en as bale of bulkpulp vervoer word."
+
+[CARGO_INFO_WOOL]
+base = "Bale."
+
+[CARGO_INFO_ZINC]
+base = "Ingote."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

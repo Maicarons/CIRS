@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x39"
+plural = "1"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS コミュニティ産業置換セット"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS コミュニティ産業代替セット{}{BLACK}FIRSのコミュニティによるフォークで、元々は andythenorth、FooBar、planetmaker、Terkhen、Yexoによって作成され、多くの人々の協力も得ています。{SILVER}CIRSの使い方など、詳細はウェブサイトをご覧ください。{BLACK}ライセンス: GPL v2。"
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "タイル単位での漁場、石油リグ、浚渫地点から海岸までの最大距離。"
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "各経済圏は、異なる貨物と産業の組み合わせを提供します。{}{}シンプルなゲームプレイを希望するプレイヤー向けに、{SILVER}Basic {BLACK}経済圏には、他のCIRS経済圏よりも少ない産業と貨物が含まれています。{}{}CIRSのウェブサイトでは、各経済圏に関する詳細な情報が提供されています。"
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "タイル単位での海洋産業の最大沿岸距離"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "経済圏"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "制限なし"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "強化一次生産に必要な供給箱（デフォルト16）"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "ガンホー一次生産に必要な供給箱（デフォルト80）"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "農場、鉱山、および類似産業は、補給箱が届けられると生産量が増加します。まず {SILVER}Enhanced{BLACK} に、十分な箱が届けられれば次に {SILVER}Gung-ho{BLACK} に届けられます。 {}{}デフォルト値は適切ですが、必要であればここで変更できます。 {}{}港湾型産業の貨物要件は、ここに設定された値の8倍になります。"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "一次生産レベルの向上（%）"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho 一次生産レベル (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "供給要件が満たされた場合の農場、鉱山、および類似産業での生産（{SILVER}通常 {BLACK}生産レベルに対する割合）。"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "温帯基本"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "北極ベーシック"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "トロピック・ベーシック"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "暑い国で"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "マイルド・マイルド・ウェスト"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "製鉄町"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS 景観オブジェクト"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS には景観オブジェクトのセットが含まれており、プレイヤーはこれを配置して特定の産業をより大きく見せることができます。景観オブジェクトにはゲームプレイ上の効果はありません。景観オブジェクトはオン・オフの切り替えが可能です。"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(オプション)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(付属)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}最大生産量にするには、必要な貨物を{WHITE}少なくとも1種類{BLACK}供給してください。"
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}最大生産率にするには、必要な貨物を{WHITE}両方{BLACK}、3分ごとに少なくとも1回供給してください。"
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}最大生産率にするには、必要な貨物を{WHITE}すべて{BLACK}、3分ごとに少なくとも1回供給してください。"
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}最大生産率にするには、必要な貨物を{WHITE}少なくとも2種類{BLACK}、3分ごとに少なくとも1回供給してください。"
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}最大生産率にするには、必要な貨物を{WHITE}少なくとも3種類{BLACK}、3分ごとに少なくとも1回供給してください。"
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}生産量は町の人口に比例します。毎分、貨物は最低で{WHITE}{SIGNED_WORD}ユニット、{BLACK}最大で{WHITE}{SIGNED_WORD}ユニット{BLACK}生産されます。"
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}現在の生産量: {YELLOW}通常 {}{}{BLACK}{WHITE}強化 {BLACK}生産の場合は、3分に少なくとも1回、{SIGNED_WORD}箱の補給品を輸送してください。{}{WHITE}ガンホー {BLACK}生産の場合は、{SIGNED_WORD}箱を輸送してください。"
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}現在の生産量: {YELLOW}強化 {}{}{BLACK}このレベルを維持するには、3分に少なくとも1回、{SIGNED_WORD}箱の補給品を輸送してください。{}{WHITE}ガンホー {BLACK}生産の場合は、{SIGNED_WORD}ユニットを輸送してください。"
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}現在の生産量: {YELLOW}ガンホー {}{}{BLACK}このレベルを維持するには、3分に少なくとも1回、{SKIP}{SIGNED_WORD}箱の補給品を輸送してください。"
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}現在の生産量: {YELLOW}通常 {}{}{BLACK}{WHITE}強化 {BLACK}生産の場合、3分ごとに少なくとも1回、{SIGNED_WORD}ユニットの貨物を輸送してください。{}{WHITE}ガンホー {BLACK}生産の場合、{SIGNED_WORD}ユニットを輸送してください。"
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}現在の生産量: {YELLOW}強化 {}{}{BLACK}このレベルを維持するには、3分に少なくとも1回、{SIGNED_WORD}ユニットの貨物を輸送してください。{}{WHITE}ガンホー {BLACK}生産の場合は、{SIGNED_WORD}ユニットを輸送してください。"
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}現在の生産量: {YELLOW}ガンホー {}{}{BLACK}このレベルを維持するには、3分に少なくとも1回、{SKIP}{SIGNED_WORD}ユニットの貨物を輸送してください。"
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRSにはOpenTTD 1.7.0（またはtrunkビルドを使用している場合はr27769）が必要です。"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}互換性のないセット: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}互換性のないパラメータ: {ORANGE}CIRSと連携させるには、CanSetパラメータ2を0に設定する必要があります。"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}互換性のないパラメータ: {ORANGE}NA City Setのパラメータ2は、CIRSと併用するためには0でなければなりません。"
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}互換性のないバージョン: {ORANGE}Total Town Replacement Setはバージョン3.11以降でなければなりません。"
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "雪線より下に配置する必要があります。"
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "急斜面には設置できません"
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}場所：{YELLOW}雪の上や砂漠では資金提供不可。"
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}場所：{YELLOW}雪の上や砂漠では資金提供不可。"
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}場所：{YELLOW}雪の上や砂漠では資金提供不可。"
+
+[STR_FUND_FARM]
+base = "{}{BLACK}場所：{YELLOW}雪の上や砂漠では資金提供不可。"
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}場所：{YELLOW}砂漠では資金提供不可。"
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}場所：{YELLOW}雪の上では資金提供不可。"
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}場所：{YELLOW}雪の上でのみ資金提供可能。"
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}場所：{YELLOW}雪の上や砂漠では資金提供不可。"
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}場所：{YELLOW}雪の上や砂漠では資金提供不可。"
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}場所：{YELLOW}雪の上や砂漠では資金提供不可。"
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "硫酸"
+cargo_unit = "{VOLUME}の酸"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "骨材"
+cargo_unit = "骨材 {WEIGHT}"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "アルミニウム"
+cargo_unit = "アルミニウム {WEIGHT}"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "アルミナ"
+cargo_unit = "アルミナ {WEIGHT}"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "アンモニア・硝酸製品"
+cargo_unit = "{VOLUME}のアンモニアと硝酸製品"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "アンハイドライト岩"
+cargo_unit = "無水石膏岩 {WEIGHT}"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "リンゴ"
+cargo_unit = "リンゴ {WEIGHT}"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "大豆"
+cargo_unit = "豆類 {WEIGHT}"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "ビチューメン"
+cargo_unit = "{VOLUME}のビチューメン"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "建材"
+cargo_unit = "建材 {WEIGHT}"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "カーボンブラック"
+cargo_unit = "カーボンブラック {WEIGHT}"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "キャッサバ"
+cargo_unit = "キャッサバの{WEIGHT}"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "鋳鉄"
+cargo_unit = "鋳鉄の{WEIGHT}"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "セメント"
+cargo_unit = "セメントの{WEIGHT}"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "化学中間体"
+cargo_unit = "{VOLUME}の化学中間体"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "化学薬品"
+cargo_unit = "化学薬品 {VOLUME}"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CHLORINE]
+name = "塩素"
+cargo_unit = "塩素 {VOLUME}"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CLAY]
+name = "粘土"
+cargo_unit = "粘土の{WEIGHT}"
+cid = "{TINYFONT}CY"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "洗浄剤"
+cargo_unit = "洗浄剤の{WEIGHT}"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "コーヒー"
+cargo_unit = "コーヒー袋の{WEIGHT}"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "コールタール"
+cargo_unit = "コールタール {VOLUME}"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "コークス"
+cargo_unit = "コークスの{WEIGHT}"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "精密部品"
+cargo_unit = "{WEIGHT}の精密部品"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "コンクリート製品"
+cargo_unit = "コンクリート製品の{WEIGHT}"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "銅"
+cargo_unit = "銅の{WEIGHT}"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "食用油"
+cargo_unit = "食用油 {VOLUME}"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "電気部品"
+cargo_unit = "電気部品の{WEIGHT}"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "エンジニアリング用品"
+cargo_unit = "{SIGNED_WORD} 工学用品の箱"
+cid = "{TINYFONT}ES"
+
+[STR_CARGO_EXPLOSIVES]
+name = "爆薬"
+cargo_unit = "爆薬の{WEIGHT}"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "フェロアロイ"
+cargo_unit = "フェロアロイの{WEIGHT}"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "魚介類"
+cargo_unit = "魚介類の{WEIGHT}"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "農場用品"
+cargo_unit = "{SIGNED_WORD} 農業用品の箱"
+cid = "{TINYFONT}FS"
+
+[STR_CARGO_FERTILISER]
+name = "肥料"
+cargo_unit = "肥料の{WEIGHT}"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "小麦粉とデンプン"
+cargo_unit = "小麦粉・デンプンの{WEIGHT}"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "食品添加物"
+cargo_unit = "食品添加物の{WEIGHT}"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "食品・飲料"
+cargo_unit = "食品・飲料の{WEIGHT}"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "鍛造品と鋳造品"
+cargo_unit = "鍛造品・鋳物の{WEIGHT}"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "冷凍食品"
+cargo_unit = "冷凍食品の{WEIGHT}"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "果物"
+cargo_unit = "果物の{WEIGHT}"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "ガラス製品"
+cargo_unit = "ガラス製品の{WEIGHT}"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "金具と仕上げ"
+cargo_unit = "金物・仕上げ材の{WEIGHT}"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "工業用炭素"
+cargo_unit = "工業用炭素の{WEIGHT}"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "工業用ガス"
+cargo_unit = "工業用ガス {VOLUME}"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "陶土"
+cargo_unit = "チャイナクレイの{WEIGHT}"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "軽炭化水素"
+cargo_unit = "軽炭化水素 {VOLUME}"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "石灰岩"
+cargo_unit = "石灰岩の{WEIGHT}"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "丸太"
+cargo_unit = "丸太の{WEIGHT}"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "水酸化ナトリウム"
+cargo_unit = "水酸化ナトリウム {VOLUME}"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "メタノール"
+cargo_unit = "メタノール {VOLUME}"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "牛乳"
+cargo_unit = "{VOLUME}の牛乳"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "マンガン"
+cargo_unit = "マンガンの{WEIGHT}"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "肉"
+cargo_unit = "肉の{WEIGHT}"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "バリウムとフッ石"
+cargo_unit = "バリウムとフッ石 {WEIGHT}"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "鉱物フィラー"
+cargo_unit = "鉱物充填剤の{WEIGHT}"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "粗糖・糖蜜"
+cargo_unit = "{WEIGHT}の粗糖・糖蜜"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "硝酸塩"
+cargo_unit = "硝酸塩の{WEIGHT}"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "窒素"
+cargo_unit = "窒素 {VOLUME}"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "ナッツ"
+cargo_unit = "ナッツの{WEIGHT}"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "酸素"
+cargo_unit = "酸素 {VOLUME}"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "容器"
+cargo_unit = "包装の{WEIGHT}"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "塗料・コーティング剤"
+cargo_unit = "塗料・コーティング剤 {VOLUME}"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "ピート"
+cargo_unit = "{WEIGHT}の泥炭"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "ガソリン"
+cargo_unit = "石油燃料 {VOLUME}"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "貯蔵タンクと配管"
+cargo_unit = "貯蔵タンク・配管の{WEIGHT}"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "リン酸塩"
+cargo_unit = "リン酸塩の{WEIGHT}"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "リン酸"
+cargo_unit = "リン酸 {VOLUME}"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "銑鉄"
+cargo_unit = "銑鉄の{WEIGHT}"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "プラスチックと樹脂"
+cargo_unit = "{WEIGHT}のプラスチック・樹脂"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "プラントと機械"
+cargo_unit = "{WEIGHT}のプラント・機械"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "カリウム"
+cargo_unit = "{WEIGHT}のカリウム"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "プロセス化学薬品"
+cargo_unit = "{WEIGHT}のプロセス化学薬品"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "ポンプとバルブ"
+cargo_unit = "{WEIGHT}のポンプ・バルブ"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "黄鉄鉱"
+cargo_unit = "{WEIGHT}の黄鉄鉱"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "生石灰"
+cargo_unit = "{WEIGHT}の生石灰"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "鉄筋"
+cargo_unit = "{WEIGHT}の鉄筋"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "塩"
+cargo_unit = "{WEIGHT}の塩"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "砂"
+cargo_unit = "砂の {WEIGHT}"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "スクラップ金属"
+cargo_unit = "{WEIGHT}のスクラップ金属"
+cid = "{TINYFONT}SM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "シール、ホース、ベルト"
+cargo_unit = "シール、ホース、ベルトの{WEIGHT}"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "スラグ"
+cargo_unit = "スラグの{WEIGHT}"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "ソーダ灰"
+cargo_unit = "ソーダ灰の{WEIGHT}"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "鋼鉄"
+cargo_unit = "鋼鉄の{WEIGHT}"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "ビレットとブルーム"
+cargo_unit = "ビレットとブルーム {WEIGHT}"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "鋼鉄のインゴット"
+cargo_unit = "鋼鉄インゴットの{WEIGHT}"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "商人バー"
+cargo_unit = "商取引用バーの{WEIGHT}"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "鋼鉄パイプ"
+cargo_unit = "鋼鉄パイプの{WEIGHT}"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "鋼鉄板"
+cargo_unit = "鋼鉄プレートの{WEIGHT}"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "鋼鉄シート・ストリップ"
+cargo_unit = "鋼鉄シート・ストリップの{WEIGHT}"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "鋼鉄スラブ"
+cargo_unit = "鋼鉄スラブの{WEIGHT}"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "鋼鉄チューブ"
+cargo_unit = "鋼鉄チューブの{WEIGHT}"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "鋼鉄ワイヤーロッド"
+cargo_unit = "鋼鉄ワイヤーロッドの{WEIGHT}"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "構造用鋼材"
+cargo_unit = "構造用鋼の{WEIGHT}"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "硫黄"
+cargo_unit = "硫黄の{WEIGHT}"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "硫酸"
+cargo_unit = "硫酸 {VOLUME}"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "木材製品"
+cargo_unit = "木材製品の{WEIGHT}"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_TIN]
+name = "スズ"
+cargo_unit = "錫の{WEIGHT}"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "ブリキ板"
+cargo_unit = "ブリキの{WEIGHT}"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "タイヤコード"
+cargo_unit = "タイヤコードの{WEIGHT}"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "タイヤ"
+cargo_unit = "タイヤの{WEIGHT}"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "野菜"
+cargo_unit = "野菜の{WEIGHT}"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "車体ボデー"
+cargo_unit = "車両車体の{WEIGHT}"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "エンジン＆駆動系"
+cargo_unit = "エンジン＆駆動系の{WEIGHT}"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "車両部品"
+cargo_unit = "車両部品の{WEIGHT}"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "車両"
+cargo_unit = "車両の{WEIGHT}"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "溶接消耗品"
+cargo_unit = "溶接消耗品の{WEIGHT}"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "木材パルプ"
+cargo_unit = "木パルプの{WEIGHT}"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "ウール"
+cargo_unit = "{SIGNED_WORD} 羊毛の束"
+cid = "{TINYFONT}WL"
+
+[STR_CARGO_ZINC]
+name = "亜鉛"
+cargo_unit = "亜鉛 {WEIGHT}"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "亜鉛鉱石"
+cargo_unit = "亜鉛鉱石の{WEIGHT}"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "商品の{WEIGHT}"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "アルミニウム工場"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "アンモニアコンプレックス"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "アンハイドライト鉱山"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "アンハイドライト処理プラント"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "家電工場"
+
+[STR_IND_ARABLE_FARM]
+base = "耕地"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "組立工場"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "セクション・バーミル"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "転炉"
+
+[STR_IND_BLAST_FURNACE]
+base = "高炉"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "パーティクルボード工場"
+
+[STR_IND_BODY_PLANT]
+base = "ボディ工場"
+
+[STR_IND_BREWERY]
+base = "醸造所"
+
+[STR_IND_CIDER_MILL]
+base = "リンゴ酒造所"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "建設現場" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "カーボンブラック工場"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "セルロースフィルム工場"
+
+[STR_IND_CEMENT_PLANT]
+base = "セメント工場"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "化学コンビナート"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "爆薬工場"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "塩素・アルカリ工場"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "耐火粘土採掘所"
+
+[STR_IND_COFFEE_ESTATE]
+base = "コーヒー農園"
+
+[STR_IND_COKE_OVEN]
+base = "コークス炉"
+
+[STR_IND_CONCRETE_PLANT]
+base = "コンクリート工場"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "バッチ化学工場"
+
+[STR_IND_COPPER_SMELTER]
+base = "製銅工場"
+
+[STR_IND_CRYO_PLANT]
+base = "クライオプラント"
+
+[STR_IND_DAIRY]
+base = "酪農"
+
+[STR_IND_DAIRY_FARM]
+base = "酪農場"
+
+[STR_IND_DREDGING_SITE]
+base = "浚渫工事現場"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "エラストマー製品工場"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "電気炉"
+
+[STR_IND_ENGINE_PLANT]
+base = "エンジン工場"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "エンジニアリング工場"
+
+[STR_IND_FARM]
+base = "農場"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "プロセス化学薬品工場"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "発酵プラント"
+
+[STR_IND_FISH_FARM]
+base = "養殖場"
+
+[STR_IND_FISHING_GROUND]
+base = "漁場"
+
+[STR_IND_FISHING_HARBOUR]
+base = "漁港"
+
+[STR_IND_GRAIN_MILL]
+base = "製粉所"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "食品加工工場"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "鋼鉄の鍛造・鋳造"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "冷凍食品工場"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "家具工場"
+
+[STR_IND_GENERAL_STORE]
+base = "雑貨店"
+
+[STR_IND_GLASS_WORKS]
+base = "硝子工場"
+
+[STR_IND_HERDING_COOP]
+base = "牧畜協同組合"
+
+[STR_IND_HOTEL]
+base = "ホテル"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "冷凍デザート工場"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "製鉄所"
+
+[STR_IND_SCRAP_YARD]
+base = "スクラップ置き場"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "石灰窯"
+
+[STR_IND_LIMESTONE_MINE]
+base = "石灰岩鉱山"
+
+[STR_IND_MANGANESE_MINE]
+base = "マンガン鉱山"
+
+[STR_IND_METAL_WORKS]
+base = "金属加工所"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "鉱物フィラー工場"
+
+[STR_IND_NITRATE_MINE]
+base = "硝酸塩鉱山"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "工業化学プラント"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "石油・化学ターミナル"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "果樹園・養豚場"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "ボトル・缶工場"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "紙製品工場"
+
+[STR_IND_PEATLANDS]
+base = "泥炭地"
+
+[STR_IND_PETROLPUMP]
+base = "ガソリンスタンド"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "リン酸塩鉱山"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "肥料・酸工場"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "商業パン屋"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "配管店"
+
+[STR_IND_PLATE_MILL]
+base = "プレートミル"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "プラスチック成形品工場"
+
+[STR_IND_PORT]
+base = "港"
+
+[STR_IND_POTASH_MINE]
+base = "カリウム鉱山"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "電力システム工場"
+
+[STR_IND_POWER_PLANT]
+base = "発電所"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "精密部品工場"
+
+[STR_IND_PRODUCE_PACKER]
+base = "生産パッカー"
+
+[STR_IND_PYRITE_MINE]
+base = "黄鉄鉱鉱山"
+
+[STR_IND_PYRITE_SMELTER]
+base = "黄鉄鉱製錬所"
+
+[STR_IND_QUARRY]
+base = "採石場"
+
+[STR_IND_RANCH]
+base = "牧場"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "ロードストーン工場"
+
+[STR_IND_SALT_WORKS]
+base = "製塩工場"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "スラグ粉砕プラント"
+
+[STR_IND_SODA_ASH_MINE]
+base = "ソーダ灰鉱山"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "インスタント食品工場"
+
+[STR_IND_STOCKYARD]
+base = "家畜置き場"
+
+[STR_IND_STRIP_MILL]
+base = "ストリップミル"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "製糖工場"
+
+[STR_IND_SUPPLY_YARD]
+base = "供給ヤード"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "木材ヤード"
+
+[STR_IND_TIN_MINE]
+base = "スズ鉱山"
+
+[STR_IND_TINPLATE_WORKS]
+base = "ブリキ工場"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "軌道車両工場"
+
+[STR_IND_TRADING_POST]
+base = "交易所"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "チューブ・パイプ工場"
+
+[STR_IND_TYRE_PLANT]
+base = "タイヤ工場"
+
+[STR_IND_VINEYARD]
+base = "ぶどう園"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "車両販売店"
+
+[STR_IND_WHARF]
+base = "埠頭"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "ワイヤーロッド工場"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "亜鉛鉱山"
+
+[STR_IND_ZINC_SMELTER]
+base = "亜鉛製錬所"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "馬市場"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "電化製品"
+
+[STR_STATION_AUTOMOTIVE]
+base = "自動車"
+
+[STR_STATION_BAKERY]
+base = "パン屋"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "鉄骨"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "バー、グリル、客室"
+
+[STR_STATION_BARNS]
+base = "納屋"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "樽とケグ"
+
+[STR_STATION_BASE]
+base = "ふもと"
+
+[STR_STATION_BONEYARD]
+base = "スクラップ置き場"
+
+[STR_STATION_BANK_TOP]
+base = "銀行の最上階"
+
+[STR_STATION_BODY_PLANT]
+base = "プレス製品"
+
+[STR_STATION_BRINE_WORKS]
+base = "塩水処理施設"
+
+[STR_STATION_BUILDERS_YARD]
+base = "倉庫"
+
+[STR_STATION_COLLIERY]
+base = "炭鉱"
+
+[STR_STATION_COMPONENTS]
+base = "コンポーネント"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "プレキャスト"
+
+[STR_STATION_COPPER_LODE]
+base = "銅脈"
+
+[STR_STATION_CREOSOTING]
+base = "クレオソート処理"
+
+[STR_STATION_CRYO_PLANT]
+base = "クライオプラント"
+
+[STR_STATION_DAIRY_LANE]
+base = "酪農路"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "シールとホース"
+
+[STR_STATION_ESTATE]
+base = "エステート"
+
+[STR_STATION_FACTORY]
+base = "工場"
+
+[STR_STATION_FARM_1]
+base = "マナー"
+
+[STR_STATION_FARM_2]
+base = "牧草地"
+
+[STR_STATION_FARM_3]
+base = "牧場"
+
+[STR_STATION_FISHMARKET]
+base = "魚市場"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "食品会社"
+
+[STR_STATION_FOREST]
+base = "丸太受け入れ場"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "製鉄マスター"
+
+[STR_STATION_FREEZERS]
+base = "冷凍庫"
+
+[STR_STATION_FURNACE]
+base = "炉"
+
+[STR_STATION_METAL_WORKS]
+base = "金属製品"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "工場"
+
+[STR_STATION_HERDING_COOP]
+base = "ヘラジカの囲い"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "工業団地"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "水辺"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "着陸ステージ"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "海岸沿い"
+
+[STR_STATION_IRONSTONE]
+base = "鉄石"
+
+[STR_STATION_KILNS]
+base = "キルン"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "キンバーライト鉱床"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "石灰岩鉱山群"
+
+[STR_STATION_MANGANESE_MINES]
+base = "マンガン鉱山"
+
+[STR_STATION_MILL]
+base = "製粉所"
+
+[STR_STATION_MILLS]
+base = "製粉所群"
+
+[STR_STATION_MINES]
+base = "鉱山"
+
+[STR_STATION_MOULDINGS]
+base = "成形品"
+
+[STR_STATION_OIL_RIG]
+base = "フィールド"
+
+[STR_STATION_ORCHARDS]
+base = "農園"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "フローライン"
+
+[STR_STATION_PIT]
+base = "坑道"
+
+[STR_STATION_PLANT]
+base = "プラント"
+
+[STR_STATION_PLANTATION]
+base = "植林地"
+
+[STR_STATION_PLATE_MILL]
+base = "スラブヤード"
+
+[STR_STATION_POTASH_MINE]
+base = "鉱物"
+
+[STR_STATION_POWERHUNGRY]
+base = "発電所"
+
+[STR_STATION_POWERTRAIN]
+base = "パワートレイン"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "プラントと機械"
+
+[STR_STATION_PUMPS]
+base = "ポンプ"
+
+[STR_STATION_PYRITES]
+base = "黄鉄鉱床"
+
+[STR_STATION_REFINERY]
+base = "製油所"
+
+[STR_STATION_ROD_MILL]
+base = "ロッドミル"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "ゴム会社"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "硝石工場"
+
+[STR_STATION_SEAFOOD]
+base = "海産物"
+
+[STR_STATION_SHARP_STREET]
+base = "シャープ・ストリート"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "浅瀬"
+
+[STR_STATION_SILO]
+base = "サイロ"
+
+[STR_STATION_SMELTER]
+base = "製錬所"
+
+[STR_STATION_SOOT_FURNACE]
+base = "スート炉"
+
+[STR_STATION_SOUPS]
+base = "スープ"
+
+[STR_STATION_STRIP_MILL]
+base = "コイルライン"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "砂糖会社"
+
+[STR_STATION_TANK_FARM]
+base = "タンク農場"
+
+[STR_STATION_TAPPERS_SHED]
+base = "タッパー小屋"
+
+[STR_STATION_TOWN_3]
+base = "商店街"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "クローラー作業場"
+
+[STR_STATION_TRONA_BEDS]
+base = "トロナ層"
+
+[STR_STATION_TUBE_MILL]
+base = "チューブ工場"
+
+[STR_STATION_WATER]
+base = "砂州"
+
+[STR_STATION_WELLS]
+base = "井戸"
+
+[STR_STATION_WHEAL]
+base = "錫鉱脈"
+
+[STR_STATION_WINERY]
+base = "ワイナリー"
+
+[STR_STATION_WORKS]
+base = "工場"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "トラック駐車場"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "土地"
+
+[STR_BADGE_SEA]
+base = "SEA"

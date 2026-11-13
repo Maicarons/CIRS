@@ -1,0 +1,6884 @@
+{
+ "lang": "turkish",
+ "display": "Turkish (Türkçe)",
+ "count": 631,
+ "refs": 655,
+ "entries": [
+  {
+   "en": " {BLACK}(optional)",
+   "ph": [
+    "BLACK"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG.base"
+    ]
+   ]
+  },
+  {
+   "en": " {BLACK}(supplied)",
+   "ph": [
+    "BLACK"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG.base"
+    ]
+   ]
+  },
+  {
+   "en": ".",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/lang/turkish.toml",
+     "DOC_GS_DOWNLOAD_B1_SUFFIX"
+    ],
+    [
+     "src/docs/lang/turkish.toml",
+     "DOC_GS_DOWNLOAD_B2_SUFFIX"
+    ],
+    [
+     "src/docs/lang/turkish.toml",
+     "DOC_CR_SOURCE_P1_SUFFIX"
+    ]
+   ]
+  },
+  {
+   "en": "Acid",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ACID.name"
+    ]
+   ]
+  },
+  {
+   "en": "Aggregates",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_AGGREGATES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Alumina",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ALUMINA.name"
+    ]
+   ]
+  },
+  {
+   "en": "Aluminium",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ALUMINIUM.name"
+    ]
+   ]
+  },
+  {
+   "en": "Aluminium Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ALUMINIUM_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Ammonia & Nitric Products",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Ammonia Complex",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Anhydrite Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ANHYDRITE_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Anhydrite Process Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ANHYDRITE_PROCESS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Anhydrite Rock",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ANHYDRITE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Apples",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_APPLES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Appliance Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_APPLIANCE_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Arable Farm",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ARABLE_FARM.base"
+    ]
+   ]
+  },
+  {
+   "en": "Arctic Basic",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base"
+    ]
+   ]
+  },
+  {
+   "en": "Are forever, etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_DIAMONDS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Assembly Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ASSEMBLY_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Automotive",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_AUTOMOTIVE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Available in all economies.  Produced and accepted by town buildings, and also a few industries.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PASSENGERS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Available in all economies.  Produced and accepted by town buildings.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_MAIL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Bakery",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BAKERY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Bales.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_WOOL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Bank Top",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BANK_TOP.base"
+    ]
+   ]
+  },
+  {
+   "en": "Bar, Grill and Rooms",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BAR_GRILL_AND_ROOMS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Barns",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BARNS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Barrel and Keg",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BARREL_AND_KEG.base"
+    ]
+   ]
+  },
+  {
+   "en": "Barytes & Fluorspar",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_BARYTES_AND_FLUORSPAR.name"
+    ]
+   ]
+  },
+  {
+   "en": "Base",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BASE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Basic Oxygen Furnace",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_BASIC_OXYGEN_FURNACE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Basic iron from a blast furnace, as molten liquid or solid ingots.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PIG_IRON.base"
+    ]
+   ]
+  },
+  {
+   "en": "Batch Chemical Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CONSUMER_CHEMICALS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Billets & Blooms",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Billets, blooms, ingots and slabs.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CARBON_STEEL.base"
+    ],
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CAST_IRON.base"
+    ]
+   ]
+  },
+  {
+   "en": "Biomass from peat bogs, extracted for fuel and horticulture.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PEAT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Bitumen",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_BITUMEN.name"
+    ]
+   ]
+  },
+  {
+   "en": "Blast Furnace",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_BLAST_FURNACE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Body Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_BODY_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Boneyard",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BONEYARD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Bottle & Can Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_BOTTLE_AND_CAN_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Boxes, bottles, jars, cans, etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PACKAGING.base"
+    ]
+   ]
+  },
+  {
+   "en": "Brine Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BRINE_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Builders Yard",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BUILDERS_YARD.base"
+    ]
+   ]
+  },
+  {
+   "en": "By-product from coke production, a thick slow-flowing liquid.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_COAL_TAR.base"
+    ]
+   ]
+  },
+  {
+   "en": "CIRS",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/lang/turkish.toml",
+     "DOC_BRAND"
+    ]
+   ]
+  },
+  {
+   "en": "CIRS Community Industry Replacement Set",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_GRF_NAME.base"
+    ],
+    [
+     "src/docs/lang/turkish.toml",
+     "DOC_TITLE"
+    ]
+   ]
+  },
+  {
+   "en": "CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_DESC_OBJECTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "CIRS landscaping objects",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_NAME_OBJECTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Cabs, bonnets, doors and similar body structures for vehicle production.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_VEHICLE_BODIES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Calcium Oxide, also known as burnt lime. Transported as fine powder that must be kept dry.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_QUICKLIME.base"
+    ]
+   ]
+  },
+  {
+   "en": "Carbon Black",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CARBON_BLACK.name"
+    ]
+   ]
+  },
+  {
+   "en": "Carbon Black Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CARBON_BLACK_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Cassava",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CASSAVA.name"
+    ]
+   ]
+  },
+  {
+   "en": "Cast Iron",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CAST_IRON.name"
+    ]
+   ]
+  },
+  {
+   "en": "Cast products such as blocks, beams and panels. Can also be handled as ready-mix concrete in mixer trucks.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CONCRETE_PRODUCTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Cellulose Film Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CELLULOSE_PRODUCTS_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Cement",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CEMENT.name"
+    ]
+   ]
+  },
+  {
+   "en": "Cement, glass, metal components, wood products, pipes and similar construction materials.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_BUILDING_MATERIALS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Chemical Complex",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CHEMICAL_COMPLEX.base"
+    ]
+   ]
+  },
+  {
+   "en": "Chemical Intermediates",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CHEMICAL_INTERMEDIATES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Chemicals, soaps, scouring agents etc for industrial and domestic use. Primarily liquid, can also be powder or solid (such as shot blasting sand).",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CLEANING_AGENTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "China Clay",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_KAOLIN.name"
+    ]
+   ]
+  },
+  {
+   "en": "Chipboard Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CHIPBOARD_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Chlor-alkali Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CHLOR_ALKALI_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Chlorine",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CHLORINE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Cider Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CIDER_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Civil explosives for mining, construction etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_EXPLOSIVES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Cleaning Agents",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CLEANING_AGENTS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Coal",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_COAL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Coal Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_COAL_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Coal Tar",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COAL_TAR.name"
+    ]
+   ]
+  },
+  {
+   "en": "Coal that has been heated in a coke oven, producing a fuel that is nearly pure carbon.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_COKE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Coarse sand for construction, or fine silica sand for glass-making and metal casting. Transported as bulk or powder.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_SAND.base"
+    ]
+   ]
+  },
+  {
+   "en": "Coffee Estate",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_COFFEE_ESTATE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Coil line",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_STRIP_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Coke",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COKE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Coke Oven",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_COKE_OVEN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Colliery",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_COLLIERY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Commercial Bakery",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_COMMERCIAL_BAKERY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Common beans, fava beans, soybeans and similar edible legumes.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_BEANS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Complex economy featuring iron, steel and heavy manufacturing industries.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "ECONOMY_INFO_STEELTOWN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Complex economy with many industries and cargos.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "ECONOMY_INFO_FIRS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Complex economy with many industries and cargos. Inspired by central-western Africa. Best used with Sub-Tropic climate.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "ECONOMY_INFO_IN_A_HOT_COUNTRY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Components",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_COMPONENTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Components for vehicle production such as chassis and suspension components, electrical parts, external trim and interior parts.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_VEHICLE_PARTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Concrete Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CONCRETE_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Concrete Products",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CONCRETE_PRODUCTS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Construction Yard",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_BUILDERS_YARD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Convenience Foods Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CONVENIENCE_FOODS_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Copper Lode",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_COPPER_LODE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Copper Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Copper Ore",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_COPPER_ORE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Cotton, flax, jute and similar materials, for producing textiles and composite materials.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PLANT_FIBRES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Crawler Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_TRACKED_MACHINE_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Creosoting",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_CREOSOTING.base"
+    ]
+   ]
+  },
+  {
+   "en": "Crude, unrefined petroleum transported as bulk liquid.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_OIL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Cryo Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_CRYO_PLANT.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_CRYO_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Dairy",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_DAIRY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Dairy Farm",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_DAIRY_FARM.base"
+    ]
+   ]
+  },
+  {
+   "en": "Dairy Lane",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_DAIRY_LANE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Diamond Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_DIAMOND_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Diamonds",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_DIAMONDS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Dredging Site",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_DREDGING_SITE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Drums, winches, shackles, hooks, pulleys, hydraulic rams and other parts for cranes, hoists, elevators etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_LIFTING_EQUIPMENT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Dry cement in powder or clinker form.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CEMENT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.",
+   "ph": [
+    "",
+    "BLACK",
+    "SILVER"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_DESC_ECONOMIES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Economy",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_NAME_ECONOMIES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Edible Oil",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_EDIBLE_OIL.name"
+    ]
+   ]
+  },
+  {
+   "en": "Edible root crop, also known as manioc and yuca.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CASSAVA.base"
+    ]
+   ]
+  },
+  {
+   "en": "Elastomer Products Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ELASTOMER_PRODUCTS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Electric Arc Furnace",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ELECTRIC_ARC_FURNACE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Electrical Parts",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ELECTRICAL_PARTS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Electrical and electronic components, motors, controllers, switchgear, lights etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_ELECTRICAL_PARTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Electro Goods",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_APPLIANCE_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Engine Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ENGINE_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Engineering Supplies",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ENGINEERING_SUPPLIES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Engineering Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ENGINEERING_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Engines & Driveline",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLE_ENGINES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Enhanced primary production level (%)",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Estate",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_ESTATE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Explosives",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_EXPLOSIVES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Explosives Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_EXPLOSIVES_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Farm",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FARM.base"
+    ]
+   ]
+  },
+  {
+   "en": "Farm Supplies",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FARM_SUPPLIES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Farms, mines and similar industries will increase production when supply crates are delivered, first to {SILVER}Enhanced{BLACK}, and then to {SILVER}Gung-ho{BLACK}, if enough crates are delivered.  {}{}The default values are good, but if you need to, you can change them here.  {}{}Cargo requirements for port-type industries will be 8x the values set here.",
+   "ph": [
+    "",
+    "BLACK",
+    "SILVER"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Fermentation Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FERMENTATION_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Ferroalloys",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FERROALLOYS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Fertiliser",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FERTILISER.name"
+    ]
+   ]
+  },
+  {
+   "en": "Fertiliser & Acid Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PHOSPHATE_AND_ACID_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Field",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_OIL_RIG.base"
+    ]
+   ]
+  },
+  {
+   "en": "Fine wire used to reinforce tyres. Transported as coil.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_TYRE_CORD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Fish & Seafood",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FISH.name"
+    ]
+   ]
+  },
+  {
+   "en": "Fish Farm",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FISH_FARM.base"
+    ]
+   ]
+  },
+  {
+   "en": "Fish Market",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FISHMARKET.base"
+    ]
+   ]
+  },
+  {
+   "en": "Fishing Grounds",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FISHING_GROUND.base"
+    ]
+   ]
+  },
+  {
+   "en": "Fishing Harbour",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FISHING_HARBOUR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Flexible seals, gaskets, hoses, belts, mats, bushings, etc, made from rubber or similar materials.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_SEALS_BELTS_AND_HOSES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Flour & Starch",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FLOUR.name"
+    ]
+   ]
+  },
+  {
+   "en": "Flowline",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_PIPEWORK_FABRICATOR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Food",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_FOOD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Food & Beverages",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FOOD_AND_BEVERAGES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Food Additives",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FOOD_ADDITIVES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Food Corporation",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FOOD_CORPORATION.base"
+    ]
+   ]
+  },
+  {
+   "en": "Food Processing Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FOOD_PROCESSOR.base"
+    ],
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Foods kept frozen during transport and storage.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_FROZEN_FOOD.base"
+    ]
+   ]
+  },
+  {
+   "en": "For household and construction use. Tools, utensils, fixtures, fittings, in metal and other materials.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_HARDWARE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Forest",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_FOREST.base"
+    ]
+   ]
+  },
+  {
+   "en": "Forgings & Castings",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FORGINGS_AND_CASTINGS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Freezers",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FREEZERS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Fresh and dried fruit, such as bananas, citrus, grapes, berries, pineapple, raisins and similar.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_FRUITS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Frozen Desserts Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FROZEN_DESSERTS_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Frozen Food",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FROZEN_FOOD.name"
+    ]
+   ]
+  },
+  {
+   "en": "Frozen Food Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FROZEN_FOOD_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Fruit Plantation",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION.base"
+    ]
+   ]
+  },
+  {
+   "en": "Furnace",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FURNACE.base"
+    ]
+   ]
+  },
+  {
+   "en": "GPL(v2)",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/lang/turkish.toml",
+     "DOC_CR_SOURCE_P2_LINK"
+    ]
+   ]
+  },
+  {
+   "en": "GRFID",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/lang/turkish.toml",
+     "DOC_CR_TH_GRFID"
+    ]
+   ]
+  },
+  {
+   "en": "General Store",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_GENERAL_STORE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Generic clays, for producing building materials and other industrial uses.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CLAY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Generic metal, such as steel, aluminium or other common metals.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_METAL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Generic organic and inorganic chemicals, handled as liquid, gas, covered bulk, powder, or as piece goods.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CHEMICALS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Girders",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BAR_AND_SECTION_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Glass Products",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_GLASS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Glass Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_GLASS_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Goods",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_GOODS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Grain",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_GRAIN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Grain Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_GRAIN_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Gravel, sand, crushed stone and similar materials used in construction.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_AGGREGATES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Gung-ho primary production level (%)",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Hardware & Finishes",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_HARDWARE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Herding Co-op",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_HERDING_COOP.base"
+    ]
+   ]
+  },
+  {
+   "en": "High-value engineering components such as electrical equipment, motors, transformers, control gear, hydraulics, pneumatics, pumps, valves and powertrain equipment.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_COMPONENTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Horse Market",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_ANIMALS.base"
+    ]
+   ]
+  },
+  {
+   "en": "In A Hot Country",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial Carbons",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_INDUSTRIAL_CARBONS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial Chemicals Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_INDUSTRIAL_CHEMICALS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial Gases",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_INDUSTRIAL_GASES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial Park",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_INDUSTRY_ESTATE_1.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial acid used mainly in fertiliser and chemical production, transported as bulk liquid.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PHOSPHORIC_ACID.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial acids, such as hydrochloric, nitric and sulphuric acid.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_ACID.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial alcohol used as a chemical feedstock and fuel, transported as bulk liquid.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_METHANOL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial chemical, usually transported cryogenically as liquified compressed gas.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CHLORINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_LYE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial chemical. White powder form.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_SODA_ASH.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial chemicals derived from ammonia, such as ammonia, nitric acid and urea. Transported as liquids, cryogenically as liquified gas, or as dry bulk.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial chemicals used in manufacturing and processing, transported as liquids, powders, gases or packaged goods.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PROCESS_CHEMICALS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial gas. Transported cryogenically as liquified compressed gas.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_NITROGEN.base"
+    ],
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_OXYGEN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial gases used in chemical processing, metalworking and welding, transported in cylinders or pressure tankers.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_INDUSTRIAL_GASES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_KAOLIN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Industrial minerals used in chemical processing. Barytes is used in barium chemicals and fillers; fluorspar in fluorine chemistry and metallurgical fluxes.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_BARYTES_AND_FLUORSPAR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Ingots.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_TIN.base"
+    ],
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_ZINC.base"
+    ]
+   ]
+  },
+  {
+   "en": "Ingredients used in food processing, such as preservatives, flavourings, colourings and processing aids.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_FOOD_ADDITIVES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Intensely black carbon powder, used in tyres, plastics and pigments.  Handled as a powder.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CARBON_BLACK.base"
+    ]
+   ]
+  },
+  {
+   "en": "Intermediate chemical products used as feedstocks for further industrial processing.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_CHEMICAL_INTERMEDIATES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Intermediate sugar products for refining, fermentation and industrial uses. Sticky granules are handled as covered bulk; thick syrup as liquid; either may be packaged.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_MOLASSES_AND_RAW_SUGAR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Internal combustion engines and related powertrain parts such as transmission and drive axles.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_VEHICLE_ENGINES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Iron Ore",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_IRON_ORE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Iron Ore Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Ironstone",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_IRONSTONE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Kilns",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_KILNS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Kimberlite Deposits",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_KIMBERLITE_DEPOSITS.base"
+    ]
+   ]
+  },
+  {
+   "en": "LAND",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_BADGE_LAND.base"
+    ]
+   ]
+  },
+  {
+   "en": "Landing Stage",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_INDUSTRY_HARBOUR_3.base"
+    ]
+   ]
+  },
+  {
+   "en": "Light Hydrocarbons",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LIGHT_HYDROCARBONS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Light petroleum fractions used as chemical feedstocks, transported as bulk liquids.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_LIGHT_HYDROCARBONS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Lime Kiln",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_LIME_KILN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Limestone",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LIMESTONE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Limestone Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_LIMESTONE_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Limestone Mines",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_LIMESTONE_MINES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Livestock",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_LIVESTOCK.base"
+    ]
+   ]
+  },
+  {
+   "en": "Log Landing",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FOREST.base"
+    ]
+   ]
+  },
+  {
+   "en": "Logs",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LOGS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Logs from a forest.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_WOOD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Long hollow tube in round, rectangular and other cross-sections. Used for fabricating structures and machinery.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_TUBE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Long round steel pipes for transporting liquids in pipelines, buildings, industries etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_PIPE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Machinery, fuel, parts, fertiliser and other supplies for farms, forests and similar industries.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_FARM_SUPPLIES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Machinery, fuel, parts, wood products, pipes, explosives and other supplies for mines and similar industries.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_ENGINEERING_SUPPLIES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Machinery, parts, fuel, construction materials and other supplies for harbours, docks and similar industries.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_MARINE_SUPPLIES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mail",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_MAIL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Maize",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_MAIZE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Manganese",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MANGANESE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Manganese Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_MANGANESE_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Manganese Mines",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_MANGANESE_MINES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Manganese ore, used primarily in steel production.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_MANGANESE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Manor",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FARM_1.base"
+    ]
+   ]
+  },
+  {
+   "en": "Maximum coastal distance of marine industries in tiles",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Maximum distance of fishing grounds, oil rigs and dredging sites from the coast in tiles.",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Meadows",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FARM_2.base"
+    ]
+   ]
+  },
+  {
+   "en": "Meat",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MEAT.name"
+    ]
+   ]
+  },
+  {
+   "en": "Merchant Bar",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_MERCHANT_BAR.name"
+    ]
+   ]
+  },
+  {
+   "en": "Metal Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_METAL_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Metal parts for assembly into larger items.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_FORGINGS_AND_CASTINGS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Metalware",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_METAL_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Methanol",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_METHANOL.name"
+    ]
+   ]
+  },
+  {
+   "en": "Mild Mild West",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mills",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_MILLS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mineral Fillers",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MINERAL_FILLERS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Mineral Fillers Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_MINERAL_FILLERS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Minerals",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_POTASH_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mines",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_MINES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mostly cows, pigs and sheep for meat production.  Other animals may also be eaten.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_LIVESTOCK.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mostly natural latex.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_RUBBER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mostly trucks. Or cars. Or light trucks. Maybe tractors.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_VEHICLES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Mouldings",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_MOULDINGS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Nitrogen",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_NITROGEN.name"
+    ]
+   ]
+  },
+  {
+   "en": "No limit",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0.base"
+    ]
+   ]
+  },
+  {
+   "en": "Non-ferrous metals, such as copper, nickel, zinc and lead.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_BASE_METALS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Nuts",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_NUTS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Oil",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_OIL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Oil & Chemical Terminal",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_OIL_TERMINAL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Oil Refinery",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_OIL_REFINERY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Oil Rig",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_OIL_RIG.base"
+    ]
+   ]
+  },
+  {
+   "en": "Oil Wells",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_OIL_WELLS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Oil for cooking and consumption.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_EDIBLE_OIL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Orchard & Piggery",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ORCHARD_PIGGERY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Orchards",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_ORCHARDS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Oxygen",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_OXYGEN.name"
+    ]
+   ]
+  },
+  {
+   "en": "Packaging",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PACKAGING.name"
+    ]
+   ]
+  },
+  {
+   "en": "Paints & Coatings",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PAINTS_AND_COATINGS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Paper",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_PAPER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Paper Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_PAPER_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Paper Products Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PAPER_PRODUCTS_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Passengers",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_PASSENGERS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Peat",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PEAT.name"
+    ]
+   ]
+  },
+  {
+   "en": "Peatlands",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PEATLANDS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Petrol, diesel and similar fuels.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PETROL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Phosphoric Acid",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PHOSPHORIC_ACID.name"
+    ]
+   ]
+  },
+  {
+   "en": "Pig Iron",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PIG_IRON.name"
+    ]
+   ]
+  },
+  {
+   "en": "Pipe Shop",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PIPEWORK_FABRICATOR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Pit",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_PIT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Plant & Machinery",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PLANT_AND_MACHINERY.name"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_POWER_SYSTEMS_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Plantation",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_PLANTATION.base"
+    ]
+   ]
+  },
+  {
+   "en": "Plastic Mouldings Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_POLYMER_PRODUCTS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Plastics & Resins",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PLASTICS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Plate Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PLATE_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Port",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PORT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Potash",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_POTASH.name"
+    ]
+   ]
+  },
+  {
+   "en": "Potash Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_POTASH_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Powdered cereal products such as flour and starch, transported bagged or in covered bulk.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_FLOUR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Power Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_POWER_PLANT.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_POWERHUNGRY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Power Systems Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_POWER_SYSTEMS_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Powered equipment and mechanical systems used in buildings, industries and farms. Transported as complete units or as major subassemblies.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PLANT_AND_MACHINERY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Powertrain",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_POWERTRAIN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Precast",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_CONCRETE_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Precision Components",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COMPONENTS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Precision Parts Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PRECISION_PARTS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Pressings",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_BODY_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Process Chemicals",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PROCESS_CHEMICALS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Process Chemicals Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PROCESS_CHEMICALS_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Processed wood fibre used mainly for paper production, transported as bales or bulk pulp.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_WOOD_PULP.base"
+    ]
+   ]
+  },
+  {
+   "en": "Processed wood products from a sawmill or similar industries.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_TIMBER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Produce Packer",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PRODUCE_PACKER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Production at farms, mines and similar industries when supply requirements are met (as percentage of {SILVER}Normal {BLACK}production level).",
+   "ph": [
+    "BLACK",
+    "SILVER"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_DESC_PRIMARY_LEVEL_BONUS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Pumps",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_PUMPS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Pumps & Valves",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PUMPS_AND_VALVES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Pyrite Deposits",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_PYRITES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Pyrite Smelter",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_PYRITE_SMELTER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Python 3.11+",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/lang/turkish.toml",
+     "DOC_CR_DEP_PYTHON"
+    ]
+   ]
+  },
+  {
+   "en": "Quicklime",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_QUICKLIME.name"
+    ]
+   ]
+  },
+  {
+   "en": "Ranch",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_RANCH.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FARM_3.base"
+    ]
+   ]
+  },
+  {
+   "en": "Raw Sugar & Molasses",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MOLASSES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Raw or roasted coffee beans.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_COFFEE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Raw plastic for futher processing. Usually transported as resin beads.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PLASTICS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Rebar",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_REBAR.name"
+    ]
+   ]
+  },
+  {
+   "en": "Refined Aluminium metal, in coils, ingots, slabs etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_ALUMINIUM.base"
+    ]
+   ]
+  },
+  {
+   "en": "Refined Copper metal, in coils, ingots etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_COPPER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Refined petroleum products such as petrol, diesel, kerosene, LPG, fuel oil and bunker fuel, transported as bulk liquids or liquefied gas.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PETROLEUM_FUELS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Refinery",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_REFINERY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Reinder Pens",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_HERDING_COOP.base"
+    ]
+   ]
+  },
+  {
+   "en": "Roadstone Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ROADSTONE_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Rod Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_ROD_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Rolled steel plates and sections - I beams, H beams, channels etc. Transported as long straight products.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_SECTIONS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Ropes and cables produced by drawing steel wire rod to a smaller diameter, then twisting into bundled ropes.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_WIRE_ROPE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Rough steel castings, requiring further processing. Ingots may be small or very large. Typical ingot profiles are rectangular or round.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_INGOTS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Rubber",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_RUBBER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Rubber Company",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_RUBBER_COMPANY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Rubber Plantation",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION.base"
+    ]
+   ]
+  },
+  {
+   "en": "SEA",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_BADGE_SEA.base"
+    ]
+   ]
+  },
+  {
+   "en": "Salt",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SALT.name"
+    ]
+   ]
+  },
+  {
+   "en": "Salt Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_SALT_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Saltpeter Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SALTPETER_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Sandbank",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_WATER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Sawmill",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_SAWMILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Seafood",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SEAFOOD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Seal and Hose",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_ELASTOMER_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Seals, Hoses & Belts",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SEALS_HOSES_AND_BELTS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Section & Bar Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_SECTION_AND_BAR_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Semi-finished steel castings. Always flat and rectangular in cross-section.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_SLAB.base"
+    ]
+   ]
+  },
+  {
+   "en": "Semi-finished steel castings. Rectangular, square or round in cross-section.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_BILLETS_AND_BLOOMS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Sharp Street",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SHARP_STREET.base"
+    ]
+   ]
+  },
+  {
+   "en": "Shoals",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SHOALS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Shorefront",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_INDUSTRY_HARBOUR_4.base"
+    ]
+   ]
+  },
+  {
+   "en": "Silo",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SILO.base"
+    ]
+   ]
+  },
+  {
+   "en": "Simple economy. Inspired by Argentina, Peru and Chile. Best used with Sub-Tropic climate.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "ECONOMY_INFO_BASIC_TROPIC.base"
+    ]
+   ]
+  },
+  {
+   "en": "Simple economy. Inspired by Finland, Northern Canada and Northern Siberia. Best used with Sub-Arctic climate.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "ECONOMY_INFO_BASIC_ARCTIC.base"
+    ]
+   ]
+  },
+  {
+   "en": "Simple economy. Inspired by south-western UK. Best used with Temperate climate.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "ECONOMY_INFO_BASIC_TEMPERATE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Slab yard",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_PLATE_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Slag",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SLAG.name"
+    ]
+   ]
+  },
+  {
+   "en": "Slag Grinding Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_SLAG_GRINDING_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Smelter",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SMELTER.base"
+    ]
+   ]
+  },
+  {
+   "en": "Soda Ash",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SODA_ASH.name"
+    ]
+   ]
+  },
+  {
+   "en": "Soda Ash Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_SODA_ASH_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Sodium Hydroxide",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LYE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Soot Furnace",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SOOT_FURNACE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Soups",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SOUPS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Speciality carbon materials such as calcined petroleum coke, pitch, high-value tars and carbon black, used in metallurgical and chemical processes.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_INDUSTRIAL_CARBONS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Steel",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL.name"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Forge & Foundry",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_FORGE_AND_FOUNDRY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Ingots",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_INGOTS.name"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_INTEGRATED_STEEL_MILL.base"
+    ],
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_INDUSTRY_NAME_STEEL_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Pipe",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_PIPE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Plate",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_PLATE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Sheet & Strip",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_SHEET.name"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Slab",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_SLAB.name"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Tube",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_TUBE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Steel Wire Rod",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_WIRE_ROD.name"
+    ]
+   ]
+  },
+  {
+   "en": "Steel bars, as rounds, squares, flats and other profiles. Transported as long straight products.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_MERCHANT_BAR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Steel wire and thin rods. Primarily transported as coils.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_WIRE_ROD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Steelmasters",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_FORGE_AND_FOUNDRY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Steeltown",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_VALUE_ECONOMIES_STEELTOWN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Stockyard",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_STOCKYARD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Storage Tanks & Pipework",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PIPEWORK.name"
+    ]
+   ]
+  },
+  {
+   "en": "Storage tanks, pressure vessels, silos, gas cylinders, and pipe assemblies, for use in town buildings, industries and farms.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PIPEWORK.base"
+    ]
+   ]
+  },
+  {
+   "en": "Stores",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_TOWN_3.base"
+    ]
+   ]
+  },
+  {
+   "en": "Strip Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_STRIP_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Structural Steel",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STRUCTURAL_STEELWORK.name"
+    ]
+   ]
+  },
+  {
+   "en": "Structural-grade steel as rolled sections (I beams, H beams etc), or as flat plate, or as fabricated sections and beams welded from plate.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STRUCTURAL_STEELWORK.base"
+    ]
+   ]
+  },
+  {
+   "en": "Sugar",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "TTD_STR_CARGO_PLURAL_SUGAR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Sugar Company",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_SUGAR_COMPANY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Sulfide minerals, smelted to produce a variety of industrial products.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_PYRITE_ORE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Sulphur",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SULPHUR.name"
+    ]
+   ]
+  },
+  {
+   "en": "Sulphuric Acid",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SULPHURIC_ACID.name"
+    ]
+   ]
+  },
+  {
+   "en": "Supplies for cutting and welding metal, such as welding rods, tools, and industrial gases including acetylene, argon, propane, oxygen and nitrogen.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_WELDING_CONSUMABLES.base"
+    ]
+   ]
+  },
+  {
+   "en": "Supply Yard",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_SUPPLY_YARD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Supply crates required for Enhanced primary production (default 16)",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Supply crates required for Gung-ho primary production (default 80)",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tank Farm",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_TANK_FARM.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tappers Shed",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_TAPPERS_SHED.base"
+    ]
+   ]
+  },
+  {
+   "en": "Thick petroleum product used mainly for road surfacing and roofing.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_BITUMEN.base"
+    ]
+   ]
+  },
+  {
+   "en": "Thin rolled steel sheet and strip, widely used to fabricate other products. Transported as flat sheets or as coils.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_STEEL_SHEET.base"
+    ]
+   ]
+  },
+  {
+   "en": "Thin rough steel bars widely used to reinforce concrete structures. Transported as coils or bundles of straight bars.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_REBAR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Thin steel sheet coated with tin for corrosion resistance, used mainly for cans, containers and other packaging.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_TINPLATE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Timber Products",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TIMBER.name"
+    ]
+   ]
+  },
+  {
+   "en": "Tin",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TIN.name"
+    ]
+   ]
+  },
+  {
+   "en": "Tin Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_TIN_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tinplate",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TINPLATE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Tinplate Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_TINPLATE_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tracked Vehicle Factory",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_TRACKED_MACHINE_FACTORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Trading Post",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_TRADING_POST.base"
+    ]
+   ]
+  },
+  {
+   "en": "Trona Beds",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_TRONA_BEDS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tropic Basic",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base"
+    ]
+   ]
+  },
+  {
+   "en": "Truck Lot",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_VEHICLE_DISTRIBUTOR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tube & Pipe Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_TUBE_AND_PIPE_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tube Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_TUBE_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tyre Cord",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TYRE_CORD.name"
+    ]
+   ]
+  },
+  {
+   "en": "Tyre Plant",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_TYRE_PLANT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Tyres",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TYRES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Used in alloy and stainless steel production, an alloy of chromium and iron.  Grey lumps, similar in size and shape to coal lumps.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_FERROCHROME.base"
+    ]
+   ]
+  },
+  {
+   "en": "Used in steel production. Alloys of iron and other elements including manganese, nickel, chromium, aluminium, silicon and tungsten.  Grey lumps, similar in size and shape to coal lumps.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_FERROALLOYS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Vegetables",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEGETABLES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Vehicle Bodies",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLE_BODIES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Vehicle Distributor",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_VEHICLE_DISTRIBUTOR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Vineyard",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_VINEYARD.base"
+    ]
+   ]
+  },
+  {
+   "en": "Waste product from iron and steel production.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_SLAG.base"
+    ]
+   ]
+  },
+  {
+   "en": "Waterside",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_INDUSTRY_HARBOUR_2.base"
+    ]
+   ]
+  },
+  {
+   "en": "Welding Consumables",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_WELDING_CONSUMABLES.name"
+    ]
+   ]
+  },
+  {
+   "en": "Wells",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_WELLS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Wharf",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_WHARF.base"
+    ]
+   ]
+  },
+  {
+   "en": "Wheal",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_WHEAL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Wheat, barley etc.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_GRAIN.base"
+    ]
+   ]
+  },
+  {
+   "en": "White powder refined from bauxite ore, used to produce aluminium metal.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_ALUMINA.base"
+    ]
+   ]
+  },
+  {
+   "en": "White, grey or brown calcium sulphate rock, used in sulphuric acid and cement production. Often transported as covered bulk.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_ANHYDRITE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Widely used industrial chemical. Bright yellow, in powder or liquid form.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_SULPHUR.base"
+    ]
+   ]
+  },
+  {
+   "en": "Widely used industrial chemical. Usually transported as bulk cargo that must be kept dry.",
+   "ph": [],
+   "refs": [
+    [
+     "src/docs/extra_strings_turkish.toml",
+     "CARGO_INFO_SALT.base"
+    ]
+   ]
+  },
+  {
+   "en": "Winery",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_WINERY.base"
+    ]
+   ]
+  },
+  {
+   "en": "Wire Rod Mill",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_WIRE_ROD_MILL.base"
+    ]
+   ]
+  },
+  {
+   "en": "Wood Pulp",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_WOOD_PULP.name"
+    ]
+   ]
+  },
+  {
+   "en": "Works",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_HEAVY_INDUSTRY_2.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_STATION_WORKS.base"
+    ]
+   ]
+  },
+  {
+   "en": "Zinc",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ZINC.name"
+    ]
+   ]
+  },
+  {
+   "en": "Zinc Mine",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ZINC_ORE_MINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "Zinc Ore",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ZINC_ORE.name"
+    ]
+   ]
+  },
+  {
+   "en": "Zinc Smelter",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_IND_ZINC_SMELTER.base"
+    ]
+   ]
+  },
+  {
+   "en": "cannot be placed on steep slopes.",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE.base"
+    ]
+   ]
+  },
+  {
+   "en": "must be placed below the snow line.",
+   "ph": [],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.",
+   "ph": [
+    "",
+    "BLACK",
+    "SIGNED_WORD",
+    "WHITE",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PRIMARY_PRODUCTION_2X.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.",
+   "ph": [
+    "",
+    "BLACK",
+    "SIGNED_WORD",
+    "WHITE",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PORT_PRODUCTION_2X.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} crates of supplies at least once every three minutes.",
+   "ph": [
+    "",
+    "BLACK",
+    "SIGNED_WORD",
+    "SKIP",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PRIMARY_PRODUCTION_4X.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} units of cargo at least once every three minutes.",
+   "ph": [
+    "",
+    "BLACK",
+    "SIGNED_WORD",
+    "SKIP",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PORT_PRODUCTION_4X.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} crates of supplies at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} crates.",
+   "ph": [
+    "",
+    "BLACK",
+    "SIGNED_WORD",
+    "WHITE",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PRIMARY_PRODUCTION_1X.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} units of cargo at least once every three minutes.{}For {WHITE}Gung-ho {BLACK}production deliver {SIGNED_WORD} units.",
+   "ph": [
+    "",
+    "BLACK",
+    "SIGNED_WORD",
+    "WHITE",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_PORT_PRODUCTION_1X.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}For maximum production rate, supply {WHITE}all {BLACK}required cargos at least once every three minutes.",
+   "ph": [
+    "BLACK",
+    "WHITE"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}For maximum production rate, supply {WHITE}at least three {BLACK}required cargos at least once every three minutes.",
+   "ph": [
+    "BLACK",
+    "WHITE"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}For maximum production rate, supply {WHITE}at least two {BLACK}required cargos at least once every three minutes.",
+   "ph": [
+    "BLACK",
+    "WHITE"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}For maximum production rate, supply {WHITE}both {BLACK}required cargos at least once every three minutes.",
+   "ph": [
+    "BLACK",
+    "WHITE"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}Production is proportional to town population. At least {WHITE}{SIGNED_WORD} units{BLACK} and not more than {WHITE}{SIGNED_WORD} units{BLACK} of cargo will be produced every minute.",
+   "ph": [
+    "BLACK",
+    "SIGNED_WORD",
+    "WHITE"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_EXTRA_TEXT_TOWN_PRODUCER.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}Supply {WHITE}at least one {BLACK} required cargo for maximum production.",
+   "ph": [
+    "BLACK",
+    "WHITE"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY.base"
+    ]
+   ]
+  },
+  {
+   "en": "{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}",
+   "ph": [
+    "BLACK",
+    "RAW_STRING",
+    "WHITE"
+   ],
+   "refs": [
+    [
+     "src/gs/lang/turkish.toml",
+     "STR_GRIND_TEST.base"
+    ]
+   ]
+  },
+  {
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.",
+   "ph": [
+    "",
+    "BLACK",
+    "ORANGE",
+    "SILVER"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_GRF_DESC.base"
+    ]
+   ]
+  },
+  {
+   "en": "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+   "ph": [
+    "ORANGE"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_ERR_OPENTTD_VERSION.base"
+    ]
+   ]
+  },
+  {
+   "en": "{ORANGE}E01: {YELLOW}Incompatible set: {ORANGE}{STRING}",
+   "ph": [
+    "ORANGE",
+    "STRING",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_ERR_INCOMPATIBLE_SET.base"
+    ]
+   ]
+  },
+  {
+   "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.",
+   "ph": [
+    "ORANGE",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_ERR_INCOMPATIBLE_PARAM_CANSET.base"
+    ]
+   ]
+  },
+  {
+   "en": "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.",
+   "ph": [
+    "ORANGE",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base"
+    ]
+   ]
+  },
+  {
+   "en": "{ORANGE}E04: {YELLOW}Incompatible version: {ORANGE}Total Town Replacement Set must be version release 3.11 or newer.",
+   "ph": [
+    "ORANGE",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION.base"
+    ]
+   ]
+  },
+  {
+   "en": "{SIGNED_WORD} crate{P 0 \"\" s} of engineering supplies",
+   "ph": [
+    "SIGNED_WORD"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{SIGNED_WORD} crate{P 0 \"\" s} of farm supplies",
+   "ph": [
+    "SIGNED_WORD"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FARM_SUPPLIES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}AA",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ALUMINA.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}AC",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ACID.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}AG",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_AGGREGATES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}AM",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ALUMINIUM.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}AO",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}AP",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_APPLES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}AY",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ANHYDRITE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}BB",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}BI",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_BITUMEN.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CA",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CASSAVA.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CB",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CARBON_BLACK.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CE",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CEMENT.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CI",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CAST_IRON.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CK",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COKE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CN",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CLEANING_AGENTS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CO",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COMPONENTS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CP",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CONCRETE_PRODUCTS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}CT",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COAL_TAR.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}EL",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SEALS_HOSES_AND_BELTS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}EO",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_EDIBLE_OIL.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}EP",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ELECTRICAL_PARTS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}ES",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ENGINEERING_SUPPLIES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}EX",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_EXPLOSIVES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}FA",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FERROALLOYS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}FL",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FERTILISER.cid"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FLOUR.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}FO",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FORGINGS_AND_CASTINGS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}FS",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FARM_SUPPLIES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}FV",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FOOD_ADDITIVES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}GL",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_GLASS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}HW",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_HARDWARE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}IG",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_INDUSTRIAL_GASES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}KA",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_KAOLIN.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}LG",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LOGS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}LH",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LIGHT_HYDROCARBONS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}LS",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LIMESTONE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}MA",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_BARYTES_AND_FLUORSPAR.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}MF",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MINERAL_FILLERS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}ML",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_METHANOL.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}MN",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MANGANESE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}MO",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MOLASSES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}N7",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_NITROGEN.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}NA",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SALT.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}NI",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_NITRATES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}NT",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_NUTS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}O2",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_OXYGEN.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}OC",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CHEMICAL_INTERMEDIATES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PA",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PHOSPHORIC_ACID.cid"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_POTASH.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PC",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_INDUSTRIAL_CARBONS.cid"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PAINTS_AND_COATINGS.cid"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PROCESS_CHEMICALS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PE",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PEAT.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PG",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PACKAGING.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PI",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PIG_IRON.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PL",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PLASTICS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PM",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PLANT_AND_MACHINERY.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PT",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PETROLEUM_FUELS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PV",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PUMPS_AND_VALVES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PW",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PIPEWORK.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}PY",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PYRITE_ORE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}QL",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_QUICKLIME.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}RB",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_REBAR.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SB",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_MERCHANT_BAR.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SD",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SULPHURIC_ACID.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SE",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_PLATE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SG",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SLAG.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SH",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_SHEET.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SI",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_INGOTS.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SL",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL.cid"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_SLAB.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SO",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SODA_ASH.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SP",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_PIPE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}STSW",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STRUCTURAL_STEELWORK.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SU",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SULPHUR.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SW",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_WIRE_ROD.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}SY",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LYE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}TC",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TYRE_CORD.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}TI",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TIN.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}TP",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TINPLATE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}TY",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TYRES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}VB",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLE_BODIES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}VE",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLE_ENGINES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}VG",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEGETABLES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}VS",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}WP",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_WOOD_PULP.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}WS",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_WELDING_CONSUMABLES.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}ZN",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ZINC.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{TINYFONT}ZO",
+   "ph": [
+    "TINYFONT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ZINC_ORE.cid"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of acid",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ACID.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of ammonia & nitric products",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of bitumen",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_BITUMEN.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of chemical intermediates",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CHEMICAL_INTERMEDIATES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of chlorine",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CHLORINE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of coal tar",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COAL_TAR.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of edible oil",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_EDIBLE_OIL.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of industrial gases",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_INDUSTRIAL_GASES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of light hydrocarbons",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LIGHT_HYDROCARBONS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of methanol",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_METHANOL.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of nitrogen",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_NITROGEN.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of oxygen",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_OXYGEN.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of paints & coatings",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PAINTS_AND_COATINGS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of phosphoric acid",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PHOSPHORIC_ACID.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of sodium hydroxide",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LYE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{VOLUME} of sulphuric acid",
+   "ph": [
+    "VOLUME"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SULPHURIC_ACID.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of aggregates",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_AGGREGATES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of alumina",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ALUMINA.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of aluminium",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ALUMINIUM.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of anhydrite rock",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ANHYDRITE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of apples",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_APPLES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of barytes & fluorspar",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_BARYTES_AND_FLUORSPAR.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of billets & blooms",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of carbon black",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CARBON_BLACK.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of cassava",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CASSAVA.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of cast iron",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CAST_IRON.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of cement",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CEMENT.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of china clay",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_KAOLIN.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of cleaning agents",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CLEANING_AGENTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of coke",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COKE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of concrete products",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_CONCRETE_PRODUCTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of electrical parts",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ELECTRICAL_PARTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of engines & driveline",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLE_ENGINES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of explosives",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_EXPLOSIVES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of ferroalloys",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FERROALLOYS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of fertiliser",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FERTILISER.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of fish & seafood",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FISH.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of flour & starch",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FLOUR.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of food & beverages",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FOOD_AND_BEVERAGES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of food additives",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FOOD_ADDITIVES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of forgings & castings",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FORGINGS_AND_CASTINGS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of frozen food",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_FROZEN_FOOD.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of glass products",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_GLASS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of goods",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_GOODS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of hardware & finishes",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_HARDWARE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of industrial carbons",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_INDUSTRIAL_CARBONS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of limestone",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LIMESTONE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of logs",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_LOGS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of manganese",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MANGANESE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of meat",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MEAT.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of merchant bar",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_MERCHANT_BAR.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of mineral fillers",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MINERAL_FILLERS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of nuts",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_NUTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of packaging",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PACKAGING.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of peat",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PEAT.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of pig iron",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PIG_IRON.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of plant & machinery",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PLANT_AND_MACHINERY.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of plastics & resins",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PLASTICS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of potash",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_POTASH.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of precision components",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COMPONENTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of process chemicals",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PROCESS_CHEMICALS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of pumps & valves",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PUMPS_AND_VALVES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of quicklime",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_QUICKLIME.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of raw sugar & molasses",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_MOLASSES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of rebar",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_REBAR.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of salt",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SALT.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of seals, hoses & belts",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SEALS_HOSES_AND_BELTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of slag",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SLAG.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of soda ash",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SODA_ASH.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of steel",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of steel ingots",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_INGOTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of steel pipe",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_PIPE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of steel plate",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_PLATE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of steel sheet & strip",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_SHEET.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of steel slab",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_SLAB.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of steel tube",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_TUBE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of steel wire rod",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STEEL_WIRE_ROD.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of storage tanks & pipework",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_PIPEWORK.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of structural steel",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_STRUCTURAL_STEELWORK.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of sulphur",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_SULPHUR.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of timber products",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TIMBER.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of tin",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TIN.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of tinplate",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TINPLATE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of tyre cord",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TYRE_CORD.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of tyres",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_TYRES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of vegetables",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEGETABLES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of vehicle bodies",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLE_BODIES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of vehicle parts",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLE_PARTS.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of vehicles",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_VEHICLES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of welding consumables",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_WELDING_CONSUMABLES.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of wood pulp",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_WOOD_PULP.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of zinc",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ZINC.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} of zinc ore",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_ZINC_ORE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{WEIGHT} sack{P 0 \"\" s} of coffee",
+   "ph": [
+    "WEIGHT"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_CARGO_COFFEE.cargo_unit"
+    ]
+   ]
+  },
+  {
+   "en": "{}{BLACK}Location: {YELLOW}Can only be funded on snow.",
+   "ph": [
+    "",
+    "BLACK",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_HERDING_COOP.base"
+    ]
+   ]
+  },
+  {
+   "en": "{}{BLACK}Location: {YELLOW}Cannot be funded in deserts.",
+   "ph": [
+    "",
+    "BLACK",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_FOREST.base"
+    ]
+   ]
+  },
+  {
+   "en": "{}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts.",
+   "ph": [
+    "",
+    "BLACK",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_ARABLE_FARM.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_COFFEE_ESTATE.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_DAIRY_FARM.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_FARM.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_ORCHARD_PIGGERY.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_RUBBER_PLANTATION.base"
+    ],
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_VINEYARD.base"
+    ]
+   ]
+  },
+  {
+   "en": "{}{BLACK}Location: {YELLOW}Cannot be funded on snow.",
+   "ph": [
+    "",
+    "BLACK",
+    "YELLOW"
+   ],
+   "refs": [
+    [
+     "src/grf/lang/turkish.toml",
+     "STR_FUND_FRUIT_PLANTATION.base"
+    ]
+   ]
+  }
+ ]
+}

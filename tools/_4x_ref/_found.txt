@@ -1,0 +1,7 @@
+english	lang/english.lng	199
+german	lang/02.lng	177
+french	lang/03.lng	142
+spanish	lang/04.lng	177
+portuguese	lang/portuguese.lng	208
+portuguese_br	lang/portuguese_BR.lng	247
+korean	lang/korean.lng	248

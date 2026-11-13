@@ -1,0 +1,57 @@
+RESTORE 467
+BRAND_REGRESSION 1
+  src/grf/lang/simplified_chinese.toml STR_GRF_DESC.base | FIRS h/e/c=2/1/1 CIRS h/e/c=2/2/2
+    HEAD: {ORANGE}CIRS 社区产业替换集{}{BLACK}这是 FIRS 的社区维护分支，原版 FIRS 由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 创作，并得到许多其他人的帮助。{SILVER}请访问网站
+    CUR : {ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 开发，并得到了许多其他人的帮助。{SILVER}请访问网站了解更
+    EN  : {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, p
+PH_MISMATCH 0 []
+MAPPED 219 NOREF 244 CONFLICT_IDX 3 MIXED_IDX 2
+  CONFLICT i=337
+    src/grf/lang/simplified_chinese.toml STR_CARGO_INDUSTRIAL_CARBONS.cid HEAD={TINYFONT}碳 CUR={TINYFONT}PC
+    src/grf/lang/simplified_chinese.toml STR_CARGO_PAINTS_AND_COATINGS.cid HEAD={TINYFONT}漆 CUR={TINYFONT}PC
+    src/grf/lang/simplified_chinese.toml STR_CARGO_PROCESS_CHEMICALS.cid HEAD={TINYFONT}工 CUR={TINYFONT}PC
+  CONFLICT i=191
+    src/grf/lang/simplified_chinese.toml STR_CARGO_PLANT_AND_MACHINERY.name HEAD=成套设备与机械 CUR=工厂与机械
+    src/grf/lang/simplified_chinese.toml STR_STATION_POWER_SYSTEMS_FACTORY.base HEAD=成套设备 CUR=工厂与机械
+  CONFLICT i=69
+    src/grf/lang/simplified_chinese.toml STR_IND_CRYO_PLANT.base HEAD=低温空分厂 CUR=低温工厂
+    src/grf/lang/simplified_chinese.toml STR_STATION_CRYO_PLANT.base HEAD=低温厂 CUR=低温工厂
+  MIXED i=29 other_refs=[('src/docs/lang/simplified_chinese.toml', 'DOC_TITLE')]
+  MIXED i=244 other_refs=[('src/docs/extra_strings_simplified_chinese.toml', 'TTD_STR_INDUSTRY_NAME_STEEL_MILL.base')]
+OUT_LINES 429
+=== ENGLISH SEMANTIC SAMPLES ===
+KEY STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT.base
+  EN  : Supply crates required for Enhanced primary production (default 16)
+  HEAD: 提升初级产业产量至“增强”所需的供应箱数量（默认 16）
+  CUR : 调整“较高生产水平”的货物需求率(%)
+KEY STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT.base
+  EN  : Supply crates required for Gung-ho primary production (default 80)
+  HEAD: 提升初级产业产量至“工合”所需的供应箱数量（默认 80）
+  CUR : 为“工合”产率调整货物需求(%)
+KEY STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base
+  EN  : Mild Mild West
+  HEAD: 温和西部
+  CUR : 温和温和西部
+KEY STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE.base
+  EN  : {BLACK}For maximum production rate, supply {WHITE}at least three {BLACK}required cargos at least once every three minutes.
+  HEAD: {BLACK}为达到最大产量，请每三分钟至少供应{WHITE}任意三种{BLACK}所需货物各一次。
+  CUR : {BLACK}要实现最大产量，请至少每三分钟供应一次{WHITE}至少三种{BLACK}所需货物。
+=== KEYS WITH 三个月 OR 次水准 IN CURRENT ===
+  src/grf/lang/simplified_chinese.toml STR_PRIMARY_PRODUCTION_1X.base
+    HEAD: {BLACK}当前产量：{YELLOW}正常 {}{}{BLACK}要达到{WHITE}增强 {BLACK}产量，请每三分钟至少送达 {SIGNED_WORD} 箱供应品。{}要达到{WHITE}工合 {BLACK}产量，请送达 {SIGNED_WORD} 箱。
+    CUR : {BLACK}当前产率: {YELLOW}标准{}{}{BLACK}为达到{WHITE}增强{BLACK}需三个月内交付 {SIGNED_WORD}箱物资。{}为达到{WHITE}工合 {BLACK}需交付 {SIGNED_WORD} 箱
+  src/grf/lang/simplified_chinese.toml STR_PRIMARY_PRODUCTION_2X.base
+    HEAD: {BLACK}当前产量：{YELLOW}增强 {}{}{BLACK}要维持此水平，请每三分钟至少送达 {SIGNED_WORD} 箱供应品。{}要达到{WHITE}工合 {BLACK}产量，请送达 {SIGNED_WORD} 箱。
+    CUR : {BLACK}当前产率: {YELLOW}增强{}{}{BLACK}为保持此水准，需三个月内交付 {SIGNED_WORD}{}为保持{WHITE}工合 {BLACK}需交付 {SIGNED_WORD}箱
+  src/grf/lang/simplified_chinese.toml STR_PRIMARY_PRODUCTION_4X.base
+    HEAD: {BLACK}当前产量：{YELLOW}工合 {}{}{BLACK}要维持此水平，请每三分钟至少送达 {SKIP}{SIGNED_WORD} 箱供应品。
+    CUR : {BLACK}当前产率: {YELLOW}工合{}{} {BLACK}为保持此产率, 需三个月内交付 {SKIP}{SIGNED_WORD} 箱物资
+  src/grf/lang/simplified_chinese.toml STR_PORT_PRODUCTION_1X.base
+    HEAD: {BLACK}当前产量：{YELLOW}正常 {}{}{BLACK}要达到{WHITE}增强 {BLACK}产量，请每三分钟至少送达 {SIGNED_WORD} 单位货物。{}要达到{WHITE}工合 {BLACK}产量，请送达 {SIGNED_WORD} 单位。
+    CUR : {BLACK}当前产率: {YELLOW}标准{}{}{BLACK}为达到{WHITE}增强{BLACK}需三个月内交付 {SIGNED_WORD} 单位货物{}为达到{WHITE}工合 {BLACK}需交付 {SIGNED_WORD} 单位
+  src/grf/lang/simplified_chinese.toml STR_PORT_PRODUCTION_2X.base
+    HEAD: {BLACK}当前产量：{YELLOW}增强 {}{}{BLACK}要维持此水平，请每三分钟至少送达 {SIGNED_WORD} 单位货物。{}要达到{WHITE}工合 {BLACK}产量，请送达 {SIGNED_WORD} 单位。
+    CUR : {BLACK}当前产率: {YELLOW}增强{}{}{BLACK}为保持次水准，需三个月内交付{SIGNED_WORD} 单位货物。{}为达到{WHITE}工合 {BLACK}需交付 {SIGNED_WORD} 单位
+  src/grf/lang/simplified_chinese.toml STR_PORT_PRODUCTION_4X.base
+    HEAD: {BLACK}当前产量：{YELLOW}工合 {}{}{BLACK}要维持此水平，请每三分钟至少送达 {SKIP}{SIGNED_WORD} 单位货物。
+    CUR : {BLACK}当前产率: {YELLOW}工合{}{}{BLACK}为保持此产率，需三个月内交付{SKIP}{SIGNED_WORD} 单位货物

@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Hiilikaivos"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Kuparikaivos"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Timanttikaivos"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Ruokatehdas"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Metsä"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Hedelmätarha"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Rautamalmikaivos"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Öljynjalostamo"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Öljynporauslautta"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Öljykaivot"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Paperitehdas"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Kumiviljelmä"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Sahatehdas"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Terästehdas"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Hiili"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Kuparimalmi"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Timantit"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Ruoka"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Tavarat"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Vilja"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Rautamalmi"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Kotieläimet"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Posti"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Maissi"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Öljy"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Paperi"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Matkustajat"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Kumi"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Sokeri"
+
+[ECONOMY_INFO_FIRS]
+base = "Monimutkainen talous, jossa on monia teollisuudenaloja ja rahtitavaroita."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Yksinkertainen talous. Inspiroitu Suomesta, Pohjois-Kanadasta ja Pohjois-Siperiasta. Toimii parhaiten subarktisessa ilmastossa."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Yksinkertainen talous. Inspiroitu Yhdistyneen kuningaskunnan lounaisosasta. Toimii parhaiten lauhkeassa ilmastossa."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Yksinkertainen talous. Inspiroitu Argentiinasta, Perusta ja Chilestä. Toimii parhaiten subtrooppisessa ilmastossa."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Monimutkainen talous, jossa on paljon teollisuudenaloja ja rahtilajeja. Inspiroitu Keski-Länsi-Afrikasta. Sopii parhaiten Sub-Tropic -ilmastoon."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Monimutkainen talous, jossa on rauta-, teräs- ja raskas teollisuutta."
+
+[CARGO_INFO_PASSENGERS]
+base = "Saatavilla kaikissa talouksissa. Tuottavat ja hyväksyvät kaupungin rakennukset sekä muutamat teollisuuslaitokset."
+
+[CARGO_INFO_MAIL]
+base = "Saatavilla kaikissa talouksissa. Tuottavat ja hyväksyvät kaupungin rakennukset."
+
+[CARGO_INFO_ACID]
+base = "Teollisuushapot, kuten suolahappo, typpihappo ja rikkihappo."
+
+[CARGO_INFO_AGGREGATES]
+base = "Ruske, hiekka, murskattu kivi ja rakentamisessa käytettävät vastaavat materiaalit."
+
+[CARGO_INFO_ALUMINA]
+base = "Boksittimalmista puhdistettua valkoista jauhetta, jota käytetään alumiinimetallin valmistukseen."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Puhdistettua alumiinimetallia keloina, saappoina, levyinä jne."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Ammoniakista johdettuja teollisia kemikaaleja, kuten ammoniakki, typpihappo ja urea. Kuljetetaan nesteinä, kryogeenisesti nesteytettynä kaasuna tai kuivana irtotavarana."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Valkoista, harmaata tai ruskeaa kalsiumsulfaattikiveä, jota käytetään rikkihapon ja sementin valmistuksessa. Kuljetetaan usein katetussa irtokuormassa."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Kemiallisessa käsittelyssä käytettäviä teollisia mineraaleja. Baryittiä käytetään bariumkemikaaleissa ja täyteaineissa; fluoriittia fluorikemian ja metallurgisten sulatusaineiden valmistuksessa."
+
+[CARGO_INFO_BASE_METALS]
+base = "Öljy- ja kemikaaliterminaali"
+
+[CARGO_INFO_BEANS]
+base = "Tavalliset pavut, härkäpavut, soijapavut ja muut vastaavat syötävät papukasvit."
+
+[CARGO_INFO_BITUMEN]
+base = "Paksu öljytuote, jota käytetään pääasiassa teiden päällystämiseen ja kattojen kattamiseen."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Sementti, lasi, metalliosat, puutuotteet, putket ja vastaavat rakennusmateriaalit."
+
+[CARGO_INFO_CASSAVA]
+base = "Syötävä juurikasvi, joka tunnetaan myös nimillä maniokki ja yuca"
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Erittäin musta hiilijauhe, jota käytetään renkaissa, muoveissa ja pigmenteissä. Käsitellään jauheena."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billetit, bloomit, valamot ja laatat."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billetit, bloomit, valamot ja laatat."
+
+[CARGO_INFO_CEMENT]
+base = "Kuivaa sementtiä jauhe- tai klinkkerimuodossa"
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Välituotteita, joita käytetään raaka-aineina edelleen teollisessa käsittelyssä."
+
+[CARGO_INFO_CHEMICALS]
+base = "Yleiset orgaaniset ja epäorgaaniset kemikaalit, joita käsitellään nesteenä, kaasuna, peitettynä irtotavarana, jauheena tai kappaleena."
+
+[CARGO_INFO_CHLORINE]
+base = "Teollinen kemikaali, jota yleensä kuljetetaan kryogeenisesti nesteytetyn puristetun kaasun muodossa."
+
+[CARGO_INFO_CLAY]
+base = "Yleiset saviaineet rakennusmateriaalien valmistukseen ja muihin teollisiin käyttötarkoituksiin."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Kemikaalit, saippuat, hankausaineet jne. teolliseen ja kotikäyttöön. Pääasiassa nestemäisiä, mutta voivat olla myös jauheita tai kiinteitä (kuten ruiskupuhallushiekka)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Koksituotannon sivutuote, paksu ja hitaasti virtaava neste."
+
+[CARGO_INFO_COFFEE]
+base = "Raakaa tai paahdettua kahvipapua."
+
+[CARGO_INFO_COKE]
+base = "Hiiltä, jota on kuumennettu koksiuunissa ja josta syntyy lähes puhdasta hiiltä sisältävä polttoaine."
+
+[CARGO_INFO_COMPONENTS]
+base = "Korkean arvon insinöörikomponentit, kuten sähkölaiteet, moottorit, muuntajat, ohjauslaitteet, hydraulijärjestelmät, pneumatiikkajärjestelmät, pumput, venttiilit ja voimalinjaosat."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Valutuotteet, kuten palikat, palkit ja paneelit. Voidaan käsitellä myös valmisbetonina sekoitusautoissa."
+
+[CARGO_INFO_COPPER]
+base = "Puhdistettua kuparimetallia keloina, saappoina jne."
+
+[CARGO_INFO_DIAMONDS]
+base = "Ovat ikuisia jne."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Öljyä ruoanlaittoon ja kulutukseen."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Sähkö- ja elektroniikkakomponentteja, moottoreita, ohjaimia, kytkintekniikkaa, valaisimia jne."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Koneita, polttoainetta, osia, puutuotteita, putkia, räjähteitä ja muita kaivosten ja vastaavien toimialojen tarvikkeita."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Siviili-eksplosiivit kaivostoimintaan, rakentamiseen jne."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Maatiloiden, metsien ja vastaavien toimialojen koneet, polttoaineet, osat, lannoitteet ja muut tarvikkeet."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Käytetään teräksen tuotannossa. Raudan ja muiden alkuaineiden, kuten mangaanin, nikkelin, kromin, alumiinin, piin ja volframitin seokset. Harmaat möykkyt, joilla on hiilimöykkyjen kaltaiset koko ja muoto."
+
+[CARGO_INFO_FERROCHROME]
+base = "Käytetään seosmetallien ja ruostumattoman teräksen tuotannossa; kromin ja raudan seos. Harmaat möykkyt, joilla on hiilimöykkyjen kaltaiset koko ja muoto."
+
+[CARGO_INFO_FLOUR]
+base = "Jauhotut viljatuotteet, kuten jauhot ja tärkkelys, pakattuina säkeisiin tai katettuihin irtokuormiin."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Metalliosia, jotka asennetaan osaksi suurempia kohteita."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Elintarvikkeiden käsittelyssä käytettäviä ainesosia, kuten säilöntäaineita, aromiaineita, väriaineita ja käsittelyapulaisaineita."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Elintarvikkeet, jotka säilytetään pakastettuina kuljetuksen ja varastoinnin aikana."
+
+[CARGO_INFO_FRUITS]
+base = "Tuoreet ja kuivatut hedelmät, kuten banaanit, sitrushedelmät, viinirypäleet, marjat, ananas, rusinat ja vastaavat."
+
+[CARGO_INFO_GRAIN]
+base = "Vehnä, ohra jne."
+
+[CARGO_INFO_HARDWARE]
+base = "Kotitalous- ja rakennuskäyttöön. Työkalut, välineet, kiinnikkeet ja varusteet metallista ja muista materiaaleista."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Erikoishiilimateriaalit, kuten kalsinoitu öljyhiili, piikki, korkean arvon tervat ja hiilimusta, joita käytetään metallurgisissa ja kemiallisissa prosesseissa."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Kemiallisessa käsittelyssä, metallinjalostuksessa ja hitsauksessa käytettäviä teollisuuskaasuja, joita kuljetetaan sylintereissä tai paine-säiliöautonkuljetuksissa."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Rumpuja, vinssejä, kahleita, koukkuja, kiiltoja, hydraulisia työntimiä ja muita nostureiden, nostimien, hissien jne. osia"
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Kemiallisina raaka-aineina käytettävät kevyet öljyjakeet, joita kuljetetaan irtinä nesteinä."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Pääasiassa kuorma-autoja. Tai henkilöautoja. Tai kevyitä kuorma-autoja. Ehkä traktoreita."
+
+[CARGO_INFO_LYE]
+base = "Teollinen kemikaali. Tunnettu myös nimillä Lye tai Caustic Soda. Kuljetetaan yleensä nestemäisenä."
+
+[CARGO_INFO_KAOLIN]
+base = "Teollinen mineraali, joka tunnetaan myös nimellä kaoliini ja jota käytetään pääasiassa paperin ja muovien valmistuksessa."
+
+[CARGO_INFO_MANGANESE]
+base = "Mangaanimalmi, jota käytetään pääasiassa terästuotannossa."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Koneita, osia, polttoainetta, rakennusmateriaaleja ja muita satamien, laitureiden ja vastaavien toimialojen tarvikkeita."
+
+[CARGO_INFO_METAL]
+base = "Yleiset metallit, kuten teräs, alumiini tai muut tavalliset metallit."
+
+[CARGO_INFO_METHANOL]
+base = "Teollisuusalkoholi, jota käytetään kemiallisena raaka-aineena ja polttoaineena ja joka kuljetetaan irtinä nesteenä."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Sokerin välituotteita puhdistukseen, käymiseen ja teollisiin käyttötarkoituksiin. Tarttuvia rakeita käsitellään katettuna irtotavarana; paksua siirappia nesteenä; molemmat voidaan myös pakata."
+
+[CARGO_INFO_NITROGEN]
+base = "Teollisuuskaasu. Kuljetetaan kryogeenisesti nesteytettynä puristettuna kaasuna."
+
+[CARGO_INFO_OIL]
+base = "Raaka, jalostamaton öljy, jota kuljetetaan nestemäisenä irtotavarana."
+
+[CARGO_INFO_OXYGEN]
+base = "Teollisuuskaasu. Kuljetetaan kryogeenisesti nesteytettynä puristettuna kaasuna."
+
+[CARGO_INFO_PACKAGING]
+base = "Rasiat, pullot, purkit, tölkit jne."
+
+[CARGO_INFO_PEAT]
+base = "Turvemaiden biomassaa, jota kerätään polttoaineeksi ja puutarhatalouteen."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Puhdistettuja öljytuotteita, kuten bensiiniä, dieseliä, kerosiinia, LPG:tä, polttoöljyä ja bunkkeripolttoöljyä, jotka kuljetetaan irtoneuvina nesteinä tai nesteytettyinä kaasuna."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Teollisuushappo, jota käytetään pääasiassa lannoitteiden ja kemikaalien tuotannossa ja joka kuljetetaan irtinä nesteenä."
+
+[CARGO_INFO_PIG_IRON]
+base = "Perusrautaa puhallusuunista, sulana tai kiinteinä valamoina."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Puuvilla, pellava, juutti ja vastaavat materiaalit tekstiilien ja komposiittimateriaalien valmistukseen."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Rakennuksissa, teollisuudessa ja maatiloilla käytettävät moottoroidut laitteet ja mekaaniset järjestelmät. Kuljetetaan kokonaisina yksiköinä tai suurina osakokonaisuuksina."
+
+[CARGO_INFO_PETROL]
+base = "Bensinaa, dieseliä ja vastaavia polttoaineita."
+
+[CARGO_INFO_PLASTICS]
+base = "Raaka muovi jatkojalostusta varten. Kuljetetaan yleensä hartsihelmien muodossa."
+
+[CARGO_INFO_PIPEWORK]
+base = "Varastotankit, paineastiat, silot, kaasupullot ja putkikokonaisuudet kaupunkirakennuksissa, teollisuudessa ja maatilalla käytettäviksi."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Valmistuksessa ja käsittelyssä käytettäviä teollisia kemikaaleja, joita kuljetetaan nesteinä, jauheina, kaasuina tai pakatuina tuotteina."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Sulfidimineraalit, joista sulattamalla valmistetaan erilaisia teollisuustuotteita."
+
+[CARGO_INFO_QUICKLIME]
+base = "Kalsiumoksidi, joka tunnetaan myös poltetuksi kalkkina. Kuljetetaan hienona jauheena, joka on pidettävä kuivana."
+
+[CARGO_INFO_REBAR]
+base = "Ohut karkeat teräspalkit, joita käytetään laajasti betonirakenteiden vahvistamiseen. Kuljetetaan keloina tai suorien palkkien nipuina."
+
+[CARGO_INFO_RUBBER]
+base = "Typpi"
+
+[CARGO_INFO_SALT]
+base = "Laajalti käytetty teollinen kemikaali. Kuljetetaan yleensä irtokuormana, joka on pidettävä kuivana."
+
+[CARGO_INFO_SAND]
+base = "Karkeaa hiekkaa rakentamiseen tai hienoa piidioksidihiekkaa lasinvalantaa ja metallivalua varten. Kuljetetaan irtotavarana tai jauheena."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Joustavat tiivisteet, tiivistelevyt, letkut, hihnat, matot, holkit jne., jotka on valmistettu kumista tai vastaavista materiaaleista."
+
+[CARGO_INFO_SLAG]
+base = "Rauta- ja terästuotannon jätetuote."
+
+[CARGO_INFO_SODA_ASH]
+base = "Teollinen kemikaali. Valkoinen jauhe."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Puolivalmiit teräslaivut. Poikkileikkaukseltaan suorakulmaiset, neliömäiset tai pyöreät."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Raa’at teräslaivut, jotka vaativat jatkojalostusta. Saapot voivat olla pieniä tai erittäin suuria. Tyypillisiä saappoprofiileja ovat suorakulmaiset tai pyöreät."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Teräsraudat pyöreinä, neliömäisinä, litteinä tai muina profiileina. Kuljetetaan pitkinä suoranaisina tuotteina."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Pitkät pyöreät teräsputket nesteiden kuljettamiseen putkijohtojen, rakennusten, teollisuuden ja muun käytön yhteydessä."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Valssattuja teräslevyjä ja -profiileja – I-palkit, H-palkit, kanavat jne. Kuljetetaan pitkinä suoranaisina tuotteina."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Ohut valssattu teräslevy ja -nauha, joita käytetään laajasti muiden tuotteiden valmistukseen. Kuljetetaan tasaisina levyinä tai keloina."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Puolivalmiit teräslaivut. Poikkileikkaukseltaan aina tasaiset ja suorakulmaiset."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Pitkä ontto putki, jonka poikkileikkaus on pyöreä, suorakulmainen tai muun muotoinen. Käytetään rakenteiden ja koneiden valmistukseen."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Teräslankaa ja ohuita palkkeja. Kuljetetaan pääasiassa keloina."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Narut ja kaapelit, jotka valmistetaan vetämällä teräslankasauva pienemmälle halkaisijalle ja kiertämällä se sitten niputetuiksi narukoiksi."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Rakennusterästä valssattuina profiileina (I-palkit, H-palkit jne.), litteinä levyinä tai levyistä hitsattuina valmiina profiileina ja palkkeina."
+
+[CARGO_INFO_SULPHUR]
+base = "Laajalti käytetty teollinen kemikaali. Kirkkaan keltainen, jauheena tai nestemäisenä."
+
+[CARGO_INFO_TIMBER]
+base = "Sahalta tai vastaavilta teollisuudenaloilta peräisin olevat käsitellyt puutuotteet."
+
+[CARGO_INFO_TIN]
+base = "Valut."
+
+[CARGO_INFO_TINPLATE]
+base = "Ohut teräslevy, joka on pinnoitettu tinaa korroosionkestävyyden vuoksi ja jota käytetään pääasiasti tölkkeihin, säiliöihin ja muihin pakkaustuotteisiin."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Ohutlankaa renkaiden vahvistamiseen. Kuljetetaan kelana."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Autonkorien tuotantoon tarkoitettuja kattoja, keulia, ovia ja muita vastaavia korirakenteita."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Sisäpolttomoottorit ja niihin liittyvät voimalinjan osat, kuten vaihteistot ja vetotelat."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Ajoneuvojen tuotantoon tarvittavat komponentit, kuten alustat ja jousitusosat, sähköosat, ulkoiset koristeelementit ja sisustusosat."
+
+[CARGO_INFO_VEHICLES]
+base = "Erimetallit, kuten kupari, nikkeli, sinkki ja lyijy."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Metallin leikkaamiseen ja hitsaamiseen tarvittavat tarvikkeet, kuten hitsauspuolat, työkalut ja teollisuuskaasut, kuten asetyleeni, argoni, propani, happi ja typpi."
+
+[CARGO_INFO_WOOD]
+base = "Metsästä saadut puutavaratukit."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Käsitelty puukuitu, jota käytetään pääasiassa paperinvalmistuksessa ja joka kuljetetaan paaleina tai irtomassana."
+
+[CARGO_INFO_WOOL]
+base = "Paalit."
+
+[CARGO_INFO_ZINC]
+base = "Valut."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

@@ -1,0 +1,352 @@
+{"i":0,"tr":" {BLACK}(opcional)"}
+{"i":1,"tr":" {BLACK}(incluido)"}
+{"i":2,"tr":"(decimal)"}
+{"i":3,"tr":"."}
+{"i":4,"tr":"Son eternos, etc."}
+{"i":5,"tr":"Disponible en todas las economías. Producido y aceptado por los edificios de la ciudad, así como por algunas industrias."}
+{"i":6,"tr":"Disponible en todas las economías. Producido y aceptado por los edificios de la ciudad."}
+{"i":7,"tr":"Bales."}
+{"i":8,"tr":"Parte superior del banco"}
+{"i":9,"tr":"Base"}
+{"i":10,"tr":"Hierro básico de un alto horno, en estado líquido fundido o en lingotes sólidos."}
+{"i":11,"tr":"Billetes, bloques, lingotes y losas."}
+{"i":12,"tr":"Biomasa de turberas, extraída para uso como combustible y en horticultura."}
+{"i":13,"tr":"Cajas, botellas, frascos, latas, etc."}
+{"i":14,"tr":"Subproducto de la producción de coque, un líquido espeso de flujo lento."}
+{"i":15,"tr":"CIRS"}
+{"i":16,"tr":"Conjunto de reemplazo industrial comunitario CIRS"}
+{"i":17,"tr":"Cabinas, capós, puertas y estructuras de carrocería similares para la producción de vehículos."}
+{"i":18,"tr":"Óxido de calcio, también conocido como cal viva. Se transporta en forma de polvo fino que debe mantenerse seco."}
+{"i":19,"tr":"Productos colados como bloques, vigas y paneles. También puede manejarse como hormigón premezclado en camiones mezcladores."}
+{"i":20,"tr":"Cemento, vidrio, componentes metálicos, productos de madera, tuberías y materiales de construcción similares."}
+{"i":21,"tr":"Productos químicos, jabones, agentes abrasivos, etc., para uso industrial y doméstico. Principalmente líquidos, aunque también pueden ser polvos o sólidos (como la arena para chorreador)."}
+{"i":22,"tr":"Explosivos civiles para minería, construcción, etc."}
+{"i":23,"tr":"Carbón"}
+{"i":24,"tr":"Mina de carbón"}
+{"i":25,"tr":"Carbón que ha sido calentado en un horno de coque, produciendo un combustible que es casi carbono puro."}
+{"i":26,"tr":"Arena gruesa para la construcción, o arena fina de sílice para la fabricación de vidrio y la fundición de metales. Se transporta a granel o en polvo."}
+{"i":27,"tr":"Frijoles comunes, habas, soja y legumbres comestibles similares."}
+{"i":28,"tr":"Economía compleja con industrias del hierro, el acero y la manufactura pesada."}
+{"i":29,"tr":"Economía compleja con muchas industrias y cargas."}
+{"i":30,"tr":"Economía compleja con muchas industrias y cargas. Inspirada en el centro-oeste de África. Se recomienda usarla con un clima subtropical."}
+{"i":31,"tr":"Componentes para la producción de vehículos, como chasis y piezas de suspensión, componentes eléctricos, acabados exteriores y piezas interiores."}
+{"i":32,"tr":"Canal de construcción"}
+{"i":33,"tr":"Mina de cobre"}
+{"i":34,"tr":"Mineral de cobre"}
+{"i":35,"tr":"Algodón, lino, yute y materiales similares, para producir textiles y materiales compuestos."}
+{"i":36,"tr":"Petróleo crudo y sin refinar transportado como líquido a granel."}
+{"i":37,"tr":"Mina de diamantes"}
+{"i":38,"tr":"Diamantes"}
+{"i":39,"tr":"Tambores, cabrestantes, grilletes, ganchos, poleas, émbolos hidráulicos y otras piezas para grúas, polipastos, ascensores, etc."}
+{"i":40,"tr":"Cemento seco en forma de polvo o clínker."}
+{"i":41,"tr":"Tubérculo comestible, también conocido como mandioca o yuca."}
+{"i":42,"tr":"Componentes eléctricos y electrónicos, motores, controladores, cuadros eléctricos, luces, etc."}
+{"i":43,"tr":"Alambre fino utilizado para reforzar neumáticos. Transportado en bobinas."}
+{"i":44,"tr":"Sellantes flexibles, juntas, mangueras, correas, alfombrillas, bujes, etc., fabricados con caucho o materiales similares."}
+{"i":45,"tr":"Alimentos"}
+{"i":46,"tr":"Alimentos que se mantienen congelados durante el transporte y el almacenamiento."}
+{"i":47,"tr":"Para uso doméstico y de construcción. Herramientas, utensilios, accesorios y fijaciones de metal y otros materiales."}
+{"i":48,"tr":"Bosque"}
+{"i":49,"tr":"Fruta fresca y seca, como plátanos, cítricos, uvas, bayas, piña, pasas y similares."}
+{"i":50,"tr":"Plantación de frutas"}
+{"i":51,"tr":"GPL(v2)"}
+{"i":52,"tr":"GRFID"}
+{"i":53,"tr":"Arcillas genéricas, para producir materiales de construcción y otros usos industriales."}
+{"i":54,"tr":"Metal genérico, como acero, aluminio u otros metales comunes."}
+{"i":55,"tr":"Productos químicos orgánicos e inorgánicos genéricos, manipulados como líquido, gas, granel cubierto, polvo o como artículos sueltos."}
+{"i":56,"tr":"Mercancías"}
+{"i":57,"tr":"Cereales"}
+{"i":58,"tr":"Grava, arena, piedra triturada y materiales similares utilizados en la construcción."}
+{"i":59,"tr":"Componentes de ingeniería de alto valor, como equipos eléctricos, motores, transformadores, equipos de control, sistemas hidráulicos y neumáticos, bombas, válvulas y equipos de transmisión."}
+{"i":60,"tr":"Hotel"}
+{"i":61,"tr":"ID"}
+{"i":62,"tr":"Ácido industrial utilizado principalmente en la producción de fertilizantes y productos químicos, transportado como líquido a granel."}
+{"i":63,"tr":"Ácidos industriales, como el ácido clorhídrico, nítrico y sulfúrico."}
+{"i":64,"tr":"Alcohol industrial utilizado como materia prima química y combustible, transportado como líquido a granel."}
+{"i":65,"tr":"Producto químico industrial, generalmente transportado de forma criogénica como gas comprimido licuado."}
+{"i":66,"tr":"Producto químico industrial. También conocido como lejía o sosa cáustica. Generalmente transportado como líquido."}
+{"i":67,"tr":"Producto químico industrial. En forma de polvo blanco."}
+{"i":68,"tr":"Productos químicos industriales derivados del amoníaco, como el amoníaco, el ácido nítrico y la urea. Transportados como líquidos, de forma criogénica como gas licuado o como granel seco."}
+{"i":69,"tr":"Productos químicos industriales utilizados en la fabricación y el procesamiento, transportados como líquidos, polvos, gases o mercancías embaladas."}
+{"i":70,"tr":"Gas industrial. Transportado de forma criogénica como gas comprimido licuado."}
+{"i":71,"tr":"Gases industriales utilizados en el procesamiento químico, la metalurgia y la soldadura, transportados en cilindros o camiones cisterna a presión."}
+{"i":72,"tr":"Mineral industrial, también conocido como caolín, utilizado principalmente en la producción de papel y plásticos."}
+{"i":73,"tr":"Minerales industriales utilizados en procesos químicos. La barita se emplea en productos químicos de bario y como relleno; la fluorita, en la química del flúor y en fundentes metalúrgicos."}
+{"i":74,"tr":"Lingotes."}
+{"i":75,"tr":"Ingredientes utilizados en el procesamiento de alimentos, como conservantes, aromatizantes, colorantes y auxiliares de procesamiento."}
+{"i":76,"tr":"Polvo de carbono de color negro intenso, utilizado en neumáticos, plásticos y pigmentos. Se manipula en forma de polvo."}
+{"i":77,"tr":"Productos químicos intermedios utilizados como materias primas para procesos industriales posteriores."}
+{"i":78,"tr":"Productos de azúcar intermedios para refinación, fermentación y usos industriales. Los gránulos pegajosos se manipulan como granel cubierto; el jarabe espeso, como líquido; ambos pueden empaquetarse."}
+{"i":79,"tr":"Motores de combustión interna y piezas relacionadas del tren motriz, como transmisiones y ejes de transmisión."}
+{"i":80,"tr":"Minério de hierro"}
+{"i":81,"tr":"Minería de hierro"}
+{"i":82,"tr":"Fracciones ligeras de petróleo utilizadas como materias primas químicas, transportadas como líquidos a granel."}
+{"i":83,"tr":"Ganado"}
+{"i":84,"tr":"Madera de un bosque."}
+{"i":85,"tr":"Tubo largo y hueco de sección redonda, rectangular u otra forma. Se utiliza para fabricar estructuras y maquinaria."}
+{"i":86,"tr":"Tuberías de acero redondas y largas para transportar líquidos en conductos, edificios, industrias, etc."}
+{"i":87,"tr":"Maquinaria, combustible, piezas, fertilizantes y otros suministros para granjas, bosques e industrias similares."}
+{"i":88,"tr":"Maquinaria, combustible, piezas, productos de madera, tuberías, explosivos y otros suministros para minas e industrias similares."}
+{"i":89,"tr":"Maquinaria, piezas, combustible, materiales de construcción y otros suministros para puertos, muelles e industrias similares."}
+{"i":90,"tr":"Correo"}
+{"i":91,"tr":"Maíz"}
+{"i":92,"tr":"Mineral de manganeso, utilizado principalmente en la producción de acero."}
+{"i":93,"tr":"Piezas metálicas para ensamblar en artículos más grandes."}
+{"i":94,"tr":"Mild Mild West"}
+{"i":95,"tr":"Principalmente vacas, cerdos y ovejas para la producción de carne. También se pueden comer otros animales."}
+{"i":96,"tr":"Látex mayoritariamente natural."}
+{"i":97,"tr":"Mayormente camiones. O coches. O camiones ligeros. Quizás tractores."}
+{"i":98,"tr":"Metales no ferrosos, como cobre, níquel, zinc y plomo."}
+{"i":99,"tr":"Petróleo"}
+{"i":100,"tr":"Refinería de petróleo"}
+{"i":101,"tr":"Plataforma petrolífera"}
+{"i":102,"tr":"Pozos de petróleo"}
+{"i":103,"tr":"Petróleo para cocinar y consumo."}
+{"i":104,"tr":"Papel"}
+{"i":105,"tr":"Papelera"}
+{"i":106,"tr":"Pasajeros"}
+{"i":107,"tr":"Gasolina, diésel y combustibles similares."}
+{"i":108,"tr":"Potable"}
+{"i":109,"tr":"Productos de cereales en polvo, como harina y almidón, transportados en sacos o a granel en contenedores cubiertos."}
+{"i":110,"tr":"Equipos motorizados y sistemas mecánicos utilizados en edificios, industrias y granjas. Transportados como unidades completas o como subensamblajes principales."}
+{"i":111,"tr":"Fibra de madera procesada utilizada principalmente para la producción de papel, transportada en balas o como pulpa a granel."}
+{"i":112,"tr":"Productos de madera procesados procedentes de aserraderos o industrias similares."}
+{"i":113,"tr":"Python 3.11+"}
+{"i":114,"tr":"Granos de café crudos o tostados."}
+{"i":115,"tr":"Plástico crudo para su posterior procesamiento. Generalmente transportado en forma de gránulos de resina."}
+{"i":116,"tr":"Metal de aluminio refinado, en bobinas, lingotes, losas, etc."}
+{"i":117,"tr":"Metal de cobre refinado, en bobinas, lingotes, etc."}
+{"i":118,"tr":"Productos petrolíferos refinados como gasolina, diésel, queroseno, GLP, fueloil y combustible de búnker, transportados como líquidos a granel o gas licuado."}
+{"i":119,"tr":"Placas y secciones de acero laminado: vigas I, vigas H, canales, etc. Transportados como productos largos y rectos."}
+{"i":120,"tr":"Cuerdas y cables producidos al estirar alambre de acero hasta un diámetro menor y luego retorcerlo para formar cuerdas de varios hilos."}
+{"i":121,"tr":"Fundiciones de acero en bruto que requieren un procesamiento adicional. Los lingotes pueden ser pequeños o muy grandes. Los perfiles típicos de los lingotes son rectangulares o redondos."}
+{"i":122,"tr":"Goma"}
+{"i":123,"tr":"Plantación de caucho"}
+{"i":124,"tr":"Serradero"}
+{"i":125,"tr":"Fundiciones de acero semiacabadas. Siempre planas y rectangulares en sección transversal."}
+{"i":126,"tr":"Fundiciones de acero semiacabadas. Rectangulares, cuadradas o redondas en sección transversal."}
+{"i":127,"tr":"Economía sencilla. Inspirada en Argentina, Perú y Chile. Funciona mejor con un clima subtropical."}
+{"i":128,"tr":"Economía sencilla. Inspirada en Finlandia, el norte de Canadá y el norte de Siberia. Funciona mejor con un clima subártico."}
+{"i":129,"tr":"Economía sencilla. Inspirada en el suroeste del Reino Unido. Funciona mejor con un clima templado."}
+{"i":130,"tr":"Materiales de carbono especializados, como coque de petróleo calcinado, betún, alquitrán de alto valor y negro de humo, utilizados en procesos metalúrgicos y químicos."}
+{"i":131,"tr":"Acera"}
+{"i":132,"tr":"Baras de acero, en forma redonda, cuadrada, plana y otros perfiles. Transportadas como productos largos y rectos."}
+{"i":133,"tr":"Alambre de acero y varillas delgadas. Transportadas principalmente en bobinas."}
+{"i":134,"tr":"Tanques de almacenamiento, recipientes a presión, silos, cilindros de gas y ensamblajes de tuberías, para su uso en edificios urbanos, industrias y granjas."}
+{"i":135,"tr":"Acero estructural en secciones laminadas (vigas I, vigas H, etc.), en chapa plana o en secciones y vigas fabricadas soldadas a partir de chapa."}
+{"i":136,"tr":"Azúcar"}
+{"i":137,"tr":"Minerales de sulfuro, fundidos para producir una variedad de productos industriales."}
+{"i":138,"tr":"Suministros para cortar y soldar metal, como electrodos de soldadura, herramientas y gases industriales, incluidos acetileno, argón, propano, oxígeno y nitrógeno."}
+{"i":139,"tr":"Producto petroquímico espeso utilizado principalmente para el pavimento de carreteras y la cubrición de tejados."}
+{"i":140,"tr":"Chapa y tira de acero laminado fino, ampliamente utilizadas para fabricar otros productos. Transportadas como chapas planas o en bobinas."}
+{"i":141,"tr":"Baras de acero rugoso y fino, ampliamente utilizadas para reforzar estructuras de hormigón. Transportadas en bobinas o fardos de baras rectas."}
+{"i":142,"tr":"Chapa de acero fino recubierta de estaño para resistir la corrosión, utilizada principalmente para latas, recipientes y otros envases."}
+{"i":143,"tr":"Se utiliza en la producción de aceros aleados y aceros inoxidable, una aleación de cromo y hierro. Trozos grises, de tamaño y forma similares a los trozos de carbón."}
+{"i":144,"tr":"Se utiliza en la producción de acero. Aleaciones de hierro y otros elementos, entre ellos manganeso, níquel, cromo, aluminio, silicio y tungsteno. Trozos grises, de tamaño y forma similares a los de carbón."}
+{"i":145,"tr":"Producto residual de la producción de hierro y acero."}
+{"i":146,"tr":"Trigo, cebada, etc."}
+{"i":147,"tr":"Polvo blanco refinado a partir de bauxita, utilizado para producir aluminio metálico."}
+{"i":148,"tr":"Roca de sulfato de calcio blanca, gris o marrón, utilizada en la producción de ácido sulfúrico y cemento. A menudo se transporta en granel cubierto."}
+{"i":149,"tr":"Producto químico industrial de uso generalizado. De color amarillo brillante, en forma de polvo o líquido."}
+{"i":150,"tr":"Producto químico industrial de uso generalizado. Suele transportarse como carga a granel que debe mantenerse seca."}
+{"i":151,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":152,"tr":"{TINYFONT}AA"}
+{"i":153,"tr":"{TINYFONT}AC"}
+{"i":154,"tr":"{TINYFONT}AG"}
+{"i":155,"tr":"{TINYFONT}AM"}
+{"i":156,"tr":"{TINYFONT}AO"}
+{"i":157,"tr":"{TINYFONT}AP"}
+{"i":158,"tr":"{TINYFONT}AY"}
+{"i":159,"tr":"{TINYFONT}BB"}
+{"i":160,"tr":"{TINYFONT}BI"}
+{"i":161,"tr":"{TINYFONT}BM"}
+{"i":162,"tr":"{TINYFONT}BN"}
+{"i":163,"tr":"{TINYFONT}CA"}
+{"i":164,"tr":"{TINYFONT}CB"}
+{"i":165,"tr":"{TINYFONT}CE"}
+{"i":166,"tr":"{TINYFONT}CF"}
+{"i":167,"tr":"{TINYFONT}CH"}
+{"i":168,"tr":"{TINYFONT}CI"}
+{"i":169,"tr":"{TINYFONT}CK"}
+{"i":170,"tr":"{TINYFONT}CN"}
+{"i":171,"tr":"{TINYFONT}CO"}
+{"i":172,"tr":"{TINYFONT}CP"}
+{"i":173,"tr":"{TINYFONT}CR"}
+{"i":174,"tr":"{TINYFONT}CT"}
+{"i":175,"tr":"{TINYFONT}CY"}
+{"i":176,"tr":"{TINYFONT}EL"}
+{"i":177,"tr":"{TINYFONT}EO"}
+{"i":178,"tr":"{TINYFONT}EP"}
+{"i":179,"tr":"{TINYFONT}ES"}
+{"i":180,"tr":"{TINYFONT}EX"}
+{"i":181,"tr":"{TINYFONT}FA"}
+{"i":182,"tr":"{TINYFONT}FI"}
+{"i":183,"tr":"{TINYFONT}FL"}
+{"i":184,"tr":"{TINYFONT}FO"}
+{"i":185,"tr":"{TINYFONT}FS"}
+{"i":186,"tr":"{TINYFONT}FV"}
+{"i":187,"tr":"{TINYFONT}GL"}
+{"i":188,"tr":"{TINYFONT}HW"}
+{"i":189,"tr":"{TINYFONT}IG"}
+{"i":190,"tr":"{TINYFONT}KA"}
+{"i":191,"tr":"{TINYFONT}LG"}
+{"i":192,"tr":"{TINYFONT}LH"}
+{"i":193,"tr":"{TINYFONT}LS"}
+{"i":194,"tr":"{TINYFONT}LU"}
+{"i":195,"tr":"{TINYFONT}MA"}
+{"i":196,"tr":"{TINYFONT}MF"}
+{"i":197,"tr":"{TINYFONT}MK"}
+{"i":198,"tr":"{TINYFONT}ML"}
+{"i":199,"tr":"{TINYFONT}MN"}
+{"i":200,"tr":"{TINYFONT}MO"}
+{"i":201,"tr":"{TINYFONT}N7"}
+{"i":202,"tr":"{TINYFONT}NA"}
+{"i":203,"tr":"{TINYFONT}NI"}
+{"i":204,"tr":"{TINYFONT}NT"}
+{"i":205,"tr":"{TINYFONT}O2"}
+{"i":206,"tr":"{TINYFONT}OC"}
+{"i":207,"tr":"{TINYFONT}PA"}
+{"i":208,"tr":"{TINYFONT}PC"}
+{"i":209,"tr":"{TINYFONT}PE"}
+{"i":210,"tr":"{TINYFONT}PG"}
+{"i":211,"tr":"{TINYFONT}PH"}
+{"i":212,"tr":"{TINYFONT}PI"}
+{"i":213,"tr":"{TINYFONT}PL"}
+{"i":214,"tr":"{TINYFONT}PM"}
+{"i":215,"tr":"{TINYFONT}PT"}
+{"i":216,"tr":"{TINYFONT}PV"}
+{"i":217,"tr":"{TINYFONT}PW"}
+{"i":218,"tr":"{TINYFONT}PY"}
+{"i":219,"tr":"{TINYFONT}QL"}
+{"i":220,"tr":"{TINYFONT}RB"}
+{"i":221,"tr":"{TINYFONT}SA"}
+{"i":222,"tr":"{TINYFONT}SB"}
+{"i":223,"tr":"{TINYFONT}SD"}
+{"i":224,"tr":"{TINYFONT}SE"}
+{"i":225,"tr":"{TINYFONT}SG"}
+{"i":226,"tr":"{TINYFONT}SH"}
+{"i":227,"tr":"{TINYFONT}SI"}
+{"i":228,"tr":"{TINYFONT}SL"}
+{"i":229,"tr":"{TINYFONT}SM"}
+{"i":230,"tr":"{TINYFONT}SO"}
+{"i":231,"tr":"{TINYFONT}SP"}
+{"i":232,"tr":"{TINYFONT}ST"}
+{"i":233,"tr":"{TINYFONT}STSW"}
+{"i":234,"tr":"{TINYFONT}SU"}
+{"i":235,"tr":"{TINYFONT}SW"}
+{"i":236,"tr":"{TINYFONT}SY"}
+{"i":237,"tr":"{TINYFONT}TC"}
+{"i":238,"tr":"{TINYFONT}TI"}
+{"i":239,"tr":"{TINYFONT}TP"}
+{"i":240,"tr":"{TINYFONT}TY"}
+{"i":241,"tr":"{TINYFONT}VB"}
+{"i":242,"tr":"{TINYFONT}VE"}
+{"i":243,"tr":"{TINYFONT}VG"}
+{"i":244,"tr":"{TINYFONT}VP"}
+{"i":245,"tr":"{TINYFONT}VS"}
+{"i":246,"tr":"{TINYFONT}WL"}
+{"i":247,"tr":"{TINYFONT}WP"}
+{"i":248,"tr":"{TINYFONT}WS"}
+{"i":249,"tr":"{TINYFONT}ZN"}
+{"i":250,"tr":"{TINYFONT}ZO"}
+{"i":251,"tr":"{}{BLACK}Ubicación: {YELLOW}Solo se puede financiar sobre nieve."}
+{"i":252,"tr":"{}{BLACK}Ubicación: {YELLOW}No se puede financiar en desiertos."}
+{"i":253,"tr":"{}{BLACK}Ubicación: {YELLOW}No se puede financiar sobre nieve ni en desiertos."}
+{"i":254,"tr":"{}{BLACK}Ubicación: {YELLOW}No se puede financiar sobre nieve."}
+{"i":7,"tr":"Balas."}
+{"i": 11, "tr": "Billets, bloques, lingotes y losas."}
+{"i": 11, "tr": "Billets, bloques, lingotes y losas."}
+{"i": 4, "tr": "Son para siempre, etc."}
+{"i": 5, "tr": "Disponible en todas las economías. Producido y aceptado por los edificios urbanos, y también por algunas pocas industrias."}
+{"i": 6, "tr": "Disponible en todas las economías. Producido y aceptado por los edificios urbanos."}
+{"i": 10, "tr": "Hierro básico de un alto horno, como líquido fundido o lingotes sólidos."}
+{"i": 11, "tr": "Lingotes, bloom, tochos y chapas."}
+{"i": 12, "tr": "Biomasa de turbales, extraída para combustible y horticultura."}
+{"i": 13, "tr": "Cajas, botellas, tarros, latas, etc."}
+{"i": 14, "tr": "Subproducto de la producción de coque, un líquido viscoso de flujo lento."}
+{"i": 18, "tr": "Óxido de calcio, también conocido como cal viva. Transportado como polvo fino que debe mantenerse seco."}
+{"i": 19, "tr": "Productos fundidos como bloques, vigas y paneles. También puede manejarse como hormigón preparado en camiones mezcladores."}
+{"i": 21, "tr": "Productos químicos, jabones, agentes de limpieza, etc., para uso industrial y doméstico. Principalmente líquidos, también pueden ser polvo o sólidos (como arena para granallado)."}
+{"i": 25, "tr": "Carbón calentado en un horno de coque, que produce un combustible de carbono casi puro."}
+{"i": 26, "tr": "Arena gruesa para construcción, o arena de sílice fina para fabricación de vidrio y fundición de metales. Transportado a granel o como polvo."}
+{"i": 27, "tr": "Judías comunes, habas, soja y legumbres comestibles similares."}
+{"i": 28, "tr": "Economía compleja con industrias de hierro, acero y fabricación pesada."}
+{"i": 29, "tr": "Economía compleja con muchas industrias y mercancías."}
+{"i": 30, "tr": "Economía compleja con muchas industrias y mercancías. Inspirada en África centro-occidental. Mejor con clima subtropical."}
+{"i": 31, "tr": "Componentes para la producción de vehículos como chasis y componentes de suspensión, piezas eléctricas, revestimientos exteriores y piezas interiores."}
+{"i": 35, "tr": "Algodón, lino, yute y materiales similares para producir textiles y materiales compuestos."}
+{"i": 36, "tr": "Petróleo crudo, no refinado, transportado como líquido a granel."}
+{"i": 39, "tr": "Tambores, cabrestantes, grilletes, ganchos, poleas, cilindros hidráulicos y otras piezas para grúas, montacargas, elevadores, etc."}
+{"i": 41, "tr": "Raíz comestible, también conocida como mandioca y yuca."}
+{"i": 43, "tr": "Alambre fino usado para reforzar neumáticos. Transportado en bobinas."}
+{"i": 44, "tr": "Sellos flexibles, juntas, mangueras, correas, esteras, bujes, etc., hechos de caucho o materiales similares."}
+{"i": 45, "tr": "Alimento"}
+{"i": 46, "tr": "Alimentos mantenidos congelados durante el transporte y almacenamiento."}
+{"i": 47, "tr": "Para uso doméstico y de construcción. Herramientas, utensilios, accesorios, herrajes de metal y otros materiales."}
+{"i": 55, "tr": "Productos químicos orgánicos e inorgánicos genéricos, manejados como líquido, gas, a granel cubierto, polvo o mercancía a granel."}
+{"i": 57, "tr": "Grano"}
+{"i": 58, "tr": "Grava, arena, piedra triturada y materiales similares usados en construcción."}
+{"i": 59, "tr": "Componentes de ingeniería de alto valor como equipos eléctricos, motores, transformadores, equipos de control, hidráulica, neumática, bombas, válvulas y equipos de transmisión."}
+{"i": 62, "tr": "Ácido industrial usado principalmente en la producción de fertilizantes y productos químicos, transportado como líquido a granel."}
+{"i": 63, "tr": "Ácidos industriales, como ácido clorhídrico, nítrico y sulfúrico."}
+{"i": 64, "tr": "Alcohol industrial usado como materia prima química y combustible, transportado como líquido a granel."}
+{"i": 65, "tr": "Producto químico industrial, normalmente transportado criogénicamente como gas licuado comprimido."}
+{"i": 66, "tr": "Producto químico industrial. También conocido como lejía o sosa cáustica. Normalmente transportado como líquido."}
+{"i": 68, "tr": "Productos químicos industriales derivados del amoníaco, como amoníaco, ácido nítrico y urea. Transportados como líquidos, criogénicamente como gas licuado o a granel seco."}
+{"i": 69, "tr": "Productos químicos industriales usados en fabricación y procesamiento, transportados como líquidos, polvos, gases o mercancías empaquetadas."}
+{"i": 70, "tr": "Gas industrial. Transportado criogénicamente como gas licuado comprimido."}
+{"i": 71, "tr": "Gases industriales usados en procesamiento químico, metalurgia y soldadura, transportados en cilindros o camiones cisterna a presión."}
+{"i": 72, "tr": "Mineral industrial, también conocido como caolín, usado principalmente en producción de papel y plásticos."}
+{"i": 73, "tr": "Minerales industriales usados en procesamiento químico. La baritina se usa en químicos de bario y rellenos; la fluorita en química de flúor y fundentes metalúrgicos."}
+{"i": 75, "tr": "Ingredientes usados en procesamiento de alimentos, como conservantes, saborizantes, colorantes y auxiliares de procesamiento."}
+{"i": 76, "tr": "Polvo de carbono intensamente negro, usado en neumáticos, plásticos y pigmentos.  Manejado como polvo."}
+{"i": 77, "tr": "Productos químicos intermedios usados como materia prima para procesamiento industrial adicional."}
+{"i": 78, "tr": "Productos de azúcar intermedios para refinación, fermentación y usos industriales. Los gránulos pegajosos se manejan a granel cubierto; el jarabe espeso como líquido; ambos pueden envasarse."}
+{"i": 79, "tr": "Motores de combustión interna y partes relacionadas de la transmisión como cajas de cambio y ejes de transmisión."}
+{"i": 80, "tr": "Mineral de hierro"}
+{"i": 81, "tr": "Mina de mineral de hierro"}
+{"i": 82, "tr": "Fracciones ligeras de petróleo usadas como materia prima química, transportadas como líquidos a granel."}
+{"i": 84, "tr": "Troncos de un bosque."}
+{"i": 85, "tr": "Tubo hueco largo de sección redonda, rectangular y otras. Usado para fabricar estructuras y maquinaria."}
+{"i": 86, "tr": "Tuberías de acero redondas largas para transportar líquidos en tuberías, edificios, industrias, etc."}
+{"i": 87, "tr": "Maquinaria, combustible, piezas, fertilizante y otros suministros para granjas, bosques e industrias similares."}
+{"i": 92, "tr": "Mineral de manganeso, usado principalmente en la producción de acero."}
+{"i": 95, "tr": "Principalmente vacas, cerdos y ovejas para producción de carne.  Otros animales también pueden comerse."}
+{"i": 96, "tr": "Principalmente látex natural."}
+{"i": 97, "tr": "Principalmente camiones. O coches. O camiones ligeros. Quizás tractores."}
+{"i": 103, "tr": "Aceite para cocinar y consumo."}
+{"i": 109, "tr": "Productos cereales en polvo como harina y almidón, transportados en sacos o a granel cubierto."}
+{"i": 110, "tr": "Equipos motorizados y sistemas mecánicos usados en edificios, industrias y granjas. Transportados como unidades completas o como subconjuntos principales."}
+{"i": 111, "tr": "Fibra de madera procesada usada principalmente para producción de papel, transportada como balas o pulpa a granel."}
+{"i": 112, "tr": "Productos de madera procesada de un aserradero o industrias similares."}
+{"i": 115, "tr": "Plástico crudo para procesamiento adicional. Normalmente transportado como perlas de resina."}
+{"i": 116, "tr": "Metal de aluminio refinado, en bobinas, lingotes, chapas, etc."}
+{"i": 118, "tr": "Productos de petróleo refinados como gasolina, diésel, queroseno, GLP, fueloil y combustible marino, transportados como líquidos a granel o gas licuado."}
+{"i": 119, "tr": "Planchas y perfiles de acero laminado - vigas I, vigas H, canales, etc. Transportados como productos largos rectos."}
+{"i": 120, "tr": "Cuerdas y cables producidos estirando varillas de alambre de acero a un diámetro menor y retorciéndolas en cuerdas agrupadas."}
+{"i": 121, "tr": "Fundiciones de acero gruesas que requieren procesamiento adicional. Los lingotes pueden ser pequeños o muy grandes. Los perfiles típicos de lingote son rectangulares o redondos."}
+{"i": 122, "tr": "Caucho"}
+{"i": 124, "tr": "Aserradero"}
+{"i": 125, "tr": "Fundiciones de acero semiterminadas. Siempre planas y rectangulares en sección transversal."}
+{"i": 126, "tr": "Fundiciones de acero semiterminadas. Rectangulares, cuadradas o redondas en sección transversal."}
+{"i": 127, "tr": "Economía simple. Inspirada en Argentina, Perú y Chile. Mejor con clima subtropical."}
+{"i": 128, "tr": "Economía simple. Inspirada en Finlandia, norte de Canadá y norte de Siberia. Mejor con clima subártico."}
+{"i": 129, "tr": "Economía simple. Inspirada en el suroeste del Reino Unido. Mejor con clima templado."}
+{"i": 130, "tr": "Materiales de carbono especiales como coque de petróleo calcinado, alquitrán, alquitranes de alto valor y negro de humo, usados en procesos metalúrgicos y químicos."}
+{"i": 131, "tr": "Acería"}
+{"i": 132, "tr": "Barras de acero, como redondos, cuadrados, planos y otros perfiles. Transportadas como productos largos rectos."}
+{"i": 133, "tr": "Alambre de acero y varillas finas. Principalmente transportados en bobinas."}
+{"i": 134, "tr": "Tanques de almacenamiento, recipientes a presión, silos, cilindros de gas y conjuntos de tuberías para uso en edificios urbanos, industrias y granjas."}
+{"i": 135, "tr": "Acero de grado estructural como perfiles laminados (vigas I, vigas H, etc.), o como chapa plana, o como secciones y vigas fabricadas soldadas a partir de chapa."}
+{"i": 137, "tr": "Minerales sulfurosos, fundidos para producir una variedad de productos industriales."}
+{"i": 138, "tr": "Suministros para cortar y soldar metal, como varillas de soldadura, herramientas y gases industriales incluyendo acetileno, argón, propano, oxígeno y nitrógeno."}
+{"i": 139, "tr": "Producto petrolífero espeso usado principalmente para pavimentación y techado."}
+{"i": 140, "tr": "Chapa y banda de acero laminada fina, ampliamente usada para fabricar otros productos. Transportada como chapas planas o en bobinas."}
+{"i": 141, "tr": "Barras de acero gruesas finas usadas frecuentemente para reforzar estructuras de hormigón. Transportadas en bobinas o fardos de barras rectas."}
+{"i": 142, "tr": "Chapa de acero fina recubierta con estaño para resistencia a la corrosión, usada principalmente para latas, contenedores y otros embalajes."}
+{"i": 143, "tr": "Usado en producción de aleaciones y acero inoxidable, una aleación de cromo y hierro.  Terrones grises, similares en tamaño y forma a los terrones de carbón."}
+{"i": 144, "tr": "Usado en producción de acero. Aleaciones de hierro y otros elementos incluyendo manganeso, níquel, cromo, aluminio, silicio y wolframio.  Terrones grises, similares en tamaño y forma a los terrones de carbón."}
+{"i": 147, "tr": "Polvo blanco refinado de bauxita, usado para producir metal de aluminio."}
+{"i": 148, "tr": "Roca de sulfato de calcio blanca, gris o marrón, usada en producción de ácido sulfúrico y cemento. A menudo transportada a granel cubierto."}
+{"i": 149, "tr": "Producto químico industrial de uso amplio. Amarillo brillante, en forma de polvo o líquido."}
+{"i": 150, "tr": "Producto químico industrial de uso amplio. Normalmente transportado como carga a granel que debe mantenerse seca."}

@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Kuelmënn"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Kupferbann"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Diamantbann"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Liewensmëttelfabrik"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Bësch"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Uebstplantage"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Eisenerzgruef"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Uelegraffinerie"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Uelegplattform"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Uelegbrunnen"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Pabeierfabréck"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Gummiplantage"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Sägmill"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Stolhutt"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Kuel"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Kupfererz"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamanten"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Liewensmëttel"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Wueren"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Kären"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Eisenerz"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Liewendé Déieren"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Post"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Mais"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Ueleg"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Pabeier"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Passagéier"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Gummi"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Zocker"
+
+[ECONOMY_INFO_FIRS]
+base = "Komplex Wirtschaft mat ville Branchen a Frachten."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Einfach Wirtschaft. Inspiréiert vu Finnland, Nordkanada an der Nor-Siberien. Am beschte mat engem subarktische Klima benotzen."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Einfach Wirtschaft. Inspiréiert vum Südweste vum Vereenegte Kinnekräich. Am beschte mat engem geméissege Klima benotzen."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Einfach Wirtschaft. Inspiréiert vun Argentinien, Peru a Chile. Am beschte mat engem subtropesche Klima benotzen."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Komplex Wirtschaft mat ville Branchen a Frachten. Inspiréiert vun Zentral- a Westafrika. Am beschte mat engem subtropesche Klima benotzen."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Komplex Wirtschaft mat Eisen-, Stol- a schwéierem Industrieberäich."
+
+[CARGO_INFO_PASSENGERS]
+base = "An allen Wirtschaftssystemer verfügbar. Gëtt vu Stadgebäider an och vun e puer Industrieën produzéiert an ugeholl."
+
+[CARGO_INFO_MAIL]
+base = "An allen Wirtschaftssystemer verfügbar. Gëtt vu Stadgebäider produzéiert an ugeholl."
+
+[CARGO_INFO_ACID]
+base = "Industriell Saieren, wéi Salzsaier, Salpetersaier a Schwiefelsaier."
+
+[CARGO_INFO_AGGREGATES]
+base = "Kies, Sand, zerbriechte Steen an änlech Materialien, déi am Bau agesat ginn."
+
+[CARGO_INFO_ALUMINA]
+base = "Wäisst Pudder, dat aus Bauxit-Erz raffinéiert gëtt an zur Produktioun vun Aluminiummetall benotzt gëtt."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Verfeinert Aluminiummetall, a Spullen, Barren, Platten asw."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Industriell Chimikalie, déi aus Ammoniak ofgeleet sinn, wéi Ammoniak, Salpetersaier an Harnstoff. Ginn als Flëssegkeeten, kryogenesch als verflëssegte Gas oder als dréchen Bulkware transportéiert."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Wäissen, groen oder brongen Kalziumsulphatgesteier, deen an der Produktioun vu Schwiefelsäier a Zement benotzt gëtt. Dacks als ofgedeckte Massegut transportéiert."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Industriell Mineralien, déi an der cheemescher Veraarbechtung agesat ginn. Baryt gëtt a Bariumchimikalien a Fëllstoffer benotzt; Fluorspat an der Fluorchemie a metallurgesche Flëssmëttelen."
+
+[CARGO_INFO_BASE_METALS]
+base = "Nicht-eesern Metaller, wéi Koffer, Nickel, Zénk a Blei."
+
+[CARGO_INFO_BEANS]
+base = "Gewéinlech Bounen, Widderbounen, Sojabounen an änlech essbar Léienplanzen."
+
+[CARGO_INFO_BITUMEN]
+base = "Décke Petroleumprodukt, dat haaptsächlech fir Stroossebeläg a Dächer benotzt gëtt."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Zement, Glas, Metallkomponenten, Holzprodukter, Ruer an änlech Baumaterialien."
+
+[CARGO_INFO_CASSAVA]
+base = "Iessbar Wuerzelkultur, och als Maniok a Yuca bekannt."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Intensiv schwaarzt Kuelestoffpudder, dat a Pneuen, Plaster a Pigmenter benotzt gëtt. Gëtt als Pudder behandelt."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billette, Blomen, Barrenen a Platten."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billette, Blomen, Barrenen a Platten."
+
+[CARGO_INFO_CEMENT]
+base = "Dréche Cement a Pudder- oder Klinkerform."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Zwëschenproduiten aus der Chimie, déi als Rohmaterial fir weider industriell Veraarbechtung benotzt ginn."
+
+[CARGO_INFO_CHEMICALS]
+base = "Allgemeng organesch an anorganesch Chemikalien, déi als Flëssegkeet, Gas, ofgedeckt Massegut, Pudder oder als Stéckware behandelt ginn."
+
+[CARGO_INFO_CHLORINE]
+base = "Industriell Chimikalie, déi normalerweis kryogenesch als verflëssegte kompriméiert Gas transportéiert gëtt."
+
+[CARGO_INFO_CLAY]
+base = "Allgemeng Toner, fir d'Produktioun vu Baumaterialien an aner industriell Notzungen."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Chemikalien, Seep, Scheermëttel asw. fir industriell a haitege Gebrauch. Haaptsächlech flësseg, mee kënnen och Pulver oder fest sinn (wéi Schrotstrahlsand)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Nieweprodukt vun der Koksproduktioun, eng déck Flëssegkeet, déi nëmme lues fléisst."
+
+[CARGO_INFO_COFFEE]
+base = "Roh oder geréischte Kaffisbounen."
+
+[CARGO_INFO_COKE]
+base = "Kuel, déi an engem Koksofen erhëtzt gëtt, fir en Brennstoff ze produzéieren, deen bal reng Kuelestoff ass."
+
+[CARGO_INFO_COMPONENTS]
+base = "Wäertvoll Ingenieurkomponenten, wéi elektresch Ausrëschtung, Motoren, Transformatoren, Steieranlagen, Hydraulik, Pneumatik, Pompë, Ventiller a Kraaftiwwerdroungsanlagen."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Gossprodukter wéi Bléck, Balken a Paneele. Kënne sou och als fäerdege Beton a Mëschungslaster behandelt ginn."
+
+[CARGO_INFO_COPPER]
+base = "Verfeinert Kupfermetall, a Spullen, Barren asw."
+
+[CARGO_INFO_DIAMONDS]
+base = "Si sinn éiweg, asw."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Ueleg fir ze kachen an ze konsuméieren."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Elektresch an elektronesch Komponente, Motoren, Steierungseenheeten, Schaltschränk, Luuchten asw."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Maschinnen, Brennstoff, Deeler, Holzprodukter, Ruer, Sprengstoffer an aner Versuergungsgidder fir Grouwen an änlech Industrieberäicher."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Zivill Explosivstoffer fir d'Mënbau, d'Bauwies asw."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Maschinnen, Brennstoff, Deeler, Dünger an aner Versuergungsgidder fir Bauerenhëff, Bëscher an änlech Industrieberäicher."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Gëtt an der Stolproduktioun benotzt. Legéierungen aus Eisen an aneren Elementer, dorënner Mangan, Nickel, Chrom, Aluminium, Silizium a Wolfram. Gro Klumpen, déi an Gréisst a Form Kuelklumpen änlechen."
+
+[CARGO_INFO_FERROCHROME]
+base = "Gëtt an der Produktioun vu Legéierungen an aus Edelstahl benotzt, enger Legéierung aus Chrom an Eisen. Gro Klumpen, déi an Gréisst a Form Kuelklumpen änlechen."
+
+[CARGO_INFO_FLOUR]
+base = "Pudderfërmeg Getreideprodukter wéi Mehl a Stäerkt, transportéiert a Säck oder als ofgedeckt Massgutt."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Metalldeeler fir den Zesummestellung zu méi grousse Géigestänn."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Zutaten, déi an der Liewensmëttelveraarbechtung benotzt ginn, wéi Konservéierungsmëttel, Aromaen, Faarfstoffer a Veraarbechtungshëllefsmëttel."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Liewensmëttel, déi wärend dem Transport an der Lagerung gefruer gehale ginn."
+
+[CARGO_INFO_FRUITS]
+base = "Fresch an getréckten Uebst, wéi Banannen, Zitrusfrüchten, Trauben, Beeren, Ananas, Rosinen an änlech Saachen."
+
+[CARGO_INFO_GRAIN]
+base = "Wäizen, Gerst asw."
+
+[CARGO_INFO_HARDWARE]
+base = "Fir den Hausgebrauch an d'Bauindustrie. Wierkzeegen, Géigestänn, Montagen, Armaturen aus Metall an anere Materialien."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Spezial-Kuelestoffmaterialien wéi gekalkinéierte Petrolkoks, Pech, héichwäerteg Teeren a Kueleschwaarz, déi a metallurgeschen a cheemesche Prozesser benotzt ginn."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Industriell Gaser, déi an der cheemescher Veraarbechtung, Metallveraarbechtung a Schweisse benotzt ginn an an Zylinderen oder Drocktanker transportéiert ginn."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Trommelen, Winchen, Fesselen, Hake, Rollbléck, hydraulesch Stéiss an aner Deeler fir Kraner, Heebanlagen, Hiser asw."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Liicht Petrolfraktiounen, déi als chemesch Rohmaterial benotzt ginn an als flësseg Schüttgutt transportéiert ginn."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Haaptsächlech Kéien, Schwäin a Schofe fir d'Fleeschproduktioun. Och aner Déieren kënnen giess ginn."
+
+[CARGO_INFO_LYE]
+base = "Industriell Chimikalie. Och bekannt als Lye oder Kaustesch Soda. Normalerweis als Flëssegkeet transportéiert."
+
+[CARGO_INFO_KAOLIN]
+base = "Industriellt Mineral, och bekannt als Kaolin, dat haaptsächlech an der Pabeier- a Plastikproduktioun benotzt gëtt."
+
+[CARGO_INFO_MANGANESE]
+base = "Manganerz, dat haaptsächlech an der Stolproduktioun benotzt gëtt."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Maschinnen, Deeler, Brennstoff, Baumaterialien an aner Versuergungsgidder fir Hafe, Quaien an änlech Industrieberäicher."
+
+[CARGO_INFO_METAL]
+base = "Allgemeng Metaller, wéi Stol, Aluminium oder aner heefeg Metaller."
+
+[CARGO_INFO_METHANOL]
+base = "Industrieller Alkohol, deen als chemesche Rohmaterial an als Brennstoff benotzt gëtt an als flësseg Massgutt transportéiert gëtt."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Zwëschenproduiter aus Zocker fir d'Verfäinerung, d'Fermentatioun an industriell Notzung. Klebrig Granulater ginn als gedeckte Schüttgutt behandelt; décke Syrup als Flëssegkeet; béid kënnen verpaakt ginn."
+
+[CARGO_INFO_NITROGEN]
+base = "Industriellt Gas. Gëtt kryogenesch als verflëssegte kompriméiert Gas transportéiert."
+
+[CARGO_INFO_OIL]
+base = "Rou, onraffinéiert Petrol, déi als flësseg Mass transportéiert gëtt."
+
+[CARGO_INFO_OXYGEN]
+base = "Industriellt Gas. Gëtt kryogenesch als verflëssegte kompriméiert Gas transportéiert."
+
+[CARGO_INFO_PACKAGING]
+base = "Këschten, Fläschen, Gliecher, Dosen, asw."
+
+[CARGO_INFO_PEAT]
+base = "Biomass aus Torfmooren, gewonnen als Brennstoff an fir d'Gartnerei."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Verfeinert Petrolproduiten ewéi Benzin, Diesel, Kerosin, LPG, Heizuel an Bunkeruel, déi als Bulkflëssegkeeten oder verflëssegte Gas transportéiert ginn."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Industriell Saier, déi haaptsächlech an der Dünge- a Chimieproduktioun agesat gëtt an als flësseg Massgutt transportéiert gëtt."
+
+[CARGO_INFO_PIG_IRON]
+base = "Basisches Eisen aus engem Héichuewen, als geschmolt Flëssegkeet oder als fest Barrenen."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Kotteng, Flues, Jute an änlech Materialien fir d'Produktioun vun Textiler a Verbundmaterialien."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Ugedriwwe Geräiter a mechanesch Systemer, déi an Gebaier, an der Industrie an op Bauerenhëff benotzt ginn. Si ginn als komplett Eenheeten oder als grouss Ënnerassemblagen transportéiert."
+
+[CARGO_INFO_PETROL]
+base = "Benzin, Diesel an änlech Brennstoffen."
+
+[CARGO_INFO_PLASTICS]
+base = "Rohplastesch fir weider Veraarbechtung. Gëtt normalerweis als Harzperle transportéiert."
+
+[CARGO_INFO_PIPEWORK]
+base = "Späichertanke, Drockbehälter, Siloen, Gascylindere a Rourassemblagen fir den Asaz a Stadbauten, an der Industrie an op Bauerenhëff."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Industriell Chimikalie, déi an der Produktioun an Veraarbechtung agesat ginn an als Flëssegkeeten, Pudder, Gaser oder verpaakt Wueren transportéiert ginn."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Sulfidmineralien, déi geschmolt ginn, fir verschidde industriell Produiten hierzestellen."
+
+[CARGO_INFO_QUICKLIME]
+base = "Kalziumoxid, och als gebrannte Kallek bekannt. Gëtt als feint Pudder transportéiert, dat drécheg gehale muss ginn."
+
+[CARGO_INFO_REBAR]
+base = "Dënn, roueg Stolstäng, déi vill benotzt ginn, fir Betonkonstruktiounen ze verstäerken. Si ginn als Rollen oder als Bündeler vu geraden Stäng transportéiert."
+
+[CARGO_INFO_RUBBER]
+base = "Haaptsächlech natierleche Latex."
+
+[CARGO_INFO_SALT]
+base = "Breet benotzt industriellt Chemescht. Gëtt normalerweis als Massegut transportéiert, dat dréch gehale muss ginn."
+
+[CARGO_INFO_SAND]
+base = "Groufkornegen Sand fir de Bau oder feinen Siliziumsand fir d'Glasproduktioun an d'Metallgiesserei. Gëtt als Schüttgut oder Pulver transportéiert."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Flexibel Dichtungen, Dichtelementer, Schlauche, Riemen, Matten, Buchsen asw., aus Gummi oder änleche Materialien hiergestallt."
+
+[CARGO_INFO_SLAG]
+base = "Nieweprodukt vun der Eisen- a Stolproduktioun."
+
+[CARGO_INFO_SODA_ASH]
+base = "Industriell Chimikalie. A Wäiss-Pudderform."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Hallsfäerdeg Stolgossstécker. Am Querschnëtt rechteckeg, véiereckeg oder ronn."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Rau Stolgossstécker, déi weider veraarbecht muss ginn. D'Barren kënnen kleng oder ganz grouss sinn. Typesch Barrenprofiler si rechteckeg oder ronn."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Stolstänger, wéi Ronnen, Véiereck, Platten an aner Profile. Ginn als laang, gerad Produkter transportéiert."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Laang ronn Stolruer fir d'Transport vu Flëssegkeeten an Leedungen, Gebaier, Industrieberäicher asw."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Gewalzte Stolplaten a Profiler – I-Träger, H-Träger, Kanäl asw. Ginn als laang, gerad Produkter transportéiert."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Dënn gewalzt Stolblech a Stolsträifen, déi vill benotzt ginn, fir aner Produiten hierzestellen. Si ginn als platt Blecher oder als Rollen transportéiert."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Hallsfäerdeg Stolgossstécker. Am Querschnëtt ëmmer flaach a rechteckeg."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Laang huel Ruer mat ronnen, rechteckegen an anere Querschnëtter. Ginn benotzt fir Konstruktiounen a Maschinnen hierzestellen."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Stolddraht a dënn Stäng. Haaptsächlech als Spuele transportéiert."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Seelen a Kabeler, déi duerch d'Zéie vun Stoldrahtstangen op e méi klengen Duerchmiesser hiergestallt an duerno zu gebonnenne Seelen gedréint ginn."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Stol vun der Konstruktiounsklasse als gewalzte Profiler (I-Träger, H-Träger asw.), als platt Plack oder als fabrizéiert Profiler a Träger, déi aus Plack geschweesst sinn."
+
+[CARGO_INFO_SULPHUR]
+base = "Breet benotzt industriellt Chemescht. Hellgiel, a Pudder- oder flësseger Form."
+
+[CARGO_INFO_TIMBER]
+base = "Veraarbecht Holzprodukter aus enger Saagmill oder änlechen Industrien."
+
+[CARGO_INFO_TIN]
+base = "Barrenen."
+
+[CARGO_INFO_TINPLATE]
+base = "Dënn Stolblech, dat mat Zinn iwwerzunn ass, fir Korrosiounswidderstand ze bidden, an dat haaptsächlech fir Dosen, Containeren an aner Verpackungen benotzt gëtt."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Feinendraat, deen zur Verstäerkung vu Pneue benotzt gëtt. Gëtt als Roll transportéiert."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Kabinnen, Motorhaiser, Dieren an änlech Karosseriestrukture fir d'Produktioun vu Gefierer."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Verbrennungsmotoren an zugehéierend Deeler vum Uewerdriww, wéi Transmissiounen an Uewerdriwwwellen."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponente fir d'Fahrzeuggestioun, wéi Chassis- an Ophängungskomponenten, elektresch Deeler, baussenzeg Verkleedungen an Interieurdeeler."
+
+[CARGO_INFO_VEHICLES]
+base = "Haaptsächlech Lastwagen. Oder Autoen. Oder liicht Lastwagen. Vläicht och Traktoren."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Versuergungsgidder fir d'Schnëtt an d'Schwësse vu Metall, wéi Schwësselektrode, Wierkzeeg an industriell Gaser, dorënner Acetylen, Argon, Propan, Sauerstoff a Stickstoff."
+
+[CARGO_INFO_WOOD]
+base = "Holzstämm aus engem Bësch."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Veraarbecht Holzfaseren, déi haaptsächlech fir d'Pabeierproduktioun benotzt ginn an als Ballen oder Massepulp transportéiert ginn."
+
+[CARGO_INFO_WOOL]
+base = "Ballen."
+
+[CARGO_INFO_ZINC]
+base = "Barrenen."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

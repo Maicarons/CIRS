@@ -1,0 +1,609 @@
+{"i":0,"tr":" {BLACK}(opsional)"}
+{"i":1,"tr":" {BLACK}(disertakan)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Asam"}
+{"i":4,"tr":"Agregat"}
+{"i":5,"tr":"Alumina"}
+{"i":6,"tr":"Aluminium"}
+{"i":7,"tr":"Produk Amonia & Nitrat"}
+{"i":8,"tr":"Kompleks Amonia"}
+{"i":9,"tr":"Tambang Anhidrit"}
+{"i":10,"tr":"Pabrik Proses Anhidrit"}
+{"i":11,"tr":"Batu Anhidrit"}
+{"i":12,"tr":"Apel"}
+{"i":13,"tr":"Pabrik Peralatan Rumah Tangga"}
+{"i":14,"tr":"Abadi, dll."}
+{"i":15,"tr":"Pabrik Perakitan"}
+{"i":16,"tr":"Otomotif"}
+{"i":17,"tr":"Tersedia di semua ekonomi. Diproduksi dan diterima oleh bangunan kota, serta beberapa industri."}
+{"i":18,"tr":"Tersedia di semua ekonomi. Diproduksi dan diterima oleh bangunan kota."}
+{"i":19,"tr":"Toko Roti"}
+{"i":20,"tr":"Bale."}
+{"i":21,"tr":"Puncak Bank"}
+{"i":22,"tr":"Bar, Panggangan, dan Kamar"}
+{"i":23,"tr":"Gudang Pertanian"}
+{"i":24,"tr":"Tong dan Karung"}
+{"i":25,"tr":"Barit & Fluorspar"}
+{"i":26,"tr":"Dasar"}
+{"i":27,"tr":"Tanur Oksigen Dasar"}
+{"i":28,"tr":"Besi dasar dari tanur tiup, dalam bentuk cair meleleh atau batangan padat."}
+{"i":29,"tr":"Pabrik Kimia Batch"}
+{"i":30,"tr":"Kacang"}
+{"i":31,"tr":"Billet & Bloom"}
+{"i":32,"tr":"Billet, bloom, batangan, dan slab."}
+{"i":33,"tr":"Biomassa dari rawa gambut, diekstraksi untuk bahan bakar dan hortikultura."}
+{"i":34,"tr":"Bitumen"}
+{"i":35,"tr":"Tanur Tiup"}
+{"i":36,"tr":"Tubuh Tanaman"}
+{"i":37,"tr":"Taman Reruntuhan"}
+{"i":38,"tr":"Pabrik Botol & Kaleng"}
+{"i":39,"tr":"Kotak, botol, stoples, kaleng, dll."}
+{"i":40,"tr":"Pabrik Larutan Asin"}
+{"i":41,"tr":"Produk sampingan dari produksi kokas, yaitu cairan kental yang mengalir lambat."}
+{"i":42,"tr":"FIRS"}
+{"i":43,"tr":"Set Pengganti Industri Komunitas FIRS"}
+{"i":44,"tr":"FIRS mencakup satu set objek penataan lanskap yang dapat ditempatkan oleh pemain agar industri tertentu terlihat lebih besar. Objek lanskap tidak memiliki efek pada gameplay. Objek penataan lanskap dapat diaktifkan atau dinonaktifkan."}
+{"i":45,"tr":"Objek penataan lanskap FIRS"}
+{"i":46,"tr":"Kabin, kap mesin, pintu, dan struktur bodi serupa untuk produksi kendaraan."}
+{"i":47,"tr":"Kalsium Oksida, juga dikenal sebagai kapur bakar. Diangkut dalam bentuk bubuk halus yang harus dijaga tetap kering."}
+{"i":48,"tr":"Karbon Hitam"}
+{"i":49,"tr":"Pabrik Karbon Hitam"}
+{"i":50,"tr":"Singkong"}
+{"i":51,"tr":"Besi Tuang"}
+{"i":52,"tr":"Produk tuang seperti balok, balok penyangga, dan panel. Juga dapat ditangani sebagai beton siap pakai di truk mixer."}
+{"i":53,"tr":"Pabrik Film Selulosa"}
+{"i":54,"tr":"Semennya, kaca, komponen logam, produk kayu, pipa, dan bahan konstruksi serupa."}
+{"i":55,"tr":"Kompleks Kimia"}
+{"i":56,"tr":"Intermediet Kimia"}
+{"i":57,"tr":"Bahan kimia, sabun, bahan pembersih, dll. untuk penggunaan industri dan rumah tangga. Utamanya cair, tetapi juga bisa berupa bubuk atau padat (seperti pasir untuk penyemprotan peledak)."}
+{"i":58,"tr":"Tanah Liat Tiongkok"}
+{"i":59,"tr":"Pabrik Papan Serpih"}
+{"i":60,"tr":"Pabrik Klor-Alkali"}
+{"i":61,"tr":"Klorin"}
+{"i":62,"tr":"Bahan peledak sipil untuk pertambangan, konstruksi, dll."}
+{"i":63,"tr":"Agen Pembersih"}
+{"i":64,"tr":"Batubara"}
+{"i":65,"tr":"Tambang Batubara"}
+{"i":66,"tr":"Tar Batubara"}
+{"i":67,"tr":"Batubara yang telah dipanaskan di dalam tungku kok, menghasilkan bahan bakar yang hampir seluruhnya terdiri dari karbon murni."}
+{"i":68,"tr":"Pasir kasar untuk konstruksi, atau pasir silika halus untuk pembuatan kaca dan pengecoran logam. Diangkut dalam bentuk curah atau bubuk."}
+{"i":69,"tr":"Garis Koil"}
+{"i":70,"tr":"Kok"}
+{"i":71,"tr":"Tungku Kok"}
+{"i":72,"tr":"Tambang Batu Bara"}
+{"i":73,"tr":"Panggang Komersial"}
+{"i":74,"tr":"Kacang biasa, kacang fava, kedelai, dan kacang-kacangan lain yang bisa dimakan."}
+{"i":75,"tr":"Ekonomi kompleks dengan industri besi, baja, dan manufaktur berat."}
+{"i":76,"tr":"Ekonomi kompleks dengan banyak industri dan kargo."}
+{"i":77,"tr":"Ekonomi kompleks dengan banyak industri dan kargo. Terinspirasi dari Afrika tengah-barat. Paling cocok digunakan dengan iklim Subtropis."}
+{"i":78,"tr":"Komponen"}
+{"i":79,"tr":"Komponen untuk produksi kendaraan seperti sasis dan komponen suspensi, bagian kelistrikan, trim eksterior, dan bagian interior."}
+{"i":80,"tr":"Pabrik Beton"}
+{"i":81,"tr":"Produk Beton"}
+{"i":82,"tr":"Lapangan Konstruksi"}
+{"i":83,"tr":"Pabrik Makanan Siap Saji"}
+{"i":84,"tr":"Tembaga"}
+{"i":85,"tr":"Endapan Tembaga"}
+{"i":86,"tr":"Tambang Tembaga"}
+{"i":87,"tr":"Bijih Tembaga"}
+{"i":88,"tr":"Peleburan Tembaga"}
+{"i":89,"tr":"Kapas, rami, jut, dan bahan serupa, untuk menghasilkan tekstil dan bahan komposit."}
+{"i":90,"tr":"Pabrik Crawler"}
+{"i":91,"tr":"Kriosotasi"}
+{"i":92,"tr":"Minyak bumi mentah yang belum dimurnikan dan diangkut sebagai cairan curah."}
+{"i":93,"tr":"Pabrik Krio"}
+{"i":94,"tr":"Peternakan Susu"}
+{"i":95,"tr":"Jalan Susu"}
+{"i":96,"tr":"Tambang Berlian"}
+{"i":97,"tr":"Berlian"}
+{"i":98,"tr":"Gendang, winch, belenggu, kait, katrol, silinder hidrolik, dan komponen lain untuk derek, hoist, lift, dll."}
+{"i":99,"tr":"Semennya kering dalam bentuk bubuk atau klinker."}
+{"i":100,"tr":"Setiap ekonomi menyediakan kombinasi kargo dan industri yang berbeda.{}{}Bagi pemain yang menginginkan gameplay sederhana, ekonomi {SILVER}Dasar {BLACK}memiliki lebih sedikit industri dan kargo dibandingkan ekonomi CIRS lainnya.{}{}Situs web CIRS menyediakan informasi terperinci tentang setiap ekonomi."}
+{"i":101,"tr":"Minyak Makan"}
+{"i":102,"tr":"Tanaman akar yang bisa dimakan, juga dikenal sebagai manioc dan yuca."}
+{"i":103,"tr":"Pabrik Produk Elastomer"}
+{"i":104,"tr":"Tanur Arka Listrik"}
+{"i":105,"tr":"Komponen Kelistrikan"}
+{"i":106,"tr":"Komponen listrik dan elektronik, motor, pengontrol, perangkat sakelar, lampu, dll."}
+{"i":107,"tr":"Barang Elektronik"}
+{"i":108,"tr":"Pabrik Mesin"}
+{"i":109,"tr":"Pabrik Rekayasa"}
+{"i":110,"tr":"Mesin & Sistem Penggerak"}
+{"i":111,"tr":"Tingkat produksi primer yang ditingkatkan (%)"}
+{"i":112,"tr":"Perkebunan"}
+{"i":113,"tr":"Bahan Peledak"}
+{"i":114,"tr":"Pabrik Bahan Peledak"}
+{"i":115,"tr":"Pabrik"}
+{"i":116,"tr":"Peternakan"}
+{"i":117,"tr":"Peternakan, tambang, dan industri serupa akan meningkatkan produksi saat kotak pasokan dikirimkan, pertama ke {SILVER}Enhanced{BLACK}, lalu ke {SILVER}Gung-ho{BLACK}, jika kotak yang dikirimkan cukup.  {}{}Nilai bawaannya sudah baik, tetapi jika perlu, Anda dapat mengubahnya di sini.  {}{}Persyaratan kargo untuk industri tipe pelabuhan akan menjadi 8 kali nilai yang diatur di sini."}
+{"i":118,"tr":"Pabrik Fermentasi"}
+{"i":119,"tr":"Ferroalloy"}
+{"i":120,"tr":"Pupuk"}
+{"i":121,"tr":"Pabrik Pupuk & Asam"}
+{"i":122,"tr":"Ladang"}
+{"i":123,"tr":"Kawat halus yang digunakan untuk memperkuat ban. Diangkut dalam bentuk gulungan."}
+{"i":124,"tr":"Ikan & Makanan Laut"}
+{"i":125,"tr":"Peternakan Ikan"}
+{"i":126,"tr":"Segel fleksibel, gasket, selang, sabuk, matras, bushing, dll., yang terbuat dari karet atau bahan serupa."}
+{"i":127,"tr":"Tepung & Pati"}
+{"i":128,"tr":"Aliran Produksi"}
+{"i":129,"tr":"Makanan"}
+{"i":130,"tr":"Makanan & Minuman"}
+{"i":131,"tr":"Bahan Tambahan Makanan"}
+{"i":132,"tr":"Korporasi Pangan"}
+{"i":133,"tr":"Pabrik Pengolahan Pangan"}
+{"i":134,"tr":"Makanan yang disimpan dalam kondisi beku selama transportasi dan penyimpanan."}
+{"i":135,"tr":"Untuk keperluan rumah tangga dan konstruksi. Peralatan, perkakas, perlengkapan, dan aksesori dari logam serta bahan lainnya."}
+{"i":136,"tr":"Hutan"}
+{"i":137,"tr":"Produk Tempa & Tuangan"}
+{"i":138,"tr":"Pembeku"}
+{"i":139,"tr":"Buah segar dan kering, seperti pisang, jeruk, anggur, beri, nanas, kismis, dan sejenisnya."}
+{"i":140,"tr":"Pabrik Dessert Beku"}
+{"i":141,"tr":"Makanan Beku"}
+{"i":142,"tr":"Pabrik Makanan Beku"}
+{"i":143,"tr":"Perkebunan Buah"}
+{"i":144,"tr":"Penggiling Biji-bijian"}
+{"i":145,"tr":"GPL(v2)"}
+{"i":146,"tr":"GRFID"}
+{"i":147,"tr":"Tanah liat umum, untuk produksi bahan bangunan dan keperluan industri lainnya."}
+{"i":148,"tr":"Logam umum, seperti baja, aluminium, atau logam umum lainnya."}
+{"i":149,"tr":"Bahan kimia organik dan anorganik umum, yang ditangani dalam bentuk cair, gas, curah tertutup, bubuk, atau barang satuan."}
+{"i":150,"tr":"Balok penyangga"}
+{"i":151,"tr":"Produk Kaca"}
+{"i":152,"tr":"Barang"}
+{"i":153,"tr":"Biji-bijian"}
+{"i":155,"tr":"Kerikil, pasir, batu hancur, dan bahan serupa yang digunakan dalam konstruksi."}
+{"i":156,"tr":"Tingkat produksi primer Gung-ho (%)"}
+{"i":157,"tr":"Perangkat Keras & Finishing"}
+{"i":158,"tr":"Koperasi Peternakan"}
+{"i":159,"tr":"Komponen rekayasa bernilai tinggi seperti peralatan listrik, motor, transformator, peralatan kontrol, sistem hidrolik, pneumatik, pompa, katup, dan peralatan powertrain."}
+{"i":160,"tr":"Hotel"}
+{"i":161,"tr":"ID"}
+{"i":162,"tr":"Karbon Industri"}
+{"i":163,"tr":"Pabrik Bahan Kimia Industri"}
+{"i":164,"tr":"Gas Industri"}
+{"i":165,"tr":"Asam industri yang terutama digunakan dalam produksi pupuk dan bahan kimia, diangkut sebagai cairan curah."}
+{"i":166,"tr":"Asam industri, seperti asam klorida, asam nitrat, dan asam sulfat."}
+{"i":167,"tr":"Alkohol industri yang digunakan sebagai bahan baku kimia dan bahan bakar, diangkut sebagai cairan curah."}
+{"i":168,"tr":"Bahan kimia industri, biasanya diangkut secara kriogenik sebagai gas terkompresi yang dicairkan."}
+{"i":169,"tr":"Bahan kimia industri. Juga dikenal sebagai Lye atau Soda Kaustik. Biasanya diangkut dalam bentuk cair."}
+{"i":170,"tr":"Bahan kimia industri. Berbentuk bubuk putih."}
+{"i":171,"tr":"Bahan kimia industri yang berasal dari amonia, seperti amonia, asam nitrat, dan urea. Diangkut dalam bentuk cair, secara kriogenik sebagai gas yang dicairkan, atau sebagai curah kering."}
+{"i":172,"tr":"Bahan kimia industri yang digunakan dalam manufaktur dan pengolahan, diangkut dalam bentuk cair, bubuk, gas, atau barang kemasan."}
+{"i":173,"tr":"Gas industri. Diangkut secara kriogenik sebagai gas terkompresi yang dicairkan."}
+{"i":174,"tr":"Gas industri yang digunakan dalam pengolahan kimia, pengerjaan logam, dan pengelasan, diangkut dalam silinder atau tangki bertekanan."}
+{"i":175,"tr":"Mineral industri, juga dikenal sebagai Kaolin, terutama digunakan dalam produksi kertas dan plastik."}
+{"i":176,"tr":"Mineral industri yang digunakan dalam pengolahan kimia. Barytes digunakan dalam bahan kimia barium dan bahan pengisi; fluorspar digunakan dalam kimia fluorin dan fluks metalurgi."}
+{"i":177,"tr":"Batu logam tuang."}
+{"i":178,"tr":"Bahan baku yang digunakan dalam pengolahan makanan, seperti pengawet, perasa, pewarna, dan bahan bantu pengolahan."}
+{"i":179,"tr":"Bubuk karbon yang sangat hitam, digunakan pada ban, plastik, dan pigmen. Ditangani sebagai bubuk."}
+{"i":180,"tr":"Produk kimia antara yang digunakan sebagai bahan baku untuk pengolahan industri lebih lanjut."}
+{"i":181,"tr":"Produk gula antara untuk pemurnian, fermentasi, dan penggunaan industri. Butiran lengket ditangani sebagai curah tertutup; sirup kental sebagai cairan; keduanya dapat dikemas."}
+{"i":182,"tr":"Mesin pembakaran dalam dan komponen rangkaian penggerak terkait seperti transmisi dan poros penggerak."}
+{"i":183,"tr":"Bijih Besi"}
+{"i":184,"tr":"Tambang Bijih Besi"}
+{"i":185,"tr":"Batu Besi"}
+{"i":186,"tr":"Tungku"}
+{"i":187,"tr":"Endapan Kimberlit"}
+{"i":188,"tr":"LAHAN"}
+{"i":189,"tr":"Label"}
+{"i":190,"tr":"Panggung Pendaratan"}
+{"i":191,"tr":"Hidrokarbon Ringan"}
+{"i":192,"tr":"Fraksi minyak bumi ringan yang digunakan sebagai bahan baku kimia, diangkut sebagai cairan curah."}
+{"i":193,"tr":"Batu kapur"}
+{"i":194,"tr":"Tambang Batu Kapur"}
+{"i":195,"tr":"Tambang-Tambang Batu Kapur"}
+{"i":196,"tr":"Ternak"}
+{"i":197,"tr":"Tempat Pemuatan Kayu"}
+{"i":199,"tr":"Kayu gelondongan dari hutan."}
+{"i":200,"tr":"Tabung panjang berongga dengan penampang bundar, persegi panjang, dan bentuk lainnya. Digunakan untuk membuat struktur dan mesin."}
+{"i":201,"tr":"Pipa baja bundar panjang untuk mengangkut cairan di dalam pipa, bangunan, industri, dll."}
+{"i":202,"tr":"Mesin, bahan bakar, suku cadang, pupuk, dan pasokan lain untuk pertanian, kehutanan, dan industri serupa."}
+{"i":203,"tr":"Mesin, bahan bakar, suku cadang, produk kayu, pipa, bahan peledak, dan pasokan lain untuk pertambangan dan industri serupa."}
+{"i":204,"tr":"Mesin, suku cadang, bahan bakar, bahan konstruksi, dan perlengkapan lain untuk pelabuhan, dermaga, dan industri serupa."}
+{"i":205,"tr":"Surat"}
+{"i":206,"tr":"Jagung"}
+{"i":207,"tr":"Mangan"}
+{"i":208,"tr":"Tambang Mangan"}
+{"i":209,"tr":"Tambang-tambang Mangan"}
+{"i":210,"tr":"Bijih mangan, yang utamanya digunakan dalam produksi baja."}
+{"i":211,"tr":"Padang Rumput"}
+{"i":212,"tr":"Daging"}
+{"i":213,"tr":"Bar Dagang"}
+{"i":214,"tr":"Pabrik Logam"}
+{"i":215,"tr":"Suku cadang logam untuk dirakit menjadi barang yang lebih besar."}
+{"i":216,"tr":"Barang Logam"}
+{"i":217,"tr":"Metanol"}
+{"i":218,"tr":"Mild Mild West"}
+{"i":219,"tr":"Pabrik Penggilingan"}
+{"i":220,"tr":"Pengisi Mineral"}
+{"i":221,"tr":"Pabrik Pengisi Mineral"}
+{"i":222,"tr":"Mineral"}
+{"i":223,"tr":"Tambang"}
+{"i":224,"tr":"Terutama sapi, babi, dan domba untuk produksi daging. Hewan lain juga mungkin dimakan."}
+{"i":225,"tr":"Terutama lateks alami."}
+{"i":226,"tr":"Terutama truk. Atau mobil. Atau truk ringan. Mungkin traktor."}
+{"i":227,"tr":"Produk Cetakan"}
+{"i":228,"tr":"Tambang Nitrat"}
+{"i":229,"tr":"Nitrat"}
+{"i":230,"tr":"Nitrogen"}
+{"i":231,"tr":"Logam non-fero, seperti tembaga, nikel, seng, dan timbal."}
+{"i":232,"tr":"Kacang-kacangan"}
+{"i":233,"tr":"Minyak"}
+{"i":234,"tr":"Terminal Minyak & Kimia"}
+{"i":235,"tr":"Pengecoran Minyak"}
+{"i":236,"tr":"Menara Minyak"}
+{"i":237,"tr":"Sumur Minyak"}
+{"i":238,"tr":"Minyak untuk memasak dan dikonsumsi."}
+{"i":239,"tr":"Taman Buah"}
+{"i":240,"tr":"Oksigen"}
+{"i":241,"tr":"Pengemasan"}
+{"i":242,"tr":"Cat & Lapisan Pelindung"}
+{"i":243,"tr":"Kertas"}
+{"i":244,"tr":"Pabrik Kertas"}
+{"i":245,"tr":"Pabrik Produk Kertas"}
+{"i":246,"tr":"Penumpang"}
+{"i":247,"tr":"Gambut"}
+{"i":248,"tr":"Lahan Gambut"}
+{"i":249,"tr":"Bensin, solar, dan bahan bakar sejenis."}
+{"i":250,"tr":"Fosfat"}
+{"i":251,"tr":"Tambang Fosfat"}
+{"i":252,"tr":"Asam Fosfat"}
+{"i":253,"tr":"Besi Tuang"}
+{"i":254,"tr":"Pabrik Pipa"}
+{"i":255,"tr":"Pabrik"}
+{"i":256,"tr":"Pabrik & Mesin"}
+{"i":257,"tr":"Pabrik Cetakan Plastik"}
+{"i":258,"tr":"Plastik & Resin"}
+{"i":259,"tr":"Pabrik Pelat"}
+{"i":260,"tr":"Kalium"}
+{"i":261,"tr":"Tambang Kalium"}
+{"i":262,"tr":"Produk sereal bubuk seperti tepung dan pati, diangkut dalam karung atau dalam curah tertutup."}
+{"i":263,"tr":"Pabrik Sistem Tenaga"}
+{"i":264,"tr":"Peralatan bertenaga dan sistem mekanis yang digunakan di gedung, industri, dan pertanian. Diangkut sebagai unit lengkap atau sebagai subperakitan utama."}
+{"i":265,"tr":"Rantai Penggerak"}
+{"i":266,"tr":"Pracetak"}
+{"i":267,"tr":"Komponen Presisi"}
+{"i":268,"tr":"Pabrik Bagian Presisi"}
+{"i":269,"tr":"Produk Pres"}
+{"i":270,"tr":"Bahan Kimia Proses"}
+{"i":271,"tr":"Pabrik Bahan Kimia Proses"}
+{"i":272,"tr":"Serat kayu olahan yang terutama digunakan untuk produksi kertas, diangkut dalam bentuk bal atau pulp curah."}
+{"i":273,"tr":"Produk kayu olahan dari pabrik gergaji atau industri serupa."}
+{"i":274,"tr":"Pengemas Hasil Pertanian"}
+{"i":275,"tr":"Produksi di pertanian, tambang, dan industri serupa ketika persyaratan pasokan terpenuhi (sebagai persentase dari tingkat produksi {SILVER}Normal {BLACK})."}
+{"i":276,"tr":"Pompa"}
+{"i":277,"tr":"Pompa & Katup"}
+{"i":278,"tr":"Endapan Pirit"}
+{"i":279,"tr":"Tambang Pirit"}
+{"i":280,"tr":"Bijih Pirit"}
+{"i":281,"tr":"Peleburan Pirit"}
+{"i":282,"tr":"Python 3.11+"}
+{"i":283,"tr":"Kapur Cepat"}
+{"i":284,"tr":"Gula Mentah & Molase"}
+{"i":285,"tr":"Biji kopi mentah atau sangrai."}
+{"i":286,"tr":"Plastik mentah untuk pengolahan lebih lanjut. Biasanya diangkut dalam bentuk manik resin."}
+{"i":287,"tr":"Tulang Beton"}
+{"i":288,"tr":"Logam aluminium murni, dalam bentuk gulungan, batangan, lempengan, dll."}
+{"i":289,"tr":"Logam tembaga murni, dalam bentuk gulungan, batangan, dll."}
+{"i":290,"tr":"Produk minyak bumi murni seperti bensin, solar, minyak tanah, LPG, minyak bakar, dan bahan bakar bunker, yang diangkut sebagai cairan curah atau gas cair."}
+{"i":291,"tr":"Pagar Reinder"}
+{"i":292,"tr":"Pabrik Roadstone"}
+{"i":293,"tr":"Penggilingan Batang"}
+{"i":294,"tr":"Pelat dan profil baja gilingan—balok I, balok H, kanal, dll. Diangkut sebagai produk lurus yang panjang."}
+{"i":295,"tr":"Tali dan kabel yang dibuat dengan menarik batang kawat baja hingga berdiameter lebih kecil, lalu dipilin menjadi tali bundel."}
+{"i":296,"tr":"Tuangan baja kasar yang memerlukan pengolahan lebih lanjut. Batangan bisa berukuran kecil atau sangat besar. Profil batangan yang umum adalah persegi panjang atau bulat."}
+{"i":297,"tr":"Karet"}
+{"i":298,"tr":"Perusahaan Karet"}
+{"i":299,"tr":"Perkebunan Karet"}
+{"i":300,"tr":"LAUT"}
+{"i":301,"tr":"Garam"}
+{"i":302,"tr":"Pabrik Garam"}
+{"i":303,"tr":"Pabrik Salpetre"}
+{"i":304,"tr":"Pabrik Gergaji"}
+{"i":305,"tr":"Makanan Laut"}
+{"i":306,"tr":"Segel dan Selang"}
+{"i":307,"tr":"Segel, Selang & Sabuk"}
+{"i":308,"tr":"Pabrik Potong & Batang"}
+{"i":309,"tr":"Tuangan baja setengah jadi. Selalu datar dan persegi panjang pada penampang melintang."}
+{"i":310,"tr":"Tuangan baja setengah jadi. Persegi panjang, persegi, atau bulat pada penampang melintang."}
+{"i":311,"tr":"Jalan Sharp"}
+{"i":312,"tr":"Kekeringan"}
+{"i":313,"tr":"Pesisir"}
+{"i":314,"tr":"Silo"}
+{"i":315,"tr":"Ekonomi sederhana. Terinspirasi dari Argentina, Peru, dan Chili. Paling baik digunakan dengan iklim Subtropis."}
+{"i":316,"tr":"Ekonomi sederhana. Terinspirasi dari Finlandia, Kanada Utara, dan Siberia Utara. Paling baik digunakan dengan iklim Sub-Arktik."}
+{"i":317,"tr":"Ekonomi sederhana. Terinspirasi dari Inggris barat daya. Paling baik digunakan dengan iklim Sedang."}
+{"i":318,"tr":"Halaman lempengan"}
+{"i":319,"tr":"Slag"}
+{"i":320,"tr":"Pabrik Penggilingan Slag"}
+{"i":321,"tr":"Peleburan"}
+{"i":322,"tr":"Soda Ash"}
+{"i":323,"tr":"Tambang Soda Ash"}
+{"i":324,"tr":"Natrium Hidroksida"}
+{"i":325,"tr":"Tungku Soot"}
+{"i":326,"tr":"Sup"}
+{"i":327,"tr":"Bahan karbon khusus seperti kokas minyak bumi yang dikalsinasi, pitch, tar bernilai tinggi, dan karbon hitam, yang digunakan dalam proses metalurgi dan kimia."}
+{"i":328,"tr":"Baja"}
+{"i":329,"tr":"Tempa & Coran Baja"}
+{"i":330,"tr":"Bata Baja"}
+{"i":331,"tr":"Pabrik Baja"}
+{"i":332,"tr":"Pipa Baja"}
+{"i":333,"tr":"Pelat Baja"}
+{"i":334,"tr":"Lembar & Strip Baja"}
+{"i":335,"tr":"Slab Baja"}
+{"i":336,"tr":"Tabung Baja"}
+{"i":337,"tr":"Batang Kawat Baja"}
+{"i":338,"tr":"Batang baja, dalam bentuk bulat, persegi, pipih, dan profil lainnya. Diangkut sebagai produk lurus panjang."}
+{"i":339,"tr":"Kawat baja dan batang tipis. Utamanya diangkut dalam bentuk gulungan."}
+{"i":340,"tr":"Steelmasters"}
+{"i":341,"tr":"Steeltown"}
+{"i":342,"tr":"Tangki Penyimpanan & Piping"}
+{"i":343,"tr":"Tangki penyimpanan, bejana bertekanan, silo, tabung gas, dan rakitan pipa, untuk digunakan di gedung perkotaan, industri, dan pertanian."}
+{"i":344,"tr":"Toko"}
+{"i":345,"tr":"Pabrik Penggulungan Strip"}
+{"i":346,"tr":"Baja Struktural"}
+{"i":347,"tr":"Baja kelas struktural dalam bentuk bagian tergulung (balok I, balok H, dll.), atau pelat datar, atau bagian dan balok fabrikasi yang dilas dari pelat."}
+{"i":348,"tr":"Gula"}
+{"i":349,"tr":"Perusahaan Gula"}
+{"i":350,"tr":"Mineral sulfida, dilebur untuk menghasilkan berbagai produk industri."}
+{"i":351,"tr":"Belerang"}
+{"i":352,"tr":"Asam Sulfat"}
+{"i":353,"tr":"Perlengkapan untuk memotong dan mengelas logam, seperti batang las, perkakas, dan gas industri termasuk asetilena, argon, propana, oksigen, dan nitrogen."}
+{"i":354,"tr":"Gudang Pasokan"}
+{"i":355,"tr":"Kotak pasokan yang diperlukan untuk produksi primer Enhanced (standar 16)"}
+{"i":356,"tr":"Kotak pasokan yang diperlukan untuk produksi primer Gung-ho (standar 80)"}
+{"i":357,"tr":"Ladang Tangki"}
+{"i":358,"tr":"Gudang Pemetik Getah"}
+{"i":359,"tr":"Produk minyak bumi kental yang terutama digunakan untuk lapisan jalan dan atap."}
+{"i":360,"tr":"Lembar dan strip baja gilas tipis, banyak digunakan untuk membuat produk lain. Diangkut dalam bentuk lembaran datar atau gulungan."}
+{"i":361,"tr":"Batang baja kasar tipis yang banyak digunakan untuk memperkuat struktur beton. Diangkut dalam bentuk gulungan atau ikatan batang lurus."}
+{"i":362,"tr":"Lembar baja tipis yang dilapisi timah untuk menahan korosi, terutama digunakan untuk kaleng, wadah, dan kemasan lainnya."}
+{"i":363,"tr":"Produk Kayu"}
+{"i":364,"tr":"Timah"}
+{"i":365,"tr":"Tambang Timah"}
+{"i":366,"tr":"Lembaran Timah"}
+{"i":367,"tr":"Pabrik Lembaran Timah"}
+{"i":368,"tr":"Pabrik Kendaraan Berrel"}
+{"i":369,"tr":"Lapisan Trona"}
+{"i":370,"tr":"Parkir Truk"}
+{"i":371,"tr":"Pabrik Tabung & Pipa"}
+{"i":372,"tr":"Pabrik Penggilingan Tabung"}
+{"i":373,"tr":"Kawat Ban"}
+{"i":374,"tr":"Pabrik Ban"}
+{"i":375,"tr":"Ban"}
+{"i":376,"tr":"Digunakan dalam produksi paduan dan baja tahan karat, yaitu paduan kromium dan besi. Gumpalan abu-abu, dengan ukuran dan bentuk yang mirip gumpalan batu bara."}
+{"i":377,"tr":"Digunakan dalam produksi baja. Paduan besi dan unsur lain, termasuk mangan, nikel, kromium, aluminium, silikon, dan tungsten. Gumpalan abu-abu, dengan ukuran dan bentuk yang mirip gumpalan batu bara."}
+{"i":378,"tr":"Sayuran"}
+{"i":379,"tr":"Bodi Kendaraan"}
+{"i":380,"tr":"Distributor Kendaraan"}
+{"i":381,"tr":"Suku Cadang Kendaraan"}
+{"i":382,"tr":"Kendaraan"}
+{"i":383,"tr":"Kebun Anggur"}
+{"i":384,"tr":"Produk limbah dari produksi besi dan baja."}
+{"i":385,"tr":"Tepi air"}
+{"i":386,"tr":"Bahan Habis Pakai Pengelasan"}
+{"i":387,"tr":"Sumur"}
+{"i":388,"tr":"Dermaga"}
+{"i":389,"tr":"Sumur tambang"}
+{"i":390,"tr":"Gandum, jelai, dll."}
+{"i":391,"tr":"Bubuk putih yang dimurnikan dari bijih bauksit, digunakan untuk menghasilkan logam aluminium."}
+{"i":392,"tr":"Batu kalsium sulfat berwarna putih, abu-abu, atau cokelat, digunakan dalam produksi asam sulfat dan semen. Sering diangkut sebagai curah tertutup."}
+{"i":393,"tr":"Bahan kimia industri yang banyak digunakan. Berwarna kuning cerah, dalam bentuk bubuk atau cair."}
+{"i":394,"tr":"Bahan kimia industri yang banyak digunakan. Biasanya diangkut sebagai kargo curah yang harus dijaga tetap kering."}
+{"i":395,"tr":"Pabrik anggur"}
+{"i":396,"tr":"Pabrik Batang Kawat"}
+{"i":397,"tr":"Pulp Kayu"}
+{"i":398,"tr":"Pabrik"}
+{"i":399,"tr":"Seng"}
+{"i":400,"tr":"Tambang Seng"}
+{"i":401,"tr":"Bijih Seng"}
+{"i":402,"tr":"Peleburan Seng"}
+{"i":403,"tr":"{BLACK}Produksi saat ini: {YELLOW}Ditingkatkan {}{}{BLACK}Untuk mempertahankan level ini, kirimkan {SIGNED_WORD} peti persediaan setidaknya sekali setiap tiga menit.{}Untuk produksi {WHITE}Gung-ho {BLACK}, kirimkan {SIGNED_WORD} peti."}
+{"i":404,"tr":"{BLACK}Produksi saat ini: {YELLOW}Ditingkatkan {}{}{BLACK}Untuk mempertahankan level ini, kirimkan {SIGNED_WORD} unit kargo setidaknya sekali setiap tiga menit.{}Untuk produksi {WHITE}Gung-ho {BLACK}, kirimkan {SIGNED_WORD} unit."}
+{"i":405,"tr":"{BLACK}Produksi saat ini: {YELLOW}Normal {}{}{BLACK}Untuk produksi {WHITE}Ditingkatkan {BLACK}, kirimkan {SIGNED_WORD} peti persediaan setidaknya sekali setiap tiga menit.{}Untuk produksi {WHITE}Gung-ho {BLACK}, kirimkan {SIGNED_WORD} peti."}
+{"i":406,"tr":"{BLACK}Produksi saat ini: {YELLOW}Normal {}{}{BLACK}Untuk produksi {WHITE}Ditingkatkan {BLACK}, kirimkan {SIGNED_WORD} unit kargo setidaknya sekali setiap tiga menit.{}Untuk produksi {WHITE}Gung-ho {BLACK}, kirimkan {SIGNED_WORD} unit."}
+{"i":407,"tr":"{BLACK}Untuk tingkat produksi maksimal, pasokkan {WHITE}semua {BLACK}kargo yang diperlukan setidaknya sekali setiap tiga menit."}
+{"i":408,"tr":"{BLACK}Untuk laju produksi maksimal, sediakan {WHITE}setidaknya tiga {BLACK}kargo yang diperlukan setidaknya sekali setiap tiga menit."}
+{"i":409,"tr":"{BLACK}Untuk laju produksi maksimal, sediakan {WHITE}setidaknya dua {BLACK}kargo yang diperlukan setidaknya sekali setiap tiga menit."}
+{"i":410,"tr":"{BLACK}Untuk laju produksi maksimal, sediakan {WHITE}kedua {BLACK}kargo yang diperlukan setidaknya sekali setiap tiga menit."}
+{"i":411,"tr":"{BLACK}Produksi sebanding dengan populasi kota. Setidaknya {WHITE}{SIGNED_WORD} unit{BLACK} dan tidak lebih dari {WHITE}{SIGNED_WORD} unit{BLACK} kargo akan diproduksi setiap menit."}
+{"i":412,"tr":"{BLACK}Sediakan {WHITE}setidaknya satu {BLACK} kargo yang diperlukan untuk produksi maksimal."}
+{"i":413,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":414,"tr":"{ORANGE}E00: CIRS memerlukan OpenTTD 1.7.0 (atau bagi yang menggunakan build trunk, r27769)"}
+{"i":415,"tr":"{ORANGE}E01: {YELLOW}Set tidak kompatibel: {ORANGE}{STRING}"}
+{"i":416,"tr":"{ORANGE}E02: {YELLOW}Parameter tidak kompatibel: {ORANGE}Parameter CanSet 2 harus 0 agar dapat berfungsi dengan CIRS."}
+{"i":417,"tr":"{ORANGE}E02: {YELLOW}Parameter tidak kompatibel: {ORANGE}Parameter NA City Set 2 harus 0 agar dapat berfungsi dengan CIRS."}
+{"i":418,"tr":"{ORANGE}E04: {YELLOW}Versi tidak kompatibel: {ORANGE}Total Town Replacement Set harus versi rilis 3.11 atau yang lebih baru."}
+{"i":419,"tr":"{TINYFONT}AA"}
+{"i":420,"tr":"{TINYFONT}AC"}
+{"i":421,"tr":"{TINYFONT}AG"}
+{"i":422,"tr":"{TINYFONT}AM"}
+{"i":423,"tr":"{TINYFONT}AO"}
+{"i":424,"tr":"{TINYFONT}AP"}
+{"i":425,"tr":"{TINYFONT}AY"}
+{"i":426,"tr":"{TINYFONT}BB"}
+{"i":427,"tr":"{TINYFONT}BI"}
+{"i":428,"tr":"{TINYFONT}BN"}
+{"i":429,"tr":"{TINYFONT}CA"}
+{"i":430,"tr":"{TINYFONT}CB"}
+{"i":431,"tr":"{TINYFONT}CE"}
+{"i":432,"tr":"{TINYFONT}CI"}
+{"i":433,"tr":"{TINYFONT}CK"}
+{"i":434,"tr":"{TINYFONT}CN"}
+{"i":435,"tr":"{TINYFONT}CO"}
+{"i":436,"tr":"{TINYFONT}CP"}
+{"i":437,"tr":"{TINYFONT}CR"}
+{"i":438,"tr":"{TINYFONT}CT"}
+{"i":439,"tr":"{TINYFONT}EL"}
+{"i":440,"tr":"{TINYFONT}EO"}
+{"i":441,"tr":"{TINYFONT}EP"}
+{"i":442,"tr":"{TINYFONT}EX"}
+{"i":443,"tr":"{TINYFONT}FA"}
+{"i":444,"tr":"{TINYFONT}FL"}
+{"i":445,"tr":"{TINYFONT}FO"}
+{"i":446,"tr":"{TINYFONT}FV"}
+{"i":447,"tr":"{TINYFONT}GL"}
+{"i":448,"tr":"{TINYFONT}HW"}
+{"i":449,"tr":"{TINYFONT}IG"}
+{"i":450,"tr":"{TINYFONT}KA"}
+{"i":451,"tr":"{TINYFONT}LG"}
+{"i":452,"tr":"{TINYFONT}LH"}
+{"i":453,"tr":"{TINYFONT}LS"}
+{"i":454,"tr":"{TINYFONT}MA"}
+{"i":455,"tr":"{TINYFONT}MF"}
+{"i":456,"tr":"{TINYFONT}ML"}
+{"i":457,"tr":"{TINYFONT}MN"}
+{"i":458,"tr":"{TINYFONT}MO"}
+{"i":459,"tr":"{TINYFONT}N7"}
+{"i":460,"tr":"{TINYFONT}NA"}
+{"i":461,"tr":"{TINYFONT}NI"}
+{"i":462,"tr":"{TINYFONT}NT"}
+{"i":463,"tr":"{TINYFONT}O2"}
+{"i":464,"tr":"{TINYFONT}OC"}
+{"i":465,"tr":"{TINYFONT}PA"}
+{"i":466,"tr":"{TINYFONT}PC"}
+{"i":467,"tr":"{TINYFONT}PE"}
+{"i":468,"tr":"{TINYFONT}PG"}
+{"i":469,"tr":"{TINYFONT}PH"}
+{"i":470,"tr":"{TINYFONT}PI"}
+{"i":471,"tr":"{TINYFONT}PL"}
+{"i":472,"tr":"{TINYFONT}PM"}
+{"i":473,"tr":"{TINYFONT}PV"}
+{"i":474,"tr":"{TINYFONT}PW"}
+{"i":475,"tr":"{TINYFONT}PY"}
+{"i":476,"tr":"{TINYFONT}QL"}
+{"i":477,"tr":"{TINYFONT}RB"}
+{"i":478,"tr":"{TINYFONT}SD"}
+{"i":479,"tr":"{TINYFONT}SE"}
+{"i":480,"tr":"{TINYFONT}SG"}
+{"i":481,"tr":"{TINYFONT}SH"}
+{"i":482,"tr":"{TINYFONT}SI"}
+{"i":483,"tr":"{TINYFONT}SL"}
+{"i":484,"tr":"{TINYFONT}SO"}
+{"i":485,"tr":"{TINYFONT}SP"}
+{"i":486,"tr":"{TINYFONT}STSW"}
+{"i":487,"tr":"{TINYFONT}SU"}
+{"i":488,"tr":"{TINYFONT}SW"}
+{"i":489,"tr":"{TINYFONT}SY"}
+{"i":490,"tr":"{TINYFONT}TC"}
+{"i":491,"tr":"{TINYFONT}TI"}
+{"i":492,"tr":"{TINYFONT}TP"}
+{"i":493,"tr":"{TINYFONT}TY"}
+{"i":494,"tr":"{TINYFONT}VB"}
+{"i":495,"tr":"{TINYFONT}VE"}
+{"i":496,"tr":"{TINYFONT}VG"}
+{"i":497,"tr":"{TINYFONT}VP"}
+{"i":498,"tr":"{TINYFONT}VS"}
+{"i":499,"tr":"{TINYFONT}WL"}
+{"i":500,"tr":"{TINYFONT}WP"}
+{"i":501,"tr":"{TINYFONT}WS"}
+{"i":502,"tr":"{TINYFONT}ZN"}
+{"i":503,"tr":"{TINYFONT}ZO"}
+{"i":504,"tr":"{VOLUME} asam"}
+{"i":505,"tr":"{VOLUME} amonia & produk asam nitrat"}
+{"i":506,"tr":"{VOLUME} bitumen"}
+{"i":507,"tr":"{VOLUME} bahan kimia perantara"}
+{"i":508,"tr":"{VOLUME} klorin"}
+{"i":509,"tr":"{VOLUME} tar batu bara"}
+{"i":510,"tr":"{VOLUME} minyak pangan"}
+{"i":511,"tr":"{VOLUME} gas industri"}
+{"i":512,"tr":"{VOLUME} hidrokarbon ringan"}
+{"i":513,"tr":"{VOLUME} metanol"}
+{"i":514,"tr":"{VOLUME} nitrogen"}
+{"i":515,"tr":"{VOLUME} oksigen"}
+{"i":516,"tr":"{VOLUME} cat & lapisan pelindung"}
+{"i":517,"tr":"{VOLUME} asam fosfat"}
+{"i":518,"tr":"{VOLUME} natrium hidroksida"}
+{"i":519,"tr":"{VOLUME} asam sulfat"}
+{"i":520,"tr":"{WEIGHT} agregat"}
+{"i":521,"tr":"{WEIGHT} alumina"}
+{"i":522,"tr":"{WEIGHT} aluminium"}
+{"i":523,"tr":"{WEIGHT} batuan anhidrit"}
+{"i":524,"tr":"{WEIGHT} apel"}
+{"i":525,"tr":"{WEIGHT} barit & fluorspar"}
+{"i":526,"tr":"{WEIGHT} kacang-kacangan"}
+{"i":527,"tr":"{WEIGHT} billet & bloom"}
+{"i":528,"tr":"{WEIGHT} karbon hitam"}
+{"i":529,"tr":"{WEIGHT} singkong"}
+{"i":530,"tr":"{WEIGHT} besi cor"}
+{"i":531,"tr":"{WEIGHT} semen"}
+{"i":532,"tr":"{WEIGHT} tanah liat Tionghoa"}
+{"i":533,"tr":"{WEIGHT} bahan pembersih"}
+{"i":534,"tr":"{WEIGHT} kokas"}
+{"i":535,"tr":"{WEIGHT} produk beton"}
+{"i":536,"tr":"{WEIGHT} tembaga"}
+{"i":537,"tr":"{WEIGHT} komponen listrik"}
+{"i":538,"tr":"{WEIGHT} mesin & sistem penggerak"}
+{"i":539,"tr":"{WEIGHT} bahan peledak"}
+{"i":540,"tr":"{WEIGHT} ferroalloy"}
+{"i":541,"tr":"{WEIGHT} pupuk"}
+{"i":542,"tr":"{WEIGHT} ikan & makanan laut"}
+{"i":543,"tr":"{WEIGHT} tepung & pati"}
+{"i":544,"tr":"{WEIGHT} makanan & minuman"}
+{"i":545,"tr":"{WEIGHT} bahan tambahan makanan"}
+{"i":546,"tr":"{WEIGHT} hasil tempa & cor"}
+{"i":547,"tr":"{WEIGHT} makanan beku"}
+{"i":548,"tr":"{WEIGHT} produk kaca"}
+{"i":549,"tr":"{WEIGHT} barang"}
+{"i":550,"tr":"{WEIGHT} perangkat keras & lapisan akhir"}
+{"i":551,"tr":"{WEIGHT} karbon industri"}
+{"i":552,"tr":"{WEIGHT} batu kapur"}
+{"i":553,"tr":"{WEIGHT} besi kasar"}
+{"i":554,"tr":"{WEIGHT} mangan"}
+{"i":555,"tr":"{WEIGHT} daging"}
+{"i":556,"tr":"{WEIGHT} batang komersial"}
+{"i":557,"tr":"{WEIGHT} pengisi mineral"}
+{"i":558,"tr":"{WEIGHT} nitrat"}
+{"i":559,"tr":"{WEIGHT} kacang-kacangan"}
+{"i":560,"tr":"{WEIGHT} kemasan"}
+{"i":561,"tr":"{WEIGHT} gambut"}
+{"i":562,"tr":"{WEIGHT} fosfat"}
+{"i":564,"tr":"{WEIGHT} tanaman & mesin"}
+{"i":565,"tr":"{WEIGHT} plastik & resin"}
+{"i":566,"tr":"{WEIGHT} potas"}
+{"i":567,"tr":"{WEIGHT} komponen presisi"}
+{"i":568,"tr":"{WEIGHT} bahan kimia proses"}
+{"i":569,"tr":"{WEIGHT} pompa & katup"}
+{"i":570,"tr":"{WEIGHT} bijih pirit"}
+{"i":571,"tr":"{WEIGHT} kapur tohor"}
+{"i":572,"tr":"{WEIGHT} gula mentah & molase"}
+{"i":573,"tr":"{WEIGHT} baja tulangan"}
+{"i":574,"tr":"{WEIGHT} garam"}
+{"i":575,"tr":"{WEIGHT} segel, selang & sabuk"}
+{"i":576,"tr":"{WEIGHT} terak"}
+{"i":577,"tr":"{WEIGHT} soda abu"}
+{"i":578,"tr":"{WEIGHT} baja"}
+{"i":579,"tr":"{WEIGHT} ingot baja"}
+{"i":580,"tr":"{WEIGHT} pipa baja"}
+{"i":581,"tr":"{WEIGHT} pelat baja"}
+{"i":582,"tr":"{WEIGHT} lembaran & strip baja"}
+{"i":583,"tr":"{WEIGHT} slab baja"}
+{"i":584,"tr":"{WEIGHT} tabung baja"}
+{"i":585,"tr":"{WEIGHT} batang kawat baja"}
+{"i":586,"tr":"{WEIGHT} tangki penyimpanan & rangkaian pipa"}
+{"i":587,"tr":"{WEIGHT} baja struktural"}
+{"i":588,"tr":"{WEIGHT} belerang"}
+{"i":589,"tr":"{WEIGHT} produk kayu"}
+{"i":590,"tr":"{WEIGHT} timah"}
+{"i":591,"tr":"{WEIGHT} pelat timah"}
+{"i":592,"tr":"{WEIGHT} tali ban"}
+{"i":593,"tr":"{WEIGHT} ban"}
+{"i":594,"tr":"{WEIGHT} sayuran"}
+{"i":595,"tr":"{WEIGHT} bodi kendaraan"}
+{"i":596,"tr":"{WEIGHT} suku cadang kendaraan"}
+{"i":597,"tr":"{WEIGHT} kendaraan"}
+{"i":598,"tr":"{WEIGHT} bahan habis pakai pengelasan"}
+{"i":599,"tr":"{WEIGHT} bubur kayu"}
+{"i":600,"tr":"{WEIGHT} seng"}
+{"i":601,"tr":"{WEIGHT} bijih seng"}
+{"i":602,"tr":"{WEIGHT} karung{P 0 \"\" s} kopi"}
+{"i":603,"tr":"{}{BLACK}Lokasi: {YELLOW}Hanya bisa didanai di atas salju."}
+{"i":154,"tr":"Penggilingan Biji-bijian"}
+{"i":198,"tr":"Log"}
+{"i":563,"tr":"{WEIGHT} besi tuang"}
+{"i":43,"tr":"Set Pengganti Industri Komunitas CIRS"}
+{"i": 42, "tr": "CIRS"}
+{"i": 44, "tr": "CIRS mencakup satu set objek penataan lanskap yang dapat ditempatkan oleh pemain agar industri tertentu terlihat lebih besar. Objek lanskap tidak memiliki efek pada gameplay. Objek penataan lanskap dapat diaktifkan atau dinonaktifkan."}
+{"i": 45, "tr": "Objek penataan lanskap CIRS"}
+{"i": 602, "tr": "{WEIGHT} karung kopi"}

@@ -3,10 +3,11 @@ grflangid = "0x56"
 plural = "1"
 
 [STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
 base = "CIRS 社区产业替换集"
 
 [STR_GRF_DESC]
-base = "{ORANGE}CIRS 社区产业替换集{}{BLACK}这是 FIRS 的社区维护分支，原版 FIRS 由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 创作，并得到许多其他人的帮助。{SILVER}请访问网站获取更多信息，包括如何使用 CIRS。{BLACK}许可证：GPL v2。"
+base = "{ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 开发，并得到了许多其他人的帮助。{SILVER}请访问网站了解更多信息，包括如何使用 CIRS。{BLACK}许可证：GPL v2。"
 
 [STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
 base = "渔场、石油钻井平台和疏浚区距离海岸的最大距离（以格为单位）。"
@@ -125,8 +126,20 @@ base = "{ORANGE}E04: {YELLOW}不兼容的版本：{ORANGE}Total Town Replacement
 [STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
 base = "必须建在雪线以下。"
 
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
 [STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
 base = "不能建在陡坡上。"
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
 
 [STR_FUND_ARABLE_FARM]
 base = "{}{BLACK}位置：{YELLOW}不能建在雪地或沙漠中。"
@@ -158,10 +171,14 @@ base = "{}{BLACK}位置：{YELLOW}不能建在雪地或沙漠中。"
 [STR_FUND_VINEYARD]
 base = "{}{BLACK}位置：{YELLOW}不能建在雪地或沙漠中。"
 
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
 [STR_TOWN]
 base = "{STRING}"
 
-# 货物
+# Cargos
 
 [STR_CARGO_ACID]
 name = "酸"
@@ -291,7 +308,7 @@ cid = "{TINYFONT}铜"
 [STR_CARGO_EDIBLE_OIL]
 name = "食用油"
 cargo_unit = "{VOLUME}食用油"
-cid = "{TINYFONT}食"
+cid = "{TINYFONT}脂"
 
 [STR_CARGO_ELECTRICAL_PARTS]
 name = "电气零件"
@@ -341,6 +358,7 @@ cid = "{TINYFONT}添"
 [STR_CARGO_FOOD_AND_BEVERAGES]
 name = "食品与饮料"
 cargo_unit = "{WEIGHT}食品与饮料"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
 
 [STR_CARGO_FORGINGS_AND_CASTINGS]
 name = "锻件与铸件"
@@ -350,10 +368,12 @@ cid = "{TINYFONT}锻"
 [STR_CARGO_FROZEN_FOOD]
 name = "冷冻食品"
 cargo_unit = "{WEIGHT}冷冻食品"
+# MISSING: source node STR_CID_FROZEN_FOOD
 
 [STR_CARGO_FRUITS]
 name = "水果"
 cargo_unit = "{WEIGHT}水果"
+# MISSING: source node STR_CID_FRUITS
 
 [STR_CARGO_GLASS]
 name = "玻璃制品"
@@ -368,7 +388,7 @@ cid = "{TINYFONT}五"
 [STR_CARGO_INDUSTRIAL_CARBONS]
 name = "工业碳素"
 cargo_unit = "{WEIGHT}工业碳素"
-cid = "{TINYFONT}碳"
+cid = "{TINYFONT}PC"
 
 [STR_CARGO_INDUSTRIAL_GASES]
 name = "工业气体"
@@ -418,8 +438,9 @@ cid = "{TINYFONT}锰"
 [STR_CARGO_MEAT]
 name = "肉类"
 cargo_unit = "{WEIGHT}肉类"
+# MISSING: source node STR_CID_MEAT
 
-[STR_CARGO_BARYTES_AND_FLUORSPAR]
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
 name = "重晶石与萤石"
 cargo_unit = "{WEIGHT}重晶石与萤石"
 cid = "{TINYFONT}重"
@@ -462,7 +483,7 @@ cid = "{TINYFONT}包"
 [STR_CARGO_PAINTS_AND_COATINGS]
 name = "油漆与涂料"
 cargo_unit = "{VOLUME}油漆与涂料"
-cid = "{TINYFONT}漆"
+cid = "{TINYFONT}PC"
 
 [STR_CARGO_PEAT]
 name = "泥煤"
@@ -500,7 +521,7 @@ cargo_unit = "{WEIGHT}塑料与树脂"
 cid = "{TINYFONT}塑"
 
 [STR_CARGO_PLANT_AND_MACHINERY]
-name = "成套设备与机械"
+name = "工厂与机械"
 cargo_unit = "{WEIGHT}成套设备与机械"
 cid = "{TINYFONT}机"
 
@@ -512,7 +533,7 @@ cid = "{TINYFONT}钾"
 [STR_CARGO_PROCESS_CHEMICALS]
 name = "工艺化学品"
 cargo_unit = "{WEIGHT}工艺化学品"
-cid = "{TINYFONT}工"
+cid = "{TINYFONT}PC"
 
 [STR_CARGO_PUMPS_AND_VALVES]
 name = "泵与阀门"
@@ -527,7 +548,7 @@ cid = "{TINYFONT}黄"
 [STR_CARGO_QUICKLIME]
 name = "生石灰"
 cargo_unit = "{WEIGHT}生石灰"
-cid = "{TINYFONT}石"
+cid = "{TINYFONT}生"
 
 [STR_CARGO_REBAR]
 name = "螺纹钢"
@@ -662,7 +683,7 @@ cid = "{TINYFONT}菜"
 [STR_CARGO_VEHICLE_BODIES]
 name = "车身"
 cargo_unit = "{WEIGHT}车身"
-cid = "{TINYFONT}身"
+cid = "{TINYFONT}车"
 
 [STR_CARGO_VEHICLE_ENGINES]
 name = "发动机与传动系统"
@@ -705,9 +726,11 @@ cargo_unit = "{WEIGHT}锌矿石"
 cid = "{TINYFONT}矿"
 
 [STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
 cargo_unit = "{WEIGHT}货物"
+# MISSING: source node STR_CID_GOODS
 
-# 产业
+# Industries
 
 [STR_IND_ALUMINIUM_PLANT]
 base = "电解铝厂"
@@ -751,8 +774,12 @@ base = "啤酒厂"
 [STR_IND_CIDER_MILL]
 base = "苹果酒厂"
 
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
 [STR_IND_BUILDERS_YARD]
-base = "建筑工地"
+base = "建筑工地" # CABBAGE
 
 [STR_IND_CARBON_BLACK_PLANT]
 base = "炭黑厂"
@@ -772,6 +799,10 @@ base = "炸药厂"
 [STR_IND_CHLOR_ALKALI_PLANT]
 base = "氯碱厂"
 
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
 [STR_IND_CLAY_PIT]
 base = "黏土矿坑"
 
@@ -784,6 +815,10 @@ base = "炼焦炉"
 [STR_IND_CONCRETE_PLANT]
 base = "混凝土厂"
 
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
 [STR_IND_CONSUMER_CHEMICALS_PLANT]
 base = "间歇式化工厂"
 
@@ -791,7 +826,7 @@ base = "间歇式化工厂"
 base = "炼铜厂"
 
 [STR_IND_CRYO_PLANT]
-base = "低温空分厂"
+base = "低温工厂"
 
 [STR_IND_DAIRY]
 base = "乳品厂"
@@ -816,6 +851,10 @@ base = "机械工程厂"
 
 [STR_IND_FARM]
 base = "农场"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
 
 [STR_IND_PROCESS_CHEMICALS_PLANT]
 base = "工艺化学品厂"
@@ -863,10 +902,14 @@ base = "旅店"
 base = "冷冻甜点厂"
 
 [STR_IND_INTEGRATED_STEEL_MILL]
-base = "钢铁联合厂"
+base = "钢铁厂"
 
 [STR_IND_SCRAP_YARD]
 base = "废料场"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
 
 [STR_IND_LIME_KILN]
 base = "石灰窑"
@@ -888,6 +931,14 @@ base = "硝酸盐矿"
 
 [STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
 base = "工业化学品厂"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
 
 [STR_IND_OIL_TERMINAL]
 base = "石油与化学品码头"
@@ -961,6 +1012,9 @@ base = "道路石料厂"
 [STR_IND_SALT_WORKS]
 base = "盐场"
 
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
 [STR_IND_SLAG_GRINDING_PLANT]
 base = "矿渣粉磨厂"
 
@@ -976,11 +1030,16 @@ base = "牲畜场"
 [STR_IND_STRIP_MILL]
 base = "带钢厂"
 
+# unused
 [STR_IND_SUGAR_REFINERY]
 base = "制糖厂"
 
 [STR_IND_SUPPLY_YARD]
 base = "供货场"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
 
 [STR_IND_TIMBER_YARD]
 base = "木材场"
@@ -1021,7 +1080,7 @@ base = "锌矿"
 [STR_IND_ZINC_SMELTER]
 base = "锌冶炼厂"
 
-# 车站
+# Stations
 
 [STR_STATION]
 base = "{STRING} {STRING}"
@@ -1084,7 +1143,7 @@ base = "铜矿脉"
 base = "木馏油厂"
 
 [STR_STATION_CRYO_PLANT]
-base = "低温厂"
+base = "低温工厂"
 
 [STR_STATION_DAIRY_LANE]
 base = "奶牛巷"
@@ -1204,7 +1263,7 @@ base = "发电厂"
 base = "动力总成"
 
 [STR_STATION_POWER_SYSTEMS_FACTORY]
-base = "成套设备"
+base = "工厂与机械"
 
 [STR_STATION_PUMPS]
 base = "泵站"
@@ -1230,6 +1289,9 @@ base = "海鲜"
 [STR_STATION_SHARP_STREET]
 base = "尖街"
 
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
 [STR_STATION_SHOALS]
 base = "浅滩"
 
@@ -1248,6 +1310,7 @@ base = "汤品"
 [STR_STATION_STRIP_MILL]
 base = "卷材线"
 
+# unused
 [STR_STATION_SUGAR_COMPANY]
 base = "糖业公司"
 
@@ -1287,10 +1350,10 @@ base = "工厂"
 [STR_STATION_VEHICLE_DISTRIBUTOR]
 base = "卡车场"
 
-# 徽章
+# Badges
 
 [STR_BADGE_LAND]
 base = "陆地"
 
 [STR_BADGE_SEA]
-base = "海洋"
+base = "海"

@@ -1,0 +1,622 @@
+
+Conjunto CIRS de Substituição de Indústrias da Comunidade
+{ORANGE}Conjunto CIRS de Substituição de Indústrias da Comunidade{}{BLACK}Um fork da FIRS mantido pela comunidade, originalmente por andythenorth, FooBar, planetmaker, Terkhen e Yexo, com a ajuda de muitos outros. {SILVER}Veja o site para mais informações, incluindo como usar o CIRS. {BLACK}Licença: GPL v2.
+Distância máxima de pesqueiros, plataformas de petróleo e dragagens a partir da costa, em quadrados.
+Cada economia fornece uma combinação diferente de cargas e indústrias.{}{}Para jogadores que querem uma jogabilidade simples, economias {SILVER}Básicas {BLACK}contêm menos indústrias e cargas do que outras economias do CIRS.{}{}O site do CIRS fornece informações detalhadas sobre cada economia.
+Distância costeira máxima das indústrias marítimas (em quadrados)
+Economia
+Sem limite
+Caixas de suprimento exigidas para produção primária Aprimorada (padrão 16)
+Caixas de suprimento exigidas para produção primária Entusiasta (padrão 80)
+Fazendas, minas e indústrias similares aumentarão a produção quando caixas de suprimento forem entregues, primeiro para {SILVER}Aprimorada{BLACK}, e depois para {SILVER}Entusiasta{BLACK}, se forem entregues caixas suficientes.  {}{}Os valores padrão são bons, mas se precisar, pode alterá-los aqui.  {}{}Os requisitos de carga para indústrias portuárias serão 8x os valores definidos aqui.
+Nível de produção primária Aprimorada (%)
+Nível de produção primária Entusiasta (%)
+Produção em fazendas, minas e indústrias similares quando os requisitos de suprimento são atendidos (como porcentagem do nível de produção {SILVER}Normal{BLACK}).
+Básica Temperada
+Básica Ártica
+Básica Tropical
+Num País Quente
+Oeste Ameno e Brando
+Cidade Siderúrgica
+Objetos de paisagismo do CIRS
+O CIRS inclui um conjunto de objetos de paisagismo, que os jogadores podem colocar para fazer certas indústrias parecerem maiores. Objetos de paisagismo não têm efeito na jogabilidade. Objetos de paisagismo podem ser ativados ou desativados.
+ {BLACK}(opcional)
+ {BLACK}(fornecido)
+{BLACK}Forneça {WHITE}ao menos uma {BLACK}carga exigida para produção máxima.
+{BLACK}Para taxa de produção máxima, forneça {WHITE}ambas {BLACK}cargas exigidas pelo menos uma vez a cada três minutos.
+{BLACK}Para taxa de produção máxima, forneça {WHITE}todas {BLACK}cargas exigidas pelo menos uma vez a cada três minutos.
+{BLACK}Para taxa de produção máxima, forneça {WHITE}pelo menos duas {BLACK}cargas exigidas pelo menos uma vez a cada três minutos.
+{BLACK}Para taxa de produção máxima, forneça {WHITE}pelo menos três {BLACK}cargas exigidas pelo menos uma vez a cada três minutos.
+{BLACK}A produção é proporcional à população da cidade. Pelo menos {WHITE}{SIGNED_WORD} unidades{BLACK} e não mais que {WHITE}{SIGNED_WORD} unidades{BLACK} de carga serão produzidas por minuto.
+{BLACK}Produção atual: {YELLOW}Normal {}{}{BLACK}Para produção {WHITE}Aprimorada{BLACK}, entregue {SIGNED_WORD} caixas de suprimentos pelo menos uma vez a cada três minutos.{}Para produção {WHITE}Entusiasta{BLACK}, entregue {SIGNED_WORD} caixas.
+{BLACK}Produção atual: {YELLOW}Aprimorada {}{}{BLACK}Para manter este nível, entregue {SIGNED_WORD} caixas de suprimentos pelo menos uma vez a cada três minutos.{}Para produção {WHITE}Entusiasta{BLACK}, entregue {SIGNED_WORD} caixas.
+{BLACK}Produção atual: {YELLOW}Entusiasta {}{}{BLACK}Para manter este nível, entregue {SKIP}{SIGNED_WORD} caixas de suprimentos pelo menos uma vez a cada três minutos.
+{BLACK}Produção atual: {YELLOW}Normal {}{}{BLACK}Para produção {WHITE}Aprimorada{BLACK}, entregue {SIGNED_WORD} unidades de carga pelo menos uma vez a cada três minutos.{}Para produção {WHITE}Entusiasta{BLACK}, entregue {SIGNED_WORD} unidades.
+{BLACK}Produção atual: {YELLOW}Aprimorada {}{}{BLACK}Para manter este nível, entregue {SIGNED_WORD} unidades de carga pelo menos uma vez a cada três minutos.{}Para produção {WHITE}Entusiasta{BLACK}, entregue {SIGNED_WORD} unidades.
+{BLACK}Produção atual: {YELLOW}Entusiasta {}{}{BLACK}Para manter este nível, entregue {SKIP}{SIGNED_WORD} unidades de carga pelo menos uma vez a cada três minutos.
+{ORANGE}E00: O CIRS requer OpenTTD 1.7.0 (ou, para quem usa builds de trunk, r27769)
+{ORANGE}E01: {YELLOW}Conjunto incompatível: {ORANGE}{STRING}
+{ORANGE}E02: {YELLOW}Parâmetro incompatível: {ORANGE}O parâmetro 2 do CanSet deve ser 0 para funcionar com o CIRS.
+{ORANGE}E02: {YELLOW}Parâmetro incompatível: {ORANGE}O parâmetro 2 do NA City Set deve ser 0 para funcionar com o CIRS.
+{ORANGE}E04: {YELLOW}Versão incompatível: {ORANGE}O Total Town Replacement Set deve ser da versão 3.11 ou mais recente.
+deve ser colocado abaixo da linha de neve.
+não pode ser colocado em encostas íngremes.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada na neve ou em desertos.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada na neve ou em desertos.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada na neve ou em desertos.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada na neve ou em desertos.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada em desertos.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada na neve.
+{}{BLACK}Localização: {YELLOW}Só pode ser financiada na neve.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada na neve ou em desertos.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada na neve ou em desertos.
+{}{BLACK}Localização: {YELLOW}Não pode ser financiada na neve ou em desertos.
+{STRING}
+Ácido
+Agregados
+Alumínio
+Alumina
+Amônia e Produtos Nítricos
+Anidrita
+Maçãs
+Feijão
+Betume
+Materiais de Construção
+Negro de Fumo
+Mandioca
+Ferro Fundido
+Cimento
+Intermediários Químicos
+Químicos
+Cloro
+Argila
+Agentes de Limpeza
+Café
+Alcatrão de Carvão
+Coque
+Componentes
+Produtos de Concreto
+Cobre
+Óleo Comestível
+Peças Elétricas
+Suprimentos de Engenharia
+Explosivos
+Ferroligas
+Peixe
+Suprimentos Agrícolas
+Adubo
+Farinha
+Aditivos Alimentares
+Alimentos e Bebidas
+Forjados e Fundições
+Congelados
+Frutas
+Vidro
+Ferragens
+Carbonos Industriais
+Gases Industriais
+Caulim
+Hidrocarbonetos Leves
+Calcário
+Troncos
+Lixívia
+Metanol
+Leite
+Manganês
+Carne
+Barita e Fluorita
+Enchimentos Minerais
+Melaco
+Nitratos
+Nitrogênio
+Nozes
+Oxigênio
+Embalagens
+Tintas e Revestimentos
+Turfa
+Combustíveis de Petróleo
+Tubulação
+Fosfato
+Ácido Fosfórico
+Ferro-Gusa
+Plásticos
+Plantas e Maquinário
+Potassa
+Químicos de Processo
+Bombas e Válvulas
+Minério de Pirita
+Cal Viva
+Armadura de Aço
+Sal
+Areia
+Sucata de Metal
+Vedações, Mangueiras e Correias
+Escória
+Barrilha
+Aço
+Tarugos e Blocos de Aço
+Lingotes de Aço
+Barras Comerciais de Aço
+Tubo de Aço
+Chapa de Aço
+Folha de Aço
+Bloco de Aço
+Tubo de Aço
+Vergalhão de Aço
+Estruturas de Aço
+Enxofre
+Ácido Sulfúrico
+Madeira
+Estanho
+Flandres
+Carcaça de Pneu
+Pneus
+Vegetais
+Carrocerias
+Motores de Veículos
+Peças de Veículos
+Veículos
+Consumíveis de Solda
+Pasta de Madeira
+Lã
+Zinco
+Minério de Zinco
+Mercadorias
+Usina de Alumínio
+Complexo de Amônia
+Mina de Anidrita
+Usina de Processamento de Anidrita
+Fábrica de Eletrodomésticos
+Fazenda Arável
+Fábrica de Montagem
+Laminação de Perfis e Barras
+Forno de Oxigênio Básico
+Alto-Forno
+Fábrica de Painéis de Madeira
+Fábrica de Carrocerias
+Cervejaria
+Moinho de Sidra
+Pátio de Construção
+Usina de Negro de Fumo
+Fábrica de Filme de Celulose
+Usina de Cimento
+Complexo Químico
+Fábrica de Explosivos
+Usina Cloro-Alcalina
+Pedreira de Argila
+Plantação de Café
+Forno de Coque
+Usina de Concreto
+Fábrica de Químicos em Lote
+Fundição de Cobre
+Usina Criogênica
+Laticínios
+Fazenda Leiteira
+Local de Dragagem
+Usina de Produtos Elastômeros
+Forno de Arco Elétrico
+Fábrica de Motores
+Obras de Engenharia
+Fazenda
+Usina de Químicos de Processo
+Usina de Fermentação
+Fazenda de Peixes
+Pesqueiros
+Porto de Pesca
+Moinho de Grãos
+Usina de Processamento de Alimentos
+Forja e Fundição de Aço
+Usina de Alimentos Congelados
+Fábrica de Móveis
+Armazém Geral
+Fábrica de Vidro
+Cooperativa de Pastoreio
+Hotel
+Fábrica de Sobremesas Congeladas
+Usina Siderúrgica
+Pátio de Sucata
+Forno de Cal
+Mina de Calcário
+Mina de Manganês
+Obras de Metal
+Usina de Enchimentos Minerais
+Mina de Nitrato
+Usina de Químicos Industriais
+Terminal de Petróleo e Químicos
+Pomar e Suinocultura
+Fábrica de Garrafas e Latas
+Fábrica de Produtos de Papel
+Turfeiras
+Posto de Gasolina
+Mina de Fosfato
+Usina de Adubo e Ácido
+Padaria Comercial
+Oficina de Tubulação
+Laminação de Chapas
+Fábrica de Moldagem de Plástico
+Porto
+Mina de Potassa
+Fábrica de Sistemas de Energia
+Usina de Energia
+Usina de Peças de Precisão
+Embaladora de Produtos
+Mina de Pirita
+Fundição de Pirita
+Pedreira
+Rancho
+Usina de Pedra para Estradas
+Salina
+Usina de Moagem de Escória
+Mina de Barrilha
+Fábrica de Alimentos Convenientes
+Pátio de Gado
+Laminação de Tiras
+Refinaria de Açúcar
+Pátio de Suprimentos
+Pátio de Madeira
+Mina de Estanho
+Fábrica de Flandres
+Fábrica de Veículos de Esteira
+Posto de Troca
+Laminação de Tubos e Canos
+Fábrica de Pneus
+Vinhedo
+Distribuidora de Veículos
+Cais
+Laminação de Vergalhão
+Mina de Minério de Zinco
+Fundição de Zinco
+{STRING} {STRING}
+Mercado de Cavalos
+Eletrodomésticos
+Automotivo
+Padaria
+Vigas
+Bar, Churrasco e Quartos
+Estábulos
+Barril e Tone
+Base
+Cemitério de Máquinas
+Topo do Banco
+Estamparias
+Usina de Salmoura
+Pátio de Construção
+Mina de Carvão
+Componentes
+Pré-moldados
+Veio de Cobre
+Creosotagem
+Usina Criogênica
+Rua dos Laticínios
+Vedações e Mangueiras
+Propriedade
+Fábrica
+Mansão
+Prados
+Rancho
+Mercado de Peixe
+Corporação de Alimentos
+Descarga de Troncos
+Mestres do Aço
+Congeladores
+Forno
+Artefatos de Metal
+Obras
+Currais de Renas
+Parque Industrial
+Beira-mar
+Embarcadouro
+Orla
+Pedra Ferruginosa
+Fornos
+Depósitos de Kimberlito
+Minas de Calcário
+Minas de Manganês
+Moinho
+Moinhos
+Minas
+Molduras
+Campo
+Pomares
+Linha de Fluxo
+Poço
+Usina
+Plantação
+Pátio de Chapas
+Minerais
+Usina de Energia
+Trem de Força
+Plantas e Maquinário
+Bombas
+Depósitos de Pirita
+Refinaria
+Laminação de Barras
+Companhia de Borracha
+Usina de Salitre
+Frutas do Mar
+Rua Sharp
+Baixios
+Silo
+Fundição
+Forno de Fuligem
+Sopas
+Linha de Bobinas
+Companhia de Açúcar
+Fazenda de Tanques
+Barracão dos Extração
+Lojas
+Obras de Esteiras
+Leitos de Trona
+Laminação de Tubos
+Banco de Areia
+Poços
+Wheal
+Adega
+Obras
+Pátio de Caminhões
+TERRA
+MAR
+{COMPANY} Olá!{}{}Você está jogando um jogo com o GS de teste CIRS{}{}A versão Git deste GS é {NUM}
+
+{BLUE}Repolho
+feliz
+infeliz
+A cidade é {STRING}{}{}Para saber mais sobre esta cidade (incluindo requisitos de crescimento e felicidade), abra o Livro de Histórias e encontre a página para {TOWN}
+{YELLOW}{RAW_STRING}
+{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+{TINY_FONT}{YELLOW}{DOWN_ARROW} {INDUSTRY} {NORMAL_FONT}
+{BLACK}Observe que isso não será atualizado atualmente a menos que o Grind seja desligado e ligado nas configurações do GS
+{BLACK}Palavra aleatória (teste): {WHITE}{RAW_STRING}
+{BLACK}Taxa de crescimento atual: {WHITE}{RAW_STRING}
+{YELLOW}Cargas exigidas para crescimento
+{YELLOW}Cargas exigidas para felicidade
+{BLACK}Fornecido: {WHITE}{CARGO_LONG}
+{BLACK}--- Indústrias da cidade --- {}
+{BLACK}Carga exigida fornecida no mês passado
+{BLACK}Carga produzida no mês passado
+{YELLOW}{INDUSTRY}
+{WHITE}{CARGO_LONG}
+{BLACK}Histórico de aumento de produção (permanente) (últimos 10 eventos)
+{WHITE}- esta indústria nunca aumentou a produção permanentemente
+{WHITE}{DATE_LONG}{}
+{STRING1}
+{STRING1}{STRING1}
+{STRING1}{STRING1}{STRING1}
+{STRING1}{STRING1}{STRING1}{STRING1}
+{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}
+{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}
+{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}
+{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}
+{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}
+{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}{STRING1}
+{BLACK}Nível de produção atual: {WHITE}{NUM}
+{BLACK}Palavra aleatória (teste): {WHITE}{RAW_STRING}
+{BLACK}Nome: {WHITE}{RAW_STRING}
+{BLACK}Tipo: {WHITE}{RAW_STRING}
+{BLACK}Cidade da sede: {WHITE}{TOWN}
+{BLACK}Cidades válidas: {WHITE}{RAW_STRING}
+{BLACK}Indústrias possuídas: {WHITE}{RAW_STRING}
+{BLACK}Este é um texto de GS. {WHITE}Clique em mim para a página de histórias da cidade. {BLACK}Aqui está mais texto.
+Proprietário: {RAW_STRING}
+{BLACK}Entregas a esta indústria contribuirão para o crescimento e/ou felicidade da cidade
+{INDUSTRY} aumenta a produção!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

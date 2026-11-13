@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x38"
+plural = "6"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "Kompletni skup zamjene industrija za zajednicu CIRS"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS Zajednički komplet za zamjenu industrije{}{BLACK}Zajednički održavana forka FIRS-a, izvorno izrađena od strane andythenortha, FooBara, planetmakera, Terkhena i Yexoa, uz pomoć mnogih drugih. {SILVER}Za više informacija, uključujući upute za korištenje CIRS-a, pogledajte web-stranicu. {BLACK}Licenca: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Najveća udaljenost ribarskih polja, naftnih platformi i jaružališta od obale u poljima."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Svaka ekonomija daje različite kombinacije tereta i industrija.{}{}Za igrače koji žele jednostavnost igre, {SILVER}Osnovne {BLACK} ekonomije imaju manje industrija i tereta nego druge CIRS ekonomije.{}{}Na CIRS web stranici se nalaze detaljne informacije o svakoj vrsti ekonomije."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Najveća udaljenost od obale za pomorske industrije u poljima"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Ekonomija"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Bez limita"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Kutije potrepština potrebne za Unaprijeđenu primarnu proizvodnju (osnovna postavka 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Kutije potrepština potrebne za Masovnu primarnu proizvodnju (osnovna postavka 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Farme, rudnici i slične industrije će povećati proizvodnju kada su kutije potrepština dostavljene, prvo na {SILVER}Unaprijeđenu{BLACK}, a onda na {SILVER}Masovnu{BLACK} proizvodnju, ako je dostavljeno dovoljno kutija.{}{}Osnovne postavke su dovoljno dobre ali ako trebate, možete ih promijeniti ovdje.{}{}Potrebe dostave tereta za industrije u lukama će biti 8x veće od vrijednosti postavljenih ovdje."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Nivo Unaprijeđene primarne proizvodnje (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Nivo Masovne primarne proizvodnje (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Proizvodnja na farmama, u rudnicima i sličnim industrijama kada su potrebe dostave zadovoljene (kao postotak {SILVER}Normalnog {BLACK} nivoa proizvodnje)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Osnovna - umjerena klima"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Osnovna - arktička klima"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Osnovna - tropska klima"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "U vrućoj zemlji"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Grad od Čelika"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "Predmeti CIRS-a za uređenje krajolika"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS uključuje skup predmeta za uređenje krajolika koje igrači mogu postaviti kako bi određene industrije izgledale veće. Predmeti za uređenje krajolika nemaju nikakav utjecaj na igranje. Oni se mogu uključiti ili isključiti."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(neobavezno)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = "{BLACK}(dostavljeno)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Proizvodi na najvećem nivou ako se dostavi {WHITE}bilo koji {BLACK}potrebni teret."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Za maksimalnu stopu proizvodnje, osigurajte {WHITE}oba {BLACK}potrebna tereta najmanje jednom u tri minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Za maksimalnu stopu proizvodnje, isporučite {WHITE}sve {BLACK}potrebne terete najmanje jednom u tri minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Za maksimalnu stopu proizvodnje, osigurajte {WHITE}najmanje dva {BLACK}potrebna tereta najmanje jednom u tri minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Za maksimalnu stopu proizvodnje, isporučite {WHITE}najmanje tri {BLACK}potrebne terete najmanje jednom u tri minute."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Proizvodnja je proporcionalna broju stanovnika grada. Svake će se minute proizvesti najmanje {WHITE}{SIGNED_WORD} jedinica{BLACK}, a najviše {WHITE}{SIGNED_WORD} jedinica{BLACK} tereta."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Trenutna proizvodnja: {YELLOW}Normalna{}{}{BLACK}Za povećavanje proizvodnje na {WHITE}Unaprijeđenu{BLACK} dostavite {SIGNED_WORD} kutija potrepština unutar tri mjeseca{}Za povećavanje proizvodnje na {WHITE}Masovnu{BLACK} dostavite {SIGNED_WORD} kutija."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Trenutna proizvodnja: {YELLOW}Unaprijeđena{}{}{BLACK}Za zadržavanje ovog nivoa, dostavite {SIGNED_WORD} kutija potrepština unutar tri mjeseca{}Za povećavanje proizvodnje na {WHITE}Masovnu{BLACK} dostavite {SIGNED_WORD} kutija."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Trenutna proizvodnja: {YELLOW}Masovna{}{}{BLACK}Za zadržavanje ovog nivoa, dostavite {SKIP}{SIGNED_WORD} kutija potrepština unutar tri mjeseca."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Trenutna proizvodnja: {YELLOW}Normalna{}{}{BLACK}Za {WHITE}Unaprijeđenu{BLACK}proizvodnju dostavite {SIGNED_WORD} jedinica tereta unutar tri mjeseca.{}Za {WHITE}Masovnu {BLACK}proizvodnju dostavite {SIGNED_WORD} jedinica tereta."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Trenutna proizvodnja: {YELLOW}Unaprijeđena{}{}{BLACK}Za zadržavanje ovog nivoa, dostavite {SIGNED_WORD} jedinica tereta unutar tri mjeseca{}Za povećavanje proizvodnje na {WHITE}Masovnu{BLACK} dostavite {SIGNED_WORD} jedinica tereta."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Trenutna proizvodnja: {YELLOW}Masovna{}{}{BLACK}Za zadržavanje ovog nivoa, dostavite {SKIP}{SIGNED_WORD} jedinica tereta unutar tri mjeseca."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS zahtijeva OpenTTD 1.7.0 (ili, za one koji koriste izgradnje iz glavnog granca, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Nekompatibilni komplet: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Nekompatibilni parametar: {ORANGE}Parametar CanSet 2 mora biti 0 kako bi radio s CIRS-om."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Nekompatibilni parametar: {ORANGE}Parametar NA City Set 2 mora biti 0 kako bi radio s CIRS-om."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Nekompatibilna verzija: {ORANGE}Total Town Replacement Set mora biti verzije 3.11 ili novije."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "mora biti smješteno ispod linije snijega."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "ne može biti smješteno na nagibima."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može se financirati na snijegu ili u pustinji ili na padinama."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može biti financirano na snijegu ili u pustinjama."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može biti financirano na snijegu ili u pustinjama."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može biti financirano na snijegu ili u pustinjama."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može se financirati u pustinji."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može se financirati na snijegu."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Lokacija: {YELLOW}Mora se financirati na snijegu."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može biti financirano na snijegu ili u pustinjama."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može biti financirano na snijegu ili u pustinjama."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Lokacija: {YELLOW}Ne može biti financirano na snijegu ili u pustinjama."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Kiselina"
+cargo_unit = "{VOLUME} kiseline"
+cid = "{TINYFONT}KI"
+
+[STR_CARGO_AGGREGATES]
+name = "Agregati"
+cargo_unit = "{WEIGHT} agregata"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Aluminij"
+cargo_unit = "{WEIGHT} aluminija"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumina"
+cargo_unit = "{WEIGHT} aluminija"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Amonijak i dušični proizvodi"
+cargo_unit = "{VOLUME} amonijaka i dušičnih proizvoda"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhidritna stijena"
+cargo_unit = "{WEIGHT} anhidritne stijene"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Jabuke"
+cargo_unit = "{WEIGHT} jabuka"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Grah"
+cargo_unit = "{WEIGHT} graha"
+cid = "{TINYFONT}GH"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumen"
+cargo_unit = "{VOLUME} bitumena"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Građevni materijal"
+cargo_unit = "{WEIGHT} građevnog materijala"
+cid = "{TINYFONT}GM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Ugljični crni pigment"
+cargo_unit = "{WEIGHT} crnog ugljika"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Manioka"
+cargo_unit = "{WEIGHT} manioke"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_CAST_IRON]
+name = "Lijevano željezo"
+cargo_unit = "{WEIGHT} lijevanog željeza"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Cement"
+cargo_unit = "{WEIGHT} cementa"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Kemijski međuproizvodi"
+cargo_unit = "{VOLUME} kemijskih intermedijera"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Kemikalije"
+cargo_unit = "{VOLUME} kemikalija"
+cid = "{TINYFONT}KM"
+
+[STR_CARGO_CHLORINE]
+name = "Klor"
+cargo_unit = "{VOLUME} klora"
+cid = "{TINYFONT}KL"
+
+[STR_CARGO_CLAY]
+name = "Glina"
+cargo_unit = "{WEIGHT} gline"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Sredstva za čišćenje"
+cargo_unit = "{WEIGHT} sredstava za čišćenje"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kava"
+cargo_unit = "{WEIGHT} vreća kave"
+cid = "{TINYFONT}KV"
+
+[STR_CARGO_COAL_TAR]
+name = "Ugljenov katran"
+cargo_unit = "{VOLUME} ugljenova katrana"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Koks"
+cargo_unit = "{WEIGHT} koksa"
+cid = "{TINYFONT}KK"
+
+[STR_CARGO_COMPONENTS]
+name = "Precizni dijelovi"
+cargo_unit = "{WEIGHT} preciznih komponenti"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betonni proizvodi"
+cargo_unit = "{WEIGHT} betonskih proizvoda"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Bakar"
+cargo_unit = "{WEIGHT} bakra"
+cid = "{TINYFONT}BA"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Jestivo ulje"
+cargo_unit = "{VOLUME} jestivog ulja"
+cid = "{TINYFONT}JU"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Električni dijelovi"
+cargo_unit = "{WEIGHT} električnih dijelova"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Inžinjerske potrepštine"
+cargo_unit = "{SIGNED_WORD} kutij{P 0 a e e} inžinjerskih potrepština"
+cid = "{TINYFONT}IP"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Eksplozivi"
+cargo_unit = "{WEIGHT} eksploziva"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferolegure"
+cargo_unit = "{WEIGHT} ferolegura"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Riba i morski plodovi"
+cargo_unit = "{WEIGHT} ribe i morskih plodova"
+cid = "{TINYFONT}RI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Poljoprivredne potrepštine"
+cargo_unit = "{SIGNED_WORD} kutij{P 0 a e e} poljoprivrednih potrepština"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_FERTILISER]
+name = "Gnojivo"
+cargo_unit = "{WEIGHT} gnojiva"
+cid = "{TINYFONT}GN"
+
+[STR_CARGO_FLOUR]
+name = "Brašno i škrob"
+cargo_unit = "{WEIGHT} brašna i škroba"
+cid = "{TINYFONT}GN"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Dodaci hrani"
+cargo_unit = "{WEIGHT} aditiva za hranu"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Hrana i napitci"
+cargo_unit = "{WEIGHT} hrane i pića"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Kovanice i ljevišni dijelovi"
+cargo_unit = "{WEIGHT} kovanica i uliva"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Smrznuta hrana"
+cargo_unit = "{WEIGHT} smrznute hrane"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Voće"
+cargo_unit = "{WEIGHT} voća"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Stakleni proizvodi"
+cargo_unit = "{WEIGHT} staklenih proizvoda"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Hardver i završne obrade"
+cargo_unit = "{WEIGHT} željeznog pribora i završnih materijala"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Industrijski ugljici"
+cargo_unit = "{WEIGHT} industrijskih ugljika"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Industrijski plinovi"
+cargo_unit = "{VOLUME} industrijskih plinova"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Kaolinit"
+cargo_unit = "{WEIGHT} kaolinita"
+cid = "{TINYFONT}KN"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Laka ugljikovodika"
+cargo_unit = "{VOLUME} lakih ugljikovodika"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Vapnenac"
+cargo_unit = "{WEIGHT} vapnenca"
+cid = "{TINYFONT}VA"
+
+[STR_CARGO_LOGS]
+name = "Drvene trupce"
+cargo_unit = "{WEIGHT} trupaca"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Natrijev hidroksid"
+cargo_unit = "{VOLUME} lužine"
+cid = "{TINYFONT}LU"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} metanola"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Mlijeko"
+cargo_unit = "{VOLUME} mlijeka"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "Mangan"
+cargo_unit = "{WEIGHT} mangana"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Meso"
+cargo_unit = "{WEIGHT} mesa"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Barij i fluorit"
+cargo_unit = "{WEIGHT} barita i fluorsparita"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Mineralni ispunjivači"
+cargo_unit = "{WEIGHT} mineralnih punila"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Sirovi šećer i melasa"
+cargo_unit = "{WEIGHT} sirovog šećera i melase"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitrati"
+cargo_unit = "{WEIGHT} nitrata"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Dušik"
+cargo_unit = "{VOLUME} dušika"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Orasi"
+cargo_unit = "{WEIGHT} orašastih plodova"
+cid = "{TINYFONT}OR"
+
+[STR_CARGO_OXYGEN]
+name = "Kisik"
+cargo_unit = "{VOLUME} kisika"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Ambalaža"
+cargo_unit = "{WEIGHT} ambalaže"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Boje i premazi"
+cargo_unit = "{VOLUME} boja i premaza"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Treset"
+cargo_unit = "{WEIGHT} treseta"
+cid = "{TINYFONT}TR"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Benzin"
+cargo_unit = "{VOLUME} benzina"
+cid = "{TINYFONT}BE"
+
+[STR_CARGO_PIPEWORK]
+name = "Skladišni spremnici i cjevovodi"
+cargo_unit = "{WEIGHT} spremnika i cjevovoda"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfati"
+cargo_unit = "{WEIGHT} fosfata"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Fosforna kiselina"
+cargo_unit = "{VOLUME} fosfatne kiseline"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Sirovo željezo"
+cargo_unit = "{WEIGHT} sirovog željeza"
+cid = "{TINYFONT}SŽ"
+
+[STR_CARGO_PLASTICS]
+name = "Plastika i smole"
+cargo_unit = "{WEIGHT} plastike i smola"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Postrojenja i strojevi"
+cargo_unit = "{WEIGHT} postrojenja i strojeva"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Potaša"
+cargo_unit = "{WEIGHT} potaša"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Procesne kemikalije"
+cargo_unit = "{WEIGHT} kemijskih tvari za procese"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pumpe i ventili"
+cargo_unit = "{WEIGHT} pumpi i ventila"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pirit"
+cargo_unit = "{WEIGHT} pirita"
+cid = "{TINYFONT}PR"
+
+[STR_CARGO_QUICKLIME]
+name = "Živo vapno"
+cargo_unit = "{WEIGHT} živog vapna"
+cid = "{TINYFONT}ŽV"
+
+[STR_CARGO_REBAR]
+name = "Armaturna šipka"
+cargo_unit = "{WEIGHT} armaturnog željeza"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Sol"
+cargo_unit = "{WEIGHT} soli"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_SAND]
+name = "Pijesak"
+cargo_unit = "{WEIGHT} pijeska"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Otpadni metal"
+cargo_unit = "{WEIGHT} otpadnog metala"
+cid = "{TINYFONT}OM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Zaprti spojevi, crijeva i remeni"
+cargo_unit = "{WEIGHT} brtvi, crijeva i remena"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Šljaka"
+cargo_unit = "{WEIGHT} šljake"
+cid = "{TINYFONT}ŠLJ"
+
+[STR_CARGO_SODA_ASH]
+name = "Soda"
+cargo_unit = "{WEIGHT} sode"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_STEEL]
+name = "Čelik"
+cargo_unit = "{WEIGHT} čelika"
+cid = "{TINYFONT}ČE"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Lijevani poluproizvodi i blovi"
+cargo_unit = "{WEIGHT} polugotovih i gotovih željeznih poluga"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Čelični ingoti"
+cargo_unit = "{WEIGHT} čeličnih ingota"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Trgovački bar"
+cargo_unit = "{WEIGHT} trgovačke šipke"
+cid = "{TINYFONT}ŠR"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Čelična cijev"
+cargo_unit = "{WEIGHT} čeličnih cijevi"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Čelična ploča"
+cargo_unit = "{WEIGHT} čeličnih ploča"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Čelični list i trakica"
+cargo_unit = "{WEIGHT} čeličnih limova i traka"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Čelična poluploča"
+cargo_unit = "{WEIGHT} čeličnih polugotovih ploča"
+cid = "{TINYFONT}ČE"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Čelična cijev"
+cargo_unit = "{WEIGHT} čeličnih cijevi"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Čelična žičana šipka"
+cargo_unit = "{WEIGHT} čelične žičane šipke"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Konstrukcijski čelik"
+cargo_unit = "{WEIGHT} konstrukcijskog čelika"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Sumpor"
+cargo_unit = "{WEIGHT} sumpora"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Sumporna kiselina"
+cargo_unit = "{VOLUME} sumporne kiseline"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Proizvodi od drveta"
+cargo_unit = "{WEIGHT} proizvoda od drveta"
+cid = "{TINYFONT}DR"
+
+[STR_CARGO_TIN]
+name = "Kosa"
+cargo_unit = "{WEIGHT} kositra"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Kosani lim"
+cargo_unit = "{WEIGHT} limenog lima"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Ojačanje guma"
+cargo_unit = "{WEIGHT} gume za gume"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Gume"
+cargo_unit = "{WEIGHT} guma"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Povrće"
+cargo_unit = "{WEIGHT} povrća"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Karoserije vozila"
+cargo_unit = "{WEIGHT} karoserija"
+cid = "{TINYFONT}KR"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Motori i pogonski sklopovi"
+cargo_unit = "{WEIGHT} motora i pogonskog sklopa"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Dijelovi za vozila"
+cargo_unit = "{WEIGHT} dijelova za vozila"
+cid = "{TINYFONT}DV"
+
+[STR_CARGO_VEHICLES]
+name = "Vozila"
+cargo_unit = "{WEIGHT} vozila"
+cid = "{TINYFONT}VO"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Potrošni materijal za zavarivanje"
+cargo_unit = "{WEIGHT} potrošnog materijala za zavarivanje"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Drvena celuloza"
+cargo_unit = "{WEIGHT} drvene celuloze"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Vuna"
+cargo_unit = "{SIGNED_WORD} bal{P 0 a e e} vune"
+cid = "{TINYFONT}VU"
+
+[STR_CARGO_ZINC]
+name = "Cink"
+cargo_unit = "{WEIGHT} cinka"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Ruda cinka"
+cargo_unit = "{WEIGHT} cinkove rude"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} robe"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Ljevaonica aluminija"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Amonijaški kompleks"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Rudnik anhidrita"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Postrojenje za obradu anhidrita"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Tvornica kućanskih aparata"
+
+[STR_IND_ARABLE_FARM]
+base = "Poljoprivredna farma"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Tvornica vozila"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Mlin za profielse i šipke"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Oksidacijska peć"
+
+[STR_IND_BLAST_FURNACE]
+base = "Visoka peć"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Tvornica iverice"
+
+[STR_IND_BODY_PLANT]
+base = "Karoserija biljke"
+
+[STR_IND_BREWERY]
+base = "Pivovara"
+
+[STR_IND_CIDER_MILL]
+base = "Mlin za jabukovaču"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Građevni dvorište" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Postrojenje za proizvodnju crnog ugljika"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Proizvodnja celuloznih filmova"
+
+[STR_IND_CEMENT_PLANT]
+base = "Cementara"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Kemijski kompleks"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Tvornica eksploziva"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Postrojenje za proizvodnju klor-alkalija"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Kop gline"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Plantaža kave"
+
+[STR_IND_COKE_OVEN]
+base = "Koksna peć"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Postrojenje za beton"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Postrojenje za proizvodnju kemikalija po serijama"
+
+[STR_IND_COPPER_SMELTER]
+base = "Rafinerija bakra"
+
+[STR_IND_CRYO_PLANT]
+base = "Kriogeno postrojenje"
+
+[STR_IND_DAIRY]
+base = "Mljekara"
+
+[STR_IND_DAIRY_FARM]
+base = "Mliječna farma"
+
+[STR_IND_DREDGING_SITE]
+base = "Jaružalište"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Postrojenje za proizvodnju elastomera"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Elektrolučna peć"
+
+[STR_IND_ENGINE_PLANT]
+base = "Postrojenje za proizvodnju motora"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Inženjerska radionica"
+
+[STR_IND_FARM]
+base = "Farme"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Postrojenje za procesne kemikalije"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Postrojenje za fermentaciju"
+
+[STR_IND_FISH_FARM]
+base = "Ribarska farma"
+
+[STR_IND_FISHING_GROUND]
+base = "Ribarsko polje"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Ribarska luka"
+
+[STR_IND_GRAIN_MILL]
+base = "Mlin za žito"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Tvornica za preradu hrane"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Kovačnica i ljevaonica čelika"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Postrojenje za proizvodnju smrznute hrane"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Tvornica namještaja"
+
+[STR_IND_GENERAL_STORE]
+base = "Trgovina općom robom"
+
+[STR_IND_GLASS_WORKS]
+base = "Staklarna"
+
+[STR_IND_HERDING_COOP]
+base = "Lovački kamp"
+
+[STR_IND_HOTEL]
+base = "Hotel"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Tvornica smrznutih deserta"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Čeličana"
+
+[STR_IND_SCRAP_YARD]
+base = "Odlagalište otpada"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Vapnara"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Rudnik vapnenca"
+
+[STR_IND_MANGANESE_MINE]
+base = "Rudnik mangana"
+
+[STR_IND_METAL_WORKS]
+base = "Metalna radionica"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Postrojenje za mineralne ispunjivače"
+
+[STR_IND_NITRATE_MINE]
+base = "Rudnik nitrata"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Postrojenje za proizvodnju industrijskih kemikalija"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Naftni i kemijski terminal"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Voćnjak i svinjac"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Tvornica boca i limenki"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Tvornica papirnih proizvoda"
+
+[STR_IND_PEATLANDS]
+base = "Tresetišta"
+
+[STR_IND_PETROLPUMP]
+base = "Benzinska pumpa"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Rudnik fosfata"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Postrojenje za gnojiva i kiseline"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Komercijalna pekarana"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Tvornica cijevi"
+
+[STR_IND_PLATE_MILL]
+base = "Tvornica valjanja ploča"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Tvornica plastičnih kalupa"
+
+[STR_IND_PORT]
+base = "Luka"
+
+[STR_IND_POTASH_MINE]
+base = "Rudnik potaše"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Tvornica energetskih sustava"
+
+[STR_IND_POWER_PLANT]
+base = "Elektrana"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Postrojenje za precizne dijelove"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Pakiralište proizvoda"
+
+[STR_IND_PYRITE_MINE]
+base = "Rudnik pirita"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Talionica pirita"
+
+[STR_IND_QUARRY]
+base = "Kamenolom"
+
+[STR_IND_RANCH]
+base = "Ranč"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Postrojenje za proizvodnju cestovnog kamena"
+
+[STR_IND_SALT_WORKS]
+base = "Solana"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Postrojenje za mljevenje šljake"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Rudnik sode"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Tvornica gotovih namirnica"
+
+[STR_IND_STOCKYARD]
+base = "Stočno dvorište"
+
+[STR_IND_STRIP_MILL]
+base = "Valjak za valjanje trake"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Šećerana"
+
+[STR_IND_SUPPLY_YARD]
+base = "Dostavno skladište"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Pilana"
+
+[STR_IND_TIN_MINE]
+base = "Rudnik kose"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Tvornica kosanog lima"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Tvornica vozila na gusjenicama"
+
+[STR_IND_TRADING_POST]
+base = "Trgovačka kuća"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Proizvodnja cijevi i cevi"
+
+[STR_IND_TYRE_PLANT]
+base = "Tvornica guma"
+
+[STR_IND_VINEYARD]
+base = "Vinograd"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Distributer vozila"
+
+[STR_IND_WHARF]
+base = "Pristanište"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Postrojenje za proizvodnju žičane šipke"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Rudnik cinka"
+
+[STR_IND_ZINC_SMELTER]
+base = "Topionica cinka"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Tržnica konja"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Električna roba"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Automobilska"
+
+[STR_STATION_BAKERY]
+base = "Pekarana"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Gredice"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, roštilj i sobe"
+
+[STR_STATION_BARNS]
+base = "Štale"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Bačva i krigla"
+
+[STR_STATION_BASE]
+base = "Baza"
+
+[STR_STATION_BONEYARD]
+base = "Groblje"
+
+[STR_STATION_BANK_TOP]
+base = "Nasip"
+
+[STR_STATION_BODY_PLANT]
+base = "Presanci"
+
+[STR_STATION_BRINE_WORKS]
+base = "Postrojenje za proizvodnju slane otopine"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Građevinsko dvorište"
+
+[STR_STATION_COLLIERY]
+base = "Ugljenokop"
+
+[STR_STATION_COMPONENTS]
+base = "Komponente"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Prefabricirani elementi"
+
+[STR_STATION_COPPER_LODE]
+base = "Bakrena žila"
+
+[STR_STATION_CREOSOTING]
+base = "Asfaltiranje"
+
+[STR_STATION_CRYO_PLANT]
+base = "Kriogeno postrojenje"
+
+[STR_STATION_DAIRY_LANE]
+base = "Mljekarska ulica"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Zaprti spojevi i crijeva"
+
+[STR_STATION_ESTATE]
+base = "Imanje"
+
+[STR_STATION_FACTORY]
+base = "Tvornica"
+
+[STR_STATION_FARM_1]
+base = "Imanje"
+
+[STR_STATION_FARM_2]
+base = "Livade"
+
+[STR_STATION_FARM_3]
+base = "Ranč"
+
+[STR_STATION_FISHMARKET]
+base = "Tržnica ribe"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Prehrambeni koncern"
+
+[STR_STATION_FOREST]
+base = "Čistina za ukrcaj trupaca"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Čeličarski majstori"
+
+[STR_STATION_FREEZERS]
+base = "Smrzivači"
+
+[STR_STATION_FURNACE]
+base = "Peć"
+
+[STR_STATION_METAL_WORKS]
+base = "Metalni proizvodi"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Radionica"
+
+[STR_STATION_HERDING_COOP]
+base = "Lovačka kuća"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Industrijski park"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Obalna luka"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Privezište"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Obala"
+
+[STR_STATION_IRONSTONE]
+base = "Željezna rudača"
+
+[STR_STATION_KILNS]
+base = "Peći za sušenje"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Naslage kimberlita"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Rudnici vapnenca"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Rudnici mangana"
+
+[STR_STATION_MILL]
+base = "Mlin"
+
+[STR_STATION_MILLS]
+base = "Mlinovi"
+
+[STR_STATION_MINES]
+base = "Rudnici"
+
+[STR_STATION_MOULDINGS]
+base = "Modeliranje"
+
+[STR_STATION_OIL_RIG]
+base = "Polje"
+
+[STR_STATION_ORCHARDS]
+base = "Voćnjaci"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Proizvodna linija"
+
+[STR_STATION_PIT]
+base = "Rupa"
+
+[STR_STATION_PLANT]
+base = "Postrojenje"
+
+[STR_STATION_PLANTATION]
+base = "Plantaža"
+
+[STR_STATION_PLATE_MILL]
+base = "Slaba ploča"
+
+[STR_STATION_POTASH_MINE]
+base = "Minerali"
+
+[STR_STATION_POWERHUNGRY]
+base = "Elektrana"
+
+[STR_STATION_POWERTRAIN]
+base = "Pogonski sklop"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Postrojenja i strojevi"
+
+[STR_STATION_PUMPS]
+base = "Pumpe"
+
+[STR_STATION_PYRITES]
+base = "Naslage pirita"
+
+[STR_STATION_REFINERY]
+base = "Rafinerija"
+
+[STR_STATION_ROD_MILL]
+base = "Valjak za valjanje šipki"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Tvornica gume"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Prerada salitre"
+
+[STR_STATION_SEAFOOD]
+base = "Morski plodovi"
+
+[STR_STATION_SHARP_STREET]
+base = "Oštra ulica"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Plićaci"
+
+[STR_STATION_SILO]
+base = "Silos"
+
+[STR_STATION_SMELTER]
+base = "Talionica"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Peć za ispušni pepeo"
+
+[STR_STATION_SOUPS]
+base = "Supe"
+
+[STR_STATION_STRIP_MILL]
+base = "Linija za namotavanje"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Šećerana"
+
+[STR_STATION_TANK_FARM]
+base = "Skladište tekućih tereta"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Zvučna kutija"
+
+[STR_STATION_TOWN_3]
+base = "Dućani"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Tvornica gusjeničnih strojeva"
+
+[STR_STATION_TRONA_BEDS]
+base = "Naslage natrona"
+
+[STR_STATION_TUBE_MILL]
+base = "Proizvodnja cijevi"
+
+[STR_STATION_WATER]
+base = "Sprud"
+
+[STR_STATION_WELLS]
+base = "Izvori"
+
+[STR_STATION_WHEAL]
+base = "Jama"
+
+[STR_STATION_WINERY]
+base = "Vinski podrum"
+
+[STR_STATION_WORKS]
+base = "Radionica"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Tovarni park"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "ZEMLJA"
+
+[STR_BADGE_SEA]
+base = "MORE"

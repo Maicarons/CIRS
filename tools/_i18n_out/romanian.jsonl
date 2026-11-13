@@ -1,0 +1,632 @@
+{"i":0,"tr":" {BLACK}(opțional)"}
+{"i":1,"tr":" {BLACK}(furnizat)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Acid"}
+{"i":4,"tr":"Agregate"}
+{"i":5,"tr":"Alumină"}
+{"i":6,"tr":"Aluminiu"}
+{"i":7,"tr":"Produse de amoniac și acid azotic"}
+{"i":8,"tr":"Complex de amoniac"}
+{"i":9,"tr":"Mină de anhidrită"}
+{"i":10,"tr":"Unitate de procesare a anhidritei"}
+{"i":11,"tr":"Rocă de anhidrită"}
+{"i":12,"tr":"Mere"}
+{"i":13,"tr":"Fabrică de electrocasnice"}
+{"i":14,"tr":"Arctic Basic"}
+{"i":15,"tr":"Sunt veșnice etc."}
+{"i":16,"tr":"Fabrică de asamblare"}
+{"i":17,"tr":"Automobil"}
+{"i":18,"tr":"Disponibil în toate economiile. Produs și acceptat de clădirile orașului, precum și de câteva industrii."}
+{"i":19,"tr":"Disponibil în toate economiile. Produs și acceptat de clădirile orașului."}
+{"i":20,"tr":"Patiserie"}
+{"i":21,"tr":"Bale."}
+{"i":22,"tr":"Vârful băncii"}
+{"i":23,"tr":"Bar, grătar și camere"}
+{"i":24,"tr":"Șopronuri"}
+{"i":25,"tr":"Butoi și butoi de bere"}
+{"i":26,"tr":"Bariți și fluorit"}
+{"i":27,"tr":"Bază"}
+{"i":28,"tr":"Forn cu oxigen de bază"}
+{"i":29,"tr":"Fier de bază dintr-un furnal, sub formă lichidă topită sau lingouri solide."}
+{"i":30,"tr":"Unitate chimică de producție în loturi"}
+{"i":31,"tr":"Boabe"}
+{"i":32,"tr":"Billete și lingouri brute"}
+{"i":33,"tr":"Billete, lingouri brute, lingouri și plăci."}
+{"i":34,"tr":"Biomasă din mlaștini de turbă, extrasă pentru combustibil și horticultură."}
+{"i":35,"tr":"Bitum"}
+{"i":36,"tr":"Fornală"}
+{"i":37,"tr":"Fabrică de caroserii"}
+{"i":38,"tr":"Cimitir de vehicule"}
+{"i":39,"tr":"Fabrică de sticle și doze"}
+{"i":40,"tr":"Cutii, sticle, borcane, doze etc."}
+{"i":41,"tr":"Fabrică de saramură"}
+{"i":42,"tr":"Subprodus al producției de cocs, un lichid gros cu curgere lentă."}
+{"i":43,"tr":"CIRS"}
+{"i":44,"tr":"Setul de înlocuire a industriilor comunitare CIRS"}
+{"i":45,"tr":"CIRS include un set de obiecte de amenajare a peisajului, pe care jucătorii le pot plasa pentru a face anumite industrii să pară mai mari. Obiectele de peisaj nu au niciun efect asupra jocului. Acestea pot fi activate sau dezactivate."}
+{"i":46,"tr":"Obiectele de amenajare a peisajului CIRS"}
+{"i":47,"tr":"Cabine, capote, uși și structuri similare ale caroseriei pentru producția de vehicule."}
+{"i":48,"tr":"Oxid de calciu, cunoscut și sub numele de var ars. Se transportă sub formă de pulbere fină, care trebuie menținută uscată."}
+{"i":49,"tr":"Negru de carbon"}
+{"i":50,"tr":"Fabrică de negru de carbon"}
+{"i":51,"tr":"Manioc"}
+{"i":52,"tr":"Fontă"}
+{"i":53,"tr":"Produse turnate, cum ar fi blocuri, grinzi și panouri. Pot fi, de asemenea, manipulate ca beton gata preparat în camioane amestecătoare."}
+{"i":54,"tr":"Fabrică de folie de celuloză"}
+{"i":55,"tr":"Ciment"}
+{"i":56,"tr":"Ciment, sticlă, componente metalice, produse din lemn, țevi și materiale de construcție similare."}
+{"i":57,"tr":"Complex chimic"}
+{"i":58,"tr":"Intermediari chimici"}
+{"i":59,"tr":"Produse chimice, săpunuri, agenți de curățare etc., pentru uz industrial și casnic. În principal lichide, dar pot fi și sub formă de pulbere sau solide (cum ar fi nisipul pentru sablare)."}
+{"i":60,"tr":"Argilă chinezească"}
+{"i":61,"tr":"Fabrică de aglomerat"}
+{"i":62,"tr":"Unitate de clor-alkali"}
+{"i":63,"tr":"Clor"}
+{"i":64,"tr":"Morărie de cidru"}
+{"i":65,"tr":"Explozivi civili pentru minerit, construcții etc."}
+{"i":66,"tr":"Agenți de curățare"}
+{"i":67,"tr":"Cărbune"}
+{"i":68,"tr":"Mină de cărbune"}
+{"i":69,"tr":"Pecete de cărbune"}
+{"i":70,"tr":"Cărbune încălzit într-un cuptor de cocs, producând un combustibil aproape pur din carbon."}
+{"i":71,"tr":"Nisip grosier pentru construcții sau nisip fin de siliciu pentru fabricarea sticlei și turnarea metalelor. Transportat în vrac sau sub formă de pulbere."}
+{"i":72,"tr":"Cafea"}
+{"i":73,"tr":"Moșie de cafea"}
+{"i":74,"tr":"Linie de bobine"}
+{"i":75,"tr":"Coca"}
+{"i":76,"tr":"Cuptor de coca"}
+{"i":77,"tr":"Mină de cărbune"}
+{"i":78,"tr":"Patiserie comercială"}
+{"i":79,"tr":"Boabe comune, fasole fava, soia și leguminoase comestibile similare."}
+{"i":80,"tr":"Economie complexă cu industrii de fier, oțel și producție grea."}
+{"i":81,"tr":"Economie complexă cu multe industrii și mărfuri."}
+{"i":82,"tr":"Economie complexă cu multe industrii și mărfuri. Inspirată de Africa central-vestică. Cel mai bine se folosește cu un climat subtropical."}
+{"i":83,"tr":"Componente"}
+{"i":84,"tr":"Componente pentru producția de vehicule, cum ar fi șasiuri și componente de suspensie, piese electrice, elemente de finisaj exterioare și piese interioare."}
+{"i":85,"tr":"Centrală de beton"}
+{"i":86,"tr":"Produse din beton"}
+{"i":87,"tr":"Șantier de construcții"}
+{"i":88,"tr":"Fabrică de alimente gata preparate"}
+{"i":89,"tr":"Cupru"}
+{"i":90,"tr":"Zăcământ de cupru"}
+{"i":91,"tr":"Mină de cupru"}
+{"i":92,"tr":"Minerale de cupru"}
+{"i":93,"tr":"Topitorie de cupru"}
+{"i":94,"tr":"Bumbac, in, iută și materiale similare, pentru producerea de textile și materiale compozite."}
+{"i":95,"tr":"Atelier pentru vehicule pe șenile"}
+{"i":96,"tr":"Creosotare"}
+{"i":97,"tr":"Petrol brut, nerafinat, transportat sub formă de lichid vrac."}
+{"i":98,"tr":"Unitate de criogenare"}
+{"i":99,"tr":"Fermă lactată"}
+{"i":100,"tr":"Calea lactată"}
+{"i":101,"tr":"Mină de diamante"}
+{"i":102,"tr":"Diamante"}
+{"i":103,"tr":"Tobe, troli, cătușe, cârlige, scripeți, cilindri hidraulici și alte piese pentru macarale, troliuri, lifturi etc."}
+{"i":104,"tr":"Ciment uscat sub formă de pulbere sau clinker."}
+{"i":105,"tr":"Fiecare economie oferă o combinație diferită de mărfuri și industrii.{}{}Pentru jucătorii care doresc un mod de joc simplu, economiile {SILVER}de bază {BLACK}conțin mai puține industrii și mărfuri decât alte economii CIRS.{}{}Site-ul web CIRS oferă informații detaliate despre fiecare economie."}
+{"i":106,"tr":"Ulei comestibil"}
+{"i":107,"tr":"Planta rădăcinoasă comestibilă, cunoscută și sub numele de manioc și yuca."}
+{"i":108,"tr":"Fabrică de produse elastomere"}
+{"i":109,"tr":"Fornal cu arc electric"}
+{"i":110,"tr":"Piese electrice"}
+{"i":111,"tr":"Componente electrice și electronice, motoare, controlere, aparate de comutație, lumini etc."}
+{"i":112,"tr":"Produse electrice"}
+{"i":113,"tr":"Fabrică de motoare"}
+{"i":114,"tr":"Atelier de inginerie"}
+{"i":115,"tr":"Motoare și transmisii"}
+{"i":116,"tr":"Nivel îmbunătățit al producției primare (%)"}
+{"i":117,"tr":"Proprietate imobiliară"}
+{"i":118,"tr":"Explozivi"}
+{"i":119,"tr":"Fabrică de explozivi"}
+{"i":120,"tr":"Expres"}
+{"i":121,"tr":"Fabrică"}
+{"i":122,"tr":"Fermă"}
+{"i":123,"tr":"Fermele, minele și industriile similare vor crește producția atunci când sunt livrate lăzi de aprovizionare, mai întâi către {SILVER}Enhanced{BLACK}, și apoi către {SILVER}Gung-ho{BLACK}, dacă sunt livrate suficiente lăzi.  {}{}Valorile implicite sunt bune, dar, dacă este necesar, le puteți modifica aici.  {}{}Cerințele de marfă pentru industriile de tip port vor fi de 8 ori mai mari decât valorile setate aici."}
+{"i":124,"tr":"Unitate de fermentare"}
+{"i":125,"tr":"Feroaliale"}
+{"i":126,"tr":"Îngrășământ"}
+{"i":127,"tr":"Fabrică de îngrășăminte și acid"}
+{"i":128,"tr":"Câmp"}
+{"i":129,"tr":"Sârmă fină folosită pentru a întări anvelopele. Transportată sub formă de bobină."}
+{"i":130,"tr":"Pește și fructe de mare"}
+{"i":131,"tr":"Ferme piscicole"}
+{"i":132,"tr":"Piața de pește"}
+{"i":133,"tr":"Sigilii flexibile, garnituri, furtunuri, curele, covoare, bucșe etc., fabricate din cauciuc sau materiale similare."}
+{"i":134,"tr":"Făină și amidon"}
+{"i":135,"tr":"Linie de curgere"}
+{"i":136,"tr":"Alimente"}
+{"i":137,"tr":"Alimente și băuturi"}
+{"i":138,"tr":"Aditivi alimentari"}
+{"i":139,"tr":"Corporație alimentară"}
+{"i":140,"tr":"Unitate de procesare alimentară"}
+{"i":141,"tr":"Alimente păstrate congelate în timpul transportului și depozitării."}
+{"i":142,"tr":"Pentru uz casnic și de construcții. Unelte, ustensile, fixaje, accesorii, din metal și alte materiale."}
+{"i":143,"tr":"Pădure"}
+{"i":144,"tr":"Forjări și turnări"}
+{"i":145,"tr":"Congelatoare"}
+{"i":146,"tr":"Fructe proaspete și uscate, cum ar fi banane, citrice, struguri, fructe de pădure, ananas, stafide și altele similare."}
+{"i":147,"tr":"Fabrică de deserturi congelate"}
+{"i":148,"tr":"Alimente congelate"}
+{"i":149,"tr":"Unitate de procesare a alimentelor congelate"}
+{"i":150,"tr":"Plantație de fructe"}
+{"i":151,"tr":"Cuptor"}
+{"i":152,"tr":"GPL(v2)"}
+{"i":153,"tr":"GRFID"}
+{"i":154,"tr":"Magazin general"}
+{"i":155,"tr":"Argile generice, pentru producerea de materiale de construcție și alte utilizări industriale."}
+{"i":156,"tr":"Metale generice, cum ar fi oțelul, aluminiul sau alte metale comune."}
+{"i":157,"tr":"Produse chimice organice și anorganice generice, manipulate sub formă lichidă, gazoasă, vrac acoperit, pulbere sau ca mărfuri individuale."}
+{"i":158,"tr":"Grinzile"}
+{"i":159,"tr":"Produse din sticlă"}
+{"i":160,"tr":"Mărfuri"}
+{"i":161,"tr":"Cereale"}
+{"i":162,"tr":"Moară de cereale"}
+{"i":163,"tr":"Bolovani, nisip, piatră spartă și materiale similare utilizate în construcții."}
+{"i":164,"tr":"Nivelul de producție primară Gung-ho (%)"}
+{"i":165,"tr":"Feronerie și finisaje"}
+{"i":166,"tr":"Cooperativă de păstorit"}
+{"i":167,"tr":"Componente inginerești de mare valoare, cum ar fi echipamente electrice, motoare, transformatoare, echipamente de control, sisteme hidraulice, pneumatice, pompe, supape și echipamente pentru transmisia puterii."}
+{"i":168,"tr":"Piața de cai"}
+{"i":169,"tr":"Hotel"}
+{"i":170,"tr":"ID"}
+{"i":171,"tr":"Într-o țară caldă"}
+{"i":172,"tr":"Carburi industriale"}
+{"i":173,"tr":"Fabrică de substanțe chimice industriale"}
+{"i":174,"tr":"Gaze industriale"}
+{"i":175,"tr":"Parc industrial"}
+{"i":176,"tr":"Acid industrial utilizat în principal în producția de îngrășăminte și substanțe chimice, transportat ca lichid vrac."}
+{"i":177,"tr":"Acizi industriali, precum acidul clorhidric, azotic și sulfuric."}
+{"i":178,"tr":"Alcool industrial utilizat ca materie primă chimică și combustibil, transportat ca lichid vrac."}
+{"i":179,"tr":"Substanță chimică industrială, de obicei transportată criogenic sub formă de gaz comprimat lichefiat."}
+{"i":180,"tr":"Produs chimic industrial. Cunoscut și sub numele de Leșie sau Sodă Caustică. De obicei transportat sub formă lichidă."}
+{"i":181,"tr":"Produs chimic industrial. Sub formă de pulbere albă."}
+{"i":182,"tr":"Produse chimice industriale derivate din amoniac, cum ar fi amoniacul, acidul azotic și ureea. Transportate sub formă lichidă, criogenic sub formă de gaz lichefiat sau în vrac uscat."}
+{"i":183,"tr":"Produse chimice industriale utilizate în fabricație și prelucrare, transportate sub formă de lichide, pulberi, gaze sau bunuri ambalate."}
+{"i":184,"tr":"Gaz industrial. Transportat criogenic sub formă de gaz comprimat lichefiat."}
+{"i":185,"tr":"Gaze industriale utilizate în prelucrarea chimică, prelucrarea metalelor și sudură, transportate în cilindri sau în autocisterne presurizate."}
+{"i":186,"tr":"Mineral industrial, cunoscut și sub numele de Caolin, utilizat în principal în producția de hârtie și materiale plastice."}
+{"i":187,"tr":"Minerale industriale utilizate în prelucrarea chimică. Baritul este folosit în produsele chimice pe bază de bariu și ca umplutură; fluoritul în chimia fluorului și în fluxurile metalurgice."}
+{"i":188,"tr":"Lingouri."}
+{"i":189,"tr":"Ingrediente utilizate în prelucrarea alimentară, cum ar fi conservanți, arome, coloranți și adjuvanți de procesare."}
+{"i":190,"tr":"Pulbere de carbon de un negru intens, utilizată în anvelope, materiale plastice și pigmenți. Manipulată sub formă de pulbere."}
+{"i":191,"tr":"Produse chimice intermediare utilizate ca materii prime pentru prelucrări industriale ulterioare."}
+{"i":192,"tr":"Produse intermediare din zahăr pentru rafinare, fermentare și utilizări industriale. Granulele lipicioase sunt manipulate ca mărfuri vrac acoperite; siropul gros ca lichid; ambele pot fi ambalate."}
+{"i":193,"tr":"Motoare cu ardere internă și piese conexe ale grupului de transmisie, cum ar fi transmisia și axele de transmisie."}
+{"i":194,"tr":"Minerale de fier"}
+{"i":195,"tr":"Mină de minerale de fier"}
+{"i":196,"tr":"Piatră de fier"}
+{"i":197,"tr":"Cuptoare"}
+{"i":198,"tr":"Depozite de kimberlit"}
+{"i":199,"tr":"TEREN"}
+{"i":200,"tr":"Punct de debarcare"}
+{"i":201,"tr":"Hidrocarburi ușoare"}
+{"i":202,"tr":"Frații ușoare de petrol utilizate ca materii prime chimice, transportate ca lichide vrac."}
+{"i":203,"tr":"Calcar"}
+{"i":204,"tr":"Mină de calcar"}
+{"i":205,"tr":"Mine de calcar"}
+{"i":206,"tr":"Animale domestice"}
+{"i":207,"tr":"Depozit de bușteni"}
+{"i":208,"tr":"Bușteni"}
+{"i":209,"tr":"Bușteni dintr-o pădure."}
+{"i":210,"tr":"Tub lung, gol, cu secțiune transversală rotundă, rectangulară sau de alt tip. Folosit pentru fabricarea de structuri și mașinării."}
+{"i":211,"tr":"Țevi lungi, rotunde, din oțel, pentru transportul de lichide în conducte, clădiri, industrii etc."}
+{"i":212,"tr":"Mașinării, combustibil, piese, îngrășăminte și alte provizii pentru ferme, păduri și industrii similare."}
+{"i":213,"tr":"Mașinării, combustibil, piese, produse din lemn, țevi, explozibili și alte provizii pentru mine și industrii similare."}
+{"i":214,"tr":"Mașinării, piese, combustibil, materiale de construcție și alte provizii pentru porturi, docuri și industrii similare."}
+{"i":215,"tr":"Corespondență"}
+{"i":216,"tr":"Porumb"}
+{"i":217,"tr":"Mangan"}
+{"i":218,"tr":"Mină de mangan"}
+{"i":219,"tr":"Mine de mangan"}
+{"i":220,"tr":"Minerale de mangan, utilizate în principal în producția de oțel."}
+{"i":221,"tr":"Conac"}
+{"i":222,"tr":"Pajiști"}
+{"i":223,"tr":"Carne"}
+{"i":224,"tr":"Bară de comercianți"}
+{"i":225,"tr":"Atelier metalurgic"}
+{"i":226,"tr":"Piese metalice pentru asamblarea în obiecte mai mari."}
+{"i":227,"tr":"Articole metalice"}
+{"i":228,"tr":"Metanol"}
+{"i":229,"tr":"Mild Mild West"}
+{"i":230,"tr":"Moară"}
+{"i":231,"tr":"Măcini"}
+{"i":232,"tr":"Umpluturi minerale"}
+{"i":233,"tr":"Fabrică de umpluturi minerale"}
+{"i":234,"tr":"Minerale"}
+{"i":235,"tr":"Mine"}
+{"i":236,"tr":"În principal vaci, porci și oi pentru producția de carne. Pot fi consumate și alte animale."}
+{"i":237,"tr":"În principal latex natural."}
+{"i":238,"tr":"În principal camioane. Sau mașini. Sau camioane ușoare. Poate tractoare."}
+{"i":239,"tr":"Molde"}
+{"i":240,"tr":"Mină de nitrați"}
+{"i":241,"tr":"Nitrați"}
+{"i":242,"tr":"Azot"}
+{"i":243,"tr":"Metale neferoase, cum ar fi cuprul, nichelul, zincul și plumbul."}
+{"i":244,"tr":"Nuci"}
+{"i":245,"tr":"Ulei"}
+{"i":246,"tr":"Terminal de ulei și produse chimice"}
+{"i":247,"tr":"Rafinărie de ulei"}
+{"i":248,"tr":"Platformă petrolieră"}
+{"i":249,"tr":"Fântâni petroliere"}
+{"i":250,"tr":"Ulei pentru gătit și consum."}
+{"i":251,"tr":"Liveză și fermă de porci"}
+{"i":252,"tr":"Livezi"}
+{"i":253,"tr":"Oxigen"}
+{"i":254,"tr":"Ambalaje"}
+{"i":255,"tr":"Vopsele și acoperiri"}
+{"i":256,"tr":"Hârtie"}
+{"i":257,"tr":"Fabrică de hârtie"}
+{"i":258,"tr":"Fabrică de produse din hârtie"}
+{"i":259,"tr":"Pasageri"}
+{"i":260,"tr":"Turbă"}
+{"i":261,"tr":"Zone cu turbă"}
+{"i":262,"tr":"Benzină, motorină și combustibili similari."}
+{"i":263,"tr":"Fosfat"}
+{"i":264,"tr":"Mină de fosfați"}
+{"i":265,"tr":"Acid fosforic"}
+{"i":266,"tr":"Fontă"}
+{"i":267,"tr":"Atelier de țevi"}
+{"i":268,"tr":"Groapă"}
+{"i":269,"tr":"Fabrică"}
+{"i":270,"tr":"Instalații și mașini"}
+{"i":271,"tr":"Plantație"}
+{"i":272,"tr":"Fabrică de matrițe din plastic"}
+{"i":273,"tr":"Plastice și rășini"}
+{"i":274,"tr":"Rulou de plăci"}
+{"i":275,"tr":"Port"}
+{"i":276,"tr":"Potasă"}
+{"i":277,"tr":"Mină de potasă"}
+{"i":278,"tr":"Produse cerealiere sub formă de pulbere, cum ar fi făina și amidonul, transportate în saci sau în vrac, în containere acoperite."}
+{"i":279,"tr":"Centrală electrică"}
+{"i":280,"tr":"Fabrică de sisteme energetice"}
+{"i":281,"tr":"Echipamente motorizate și sisteme mecanice utilizate în clădiri, industrii și ferme. Transportate ca unități complete sau ca subansambluri majore."}
+{"i":282,"tr":"Grup motopropulsor"}
+{"i":283,"tr":"Elemente prefabricate"}
+{"i":284,"tr":"Componente de precizie"}
+{"i":285,"tr":"Fabrică de piese de precizie"}
+{"i":286,"tr":"Presări"}
+{"i":287,"tr":"Produse chimice de proces"}
+{"i":288,"tr":"Fabrică de substanțe chimice de proces"}
+{"i":289,"tr":"Fibră de lemn prelucrată, utilizată în principal pentru producția de hârtie, transportată sub formă de baloturi sau pulpă vrac."}
+{"i":290,"tr":"Produse din lemn prelucrate provenite de la o ferărie sau industrii similare."}
+{"i":291,"tr":"Ambalator de produse"}
+{"i":292,"tr":"Producția la ferme, mine și industrii similare atunci când cerințele de aprovizionare sunt îndeplinite (ca procent din nivelul de producție {SILVER}normal {BLACK})."}
+{"i":293,"tr":"Pompe"}
+{"i":294,"tr":"Pompe și supape"}
+{"i":295,"tr":"Zăcăminte de pirită"}
+{"i":296,"tr":"Mină de pirită"}
+{"i":297,"tr":"Minerale de pirită"}
+{"i":298,"tr":"Topitorie de pirită"}
+{"i":299,"tr":"Python 3.11+"}
+{"i":300,"tr":"Var nestins"}
+{"i":301,"tr":"Fermă"}
+{"i":302,"tr":"Zahăr brut și melasă"}
+{"i":303,"tr":"Boabe de cafea crude sau prăjite."}
+{"i":304,"tr":"Plastic brut pentru prelucrare ulterioară. De obicei transportat sub formă de mărgele de rășină."}
+{"i":305,"tr":"Armătură metalică"}
+{"i":306,"tr":"Aluminiu rafinat, sub formă de role, lingouri, plăci etc."}
+{"i":307,"tr":"Cupru rafinat, sub formă de role, lingouri etc."}
+{"i":308,"tr":"Produse petroliere rafinate, cum ar fi benzină, motorină, kerosen, GPL, ulei combustibil și combustibil de buncăr, transportate ca lichide vrac sau gaz lichefiat."}
+{"i":309,"tr":"Rafinărie"}
+{"i":310,"tr":"Stâlpi pentru reni"}
+{"i":311,"tr":"Instalație de piatră de drum"}
+{"i":312,"tr":"Bară de oțel"}
+{"i":313,"tr":"Plăci și secțiuni de oțel laminat – grinzi I, grinzi H, profiluri U etc. Transportate ca produse lungi și drepte."}
+{"i":314,"tr":"Frânghii și cabluri produse prin tragerea barelor de sârmă de oțel la un diametru mai mic, apoi prin torsiunea lor în frânghii împletite."}
+{"i":315,"tr":"Turnături brute din oțel, care necesită prelucrare ulterioară. Lingourile pot fi mici sau foarte mari. Profilele tipice ale lingourilor sunt rectangulare sau rotunde."}
+{"i":316,"tr":"Cauciuc"}
+{"i":317,"tr":"Companie de cauciuc"}
+{"i":318,"tr":"Plantație de cauciuc"}
+{"i":319,"tr":"MARE"}
+{"i":320,"tr":"Sare"}
+{"i":321,"tr":"Saramurărie"}
+{"i":322,"tr":"Fabrică de salpetru"}
+{"i":323,"tr":"Banc de nisip"}
+{"i":324,"tr":"Găleată de fier"}
+{"i":325,"tr":"Fructe de mare"}
+{"i":326,"tr":"Sigilii și furtunuri"}
+{"i":327,"tr":"Sigilii, furtunuri și curele"}
+{"i":328,"tr":"Tornare de secțiuni și bare"}
+{"i":329,"tr":"Turnături din oțel semifabricate. Întotdeauna plate și rectangulare în secțiune transversală."}
+{"i":330,"tr":"Turnături din oțel semifabricate. Rectangulare, pătrate sau rotunde în secțiune transversală."}
+{"i":331,"tr":"Strada Sharp"}
+{"i":332,"tr":"Răpănișuri"}
+{"i":333,"tr":"Fasadă pe mal"}
+{"i":334,"tr":"Silo"}
+{"i":335,"tr":"Economie simplă. Inspirată de Argentina, Peru și Chile. Cel mai bine se folosește cu un climat subtropical."}
+{"i":336,"tr":"Economie simplă. Inspirată de Finlanda, nordul Canadei și nordul Siberiei. Cel mai bine utilizată cu un climat subarctic."}
+{"i":337,"tr":"Economie simplă. Inspirată de sud-vestul Regatului Unit. Cel mai bine utilizată cu un climat temperat."}
+{"i":338,"tr":"Curte de blocuri"}
+{"i":339,"tr":"Scorie"}
+{"i":340,"tr":"Fabrică de măcinare a scoriei"}
+{"i":341,"tr":"Fornal de topire"}
+{"i":342,"tr":"Cenușă de sodă"}
+{"i":343,"tr":"Mină de cenușă de sodă"}
+{"i":344,"tr":"Hidroxid de sodiu"}
+{"i":345,"tr":"Fornal de funingine"}
+{"i":346,"tr":"Supe"}
+{"i":347,"tr":"Materiale speciale pe bază de carbon, cum ar fi cocsul petrolier calcinat, smoala, gudronele de înaltă valoare și negrul de carbon, utilizate în procese metalurgice și chimice."}
+{"i":348,"tr":"Oțel"}
+{"i":349,"tr":"Fierărie și turnătorie de oțel"}
+{"i":350,"tr":"Lingouri de oțel"}
+{"i":351,"tr":"Oțelărie"}
+{"i":352,"tr":"Țeavă de oțel"}
+{"i":353,"tr":"Placă de oțel"}
+{"i":354,"tr":"Foile și benzile de oțel"}
+{"i":355,"tr":"Slab de oțel"}
+{"i":356,"tr":"Tub de oțel"}
+{"i":357,"tr":"Bară de sârmă de oțel"}
+{"i":358,"tr":"Bare de oțel, sub formă de rotunde, pătrate, plate și alte profiluri. Transportate ca produse lungi și drepte."}
+{"i":359,"tr":"Sârmă de oțel și bare subțiri. Transportate în principal sub formă de role."}
+{"i":360,"tr":"Maeștri ai oțelului"}
+{"i":361,"tr":"Orașul oțelului"}
+{"i":362,"tr":"Rezervoare de stocare și conducte"}
+{"i":363,"tr":"Rezervoare de stocare, vase sub presiune, silozuri, butelii de gaz și ansambluri de conducte, pentru utilizare în clădiri urbane, industrii și ferme."}
+{"i":364,"tr":"Magazine"}
+{"i":365,"tr":"Rulou de laminare"}
+{"i":366,"tr":"Oțel structural"}
+{"i":367,"tr":"Oțel de calitate structurală sub formă de secțiuni laminate (grinzi I, grinzi H etc.), plăci plate sau secțiuni și grinzi fabricate, sudate din plăci."}
+{"i":368,"tr":"Zahăr"}
+{"i":369,"tr":"Compania de zahăr"}
+{"i":370,"tr":"Minerale de sulfură, topite pentru a produce o varietate de produse industriale."}
+{"i":371,"tr":"Sulf"}
+{"i":372,"tr":"Acid sulfuric"}
+{"i":373,"tr":"Materiale pentru tăierea și sudarea metalelor, cum ar fi electrozi de sudură, unelte și gaze industriale, inclusiv acetilenă, argon, propan, oxigen și azot."}
+{"i":374,"tr":"Curte de aprovizionare"}
+{"i":375,"tr":"Lăzi de aprovizionare necesare pentru producția primară îmbunătățită (implicit 16)"}
+{"i":376,"tr":"Lăzi de aprovizionare necesare pentru producția primară Gung-ho (implicit 80)"}
+{"i":377,"tr":"Depozit de rezervoare"}
+{"i":378,"tr":"Șopârlă pentru taponare"}
+{"i":379,"tr":"Temperat de bază"}
+{"i":380,"tr":"Produs petrolier gros, utilizat în principal pentru acoperirea drumurilor și a acoperișurilor."}
+{"i":381,"tr":"Foaie și bandă subțire de oțel laminat, utilizate pe scară largă pentru fabricarea altor produse. Transportate sub formă de foi plate sau de role."}
+{"i":382,"tr":"Bare subțiri de oțel brut, utilizate pe scară largă pentru a armă structuri de beton. Transportate sub formă de role sau de pachete de bare drepte."}
+{"i":383,"tr":"Foaie subțire de oțel acoperită cu staniu pentru rezistență la coroziune, utilizată în principal pentru conserve, recipiente și alte ambalaje."}
+{"i":384,"tr":"Produse din lemn"}
+{"i":385,"tr":"Staniu"}
+{"i":386,"tr":"Mină de staniu"}
+{"i":387,"tr":"Tablă de staniu"}
+{"i":388,"tr":"Fabrică de tablă de staniu"}
+{"i":389,"tr":"Fabrică de vehicule pe șine"}
+{"i":390,"tr":"Post comercial"}
+{"i":391,"tr":"Zăcăminte de trona"}
+{"i":392,"tr":"Tropic Basic"}
+{"i":393,"tr":"Parcare pentru camioane"}
+{"i":394,"tr":"Fabrică de tuburi și conducte"}
+{"i":395,"tr":"Fabrică de tuburi"}
+{"i":396,"tr":"Cord de anvelopă"}
+{"i":397,"tr":"Fabrică de anvelope"}
+{"i":398,"tr":"Anvelope"}
+{"i":399,"tr":"Utilizat în producția de aliaje și oțel inoxidabil, un aliaj de crom și fier. Bucăți gri, asemănătoare ca mărime și formă cu bucățile de cărbune."}
+{"i":400,"tr":"Utilizat în producția de oțel. Aliaje de fier și alte elemente, inclusiv mangan, nichel, crom, aluminiu, siliciu și tungsten. Bucăți gri, asemănătoare ca mărime și formă cu bucățile de cărbune."}
+{"i":401,"tr":"Legume"}
+{"i":402,"tr":"Caroserii de vehicule"}
+{"i":403,"tr":"Distribuitor de vehicule"}
+{"i":404,"tr":"Piese de vehicule"}
+{"i":405,"tr":"Vehicule"}
+{"i":406,"tr":"Viță de vie"}
+{"i":407,"tr":"Produs rezidual din producția de fier și oțel."}
+{"i":408,"tr":"Lângă apă"}
+{"i":409,"tr":"Consumabile de sudură"}
+{"i":410,"tr":"Fântâni"}
+{"i":411,"tr":"Chei"}
+{"i":412,"tr":"Mină veche"}
+{"i":413,"tr":"Grâu, orz etc."}
+{"i":414,"tr":"Pudră albă rafinată din minereu de bauxită, folosită pentru a produce metal de aluminiu."}
+{"i":415,"tr":"Rocă de sulfat de calciu albă, gri sau maro, folosită în producția de acid sulfuric și ciment. Adesea transportată în vrac, în vagonete acoperite."}
+{"i":416,"tr":"Produs chimic industrial utilizat pe scară largă. De un galben intens, sub formă de pudră sau lichid."}
+{"i":417,"tr":"Produs chimic industrial utilizat pe scară largă. De obicei transportat ca marfă vrac care trebuie menținută uscată."}
+{"i":418,"tr":"Crama"}
+{"i":419,"tr":"Oțelărie de tije"}
+{"i":420,"tr":"Pulpă de lemn"}
+{"i":421,"tr":"Lucrări"}
+{"i":422,"tr":"Zinc"}
+{"i":423,"tr":"Mină de zinc"}
+{"i":424,"tr":"Minerale de zinc"}
+{"i":425,"tr":"Topitorie de zinc"}
+{"i":426,"tr":"{BLACK}Producție curentă: {YELLOW}Îmbunătățită {}{}{BLACK}Pentru a menține acest nivel, livrează {SIGNED_WORD} lăzi cu provizii cel puțin o dată la trei minute.{}Pentru o producție {WHITE}Gung-ho {BLACK}, livrează {SIGNED_WORD} lăzi."}
+{"i":427,"tr":"{BLACK}Producție curentă: {YELLOW}Îmbunătățită {}{}{BLACK}Pentru a menține acest nivel, livrează {SIGNED_WORD} unități de marfă cel puțin o dată la trei minute.{}Pentru o producție {WHITE}Gung-ho {BLACK}, livrează {SIGNED_WORD} unități."}
+{"i":428,"tr":"{BLACK}Producție curentă: {YELLOW}Gung-ho {}{}{BLACK}Pentru a menține acest nivel, livrează {SKIP}{SIGNED_WORD} lăzi cu provizii cel puțin o dată la trei minute."}
+{"i":429,"tr":"{BLACK}Producție curentă: {YELLOW}Gung-ho {}{}{BLACK}Pentru a menține acest nivel, livrează {SKIP}{SIGNED_WORD} unități de marfă cel puțin o dată la trei minute."}
+{"i":430,"tr":"{BLACK}Producție curentă: {YELLOW}Normală {}{}{BLACK}Pentru o producție {WHITE}Îmbunătățită {BLACK}, livrează {SIGNED_WORD} lăzi cu provizii cel puțin o dată la trei minute.{}Pentru o producție {WHITE}Gung-ho {BLACK}, livrează {SIGNED_WORD} lăzi."}
+{"i":431,"tr":"{BLACK}Producție curentă: {YELLOW}Normală {}{}{BLACK}Pentru o producție {WHITE}Îmbunătățită {BLACK}, livrează {SIGNED_WORD} unități de marfă cel puțin o dată la trei minute.{}Pentru o producție {WHITE}Gung-ho {BLACK}, livrează {SIGNED_WORD} unități."}
+{"i":432,"tr":"{BLACK}Pentru o rată maximă de producție, furnizați {WHITE}toate {BLACK}marfurile necesare cel puțin o dată la fiecare trei minute."}
+{"i":433,"tr":"{BLACK}Pentru o rată maximă de producție, furnizați {WHITE}cel puțin trei {BLACK}marfuri necesare cel puțin o dată la fiecare trei minute."}
+{"i":434,"tr":"{BLACK}Pentru o rată maximă de producție, furnizați {WHITE}cel puțin două {BLACK}marfuri necesare cel puțin o dată la fiecare trei minute."}
+{"i":435,"tr":"{BLACK}Pentru o rată maximă de producție, furnizați {WHITE}ambele {BLACK}marfuri necesare cel puțin o dată la fiecare trei minute."}
+{"i":436,"tr":"{BLACK}Producția este proporțională cu populația orașului. Se vor produce cel puțin {WHITE}{SIGNED_WORD} unități{BLACK} și cel mult {WHITE}{SIGNED_WORD} unități{BLACK} de marfă în fiecare minut."}
+{"i":437,"tr":"{BLACK}Furnizați {WHITE}cel puțin o {BLACK} marfă necesară pentru producție maximă."}
+{"i":438,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":439,"tr":"{ORANGE}E00: CIRS necesită OpenTTD 1.7.0 (sau, pentru cei care folosesc versiuni trunk, r27769)"}
+{"i":440,"tr":"{ORANGE}E01: {YELLOW}Set incompatibil: {ORANGE}{STRING}"}
+{"i":441,"tr":"{ORANGE}E02: {YELLOW}Parametru incompatibil: {ORANGE}Parametrul CanSet 2 trebuie să fie 0 pentru a funcționa cu CIRS."}
+{"i":442,"tr":"{ORANGE}E02: {YELLOW}Parametru incompatibil: {ORANGE}Parametrul 2 al setului NA City trebuie să fie 0 pentru a funcționa cu CIRS."}
+{"i":443,"tr":"{ORANGE}E04: {YELLOW}Versiune incompatibilă: {ORANGE}Total Town Replacement Set trebuie să fie versiunea 3.11 sau mai nouă."}
+{"i":444,"tr":"{TINYFONT}AA"}
+{"i":445,"tr":"{TINYFONT}AC"}
+{"i":446,"tr":"{TINYFONT}AG"}
+{"i":447,"tr":"{TINYFONT}AM"}
+{"i":448,"tr":"{TINYFONT}AO"}
+{"i":449,"tr":"{TINYFONT}AP"}
+{"i":450,"tr":"{TINYFONT}AY"}
+{"i":451,"tr":"{TINYFONT}BB"}
+{"i":452,"tr":"{TINYFONT}BI"}
+{"i":453,"tr":"{TINYFONT}BN"}
+{"i":454,"tr":"{TINYFONT}CA"}
+{"i":455,"tr":"{TINYFONT}CB"}
+{"i":456,"tr":"{TINYFONT}CE"}
+{"i":457,"tr":"{TINYFONT}CF"}
+{"i":458,"tr":"{TINYFONT}CH"}
+{"i":459,"tr":"{TINYFONT}CI"}
+{"i":460,"tr":"{TINYFONT}CK"}
+{"i":461,"tr":"{TINYFONT}CN"}
+{"i":462,"tr":"{TINYFONT}CO"}
+{"i":463,"tr":"{TINYFONT}CP"}
+{"i":464,"tr":"{TINYFONT}CR"}
+{"i":465,"tr":"{TINYFONT}CT"}
+{"i":466,"tr":"{TINYFONT}EL"}
+{"i":467,"tr":"{TINYFONT}EO"}
+{"i":468,"tr":"{TINYFONT}EP"}
+{"i":469,"tr":"{TINYFONT}EX"}
+{"i":470,"tr":"{TINYFONT}FA"}
+{"i":471,"tr":"{TINYFONT}FL"}
+{"i":472,"tr":"{TINYFONT}FO"}
+{"i":473,"tr":"{TINYFONT}FV"}
+{"i":474,"tr":"{TINYFONT}GL"}
+{"i":475,"tr":"{TINYFONT}HW"}
+{"i":476,"tr":"{TINYFONT}IG"}
+{"i":477,"tr":"{TINYFONT}KA"}
+{"i":478,"tr":"{TINYFONT}LG"}
+{"i":479,"tr":"{TINYFONT}LH"}
+{"i":480,"tr":"{TINYFONT}LS"}
+{"i":481,"tr":"{TINYFONT}MA"}
+{"i":482,"tr":"{TINYFONT}MF"}
+{"i":483,"tr":"{TINYFONT}ML"}
+{"i":484,"tr":"{TINYFONT}MN"}
+{"i":485,"tr":"{TINYFONT}MO"}
+{"i":486,"tr":"{TINYFONT}N7"}
+{"i":487,"tr":"{TINYFONT}NA"}
+{"i":488,"tr":"{TINYFONT}NI"}
+{"i":489,"tr":"{TINYFONT}NT"}
+{"i":490,"tr":"{TINYFONT}O2"}
+{"i":491,"tr":"{TINYFONT}OC"}
+{"i":492,"tr":"{TINYFONT}PA"}
+{"i":493,"tr":"{TINYFONT}PC"}
+{"i":494,"tr":"{TINYFONT}PE"}
+{"i":495,"tr":"{TINYFONT}PG"}
+{"i":496,"tr":"{TINYFONT}PH"}
+{"i":497,"tr":"{TINYFONT}PI"}
+{"i":498,"tr":"{TINYFONT}PL"}
+{"i":499,"tr":"{TINYFONT}PM"}
+{"i":500,"tr":"{TINYFONT}PT"}
+{"i":501,"tr":"{TINYFONT}PV"}
+{"i":502,"tr":"{TINYFONT}PW"}
+{"i":503,"tr":"{TINYFONT}PY"}
+{"i":504,"tr":"{TINYFONT}QL"}
+{"i":505,"tr":"{TINYFONT}RB"}
+{"i":506,"tr":"{TINYFONT}SA"}
+{"i":507,"tr":"{TINYFONT}SD"}
+{"i":508,"tr":"{TINYFONT}SE"}
+{"i":509,"tr":"{TINYFONT}SG"}
+{"i":510,"tr":"{TINYFONT}SH"}
+{"i":511,"tr":"{TINYFONT}SI"}
+{"i":512,"tr":"{TINYFONT}SL"}
+{"i":513,"tr":"{TINYFONT}SO"}
+{"i":514,"tr":"{TINYFONT}SP"}
+{"i":515,"tr":"{TINYFONT}STSW"}
+{"i":516,"tr":"{TINYFONT}SU"}
+{"i":517,"tr":"{TINYFONT}SW"}
+{"i":518,"tr":"{TINYFONT}SY"}
+{"i":519,"tr":"{TINYFONT}TC"}
+{"i":520,"tr":"{TINYFONT}TI"}
+{"i":521,"tr":"{TINYFONT}TP"}
+{"i":522,"tr":"{TINYFONT}TY"}
+{"i":523,"tr":"{TINYFONT}VB"}
+{"i":524,"tr":"{TINYFONT}VE"}
+{"i":525,"tr":"{TINYFONT}VG"}
+{"i":526,"tr":"{TINYFONT}VP"}
+{"i":527,"tr":"{TINYFONT}VS"}
+{"i":528,"tr":"{TINYFONT}WP"}
+{"i":529,"tr":"{TINYFONT}WS"}
+{"i":530,"tr":"{TINYFONT}ZN"}
+{"i":531,"tr":"{TINYFONT}ZO"}
+{"i":532,"tr":"{VOLUME} de acid"}
+{"i":533,"tr":"{VOLUME} de amoniac și produse nitrice"}
+{"i":534,"tr":"{VOLUME} de bitum"}
+{"i":535,"tr":"{VOLUME} de intermediari chimici"}
+{"i":536,"tr":"{VOLUME} de clor"}
+{"i":537,"tr":"{VOLUME} de smoală de cărbune"}
+{"i":538,"tr":"{VOLUME} de ulei comestibil"}
+{"i":539,"tr":"{VOLUME} de gaze industriale"}
+{"i":540,"tr":"{VOLUME} de hidrocarburi ușoare"}
+{"i":541,"tr":"{VOLUME} de metanol"}
+{"i":542,"tr":"{VOLUME} de azot"}
+{"i":543,"tr":"{VOLUME} de oxigen"}
+{"i":544,"tr":"{VOLUME} de vopsele și acoperiri"}
+{"i":545,"tr":"{VOLUME} de acid fosforic"}
+{"i":546,"tr":"{VOLUME} de hidroxid de sodiu"}
+{"i":547,"tr":"{VOLUME} de acid sulfuric"}
+{"i":548,"tr":"{WEIGHT} de agregate"}
+{"i":549,"tr":"{WEIGHT} de alumina"}
+{"i":550,"tr":"{WEIGHT} de aluminiu"}
+{"i":551,"tr":"{WEIGHT} de rocă anhidritică"}
+{"i":552,"tr":"{WEIGHT} de mere"}
+{"i":553,"tr":"{WEIGHT} de bariți și fluorit"}
+{"i":554,"tr":"{WEIGHT} de fasole"}
+{"i":555,"tr":"{WEIGHT} de buturi și lingouri"}
+{"i":556,"tr":"{WEIGHT} de negru de carbon"}
+{"i":557,"tr":"{WEIGHT} de manioc"}
+{"i":558,"tr":"{WEIGHT} de fontă"}
+{"i":559,"tr":"{WEIGHT} de ciment"}
+{"i":560,"tr":"{WEIGHT} de argilă chinezească"}
+{"i":561,"tr":"{WEIGHT} de agenți de curățare"}
+{"i":562,"tr":"{WEIGHT} de cocs"}
+{"i":563,"tr":"{WEIGHT} de produse din beton"}
+{"i":564,"tr":"{WEIGHT} de cupru"}
+{"i":565,"tr":"{WEIGHT} de piese electrice"}
+{"i":566,"tr":"{WEIGHT} de motoare și transmisii"}
+{"i":567,"tr":"{WEIGHT} de explozivi"}
+{"i":568,"tr":"{WEIGHT} de feroaliaje"}
+{"i":569,"tr":"{WEIGHT} de îngrășământ"}
+{"i":570,"tr":"{WEIGHT} de pește și fructe de mare"}
+{"i":571,"tr":"{WEIGHT} de făină și amidon"}
+{"i":572,"tr":"{WEIGHT} de alimente și băuturi"}
+{"i":573,"tr":"{WEIGHT} de aditivi alimentari"}
+{"i":574,"tr":"{WEIGHT} de piese forjate și turnate"}
+{"i":575,"tr":"{WEIGHT} de alimente congelate"}
+{"i":576,"tr":"{WEIGHT} de produse din sticlă"}
+{"i":577,"tr":"{WEIGHT} de mărfuri"}
+{"i":578,"tr":"{WEIGHT} de feronerie și finisaje"}
+{"i":579,"tr":"{WEIGHT} de carbon industrial"}
+{"i":580,"tr":"{WEIGHT} de calcar"}
+{"i":581,"tr":"{WEIGHT} de bușteni"}
+{"i":582,"tr":"{WEIGHT} de mangan"}
+{"i":583,"tr":"{WEIGHT} de carne"}
+{"i":584,"tr":"{WEIGHT} de bară comercială"}
+{"i":585,"tr":"{WEIGHT} de umpluturi minerale"}
+{"i":586,"tr":"{WEIGHT} de nitrați"}
+{"i":587,"tr":"{WEIGHT} de nuci"}
+{"i":588,"tr":"{WEIGHT} de ambalaj"}
+{"i":589,"tr":"{WEIGHT} de turbă"}
+{"i":590,"tr":"{WEIGHT} de fosfat"}
+{"i":591,"tr":"{WEIGHT} de fontă"}
+{"i":592,"tr":"{WEIGHT} de instalații și mașini"}
+{"i":593,"tr":"{WEIGHT} de plastice și rășini"}
+{"i":594,"tr":"{WEIGHT} de potaș"}
+{"i":595,"tr":"{WEIGHT} de componente de precizie"}
+{"i":596,"tr":"{WEIGHT} de substanțe chimice de proces"}
+{"i":597,"tr":"{WEIGHT} de pompe și supape"}
+{"i":598,"tr":"{WEIGHT} de minereu de pirită"}
+{"i":599,"tr":"{WEIGHT} de var nestins"}
+{"i":600,"tr":"{WEIGHT} de zahăr brut și melasă"}
+{"i":601,"tr":"{WEIGHT} de armătură"}
+{"i":602,"tr":"{WEIGHT} de sare"}
+{"i":603,"tr":"{WEIGHT} de etanșanți, furtunuri și curele"}
+{"i":604,"tr":"{WEIGHT} de zgură"}
+{"i":605,"tr":"{WEIGHT} de cenușă de sodă"}
+{"i":606,"tr":"{WEIGHT} de oțel"}
+{"i":607,"tr":"{WEIGHT} de lingouri de oțel"}
+{"i":608,"tr":"{WEIGHT} de țeavă de oțel"}
+{"i":609,"tr":"{WEIGHT} de placă de oțel"}
+{"i":610,"tr":"{WEIGHT} de foaie și bandă de oțel"}
+{"i":611,"tr":"{WEIGHT} de slabă de oțel"}
+{"i":612,"tr":"{WEIGHT} de tub de oțel"}
+{"i":613,"tr":"{WEIGHT} de bară de sârmă de oțel"}
+{"i":614,"tr":"{WEIGHT} de rezervoare de stocare și conducte"}
+{"i":615,"tr":"{WEIGHT} de oțel structural"}
+{"i":616,"tr":"{WEIGHT} de sulf"}
+{"i":617,"tr":"{WEIGHT} de produse din lemn"}
+{"i":618,"tr":"{WEIGHT} de staniu"}
+{"i":619,"tr":"{WEIGHT} de tablă de staniu"}
+{"i":620,"tr":"{WEIGHT} de cord pentru anvelope"}
+{"i":621,"tr":"{WEIGHT} de anvelope"}
+{"i":622,"tr":"{WEIGHT} de legume"}
+{"i":623,"tr":"{WEIGHT} de caroserii de vehicule"}
+{"i":624,"tr":"{WEIGHT} din piesele vehiculului"}
+{"i":625,"tr":"{WEIGHT} din vehicule"}
+{"i":626,"tr":"{WEIGHT} din consumabile de sudură"}
+{"i":627,"tr":"{WEIGHT} din pulpă de lemn"}
+{"i":628,"tr":"{WEIGHT} din zinc"}
+{"i":629,"tr":"{WEIGHT} din minereu de zinc"}
+{"i":630,"tr":"{WEIGHT} sac{P 0 \"\" s} de cafea"}
+{"i":631,"tr":"{}{BLACK}Locație: {YELLOW}Poate fi finanțat doar pe zăpadă."}

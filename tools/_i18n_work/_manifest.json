@@ -1,0 +1,192 @@
+{
+ "afrikaans": {
+  "display": "Afrikaans",
+  "unique": 610,
+  "refs": 629
+ },
+ "arabic": {
+  "display": "Arabic (العربية)",
+  "unique": 692,
+  "refs": 859
+ },
+ "belarusian": {
+  "display": "Belarusian (Беларуская)",
+  "unique": 432,
+  "refs": 446
+ },
+ "catalan": {
+  "display": "Catalan (Català)",
+  "unique": 597,
+  "refs": 616
+ },
+ "croatian": {
+  "display": "Croatian (Hrvatski)",
+  "unique": 440,
+  "refs": 455
+ },
+ "czech": {
+  "display": "Czech (Čeština)",
+  "unique": 452,
+  "refs": 466
+ },
+ "danish": {
+  "display": "Danish (Dansk)",
+  "unique": 613,
+  "refs": 633
+ },
+ "dutch": {
+  "display": "Dutch (Nederlands)",
+  "unique": 454,
+  "refs": 471
+ },
+ "esperanto": {
+  "display": "Esperanto",
+  "unique": 633,
+  "refs": 654
+ },
+ "estonian": {
+  "display": "Estonian (Eesti)",
+  "unique": 615,
+  "refs": 634
+ },
+ "finnish": {
+  "display": "Finnish (Suomi)",
+  "unique": 443,
+  "refs": 457
+ },
+ "french": {
+  "display": "French (Français)",
+  "unique": 234,
+  "refs": 255
+ },
+ "gaelic": {
+  "display": "Scottish Gaelic (Gàidhlig)",
+  "unique": 663,
+  "refs": 684
+ },
+ "galician": {
+  "display": "Galician (Galego)",
+  "unique": 363,
+  "refs": 373
+ },
+ "german": {
+  "display": "German (Deutsch)",
+  "unique": 263,
+  "refs": 284
+ },
+ "hungarian": {
+  "display": "Hungarian (Magyar)",
+  "unique": 433,
+  "refs": 444
+ },
+ "indonesian": {
+  "display": "Indonesian (Bahasa Indonesia)",
+  "unique": 604,
+  "refs": 623
+ },
+ "italian": {
+  "display": "Italian (Italiano)",
+  "unique": 355,
+  "refs": 366
+ },
+ "japanese": {
+  "display": "Japanese (日本語)",
+  "unique": 643,
+  "refs": 665
+ },
+ "korean": {
+  "display": "Korean (한국어)",
+  "unique": 345,
+  "refs": 494
+ },
+ "latin": {
+  "display": "Latin (Latina)",
+  "unique": 560,
+  "refs": 579
+ },
+ "luxembourgish": {
+  "display": "Luxembourgish (Lëtzebuergesch)",
+  "unique": 498,
+  "refs": 516
+ },
+ "norwegian_bokmal": {
+  "display": "Norwegian Bokmål (Norsk bokmål)",
+  "unique": 479,
+  "refs": 496
+ },
+ "polish": {
+  "display": "Polish (Polski)",
+  "unique": 352,
+  "refs": 362
+ },
+ "portuguese": {
+  "display": "Portuguese (Português)",
+  "unique": 408,
+  "refs": 560
+ },
+ "portuguese_BR": {
+  "display": "Brazilian Portuguese (Português do Brasil)",
+  "unique": 605,
+  "refs": 624
+ },
+ "romanian": {
+  "display": "Romanian (Română)",
+  "unique": 632,
+  "refs": 654
+ },
+ "russian": {
+  "display": "Russian (Русский)",
+  "unique": 601,
+  "refs": 620
+ },
+ "serbian": {
+  "display": "Serbian (Српски)",
+  "unique": 565,
+  "refs": 584
+ },
+ "simplified_chinese": {
+  "display": "Simplified Chinese (简体中文)",
+  "unique": 429,
+  "refs": 438
+ },
+ "slovak": {
+  "display": "Slovak (Slovenčina)",
+  "unique": 552,
+  "refs": 570
+ },
+ "spanish": {
+  "display": "Spanish (Español)",
+  "unique": 255,
+  "refs": 275
+ },
+ "spanish_MX": {
+  "display": "Mexican Spanish (Español de México)",
+  "unique": 439,
+  "refs": 453
+ },
+ "swedish": {
+  "display": "Swedish (Svenska)",
+  "unique": 456,
+  "refs": 473
+ },
+ "tamil": {
+  "display": "Tamil (தமிழ்)",
+  "unique": 676,
+  "refs": 701
+ },
+ "traditional_chinese": {
+  "display": "Traditional Chinese (繁體中文)",
+  "unique": 551,
+  "refs": 564
+ },
+ "turkish": {
+  "display": "Turkish (Türkçe)",
+  "unique": 631,
+  "refs": 655
+ },
+ "welsh": {
+  "display": "Welsh (Cymraeg)",
+  "unique": 625,
+  "refs": 645
+ }
+}

@@ -1,0 +1,268 @@
+{
+ "stale": [
+  {
+   "lang": "dutch",
+   "file": "src/docs/lang/dutch.toml",
+   "key": "DOC_CC_OPEN_BULK",
+   "en": "Open Bulk",
+   "tr": "Open bulk",
+   "reasons": [
+    "english_case_only"
+   ],
+   "efirs": 0,
+   "tfirs": 0,
+   "ecirs": 0,
+   "tcirs": 0
+  },
+  {
+   "lang": "french",
+   "file": "src/docs/lang/french.toml",
+   "key": "DOC_ECO_INDUSTRIES",
+   "en": "{count} Industries",
+   "tr": "{count} industries",
+   "reasons": [
+    "english_case_only"
+   ],
+   "efirs": 0,
+   "tfirs": 0,
+   "ecirs": 0,
+   "tcirs": 0
+  },
+  {
+   "lang": "simplified_chinese",
+   "file": "src/docs/lang/simplified_chinese.toml",
+   "key": "DOC_GS_SETUP_B1_PREFIX",
+   "en": "Activate CIRS via the ",
+   "tr": "通过 ",
+   "reasons": [
+    "cirs_missing"
+   ],
+   "efirs": 0,
+   "tfirs": 0,
+   "ecirs": 1,
+   "tcirs": 0
+  },
+  {
+   "lang": "traditional_chinese",
+   "file": "src/docs/lang/traditional_chinese.toml",
+   "key": "DOC_GS_SETUP_B1_PREFIX",
+   "en": "Activate CIRS via the ",
+   "tr": "透過 ",
+   "reasons": [
+    "cirs_missing"
+   ],
+   "efirs": 0,
+   "tfirs": 0,
+   "ecirs": 1,
+   "tcirs": 0
+  }
+ ],
+ "grf_desc": [
+  {
+   "lang": "afrikaans",
+   "tr": "{ORANGE}CIRS-gemeenskapsbedryfsvervangingsstel{}{BLACK}’n deur die gemeenskap onderhoude vertakking van FIRS, oorspronklik deur andythenorth, FooBar, planetmaker, Terkhen en Yexo, met hulp van talle ander. {SILVER}Sien die webwerf vir meer inligting, insluitend hoe om CIRS te gebruik. {BLACK}Lisensie: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "arabic",
+   "tr": "{ORANGE}مجموعة CIRS البديلة للصناعات المجتمعية{}{BLACK}نسخة معدلة من FIRS يديرها المجتمع، أنشأها في الأصل andythenorth وFooBar وplanetmaker وTerkhen وYexo، بمساعدة الكثيرين غيرهم. {SILVER}راجع الموقع الإلكتروني لمزيد من المعلومات، بما في ذلك كيفية استخدام CIRS. {BLACK}الترخيص: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "belarusian",
+   "tr": "{ORANGE}Набор CIRS для замены аб’ектаў прамысловасці супольнасці{}{BLACK}Супольнасцю падтрымліваемая галіна FIRS, першапачаткова створаная andythenorth, FooBar, planetmaker, Terkhen і Yexo пры дапамозе многіх іншых аўтараў. {SILVER}Падрабязную інфармацыю, у тым ліку пра тое, як карыстацца CIRS, можна знайсці на сайце. {BLACK}Ліцэнзія: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "catalan",
+   "tr": "{ORANGE}Conjunt de substitució d'indústries comunitàries de CIRS{}{BLACK}Una bifurcació de FIRS mantinguda per la comunitat, creada originalment per andythenorth, FooBar, planetmaker, Terkhen i Yexo, amb l'ajuda de moltes altres persones. {SILVER}Consulteu el lloc web per obtenir més informació, inclosa la manera d'utilitzar CIRS. {BLACK}Llicència: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "croatian",
+   "tr": "{ORANGE}CIRS Zajednički komplet za zamjenu industrije{}{BLACK}Zajednički održavana forka FIRS-a, izvorno izrađena od strane andythenortha, FooBara, planetmakera, Terkhena i Yexoa, uz pomoć mnogih drugih. {SILVER}Za više informacija, uključujući upute za korištenje CIRS-a, pogledajte web-stranicu. {BLACK}Licenca: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "czech",
+   "tr": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}Komunitou udržovaná vidlička FIRS, původně vytvořená andythenorth, FooBar, planetmaker, Terkhen a Yexo s pomocí mnoha dalších. {SILVER}Další informace, včetně návodu na používání CIRS, najdete na webu. {BLACK}Licence: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "danish",
+   "tr": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En fællesskabsvedligeholdt forgrening af FIRS, oprindeligt udviklet af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se websiden for mere information, herunder hvordan CIRS bruges. {BLACK}Licens: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "dutch",
+   "tr": "{ORANGE}CIRS Community-Industrie-Ersatzset{}{BLACK}Een door de community onderhouden fork van FIRS, oorspronkelijk gemaakt door andythenorth, FooBar, planetmaker, Terkhen en Yexo, met hulp van vele anderen. {SILVER}Zie de website voor meer informatie, inclusief hoe je CIRS kunt gebruiken. {BLACK}Licentie: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "esperanto",
+   "tr": "{ORANGE}CIRS Komunuma Industria Anstataŭiga Aro{}{BLACK}Komunume prizorgata forko de FIRS, origine kreita de andythenorth, FooBar, planetmaker, Terkhen kaj Yexo, kun helpo de multaj aliaj. {SILVER}Vidu la retejon por pli da informoj, inkluzive de kiel uzi CIRS. {BLACK}Licenco: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "estonian",
+   "tr": "{ORANGE}CIRS-i kogukonna tööstuse asendussett{}{BLACK}Kogukonna hooldatav FIRS-i harg, mille algseid autorid olid andythenorth, FooBar, planetmaker, Terkhen ja Yexo ning mille loomisel aitasid paljud teised. {SILVER}Vaadake veebisaiti lisateabe saamiseks, sealhulgas selle kohta, kuidas CIRS-i kasutada. {BLACK}Litsents: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "finnish",
+   "tr": "{ORANGE}CIRS-yhteisöteollisuuden korvaussetti{}{BLACK}Yhteisön ylläpitämä FIRS-haara, jonka ovat alun perin kehittäneet andythenorth, FooBar, planetmaker, Terkhen ja Yexo monien muiden avustuksella. {SILVER}Katso verkkosivusto saadaksesi lisätietoja, myös siitä, miten CIRS:ää käytetään. {BLACK}Lisenssi: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "french",
+   "tr": "{ORANGE}CIRS - Ensemble d’industries communautaires de remplacement{}{BLACK}Fork maintenu par la communauté de FIRS, à l’origine par andythenorth, FooBar, planetmaker, Terkhen et Yexo, avec l’aide de nombreux autres. {SILVER}Consultez le site web pour plus d’informations, y compris comment utiliser CIRS. {BLACK}Licence : GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "gaelic",
+   "tr": "{ORANGE}Seata Cur-a-steach Gnìomhachais Coimhearsnachd CIRS{}{BLACK}Forca de FIRS a tha air a chumail suas leis a’ choimhearsnachd, air a chruthachadh an toiseach le andythenorth, FooBar, planetmaker, Terkhen agus Yexo, le cuideachadh bho mhòran eile. {SILVER}Faic an làrach-lìn airson barrachd fiosrachaidh, a’ gabhail a-steach mar a chleachdas tu CIRS. {BLACK}Cead: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "galician",
+   "tr": "{ORANGE}Conxunto de substitución industrial comunitaria de CIRS{}{BLACK}Unha bifurcación de FIRS mantida pola comunidade, creada orixinalmente por andythenorth, FooBar, planetmaker, Terkhen e Yexo, coa axuda de moitas outras persoas. {SILVER}Consulta o sitio web para obter máis información, incluído como usar CIRS. {BLACK}Licenza: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "german",
+   "tr": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}Eine von der Community gepflegte Abspaltung von FIRS, ursprünglich von andythenorth, FooBar, planetmaker, Terkhen und Yexo, mit Hilfe vieler anderer. {SILVER}Weitere Informationen, einschließlich der Verwendung von CIRS, findest du auf der Website. {BLACK}Lizenz: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "hungarian",
+   "tr": "{ORANGE}CIRS Közösségi Ipari Pótlócsomag{}{BLACK}A FIRS közösség által karbantartott ága, amelyet eredetileg andythenorth, FooBar, planetmaker, Terkhen és Yexo készített, számos más személy segítségével. {SILVER}További információért, köztük a CIRS használatának módjáról is, lásd a weboldalt. {BLACK}Licenc: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "indonesian",
+   "tr": "{ORANGE}Set Pengganti Industri Komunitas CIRS{}{BLACK}Sebuah cabang FIRS yang dikelola komunitas, yang awalnya dibuat oleh andythenorth, FooBar, planetmaker, Terkhen, dan Yexo, dengan bantuan dari banyak pihak lainnya. {SILVER}Lihat situs web untuk informasi lebih lanjut, termasuk cara menggunakan CIRS. {BLACK}Lisensi: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "italian",
+   "tr": "{ORANGE}CIRS – Set di sostituzione per industrie comunitarie{}{BLACK}Un fork di FIRS mantenuto dalla comunità, originariamente creato da andythenorth, FooBar, planetmaker, Terkhen e Yexo, con l’aiuto di molte altre persone. {SILVER}Consulta il sito web per maggiori informazioni, incluso come utilizzare CIRS. {BLACK}Licenza: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "japanese",
+   "tr": "{ORANGE}CIRS コミュニティ産業代替セット{}{BLACK}FIRSのコミュニティによるフォークで、元々は andythenorth、FooBar、planetmaker、Terkhen、Yexoによって作成され、多くの人々の協力も得ています。{SILVER}CIRSの使い方など、詳細はウェブサイトをご覧ください。{BLACK}ライセンス: GPL v2。",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "korean",
+   "tr": "{ORANGE}CIRS 커뮤니티 산업 교체 세트{}{BLACK}커뮤니티에서 유지 관리하는 FIRS의 포크로, 원래 andythenorth, FooBar, planetmaker, Terkhen, Yexo가 개발했으며 많은 다른 사람들의 도움을 받았습니다. {SILVER}CIRS 사용법을 포함한 더 자세한 정보는 웹사이트를 참조하세요. {BLACK}라이선스: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "latin",
+   "tr": "{ORANGE}CIRS Complementum Industrialium Communium Substitutionis{}{BLACK}Ramus FIRS a communitate curatus, initio ab andythenorth, FooBar, planetmaker, Terkhen et Yexo creatus, plurimorum aliorum auxilio. {SILVER}Plura cognoscere, inter quae etiam quomodo CIRS adhibendum sit, in situ interretiali vide. {BLACK}Licentia: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "luxembourgish",
+   "tr": "{ORANGE}CIRS Community-Industrie-Ersatzset{}{BLACK}Eng vun der Communautéit gewartete Fork vu FIRS, ursprénglech vun andythenorth, FooBar, planetmaker, Terkhen an Yexo entwéckelt, mat Hëllef vu villeenen aneren. {SILVER}Kuckt d'Website fir méi Informatiounen, dorënner wéi een CIRS benotzt. {BLACK}Lizenz: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "norwegian_bokmal",
+   "tr": "{ORANGE}CIRS – samfunnets industriutskiftingspakke{}{BLACK}En fellesskapsvedlikeholdt forgrening av FIRS, opprinnelig utviklet av andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjelp fra mange andre. {SILVER}Se nettsiden for mer informasjon, inkludert hvordan du bruker CIRS. {BLACK}Lisens: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "polish",
+   "tr": "{ORANGE}Zestaw zastępczy dla społeczności przemysłowej CIRS{}{BLACK}Wspólnotowo utrzymywany fork projektu FIRS, pierwotnie stworzony przez andythenorth, FooBar, planetmaker, Terkhen i Yexo, przy wsparciu wielu innych osób. {SILVER}Zobacz stronę internetową, aby uzyskać więcej informacji, w tym o tym, jak korzystać z CIRS. {BLACK}Licencja: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "portuguese",
+   "tr": "{ORANGE}Conjunto CIRS de Substituição de Indústrias da Comunidade{}{BLACK}Um fork da FIRS mantido pela comunidade, originalmente por andythenorth, FooBar, planetmaker, Terkhen e Yexo, com a ajuda de muitos outros. {SILVER}Veja o site para mais informações, incluindo como usar o CIRS. {BLACK}Licença: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "portuguese_BR",
+   "tr": "{ORANGE}Conjunto de Substituição de Indústrias Comunitárias CIRS{}{BLACK}Um fork do FIRS mantido pela comunidade, originalmente criado por andythenorth, FooBar, planetmaker, Terkhen e Yexo, com a ajuda de muitas outras pessoas. {SILVER}Consulte o site para obter mais informações, incluindo como usar o CIRS. {BLACK}Licença: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "romanian",
+   "tr": "{ORANGE}Setul comunitar de înlocuire a industriilor CIRS{}{BLACK}O ramură întreținută de comunitate a FIRS, creată inițial de andythenorth, FooBar, planetmaker, Terkhen și Yexo, cu ajutorul multor alții. {SILVER}Consultați site-ul web pentru mai multe informații, inclusiv despre cum să utilizați CIRS. {BLACK}Licență: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "russian",
+   "tr": "{ORANGE}Набор CIRS для замены объектов промышленности в сообществе{}{BLACK}Общественно поддерживаемая вилка FIRS, первоначально созданная andythenorth, FooBar, planetmaker, Terkhen и Yexo при помощи многих других. {SILVER}См. веб-сайт для получения дополнительной информации, в том числе о том, как использовать CIRS. {BLACK}Лицензия: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "serbian",
+   "tr": "{ORANGE}CIRS Заменски сет за заједничку индустрију{}{BLACK}Форк FIRS-а који одржава заједница, а који су првобитно направили andythenorth, FooBar, planetmaker, Terkhen и Yexo, уз помоћ многих других. {SILVER}Погледајте веб-сајт за више информација, укључујући како да користите CIRS. {BLACK}Лиценца: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "simplified_chinese",
+   "tr": "{ORANGE}CIRS 社区工业替换套装{}{BLACK}一个由社区维护的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 开发，并得到了许多其他人的帮助。{SILVER}请访问网站了解更多信息，包括如何使用 CIRS。{BLACK}许可证：GPL v2。",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "slovak",
+   "tr": "{ORANGE}Kompletná sada nahradenia priemyslu CIRS{}{BLACK}Komunitou udržiavaná odnož FIRS, pôvodne vytvorená používateľmi andythenorth, FooBar, planetmaker, Terkhen a Yexo, s pomocou mnohých ďalších. {SILVER}Viac informácií vrátane návodu na používanie CIRS nájdete na webovej stránke. {BLACK}Licencia: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "spanish",
+   "tr": "{ORANGE}CIRS - Conjunto de Reemplazo de Industria Comunitaria{}{BLACK}Una bifurcación mantenida por la comunidad de FIRS, originalmente de andythenorth, FooBar, planetmaker, Terkhen y Yexo, con ayuda de muchos otros. {SILVER}Consulta el sitio web para más información, incluido cómo usar CIRS. {BLACK}Licencia: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "spanish_MX",
+   "tr": "{ORANGE}Conjunto de reemplazo de industrias comunitarias de CIRS{}{BLACK}Un fork de FIRS mantenido por la comunidad, creado originalmente por andythenorth, FooBar, planetmaker, Terkhen y Yexo, con la ayuda de muchas otras personas. {SILVER}Consulta el sitio web para obtener más información, incluido cómo usar CIRS. {BLACK}Licencia: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "swedish",
+   "tr": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En community-underhållen fork av FIRS, ursprungligen skapad av andythenorth, FooBar, planetmaker, Terkhen och Yexo, med hjälp från många andra. {SILVER}Se webbplatsen för mer information, inklusive hur man använder CIRS. {BLACK}Licens: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "tamil",
+   "tr": "{ORANGE}CIRS சமூகத் தொழில் மாற்றுத் தொகுப்பு{}{BLACK}FIRS-இன் சமூகம் பராமரிக்கும் ஃபோர்க் இது; இதை முதலில் andythenorth, FooBar, planetmaker, Terkhen மற்றும் Yexo ஆகியோர், பலரின் உதவியுடன் உருவாக்கினர். {SILVER}CIRS-ஐ எவ்வாறு பயன்படுத்துவது என்பது உட்பட கூடுதல் தகவல்களுக்கு இணையதளத்தைப் பாருங்கள். {BLACK}உரிமம்: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "traditional_chinese",
+   "tr": "{ORANGE}CIRS 社區產業替換套組{}{BLACK}一個由社區維護的 FIRS 分支，最初由 andythenorth、FooBar、planetmaker、Terkhen 和 Yexo 開發，並得到許多其他人的協助。{SILVER}請參閱網站以取得更多資訊，包括如何使用 CIRS。{BLACK}授權：GPL v2。",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "turkish",
+   "tr": "{ORANGE}CIRS Topluluk Endüstri Değiştirme Seti{}{BLACK}FIRS'in topluluk tarafından sürdürülen bir çatallanmasıdır; orijinal olarak andythenorth, FooBar, planetmaker, Terkhen ve Yexo tarafından, diğer birçok kişinin de yardımıyla oluşturulmuştur. {SILVER}CIRS'in nasıl kullanılacağı da dahil olmak üzere daha fazla bilgi için web sitesine bakın. {BLACK}Lisans: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  },
+  {
+   "lang": "welsh",
+   "tr": "{ORANGE}Set Disodli Diwydiant Cymunedol CIRS{}{BLACK}Fforc a gynhelir gan y gymuned o FIRS, a grëwyd yn wreiddiol gan andythenorth, FooBar, planetmaker, Terkhen a Yexo, gyda help gan llawer eraill. {SILVER}Gweler y wefan am fwy o wybodaeth, gan gynnwys sut i ddefnyddio CIRS. {BLACK}Trwydded: GPL v2.",
+   "en": "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2."
+  }
+ ],
+ "case_only": [
+  {
+   "lang": "dutch",
+   "file": "src/docs/lang/dutch.toml",
+   "key": "DOC_CC_OPEN_BULK",
+   "en": "Open Bulk",
+   "tr": "Open bulk"
+  },
+  {
+   "lang": "french",
+   "file": "src/docs/lang/french.toml",
+   "key": "DOC_ECO_INDUSTRIES",
+   "en": "{count} Industries",
+   "tr": "{count} industries"
+  }
+ ]
+}

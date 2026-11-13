@@ -1,0 +1,329 @@
+CANDIDATES 103
+=== KEY STR_ERR_INCOMPATIBLE_PARAM_CANSET.base count=5 ===
+  afrikaans            inwork=true idx=410 [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}CanSet-parameter 2 moet 0 wees om met FIRS te werk.
+  italian              inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}CanSet parameter 2 deve essere 0 per funzionare con FIRS.
+  korean               inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}호환되지 않는 매개변수: {ORANGE}CanSet을 FIRS와 함께 사용하려면 매개변수 2의 값이 0보다 커야합니다.
+  latin                inwork=true idx=386 [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Parameter incompatibilis: {ORANGE}Parameter 2 CanSet 0 esse debet ut cum FIRS operetur.
+  polish               inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Niekompatybilny parametr: {ORANGE}CanSet parametr 2 musi być ustawiony na 0 aby działać z FIRS.
+=== KEY STR_ERR_INCOMPATIBLE_PARAM_CITYSET.base count=6 ===
+  afrikaans            inwork=true idx=411 [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met FIRS te werk.
+  german               inwork=false idx=null [na_city_param]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Inkompatibler Parameter: {ORANGE}NA City Set Parameter 2 muss 0 sein, um mit CIRS zu funktionieren.
+  italian              inwork=false idx=null [cirs_missing,firs_overuse(+1),na_city_param]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}NA City Set parameter 2 deve essere 0 per funzionare con FIRS.
+  korean               inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}호환되지 않는 매개변수: {ORANGE}NA City Set을 FIRS와 함께 사용하려면 매개변수 2의 값이 0보다 커야합니다.
+  latin                inwork=true idx=387 [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Parameter incompatibilis: {ORANGE}Parameter 2 NA City Set 0 esse debet ut cum FIRS operetur.
+  polish               inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.
+     TR: {ORANGE}E02: {YELLOW}Niekompatybilny parametr: {ORANGE}NA City Set parametr 2 musi być ustawiony na 0 aby działać z FIRS.
+=== KEY STR_ERR_OPENTTD_VERSION.base count=7 ===
+  afrikaans            inwork=true idx=408 [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)
+     TR: {ORANGE}E00: FIRS vereis OpenTTD 1.7.0 (of, vir dié wat tronkbouwerke gebruik, r27769)
+  galician             inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)
+     TR: {ORANGE}E00: FIRS precisa OpenTTD 1.7.0 / r27769 ou superior
+  italian              inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)
+     TR: {ORANGE}E00: FIRS richiede OpenTTD 1.7.0 (o per quelli che usano una trunk build, r27769)
+  korean               inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)
+     TR: {ORANGE}E00: FIRS를 사용하려면 OpenTTD 1.7.0 (또는 r27769 빌드를 기반으로 한) 버전 이상이 필요합니다
+  latin                inwork=true idx=384 [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)
+     TR: {ORANGE}E00: FIRS OpenTTD 1.7.0 requirit (vel, pro iis qui versiones e ramulo principali adhibent, r27769)
+  polish               inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)
+     TR: {ORANGE}E00: FIRS wymaga OpenTTD w wersji przynajmniej 1.7.0 (rewizja 27769 i kolejne)
+  tamil                inwork=true idx=458 [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)
+     TR: {ORANGE}E00: FIRS-க்கு OpenTTD 1.7.0 (அல்லது trunk build-களைப் பயன்படுத்துபவர்களுக்கு r27769) தேவை
+=== KEY STR_GRF_DESC.base count=24 ===
+  afrikaans            inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Nywerheid vervanging stel{}{BLACK}Aan u gebring deur andythenorth, FooBar, planetmaker, Terkhen and Yexo, met help van baie ander. {SILVER}Sien readme vir meer inligting, ingesluit hoe om FIRS te gebruik. {BLACK}Lisensie: GPL v2.
+  belarusian           inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}Набор FIRS для поўнай замены прадпрыемстваў{}{BLACK}Спецыяльна для вас ад andythenorth, FooBar, planetmaker, Terkhen и Yexo, з дапамогай многіх іншых. {SILVER}Падрабязную інфармацыю, уключаючы тое, як карыстацца FIRS, глядзіце ў ReadMe. {BLACK}Ліцэнзія: GPL v2.
+  catalan              inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Fet per andythenorth, FooBar, planetmaker, Terkhen i Yexo, amb l'ajuda de molts altres. {SILVER}Consulteu el llegeix-me per a més informació, incloent-hi com usar FIRS. {BLACK}Llicència: GPL v2.
+  danish               inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Bragt til dig af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se "readme"-filen for mere information, inklusiv hvordan man anvender FIRS. {BLACK}Licens: GPL v2.
+  dutch                inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Gemaakt door andythenorth, FooBar, planetmaker, Terkhen en Yexo met hulp van vele anderen. {SILVER}Lees de 'readme' voor meer informatie, inclusief hoe je FIRS kunt gebruiken. {BLACK}Licentie: GPL V2.
+  estonian             inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Toodud Teieni andythenorth, FooBar, planetmaker, Terkhen and Yexo ja paljude teiste poolt{SILVER}Rohkem infot "read me"-s, ka see kuidas kasutada FIRS-i. {BLACK}Litsents: GPL v2.
+  finnish              inwork=false idx=null [cirs_missing,old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Tekijät: andythenorth, FooBar, planetmaker, Terkhen and Yexo sekä kaikki muut apuna olleet. {SILVER}Lisätietoja, mukaan lukien käyttöoppaan, löydät readme-tiedostosta. {BLACK}Lisenssi: GPL v2.
+  galician             inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Creado por andythenorth, FooBar, planetmaker, Terkhen e Yexo, coa axuda de moitos outros. {SILVER}Consulta o Readme para máis información, incluíndo como usar o FIRS. {BLACK}Licencia: GPL v2.
+  hungarian            inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Készítette: andythenorth, FooBar, planetmaker, Terkhen, Yexo és még sokan mások. {SILVER}További információkhoz (például a FIRS használatához) lásd a readme-t. {BLACK}Licenc: GPL v2.
+  indonesian           inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set -{}{BLACK}Dibuat untuk anda oleh andythenorth, FooBar, planetmaker, Terkhen and Yexo, dan bantuan dari yang lain. {SILVER}Lihat readme untuk informasi lebih lanjut, termasuk cara penggunaan FIRS. {BLACK}Lisensi: GPL v2.
+  italian              inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Di andythenorth, FooBar, planetmaker, Terkhen e Yexo, e con il contributo di molti altri. {SILVER}Leggete il file readme per informazioni e per consigli su come usare FIRS. {BLACK}Licenza: GPL v2.
+  korean               inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS 산업 시설 대체 세트{}{BLACK}andythenorth, FooBar, planetmaker, Terkhen, Yexo 등 많은 분들의 도움을 받아 제공됩니다. {SILVER}FIRS를 사용하는 방법 등을 포함한 자세한 정보는 읽어보기를 참고하세요. {BLACK}라이선스: GPL v2
+  latin                inwork=false idx=null [cirs_missing]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industriarum Redemptionis Sarcina{}{BLACK}Auctores sunt andythenorth, FooBar, planetifex, Terkhen ac Yexo, et multi alii adiuverunt. {SILVER}Vide LegeMe in quo plura indicia est. {BLACK}Licentia: GPL v2.
+  luxembourgish        inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Codéiert vum andythenorth, FooBar, planetmaker, Terkhen an Yexo, mat der Hëllef vun villen aneren. {SILVER}Lies de readme fir méi Informatiounen iwwert d'Benotzung vun FIRS. {BLACK}Lizenz: GPL v2.
+  norwegian_bokmal     inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industri Erstatnings-sett{}{BLACK}Bringes til deg av andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjelp fra mange andre. {SILVER}Se readme for mer informasjon, inkludert hvordan man bruker FIRS. {BLACK}Lisens: GPL v2.
+  polish               inwork=false idx=null [cirs_missing,old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Autorzy: andythenorth, FooBar, planetmaker, Terkhen, Yexo i inni. {SILVER}Więcej informacji w pliku readme. {BLACK}Licencja: GPL v2.
+  portuguese_BR        inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industrial Replacement Set{}{BLACK}Trazido a você por andythenorth, FooBar, planetmaker, Terkhen and Yexo, com a ajuda de muitos outros. {SILVER}Veja o arquivo readme para mais informações, incluindo como usar o FIRS. {BLACK}Licença: GPL v2.
+  romanian             inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Publicat de andythenorth, FooBar, planetmaker, Terkhen şi Yexo, cu ajutorul miultor altora. {SILVER}Vezi fişierul readme pentru mai multe informaţii, inclusiv cum să foloseşti FIRS. {BLACK}License: GPL v2.
+  russian              inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}Набор FIRS для полной замены предприятий{}{BLACK}Специально для вас от andythenorth, FooBar, planetmaker, Terkhen и Yexo, с помощью многих других. {SILVER}Подробную информацию, включая как пользоваться FIRS, найдёте в инструкции. {BLACK}Лицензия: GPL v2.
+  simplified_chinese   inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS工业扩展包{}{BLACK}由andythenorth, FooBar, planetmaker, Terkhen and Yexo以及其他贡献者呈献。 {SILVER}查看readme获取更多信息，其中包括怎样使用FIRS. {BLACK}License: GPL v2.
+  slovak               inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Vám prináša andythenorth, FooBar, planetmaker, Terkhen, Yexo a ďalší. {SILVER}Pozri ReadMe pre viac informácií, vrátane ako použiť FIRS. {BLACK}Licencia: GPL v2.
+  spanish_MX           inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Creado por andythenorth, FooBar, planetmaker, Terkhen y Yexo, con colaboración de muchos otros. {SILVER}Consulta el archivo Léeme para más información, incluyendo cómo usar FIRS. {BLACK}Licencia: GPL v2.
+  swedish              inwork=false idx=null [cirs_missing,firs_overuse(+1),old_firs_name]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS Industry Replacement Set{}{BLACK}Skapat av andythenorth, FooBar, planetmaker, Terkhen och Yexo, med hjälp av många andra. {SILVER}Se "readme"-filen för mer information, inklusive om hur man använder FIRS. {BLACK}Licens: GPL v2.
+  traditional_chinese  inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: {ORANGE}CIRS Community Industry Replacement Set{}{BLACK}A community-maintained fork of FIRS, originally by andythenorth, FooBar, planetmaker, Terkhen and Yexo, with help from many others. {SILVER}See website for more information, including how to use CIRS. {BLACK}License: GPL v2.
+     TR: {ORANGE}FIRS工業擴展包{}{BLACK}由andythenorth, FooBar, planetmaker, Terkhen and Yexo以及其他貢獻者呈獻。 {SILVER}查看readme獲取更多信息，其中包括怎樣使用FIRS. {BLACK}License: GPL v2.
+=== KEY STR_PARAM_DESC_ECONOMIES.base count=23 ===
+  afrikaans            inwork=true idx=98 [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Elke ekonomie bied ’n ander kombinasie van vragte en nywerhede.{}{}Vir spelers wat eenvoudige spel wil hê, bevat {SILVER}Basiese {BLACK}ekonomieë minder nywerhede en vragte as ander FIRS-ekonomieë.{}{}Die FIRS-webwerf verskaf gedetailleerde inligting oor elke ekonomie.
+  belarusian           inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Кожная эканоміка прадстаўляе розную камбінацыю грузаў і прадпрыемстваў.{}{}Для гульцоў, якія жадаюць простую эканоміку, {SILVER}звычайная {BLACK}эканоміка змяшчае меней прадпрыемстваў і грузаў, чым іншыя эканомікі FIRS.{}{} Веб-сайт FIRS прадугледжвае дэтальную інфармацыю пра кожную эканоміку.
+  croatian             inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Svaka ekonomija daje različite kombinacije tereta i industrija.{}{}Za igrače koji žele jednostavnost igre, {SILVER}Osnovne {BLACK} ekonomije imaju manje industrija i tereta nego druge FIRS ekonomije.{}{}Na FIRS web stranici se nalaze detaljne informacije o svakoj vrsti ekonomije.
+  czech                inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Každá ekonomika poskytuje různou kombinaci nákladů a průmyslu.{}{} {SILVER}Základní {BLACK}ekonomiky obsahují méně průmyslu a nákladů než ostatní FIRS ekonomiky a jsou tedy vhodné i pro začínající hráče.{}{}Detailní informace ke každé ekonomice jsou k dispozici na stránkách FIRSu.
+  dutch                inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Elke economie heeft een andere combinatie van goederen en industrieën.{}{}Voor spelers die een eenvoudig spelverloop willen zijn er {SILVER}basis{BLACK} economieën die minder industrieën en goederen bevatten.{}{}De FIRS website (Engelstalig) geeft gedetailleerde informatie over elke economie.
+  finnish              inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Jokainen talousvaihtoehto mahdollistaa erilaisen yhdistelmän rahteja ja teollisuuksia.{}{}Yksinkertaisesta pelityylistä pitävien kannattaa kokeilla {SILVER}pelkistettyjä {BLACK}talouksia, joissa on vähemmän teollisuustyyppejä ja rahteja verrattuna muihin FIRS:in talouksiin.{}{}FIRS:in kotisivu antaa tarkempaa tietoa erilaisista talouksista.
+  french               inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Chaque modèle économique présente des industries et des cargaisons différentes.{}{}Pour les joueurs intéressés par un jeu plus simple, les économies {SILVER}"Basiques"{BLACK} contiennent moins d'industries et de cargaisons que les autres économies "FIRS".{}{}Le site web de FIRS procure des informations détaillées sur chaque modèle économique.
+  galician             inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Cada un dos tipos de economía contén unha combinación diferente de industrias e cargas.{}{}Para xogadores que busquen partidas máis sinxelas, as {BLACK}economías {SILVER}básicas conteñen menos industrias e cargas que outras economías FIRS.{}{} A páxina web de FIRST proporciona información máis detallada sobre cada economía.
+  hungarian            inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Az egyes gazdaságokban különféle rakományok és gazdasági épületek érhetőek el.{}{}Az egyszerűbb játékmenet érdekében az {SILVER}alap {BLACK}gazdaságok kevesebb rakományt és gazdasági épületet tartalmaznak, mint a többi FIRS gazdaság.{}{}A FIRS weboldalán részletes leírás található mindegyik gazdaságról.
+  italian              inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Ogni economia dà una combinazione diversa di merci e industrie.{}{}Per uno schema di gioco semplificato, un'economia di {SILVER}base {BLACK} comprende meno industrie e merci rispetto ad altre economie di FIRS.{}{}Sul sito web di FIRS si trovano informazioni dettagliate su ogni economia.
+  korean               inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: 각각의 경제 설정에 따라 화물과 산업시설의 구성이 달라집니다.{}{}간단한 게임 플레이를 원하는 플레이어의 경우, 다른 FIRS 경제에 비해 '{SILVER}기본{BLACK}' 경제가 산업 시설과 화물의 종류가 적으므로 이를 사용하십시오.{}{} FIRS 웹 사이트에서 각 경제 설정에 대한 상세 정보를 확인하실 수 있습니다.
+  latin                inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Oeconomiae produnt varia onera et variae industriae.{}{}Ei qui vult ludum simplicem habere debet eligere oeconomiam {SILVER}simplicem{BLACK}, nam habent pauciores industrias oneraque quam aliae oeconomiae.{}{}Situs Interretialis FIRS habet plures descriptiones oeconomiarum.
+  luxembourgish        inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: All Wiertschaftstyp stellt verschidden Industrien a Frachtarten bereed.{}{}De Wiertschaftstyp {SILVER}Einfach {BLACK}bidd manner Industrien a Frachtarten un, wéi déi aner Wiertschaftstypen.{}{}Op der FIRS Websäit kann een weider Informatiounen iwwer déi verschidden Wiertschaftstypen noliesen.
+  norwegian_bokmal     inwork=false idx=null [cirs_missing,firs_overuse(+1)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Hver økonomi tilbyr en ulik kombinasjon av varer og industrier.{}{}For spillere som ønsker et enklere spill, har {SILVER}basis{BLACK}økonomiene færre industrier og varer enn andre økonomier.{}{}Nettstedet for FIRS har detaljert informasjon om hver enkelt økonomi.
+  polish               inwork=false idx=null [cirs_missing,firs_overuse(+3)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Każda z dostępnych w FIRS ekonomii oferuje inną kombinację towarów i fabryk.{}{}Dla graczy preferujących proste zasady gry zalecany jest wybór ekonomii {SILVER}Zwykła. {BLACK}Zawiera ona mniej fabryk i towarów niż inne ekonomie FIRS.{}{}Strona internetowa FIRS zawiera szczegółowe informacje na temat każdej z ekonomii.
+  russian              inwork=true idx=100 [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Каждая экономика предлагает разное сочетание грузов и отраслей.{}{}Для игроков, предпочитающих простой игровой процесс, {SILVER}базовые {BLACK}экономики содержат меньше отраслей и грузов, чем другие экономики FIRS.{}{}На сайте FIRS представлена подробная информация о каждой экономике.
+  serbian              inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Svaka ekonomija nudi različite kombinacije tovara i industrija.{}{}Za igrače koji žele jednostavniju igru, {SILVER}bazične{BLACK} ekonomije sadrže manji broj industrija i tovara od ostalih FIRS ekonomija.{}{} FIRS vebsajt pruža detaljne informacije o svakoj ekonomiji.
+  simplified_chinese   inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: 每种经济模式对应不同的货物和工业组合。{}{}休闲玩家可以选择简单模式，{SILVER}'基础'{BLACK}经济模式的货物和工业种类比'FIRS'经济模式的种类要少。{}{}FIRS主页提供了每种经济模式更详细的介绍。
+  slovak               inwork=true idx=91 [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Každá ekonomika poskytuje inú kombináciu nákladov a odvetví.{}{}Pre hráčov, ktorí chcú jednoduché hranie, obsahujú {SILVER}základné {BLACK}ekonomiky menej odvetví a nákladov než ostatné ekonomiky FIRS.{}{}Webová stránka FIRS poskytuje podrobné informácie o každej ekonomike.
+  spanish_MX           inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Cada economía ofrece una combinación distinta de cargamentos e industrias.{}{}Para aquellos que quieran un juego sencillo, las economías {SILVER}Básicas {BLACK}de FIRS presentan menos industrias y cargamentos que las demás.{}{}El sitio web de FIRS ofrece mayor información acerca de cada economía.
+  swedish              inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Varje ekonomi har egen kombination av godstyper och industrier.{}{}För spelare som vill ha en mer okomplicerad spelupplevelse innehåller {SILVER}bas{BLACK}-ekonomierna färre industrier och godstyper än andra FIRS-ekonomier.{}{}Detaljerad information om varje ekonomityp finns på FIRS hemsida.
+  traditional_chinese  inwork=false idx=null [cirs_missing,firs_overuse(+2)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: 每種經濟模式對應不同的貨物和工業組合。{}{}希望簡單遊戲的休閑玩家可以選擇{SILVER}基礎{BLACK}模式，其所提供的貨物與工業種類比其他FIRS經濟模式所提供的為少。{}{}FIRS網站提供各經濟模式的詳盡信息。
+  welsh                inwork=true idx=104 [firs_overuse(+1)]
+     EN: Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}economies contain fewer industries and cargos than other CIRS economies.{}{}The CIRS website provides detailed information about each economy.
+     TR: Mae pob economi yn darparu cyfuniad gwahanol o nwyddau a diwydiannau.{}{}I chwaraewyr sydd eisiau chwarae syml, mae gan economi {SILVER}Sylfaenol {BLACK}FIRS lai o ddiwydiannau a nwyddau na economi CIRS eraill.{}{}Mae gwefan CIRS yn darparu gwybodaeth fanwl am bob economi.
+=== KEY STR_CARGO_FOOD_ADDITIVES.cid count=1 ===
+  arabic               inwork=true idx=516 [firs_overuse(+1)]
+     EN: {TINYFONT}FV
+     TR: {TINYFONT}FIRS
+=== KEY DOC_HOME_WHY_3_DESC count=7 ===
+  belarusian           inwork=false idx=null [upstream]
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Поўная гісторыя git FIRS захоўваецца, таму будучыя змены upstream могуць быць аб'яднаны, а не адгалінаваны.
+  danish               inwork=false idx=null [upstream]
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Den fulde FIRS git-historik bevares, så fremtidige upstream-ændringer kan flettes i stedet for at blive fra-forket.
+  dutch                inwork=false idx=null [upstream]
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: De volledige FIRS git-geschiedenis wordt behouden, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van weggeforkt.
+  german               inwork=false idx=null [upstream]
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Der vollständige FIRS-Git-Verlauf wird beibehalten, sodass künftige Upstream-Änderungen zusammengeführt und nicht weggeforkt werden können.
+  italian              inwork=false idx=null [upstream]
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: L'intera cronologia git di FIRS è preservata, così i futuri cambiamenti upstream possono essere uniti invece di essere separati con un fork.
+  latin                inwork=false idx=null [upstream]
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Tota historia git FIRS conservatur, ita mutationes futurae upstream coniungi possunt potius quam furculari.
+  polish               inwork=false idx=null [upstream]
+     EN: The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.
+     TR: Pełna historia git FIRS jest zachowywana, dzięki czemu przyszłe zmiany z upstream mogą być scalane zamiast być rozwidlane.
+=== KEY DOC_HOME_WHY_3_TITLE count=7 ===
+  belarusian           inwork=false idx=null [upstream]
+     EN: Upstream tracking
+     TR: Адсочванне upstream
+  danish               inwork=false idx=null [upstream]
+     EN: Upstream tracking
+     TR: Upstream-sporende
+  dutch                inwork=false idx=null [upstream]
+     EN: Upstream tracking
+     TR: Upstream-volging
+  german               inwork=false idx=null [upstream]
+     EN: Upstream tracking
+     TR: Upstream-Verfolgung
+  italian              inwork=false idx=null [upstream]
+     EN: Upstream tracking
+     TR: Tracciamento upstream
+  latin                inwork=false idx=null [upstream]
+     EN: Upstream tracking
+     TR: Vestigium Upstream
+  polish               inwork=false idx=null [upstream]
+     EN: Upstream tracking
+     TR: Śledzenie upstream
+=== KEY DOC_CC_OPEN_BULK count=1 ===
+  dutch                inwork=false idx=null [english_case_only]
+     EN: Open Bulk
+     TR: Open bulk
+=== KEY DOC_ECO_CARGOS count=1 ===
+  french               inwork=false idx=null [english_case_only]
+     EN: {count} Cargos
+     TR: {count} cargos
+=== KEY DOC_ECO_INDUSTRIES count=1 ===
+  french               inwork=false idx=null [english_case_only]
+     EN: {count} Industries
+     TR: {count} industries
+=== KEY DOC_BRAND count=4 ===
+  indonesian           inwork=true idx=42 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS
+     TR: FIRS
+  italian              inwork=true idx=27 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS
+     TR: FIRS
+  korean               inwork=true idx=26 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS
+     TR: FIRS
+  turkish              inwork=true idx=45 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS
+     TR: FIRS
+=== KEY STR_PARAM_DESC_OBJECTS.base count=5 ===
+  indonesian           inwork=true idx=44 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.
+     TR: FIRS mencakup satu set objek penataan lanskap yang dapat ditempatkan oleh pemain agar industri tertentu terlihat lebih besar. Objek lanskap tidak memiliki efek pada gameplay. Objek penataan lanskap dapat diaktifkan atau dinonaktifkan.
+  italian              inwork=true idx=29 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.
+     TR: FIRS include un set di oggetti di arredo paesaggistico che i giocatori possono posizionare per far apparire alcune industrie più grandi. Gli oggetti di arredo non hanno alcun effetto sul gameplay. Possono essere attivati o disattivati.
+  korean               inwork=true idx=28 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.
+     TR: FIRS에는 조경 오브젝트 세트가 포함되어 있으며, 플레이어는 이를 배치하여 특정 산업을 더 커 보이게 할 수 있습니다. 조경 오브젝트는 게임 플레이에 아무런 영향을 주지 않습니다. 조경 오브젝트는 켜거나 끌 수 있습니다.
+  tamil                inwork=true idx=48 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.
+     TR: FIRS-இல் நிலப்பரப்பு அமைப்புப் பொருட்களின் தொகுப்பு ஒன்று உள்ளது; வீரர்கள் அவற்றை வைத்து சில தொழில்கள் பெரிதாகத் தெரியுமாறு செய்யலாம். நிலப்பரப்புப் பொருட்கள் விளையாட்டு நடவடிக்கையில் எந்த விளைவையும் ஏற்படுத்தாது. அவற்றை இயக்கவோ நிறுத்தவோ முடியும்.
+  turkish              inwork=true idx=47 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS includes a set of landscaping objects, which players can place to make certain industries appear larger. Landscape object have no gameplay effect. Landscaping objects can be turned on or off.
+     TR: FIRS, oyuncuların belirli sanayileri daha büyük göstermek için yerleştirebileceği bir dizi peyzaj nesnesi içerir. Peyzaj nesnelerinin oyun mekanikleri üzerinde hiçbir etkisi yoktur. Peyzaj nesneleri açılıp kapatılabilir.
+=== KEY STR_PARAM_NAME_OBJECTS.base count=5 ===
+  indonesian           inwork=true idx=45 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS landscaping objects
+     TR: Objek penataan lanskap FIRS
+  italian              inwork=true idx=30 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS landscaping objects
+     TR: Oggetti di arredo paesaggistico FIRS
+  korean               inwork=true idx=29 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS landscaping objects
+     TR: FIRS 조경 오브젝트
+  latin                inwork=true idx=43 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS landscaping objects
+     TR: Obiecta ornatus terrae FIRS
+  tamil                inwork=true idx=49 [cirs_missing,firs_overuse(+1)]
+     EN: CIRS landscaping objects
+     TR: FIRS நிலப்பரப்பு அமைப்புப் பொருட்கள்
+=== KEY DOC_GS_CONFLICTS_P3_LINK count=1 ===
+  japanese             inwork=false idx=null [conflicting_newgrfs,english_case_only]
+     EN: conflicting newgrfs
+     TR: conflicting newGRFs
+=== KEY DOC_GS_SETUP_B1_PREFIX count=2 ===
+  simplified_chinese   inwork=false idx=null [cirs_missing]
+     EN: Activate CIRS via the 
+     TR: 通过 
+  traditional_chinese  inwork=false idx=null [cirs_missing]
+     EN: Activate CIRS via the 
+     TR: 透過 
+=== KEY STR_CARGO_FISH.cid count=1 ===
+  swedish              inwork=true idx=336 [firs_overuse(+1)]
+     EN: {TINYFONT}FI
+     TR: {TINYFONT}FIRS
+=== KEY STR_CARGO_ENGINEERING_SUPPLIES.cargo_unit count=1 ===
+  tamil                inwork=true idx=464 [firs_overuse(+1)]
+     EN: {SIGNED_WORD} crate{P 0 "" s} of engineering supplies
+     TR: {SIGNED_WORD} FIRS பொறியியல் பொருட்கள் பெட்டி{P 0 "" s}
+=== KEY STR_CARGO_FARM_SUPPLIES.cargo_unit count=1 ===
+  tamil                inwork=true idx=465 [firs_overuse(+1)]
+     EN: {SIGNED_WORD} crate{P 0 "" s} of farm supplies
+     TR: {SIGNED_WORD} FIRS பண்ணைப் பொருட்கள் பெட்டி{P 0 "" s}

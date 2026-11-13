@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "석탄 광산"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "구리 광산"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "다이아몬드 광산"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "식품 가공 공장"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "삼림"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "과일 농장"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "철광석 광산"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "석유 정제소"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "석유 시추 플랫폼"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "석유 우물"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "제지 공장"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "고무 농장"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "제재소"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "강철 제철소"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "석탄"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "구리 광석"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "다이아몬드"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "식품"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "상품"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "곡물"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "철광석"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "가축"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "우편"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "옥수수"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "석유"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "종이"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "승객"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "고무"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "설탕"
+
+[ECONOMY_INFO_FIRS]
+base = "다양한 산업과 화물을 갖춘 복잡한 경제."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "심플 이코노미. 핀란드, 캐나다 북부, 시베리아 북부에서 영감을 받았습니다. 아북극 기후에서 가장 효과적입니다."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "심플 이코노미. 영국 남서부에서 영감을 받았습니다. 온대 기후에서 가장 효과적입니다."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "심플 이코노미. 아르헨티나, 페루, 칠레에서 영감을 받았습니다. 아열대 기후에서 가장 효과적입니다."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "다양한 산업과 화물을 갖춘 복잡한 경제. 중서부 아프리카에서 영감을 받았습니다. 아열대 기후와 함께 사용하는 것이 가장 좋습니다."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "철강 및 중공업이 특징인 복잡한 경제."
+
+[CARGO_INFO_PASSENGERS]
+base = "모든 경제권에서 사용 가능. 마을 건물과 일부 산업 시설에서 생산 및 수용됩니다."
+
+[CARGO_INFO_MAIL]
+base = "모든 경제권에서 사용 가능. 마을 건물에서 생산 및 수용됩니다."
+
+[CARGO_INFO_ACID]
+base = "염산, 질산, 황산과 같은 산업용 산."
+
+[CARGO_INFO_AGGREGATES]
+base = "자갈, 모래, 부순 돌 및 건설에 사용되는 유사한 재료."
+
+[CARGO_INFO_ALUMINA]
+base = "보크사이트 광석에서 정제하는 흰색 분말로, 알루미늄 금속 생산에 사용됩니다."
+
+[CARGO_INFO_ALUMINIUM]
+base = "코일, 잉곳, 슬랩 등의 형태로 가공된 알루미늄 금속."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "암모니아, 질산, 요소와 같이 암모니아에서 파생된 산업용 화학 물질. 액체, 극저온 액화 가스 또는 건식 벌크 형태로 운송됩니다."
+
+[CARGO_INFO_ANHYDRITE]
+base = "흰색, 회색 또는 갈색의 황산칼슘 암석으로, 황산 및 시멘트 생산에 사용됩니다. 보통 덮개가 있는 벌크 화물로 운송됩니다."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "화학 공정에 사용되는 산업용 광물입니다. 바륨석은 바륨 화학 제품과 충전제에 사용되며, 불화석은 불소 화학 및 야금용 유리에 사용됩니다."
+
+[CARGO_INFO_BASE_METALS]
+base = "구리, 니켈, 아연, 납과 같은 비철금속."
+
+[CARGO_INFO_BEANS]
+base = "일반 콩, favas 콩, 대두 및 유사한 식용 콩류."
+
+[CARGO_INFO_BITUMEN]
+base = "주로 도로 포장 및 지붕 덮는 데 사용되는 두꺼운 석유 제품."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "시멘트, 유리, 금속 부품, 목재 제품, 파이프 및 유사한 건축 자재."
+
+[CARGO_INFO_CASSAVA]
+base = "식용 뿌리 작물, 마니옥 또는 유카라고도 함"
+
+[CARGO_INFO_CARBON_BLACK]
+base = "타이어, 플라스틱 및 안료에 사용되는 매우 검은색의 탄소 분말입니다. 분말 형태로 취급됩니다."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "빌렛, 블룸, 주괴 및 슬랩."
+
+[CARGO_INFO_CAST_IRON]
+base = "빌렛, 블룸, 주괴 및 슬랩."
+
+[CARGO_INFO_CEMENT]
+base = "가루 또는 클링커 형태의 건조 시멘트"
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "추가적인 산업 공정을 위한 원료로 사용되는 중간 화학 제품입니다."
+
+[CARGO_INFO_CHEMICALS]
+base = "액체, 기체, 덮개가 있는 벌크, 분말 또는 개별 제품 형태로 취급되는 일반 유기 및 무기 화학 물질."
+
+[CARGO_INFO_CHLORINE]
+base = "산업용 화학 물질로, 보통 액화 압축 가스로 극저온에서 운송됩니다."
+
+[CARGO_INFO_CLAY]
+base = "건축 자재 생산 및 기타 산업용도로 사용되는 일반 점토."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "산업용 및 가정용 화학물질, 비누, 세척제 등. 주로 액체 형태이지만, 분말이나 고체(예: 샷 블라스팅 모래)일 수도 있습니다."
+
+[CARGO_INFO_COAL_TAR]
+base = "코크 생산 과정에서 나오는 부산물로, 걸쭉하고 흐름이 느린 액체입니다."
+
+[CARGO_INFO_COFFEE]
+base = "원두 또는 로스팅된 커피 원두."
+
+[CARGO_INFO_COKE]
+base = "코크스 오븐에서 가열하여 거의 순수한 탄소로 만든 연료."
+
+[CARGO_INFO_COMPONENTS]
+base = "전기 장비, 모터, 변압기, 제어 장치, 유압, 공압, 펌프, 밸브 및 파워트레인 장비와 같은 고가 공학 부품."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "블록, 빔, 패널과 같은 주조 제품. 믹서 트럭에서 즉석 콘크리트 형태로도 취급될 수 있습니다."
+
+[CARGO_INFO_COPPER]
+base = "코일, 잉곳 등의 형태로 가공된 구리 금속."
+
+[CARGO_INFO_DIAMONDS]
+base = "영원히 지속됨 등."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "조리 및 소비용 석유."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "전기 및 전자 부품, 모터, 컨트롤러, 스위치기어, 조명 등"
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "광산 및 유사 산업용 기계, 연료, 부품, 목재 제품, 파이프, 폭발물 및 기타 용품."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "광업, 건설 등에 사용되는 민간용 폭약."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "농장, 숲 및 유사 산업용 기계, 연료, 부품, 비료 및 기타 용품."
+
+[CARGO_INFO_FERROALLOYS]
+base = "강철 생산에 사용됩니다. 철과 망간, 니켈, 크롬, 알루미늄, 규소, 텅스텐을 포함한 다른 원소들의 합금입니다. 석탄 덩어리와 크기와 모양이 비슷한 회색 덩어리입니다."
+
+[CARGO_INFO_FERROCHROME]
+base = "합금 및 스테인리스강 생산에 사용되며, 크롬과 철의 합금입니다. 석탄 덩어리와 크기와 모양이 비슷한 회색 덩어리입니다."
+
+[CARGO_INFO_FLOUR]
+base = "밀가루나 녹말과 같은 분말 시리얼 제품으로, 봉지나 덮개가 있는 벌크 용기로 운송됨."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "더 큰 물품으로 조립되는 금속 부품."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "보존제, 향료, 색소 및 가공 보조제와 같이 식품 가공에 사용되는 원료입니다."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "운송 및 보관 중에 냉동 상태로 유지되는 식품."
+
+[CARGO_INFO_FRUITS]
+base = "바나나, 감귤류, 포도, 베리류, 파인애플, 건포도 및 이와 유사한 신선 및 건조 과일."
+
+[CARGO_INFO_GRAIN]
+base = "밀, 보리 등"
+
+[CARGO_INFO_HARDWARE]
+base = "가정 및 건설용. 금속 및 기타 재료로 만든 도구, 식기, 고정 장치, 부속품."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "금속 및 화학 공정에서 사용되는 석유 코크스 연소재, 피치, 고가 타르, 카본 블랙과 같은 특수 탄소 재료."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "화학 가공, 금속 가공 및 용접에 사용되는 산업용 가스로, 실린더나 압력 탱크로리에서 운송됩니다."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "드럼, 윈치, 쇠사슬, 고리, 도르래, 유압 실린더 및 크레인, 호이스트, 엘리베이터 등의 기타 부품"
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "화학 원료로 사용되며 벌크 액체 형태로 운송되는 경질 석유 분획물."
+
+[CARGO_INFO_LIVESTOCK]
+base = "주로 육류 생산을 위해 소, 돼지, 양을 사육합니다. 다른 동물도 식용될 수 있습니다."
+
+[CARGO_INFO_LYE]
+base = "산업용 화학 물질. 라이(Lye) 또는 가성소다(Caustic Soda)라고도 합니다. 보통 액체 형태로 운송됩니다."
+
+[CARGO_INFO_KAOLIN]
+base = "주로 종이 및 플라스틱 생산에 사용되는 산업용 광물로, 카올린이라고도 합니다."
+
+[CARGO_INFO_MANGANESE]
+base = "주로 철강 생산에 사용되는 망간 광석."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "항구, 부두 및 유사 산업용 기계, 부품, 연료, 건설 자재 및 기타 용품."
+
+[CARGO_INFO_METAL]
+base = "강철, 알루미늄 또는 기타 일반적인 금속과 같은 일반 금속."
+
+[CARGO_INFO_METHANOL]
+base = "화학 원료 및 연료로 사용되는 산업용 알코올로, 벌크 액체 형태로 운송됩니다."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "정제, 발효 및 산업용으로 사용되는 중간 설탕 제품입니다. 끈적한 과립은 덮개를 씌운 벌크로 취급되며, 진한 시럽은 액체로 취급됩니다. 둘 다 포장될 수 있습니다."
+
+[CARGO_INFO_NITROGEN]
+base = "산업용 가스. 액화 압축 가스로 극저온에서 운송됩니다."
+
+[CARGO_INFO_OIL]
+base = "벌크 액체로 운송되는 원유, 미정제 석유."
+
+[CARGO_INFO_OXYGEN]
+base = "산업용 가스. 액화 압축 가스로 극저온에서 운송됩니다."
+
+[CARGO_INFO_PACKAGING]
+base = "상자, 병, 유리병, 캔 등"
+
+[CARGO_INFO_PEAT]
+base = "이탄 습지에서 채취한 바이오매스로, 연료와 원예용으로 사용됩니다."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "가솔린, 디젤, 등유, LPG, 연료유, 벙커유와 같은 정제 석유 제품으로, 벌크 액체 또는 액화 가스 형태로 운송됩니다."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "주로 비료 및 화학 생산에 사용되는 산업용 산으로, 벌크 액체 형태로 운송됩니다."
+
+[CARGO_INFO_PIG_IRON]
+base = "용광로에서 생산된 기본 철로, 용융액 또는 고체 주괴 형태입니다."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "섬유 및 복합 재료 생산에 사용되는 면, 리넨, 황마 및 유사 재료."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "건물, 산업 및 농장에서 사용되는 동력 장비와 기계 시스템. 완전한 단위 또는 주요 하위 조립품으로 운송됨."
+
+[CARGO_INFO_PETROL]
+base = "가솔린, 디젤 및 유사 연료."
+
+[CARGO_INFO_PLASTICS]
+base = "추가 가공을 위한 원료 플라스틱. 보통 수지 비드 형태로 운송됩니다."
+
+[CARGO_INFO_PIPEWORK]
+base = "도시 건물, 산업 시설 및 농장에서 사용되는 저장 탱크, 압력 용기, 사일로, 가스 실린더 및 파이프 어셈블리."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "제조 및 가공에 사용되는 산업용 화학 물질로, 액체, 분말, 가스 또는 포장된 상품 형태로 운송됩니다."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "용해하여 다양한 산업용 제품을 생산하는 황화물 광물."
+
+[CARGO_INFO_QUICKLIME]
+base = "산화칼슘으로, 불린 석회라고도 합니다. 건조하게 보관해야 하는 미세 분말 형태로 운송됩니다."
+
+[CARGO_INFO_REBAR]
+base = "콘크리트 구조물을 보강하는 데 널리 사용되는 얇은 거친 강철 막대. 코일 또는 곧은 막대 다발 형태로 운송됨."
+
+[CARGO_INFO_RUBBER]
+base = "주로 천연 라텍스입니다."
+
+[CARGO_INFO_SALT]
+base = "광범위하게 사용되는 산업용 화학 물질입니다. 보통 건조하게 보관해야 하는 벌크 화물로 운송됩니다."
+
+[CARGO_INFO_SAND]
+base = "건설용 거친 모래 또는 유리 제작 및 금속 주조에 사용되는 미세 실리카 모래. 벌크 또는 분말 형태로 운송됩니다."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "고무 또는 유사 재료로 만든 유연한 실, 개스킷, 호스, 벨트, 매트, 부싱 등."
+
+[CARGO_INFO_SLAG]
+base = "철강 생산 과정에서 발생하는 폐기물."
+
+[CARGO_INFO_SODA_ASH]
+base = "산업용 화학 물질. 흰색 분말 형태입니다."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "반제품 강철 주물. 단면이 사각형, 정사각형 또는 원형입니다."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "추가 가공이 필요한 조강 주물. 잉곳은 작을 수도 있고 매우 클 수도 있습니다. 일반적인 잉곳 형태는 직사각형 또는 원형입니다."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "강철 막대: 원형, 사각형, 평면형 및 기타 프로파일. 긴 직선 제품으로 운송됩니다."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "파이프라인, 건물, 산업 시설 등에서 액체를 운송하는 데 사용되는 긴 원형 강철관."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "압연 강판 및 강철 부재 - I형강, H형강, 채널강 등. 길고 곧은 제품 형태로 운송됩니다."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "다른 제품을 제작하는 데 널리 사용되는 얇은 압연 강판 및 스트립. 평판 또는 코일 형태로 운송됨."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "반제품 강철 주물. 단면이 항상 평평한 사각형 형태입니다."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "원형, 직사각형 및 기타 단면의 긴 속이 빈 관. 구조물 및 기계 제작에 사용됨."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "강철 와이어 및 얇은 막대. 주로 코일 형태로 운송됩니다."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "강철 선재를 더 작은 직경으로 뽑은 후 땋아 만든 로프 및 케이블."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "압연 단면(I형 빔, H형 빔 등), 평판 또는 판재를 용접하여 제작한 단면 및 빔 형태의 구조용 강철."
+
+[CARGO_INFO_SULPHUR]
+base = "광범위하게 사용되는 산업용 화학 물질입니다. 밝은 노란색이며 분말 또는 액체 형태로 존재합니다."
+
+[CARGO_INFO_TIMBER]
+base = "제재소 또는 유사 산업에서 생산된 가공 목재 제품."
+
+[CARGO_INFO_TIN]
+base = "잉곳."
+
+[CARGO_INFO_TINPLATE]
+base = "부식 방지를 위해 주석으로 코팅된 얇은 강판으로, 주로 캔, 용기 및 기타 포장재에 사용됨."
+
+[CARGO_INFO_TYRE_CORD]
+base = "타이어 보강에 사용되는 가는 와이어. 코일 형태로 운송됨."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "차량 생산에 사용되는 캐빈, 보닛, 도어 및 유사한 차체 구조물."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "내연 기관 및 변속기, 구동축과 같은 관련 파워트레인 부품."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "차체 및 서스펜션 부품, 전기 부품, 외부 트림 및 내부 부품과 같은 차량 생산용 부품."
+
+[CARGO_INFO_VEHICLES]
+base = "주로 트럭. 또는 자동차. 또는 경트럭. 어쩌면 트랙터."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "용접봉, 공구 및 아세틸렌, 아르곤, 프로판, 산소, 질소 등을 포함한 산업용 가스와 같은 금속 절단 및 용접용 소모품."
+
+[CARGO_INFO_WOOD]
+base = "숲에서 나온 통나무."
+
+[CARGO_INFO_WOOD_PULP]
+base = "주로 종이 생산에 사용되는 가공 목재 섬유로, 베일 또는 벌크 펄프 형태로 운송됩니다."
+
+[CARGO_INFO_WOOL]
+base = "베일."
+
+[CARGO_INFO_ZINC]
+base = "잉곳."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

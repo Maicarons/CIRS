@@ -1,0 +1,67 @@
+=== grf : EXACT English matches on STR_* keys with >=2 English words ===
+  afrikaans exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  catalan exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  croatian exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  czech exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  danish exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  dutch exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  estonian exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  finnish exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  gaelic exact=2 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base = Arctic Basic
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  galician exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  german exact=1 near=1
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+    NEAR1.00 STR_GRF_NAME.base | EN=CIRS Community Industry Replacement Set | TR=CIRS - Community Industry Replacement Set
+  hungarian exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  indonesian exact=2 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+    EXACT STR_CARGO_SODA_ASH.name = Soda Ash
+  italian exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  latin exact=2 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+    EXACT STR_CARGO_BARYTES_AND_FLUORSPAR.name = Barytes & Fluorspar
+  luxembourgish exact=2 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+    EXACT STR_STATION_PLATE_MILL.base = Slab yard
+  norwegian_bokmal exact=3 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+    EXACT STR_CARGO_TYRE_CORD.name = Tyre Cord
+    EXACT STR_IND_VEHICLE_DISTRIBUTOR.base = Vehicle Distributor
+  portuguese_BR exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  romanian exact=3 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base = Arctic Basic
+    EXACT STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base = Tropic Basic
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  slovak exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  spanish exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  spanish_MX exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  swedish exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+  turkish exact=3 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base = Tropic Basic
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+    EXACT STR_STATION_HERDING_COOP.base = Reinder Pens
+  welsh exact=1 near=0
+    EXACT STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST.base = Mild Mild West
+=== gs : EXACT English matches on STR_* keys with >=2 English words ===
+=== docs : EXACT English matches on STR_* keys with >=2 English words ===
+
+=== totals by group ===
+  grf languages affected=25 exact=35 near=1

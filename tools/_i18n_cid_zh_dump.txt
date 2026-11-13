@@ -1,0 +1,30 @@
+=== 3 DIVERGENCES (HEAD / FIRS4x corpus / CURRENT / English name) ===
+STR_CARGO_EDIBLE_OIL.cid:
+  HEAD    = '{TINYFONT}食'
+  CORPUS  = '{TINYFONT}脂'
+  CURRENT = '{TINYFONT}食'
+  EN name = 'Edible Oil'  EN cid = '{TINYFONT}EO'
+STR_CARGO_QUICKLIME.cid:
+  HEAD    = '{TINYFONT}石'
+  CORPUS  = '{TINYFONT}生'
+  CURRENT = '{TINYFONT}石'
+  EN name = 'Quicklime'  EN cid = '{TINYFONT}QL'
+STR_CARGO_VEHICLE_BODIES.cid:
+  HEAD    = '{TINYFONT}身'
+  CORPUS  = '{TINYFONT}车'
+  CURRENT = '{TINYFONT}身'
+  EN name = 'Vehicle Bodies'  EN cid = '{TINYFONT}VB'
+=== CID COLLISIONS in simplified_chinese: 4 groups ===
+  '{TINYFONT}泥' -> ['STR_CARGO_CEMENT.cid', 'STR_CARGO_PEAT.cid']
+  '{TINYFONT}PC' -> ['STR_CARGO_INDUSTRIAL_CARBONS.cid', 'STR_CARGO_PAINTS_AND_COATINGS.cid', 'STR_CARGO_PROCESS_CHEMICALS.cid']
+  '{TINYFONT}碱' -> ['STR_CARGO_LYE.cid', 'STR_CARGO_SODA_ASH.cid']
+  '{TINYFONT}磷' -> ['STR_CARGO_PHOSPHATE.cid', 'STR_CARGO_PHOSPHORIC_ACID.cid']
+CID KEYS 100
+=== HEAD CID COLLISIONS: 3 groups ===
+  '{TINYFONT}泥' -> ['STR_CARGO_CEMENT.cid', 'STR_CARGO_PEAT.cid']
+  '{TINYFONT}碱' -> ['STR_CARGO_LYE.cid', 'STR_CARGO_SODA_ASH.cid']
+  '{TINYFONT}磷' -> ['STR_CARGO_PHOSPHATE.cid', 'STR_CARGO_PHOSPHORIC_ACID.cid']
+=== divergent keys colliding? ===
+  STR_CARGO_EDIBLE_OIL.cid current='{TINYFONT}食' group_size=1
+  STR_CARGO_QUICKLIME.cid current='{TINYFONT}石' group_size=1
+  STR_CARGO_VEHICLE_BODIES.cid current='{TINYFONT}身' group_size=1

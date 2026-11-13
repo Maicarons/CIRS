@@ -1,0 +1,617 @@
+{"i":0,"tr":" {BLACK}(opsioneel)"}
+{"i":1,"tr":" {BLACK}(verskaf)"}
+{"i":2,"tr":"."}
+{"i":3,"tr":"Suur"}
+{"i":4,"tr":"Aggregaat"}
+{"i":5,"tr":"Alumina"}
+{"i":6,"tr":"Aluminium"}
+{"i":7,"tr":"Amoniak- en stikstofprodukte"}
+{"i":8,"tr":"Amoniakkompleks"}
+{"i":9,"tr":"Anhidrietmyn"}
+{"i":10,"tr":"Anhidrietverwerkingsaanleg"}
+{"i":11,"tr":"Anhidrietklip"}
+{"i":12,"tr":"Appels"}
+{"i":13,"tr":"Toestelfabriek"}
+{"i":14,"tr":"Is vir altyd, ens."}
+{"i":15,"tr":"Motorvoertuie"}
+{"i":16,"tr":"Beskikbaar in alle ekonomieë. Word deur dorpgeboue en ook ’n paar nywerhede vervaardig en aanvaar."}
+{"i":17,"tr":"Beskikbaar in alle ekonomieë. Word deur dorpgeboue vervaardig en aanvaar."}
+{"i":18,"tr":"Bakery"}
+{"i":19,"tr":"Bale."}
+{"i":20,"tr":"Banktop"}
+{"i":21,"tr":"Bar, rooster en kamers"}
+{"i":22,"tr":"Skure"}
+{"i":23,"tr":"Vat en ton"}
+{"i":24,"tr":"Bariet & Fluorietspat"}
+{"i":25,"tr":"Basis"}
+{"i":26,"tr":"Basiese suurstofoven"}
+{"i":27,"tr":"Basiese yster uit ’n blaasoven, as gesmelte vloeistof of vaste ingote."}
+{"i":28,"tr":"Batschemikafabriek"}
+{"i":29,"tr":"Billette & Bloeiings"}
+{"i":30,"tr":"Billette, bloeiings, ingote en slabe."}
+{"i":31,"tr":"Biomassa uit turfveld, onttrek vir brandstof en tuinbou."}
+{"i":32,"tr":"Bitumen"}
+{"i":33,"tr":"Blaasoven"}
+{"i":34,"tr":"Liggaamsaanleg"}
+{"i":35,"tr":"Skroothoop"}
+{"i":36,"tr":"Fles- en blikfabriek"}
+{"i":37,"tr":"Kaste, bottels, potte, blikkies, ens."}
+{"i":38,"tr":"Soutoplossingsfabriek"}
+{"i":39,"tr":"’n Byproduk van koolproduksie, ’n dik vloeistof wat stadig vloei."}
+{"i":40,"tr":"CIRS"}
+{"i":41,"tr":"CIRS-gemeenskapsbedryfsvervangingsstel"}
+{"i":42,"tr":"CIRS sluit ’n stel landskapvoorwerpe in wat spelers kan plaas om sekere nywerhede groter te laat lyk. Landskapvoorwerpe het geen invloed op die spelverloop nie. Landskapvoorwerpe kan aangeskakel of afgeskakel word."}
+{"i":43,"tr":"CIRS-landskapvoorwerpe"}
+{"i":44,"tr":"Kajuite, motorkapte, deure en soortgelyke karrosseriestrukture vir voertuigproduksie."}
+{"i":45,"tr":"Kalsiumoksied, ook bekend as gebrande kalk. Dit word as ’n fyn poeier vervoer wat droog gehou moet word."}
+{"i":46,"tr":"Koolstofswart"}
+{"i":47,"tr":"Koolstofswart-anleg"}
+{"i":48,"tr":"Kassava"}
+{"i":49,"tr":"Gietyster"}
+{"i":50,"tr":"Gietprodukte soos blokke, balks en panele. Kan ook as gereedgemengde beton in mengvoertuie vervoer word."}
+{"i":51,"tr":"Sellulosefilmbedryf"}
+{"i":52,"tr":"Sement"}
+{"i":53,"tr":"Sement, glas, metaalkomponente, houtprodukte, pype en soortgelyke boumateriaal."}
+{"i":54,"tr":"Chemiese kompleks"}
+{"i":55,"tr":"Chemiese intermediêre produkte"}
+{"i":56,"tr":"Chemiese stowwe, seep, skuurmiddels ens. vir industriële en huishoudelike gebruik. Hoofsaaklik vloeibaar, maar kan ook poeier of vast wees (soos skietstraalsand)."}
+{"i":57,"tr":"Kina-klei"}
+{"i":58,"tr":"Spilplaatfabriek"}
+{"i":59,"tr":"Chloor-alkali-anleg"}
+{"i":60,"tr":"Chloor"}
+{"i":61,"tr":"Siviele springstof vir mynbou, konstruksie ens."}
+{"i":62,"tr":"Skoonmaakmiddels"}
+{"i":63,"tr":"Kool"}
+{"i":64,"tr":"Koolmyn"}
+{"i":65,"tr":"Koolteer"}
+{"i":66,"tr":"Kool wat in ’n kookoond verhit is om ’n brandstof te produseer wat byna suiwer koolstof is."}
+{"i":67,"tr":"Grof sand vir konstruksie, of fyn silikasand vir glasvervaardiging en metaalgietery. Word as bulk of poeier vervoer."}
+{"i":68,"tr":"Spoellyn"}
+{"i":69,"tr":"Kook"}
+{"i":70,"tr":"Kookoond"}
+{"i":71,"tr":"Koolmyn"}
+{"i":72,"tr":"Kommersiële Bakery"}
+{"i":73,"tr":"Gewone bone, fava-bone, sojabone en soortgelyke eetbare peulgewasse."}
+{"i":74,"tr":"Komplekse ekonomie met yster-, staal- en swaarvervaardigingsbedrywe."}
+{"i":75,"tr":"Komplekse ekonomie met talle bedrywe en vragte."}
+{"i":76,"tr":"Komplekse ekonomie met talle bedrywe en vragte. Geïnspireer deur die sentrale-wes van Afrika. Werk die beste met ’n Subtropiese klimaat."}
+{"i":77,"tr":"Komponente"}
+{"i":78,"tr":"Komponente vir voertuigproduksie, soos chassis- en ophangingskomponente, elektriese onderdele, eksterne afwerking en binnedeelonderdele."}
+{"i":79,"tr":"Betonaanleg"}
+{"i":80,"tr":"Betonprodukte"}
+{"i":81,"tr":"Bouwerf"}
+{"i":82,"tr":"Gereed-voor-gebruik-voedselfabriek"}
+{"i":83,"tr":"Koperertsader"}
+{"i":84,"tr":"Kopermyn"}
+{"i":85,"tr":"Kopererts"}
+{"i":86,"tr":"Kopersmeltery"}
+{"i":87,"tr":"Katoen, vlas, jute en soortgelyke materiale vir die vervaardiging van tekstiele en saamgestelde materiale."}
+{"i":88,"tr":"Kruipvoertuigwerkswinkel"}
+{"i":89,"tr":"Kreosotering"}
+{"i":90,"tr":"Ruwe, onverfynde petrolium wat as vloeibare massa vervoer word."}
+{"i":91,"tr":"Krio-installasie"}
+{"i":92,"tr":"Melkboerdery"}
+{"i":93,"tr":"Melkbaan"}
+{"i":94,"tr":"Diamantmyn"}
+{"i":95,"tr":"Diamante"}
+{"i":96,"tr":"Drums, winke, boeie, hake, katrolle, hidrouliese ramme en ander onderdele vir kranes, hysmasjiene, hysbakke ens."}
+{"i":97,"tr":"Droë sement in poeier- of klinkervorm."}
+{"i":98,"tr":"Elke ekonomie bied ’n ander kombinasie van vragte en nywerhede.{}{}Vir spelers wat eenvoudige spel wil hê, bevat {SILVER}Basiese {BLACK}ekonomieë minder nywerhede en vragte as ander FIRS-ekonomieë.{}{}Die FIRS-webwerf verskaf gedetailleerde inligting oor elke ekonomie."}
+{"i":99,"tr":"Eetbare olie"}
+{"i":100,"tr":"Eetbare wortelgewas, ook bekend as maniok en yuca."}
+{"i":101,"tr":"Elastomeerproduktefabriek"}
+{"i":102,"tr":"Elektriese boogoven"}
+{"i":103,"tr":"Elektriese onderdele"}
+{"i":104,"tr":"Elektriese en elektroniese komponente, motors, beheerders, skakeltoerusting, ligte ens."}
+{"i":105,"tr":"Elektriese goedere"}
+{"i":106,"tr":"Enjienfabriek"}
+{"i":107,"tr":"Ingenieurswerkswinkel"}
+{"i":108,"tr":"Enjins & aandrywing"}
+{"i":109,"tr":"Verbeterde primêre produksievlak (%)"}
+{"i":110,"tr":"Landgoed"}
+{"i":111,"tr":"Ontploffingsmiddels"}
+{"i":112,"tr":"Ontploffingsmiddelfabriek"}
+{"i":113,"tr":"Fabriek"}
+{"i":114,"tr":"Plaas"}
+{"i":115,"tr":"Plase, myne en soortgelyke nywerhede sal produksie verhoog wanneer voorraadkiste afgelewer word, eers aan {SILVER}Verbeterde{BLACK}, en daarna aan {SILVER}Gung-ho{BLACK}, indien genoeg kiste afgelewer word.  {}{}Die standaardwaardes is goed, maar indien nodig kan jy hulle hier verander.  {}{}Laaivereistes vir hawe-tipe nywerhede sal 8 keer die waardes wees wat hier ingestel is."}
+{"i":116,"tr":"Gisingsaanleg"}
+{"i":117,"tr":"Ferrolegerings"}
+{"i":118,"tr":"Mis"}
+{"i":119,"tr":"Mis- & suurwerkswinkel"}
+{"i":120,"tr":"Veld"}
+{"i":121,"tr":"Fyn draad wat gebruik word om bande te versterk. Word as ’n spoel vervoer."}
+{"i":122,"tr":"Vis & Seevoedsel"}
+{"i":123,"tr":"Visplaas"}
+{"i":124,"tr":"Buigsame verseëlaars, pakkinge, slange, rieme, matte, bousings, ens., gemaak van rubber of soortgelyke materiale."}
+{"i":125,"tr":"Meel & Stysel"}
+{"i":126,"tr":"Vloeilyn"}
+{"i":127,"tr":"Voedsel"}
+{"i":128,"tr":"Voedsel & Drankies"}
+{"i":129,"tr":"Voedselbymiddels"}
+{"i":130,"tr":"Voedselkorporasie"}
+{"i":131,"tr":"Voedsel wat tydens vervoer en berging bevrore gehou word."}
+{"i":132,"tr":"Vir huishoudelike en konstruksiegebruik. Gereedskap, hulpmiddels, vaste installasies en toebehore uit metaal en ander materiale."}
+{"i":133,"tr":"Woud"}
+{"i":134,"tr":"Smidstukke & Gooistukke"}
+{"i":135,"tr":"Vrieskaste"}
+{"i":136,"tr":"Vars en gedroogde vrugte, soos piesangs, sitrus, druiwe, bessies, ananas, rosyne en soortgelyke produkte."}
+{"i":137,"tr":"Vriesdesertfabriek"}
+{"i":138,"tr":"Bevrore kos"}
+{"i":139,"tr":"Bevrore kosfabriek"}
+{"i":140,"tr":"Vrugteplantasie"}
+{"i":141,"tr":"Oond"}
+{"i":142,"tr":"GPL(v2)"}
+{"i":143,"tr":"GRFID"}
+{"i":144,"tr":"Algemene kleisoorte vir die vervaardiging van boumateriaal en ander nywerheidstoepassings."}
+{"i":145,"tr":"Algemene metaal, soos staal, aluminium of ander gewone metale."}
+{"i":146,"tr":"Algemene organiese en anorganiese chemikalieë wat as vloeistof, gas, bedekte bulk, poeier of as stukware hanteer word."}
+{"i":147,"tr":"Draerbeam"}
+{"i":148,"tr":"Glasprodukte"}
+{"i":149,"tr":"Ware"}
+{"i":150,"tr":"Graan"}
+{"i":151,"tr":"Graanmeul"}
+{"i":152,"tr":"Gruis, sand, verbryselde steen en soortgelyke materiale wat in die boubedryf gebruik word."}
+{"i":153,"tr":"Gung-ho-primaireproduksievlak (%)"}
+{"i":154,"tr":"Hardeware & Afwerkinge"}
+{"i":155,"tr":"Veeboerderykoöperasie"}
+{"i":156,"tr":"Hoëwaarde-ingenieurskomponente soos elektriese toerusting, motors, transformers, beheertoerusting, hidrouliek, pneumatiek, pompe, kleppe en aandrywingstelseltoerusting."}
+{"i":157,"tr":"Hotel"}
+{"i":158,"tr":"ID"}
+{"i":159,"tr":"Industriële koolstowwe"}
+{"i":160,"tr":"Industriële chemikalie-anleg"}
+{"i":161,"tr":"Industriële gase"}
+{"i":162,"tr":"Industriële suur wat hoofsaaklik in die produksie van kunsmis en chemikalieë gebruik word en as vloeibare bulgoed vervoer word."}
+{"i":163,"tr":"Industriële sure, soos hidrokloriensuur, salpetersuur en swawelsuur."}
+{"i":164,"tr":"Industriële alkohol wat as ’n chemiese grondstof en brandstof gebruik word en as vloeibare bulgoed vervoer word."}
+{"i":165,"tr":"Industriële chemikalie, gewoonlik kriogenies as vloeibare saamgedrukte gas vervoer."}
+{"i":166,"tr":"Industriële chemikalie. Ook bekend as Lye of Kaustiese Sooda. Gewoonlik as vloeistof vervoer."}
+{"i":167,"tr":"Industriële chemikalie. In die vorm van ’n wit poeier."}
+{"i":168,"tr":"Industriële chemikalieë wat uit ammoniak afgelei word, soos ammoniak, salpetersuur en ureum. Word as vloeistowwe, kriogenies as vloeibare gas of as droë bulk vervoer."}
+{"i":169,"tr":"Industriële chemikalieë wat in vervaardiging en verwerking gebruik word, en as vloeistowwe, poeiers, gase of verpakte goedere vervoer word."}
+{"i":170,"tr":"Industriële gas. Word kriogenies as vloeibare, saamgeperste gas vervoer."}
+{"i":171,"tr":"Industriële gase wat in chemiese verwerking, metaalbewerking en sweiswerk gebruik word, en in silinders of drukvragmotors vervoer word."}
+{"i":172,"tr":"’n Industriële mineraal, ook bekend as kaolien, wat hoofsaaklik in papier- en plastiekproduksie gebruik word."}
+{"i":173,"tr":"Industriële minerale wat in chemiese verwerking gebruik word. Bariet word in bariumchemikalieë en vulmiddels gebruik; fluorspar word in fluorchemie en metallurgiese fluxe gebruik."}
+{"i":174,"tr":"Ingote."}
+{"i":175,"tr":"Bestanddele wat in voedselverwerking gebruik word, soos konserveermiddels, geurmiddels, kleurstowwe en verwerkingshulpmiddels."}
+{"i":176,"tr":"Intens swart koolstofpoeier wat in bande, plastiek en pigmente gebruik word. Word as ’n poeier hanteer."}
+{"i":177,"tr":"Tussenganger-chemiese produkte wat as grondstowwe vir verdere industriële verwerking gebruik word."}
+{"i":178,"tr":"Tussenganger-suikerprodukte vir raffinering, fermentasie en industriële gebruik. Klewerige korrels word as bedekte bulk hanteer; dik stroop as ’n vloeistof; albei kan verpak word."}
+{"i":179,"tr":"Binneverbrandingsenjins en verwante aandrywingstelselonderdele, soos transmissies en aandryfasse."}
+{"i":180,"tr":"Ystererts"}
+{"i":181,"tr":"Ysterertsmyn"}
+{"i":182,"tr":"Ystersteen"}
+{"i":183,"tr":"Owe"}
+{"i":184,"tr":"Kimberlietvoorvalle"}
+{"i":185,"tr":"LAND"}
+{"i":186,"tr":"Landingsplatform"}
+{"i":187,"tr":"Ligte koolwaterstowwe"}
+{"i":188,"tr":"Ligte petrolemfraksies wat as chemiese grondstowwe gebruik word en as grootmaatvloeistowwe vervoer word."}
+{"i":189,"tr":"Kalksteen"}
+{"i":190,"tr":"Kalksteengroef"}
+{"i":191,"tr":"Kalksteengroeve"}
+{"i":192,"tr":"Vee"}
+{"i":193,"tr":"Houtstamlandingsplek"}
+{"i":194,"tr":"Houtstamme"}
+{"i":195,"tr":"Houtstamme uit ’n woud."}
+{"i":196,"tr":"Lang hol buise met ronde, reghoekige en ander dwarsdeursnee. Word gebruik om strukture en masjiene te vervaardig."}
+{"i":197,"tr":"Lang ronde staalpipe vir die vervoer van vloeistowwe in pyplyne, geboue, nywerhede, ens."}
+{"i":198,"tr":"Masjiene, brandstof, onderdele, kunsmis en ander voorrade vir plase, woude en soortgelyke nywerhede."}
+{"i":199,"tr":"Masjiene, brandstof, onderdele, houtprodukte, pype, springstof en ander voorrade vir myne en soortgelyke nywerhede."}
+{"i":200,"tr":"Masjiene, onderdele, brandstof, boumateriaal en ander voorrade vir hawens, dokke en soortgelyke nywerhede."}
+{"i":201,"tr":"Pos"}
+{"i":202,"tr":"Mieliemeel"}
+{"i":203,"tr":"Mangaan"}
+{"i":204,"tr":"Mangaanmyn"}
+{"i":205,"tr":"Mangaanmynne"}
+{"i":206,"tr":"Mangaanerts, hoofsaaklik gebruik in staalproduksie."}
+{"i":207,"tr":"Weivelde"}
+{"i":208,"tr":"Vleis"}
+{"i":209,"tr":"Handelsbaarg"}
+{"i":210,"tr":"Metaalwerkswinkel"}
+{"i":211,"tr":"Metaaldele vir samestelling tot groter items."}
+{"i":212,"tr":"Metaalware"}
+{"i":213,"tr":"Metanol"}
+{"i":214,"tr":"Mild Mild West"}
+{"i":215,"tr":"Meulens"}
+{"i":216,"tr":"Minerale vulstowwe"}
+{"i":217,"tr":"Minerale vulstofplant"}
+{"i":218,"tr":"Minerale"}
+{"i":219,"tr":"Mynene"}
+{"i":220,"tr":"Hoofsaaklik koeie, varke en skape vir vleisproduksie. Ander diere kan ook geëet word."}
+{"i":221,"tr":"Hoofsaaklik natuurlike latex."}
+{"i":222,"tr":"Hoofsaaklik vragmotore. Of motors. Of ligte vragmotore. Moontlik trekkers."}
+{"i":223,"tr":"Gietstukke"}
+{"i":224,"tr":"Stikstof"}
+{"i":225,"tr":"Nie-ysterhoudende metale, soos koper, nikkel, sink en lood."}
+{"i":226,"tr":"Olie"}
+{"i":227,"tr":"Olie- en chemikalie-terminaal"}
+{"i":228,"tr":"Olieraffinage"}
+{"i":229,"tr":"Olieboorplatform"}
+{"i":230,"tr":"Oliebronne"}
+{"i":231,"tr":"Olie vir kook en verbruik."}
+{"i":232,"tr":"Uitplante"}
+{"i":233,"tr":"Suurstof"}
+{"i":234,"tr":"Verpakking"}
+{"i":235,"tr":"Verf & Bedekkings"}
+{"i":236,"tr":"Papier"}
+{"i":237,"tr":"Papiermaalmasjien"}
+{"i":238,"tr":"Papierproduktefabriek"}
+{"i":239,"tr":"Passasiers"}
+{"i":240,"tr":"Turf"}
+{"i":241,"tr":"Turfgebiede"}
+{"i":242,"tr":"Petrol, diesel en soortgelyke brandstowwe."}
+{"i":243,"tr":"Fosfaat"}
+{"i":244,"tr":"Fosfaatom"}
+{"i":245,"tr":"Fosforsoer"}
+{"i":246,"tr":"Gruyterys"}
+{"i":247,"tr":"Pypwinkel"}
+{"i":248,"tr":"Plant"}
+{"i":249,"tr":"Plant & Masjinerie"}
+{"i":250,"tr":"Plastiekvormfabriek"}
+{"i":251,"tr":"Plastiek & Hars"}
+{"i":252,"tr":"Plaatmeul"}
+{"i":253,"tr":"Kalium"}
+{"i":254,"tr":"Kaliummyn"}
+{"i":255,"tr":"Gevormde graanprodukte soos meel en stysel, in sakke of in bedekte grootmaat vervoer."}
+{"i":256,"tr":"Kragstelselfabriek"}
+{"i":257,"tr":"Aangedrewe toerusting en meganiese stelsels wat in geboue, nywerhede en plase gebruik word. As volledige eenhede of as groot deelmonterings vervoer."}
+{"i":258,"tr":"Kraglyn"}
+{"i":259,"tr":"Voorafgestort"}
+{"i":260,"tr":"Presisiekomponente"}
+{"i":261,"tr":"Presisieonderdeelfabriek"}
+{"i":262,"tr":"Persings"}
+{"i":263,"tr":"Proseschemikalieë"}
+{"i":264,"tr":"Proseschemikalie-anleg"}
+{"i":265,"tr":"Verwerkte houtsvesel wat hoofsaaklik vir papierproduksie gebruik word en as bale of bulkpulp vervoer word."}
+{"i":266,"tr":"Verwerkte houtprodukte van ’n saagsaag of soortgelyke nywerhede."}
+{"i":267,"tr":"Produktinpakker"}
+{"i":268,"tr":"Produksie op plase, myne en soortgelyke nywerhede wanneer verskaffingsvereistes vervul word (as ’n persentasie van die {SILVER}normale {BLACK}produksievlak)."}
+{"i":269,"tr":"Pompe"}
+{"i":270,"tr":"Pompe & kleppe"}
+{"i":271,"tr":"Piriethope"}
+{"i":272,"tr":"Piriemyne"}
+{"i":273,"tr":"Pirierts"}
+{"i":274,"tr":"Pirietsmeltery"}
+{"i":275,"tr":"Python 3.11+"}
+{"i":276,"tr":"Steengroef"}
+{"i":277,"tr":"Leiwit"}
+{"i":278,"tr":"Rou suiker & melasse"}
+{"i":279,"tr":"Rou of geroosterde koffiebone."}
+{"i":280,"tr":"Rou plastiek vir verdere verwerking. Gewoonlik as harskrale vervoer."}
+{"i":281,"tr":"Wapeningsstaal"}
+{"i":282,"tr":"Verfynde aluminiummetaal, in rolle, staafstukke, slabe ens."}
+{"i":283,"tr":"Verfynde kopermetaal, in rolle, staafstukke ens."}
+{"i":284,"tr":"Verfynde petroleumprodukte soos petrol, diesel, kerosien, LPG, brandolie en bunkerbrandstof, vervoer as massavloeistowwe of vloeibaargas."}
+{"i":285,"tr":"Reinderheins"}
+{"i":286,"tr":"Wegsteenplant"}
+{"i":287,"tr":"Staafmeul"}
+{"i":288,"tr":"Gerolde staalplate en profiele – I-balks, H-balks, kanale ens. Vervoer word as lang, reguit produkte uitgevoer."}
+{"i":289,"tr":"Toue en kables wat vervaardig word deur staaldraadstaaf tot ’n kleiner deursnee te trek en dit dan tot gebundelde toue te draai."}
+{"i":290,"tr":"Ruwe staalgietstukke wat verdere verwerking vereis. Ingote kan klein of baie groot wees. Tipiese ingootprofiele is reghoekig of rond."}
+{"i":291,"tr":"Gom"}
+{"i":292,"tr":"Gommaatskappy"}
+{"i":293,"tr":"Gomplantasie"}
+{"i":294,"tr":"SEE"}
+{"i":295,"tr":"Sout"}
+{"i":296,"tr":"Soutwerke"}
+{"i":297,"tr":"Salpeterwerke"}
+{"i":298,"tr":"Sand"}
+{"i":299,"tr":"Sandbank"}
+{"i":300,"tr":"Sagmeul"}
+{"i":301,"tr":"Seevoedsel"}
+{"i":302,"tr":"Seël en slang"}
+{"i":303,"tr":"Seëls, slange en rieme"}
+{"i":304,"tr":"Seksie- en staafmeul"}
+{"i":305,"tr":"Halfverwerkte staalgietstukke. Alttyd plat en reghoekig in dwarsdoorsnit."}
+{"i":306,"tr":"Halfverwerkte staalgietstukke. Reghoekig, vierkantig of rond in dwarsdoorsnit."}
+{"i":307,"tr":"Skerpstraat"}
+{"i":308,"tr":"Sande"}
+{"i":309,"tr":"Kuslyn"}
+{"i":310,"tr":"Silo"}
+{"i":311,"tr":"Eenvoudige ekonomie. Geïnspireer deur Argentinië, Peru en Chili. Werk die beste met ’n Subtropiese klimaat."}
+{"i":312,"tr":"Eenvoudige ekonomie. Geïnspireer deur Finland, Noord-Canada en Noord-Siberië. Word die beste met ’n subarktiese klimaat gebruik."}
+{"i":313,"tr":"Eenvoudige ekonomie. Geïnspireer deur die suidweste van die Verenigde Koninkryk. Word die beste met ’n gematigde klimaat gebruik."}
+{"i":314,"tr":"Slabwerf"}
+{"i":315,"tr":"Slak"}
+{"i":316,"tr":"Slakmeul"}
+{"i":317,"tr":"Smeltkroes"}
+{"i":318,"tr":"Sodaas"}
+{"i":319,"tr":"Sodaasmyne"}
+{"i":322,"tr":"Natriumhidroksied"}
+{"i":323,"tr":"Roetoven"}
+{"i":324,"tr":"Staal"}
+{"i":325,"tr":"Staalsmidery & Gietery"}
+{"i":326,"tr":"Staalkluise"}
+{"i":327,"tr":"Staalmolen"}
+{"i":328,"tr":"Staalpyp"}
+{"i":329,"tr":"Staalplaat"}
+{"i":330,"tr":"Staalvel en -strook"}
+{"i":331,"tr":"Staalslab"}
+{"i":332,"tr":"Staalbuis"}
+{"i":333,"tr":"Staaldraadstaaf"}
+{"i":334,"tr":"Staale, soos ronde, vierkante, platte en ander profile. Vervoer word as lang, reguit produkte."}
+{"i":335,"tr":"Staaldraad en dun stawe. Word hoofsaaklik as rolle vervoer."}
+{"i":336,"tr":"Staalmasters"}
+{"i":337,"tr":"Staaltown"}
+{"i":338,"tr":"Opleidingsvate en pypwerk"}
+{"i":339,"tr":"Opleidingsvate, drukvate, silo's, gascilinders en pypassemblages vir gebruik in stedelike geboue, nywerhede en plase."}
+{"i":340,"tr":"Winkels"}
+{"i":341,"tr":"Strookmolen"}
+{"i":342,"tr":"Strukturele staal"}
+{"i":343,"tr":"Staal van strukturele gehalte as gerolde profiele (I-balks, H-balks, ens.), as plat plaat of as vervaardigde profiele en balks wat uit plaat gesweis is."}
+{"i":344,"tr":"Suiker"}
+{"i":345,"tr":"Suikermasjappary"}
+{"i":346,"tr":"Sulfiedminerale, gesmelt om 'n verskeidenheid nywerheidsprodukte te vervaardig."}
+{"i":347,"tr":"Svael"}
+{"i":348,"tr":"Sviersuur"}
+{"i":349,"tr":"Voorsienings vir die sny en sweis van metaal, soos sweisstawe, gereedskap en nywerheidsgasse, waaronder asetileen, argon, propaan, suurstof en stikstof."}
+{"i":350,"tr":"Voorsieningswerf"}
+{"i":351,"tr":"Voorsieningskiste wat vir Verbeterde primêre produksie nodig is (standaard 16)"}
+{"i":352,"tr":"Voorsieningskiste wat vir Gung-ho-primêre produksie nodig is (standaard 80)"}
+{"i":353,"tr":"Tankplaas"}
+{"i":354,"tr":"Tapperskuur"}
+{"i":355,"tr":"Dik petroliumprodukt wat hoofsaaklik vir padoppervlakke en dakbedekking gebruik word."}
+{"i":356,"tr":"Dun gerolde staalplate en -strepies wat wyd gebruik word om ander produkte te vervaardig. Dit word as plat plate of rolle vervoer."}
+{"i":357,"tr":"Dun, growwe staalstawe wat wyd gebruik word om betonstrukture te versterk. Dit word as rolle of bondels reguit stawe vervoer."}
+{"i":358,"tr":"Dun staalplate wat met tyn bedek is om korrosie te weerstaan en hoofsaaklik vir blikkies, houers en ander verpakking gebruik word."}
+{"i":359,"tr":"Houtprodukte"}
+{"i":360,"tr":"Tin"}
+{"i":361,"tr":"Tinmyn"}
+{"i":362,"tr":"Tinplaat"}
+{"i":363,"tr":"Tinplaatfabriek"}
+{"i":364,"tr":"Spoorvoertuigfabriek"}
+{"i":366,"tr":"Trona-bede"}
+{"i":367,"tr":"Vragmotorparkeerterrein"}
+{"i":368,"tr":"Buis- en pypmeul"}
+{"i":369,"tr":"Buismeul"}
+{"i":370,"tr":"Bandkabel"}
+{"i":371,"tr":"Bandfabriek"}
+{"i":372,"tr":"Word in die produksie van legerings en vlekvrye staal gebruik; ’n legering van chroom en yster. Grys klonte, soortgelyk aan steenkoolklonte in grootte en vorm."}
+{"i":373,"tr":"Word in staalproduksie gebruik. Legerings van yster en ander elemente, waaronder mangaan, nikkel, chroom, aluminium, silisium en wolfraam. Grys klonte, soortgelyk aan steenkoolklonte in grootte en vorm."}
+{"i":374,"tr":"Groente"}
+{"i":375,"tr":"Voertuigkarosse"}
+{"i":376,"tr":"Voertuigverdelers"}
+{"i":377,"tr":"Wynlandgoed"}
+{"i":378,"tr":"Afvalproduk uit yster- en staalproduksie."}
+{"i":379,"tr":"Waterkant"}
+{"i":380,"tr":"Weldverbruiksware"}
+{"i":381,"tr":"Putte"}
+{"i":382,"tr":"Pier"}
+{"i":383,"tr":"Mynput"}
+{"i":384,"tr":"Koring, gerst ens."}
+{"i":385,"tr":"Wit poeier wat uit boksieterts verfyn word en gebruik word om aluminiummetaal te vervaardig."}
+{"i":386,"tr":"Wit, grys of bruin kalsiumsulfaatklip wat in die produksie van swawelsuur en sement gebruik word. Word dikwels as bedekte bulk vervoer."}
+{"i":387,"tr":"Wyd gebruikte nywerheidschemikalie. Heldergeel, in poeier- of vloeibare vorm."}
+{"i":388,"tr":"Wyd gebruikte nywerheidschemikalie. Word gewoonlik as bulklading vervoer wat droog gehou moet word."}
+{"i":389,"tr":"Wynery"}
+{"i":390,"tr":"Draadstaafmeul"}
+{"i":391,"tr":"Houtpulp"}
+{"i":392,"tr":"Werf"}
+{"i":393,"tr":"Sink"}
+{"i":394,"tr":"Sinkmyn"}
+{"i":395,"tr":"Sinkerts"}
+{"i":396,"tr":"Sinksmelter"}
+{"i":397,"tr":"{BLACK}Huidige produksie: {YELLOW}Verbeterde {}{}{BLACK}Om hierdie vlak te handhaaf, lewer {SIGNED_WORD} kiste voorrade minstens een keer elke drie minute.{}Vir {WHITE}Gung-ho {BLACK}-produksie, lewer {SIGNED_WORD} kiste."}
+{"i":398,"tr":"{BLACK}Huidige produksie: {YELLOW}Verbeterde {}{}{BLACK}Om hierdie vlak te handhaaf, lewer {SIGNED_WORD} eenhede vrag minstens een keer elke drie minute.{}Vir {WHITE}Gung-ho {BLACK}-produksie, lewer {SIGNED_WORD} eenhede."}
+{"i":399,"tr":"{BLACK}Huidige produksie: {YELLOW}Normaal {}{}{BLACK}Vir {WHITE}Verbeterde {BLACK}-produksie, lewer {SIGNED_WORD} kiste voorrade minstens een keer elke drie minute.{}Vir {WHITE}Gung-ho {BLACK}-produksie, lewer {SIGNED_WORD} kiste."}
+{"i":400,"tr":"{BLACK}Huidige produksie: {YELLOW}Normaal {}{}{BLACK}Vir {WHITE}Verbeterde {BLACK}-produksie, lewer {SIGNED_WORD} eenhede vrag minstens een keer elke drie minute.{}Vir {WHITE}Gung-ho {BLACK}-produksie, lewer {SIGNED_WORD} eenhede."}
+{"i":401,"tr":"{BLACK}Vir die maksimum produksietempo, verskaf {WHITE}alle {BLACK}vereiste vragte minstens een keer elke drie minute."}
+{"i":402,"tr":"{BLACK}Vir die maksimum produksietempo, verskaf {WHITE}minstens drie {BLACK}vereiste vragte minstens een keer elke drie minute."}
+{"i":403,"tr":"{BLACK}Vir die maksimum produksietempo, verskaf {WHITE}minstens twee {BLACK}vereiste vragte minstens een keer elke drie minute."}
+{"i":404,"tr":"{BLACK}Vir die maksimum produksietempo, verskaf {WHITE}albei {BLACK}vereiste vragte minstens een keer elke drie minute."}
+{"i":405,"tr":"{BLACK}Produksie is eweredig aan die dorp se bevolking. Minstens {WHITE}{SIGNED_WORD} eenhede{BLACK} en nie meer as {WHITE}{SIGNED_WORD} eenhede{BLACK} vrag sal elke minuut geproduseer word."}
+{"i":406,"tr":"{BLACK}Verskaf {WHITE}minstens een {BLACK} vereiste vrag vir maksimum produksie."}
+{"i":407,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":408,"tr":"{ORANGE}E00: FIRS vereis OpenTTD 1.7.0 (of, vir dié wat tronkbouwerke gebruik, r27769)"}
+{"i":409,"tr":"{ORANGE}E01: {YELLOW}Onversoenbare stel: {ORANGE}{STRING}"}
+{"i":410,"tr":"{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}CanSet-parameter 2 moet 0 wees om met FIRS te werk."}
+{"i":411,"tr":"{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met FIRS te werk."}
+{"i":412,"tr":"{ORANGE}E04: {YELLOW}Onversoenbare weergawe: {ORANGE}Total Town Replacement Set moet weergawe 3.11 of nuwer wees."}
+{"i":413,"tr":"{TINYFONT}AA"}
+{"i":414,"tr":"{TINYFONT}AC"}
+{"i":415,"tr":"{TINYFONT}AG"}
+{"i":416,"tr":"{TINYFONT}AM"}
+{"i":417,"tr":"{TINYFONT}AO"}
+{"i":418,"tr":"{TINYFONT}AP"}
+{"i":419,"tr":"{TINYFONT}AY"}
+{"i":420,"tr":"{TINYFONT}BB"}
+{"i":421,"tr":"{TINYFONT}BI"}
+{"i":422,"tr":"{TINYFONT}BM"}
+{"i":423,"tr":"{TINYFONT}BN"}
+{"i":424,"tr":"{TINYFONT}CA"}
+{"i":425,"tr":"{TINYFONT}CB"}
+{"i":426,"tr":"{TINYFONT}CE"}
+{"i":427,"tr":"{TINYFONT}CF"}
+{"i":428,"tr":"{TINYFONT}CH"}
+{"i":429,"tr":"{TINYFONT}CI"}
+{"i":430,"tr":"{TINYFONT}CK"}
+{"i":431,"tr":"{TINYFONT}CN"}
+{"i":432,"tr":"{TINYFONT}CO"}
+{"i":433,"tr":"{TINYFONT}CP"}
+{"i":434,"tr":"{TINYFONT}CR"}
+{"i":435,"tr":"{TINYFONT}CT"}
+{"i":436,"tr":"{TINYFONT}CY"}
+{"i":437,"tr":"{TINYFONT}EL"}
+{"i":438,"tr":"{TINYFONT}EO"}
+{"i":439,"tr":"{TINYFONT}EP"}
+{"i":440,"tr":"{TINYFONT}ES"}
+{"i":441,"tr":"{TINYFONT}EX"}
+{"i":442,"tr":"{TINYFONT}FA"}
+{"i":443,"tr":"{TINYFONT}FI"}
+{"i":444,"tr":"{TINYFONT}FL"}
+{"i":445,"tr":"{TINYFONT}FO"}
+{"i":446,"tr":"{TINYFONT}FS"}
+{"i":447,"tr":"{TINYFONT}FV"}
+{"i":448,"tr":"{TINYFONT}GL"}
+{"i":449,"tr":"{TINYFONT}HW"}
+{"i":450,"tr":"{TINYFONT}IG"}
+{"i":451,"tr":"{TINYFONT}KA"}
+{"i":452,"tr":"{TINYFONT}LG"}
+{"i":453,"tr":"{TINYFONT}LH"}
+{"i":454,"tr":"{TINYFONT}LS"}
+{"i":455,"tr":"{TINYFONT}LU"}
+{"i":456,"tr":"{TINYFONT}MA"}
+{"i":457,"tr":"{TINYFONT}MF"}
+{"i":458,"tr":"{TINYFONT}MK"}
+{"i":459,"tr":"{TINYFONT}ML"}
+{"i":460,"tr":"{TINYFONT}MN"}
+{"i":461,"tr":"{TINYFONT}MO"}
+{"i":462,"tr":"{TINYFONT}N7"}
+{"i":463,"tr":"{TINYFONT}NA"}
+{"i":464,"tr":"{TINYFONT}NI"}
+{"i":465,"tr":"{TINYFONT}NT"}
+{"i":466,"tr":"{TINYFONT}O2"}
+{"i":467,"tr":"{TINYFONT}OC"}
+{"i":468,"tr":"{TINYFONT}PA"}
+{"i":469,"tr":"{TINYFONT}PC"}
+{"i":470,"tr":"{TINYFONT}PE"}
+{"i":471,"tr":"{TINYFONT}PG"}
+{"i":472,"tr":"{TINYFONT}PH"}
+{"i":473,"tr":"{TINYFONT}PI"}
+{"i":474,"tr":"{TINYFONT}PL"}
+{"i":475,"tr":"{TINYFONT}PM"}
+{"i":476,"tr":"{TINYFONT}PT"}
+{"i":477,"tr":"{TINYFONT}PV"}
+{"i":478,"tr":"{TINYFONT}PW"}
+{"i":479,"tr":"{TINYFONT}PY"}
+{"i":480,"tr":"{TINYFONT}QL"}
+{"i":481,"tr":"{TINYFONT}RB"}
+{"i":482,"tr":"{TINYFONT}SA"}
+{"i":483,"tr":"{TINYFONT}SB"}
+{"i":484,"tr":"{TINYFONT}SD"}
+{"i":485,"tr":"{TINYFONT}SE"}
+{"i":486,"tr":"{TINYFONT}SG"}
+{"i":487,"tr":"{TINYFONT}SH"}
+{"i":488,"tr":"{TINYFONT}SI"}
+{"i":489,"tr":"{TINYFONT}SL"}
+{"i":490,"tr":"{TINYFONT}SM"}
+{"i":491,"tr":"{TINYFONT}SO"}
+{"i":492,"tr":"{TINYFONT}SP"}
+{"i":493,"tr":"{TINYFONT}ST"}
+{"i":494,"tr":"{TINYFONT}STSW"}
+{"i":495,"tr":"{TINYFONT}SU"}
+{"i":496,"tr":"{TINYFONT}SW"}
+{"i":497,"tr":"{TINYFONT}SY"}
+{"i":498,"tr":"{TINYFONT}TC"}
+{"i":499,"tr":"{TINYFONT}TI"}
+{"i":500,"tr":"{TINYFONT}TP"}
+{"i":501,"tr":"{TINYFONT}TY"}
+{"i":502,"tr":"{TINYFONT}VB"}
+{"i":503,"tr":"{TINYFONT}VE"}
+{"i":504,"tr":"{TINYFONT}VG"}
+{"i":505,"tr":"{TINYFONT}VP"}
+{"i":506,"tr":"{TINYFONT}VS"}
+{"i":507,"tr":"{TINYFONT}WL"}
+{"i":508,"tr":"{TINYFONT}WP"}
+{"i":509,"tr":"{TINYFONT}WS"}
+{"i":510,"tr":"{TINYFONT}ZN"}
+{"i":511,"tr":"{TINYFONT}ZO"}
+{"i":512,"tr":"{VOLUME} suur"}
+{"i":513,"tr":"{VOLUME} ammoniak- en salpetersuurprodukte"}
+{"i":514,"tr":"{VOLUME} bitumen"}
+{"i":515,"tr":"{VOLUME} chemiese intermediêre produkte"}
+{"i":516,"tr":"{VOLUME} chloor"}
+{"i":517,"tr":"{VOLUME} koolteer"}
+{"i":518,"tr":"{VOLUME} eetbare olie"}
+{"i":519,"tr":"{VOLUME} nywerheidsgasse"}
+{"i":520,"tr":"{VOLUME} ligte koolwaterstowwe"}
+{"i":521,"tr":"{VOLUME} metanol"}
+{"i":522,"tr":"{VOLUME} stikstof"}
+{"i":523,"tr":"{VOLUME} suurstof"}
+{"i":524,"tr":"{VOLUME} verf & bedekkings"}
+{"i":525,"tr":"{VOLUME} fosforsoer"}
+{"i":526,"tr":"{VOLUME} natriumhidroksied"}
+{"i":527,"tr":"{VOLUME} swaelsoer"}
+{"i":528,"tr":"{WEIGHT} van aggregaat"}
+{"i":529,"tr":"{WEIGHT} van alumina"}
+{"i":530,"tr":"{WEIGHT} van aluminium"}
+{"i":531,"tr":"{WEIGHT} van anhidrietklip"}
+{"i":532,"tr":"{WEIGHT} van appels"}
+{"i":533,"tr":"{WEIGHT} van bariet en fluorspar"}
+{"i":534,"tr":"{WEIGHT} van billette en bloeisels"}
+{"i":535,"tr":"{WEIGHT} van koolstofswart"}
+{"i":536,"tr":"{WEIGHT} van kassawa"}
+{"i":537,"tr":"{WEIGHT} van gietyster"}
+{"i":538,"tr":"{WEIGHT} van sement"}
+{"i":539,"tr":"{WEIGHT} van Kina-kley"}
+{"i":540,"tr":"{WEIGHT} skoonmaakmiddels"}
+{"i":541,"tr":"{WEIGHT} koks"}
+{"i":542,"tr":"{WEIGHT} betonprodukte"}
+{"i":543,"tr":"{WEIGHT} koper"}
+{"i":544,"tr":"{WEIGHT} elektriese onderdele"}
+{"i":545,"tr":"{WEIGHT} enjins & aandrywingstelsels"}
+{"i":546,"tr":"{WEIGHT} springstof"}
+{"i":547,"tr":"{WEIGHT} ferrolegerings"}
+{"i":548,"tr":"{WEIGHT} kunsmis"}
+{"i":549,"tr":"{WEIGHT} vis & seevoedsel"}
+{"i":550,"tr":"{WEIGHT} meel & stysel"}
+{"i":551,"tr":"{WEIGHT} kos & drankies"}
+{"i":552,"tr":"{WEIGHT} van voedselbymiddels"}
+{"i":553,"tr":"{WEIGHT} van smeedstukke & gietstukke"}
+{"i":554,"tr":"{WEIGHT} van bevrore voedsel"}
+{"i":555,"tr":"{WEIGHT} van glasprodukte"}
+{"i":556,"tr":"{WEIGHT} van goedere"}
+{"i":557,"tr":"{WEIGHT} van hardeware & afwerkings"}
+{"i":558,"tr":"{WEIGHT} van nywerheidskoolstowwe"}
+{"i":559,"tr":"{WEIGHT} van kalksteen"}
+{"i":560,"tr":"{WEIGHT} van boomstamme"}
+{"i":561,"tr":"{WEIGHT} van mangaan"}
+{"i":562,"tr":"{WEIGHT} van vleis"}
+{"i":563,"tr":"{WEIGHT} van handelsstaaf"}
+{"i":564,"tr":"{WEIGHT} van minerale vulstowwe"}
+{"i":565,"tr":"{WEIGHT} van neute"}
+{"i":566,"tr":"{WEIGHT} van verpakking"}
+{"i":567,"tr":"{WEIGHT} van turf"}
+{"i":568,"tr":"{WEIGHT} van fosfaat"}
+{"i":569,"tr":"{WEIGHT} van ru-yster"}
+{"i":570,"tr":"{WEIGHT} van plante & masjinerie"}
+{"i":571,"tr":"{WEIGHT} van plastiek & hars"}
+{"i":572,"tr":"{WEIGHT} van kalium"}
+{"i":573,"tr":"{WEIGHT} van presisiekomponente"}
+{"i":574,"tr":"{WEIGHT} van prosesschemikalieë"}
+{"i":575,"tr":"{WEIGHT} van pompe & kleppe"}
+{"i":576,"tr":"{WEIGHT} pirieterts"}
+{"i":577,"tr":"{WEIGHT} lewende kalk"}
+{"i":578,"tr":"{WEIGHT} rou suiker & melasse"}
+{"i":579,"tr":"{WEIGHT} wapeningsstaal"}
+{"i":580,"tr":"{WEIGHT} sout"}
+{"i":581,"tr":"{WEIGHT} seëls, slange & rieme"}
+{"i":582,"tr":"{WEIGHT} slak"}
+{"i":583,"tr":"{WEIGHT} sodaas"}
+{"i":584,"tr":"{WEIGHT} staal"}
+{"i":585,"tr":"{WEIGHT} staalblokke"}
+{"i":586,"tr":"{WEIGHT} staalpijp"}
+{"i":587,"tr":"{WEIGHT} staalplaat"}
+{"i":588,"tr":"{WEIGHT} van staalblad & -strook"}
+{"i":589,"tr":"{WEIGHT} van staalslab"}
+{"i":590,"tr":"{WEIGHT} van staalpijp"}
+{"i":591,"tr":"{WEIGHT} van staaldraadstaaf"}
+{"i":592,"tr":"{WEIGHT} van bergingstanke & pypwerk"}
+{"i":593,"tr":"{WEIGHT} van konstruksiestaal"}
+{"i":594,"tr":"{WEIGHT} van swael"}
+{"i":595,"tr":"{WEIGHT} van houtprodukte"}
+{"i":596,"tr":"{WEIGHT} van tin"}
+{"i":597,"tr":"{WEIGHT} van tynplaat"}
+{"i":598,"tr":"{WEIGHT} van bandkord"}
+{"i":599,"tr":"{WEIGHT} van bande"}
+{"i":600,"tr":"{WEIGHT} groente"}
+{"i":601,"tr":"{WEIGHT} voertuigkarosse"}
+{"i":602,"tr":"{WEIGHT} voertuigonderdele"}
+{"i":603,"tr":"{WEIGHT} voertuie"}
+{"i":604,"tr":"{WEIGHT} sweisverbruiksmateriaal"}
+{"i":605,"tr":"{WEIGHT} houtselwee"}
+{"i":606,"tr":"{WEIGHT} sink"}
+{"i":607,"tr":"{WEIGHT} sinkerts"}
+{"i":608,"tr":"{WEIGHT} sak{P 0 \"\" s} koffie"}
+{"i":609,"tr":"{}{BLACK}Ligging: {YELLOW}Kan slegs op sneeu gefinansier word."}
+{"i":320,"tr":"Natriumhidroksied"}
+{"i":321,"tr":"Roetoven"}
+{"i":365,"tr":"Trona-bede"}
+{"i": 410, "tr": "{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}CanSet-parameter 2 moet 0 wees om met CIRS te werk."}
+{"i": 411, "tr": "{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met CIRS te werk."}
+{"i": 408, "tr": "{ORANGE}E00: CIRS vereis OpenTTD 1.7.0 (of, vir dié wat tronkbouwerke gebruik, r27769)"}
+{"i": 98, "tr": "Elke ekonomie bied ’n ander kombinasie van vragte en nywerhede.{}{}Vir spelers wat eenvoudige spel wil hê, bevat {SILVER}Basiese {BLACK}ekonomieë minder nywerhede en vragte as ander CIRS-ekonomieë.{}{}Die CIRS-webwerf verskaf gedetailleerde inligting oor elke ekonomie."}
+{"i": 30, "tr": "Billette, blooms, ingote en slabe."}
+{"i": 30, "tr": "Billette, blooms, ingote en slabe."}
+{"i": 29, "tr": "Billette & blooms"}

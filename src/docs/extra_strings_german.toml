@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Kohlemine"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Kupfermine"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Diamantmine"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Lebensmittelverarbeitungswerk"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Wald"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Obstplantage"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Eisenerzmine"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Ölraffinerie"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Ölplattform"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Ölquellen"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Papierwerk"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Gummipflanzung"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Sägerei"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Stahlwerk"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Kohle"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Kupfererz"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamanten"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Nahrung"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Waren"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Getreide"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Eisenerz"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Vieh"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Post"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Mais"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Öl"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Papier"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Fahrgäste"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Gummi"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Zucker"
+
+[ECONOMY_INFO_FIRS]
+base = "Komplexe Wirtschaft mit vielen Industrien und Gütern."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Einfache Wirtschaft. Inspiriert von Finnland, Nordkanada und Nordsibirien. Am besten mit subarktischem Klima."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Einfache Wirtschaft. Inspiriert von Südwest-England. Am besten mit gemäßigtem Klima."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Einfache Wirtschaft. Inspiriert von Argentinien, Peru und Chile. Am besten mit subtropischem Klima."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Komplexe Wirtschaft mit vielen Industrien und Gütern. Inspiriert von West- und Zentralafrika. Am besten mit subtropischem Klima."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Komplexe Wirtschaft mit Eisen-, Stahl- und Schwerindustrie."
+
+[CARGO_INFO_PASSENGERS]
+base = "In allen Wirtschaften verfügbar. Von städtischen Gebäuden sowie einigen wenigen Industrien produziert und angenommen."
+
+[CARGO_INFO_MAIL]
+base = "In allen Wirtschaften verfügbar. Von städtischen Gebäuden produziert und angenommen."
+
+[CARGO_INFO_ACID]
+base = "Industriesäuren wie Salzsäure, Salpetersäure und Schwefelsäure."
+
+[CARGO_INFO_AGGREGATES]
+base = "Kies, Sand, gebrochener Stein und ähnliche im Bauwesen verwendete Materialien."
+
+[CARGO_INFO_ALUMINA]
+base = "Weißes Pulver, aus Bauxiterz raffiniert, zur Herstellung von Aluminiummetall."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Raffiniertes Aluminiummetall, in Rollen, Barren, Platten usw."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Industriechemikalien auf Ammoniakbasis wie Ammoniak, Salpetersäure und Harnstoff. Als Flüssigkeiten, kryogen als verflüssigtes Gas oder als Trockenschüttgut transportiert."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Weißer, grauer oder brauner Calciumsulfatstein, in Schwefelsäure- und Zementproduktion verwendet. Oft als abgedecktes Schüttgut transportiert."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Industriemineralien, die in der chemischen Verarbeitung verwendet werden. Baryt wird in Bariumchemikalien und Füllstoffen verwendet; Flussspat in Fluorchemie und metallurgischen Flüssen."
+
+[CARGO_INFO_BASE_METALS]
+base = "Nichteisenmetalle wie Kupfer, Nickel, Zink und Blei."
+
+[CARGO_INFO_BEANS]
+base = "Gewöhnliche Bohnen, Saubohnen, Sojabohnen und ähnliche essbare Hülsenfrüchte."
+
+[CARGO_INFO_BITUMEN]
+base = "Dickes Erdölprodukt, das hauptsächlich für Straßenbelag und Dachdeckung verwendet wird."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Zement, Glas, Metallteile, Holzprodukte, Rohre und ähnliche Baumaterialien."
+
+[CARGO_INFO_CASSAVA]
+base = "Essbare Wurzelfrucht, auch bekannt als Maniok und Yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Intensiv schwarzes Kohlepulver, verwendet in Reifen, Kunststoffen und Pigmenten.  Als Pulver behandelt."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Knüppel, Blöcke, Barren und Platten."
+
+[CARGO_INFO_CAST_IRON]
+base = "Knüppel, Blöcke, Barren und Platten."
+
+[CARGO_INFO_CEMENT]
+base = "Trockener Zement als Pulver oder Klinker."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Zwischenchemische Produkte, die als Rohstoffe für weitere industrielle Verarbeitung dienen."
+
+[CARGO_INFO_CHEMICALS]
+base = "Generische organische und anorganische Chemikalien, als Flüssigkeit, Gas, abgedecktes Schüttgut, Pulver oder Stückgut behandelt."
+
+[CARGO_INFO_CHLORINE]
+base = "Industriechemikalie, normalerweise kryogen als verflüssigtes komprimiertes Gas transportiert."
+
+[CARGO_INFO_CLAY]
+base = "Generische Tone für die Herstellung von Baumaterialien und andere industrielle Zwecke."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Chemikalien, Seifen, Reinigungsmittel usw. für industrielle und häusliche Nutzung. Hauptsächlich flüssig, kann auch Pulver oder Feststoff sein (z. B. Strahlstrahlsand)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Nebenprodukt der Koksproduktion, eine zähflüssige Flüssigkeit."
+
+[CARGO_INFO_COFFEE]
+base = "Rohe oder geröstete Kaffeebohnen."
+
+[CARGO_INFO_COKE]
+base = "Kohle, die in einem Koksofen erhitzt wurde und einen nahezu reinen Kohlenstoffbrennstoff liefert."
+
+[CARGO_INFO_COMPONENTS]
+base = "Hochwertige Engineering-Komponenten wie elektrische Ausrüstung, Motoren, Transformatoren, Schaltgeräte, Hydraulik, Pneumatik, Pumpen, Ventile und Antriebsstrangausrüstung."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Gussteile wie Blöcke, Träger und Paneele. Kann auch als Transportbeton in Mischerfahrzeugen transportiert werden."
+
+[CARGO_INFO_COPPER]
+base = "Raffiniertes Kupfermetall, in Rollen, Barren usw."
+
+[CARGO_INFO_DIAMONDS]
+base = "Sind für immer, usw."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Öl zum Kochen und Verzehr."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Elektrische und elektronische Bauteile, Motoren, Regler, Schaltanlagen, Leuchten usw."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Maschinen, Brennstoff, Teile, Holzprodukte, Rohre, Sprengstoffe und anderer Bedarf für Minen und ähnliche Industrien."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Zivile Sprengstoffe für Bergbau, Bauwesen usw."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Maschinen, Brennstoff, Teile, Dünger und anderer Bedarf für Bauernhöfe, Wälder und ähnliche Industrien."
+
+[CARGO_INFO_FERROALLOYS]
+base = "In der Stahlproduktion verwendet. Legierungen aus Eisen und anderen Elementen einschließlich Mangan, Nickel, Chrom, Aluminium, Silizium und Wolfram.  Graue Klumpen, ähnlich in Größe und Form wie Kohleklumpen."
+
+[CARGO_INFO_FERROCHROME]
+base = "In Legierungs- und Edelstahlproduktion verwendet, eine Legierung aus Chrom und Eisen.  Graue Klumpen, ähnlich in Größe und Form wie Kohleklumpen."
+
+[CARGO_INFO_FLOUR]
+base = "Gepulverte Getreideprodukte wie Mehl und Stärke, in Säcken oder abgedecktem Schüttgut transportiert."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Metallteile für den Zusammenbau zu größeren Artikeln."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Zutaten, die in der Lebensmittelverarbeitung verwendet werden, wie Konservierungsstoffe, Aromen, Farbstoffe und Verarbeitungshilfsstoffe."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Lebensmittel, die während Transport und Lagerung gefroren gehalten werden."
+
+[CARGO_INFO_FRUITS]
+base = "Frisches und getrocknetes Obst wie Bananen, Zitrusfrüchte, Trauben, Beeren, Ananas, Rosinen und Ähnliches."
+
+[CARGO_INFO_GRAIN]
+base = "Weizen, Gerste usw."
+
+[CARGO_INFO_HARDWARE]
+base = "Für Haushalt und Bauwesen. Werkzeuge, Utensilien, Beschläge, Armaturen aus Metall und anderen Materialien."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Spezialisierte Kohlenstoffmaterialien wie kalzinierter Petrolkoks, Pech, hochwertige Teere und Ruß, verwendet in metallurgischen und chemischen Prozessen."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Industriegase, die in chemischer Verarbeitung, Metallbearbeitung und Schweißen verwendet werden, in Flaschen oder Drucktankwagen transportiert."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Trommeln, Winden, Schäkel, Haken, Rollen, Hydraulikzylinder und andere Teile für Kräne, Hebezeuge, Aufzüge usw."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Leichte Erdölfraktionen, die als chemische Rohstoffe verwendet und als Schüttgutflüssigkeiten transportiert werden."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Hauptsächlich Kühe, Schweine und Schafe für die Fleischproduktion.  Andere Tiere können ebenfalls gegessen werden."
+
+[CARGO_INFO_LYE]
+base = "Industriechemikalie. Auch bekannt als Ätznatron oder Natronlauge. Normalerweise als Flüssigkeit transportiert."
+
+[CARGO_INFO_KAOLIN]
+base = "Industriemineral, auch Kaolin genannt, hauptsächlich in Papier- und Kunststoffproduktion verwendet."
+
+[CARGO_INFO_MANGANESE]
+base = "Manganerz, hauptsächlich in der Stahlproduktion verwendet."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Maschinen, Teile, Brennstoff, Baumaterialien und anderer Bedarf für Häfen, Docks und ähnliche Industrien."
+
+[CARGO_INFO_METAL]
+base = "Generisches Metall wie Stahl, Aluminium oder andere gängige Metalle."
+
+[CARGO_INFO_METHANOL]
+base = "Industrieller Alkohol, der als chemischer Rohstoff und Brennstoff verwendet und als Schüttgutflüssigkeit transportiert wird."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Zwischenzuckerprodukte für Raffination, Gärung und industrielle Zwecke. Klebrige Granulate werden als abgedecktes Schüttgut behandelt; dicker Sirup als Flüssigkeit; beides kann verpackt werden."
+
+[CARGO_INFO_NITROGEN]
+base = "Industriegas. Kryogen als verflüssigtes komprimiertes Gas transportiert."
+
+[CARGO_INFO_OIL]
+base = "Unraffiniertes Erdöl, als Schüttgutflüssigkeit transportiert."
+
+[CARGO_INFO_OXYGEN]
+base = "Industriegas. Kryogen als verflüssigtes komprimiertes Gas transportiert."
+
+[CARGO_INFO_PACKAGING]
+base = "Kisten, Flaschen, Gläser, Dosen usw."
+
+[CARGO_INFO_PEAT]
+base = "Biomasse aus Torfmooren, gewonnen für Brennstoff und Gartenbau."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Raffinierte Erdölprodukte wie Benzin, Diesel, Kerosin, LPG, Heizöl und Bunkerbrennstoff, als Schüttgutflüssigkeiten oder verflüssigtes Gas transportiert."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Industriesäure, die hauptsächlich in der Dünger- und Chemieproduktion verwendet und als Schüttgutflüssigkeit transportiert wird."
+
+[CARGO_INFO_PIG_IRON]
+base = "Roh Eisen aus einem Hochofen, als flüssiges Metall oder als feste Blöcke."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Baumwolle, Flachs, Jute und ähnliche Materialien für Textilien und Verbundwerkstoffe."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Angetriebene Ausrüstung und mechanische Systeme für Gebäude, Industrien und Bauernhöfe. Als komplette Einheiten oder als wesentliche Baugruppen transportiert."
+
+[CARGO_INFO_PETROL]
+base = "Benzin, Diesel und ähnliche Brennstoffe."
+
+[CARGO_INFO_PLASTICS]
+base = "Rohkunststoff für weitere Verarbeitung. Normalerweise als Harzkügelchen transportiert."
+
+[CARGO_INFO_PIPEWORK]
+base = "Lagertanks, Druckbehälter, Silos, Gasflaschen und Rohrbaugruppen für den Einsatz in städtischen Gebäuden, Industrien und Bauernhöfen."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Industrielle Chemikalien, die in Fertigung und Verarbeitung verwendet werden, als Flüssigkeiten, Pulver, Gase oder verpackte Waren transportiert."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Sulfidmineralien, zu einer Vielzahl industrieller Produkte verhüttet."
+
+[CARGO_INFO_QUICKLIME]
+base = "Calciumoxid, auch Branntkalk genannt. Als Feinpulver transportiert, das trocken gehalten werden muss."
+
+[CARGO_INFO_REBAR]
+base = "Dünne grobe Stahlstäbe, die häufig zur Verstärkung von Betonstrukturen verwendet werden. Als Rollen oder Bündel gerader Stäbe transportiert."
+
+[CARGO_INFO_RUBBER]
+base = "Hauptsächlich natürlicher Latex."
+
+[CARGO_INFO_SALT]
+base = "Weit verwendete Industriechemikalie. Normalerweise als Schüttgut transportiert, das trocken gehalten werden muss."
+
+[CARGO_INFO_SAND]
+base = "Grober Sand für den Bau oder feiner Quarzsand für Glasherstellung und Metallguss. Als Schüttgut oder Pulver transportiert."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Flexible Dichtungen, Dichtungen, Schläuche, Riemen, Matten, Buchsen usw. aus Gummi oder ähnlichen Materialien."
+
+[CARGO_INFO_SLAG]
+base = "Abfallprodukt aus Eisen- und Stahlproduktion."
+
+[CARGO_INFO_SODA_ASH]
+base = "Industriechemikalie. In weißer Pulverform."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Halbfertige Stahlgussstücke. Rechteckig, quadratisch oder rund im Querschnitt."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Grobe Stahlgussstücke, die weitere Verarbeitung erfordern. Barren können klein oder sehr groß sein. Typische Barrenprofile sind rechteckig oder rund."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Stahlstäbe, als Rundstahl, Vierkantstahl, Flachstahl und andere Profile. Als lange gerade Produkte transportiert."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Lange runde Stahlrohre zum Transport von Flüssigkeiten in Pipelines, Gebäuden, Industrien usw."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Gewalzte Stahlplatten und -profile - I-Träger, H-Träger, U-Profile usw. Als lange gerade Produkte transportiert."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Dünn gewalztes Stahlblech und -band, vielseitig zur Herstellung anderer Produkte verwendet. Als Flachbleche oder als Rollen transportiert."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Halbfertige Stahlgussstücke. Immer flach und rechteckig im Querschnitt."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Langes Hohlrohr mit rundem, rechteckigem und anderem Querschnitt. Zur Herstellung von Strukturen und Maschinen."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Stahldraht und dünne Stäbe. Hauptsächlich als Rollen transportiert."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Seile und Kabel, die durch Ziehen von Stahldraht auf kleineren Durchmesser und Verdrehen zu Bündelseilen hergestellt werden."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Konstruktionsstahl als gewalzte Profile (I-Träger, H-Träger usw.) oder als Flachblech oder als aus Blech verschweißte Segmente und Träger."
+
+[CARGO_INFO_SULPHUR]
+base = "Weit verwendete Industriechemikalie. Leuchtend gelb, in Pulver- oder Flüssigform."
+
+[CARGO_INFO_TIMBER]
+base = "Verarbeitete Holzprodukte aus einer Sägerei oder ähnlichen Industrien."
+
+[CARGO_INFO_TIN]
+base = "Barren."
+
+[CARGO_INFO_TINPLATE]
+base = "Dünnes Stahlblech mit Zinn beschichtet für Korrosionsbeständigkeit, hauptsächlich für Dosen, Behälter und andere Verpackungen verwendet."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Feindraht zur Verstärkung von Reifen. Als Rolle transportiert."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Führerhäuser, Motorhauben, Türen und ähnliche Karosseriestrukturen für die Fahrzeugproduktion."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Verbrennungsmotoren und zugehörige Antriebsstrangteile wie Getriebe und Achsen."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Komponenten für die Fahrzeugproduktion wie Fahrgestelle und Federungskomponenten, elektrische Teile, Außenverkleidungen und Innenausstattung."
+
+[CARGO_INFO_VEHICLES]
+base = "Hauptsächlich Lastwagen. Oder Autos. Oder leichte Lastwagen. Vielleicht Traktoren."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Bedarf für das Schneiden und Schweißen von Metall, wie Schweißstäbe, Werkzeuge und Industriegase einschließlich Acetylen, Argon, Propan, Sauerstoff und Stickstoff."
+
+[CARGO_INFO_WOOD]
+base = "Stämme aus einem Wald."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Verarbeitete Holzfaser, hauptsächlich für Papierproduktion, als Ballen oder Schüttzellstoff transportiert."
+
+[CARGO_INFO_WOOL]
+base = "Ballen."
+
+[CARGO_INFO_ZINC]
+base = "Barren."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Mian-coile"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Mianach Coirbeag"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Mianach diamant"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Uachdar Pròiseasaidh Bidhe"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Coille"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Plantachadh Tobraichean"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Mianachd uireas-iarainn"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Uraich-taigh Ol"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Tùr-drile Ol"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Tobaran Ol"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Uachdar Pàipeir"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Plantach Rubair"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Muilinn-sàbhaidh"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Uisgeachair Stàilinn"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Coal"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Oir Coirbeag"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamantan"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Biadh"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Bathar"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Gràin"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Uireas-iarainn"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Beathach"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Post"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Màis"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Ol"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Pàipear"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Passasairean"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Rubair"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Siùcar"
+
+[ECONOMY_INFO_FIRS]
+base = "Eaconamaidh iom-fhillte le iomadh gnìomhachas agus iomadh seòrsa luchd-cuiridh."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Eaconamaidh shìmplidh. Air a brosnachadh leis an Fhionnlainn, ceann a tuath Chanaidh agus ceann a tuath Siberia. As fheàrr a chleachdadh ann an cliath fo-Arctach."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Eaconamaidh shìmplidh. Air a brosnachadh le ceann a deas an iar na Rìoghachd Aonaichte. As fheàrr a chleachdadh ann an cliath mheadhanach."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Eaconamaidh shìmplidh. Air a brosnachadh le Argentina, Peru agus Chile. As fheàrr a chleachdadh ann an cliath fo-thropach."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Eaconamaidh iom-fhillte le iomadh gnìomhachas agus iomadh seòrsa luchd-cuiridh. Air a bhrosnachadh le Afraga meadhanach-an iar. As fheàrr a chleachdadh le gnàth-shìde fo-thropach."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Eaconamaidh iom-fhillte anns a bheil gnìomhachasan iarainn, stàilinn agus saothrachaidh throm."
+
+[CARGO_INFO_PASSENGERS]
+base = "Rèiteach anns gach eaconamaidh. Air a dhèanamh agus air a ghabhail a-steach le togalaichean bailteil, agus cuideachd le beagan gnìomhachasan."
+
+[CARGO_INFO_MAIL]
+base = "Rèiteach anns gach eaconamaidh. Air a dhèanamh agus air a ghabhail a-steach le togalaichean bailteil."
+
+[CARGO_INFO_ACID]
+base = "Sgaothan gnìomhachais, leithid sgaoth haidroclòraig, nìtrig agus suilphùrach."
+
+[CARGO_INFO_AGGREGATES]
+base = "Graibheal, gainmheach, clach briste agus stuthan coltach ris a thathar a’ cleachdadh ann an togail."
+
+[CARGO_INFO_ALUMINA]
+base = "Pùdar geal air a phrìneadh à mèinn bauxite, air a chleachdadh gus meatailt alùmanaim a dhèanamh."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Meatailt alùmanaim ath-sgrìobhte, ann an coilean, ingotan, slaban is mar sin air adhart."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Ceimigean gnìomhachais air an dèanamh à aimonia, leithid aimonia, sgaoth nìtrig agus urea. Air an giùlan mar leaghan, gu criogineach mar gas air a leaghadh, no mar stuth tioram ann am buidheann mhòr."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Clach gheal, liath no donn de shulfait chalcium, air a chleachdadh ann an cinneasachadh asaidh shulfarach agus seamaid. Mar as trice, thèid a ghiùlan mar luchd-mòr fo chòmhdach."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Mianach gnìomhachais a thathar a’ cleachdadh ann an giullachd cheimigeach. Thathar a’ cleachdadh Barytes ann an ceimigean barium agus stuthan-lìonaidh; fluorspar ann an ceimigeachd fluorine agus fluixean meatailteachd."
+
+[CARGO_INFO_BASE_METALS]
+base = "Meatailtean neo-iarannach, leithid copair, nicil, sinc agus plumbam."
+
+[CARGO_INFO_BEANS]
+base = "Bailean cumanta, bailean fava, pònairean soya agus lusan-pònairean itheach coltach riutha sin."
+
+[CARGO_INFO_BITUMEN]
+base = "Toradh peatrolaim tiugh a thathar a’ cleachdadh sa mhòr-chuid airson uachdaran rathaidean agus mullachan a dhèanamh."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Simeant, glainne, co-phàirtean meatailt, bathar fiodha, pìoban agus stuthan togail coltach riutha sin."
+
+[CARGO_INFO_CASSAVA]
+base = "Planta freumhaich ithteach, ris an canar cuideachd manioc agus yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Pùdar carbon uabhasach dubh, a thathar a’ cleachdadh ann an tiòran, plastaigean agus pìgmeantan. Tha e air a làimhseachadh mar phùdar."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Bileatan, blòmaichean, ingotan agus slaban."
+
+[CARGO_INFO_CAST_IRON]
+base = "Bileatan, blòmaichean, ingotan agus slaban."
+
+[CARGO_INFO_CEMENT]
+base = "Simeant tioram ann an cruth pùdar no clinker."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Toraidhean ceimigeach eadar-mheadhanach a thathar a’ cleachdadh mar stuth-tòiseachaidh airson barrachd giullachd gnìomhachais."
+
+[CARGO_INFO_CHEMICALS]
+base = "Ceimigean organach agus neo-organach coitcheann, air an làimhseachadh mar leaghan, gas, stuth cruinn còmhdaichte, pùdar, no mar thoraidhean pìosach."
+
+[CARGO_INFO_CHLORINE]
+base = "Ceimigeach gnìomhachais, mar as trice air a ghiùlan gu criogineach mar gas teannachte air a leaghadh."
+
+[CARGO_INFO_CLAY]
+base = "Claisean coitcheann, airson stuthan togail agus cleachdaidhean gnìomhachais eile a dhèanamh."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Ceimigean, saban, stuthan-sgrìobaidh is eile airson cleachdadh gnìomhachais agus dachaigheil. Gu h-àraidh leaghan, ach faodaidh iad cuideachd a bhith nan pùdar no nan stuth cruaidh (leithid gainmheach airson sgrìobadh le peilearan)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Toradh-taice bho dhèanamh coke, leaghan tiugh a bhios a’ sruthadh gu slaodach."
+
+[CARGO_INFO_COFFEE]
+base = "Gràinnean cofaidh amh no ròstaichte."
+
+[CARGO_INFO_COKE]
+base = "Coile a chaidh a theasachadh ann an uisgeach-coile, a’ cruthachadh connadh a tha cha mhòr glan charbon."
+
+[CARGO_INFO_COMPONENTS]
+base = "Co-phàirtean innleadaireachd àrd-luach, leithid uidheamachd dealain, motaran, cruth-atharrachadairean, uidheam-smachd, haidrailigs, pneumatics, pumpaichean, bhalbhaichean agus uidheamachd siostam-cumhachd."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Toraidhean casta leithid bloighean, traisichean agus pannalan. Faodar cuideachd dèiligeadh riutha mar choincréit deiseil ann an trucail-mheasgachaidh."
+
+[CARGO_INFO_COPPER]
+base = "Meatailt copair ath-sgrìobhte, ann an coilean, ingotan is mar sin air adhart."
+
+[CARGO_INFO_DIAMONDS]
+base = "Tha iad gu bràth, is mar sin air adhart"
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Ol airson còcaireachd agus caitheamh."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Co-phàirtean eileagtrach is eileagtronaigeach, motaran, smachdairean, uidheam suidheachaidh, solais is mar sin air adhart."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Innealan, connadh, pàirtean, bathar fiodha, pìoban, stuthan spreadhaidh agus solar eile airson mèinnean agus gnìomhachasan coltach riutha sin."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Stuthan-spreadhaidh sìobhalta airson mèinneachadh, togail is eile."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Innealan, connadh, pàirtean, feartail agus solar eile airson tuathanasan, coilltean agus gnìomhachasan coltach riutha sin."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Air a chleachdadh ann an cinneasachadh stàilinn. Aileidean de iarann agus eileamaidean eile, nam measg managanais, nicil, cromam, alùmanam, sileacon agus tungstan. Builgeanan liath, coltach ri builgeanan coileir ann am meud agus cumadh."
+
+[CARGO_INFO_FERROCHROME]
+base = "Air a chleachdadh ann an cinneasachadh aileaid agus stàilinn neo-ruisgte, aileaid de chromam agus iarainn. Builgeanan liath, coltach ri builgeanan coileir ann am meud agus cumadh."
+
+[CARGO_INFO_FLOUR]
+base = "Toraidhean gràin pùdair leithid flùr agus stàirce, air an giùlan ann am pasgan no mar mhòr-thaisbeanadh còmhdaichte."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Pàirtean meatailt airson an cur ri chèile nan nithean nas motha."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Co-phàirtean a thathar a’ cleachdadh ann an giullachd bìdh, leithid stuthan-glèidhidh, blasan, dathan agus cuideachairean giullachd."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Biadh a thèid a chumail reòthte rè còmhdhail agus stòraidh."
+
+[CARGO_INFO_FRUITS]
+base = "Measgachadh ùr agus tiormaichte, leithid bananaichean, sìtridhean, fìonagan, berries, anann, raisins agus rudan coltach riutha."
+
+[CARGO_INFO_GRAIN]
+base = "Cruithneachd, barlay is eile."
+
+[CARGO_INFO_HARDWARE]
+base = "Airson cleachdadh dachaigheil is togail. Uidheaman, innealan, stàlaidhean agus uidheamachd, ann am meatailt agus stuthan eile."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Lòchd Lùbair Soda"
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Gasaichean gnìomhachais a thathar a’ cleachdadh ann an giullachd cheimigeach, obair meatailt agus tàthadh, air an giùlan ann an siolandairean no tancairean brùthaidh."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Drumaichean, uinneachairean, slabhraidhean, crochaidhean, puilean, ramhaichean haidrailigeach agus pàirtean eile airson crannan, togadairean, àrdachadairean is mar sin air adhart."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Fraiseanan peatrolaim aotrom a thathar a’ cleachdadh mar stuthan-bathair cheimigeach, air an giùlan mar leaghan ann am buidheann mhòr."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Sa mhòr-chuid, còmhgailean, mucan is caorach airson toradh feòla. Faodar beathaichean eile ithe cuideachd."
+
+[CARGO_INFO_LYE]
+base = "Ceimigeach gnìomhachais. Canar Lye no Caustic Soda ris cuideachd. Mar as trice air a ghiùlan mar leaghan."
+
+[CARGO_INFO_KAOLIN]
+base = "Mianach gnìomhachais, ris an canar Kaolin cuideachd, a thathar a’ cleachdadh sa mhòr-chuid ann an cinneasachadh pàipeir agus plastaigean."
+
+[CARGO_INFO_MANGANESE]
+base = "Oir manganais, air a chleachdadh sa mhòr-chuid ann an cinneasachadh stàilinn."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Innealan, pàirtean, connadh, stuthan togail agus solar eile airson puirt, dòcaichean agus gnìomhachasan coltach riutha sin."
+
+[CARGO_INFO_METAL]
+base = "Meatailt choitcheann, leithid stàilinn, alùmanum no meatailtean cumanta eile."
+
+[CARGO_INFO_METHANOL]
+base = "Alcòl gnìomhachais a thathar a’ cleachdadh mar stuth-bathair cheimigeach agus mar chonnadh, agus a thathar a’ giùlan mar leaghan ann am buidheann mhòr."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Toraidhean siùcair eadar-mheadhanach airson glanaidh, fèarmentadh agus cleachdadh gnìomhachais. Tha na gràinean greamach air an làimhseachadh mar stuth coitcheann còmhdaichte; tha an sirop tiugh air a làimhseachadh mar leaghan; faodar an dà chuid a phacadh."
+
+[CARGO_INFO_NITROGEN]
+base = "Gas gnìomhachais. Air a ghiùlan gu criogineach mar gas teannachte air a leaghadh."
+
+[CARGO_INFO_OIL]
+base = "Petrolam amh, gun phròiseasadh, air a ghiùlan mar leaghan ann am buidheann mhòr."
+
+[CARGO_INFO_OXYGEN]
+base = "Gas gnìomhachais. Air a ghiùlan gu criogineach mar gas teannachte air a leaghadh."
+
+[CARGO_INFO_PACKAGING]
+base = "Bogsaichean, bòtalan, jarraidhean, canan, is mar sin air adhart"
+
+[CARGO_INFO_PEAT]
+base = "Biomàs bho bhoglaichean peata, air a tharraing a-mach airson connadh agus gàrradh."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Toraidhean peatrolaim ath-sgrìobhte leithid peatrol, deasil, ceiriosin, LPG, ola-làimhe agus fuil bhuncair, air an giùlan mar leaghan ann am buidheann no mar ghas leaghaichte."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Sgaoth gnìomhachais a thathar a’ cleachdadh sa mhòr-chuid ann an saothrachadh feartairean agus ceimigean, agus a thathar a’ giùlan mar leaghan ann am buidheann mhòr."
+
+[CARGO_INFO_PIG_IRON]
+base = "Iarann bunaiteach à furnas-spreadhaidh, mar leaghan leaghte no ingotan cruaidh."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Cotain, flax, iute agus stuthan coltach ris, airson teacsailean agus stuthan co-churraichte a dhèanamh."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Coilear cumhachdach agus siostaman meacanaigeach a thathar a’ cleachdadh ann an togalaichean, gnìomhachasan agus tuathanasan. Air an giùlan mar aonadan iomlan no mar phrìomh fho-chruinneachaidhean."
+
+[CARGO_INFO_PETROL]
+base = "Peatrail, deisil agus connadh coltach ris."
+
+[CARGO_INFO_PLASTICS]
+base = "Plastaig amh airson tuilleadh pròiseisidh. Mar as trice, thèid a ghiùlan mar bheadaichean reasain."
+
+[CARGO_INFO_PIPEWORK]
+base = "Tancaichean stòraidh, soithichean brùthaidh, siloichean, siolaind ghasa agus co-chruinneachaidhean pìoban, airson cleachdadh ann an togalaichean bailteil, gnìomhachasan agus tuathanasan."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Ceimigean gnìomhachais a thathar a’ cleachdadh ann an saothrachadh agus pròiseasadh, agus a thathar a’ giùlan mar leaghan, pùdar, gas no bathar pacaichte."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Mionaidhean sulfaid, air an leaghadh gus diofar thoraidhean gnìomhachais a dhèanamh."
+
+[CARGO_INFO_QUICKLIME]
+base = "Ocsaid Chàlciam, ris an canar cuideachd lìm losgaidh. Thèid a ghiùlan mar phuider mhìn a dh’fheumar a chumail tioram."
+
+[CARGO_INFO_REBAR]
+base = "Stàilnean tana garbh a thathar a’ cleachdadh gu farsaing gus structaran coimhearsnach a neartachadh. Air an giùlan mar chobhlaichean no mar chruinneachaidhean de stàilnean dìreach."
+
+[CARGO_INFO_RUBBER]
+base = "Latex nàdarra sa mhòr-chuid."
+
+[CARGO_INFO_SALT]
+base = "Ceimigeadh gnìomhachais air a chleachdadh gu farsaing. Mar as trice, thèid a ghiùlan mar luchd-mòr a dh’fheumas a bhith tioram."
+
+[CARGO_INFO_SAND]
+base = "Gainmheach garbh airson togail, no gainmheach silica mìn airson glainneachadh agus meatailtean a chur ann an cumadh. Air a ghiùlan mar stoc mòr no mar phùdar."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Sèilean sùbailte, gasketan, siosalan, bannan, matan, bushingean, msaa, air an dèanamh à rubair no stuthan coltach ris."
+
+[CARGO_INFO_SLAG]
+base = "Toradh sgudail bho chinneasachadh iarainn agus stàilinn."
+
+[CARGO_INFO_SODA_ASH]
+base = "Ceimigeach gnìomhachais. Ann an cruth pùdar geal."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Castaichean stàilinn leth-chrìochnaichte. Ceart-cheàrnach, ceàrnagach no cruinn san trasghearradh."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Castaichean cruaidh stàilinn, a dh’fheumas tuilleadh pròiseisaidh. Faodaidh ingotan a bhith beag no glè mhòr. ’S e proifilean ceart-cheàrnach no cruinn a th’ ann an ingotan àbhaisteach."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Bàraichean stàilinn, leithid cruinn, ceàrnagach, còmhnard agus proifilean eile. Air an giùlan mar thoraidhean fada dìreach."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Pìoban stàilinn fada cruinn airson leaghan a ghiùlan ann an pìob-lìonaidhean, togalaichean, gnìomhachasan, msaa."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Plàtaichean agus earrannan stàilinn rolaichte - traisichean I, traisichean H, seanailean is mar sin air adhart. Air an giùlan mar thoraidhean fada, dìreach."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Duilleagan agus stiallan tana stàilinn rolaichte, air an cleachdadh gu farsaing gus toraidhean eile a dhèanamh. Air an giùlan mar dhuilleagan còmhnard no mar chobhlaichean."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Castaichean stàilinn leth-chrìochnaichte. An-còmhnaidh còmhnard agus ceart-cheàrnach san trasghearradh."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Tuba fada falamh ann an cruth cruinn, ceart-cheàrnach agus earrannan tarsainn eile. Cleachdar e airson structaran agus innealan a dhèanamh."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Uèir stàilinn agus tàirneanan tana. Air an giùlan sa mhòr-chuid mar chobhlaichean."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Ròpan agus càballan air an dèanamh le bhith a’ tàladh ròd dhrèidht stàilinn gu trast-thomhas nas lugha, agus an uair sin ga tionndadh gu ròpan cruinnichte."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Stàilinn de chàileachd structarail ann an earrannan rolaichte (beamaichean I, beamaichean H, msaa), no mar phlèitean rèidh, no mar earrannan agus beamaichean dèanta le plèitean air an t-soladachadh ri chèile."
+
+[CARGO_INFO_SULPHUR]
+base = "Ceimigeadh gnìomhachais air a chleachdadh gu farsaing. Buidhe soilleir, ann an cruth pùdar no leaghan."
+
+[CARGO_INFO_TIMBER]
+base = "Toraidhean fiodha pròiseasta bho shàbh-fiodha no bho ghnìomhachasan coltach ris."
+
+[CARGO_INFO_TIN]
+base = "Blocan-meatailt."
+
+[CARGO_INFO_TINPLATE]
+base = "Duilleag thana stàilinn air a còmhdach le tin airson cur an aghaidh creimeadh, air a cleachdadh sa mhòr-chuid airson canan, coimeasaichean agus pasgan eile."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Uèir mhìn a thathar a’ cleachdadh gus tiuran a neartachadh. Air a ghiùlan mar chobair."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Cabannan, còmhdaichean-motair, dorsan agus structaran co-chosmhail de chorp nan carbadan airson cinneasachadh carbadan."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Einnseanan losgaidh a-staigh agus pàirtean co-cheangailte den t-siostam-cumhachd, leithid an tar-chur agus na h-aisleanan-dràibhidh."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Co-phàirtean airson cinneasachadh chàraichean, leithid frèam agus co-phàirtean crochaidh, pàirtean dealain, sgeadachadh a-muigh agus pàirtean taobh a-staigh."
+
+[CARGO_INFO_VEHICLES]
+base = "Sa mhòr-chuid, trucan. No càraichean. No trucan aotrom. ’S dòcha tractaran."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Solaran airson meatailt a ghearradh agus a chladhach, leithid stàilnean cladhach, innealan agus gasan gnìomhachais, a’ gabhail a-steach acetylene, argon, propane, ogsaidean agus naitridean."
+
+[CARGO_INFO_WOOD]
+base = "Logan à coille."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Snàithleach fiodha pròiseasta a thathar a’ cleachdadh sa mhòr-chuid airson pàipear a dhèanamh, air a ghiùlan mar bhàlaichean no mar phùlp mòr-thaisbeanaidh."
+
+[CARGO_INFO_WOOL]
+base = "Bàlaichean."
+
+[CARGO_INFO_ZINC]
+base = "Blocan-meatailt."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

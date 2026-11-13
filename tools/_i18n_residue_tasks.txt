@@ -1,0 +1,181 @@
+TASKS 59
+BY LANG {"extra:afrikaans": 1, "extra:catalan": 3, "extra:croatian": 1, "extra:danish": 1, "extra:de": 1, "extra:dutch": 1, "extra:finnish": 1, "extra:fr": 3, "extra:french": 3, "extra:gaelic": 2, "extra:galician": 2, "extra:german": 3, "extra:hungarian": 1, "extra:indonesian": 2, "extra:ko": 1, "extra:korean": 1, "extra:latin": 2, "extra:luxembourgish": 2, "extra:norwegian_bokmal": 1, "extra:polish": 1, "extra:portuguese": 2, "extra:pt": 2, "extra:spanish_MX": 2, "extra:swedish": 1, "extra:turkish": 2, "extra:welsh": 5, "extra:": 12}
+BY TERM {"lye": 10, "billets": 10, "bales": 1, "kaolin": 17, "caustic soda": 5, "blooms": 22, "ingots": 5, "slabs": 2, "crate": 1}
+
+extra:afrikaans | CARGO_INFO_LYE.base | lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: Industriële chemikalie. Ook bekend as Lye of Kaustiese Sooda. Gewoonlik as vloeistof vervoer.
+extra:catalan | CARGO_INFO_CARBON_STEEL.base | billets
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, flors, lingots i lloses.
+extra:catalan | CARGO_INFO_CAST_IRON.base | billets
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, flors, lingots i lloses.
+extra:catalan | CARGO_INFO_WOOD_PULP.base | bales
+  EN: Processed wood fibre used mainly for paper production, transported as bales or bulk pulp.
+  TR: Fibra de fusta processada utilitzada principalment per a la producció de paper, transportada en bales o com a pasta a granel.
+extra:croatian | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Industrijski mineral, poznat i kao kaolin, koji se prvenstveno koristi u proizvodnji papira i plastike.
+extra:danish | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Industrielt mineral, også kendt som kaolin, der primært anvendes i papir- og plastproduktion.
+extra:de | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Industriemineral, auch Kaolin genannt, hauptsächlich in Papier- und Kunststoffproduktion verwendet.
+extra:dutch | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Industrieel mineraal, ook bekend als kaolin, voornamelijk gebruikt in de productie van papier en plastics.
+extra:finnish | CARGO_INFO_LYE.base | caustic soda,lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: Teollinen kemikaali. Tunnettu myös nimillä Lye tai Caustic Soda. Kuljetetaan yleensä nestemäisenä.
+extra:fr | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billettes, blooms, lingots et plaques.
+extra:fr | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billettes, blooms, lingots et plaques.
+extra:fr | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Minéral industriel, aussi appelé kaolin, utilisé principalement dans la production du papier et des plastiques.
+extra:french | CARGO_INFO_CARBON_STEEL.base | billets,blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, lingots et dalles.
+extra:french | CARGO_INFO_CAST_IRON.base | billets,blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, lingots et dalles.
+extra:french | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Minéral industriel, également connu sous le nom de kaolin, utilisé principalement dans la production de papier et de plastiques.
+extra:gaelic | CARGO_INFO_LYE.base | caustic soda,lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: Ceimigeach gnìomhachais. Canar Lye no Caustic Soda ris cuideachd. Mar as trice air a ghiùlan mar leaghan.
+extra:gaelic | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Mianach gnìomhachais, ris an canar Kaolin cuideachd, a thathar a’ cleachdadh sa mhòr-chuid ann an cinneasachadh pàipeir agus plastaigean.
+extra:galician | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billetes, blooms, lingotes e placas.
+extra:galician | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billetes, blooms, lingotes e placas.
+extra:german | CARGO_INFO_CARBON_STEEL.base | billets
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, Blöme, Barren und Platten.
+extra:german | CARGO_INFO_CAST_IRON.base | billets
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, Blöme, Barren und Platten.
+extra:german | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Industrieller Mineralstoff, auch als Kaolin bekannt, der hauptsächlich in der Papier- und Kunststoffproduktion verwendet wird.
+extra:hungarian | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Ipari ásvány, más néven kaolin, amelyet elsősorban papír- és műanyaggyártásban használnak.
+extra:indonesian | CARGO_INFO_LYE.base | lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: Bahan kimia industri. Juga dikenal sebagai Lye atau Soda Kaustik. Biasanya diangkut dalam bentuk cair.
+extra:indonesian | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Mineral industri, juga dikenal sebagai Kaolin, terutama digunakan dalam produksi kertas dan plastik.
+extra:ko | CARGO_INFO_LYE.base | caustic soda,lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: 산업용 화학 물질. 라이(Lye) 또는 가성소다(Caustic Soda)라고도 합니다. 보통 액체 형태로 운송됩니다.
+extra:korean | CARGO_INFO_LYE.base | caustic soda,lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: 산업용 화학 물질. 라이(Lye) 또는 가성소다(Caustic Soda)라고도 합니다. 보통 액체 형태로 운송됩니다.
+extra:latin | CARGO_INFO_LYE.base | caustic soda,lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: Substantia chemica industrialis. Etiam Lye aut Caustic Soda appellatur. Plerumque tamquam liquor transportatur.
+extra:latin | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Minerale industriale, etiam Kaolin appellatum, praecipue in chartae et plasticorum productione adhibitum.
+extra:luxembourgish | CARGO_INFO_LYE.base | lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: Industriell Chimikalie. Och bekannt als Lye oder Kaustesch Soda. Normalerweis als Flëssegkeet transportéiert.
+extra:luxembourgish | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Industriellt Mineral, och bekannt als Kaolin, dat haaptsächlech an der Pabeier- a Plastikproduktioun benotzt gëtt.
+extra:norwegian_bokmal | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Industrielt mineral, også kjent som kaolin, som hovedsakelig brukes i papir- og plastproduksjon.
+extra:polish | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Minerał przemysłowy, znany również jako kaolin, używany głównie w produkcji papieru i tworzyw sztucznych.
+extra:portuguese | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Bilhetes, blooms, lingotes e lajes.
+extra:portuguese | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Bilhetes, blooms, lingotes e lajes.
+extra:pt | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Bilhetes, blooms, lingotes e lajes.
+extra:pt | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Bilhetes, blooms, lingotes e lajes.
+extra:spanish_MX | CARGO_INFO_CARBON_STEEL.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billetes, blooms, lingotes y losas.
+extra:spanish_MX | CARGO_INFO_CAST_IRON.base | blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billetes, blooms, lingotes y losas.
+extra:swedish | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Industriellt mineral, även känt som kaolin, som huvudsakligen används i papper- och plastproduktion.
+extra:turkish | CARGO_INFO_LYE.base | lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: Endüstriyel kimyasal. Lye veya Kaustik Soda olarak da bilinir. Genellikle sıvı olarak taşınır.
+extra:turkish | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Esas olarak kağıt ve plastik üretiminde kullanılan, Kaolin olarak da bilinen endüstriyel mineral.
+extra:welsh | CARGO_INFO_CARBON_STEEL.base | ingots,slabs,billets,blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, ingots a slabs.
+extra:welsh | CARGO_INFO_CAST_IRON.base | ingots,slabs,billets,blooms
+  EN: Billets, blooms, ingots and slabs.
+  TR: Billets, blooms, ingots a slabs.
+extra:welsh | CARGO_INFO_LYE.base | lye
+  EN: Industrial chemical. Also known as Lye or Caustic Soda. Usually transported as liquid.
+  TR: Cemeg diwydiannol. Hefyd yn cael ei adnabod fel Lye neu Sôda Caustig. Fel arfer a gludir fel hylif.
+extra:welsh | CARGO_INFO_KAOLIN.base | kaolin
+  EN: Industrial mineral, also known as Kaolin, used primarily in paper and plastics production.
+  TR: Mineral diwydiannol, a elwir hefyd yn Kaolin, a ddefnyddir yn bennaf mewn cynhyrchu papur a phlastigau.
+extra:welsh | CARGO_INFO_PIG_IRON.base | ingots
+  EN: Basic iron from a blast furnace, as molten liquid or solid ingots.
+  TR: Haearn sylfaenol o ffwrnys ffrwydro, fel hylif wedi'i lewedu neu ingots cyfoethog.
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | billets
+  EN: Billets & Blooms
+  TR: Billets i flors
+extra: | STR_CARGO_STEEL_INGOTS.cargo_unit | ingots
+  EN: {WEIGHT} of steel ingots
+  TR: {WEIGHT} d'ingots d'acer
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | blooms
+  EN: Billets & Blooms
+  TR: Billettes et blooms
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | blooms
+  EN: {WEIGHT} of billets & blooms
+  TR: {WEIGHT} de billettes et blooms
+extra: | STR_CARGO_FARM_SUPPLIES.cargo_unit | crate
+  EN: {SIGNED_WORD} crate{P 0 "" s} of farm supplies
+  TR: {SIGNED_WORD} crate{P 0 "" s} de sholarachaidhean tuathanais
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | blooms
+  EN: Billets & Blooms
+  TR: Billetes e blooms
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | blooms
+  EN: {WEIGHT} of billets & blooms
+  TR: {WEIGHT} billetes & blooms
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | blooms
+  EN: Billets & Blooms
+  TR: Bilhetes e blooms
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.cargo_unit | blooms
+  EN: {WEIGHT} of billets & blooms
+  TR: {WEIGHT} de lingotes e blooms
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | blooms
+  EN: Billets & Blooms
+  TR: Billetes y blooms
+extra: | STR_CARGO_STEEL_BILLETS_AND_BLOOMS.name | billets,blooms
+  EN: Billets & Blooms
+  TR: Billets a Blooms
+extra: | STR_CARGO_STEEL_INGOTS.name | ingots
+  EN: Steel Ingots
+  TR: Ingots Dur

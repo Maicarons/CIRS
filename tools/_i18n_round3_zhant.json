@@ -1,0 +1,14 @@
+[
+ {
+  "file": "src/docs/lang/traditional_chinese.toml",
+  "line": 173,
+  "chars": "体简",
+  "text": "DOC_TRANS_LANG_ZH = \"简体中文（Chinese, Simplified）\""
+ },
+ {
+  "file": "src/docs/lang/traditional_chinese.toml",
+  "line": 231,
+  "chars": "体简",
+  "text": "DOC_TRANS_LANG_SIMPLIFIED_CHINESE = \"简体中文\""
+ }
+]

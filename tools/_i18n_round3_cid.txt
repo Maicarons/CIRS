@@ -1,0 +1,64 @@
+=== 4x corpus STR_CID_ census (lang, total, non-Latin values) ===
+  afrikaans 23 0
+  belarusian 54 54
+  catalan 23 0
+  croatian 54 5
+  czech 54 3
+  danish 20 1
+  dutch 54 0
+  english 97 0
+  english_au 14 0
+  english_us 2 0
+  esperanto 19 2
+  estonian 23 0
+  finnish 51 3
+  french 54 0
+  french_en 0 0
+  gaelic 2 0
+  galician 97 0
+  german 97 4
+  german_en 0 0
+  hungarian 54 10
+  indonesian 20 0
+  italian 97 0
+  japanese 0 0
+  korean 97 97
+  korean_en 22 0
+  latin 31 0
+  luxembourgish 48 0
+  norwegian_bokmal 54 0
+  polish 93 7
+  portuguese 33 2
+  portuguese_br 20 2
+  portuguese_br_en 22 0
+  portuguese_en 21 0
+  romanian 19 0
+  russian 20 20
+  serbian 31 1
+  simplified_chinese 54 54
+  slovak 31 2
+  spanish 96 0
+  spanish_MX 54 1
+  spanish_en 0 0
+  swedish 54 0
+  tamil 0 0
+  traditional_chinese 31 31
+  turkish 20 1
+  welsh 20 0
+candidates with non-Latin cid corpus: ["belarusian", "croatian", "hungarian", "korean", "polish", "russian", "simplified_chinese", "traditional_chinese"]
+
+=== belarusian mapped 44 same 44 diff 0 absent_key 10 ===
+
+=== croatian mapped 44 same 44 diff 0 absent_key 10 ===
+
+=== hungarian mapped 44 same 44 diff 0 absent_key 10 ===
+
+=== korean mapped 66 same 66 diff 0 absent_key 31 ===
+
+=== polish mapped 65 same 65 diff 0 absent_key 28 ===
+
+=== russian mapped 12 same 12 diff 0 absent_key 8 ===
+
+=== simplified_chinese mapped 44 same 44 diff 0 absent_key 10 ===
+
+=== traditional_chinese mapped 23 same 23 diff 0 absent_key 8 ===

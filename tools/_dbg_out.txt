@@ -1,0 +1,6 @@
+french parsed pairs: 141
+    'STR_GENERIC_DC9B' -> Traceback (most recent call last):
+  File "g:\GitHub\CIRS\tools\_dbg.py", line 10, in <module>
+    print("   ", repr(k), "->", repr(v[:40]))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\xc3' in position 6: illegal multibyte sequence

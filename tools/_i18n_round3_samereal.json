@@ -1,0 +1,1298 @@
+[
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_CARGO_SAND.name",
+  "en": "Sand"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_CARGO_TIN.name",
+  "en": "Tin"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_STATION_BAKERY.base",
+  "en": "Bakery"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_STATION_PLANT.base",
+  "en": "Plant"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_STATION_WATER.base",
+  "en": "Sandbank"
+ },
+ {
+  "lang": "afrikaans",
+  "file": "src/grf/lang/afrikaans.toml",
+  "key": "STR_BADGE_LAND.base",
+  "en": "LAND"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_CARGO_NITROGEN.name",
+  "en": "Nitrogen"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_CARGO_VEHICLES.name",
+  "en": "Vehicles"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_CARGO_ZINC.name",
+  "en": "Zinc"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_STATION_BASE.base",
+  "en": "Base"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_STATION_COMPONENTS.base",
+  "en": "Components"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_STATION_MINES.base",
+  "en": "Mines"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/grf/lang/catalan.toml",
+  "key": "STR_STATION_POTASH_MINE.base",
+  "en": "Minerals"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/lang/catalan.toml",
+  "key": "DOC_NAV_ECONOMIES",
+  "en": "Economies"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/lang/catalan.toml",
+  "key": "DOC_GS_SETUP_INTRO_LINK",
+  "en": "{count} economies"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/lang/catalan.toml",
+  "key": "DOC_ECO_TITLE",
+  "en": "Economies"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/lang/catalan.toml",
+  "key": "DOC_CR_TH_DECIMAL",
+  "en": "(decimal)"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/lang/catalan.toml",
+  "key": "DOC_CC_POTABLE",
+  "en": "Potable"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/extra_strings_catalan.toml",
+  "key": "TTD_STR_CARGO_PLURAL_PAPER.base",
+  "en": "Paper"
+ },
+ {
+  "lang": "catalan",
+  "file": "src/docs/extra_strings_catalan.toml",
+  "key": "CARGO_INFO_WOOL.base",
+  "en": "Bales."
+ },
+ {
+  "lang": "croatian",
+  "file": "src/grf/lang/croatian.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "croatian",
+  "file": "src/grf/lang/croatian.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "croatian",
+  "file": "src/grf/lang/croatian.toml",
+  "key": "STR_CARGO_CEMENT.name",
+  "en": "Cement"
+ },
+ {
+  "lang": "croatian",
+  "file": "src/grf/lang/croatian.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "czech",
+  "file": "src/grf/lang/czech.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "czech",
+  "file": "src/grf/lang/czech.toml",
+  "key": "STR_CARGO_CEMENT.name",
+  "en": "Cement"
+ },
+ {
+  "lang": "czech",
+  "file": "src/grf/lang/czech.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "czech",
+  "file": "src/grf/lang/czech.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_CARGO_CEMENT.name",
+  "en": "Cement"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_CARGO_METHANOL.name",
+  "en": "Methanol"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_CARGO_SALT.name",
+  "en": "Salt"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_CARGO_SAND.name",
+  "en": "Sand"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_CARGO_TIN.name",
+  "en": "Tin"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_IND_RANCH.base",
+  "en": "Ranch"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_STATION_BARNS.base",
+  "en": "Barns"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_STATION_FARM_3.base",
+  "en": "Ranch"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_STATION_SHOALS.base",
+  "en": "Shoals"
+ },
+ {
+  "lang": "danish",
+  "file": "src/grf/lang/danish.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "danish",
+  "file": "src/gs/lang/danish.toml",
+  "key": "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base",
+  "en": "{BLACK}Type: {WHITE}{RAW_STRING}"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_CARGO_CEMENT.name",
+  "en": "Cement"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_CARGO_METHANOL.name",
+  "en": "Methanol"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_CARGO_TIN.name",
+  "en": "Tin"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_IND_RANCH.base",
+  "en": "Ranch"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_STATION_FARM_3.base",
+  "en": "Ranch"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_STATION_PIPEWORK_FABRICATOR.base",
+  "en": "Flowline"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_STATION_PLANT.base",
+  "en": "Plant"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/grf/lang/dutch.toml",
+  "key": "STR_BADGE_LAND.base",
+  "en": "LAND"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/gs/lang/dutch.toml",
+  "key": "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base",
+  "en": "{BLACK}Type: {WHITE}{RAW_STRING}"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_CR_TH_LABEL",
+  "en": "Label"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/lang/dutch.toml",
+  "key": "DOC_CC_EXPRESS",
+  "en": "Express"
+ },
+ {
+  "lang": "dutch",
+  "file": "src/docs/extra_strings_dutch.toml",
+  "key": "TTD_STR_CARGO_PLURAL_RUBBER.base",
+  "en": "Rubber"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_CARGO_COKE.name",
+  "en": "Coke"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_CARGO_NITRATES.name",
+  "en": "Nitrates"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_CARGO_PHOSPHATE.name",
+  "en": "Phosphate"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_CARGO_ZINC.name",
+  "en": "Zinc"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_IND_PORT.base",
+  "en": "Port"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_STATION_BASE.base",
+  "en": "Base"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_STATION_MINES.base",
+  "en": "Mines"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_STATION_PLANTATION.base",
+  "en": "Plantation"
+ },
+ {
+  "lang": "french",
+  "file": "src/grf/lang/french.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_NAV_INDUSTRIES",
+  "en": "Industries"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_GS_FEATURE_INDUSTRIES",
+  "en": "{count} industries"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_GS_DOWNLOAD_B1_LINK",
+  "en": "Instructions"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_IND_TITLE",
+  "en": "Industries ({count})"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_CR_NAV_INDUSTRIES",
+  "en": "Industries ({count})"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_CR_INDUSTRIES_TITLE",
+  "en": "Industries ({count})"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_CC_EXPRESS",
+  "en": "Express"
+ },
+ {
+  "lang": "french",
+  "file": "src/docs/lang/french.toml",
+  "key": "DOC_CC_POTABLE",
+  "en": "Potable"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base",
+  "en": "Arctic Basic"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_CARGO_ACID.name",
+  "en": "Acid"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_CARGO_CASSAVA.name",
+  "en": "Cassava"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_CARGO_PEAT.name",
+  "en": "Peat"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_CARGO_POTASH.name",
+  "en": "Potash"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_CARGO_SLAG.name",
+  "en": "Slag"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_CARGO_ZINC.name",
+  "en": "Zinc"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_IND_PORT.base",
+  "en": "Port"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/grf/lang/gaelic.toml",
+  "key": "STR_STATION_PIT.base",
+  "en": "Pit"
+ },
+ {
+  "lang": "gaelic",
+  "file": "src/docs/extra_strings_gaelic.toml",
+  "key": "TTD_STR_CARGO_PLURAL_COAL.base",
+  "en": "Coal"
+ },
+ {
+  "lang": "galician",
+  "file": "src/grf/lang/galician.toml",
+  "key": "STR_STATION_BASE.base",
+  "en": "Base"
+ },
+ {
+  "lang": "galician",
+  "file": "src/docs/lang/galician.toml",
+  "key": "DOC_CR_TH_DECIMAL",
+  "en": "(decimal)"
+ },
+ {
+  "lang": "galician",
+  "file": "src/docs/lang/galician.toml",
+  "key": "DOC_CC_POTABLE",
+  "en": "Potable"
+ },
+ {
+  "lang": "galician",
+  "file": "src/docs/extra_strings_galician.toml",
+  "key": "CARGO_INFO_WOOL.base",
+  "en": "Bales."
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG.base",
+  "en": " {BLACK}(optional)"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_CARGO_METHANOL.name",
+  "en": "Methanol"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_CARGO_SAND.name",
+  "en": "Sand"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_IND_RANCH.base",
+  "en": "Ranch"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_STATION_FARM_3.base",
+  "en": "Ranch"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_STATION_WATER.base",
+  "en": "Sandbank"
+ },
+ {
+  "lang": "german",
+  "file": "src/grf/lang/german.toml",
+  "key": "STR_BADGE_LAND.base",
+  "en": "LAND"
+ },
+ {
+  "lang": "german",
+  "file": "src/gs/lang/german.toml",
+  "key": "STR_MANUFACTURERS_STORY_PAGE_NAME.base",
+  "en": "{BLACK}Name: {WHITE}{RAW_STRING}"
+ },
+ {
+  "lang": "german",
+  "file": "src/docs/lang/german.toml",
+  "key": "DOC_CR_TH_NAME",
+  "en": "Name"
+ },
+ {
+  "lang": "german",
+  "file": "src/docs/lang/german.toml",
+  "key": "DOC_CC_EXPRESS",
+  "en": "Express"
+ },
+ {
+  "lang": "hungarian",
+  "file": "src/grf/lang/hungarian.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "hungarian",
+  "file": "src/grf/lang/hungarian.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "hungarian",
+  "file": "src/grf/lang/hungarian.toml",
+  "key": "STR_CARGO_CEMENT.name",
+  "en": "Cement"
+ },
+ {
+  "lang": "hungarian",
+  "file": "src/grf/lang/hungarian.toml",
+  "key": "STR_IND_FARM.base",
+  "en": "Farm"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_PARAM_VALUE_ECONOMIES_STEELTOWN.base",
+  "en": "Steeltown"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_CARGO_NITROGEN.name",
+  "en": "Nitrogen"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_CARGO_SLAG.name",
+  "en": "Slag"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_CARGO_SODA_ASH.name",
+  "en": "Soda Ash"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_STATION_FORGE_AND_FOUNDRY.base",
+  "en": "Steelmasters"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/grf/lang/indonesian.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "indonesian",
+  "file": "src/docs/lang/indonesian.toml",
+  "key": "DOC_CR_TH_LABEL",
+  "en": "Label"
+ },
+ {
+  "lang": "japanese",
+  "file": "src/grf/lang/japanese.toml",
+  "key": "STR_BADGE_SEA.base",
+  "en": "SEA"
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_CARGO_COKE.name",
+  "en": "Coke"
+ },
+ {
+  "lang": "latin",
+  "file": "src/grf/lang/latin.toml",
+  "key": "STR_CARGO_BARYTES_AND_FLUORSPAR.name",
+  "en": "Barytes & Fluorspar"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_CARGO_METHANOL.name",
+  "en": "Methanol"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_CARGO_SAND.name",
+  "en": "Sand"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_IND_RANCH.base",
+  "en": "Ranch"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_STATION_FARM_3.base",
+  "en": "Ranch"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_STATION_INDUSTRY_HARBOUR_4.base",
+  "en": "Shorefront"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_STATION_PIPEWORK_FABRICATOR.base",
+  "en": "Flowline"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_STATION_PLATE_MILL.base",
+  "en": "Slab yard"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/grf/lang/luxembourgish.toml",
+  "key": "STR_BADGE_LAND.base",
+  "en": "LAND"
+ },
+ {
+  "lang": "luxembourgish",
+  "file": "src/docs/lang/luxembourgish.toml",
+  "key": "DOC_CC_EXPRESS",
+  "en": "Express"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_NITROGEN.name",
+  "en": "Nitrogen"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_SALT.name",
+  "en": "Salt"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_SAND.name",
+  "en": "Sand"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_TINPLATE.name",
+  "en": "Tinplate"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_TYRE_CORD.name",
+  "en": "Tyre Cord"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_CARGO_TYRES.name",
+  "en": "Tyres"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_IND_VEHICLE_DISTRIBUTOR.base",
+  "en": "Vehicle Distributor"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_STATION_BASE.base",
+  "en": "Base"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/grf/lang/norwegian_bokmal.toml",
+  "key": "STR_BADGE_LAND.base",
+  "en": "LAND"
+ },
+ {
+  "lang": "norwegian_bokmal",
+  "file": "src/gs/lang/norwegian_bokmal.toml",
+  "key": "STR_MANUFACTURERS_STORY_PAGE_CATEGORY.base",
+  "en": "{BLACK}Type: {WHITE}{RAW_STRING}"
+ },
+ {
+  "lang": "polish",
+  "file": "src/grf/lang/polish.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "portuguese",
+  "file": "src/grf/lang/portuguese.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "portuguese",
+  "file": "src/grf/lang/portuguese.toml",
+  "key": "STR_STATION_BASE.base",
+  "en": "Base"
+ },
+ {
+  "lang": "portuguese",
+  "file": "src/grf/lang/portuguese.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "portuguese",
+  "file": "src/docs/lang/portuguese.toml",
+  "key": "DOC_CR_TH_DECIMAL",
+  "en": "(decimal)"
+ },
+ {
+  "lang": "portuguese_BR",
+  "file": "src/grf/lang/portuguese_BR.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "portuguese_BR",
+  "file": "src/grf/lang/portuguese_BR.toml",
+  "key": "STR_STATION_BASE.base",
+  "en": "Base"
+ },
+ {
+  "lang": "portuguese_BR",
+  "file": "src/grf/lang/portuguese_BR.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "portuguese_BR",
+  "file": "src/docs/lang/portuguese_BR.toml",
+  "key": "DOC_CR_TH_DECIMAL",
+  "en": "(decimal)"
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC.base",
+  "en": "Arctic Basic"
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base",
+  "en": "Tropic Basic"
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_CARGO_ACID.name",
+  "en": "Acid"
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_CARGO_ZINC.name",
+  "en": "Zinc"
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_IND_PORT.base",
+  "en": "Port"
+ },
+ {
+  "lang": "romanian",
+  "file": "src/grf/lang/romanian.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "slovak",
+  "file": "src/grf/lang/slovak.toml",
+  "key": "STR_CARGO_CEMENT.name",
+  "en": "Cement"
+ },
+ {
+  "lang": "slovak",
+  "file": "src/grf/lang/slovak.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "slovak",
+  "file": "src/grf/lang/slovak.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "spanish",
+  "file": "src/grf/lang/spanish.toml",
+  "key": "STR_IND_HOTEL.base",
+  "en": "Hotel"
+ },
+ {
+  "lang": "spanish",
+  "file": "src/grf/lang/spanish.toml",
+  "key": "STR_STATION_BASE.base",
+  "en": "Base"
+ },
+ {
+  "lang": "spanish",
+  "file": "src/docs/lang/spanish.toml",
+  "key": "DOC_CR_TH_DECIMAL",
+  "en": "(decimal)"
+ },
+ {
+  "lang": "spanish",
+  "file": "src/docs/lang/spanish.toml",
+  "key": "DOC_CC_POTABLE",
+  "en": "Potable"
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/grf/lang/spanish_MX.toml",
+  "key": "STR_CARGO_ZINC.name",
+  "en": "Zinc"
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/grf/lang/spanish_MX.toml",
+  "key": "STR_STATION_BASE.base",
+  "en": "Base"
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/grf/lang/spanish_MX.toml",
+  "key": "STR_STATION_CONCRETE_PLANT.base",
+  "en": "Precast"
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/grf/lang/spanish_MX.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/docs/lang/spanish_MX.toml",
+  "key": "DOC_CR_TH_DECIMAL",
+  "en": "(decimal)"
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/docs/lang/spanish_MX.toml",
+  "key": "DOC_CC_POTABLE",
+  "en": "Potable"
+ },
+ {
+  "lang": "spanish_MX",
+  "file": "src/docs/extra_strings_spanish_MX.toml",
+  "key": "CARGO_INFO_WOOL.base",
+  "en": "Bales."
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_CARGO_ALUMINIUM.name",
+  "en": "Aluminium"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_CARGO_ALUMINA.name",
+  "en": "Alumina"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_CARGO_BITUMEN.name",
+  "en": "Bitumen"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_CARGO_CEMENT.name",
+  "en": "Cement"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_CARGO_SALT.name",
+  "en": "Salt"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_CARGO_SAND.name",
+  "en": "Sand"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/grf/lang/swedish.toml",
+  "key": "STR_STATION_WATER.base",
+  "en": "Sandbank"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/docs/lang/swedish.toml",
+  "key": "DOC_CR_TH_DECIMAL",
+  "en": "(decimal)"
+ },
+ {
+  "lang": "swedish",
+  "file": "src/docs/lang/swedish.toml",
+  "key": "DOC_CC_EXPRESS",
+  "en": "Express"
+ },
+ {
+  "lang": "turkish",
+  "file": "src/grf/lang/turkish.toml",
+  "key": "STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC.base",
+  "en": "Tropic Basic"
+ },
+ {
+  "lang": "turkish",
+  "file": "src/grf/lang/turkish.toml",
+  "key": "STR_STATION_HERDING_COOP.base",
+  "en": "Reinder Pens"
+ },
+ {
+  "lang": "turkish",
+  "file": "src/grf/lang/turkish.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/grf/lang/welsh.toml",
+  "key": "STR_CARGO_CASSAVA.name",
+  "en": "Cassava"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/grf/lang/welsh.toml",
+  "key": "STR_CARGO_NITROGEN.name",
+  "en": "Nitrogen"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/grf/lang/welsh.toml",
+  "key": "STR_CARGO_PEAT.name",
+  "en": "Peat"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/grf/lang/welsh.toml",
+  "key": "STR_CARGO_SLAG.name",
+  "en": "Slag"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/grf/lang/welsh.toml",
+  "key": "STR_CARGO_TIN.name",
+  "en": "Tin"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/grf/lang/welsh.toml",
+  "key": "STR_STATION_FARM_1.base",
+  "en": "Manor"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/grf/lang/welsh.toml",
+  "key": "STR_STATION_SILO.base",
+  "en": "Silo"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/docs/lang/welsh.toml",
+  "key": "DOC_CR_TH_LABEL",
+  "en": "Label"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/docs/extra_strings_welsh.toml",
+  "key": "TTD_STR_CARGO_PLURAL_OIL.base",
+  "en": "Oil"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/docs/extra_strings_welsh.toml",
+  "key": "TTD_STR_CARGO_PLURAL_RUBBER.base",
+  "en": "Rubber"
+ },
+ {
+  "lang": "welsh",
+  "file": "src/docs/extra_strings_welsh.toml",
+  "key": "CARGO_INFO_TIN.base",
+  "en": "Ingots."
+ },
+ {
+  "lang": "welsh",
+  "file": "src/docs/extra_strings_welsh.toml",
+  "key": "CARGO_INFO_ZINC.base",
+  "en": "Ingots."
+ }
+]

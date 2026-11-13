@@ -1,0 +1,202 @@
+[
+ {
+  "fail": {
+   "lang": "belarusian",
+   "file": "src/docs/lang/belarusian.toml",
+   "key": "DOC_HOME_WHY_3_DESC",
+   "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+   "tr": "Поўная гісторыя git FIRS захоўваецца, таму будучыя змены upstream могуць быць аб'яднаны, а не адгалінаваны.",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "Набор CIRS для замены аб’ектаў прамысловасці супольнасці",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "Поўная гісторыя FIRS у git захавана, таму будучыя змены з upstream можна будзе аб’яднаць, а не ствараць асобны форк."
+ },
+ {
+  "fail": {
+   "lang": "danish",
+   "file": "src/docs/lang/danish.toml",
+   "key": "DOC_HOME_WHY_3_DESC",
+   "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+   "tr": "Den fulde FIRS git-historik bevares, så fremtidige upstream-ændringer kan flettes i stedet for at blive fra-forket.",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "CIRS Community-Industri-Ersatzpakke",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "Den fuldstændige FIRS git-historik er bevaret, så fremtidige ændringer fra upstream kan slås sammen i stedet for at blive forket væk."
+ },
+ {
+  "fail": {
+   "lang": "dutch",
+   "file": "src/docs/lang/dutch.toml",
+   "key": "DOC_HOME_WHY_3_DESC",
+   "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+   "tr": "De volledige FIRS git-geschiedenis wordt behouden, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van weggeforkt.",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "CIRS Community-Industrie-Ersatzset",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "De volledige FIRS git-geschiedenis wordt bewaard, zodat toekomstige upstream-wijzigingen kunnen worden samengevoegd in plaats van afgesplitst."
+ },
+ {
+  "fail": {
+   "lang": "dutch",
+   "file": "src/docs/lang/dutch.toml",
+   "key": "DOC_HOME_WHY_3_TITLE",
+   "en": "Upstream tracking",
+   "tr": "Upstream-volging",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "CIRS Community-Industrie-Ersatzset",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "Tracking van de upstream-bron"
+ },
+ {
+  "fail": {
+   "lang": "german",
+   "file": "src/docs/lang/german.toml",
+   "key": "DOC_HOME_WHY_3_DESC",
+   "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+   "tr": "Der vollständige FIRS-Git-Verlauf wird beibehalten, sodass künftige Upstream-Änderungen zusammengeführt und nicht weggeforkt werden können.",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "CIRS - Community Industry Replacement Set",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "Die vollständige FIRS-git-Vorgeschichte wird erhalten, sodass zukünftige Änderungen aus dem Upstream zusammengeführt werden können, anstatt in einen separaten Fork ausgegliedert zu"
+ },
+ {
+  "fail": {
+   "lang": "german",
+   "file": "src/docs/lang/german.toml",
+   "key": "DOC_HOME_WHY_3_TITLE",
+   "en": "Upstream tracking",
+   "tr": "Upstream-Verfolgung",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "CIRS - Community Industry Replacement Set",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "Nachverfolgung im Upstream"
+ },
+ {
+  "fail": {
+   "lang": "italian",
+   "file": "src/docs/lang/italian.toml",
+   "key": "DOC_HOME_WHY_3_DESC",
+   "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+   "tr": "L'intera cronologia git di FIRS è preservata, così i futuri cambiamenti upstream possono essere uniti invece di essere separati con un fork.",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "CIRS – Set di sostituzione per industrie comunitarie",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "La cronologia completa di FIRS su git è stata conservata, in modo che le future modifiche upstream possano essere integrate invece di essere gestite tramite un fork separato."
+ },
+ {
+  "fail": {
+   "lang": "italian",
+   "file": "src/docs/lang/italian.toml",
+   "key": "DOC_HOME_WHY_3_TITLE",
+   "en": "Upstream tracking",
+   "tr": "Tracciamento upstream",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "CIRS – Set di sostituzione per industrie comunitarie",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "unchanged"
+  ],
+  "sample": "Tracciamento upstream"
+ },
+ {
+  "fail": {
+   "lang": "latin",
+   "file": "src/docs/lang/latin.toml",
+   "key": "DOC_HOME_WHY_3_DESC",
+   "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+   "tr": "Tota historia git FIRS conservatur, ita mutationes futurae upstream coniungi possunt potius quam furculari.",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "CIRS Complementum Industrialium Communium Substitutionis",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "Historia integra FIRS in git servatur, ut mutationes futures upstream coniungi possint, potius quam in ramum separatum abducantur."
+ },
+ {
+  "fail": {
+   "lang": "polish",
+   "file": "src/docs/lang/polish.toml",
+   "key": "DOC_HOME_WHY_3_DESC",
+   "en": "The full FIRS git history is preserved, so future upstream changes can be merged instead of forked away.",
+   "tr": "Pełna historia git FIRS jest zachowywana, dzięki czemu przyszłe zmiany z upstream mogą być scalane zamiast być rozwidlane.",
+   "reasons": [
+    "upstream"
+   ],
+   "work_index": null,
+   "in_work": false,
+   "name_hint": "Zestaw zastępczy dla społeczności przemysłowej CIRS",
+   "note": "git 术语 upstream（上游）请译成目标语言的地道说法，不要直接保留英文单词 upstream；保留 FIRS、git 等专有名词。"
+  },
+  "why": [
+   "upstream_left"
+  ],
+  "sample": "Pełna historia git projektu FIRS została zachowana, dzięki czemu przyszłe zmiany z upstreamu można będzie połączyć, zamiast tworzyć osobny fork."
+ }
+]

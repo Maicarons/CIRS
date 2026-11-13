@@ -1,0 +1,3134 @@
+{
+ "per": {
+  "afrikaans": {
+   "total": 574,
+   "flags": 13
+  },
+  "arabic": {
+   "total": 574,
+   "flags": 0
+  },
+  "belarusian": {
+   "total": 574,
+   "flags": 0
+  },
+  "catalan": {
+   "total": 574,
+   "flags": 27
+  },
+  "croatian": {
+   "total": 574,
+   "flags": 5
+  },
+  "czech": {
+   "total": 574,
+   "flags": 0
+  },
+  "danish": {
+   "total": 574,
+   "flags": 0
+  },
+  "dutch": {
+   "total": 574,
+   "flags": 12
+  },
+  "english": {
+   "total": 574,
+   "flags": 38
+  },
+  "esperanto": {
+   "total": 574,
+   "flags": 6
+  },
+  "estonian": {
+   "total": 574,
+   "flags": 0
+  },
+  "finnish": {
+   "total": 574,
+   "flags": 3
+  },
+  "french": {
+   "total": 574,
+   "flags": 29
+  },
+  "gaelic": {
+   "total": 574,
+   "flags": 4
+  },
+  "galician": {
+   "total": 574,
+   "flags": 27
+  },
+  "german": {
+   "total": 574,
+   "flags": 1
+  },
+  "hungarian": {
+   "total": 574,
+   "flags": 0
+  },
+  "indonesian": {
+   "total": 574,
+   "flags": 1
+  },
+  "italian": {
+   "total": 574,
+   "flags": 18
+  },
+  "japanese": {
+   "total": 574,
+   "flags": 0
+  },
+  "korean": {
+   "total": 574,
+   "flags": 0
+  },
+  "latin": {
+   "total": 574,
+   "flags": 4
+  },
+  "luxembourgish": {
+   "total": 574,
+   "flags": 0
+  },
+  "norwegian_bokmal": {
+   "total": 574,
+   "flags": 2
+  },
+  "polish": {
+   "total": 574,
+   "flags": 1
+  },
+  "portuguese": {
+   "total": 574,
+   "flags": 23
+  },
+  "portuguese_BR": {
+   "total": 574,
+   "flags": 22
+  },
+  "romanian": {
+   "total": 574,
+   "flags": 8
+  },
+  "russian": {
+   "total": 574,
+   "flags": 0
+  },
+  "serbian": {
+   "total": 574,
+   "flags": 99
+  },
+  "simplified_chinese": {
+   "total": 574,
+   "flags": 0
+  },
+  "slovak": {
+   "total": 574,
+   "flags": 0
+  },
+  "spanish": {
+   "total": 574,
+   "flags": 26
+  },
+  "spanish_MX": {
+   "total": 574,
+   "flags": 27
+  },
+  "swedish": {
+   "total": 574,
+   "flags": 0
+  },
+  "tamil": {
+   "total": 574,
+   "flags": 0
+  },
+  "traditional_chinese": {
+   "total": 574,
+   "flags": 0
+  },
+  "turkish": {
+   "total": 574,
+   "flags": 0
+  },
+  "welsh": {
+   "total": 574,
+   "flags": 22
+  }
+ },
+ "flags": {
+  "afrikaans": [
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT",
+    "Plase, myne en soortgelyke nywerhede sal produksie verhoog wanneer voorraadkiste afgelewer word, eers aan {SILVER}Verbeterde{BLACK}, en daar",
+    "english_sentence",
+    6,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_BONUS",
+    "Produksie op plase, myne en soortgelyke nywerhede wanneer verskaffingsvereistes vervul word (as ’n persentasie van die {SILVER}normale {BLAC",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_TOWN_PRODUCER",
+    "{BLACK}Produksie is eweredig aan die dorp se bevolking. Minstens {WHITE}{SIGNED_WORD} eenhede{BLACK} en nie meer as {WHITE}{SIGNED_WORD} een",
+    "english_sentence",
+    5,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Onversoenbare parameter: {ORANGE}NA City Set-parameter 2 moet 0 wees om met CIRS te werk.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION",
+    "{ORANGE}E04: {YELLOW}Onversoenbare weergawe: {ORANGE}Total Town Replacement Set moet weergawe 3.11 of nuwer wees.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_FUND_ARABLE_FARM",
+    "{}{BLACK}Ligging: {YELLOW}Kannie befonds word in sneeu of in die woestyn nie.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_COFFEE_ESTATE",
+    "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_DAIRY_FARM",
+    "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_FARM",
+    "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_FOREST",
+    "{}{BLACK}Ligging: {YELLOW}Kannie befonds word in die woestyn.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_FUND_ORCHARD_PIGGERY",
+    "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_RUBBER_PLANTATION",
+    "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_VINEYARD",
+    "{}{BLACK}Plek: {YELLOW}Kan nie op die sneeu of in woestyne befonds word.",
+    "english_sentence",
+    3,
+    true
+   ]
+  ],
+  "catalan": [
+   [
+    "STR_PARAM_NAME_OBJECTS",
+    "Objectes de paisatgisme de CIRS",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS requereix OpenTTD 1.7.0 (o, per als qui utilitzin compilacions del tronc, r27769)",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE",
+    "s'ha de situar sota l'estatge de les neus.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE",
+    "no es pot situar en terreny inclinat.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CARBON_BLACK_CARGO_UNIT",
+    "{WEIGHT} de negre de carboni",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FISH_CARGO_UNIT",
+    "{WEIGHT} de peix i marisc",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FORGINGS_AND_CASTINGS_CARGO_UNIT",
+    "{WEIGHT} de peces forjades i foses",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_GLASS_CARGO_UNIT",
+    "{WEIGHT} de productes de vidre",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_HARDWARE_CARGO_UNIT",
+    "{WEIGHT} de ferratgeria i acabats",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_BARYTES_AND_FLUORSPAR_CARGO_UNIT",
+    "{WEIGHT} de bari i fluorita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_MOLASSES_CARGO_UNIT",
+    "{WEIGHT} de sucre cru i melassa",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PAINTS_AND_COATINGS_CARGO_UNIT",
+    "{VOLUME} de pintures i revestiments",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PYRITE_ORE_CARGO_UNIT",
+    "{WEIGHT} de mineral de pirita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_SODA_ASH_CARGO_UNIT",
+    "{WEIGHT} de cendra de soda",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_BILLETS_AND_BLOOMS_CARGO_UNIT",
+    "{WEIGHT} de lingots i blocs de fosa",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SHEET_CARGO_UNIT",
+    "{WEIGHT} de fulla i franja d'acer",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_WIRE_ROD_CARGO_UNIT",
+    "{WEIGHT} de barra de fil d'acer",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TIMBER_CARGO_UNIT",
+    "{WEIGHT} de productes de fusta",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_VEHICLE_BODIES_CARGO_UNIT",
+    "{WEIGHT} de carrosseries de vehicles",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_VEHICLE_PARTS_CARGO_UNIT",
+    "{WEIGHT} de peces de vehicle",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT",
+    "{WEIGHT} de consumibles de soldadura",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOD_PULP_CARGO_UNIT",
+    "{WEIGHT} de pasta de fusta",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} bal{P 0 a es} de llana",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ZINC_ORE_CARGO_UNIT",
+    "{WEIGHT} de mineral de zinc",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_SECTION_AND_BAR_MILL",
+    "Taller de seccions i barres",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_ORCHARD_PIGGERY",
+    "Arbres fruiters i granja de porcs",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_STATION_HERDING_COOP",
+    "Estables per a reinders",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "croatian": [
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS zahtijeva OpenTTD 1.7.0 (ili, za one koji koriste izgradnje iz glavnog granca, r27769)",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CANSET",
+    "{ORANGE}E02: {YELLOW}Nekompatibilni parametar: {ORANGE}Parametar CanSet 2 mora biti 0 kako bi radio s CIRS-om.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Nekompatibilni parametar: {ORANGE}Parametar NA City Set 2 mora biti 0 kako bi radio s CIRS-om.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_HERDING_COOP",
+    "{}{BLACK}Lokacija: {YELLOW}Mora se financirati na snijegu.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_PHOSPHATE_AND_ACID_PLANT",
+    "Postrojenje za gnojiva i kiseline",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "dutch": [
+   [
+    "STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Maximale afstand tot de kust in tegels voor visgebieden en baggermolens.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_TOWN_PRODUCER",
+    "{BLACK}De productie is evenredig met de bevolking van de stad. Er wordt elke minuut minstens {WHITE}{SIGNED_WORD} eenheden{BLACK} en niet me",
+    "english_sentence",
+    5,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS vereist OpenTTD 1.7.0 (of, voor degenen die trunk-builds gebruiken, r27769)",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Incompatibele parameter: {ORANGE}Bij de NA City Set moet parameter 2 0 zijn om met CIRS te werken.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION",
+    "{ORANGE}E04: {YELLOW}Incompatibele versie: {ORANGE}De Total Town Replacement Set moet versie 3.11 of nieuwer zijn.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_ARABLE_FARM",
+    "{}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_COFFEE_ESTATE",
+    "{}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_DAIRY_FARM",
+    "{}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_FARM",
+    "{}{BLACK}Plaats: {YELLOW}Kan niet op sneeuw of in woestijnen gebouwd worden.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_FUND_ORCHARD_PIGGERY",
+    "{}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_RUBBER_PLANTATION",
+    "{}{BLACK}Plaats: {YELLOW}Kan niet boven de sneeuwgrens of in woestijnen gebouwd worden.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_VINEYARD",
+    "{}{BLACK}Plaats: {YELLOW}Kan niet op sneeuw of in woestijnen gebouwd worden.",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "english": [
+   [
+    "STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Maximum distance of fishing grounds, oil rigs and dredging sites from the coast in tiles.",
+    "english_sentence",
+    5,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_ECONOMIES",
+    "Each economy provides a different combination of cargos and industries.{}{}For players who want simple gameplay, {SILVER}Basic {BLACK}econom",
+    "english_sentence",
+    10,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Maximum coastal distance of marine industries in tiles",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT",
+    "Farms, mines and similar industries will increase production when supply crates are delivered, first to {SILVER}Enhanced{BLACK}, and then to",
+    "english_sentence",
+    20,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_BONUS",
+    "Production at farms, mines and similar industries when supply requirements are met (as percentage of {SILVER}Normal {BLACK}production level)",
+    "english_sentence",
+    6,
+    true
+   ],
+   [
+    "STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY",
+    "In A Hot Country",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY",
+    "{BLACK}Supply {WHITE}at least one {BLACK} required cargo for maximum production.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH",
+    "{BLACK}For maximum production rate, supply {WHITE}both {BLACK}required cargos at least once every three minutes.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL",
+    "{BLACK}For maximum production rate, supply {WHITE}all {BLACK}required cargos at least once every three minutes.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO",
+    "{BLACK}For maximum production rate, supply {WHITE}at least two {BLACK}required cargos at least once every three minutes.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE",
+    "{BLACK}For maximum production rate, supply {WHITE}at least three {BLACK}required cargos at least once every three minutes.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_TOWN_PRODUCER",
+    "{BLACK}Production is proportional to town population. At least {WHITE}{SIGNED_WORD} units{BLACK} and not more than {WHITE}{SIGNED_WORD} unit",
+    "english_sentence",
+    10,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_1X",
+    "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} crates of supplies at least",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_2X",
+    "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} crates of supplies at least once every thre",
+    "english_sentence",
+    5,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_4X",
+    "{BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} crates of supplies at least once every",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_1X",
+    "{BLACK}Current production: {YELLOW}Normal {}{}{BLACK}For {WHITE}Enhanced {BLACK}production deliver {SIGNED_WORD} units of cargo at least onc",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_2X",
+    "{BLACK}Current production: {YELLOW}Enhanced {}{}{BLACK}To keep this level, deliver {SIGNED_WORD} units of cargo at least once every three mi",
+    "english_sentence",
+    5,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_4X",
+    "{BLACK}Current production: {YELLOW}Gung-ho {}{}{BLACK}To keep this level, deliver {SKIP}{SIGNED_WORD} units of cargo at least once every thr",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS requires OpenTTD 1.7.0 (or for those using trunk builds, r27769)",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CANSET",
+    "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}CanSet parameter 2 must be 0 to work with CIRS.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Incompatible parameter: {ORANGE}NA City Set parameter 2 must be 0 to work with CIRS.",
+    "english_sentence",
+    5,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION",
+    "{ORANGE}E04: {YELLOW}Incompatible version: {ORANGE}Total Town Replacement Set must be version release 3.11 or newer.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE",
+    "must be placed below the snow line.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE",
+    "cannot be placed on steep slopes.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_FUND_ARABLE_FARM",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_COFFEE_ESTATE",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_DAIRY_FARM",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_FARM",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_FOREST",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded in deserts.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_FUND_FRUIT_PLANTATION",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded on snow.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_FUND_HERDING_COOP",
+    "{}{BLACK}Location: {YELLOW}Can only be funded on snow.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_ORCHARD_PIGGERY",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_RUBBER_PLANTATION",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_VINEYARD",
+    "{}{BLACK}Location: {YELLOW}Cannot be funded on snow or in deserts.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_CARGO_COFFEE_CARGO_UNIT",
+    "{WEIGHT} sack{P 0 \"\" s} of coffee",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ENGINEERING_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} crate{P 0 \"\" s} of engineering supplies",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FARM_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} crate{P 0 \"\" s} of farm supplies",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} bale{P 0 \"\" s} of wool",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "esperanto": [
+   [
+    "STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Maksimuma marborda distanco de mara industrioj en kaheloj",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_BONUS",
+    "Produktado en farmoj, minejoj kaj similaj industrioj kiam la provizbezonoj estas plenumitaj (kiel procento de la {SILVER}normala {BLACK}prod",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CANSET",
+    "{ORANGE}E02: {YELLOW}Nekongrua parametro: {ORANGE}La parametro CanSet 2 devas esti 0 por funkcii kun CIRS.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Nekongrua parametro: {ORANGE}La parametro 2 de la NA City Set devas esti 0 por funkcii kun CIRS.",
+    "english_sentence",
+    5,
+    true
+   ],
+   [
+    "STR_CARGO_COFFEE_CARGO_UNIT",
+    "{WEIGHT} sakoj{P 0 \"\" s} da kafo",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} balo{P 0 \"\" s} da lano",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "finnish": [
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CANSET",
+    "{ORANGE}E02: {YELLOW}Yhteensopimaton parametri: {ORANGE}CanSet-parametrin 2 arvon on oltava 0, jotta se toimii CIRS:n kanssa.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Yhteensopimaton parametri: {ORANGE}NA City Setin parametrin 2 arvon on oltava 0, jotta se toimii CIRS:n kanssa.",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION",
+    "{ORANGE}E04: {YELLOW}Yhteensopimaton versio: {ORANGE}Total Town Replacement Setin on oltava versio 3.11 tai uudempi.",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "french": [
+   [
+    "STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY",
+    "Dans un pays chaud",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH",
+    "{BLACK}Pour un taux de production maximal, fournissez {WHITE}les deux {BLACK}marchandises requises au moins une fois toutes les trois minute",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL",
+    "{BLACK}Pour un taux de production maximal, fournissez {WHITE}toutes {BLACK}les marchandises requises au moins une fois toutes les trois minu",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO",
+    "{BLACK}Pour un taux de production maximal, fournissez {WHITE}au moins deux {BLACK}marchandises requises au moins une fois toutes les trois m",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE",
+    "{BLACK}Pour un taux de production maximal, fournissez {WHITE}au moins trois {BLACK}marchandises requises au moins une fois toutes les trois ",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_4X",
+    "{BLACK}Production actuelle : {YELLOW}Entreprenante {}{}{BLACK}Pour maintenir ce niveau, livrez {SKIP}{SIGNED_WORD} caisses d’approvisionneme",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS_CARGO_UNIT",
+    "{VOLUME} de produits ammoniac et nitriques",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CARBON_BLACK_CARGO_UNIT",
+    "{WEIGHT} de noir de carbone",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_COAL_TAR_CARGO_UNIT",
+    "{VOLUME} de goudron de houille",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FISH_NAME",
+    "Poisson et fruits de mer",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FISH_CARGO_UNIT",
+    "{WEIGHT} de poisson et fruits de mer",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_CARGO_FLOUR_CARGO_UNIT",
+    "{WEIGHT} de farine et amidon",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_HARDWARE_CARGO_UNIT",
+    "{WEIGHT} de quincaillerie et finitions",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_BARYTES_AND_FLUORSPAR_CARGO_UNIT",
+    "{WEIGHT} de baryte et fluorine",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PLANT_AND_MACHINERY_CARGO_UNIT",
+    "{WEIGHT} de plantes et machines",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PUMPS_AND_VALVES_CARGO_UNIT",
+    "{WEIGHT} de pompes et vannes",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PYRITE_ORE_CARGO_UNIT",
+    "{WEIGHT} de minerai de pyrite",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_SEALS_HOSES_AND_BELTS_CARGO_UNIT",
+    "{WEIGHT} de joints, tuyaux et courroies",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_BILLETS_AND_BLOOMS_CARGO_UNIT",
+    "{WEIGHT} de billettes et blooms",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TIMBER_CARGO_UNIT",
+    "{WEIGHT} de produits du bois",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_VEHICLE_ENGINES_CARGO_UNIT",
+    "{WEIGHT} de moteurs et transmissions",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT",
+    "{WEIGHT} de consommables de soudage",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} balle{P 0 \"\" s} de laine",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ZINC_ORE_CARGO_UNIT",
+    "{WEIGHT} de minerai de zinc",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_PROCESS_PLANT",
+    "Usine de traitement de l’anhydrite",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_CHIPBOARD_FACTORY",
+    "Usine de panneaux de particules",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_CARBON_BLACK_PLANT",
+    "Usine de noir de carbone",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_BOTTLE_AND_CAN_FACTORY",
+    "Usine de bouteilles et de conserves",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_STATION_DAIRY_LANE",
+    "Route de la laiterie",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "gaelic": [
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: Feumaidh CIRS OpenTTD 1.7.0 (no, do dh’fheadhainn a bhios a’ cleachdadh togalaichean trunk, r27769)",
+    "english_sentence",
+    5,
+    true
+   ],
+   [
+    "STR_CARGO_COFFEE_CARGO_UNIT",
+    "{WEIGHT} poc{P 0 \"\" s} de chabhag",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FARM_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} crate{P 0 \"\" s} de sholarachaidhean tuathanais",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PUMPS_AND_VALVES_CARGO_UNIT",
+    "{WEIGHT} de phuimpean is bhalbhaichean",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "galician": [
+   [
+    "STR_PARAM_NAME_OBJECTS",
+    "Obxectos de paisaxismo de CIRS",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ANHYDRITE_CARGO_UNIT",
+    "{WEIGHT} de rocha de anhidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CLEANING_AGENTS_CARGO_UNIT",
+    "{WEIGHT} de axentes de limpeza",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FISH_CARGO_UNIT",
+    "{WEIGHT} de peixe e marisco",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FOOD_AND_BEVERAGES_CARGO_UNIT",
+    "{WEIGHT} de alimentos e bebidas",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FORGINGS_AND_CASTINGS_CARGO_UNIT",
+    "{WEIGHT} de pezas forxadas e fundidas",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_GLASS_CARGO_UNIT",
+    "{WEIGHT} de produtos de vidro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_MOLASSES_CARGO_UNIT",
+    "{WEIGHT} de azucre bruto e melaza",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PAINTS_AND_COATINGS_CARGO_UNIT",
+    "{VOLUME} de pinturas e revistimentos",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PYRITE_ORE_CARGO_UNIT",
+    "{WEIGHT} de mineral de pirita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_SEALS_HOSES_AND_BELTS_CARGO_UNIT",
+    "{WEIGHT} de selos, mangueras e correas",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_INGOTS_CARGO_UNIT",
+    "{WEIGHT} de lingotes de aceiro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_PIPE_CARGO_UNIT",
+    "{WEIGHT} de tubos de aceiro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_PLATE_CARGO_UNIT",
+    "{WEIGHT} de chapas de aceiro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SHEET_NAME",
+    "Folla e tiras de aceiro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SHEET_CARGO_UNIT",
+    "{WEIGHT} de follas e tiras de aceiro",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SLAB_CARGO_UNIT",
+    "{WEIGHT} de placas de aceiro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_TUBE_CARGO_UNIT",
+    "{WEIGHT} de tubos de aceiro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_WIRE_ROD_CARGO_UNIT",
+    "{WEIGHT} de varas de aceiro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TIMBER_CARGO_UNIT",
+    "{WEIGHT} de produtos de madeira",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TINPLATE_CARGO_UNIT",
+    "{WEIGHT} de follas de lata",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT",
+    "{WEIGHT} de consumibles de soldadura",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOD_PULP_CARGO_UNIT",
+    "{WEIGHT} de polpa de madeira",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} paca{P 0 \"\" s} de la",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_CARGO_ZINC_ORE_CARGO_UNIT",
+    "{WEIGHT} de mineral de cinc",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_PROCESS_PLANT",
+    "Planta de procesamento de anhidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_SLAG_GRINDING_PLANT",
+    "Planta de triturado de escoura",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "german": [
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Inkompatibler Parameter: {ORANGE}NA City Set Parameter 2 muss 0 sein, um mit CIRS zu funktionieren.",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "indonesian": [
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Parameter tidak kompatibel: {ORANGE}Parameter NA City Set 2 harus 0 agar dapat berfungsi dengan CIRS.",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "italian": [
+   [
+    "STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Distanza massima, in caselle, di zone di pesca, piattaforme petrolifere e siti di dragaggio dalla costa.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT",
+    "Casse di forniture necessarie per il livello di produzione Elevato (valore predefinito: 16)",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT",
+    "Casse di forniture necessarie per il livello di produzione Gung ho (valore predefinito: 80)",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_BONUS",
+    "Produzione delle fattorie, miniere e industrie simili, quando le merci richieste vengono consegnate (espresso in percentuale del valore {SIL",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY",
+    "In un Paese caldo",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY",
+    "{BLACK}Raggiunge il massimo livello di produzione se {WHITE}una qualsiasi {BLACK}delle merci richieste viene consegnata.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_1X",
+    "{BLACK}Produzione attuale: {YELLOW}Normale{}{}{BLACK}Il livello di produzione {WHITE}Elevato {BLACK} si raggiunge consegnando {SIGNED_WORD} ",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_2X",
+    "{BLACK}Produzione attuale: {YELLOW}Elevata{}{}{BLACK}Per mantenere questo livello di produzione, si devono consegnare {SIGNED_WORD} casse di",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS richiede OpenTTD 1.7.0 (o per quelli che usano una trunk build, r27769)",
+    "english_sentence",
+    4,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CANSET",
+    "{ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}CanSet parameter 2 deve essere 0 per funzionare con CIRS.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Parametro incompatibile: {ORANGE}NA City Set parameter 2 deve essere 0 per funzionare con CIRS.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION",
+    "{ORANGE}E04: {YELLOW}Versione incompatibile: {ORANGE}Total Town Replacement Set deve essere versione 3.11 o superiori.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS_CARGO_UNIT",
+    "{VOLUME} di prodotti a base di ammoniaca e acido nitrico",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ENGINEERING_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} cass{P 0 a e} di forniture meccaniche",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FARM_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} cass{P 0 a e} di forniture agricole",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} ball{P 0 a e} di lana",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_SECTION_AND_BAR_MILL",
+    "Sezionatrice e tornio per barre",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_TUBE_AND_PIPE_MILL",
+    "Officina per tubi e condotte",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "latin": [
+   [
+    "STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Numerus tegularum maximus a littore ad zonas piscarias, suggestus petrolearios, et situs effosionis struendos.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT",
+    "Productio fundorum, fodinarum, et ceterarum industriarum augetur dum necessarii apparatus traditi sunt, primum {SILVER}aucta{BLACK}, demum {",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS OpenTTD 1.7.0 requirit (vel, pro iis qui versiones e ramulo principali adhibent, r27769)",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Parameter incompatibilis: {ORANGE}Parameter 2 NA City Set 0 esse debet ut cum CIRS operetur.",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "norwegian_bokmal": [
+   [
+    "STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY",
+    "I et hett land",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS krever OpenTTD 1.7.0 (eller, for de som bruker trunk-bygninger, r27769)",
+    "english_sentence",
+    3,
+    true
+   ]
+  ],
+  "polish": [
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS wymaga OpenTTD w wersji przynajmniej 1.7.0 (rewizja 27769 i kolejne)",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "portuguese": [
+   [
+    "STR_PARAM_NAME_OBJECTS",
+    "Objetos de paisagismo do CIRS",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: O CIRS requer OpenTTD 1.7.0 (ou, para quem usa builds de trunk, r27769)",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE",
+    "deve ser colocado abaixo da linha de neve.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ANHYDRITE_CARGO_UNIT",
+    "{WEIGHT} de rocha de anidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CARBON_BLACK_CARGO_UNIT",
+    "{WEIGHT} de negro de fumo",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CLEANING_AGENTS_CARGO_UNIT",
+    "{WEIGHT} de agentes de limpeza",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FISH_NAME",
+    "Peixe e Frutos do Mar",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FISH_CARGO_UNIT",
+    "{WEIGHT} de peixes e mariscos",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FARM_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} caixa{P 0 \"\" s} de fertilizante",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FLOUR_CARGO_UNIT",
+    "{WEIGHT} de farinha e amido",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FOOD_AND_BEVERAGES_CARGO_UNIT",
+    "{WEIGHT} de alimentos e bebidas",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_GLASS_CARGO_UNIT",
+    "{WEIGHT} de produtos de vidro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_HARDWARE_CARGO_UNIT",
+    "{WEIGHT} de ferragens e acabamentos",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PAINTS_AND_COATINGS_CARGO_UNIT",
+    "{VOLUME} de tintas e revestimentos",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PIG_IRON_CARGO_UNIT",
+    "{WEIGHT} de liga de ferro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_BILLETS_AND_BLOOMS_CARGO_UNIT",
+    "{WEIGHT} de lingotes e blocos de metal",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_CARGO_TIMBER_CARGO_UNIT",
+    "{WEIGHT} de produtos de madeira",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TINPLATE_CARGO_UNIT",
+    "{WEIGHT} de folha de flandres",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TYRE_CORD_CARGO_UNIT",
+    "{WEIGHT} de corda de pneu",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOD_PULP_CARGO_UNIT",
+    "{WEIGHT} de polpa de madeira",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_PROCESS_PLANT",
+    "Usina de Processamento de Anidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_CARBON_BLACK_PLANT",
+    "Usina de Negro de Fumo",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_FOOD_PROCESSOR",
+    "Usina de Processamento de Alimentos",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "portuguese_BR": [
+   [
+    "STR_PARAM_NAME_OBJECTS",
+    "Objetos de paisagismo do CIRS",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ANHYDRITE_CARGO_UNIT",
+    "{WEIGHT} de rocha de anidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CARBON_BLACK_CARGO_UNIT",
+    "{WEIGHT} de negro de carbono",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CLEANING_AGENTS_CARGO_UNIT",
+    "{WEIGHT} de agentes de limpeza",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CONCRETE_PRODUCTS_CARGO_UNIT",
+    "{WEIGHT} de produtos de concreto",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FISH_NAME",
+    "Peixes e Frutos do Mar",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FISH_CARGO_UNIT",
+    "{WEIGHT} de peixes e frutos do mar",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_CARGO_FARM_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} caixa{P 0 \"\" s} de fertilizante",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FLOUR_CARGO_UNIT",
+    "{WEIGHT} de farinha e amido",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FOOD_AND_BEVERAGES_CARGO_UNIT",
+    "{WEIGHT} de alimentos e bebidas",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_GLASS_CARGO_UNIT",
+    "{WEIGHT} de produtos de vidro",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_HARDWARE_CARGO_UNIT",
+    "{WEIGHT} de ferragens e acabamentos",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_BARYTES_AND_FLUORSPAR_CARGO_UNIT",
+    "{WEIGHT} de barita e fluorita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PAINTS_AND_COATINGS_CARGO_UNIT",
+    "{VOLUME} de tintas e revestimentos",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_BILLETS_AND_BLOOMS_CARGO_UNIT",
+    "{WEIGHT} de lingotes e blooms",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TIMBER_CARGO_UNIT",
+    "{WEIGHT} de produtos de madeira",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TINPLATE_CARGO_UNIT",
+    "{WEIGHT} de folha de flandres",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TYRE_CORD_CARGO_UNIT",
+    "{WEIGHT} de corda de pneu",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOD_PULP_CARGO_UNIT",
+    "{WEIGHT} de polpa de madeira",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_PROCESS_PLANT",
+    "Planta de Processamento de Anidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_FOOD_PROCESSOR",
+    "Planta de Processamento de Alimentos",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_STATION_FOREST",
+    "Ponto de Descarga de Troncos",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "romanian": [
+   [
+    "STR_PARAM_NAME_OBJECTS",
+    "Obiectele de amenajare a peisajului CIRS",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CARBON_BLACK_CARGO_UNIT",
+    "{WEIGHT} de negru de carbon",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_COFFEE_CARGO_UNIT",
+    "{WEIGHT} sac{P 0 \"\" s} de cafea",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_COMPONENTS_CARGO_UNIT",
+    "{WEIGHT} de componente de precizie",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_LYE_CARGO_UNIT",
+    "{VOLUME} de hidroxid de sodiu",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_VEHICLE_BODIES_CARGO_UNIT",
+    "{WEIGHT} de caroserii de vehicule",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_PROCESS_PLANT",
+    "Unitate de procesare a anhidritei",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_FROZEN_FOOD_PLANT",
+    "Unitate de procesare a alimentelor congelate",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "serbian": [
+   [
+    "STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Najveća udaljenost ribarskih lovišta i iskopa od obale mereno u pločicama",
+    "no_native_script",
+    3,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_ECONOMIES",
+    "Svaka ekonomija nudi različite kombinacije tovara i industrija.{}{}Za igrače koji žele jednostavniju igru, {SILVER}bazične{BLACK} ekonomije ",
+    "no_native_script",
+    8,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Najveća udaljenost fabrika na vodi od obale",
+    "no_native_script",
+    3,
+    true
+   ],
+   [
+    "STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0",
+    "Bez ograničenja",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT",
+    "Količina sanduka tovara potrebnih za povećanje nivoa proizvodnje na \"poboljšani\" (zadana vrednost = 16)",
+    "no_native_script",
+    2,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT",
+    "Količina sanduka tovara potrebnih za povećanje nivoa proizvodnje na \"masovni\" (zadana vrednost = 80)",
+    "no_native_script",
+    2,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS",
+    "\"Poboljšani\" nivo proizvodnje (%)",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS",
+    "\"Masovni\" nivo proizvodnje (%)",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_BONUS",
+    "Proizvodnja na farmama, u rudnicima i sličnim industrijama kada su potrebe isporuke zadovoljene (kao procenat{SILVER} Normalnog {BLACK} nivo",
+    "no_native_script",
+    3,
+    true
+   ],
+   [
+    "STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE",
+    "Bazična - Umerena klima",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC",
+    "Bazična - Arktička klima",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC",
+    "Bazična - Tropska klima",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY",
+    "U vrućoj državi",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG",
+    "{BLACK}(dobavlja se)",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_1X",
+    "{BLACK}Trenutna proizvodnja: {YELLOW}Normalna{}{}{BLACK}Za povećanje nivoa proizvodnje na {WHITE}poboljšani {BLACK} isporučite {SIGNED_WORD}",
+    "no_native_script",
+    5,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_2X",
+    "{BLACK}Trenutna proizvodnja: {YELLOW}Poboljšana{}{}{BLACK}Za zadržavanje ovog nivoa proizvodnje, isporučite{SIGNED_WORD} sanduka proizvodnog",
+    "no_native_script",
+    4,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_4X",
+    "{BLACK}Trenutna proizvodnja: {YELLOW}Masovna{}{}{BLACK}Za zadržavanje ovog nivoa proizvodnje, isporučite {SKIP}{SIGNED_WORD} sanduka proizvo",
+    "no_native_script",
+    2,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_1X",
+    "{BLACK}Trenutna proizvodnja: {YELLOW}Normalna{}{}{BLACK}Za povećanje nivoa proizvodnje na{WHITE} poboljšani {BLACK} isporučite {SIGNED_WORD}",
+    "no_native_script",
+    5,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_2X",
+    "{BLACK}Trenutna proizvodnja: {YELLOW}Poboljšana{}{}{BLACK}Za zadržavanje ovog nivoa proizvodnje, isporučite{SIGNED_WORD} jedinica proizvodno",
+    "no_native_script",
+    4,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_4X",
+    "{BLACK}Trenutna proizvodnja: {YELLOW}Masovna{}{}{BLACK}Za zadržavanje ovog nivoa proizvodnje, isporučite {SKIP}{SIGNED_WORD} jedinica proizv",
+    "no_native_script",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_SET",
+    "{ORANGE}E01: {YELLOW}Nekompatibilan skup: {ORANGE}{STRING}",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE",
+    "mora se postaviti ispod snežnog pojasa.",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE",
+    "ne može se postaviti na kosinama.",
+    "no_native_script",
+    3,
+    true
+   ],
+   [
+    "STR_FUND_ARABLE_FARM",
+    "{}{BLACK}Lokacija: {YELLOW}Ne može se graditi u snežnom/pustinjskom pojasu i na kosinama.",
+    "no_native_script",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_COFFEE_ESTATE",
+    "{}{BLACK}Lokacija: {YELLOW} Ne može se graditi na snegu i u pustinjama",
+    "no_native_script",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_DAIRY_FARM",
+    "{}{BLACK}Lokacija: {YELLOW} Ne može se graditi na snegu i u pustinjama",
+    "no_native_script",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_FOREST",
+    "{}{BLACK}Lokacija: {YELLOW}Ne može se graditi u pustinjskom pojasu.",
+    "no_native_script",
+    2,
+    true
+   ],
+   [
+    "STR_FUND_FRUIT_PLANTATION",
+    "{}{BLACK}Lokacija: {YELLOW}Ne može se graditi u snežnom pojasu.",
+    "no_native_script",
+    2,
+    true
+   ],
+   [
+    "STR_FUND_ORCHARD_PIGGERY",
+    "{}{BLACK}Lokacija: {YELLOW} Ne može se graditi na snegu i u pustinjama",
+    "no_native_script",
+    4,
+    true
+   ],
+   [
+    "STR_FUND_RUBBER_PLANTATION",
+    "{}{BLACK}Lokacija: {YELLOW} Ne može se graditi na snegu i u pustinjama",
+    "no_native_script",
+    4,
+    true
+   ],
+   [
+    "STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS_NAME",
+    "Amonijak i azotni proizvodi",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_CARGO_ANHYDRITE_NAME",
+    "Anhidritna stena",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_BUILDING_MATERIALS_NAME",
+    "{G=muški}građevinski materijali",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_BUILDING_MATERIALS_CARGO_UNIT",
+    "{WEIGHT} građevinskog materijala",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_CHEMICALS_NAME",
+    "{G=muški}hemijski proizvodi",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_CHEMICALS_CARGO_UNIT",
+    "{VOLUME} hemijskog proizvoda",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_CONCRETE_PRODUCTS_NAME",
+    "Betonski proizvodi",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_CONCRETE_PRODUCTS_CARGO_UNIT",
+    "{WEIGHT} betonskih proizvoda",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_EDIBLE_OIL_NAME",
+    "Jestivo ulje",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_EDIBLE_OIL_CARGO_UNIT",
+    "{VOLUME} jestivog ulja",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_ELECTRICAL_PARTS_CARGO_UNIT",
+    "{WEIGHT} električnih delova",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_ENGINEERING_SUPPLIES_NAME",
+    "{G=ženski}tehnička oprema",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_ENGINEERING_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} sanduka tehničke opreme",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_FARM_SUPPLIES_NAME",
+    "{G=ženski}poljoprivredna oprema",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_FARM_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} sanduka poljoprivredne opreme",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_FRUITS_NAME",
+    "{G=srednji}voće i povrće",
+    "no_native_script",
+    3,
+    false
+   ],
+   [
+    "STR_CARGO_FRUITS_CARGO_UNIT",
+    "{WEIGHT} voća i povrća",
+    "no_native_script",
+    3,
+    false
+   ],
+   [
+    "STR_CARGO_BARYTES_AND_FLUORSPAR_CARGO_UNIT",
+    "{WEIGHT} barija i fluorspar-a",
+    "no_native_script",
+    2,
+    false
+   ],
+   [
+    "STR_CARGO_PETROLEUM_FUELS_NAME",
+    "{G=ženski}benzinska goriva",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_PETROLEUM_FUELS_CARGO_UNIT",
+    "{VOLUME} benzinskih goriva",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_PYRITE_ORE_NAME",
+    "Ruda pirita",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_PYRITE_ORE_CARGO_UNIT",
+    "{WEIGHT}rude pirita",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_SCRAP_METAL_NAME",
+    "{G=muški}metalni otpaci",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_SCRAP_METAL_CARGO_UNIT",
+    "{WEIGHT} metalnih otpadaka",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_TYRE_CORD_CARGO_UNIT",
+    "{WEIGHT} žičanog ojačanja gume",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_CARGO_VEGETABLES_CARGO_UNIT",
+    "{WEIGHT} povrća",
+    "no_native_script",
+    1,
+    false
+   ],
+   [
+    "STR_CARGO_VEHICLE_BODIES_CARGO_UNIT",
+    "{WEIGHT} karoserija vozila",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_VEHICLE_ENGINES_CARGO_UNIT",
+    "{WEIGHT} motora i pogonskog sklopa",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_CARGO_VEHICLE_PARTS_NAME",
+    "Delovi vozila",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} bal{P a e a} vune",
+    "no_native_script",
+    3,
+    false
+   ],
+   [
+    "STR_IND_ALUMINIUM_PLANT",
+    "{G=muški}Kombinat aluminijuma",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT",
+    "Kompleks amonijaka",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_MINE",
+    "Rudnik anhidrita",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_PROCESS_PLANT",
+    "Postrojenje za preradu anhidrita",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_IND_APPLIANCE_FACTORY",
+    "Fabrika kućnih aparata",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_ARABLE_FARM",
+    "{G=ženski}Agrarna farma",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_ASSEMBLY_PLANT",
+    "Fabrika vozila",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_CIDER_MILL",
+    "{G=ženski}Tvornica jabukovače",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_IND_BUILDERS_YARD",
+    "Građevinsko dvorište",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_CLAY_PIT",
+    "{G=muški}Kop gline",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_COFFEE_ESTATE",
+    "{G=ženski}Plantaža kafe",
+    "no_native_script",
+    1,
+    false
+   ],
+   [
+    "STR_IND_CONCRETE_PLANT",
+    "Postrojenje za beton",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_IND_COPPER_SMELTER",
+    "Rafinerija bakra",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_FISHING_GROUND",
+    "{G=ženski}Ribarska lovišta",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_FISHING_HARBOUR",
+    "{G=ženski}Ribarska luka",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_FOOD_PROCESSOR",
+    "Kombinat za preradu hrane",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_IND_FURNITURE_FACTORY",
+    "{G=muški}Kombinat nameštaja",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_MANGANESE_MINE",
+    "Rudnik mangana",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_NITRATE_MINE",
+    "Rudnik nitrata",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_ORCHARD_PIGGERY",
+    "Voćnjak i svinjac",
+    "no_native_script",
+    1,
+    false
+   ],
+   [
+    "STR_IND_PETROLPUMP",
+    "{G=ženski}Benzinska pumpa",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_PHOSPHATE_MINE",
+    "Rudnik fosfata",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_PYRITE_MINE",
+    "Rudnik pirita",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_PYRITE_SMELTER",
+    "Talionica pirita",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_CONVENIENCE_FOODS_FACTORY",
+    "Fabrika gotovih namirnica",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_STOCKYARD",
+    "{G=muški}Mesni kombinat",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_IND_SUGAR_REFINERY",
+    "{G=ženski}Šećerana",
+    "no_native_script",
+    1,
+    false
+   ],
+   [
+    "STR_IND_SUPPLY_YARD",
+    "Dvorište za snabdevanje",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_IND_TRADING_POST",
+    "Trgovačka kuća",
+    "no_native_script",
+    1,
+    true
+   ],
+   [
+    "STR_IND_TYRE_PLANT",
+    "Fabrika guma",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_STATION_ANIMALS",
+    "Pazar konja",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_STATION_AUTOMOTIVE",
+    "Automobilska industrija",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_STATION_BAR_GRILL_AND_ROOMS",
+    "Bar, roštilj i sobe",
+    "no_native_script",
+    1,
+    false
+   ],
+   [
+    "STR_STATION_BARREL_AND_KEG",
+    "Bure i fudra",
+    "no_native_script",
+    1,
+    false
+   ],
+   [
+    "STR_STATION_BUILDERS_YARD",
+    "{G=srednji}Građevinsko skladište",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_STATION_COPPER_LODE",
+    "Žila bakra",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_STATION_FISHMARKET",
+    "Pazar ribe",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_STATION_INDUSTRY_ESTATE_1",
+    "Industrijski park",
+    "no_native_script",
+    0,
+    true
+   ],
+   [
+    "STR_STATION_PLANTATION",
+    "Plantaža",
+    "no_native_script",
+    1,
+    false
+   ]
+  ],
+  "spanish": [
+   [
+    "STR_PARAM_NAME_OBJECTS",
+    "Objetos de paisajismo de CIRS",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS requiere OpenTTD 1.7.0 (o para quienes usan versiones trunk, r27769)",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE",
+    "no se puede colocar en pendientes pronunciadas.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_CARGO_ANHYDRITE_CARGO_UNIT",
+    "{WEIGHT} de roca de anhidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CARBON_BLACK_CARGO_UNIT",
+    "{WEIGHT} de negro de humo",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CLEANING_AGENTS_CARGO_UNIT",
+    "{WEIGHT} de agentes de limpieza",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_GLASS_CARGO_UNIT",
+    "{WEIGHT} de productos de vidrio",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PYRITE_ORE_CARGO_UNIT",
+    "{WEIGHT} de mineral de pirita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_SODA_ASH_CARGO_UNIT",
+    "{WEIGHT} de carbonato de sodio",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_INGOTS_CARGO_UNIT",
+    "{WEIGHT} de lingotes de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_PLATE_CARGO_UNIT",
+    "{WEIGHT} de chapa de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SHEET_CARGO_UNIT",
+    "{WEIGHT} de chapa y banda de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SLAB_CARGO_UNIT",
+    "{WEIGHT} de bloque de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_TUBE_CARGO_UNIT",
+    "{WEIGHT} de tubo de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_WIRE_ROD_NAME",
+    "Varilla de alambre de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TIMBER_CARGO_UNIT",
+    "{WEIGHT} de productos de madera",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TINPLATE_CARGO_UNIT",
+    "{WEIGHT} de hoja de lata",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT",
+    "{WEIGHT} de consumibles de soldadura",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOD_PULP_CARGO_UNIT",
+    "{WEIGHT} de pulpa de madera",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} fardo{P 0 \"\" s} de lana",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ZINC_ORE_CARGO_UNIT",
+    "{WEIGHT} de mineral de cinc",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_PROCESS_PLANT",
+    "Planta de tratamiento de anhidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_CARBON_BLACK_PLANT",
+    "Planta de negro de humo",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_FOOD_PROCESSOR",
+    "Planta de procesamiento de alimentos",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_SLAG_GRINDING_PLANT",
+    "Planta de molienda de escoria",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_SODA_ASH_MINE",
+    "Mina de carbonato de sodio",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "spanish_MX": [
+   [
+    "STR_GRF_NAME",
+    "Conjunto de reemplazo de industrias comunitarias de CIRS",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_PARAM_NAME_OBJECTS",
+    "Objetos de paisajismo de CIRS",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: CIRS requiere OpenTTD 1.7.0 (o, para quienes usen compilaciones del trunk, r27769)",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE",
+    "se debe colocar debajo del nivel de nieve.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE",
+    "no se puede colocar sobre pendientes.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ANHYDRITE_CARGO_UNIT",
+    "{WEIGHT} de roca de anhidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_CLEANING_AGENTS_CARGO_UNIT",
+    "{WEIGHT} de agentes de limpieza",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ENGINEERING_SUPPLIES_CARGO_UNIT",
+    "{SIGNED_WORD} caja{P 0 \"\" s} de suministros de maquinaria",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_CARGO_GLASS_CARGO_UNIT",
+    "{WEIGHT} de productos de vidrio",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PYRITE_ORE_CARGO_UNIT",
+    "{WEIGHT} de mineral de pirita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_REBAR_CARGO_UNIT",
+    "{WEIGHT} de barras de refuerzo",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_SODA_ASH_CARGO_UNIT",
+    "{WEIGHT} de carbonato de sodio",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_INGOTS_CARGO_UNIT",
+    "{WEIGHT} de lingotes de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_PLATE_CARGO_UNIT",
+    "{WEIGHT} de placa de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SHEET_CARGO_UNIT",
+    "{WEIGHT} de chapa y tiras de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SLAB_CARGO_UNIT",
+    "{WEIGHT} de losa de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_TUBE_CARGO_UNIT",
+    "{WEIGHT} de tubo de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_WIRE_ROD_NAME",
+    "Barras de alambre de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_WIRE_ROD_CARGO_UNIT",
+    "{WEIGHT} de alambre de acero",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_TIMBER_CARGO_UNIT",
+    "{WEIGHT} de productos de madera",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WELDING_CONSUMABLES_CARGO_UNIT",
+    "{WEIGHT} de consumibles de soldadura",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOD_PULP_CARGO_UNIT",
+    "{WEIGHT} de pulpa de madera",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_WOOL_CARGO_UNIT",
+    "{SIGNED_WORD} paca{P 0 \"\" s} de lana",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_ZINC_ORE_CARGO_UNIT",
+    "{WEIGHT} de mineral de zinc",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_ANHYDRITE_PROCESS_PLANT",
+    "Planta de procesamiento de anhidrita",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_SODA_ASH_MINE",
+    "{G=f}Mina de carbonato de sodio",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_IND_WIRE_ROD_MILL",
+    "Taller de barras de alambre",
+    "english_sentence",
+    2,
+    true
+   ]
+  ],
+  "welsh": [
+   [
+    "STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY",
+    "Pellter uchafsymol o'r arfordir ar gyfer meusydd pysgota, rigiau olew a mannau carthu fishing grounds, oil rigs and dredging sites, mewn tei",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_ECONOMIES",
+    "Mae pob economi yn darparu cyfuniad gwahanol o nwyddau a diwydiannau.{}{}I chwaraewyr sydd eisiau chwarae syml, mae gan economi {SILVER}Sylf",
+    "english_sentence",
+    6,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT",
+    "Bydd ffermydd, mineau a diwydiannau tebyg yn cynyddu cynhyrchu pan fydd blwchau cyflenwad yn cael eu dosbarthu, yn gyntaf i {SILVER}Enhanced",
+    "english_sentence",
+    8,
+    true
+   ],
+   [
+    "STR_PARAM_DESC_PRIMARY_LEVEL_BONUS",
+    "Cynhyrchu ar ffermydd, mewn mines a diwydiannau tebyg pan gaiff gofynion cyflenwi eu bodloni (fel canran o lefel cynhyrchu {SILVER}Normal {B",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY",
+    "{BLACK}Cyflenwch {WHITE}o leiaf un {BLACK} o nwyddau gofynnol ar gyfer cynhyrchu uchaf.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO",
+    "{BLACK}Ar gyfer cyfradd cynhyrchu uchaf, cyflenwch {WHITE}o leiaf dwy {BLACK}cargoes angenrheidiol o leiaf unwaith bob tri munud.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE",
+    "{BLACK}Ar gyfer cyfradd cynhyrchu uchaf, cyflenwch {WHITE}o leiaf tri {BLACK}cargos angenrheidiol o leiaf unwaith bob tri munud.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_1X",
+    "{BLACK}Cynhyrchiant presennol: {YELLOW}Normal {}{}{BLACK}Ar gyfer cynhyrchiant {WHITE}Gwell {BLACK}, dosbarthwch {SIGNED_WORD} blwch o gyfle",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_2X",
+    "{BLACK}Cynhyrchiant presennol: {YELLOW}Gwell {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SIGNED_WORD} blwch o gyflenwadau o leiaf unwaith ",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_PRIMARY_PRODUCTION_4X",
+    "{BLACK}Cynhyrchiant presennol: {YELLOW}Gung-ho {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SKIP}{SIGNED_WORD} blwch o gyflenwadau o leiaf ",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_1X",
+    "{BLACK}Cynhyrchiant presennol: {YELLOW}Normal {}{}{BLACK}Ar gyfer cynhyrchiant {WHITE}Gwell {BLACK}, dosbarthwch {SIGNED_WORD} uned o nwydda",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_2X",
+    "{BLACK}Cynhyrchiant presennol: {YELLOW}Gwell {}{}{BLACK}I gynnal y lefel hon, dosbarthwch {SIGNED_WORD} uned o nwyddau o leiaf unwaith bob t",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_PORT_PRODUCTION_4X",
+    "{BLACK}Cynnyrch presennol: {YELLOW}Gung-ho{}{}{BLACK}I gadw'r lefel yma, rhaid anfon {SKIP}{SIGNED_WORD} uned o gargo o fewn tair mis",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_OPENTTD_VERSION",
+    "{ORANGE}E00: Mae CIRS yn gofyn am OpenTTD 1.7.0 (neu, i'r rhai sy'n defnyddio adeiladau trunk, r27769)",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CANSET",
+    "{ORANGE}E02: {YELLOW}Paramedr anghydlynol: {ORANGE}Rhaid i baramedr CanSet 2 fod yn 0 er mwyn gweithio gyda CIRS.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_PARAM_CITYSET",
+    "{ORANGE}E02: {YELLOW}Paramedr anghydlynol: {ORANGE}Rhaid i baramedr 2 Set Dinas NA fod yn 0 er mwyn gweithio gyda CIRS.",
+    "english_sentence",
+    3,
+    true
+   ],
+   [
+    "STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION",
+    "{ORANGE}E04: {YELLOW}Fersiwn anghydlynol: {ORANGE}Rhaid i Set Disodli Tref Cyfan fod yn fersiwn rhyddhau 3.11 neu fwy newydd.",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS_CARGO_UNIT",
+    "{VOLUME} o amonia a chynhyrchion nitrig",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_FROZEN_FOOD_CARGO_UNIT",
+    "{WEIGHT} o fwyd wedi'i rewi",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_MOLASSES_CARGO_UNIT",
+    "{WEIGHT} o siwgr crai a melas",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_PIPEWORK_CARGO_UNIT",
+    "{WEIGHT} o danciau storio a phibellu",
+    "english_sentence",
+    2,
+    true
+   ],
+   [
+    "STR_CARGO_STEEL_SHEET_CARGO_UNIT",
+    "{WEIGHT} o dapiau a stribedi dur",
+    "english_sentence",
+    2,
+    true
+   ]
+  ]
+ }
+}

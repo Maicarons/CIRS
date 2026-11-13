@@ -1,0 +1,443 @@
+{"i":0,"tr":" {BLACK}(valinnainen)"}
+{"i":1,"tr":"."}
+{"i":2,"tr":"Happo"}
+{"i":3,"tr":"Kerrostumat"}
+{"i":4,"tr":"Alumiinidioksidi"}
+{"i":5,"tr":"Alumiini"}
+{"i":6,"tr":"Ammoniakin ja typpihapon tuotteet"}
+{"i":7,"tr":"Ammoniakkikompleksi"}
+{"i":8,"tr":"Anhydriittikaivos"}
+{"i":9,"tr":"Anhydriittiprosessilaitos"}
+{"i":10,"tr":"Anhydriittikivi"}
+{"i":11,"tr":"Omenat"}
+{"i":12,"tr":"Kodinkone tehdas"}
+{"i":13,"tr":"Ovat ikuisia jne."}
+{"i":14,"tr":"Saatavilla kaikissa talouksissa. Tuottavat ja hyväksyvät kaupungin rakennukset sekä muutamat teollisuuslaitokset."}
+{"i":15,"tr":"Saatavilla kaikissa talouksissa. Tuottavat ja hyväksyvät kaupungin rakennukset."}
+{"i":16,"tr":"Leipomo"}
+{"i":17,"tr":"Paalit."}
+{"i":18,"tr":"Baryitti ja fluoriitti"}
+{"i":19,"tr":"Perusrautaa puhallusuunista, sulana tai kiinteinä valamoina."}
+{"i":20,"tr":"Eräkemian tehdas"}
+{"i":21,"tr":"Billetit ja bloomit"}
+{"i":22,"tr":"Billetit, bloomit, valamot ja laatat."}
+{"i":23,"tr":"Turvemaiden biomassaa, jota kerätään polttoaineeksi ja puutarhatalouteen."}
+{"i":24,"tr":"Bitumi"}
+{"i":25,"tr":"Korirakenteet"}
+{"i":26,"tr":"Pullon- ja tölkkitehdas"}
+{"i":27,"tr":"Rasiat, pullot, purkit, tölkit jne."}
+{"i":28,"tr":"Suolaliuostehdas"}
+{"i":29,"tr":"Koksituotannon sivutuote, paksu ja hitaasti virtaava neste."}
+{"i":30,"tr":"CIRS"}
+{"i":31,"tr":"CIRS-yhteisöteollisuuden korvaussetti"}
+{"i":32,"tr":"CIRS sisältää joukon maisemointiesineitä, joita pelaajat voivat sijoittaa saadakseen tietyt teollisuudet näyttämään suuremmilta. Maisemointiesineillä ei ole vaikutusta pelin kulkuun. Maisemointiesineet voidaan ottaa käyttöön tai poistaa käytöstä."}
+{"i":33,"tr":"CIRS-maisemointiesineet"}
+{"i":34,"tr":"Autonkorien tuotantoon tarkoitettuja kattoja, keulia, ovia ja muita vastaavia korirakenteita."}
+{"i":35,"tr":"Kalsiumoksidi, joka tunnetaan myös poltetuksi kalkkina. Kuljetetaan hienona jauheena, joka on pidettävä kuivana."}
+{"i":36,"tr":"Hiilimusta"}
+{"i":37,"tr":"Hiilimustatehdas"}
+{"i":38,"tr":"Valurauta"}
+{"i":39,"tr":"Valutuotteet, kuten palikat, palkit ja paneelit. Voidaan käsitellä myös valmisbetonina sekoitusautoissa."}
+{"i":40,"tr":"Selluloosakalvotehdas"}
+{"i":41,"tr":"Sementti, lasi, metalliosat, puutuotteet, putket ja vastaavat rakennusmateriaalit."}
+{"i":42,"tr":"Kemiallinen kompleksitehdas"}
+{"i":43,"tr":"Kemialliset välituotteet"}
+{"i":44,"tr":"Kemikaalit, saippuat, hankausaineet jne. teolliseen ja kotikäyttöön. Pääasiassa nestemäisiä, mutta voivat olla myös jauheita tai kiinteitä (kuten ruiskupuhallushiekka)."}
+{"i":45,"tr":"Lastulevytehdas"}
+{"i":46,"tr":"Kloori-alkalitehdas"}
+{"i":47,"tr":"Kloori"}
+{"i":48,"tr":"Siviili-eksplosiivit kaivostoimintaan, rakentamiseen jne."}
+{"i":49,"tr":"Puhdistusaineet"}
+{"i":50,"tr":"Hiili"}
+{"i":51,"tr":"Hiilikaivos"}
+{"i":52,"tr":"Hiiliterva"}
+{"i":53,"tr":"Hiiltä, jota on kuumennettu koksiuunissa ja josta syntyy lähes puhdasta hiiltä sisältävä polttoaine."}
+{"i":54,"tr":"Karkeaa hiekkaa rakentamiseen tai hienoa piidioksidihiekkaa lasinvalantaa ja metallivalua varten. Kuljetetaan irtotavarana tai jauheena."}
+{"i":55,"tr":"Kelauslinja"}
+{"i":56,"tr":"Kaupallinen leipomo"}
+{"i":57,"tr":"Tavalliset pavut, härkäpavut, soijapavut ja muut vastaavat syötävät papukasvit."}
+{"i":58,"tr":"Monimutkainen talous, jossa on rauta-, teräs- ja raskas teollisuutta."}
+{"i":59,"tr":"Monimutkainen talous, jossa on monia teollisuudenaloja ja rahtitavaroita."}
+{"i":60,"tr":"Monimutkainen talous, jossa on paljon teollisuudenaloja ja rahtilajeja. Inspiroitu Keski-Länsi-Afrikasta. Sopii parhaiten Sub-Tropic -ilmastoon."}
+{"i":61,"tr":"Komponentit"}
+{"i":62,"tr":"Ajoneuvojen tuotantoon tarvittavat komponentit, kuten alustat ja jousitusosat, sähköosat, ulkoiset koristeelementit ja sisustusosat."}
+{"i":63,"tr":"Betonitehdas"}
+{"i":64,"tr":"Betonituotteet"}
+{"i":65,"tr":"Rakennustyömaa"}
+{"i":66,"tr":"Valmisruokatehdas"}
+{"i":67,"tr":"Kuparikaivos"}
+{"i":68,"tr":"Kuparimalmi"}
+{"i":69,"tr":"Puuvilla, pellava, juutti ja vastaavat materiaalit tekstiilien ja komposiittimateriaalien valmistukseen."}
+{"i":70,"tr":"Käytäväkoneiden tehdas"}
+{"i":71,"tr":"Raaka, jalostamaton öljy, jota kuljetetaan nestemäisenä irtotavarana."}
+{"i":72,"tr":"Kryotehdas"}
+{"i":73,"tr":"Timanttikaivos"}
+{"i":74,"tr":"Timantit"}
+{"i":75,"tr":"Rumpuja, vinssejä, kahleita, koukkuja, kiiltoja, hydraulisia työntimiä ja muita nostureiden, nostimien, hissien jne. osia"}
+{"i":76,"tr":"Kuivaa sementtiä jauhe- tai klinkkerimuodossa"}
+{"i":77,"tr":"Syötävä juurikasvi, joka tunnetaan myös nimillä maniokki ja yuca"}
+{"i":78,"tr":"Elastomeerituotteiden tehdas"}
+{"i":79,"tr":"Sähköosat"}
+{"i":80,"tr":"Sähkö- ja elektroniikkakomponentteja, moottoreita, ohjaimia, kytkintekniikkaa, valaisimia jne."}
+{"i":81,"tr":"Sähkötarvikkeet"}
+{"i":82,"tr":"Moottoritehdas"}
+{"i":83,"tr":"Tekniikkatehdas"}
+{"i":84,"tr":"Moottorit ja voimansiirto"}
+{"i":85,"tr":"Räjähde tehdas"}
+{"i":86,"tr":"Tehdas"}
+{"i":87,"tr":"Maatila"}
+{"i":88,"tr":"Fermentointilaitos"}
+{"i":89,"tr":"Rautaseokset"}
+{"i":90,"tr":"Lannoite- ja happitehdas"}
+{"i":91,"tr":"Ohutlankaa renkaiden vahvistamiseen. Kuljetetaan kelana."}
+{"i":92,"tr":"Kalat ja merenelävät"}
+{"i":93,"tr":"Kalafarmi"}
+{"i":94,"tr":"Joustavat tiivisteet, tiivistelevyt, letkut, hihnat, matot, holkit jne., jotka on valmistettu kumista tai vastaavista materiaaleista."}
+{"i":95,"tr":"Jauho ja tärkkelys"}
+{"i":96,"tr":"Virtaviiva"}
+{"i":97,"tr":"Ruoka"}
+{"i":98,"tr":"Ruoka ja juomat"}
+{"i":99,"tr":"Elintarvikkeiden lisäaineet"}
+{"i":100,"tr":"Elintarvikkeet, jotka säilytetään pakastettuina kuljetuksen ja varastoinnin aikana."}
+{"i":101,"tr":"Kotitalous- ja rakennuskäyttöön. Työkalut, välineet, kiinnikkeet ja varusteet metallista ja muista materiaaleista."}
+{"i":102,"tr":"Metsä"}
+{"i":103,"tr":"Muovaukset ja valut"}
+{"i":104,"tr":"Pakastimet"}
+{"i":105,"tr":"Tuoreet ja kuivatut hedelmät, kuten banaanit, sitrushedelmät, viinirypäleet, marjat, ananas, rusinat ja vastaavat."}
+{"i":106,"tr":"Pakastettujen jälkiruokien tehdas"}
+{"i":107,"tr":"Pakastettu ruoka"}
+{"i":108,"tr":"Pakastetun ruoan tehdas"}
+{"i":109,"tr":"Hedelmätarha"}
+{"i":110,"tr":"GPL(v2)"}
+{"i":111,"tr":"GRFID"}
+{"i":112,"tr":"Yleiset saviaineet rakennusmateriaalien valmistukseen ja muihin teollisiin käyttötarkoituksiin."}
+{"i":113,"tr":"Yleiset metallit, kuten teräs, alumiini tai muut tavalliset metallit."}
+{"i":114,"tr":"Yleiset orgaaniset ja epäorgaaniset kemikaalit, joita käsitellään nesteenä, kaasuna, peitettynä irtotavarana, jauheena tai kappaleena."}
+{"i":115,"tr":"Palkit"}
+{"i":116,"tr":"Lasituotteet"}
+{"i":117,"tr":"Tavarat"}
+{"i":118,"tr":"Vilja"}
+{"i":119,"tr":"Viljamylly"}
+{"i":120,"tr":"Ruske, hiekka, murskattu kivi ja rakentamisessa käytettävät vastaavat materiaalit."}
+{"i":121,"tr":"Rautatavara ja viimeistelymateriaalit"}
+{"i":122,"tr":"Korkean arvon insinöörikomponentit, kuten sähkölaiteet, moottorit, muuntajat, ohjauslaitteet, hydraulijärjestelmät, pneumatiikkajärjestelmät, pumput, venttiilit ja voimalinjaosat."}
+{"i":123,"tr":"ID"}
+{"i":124,"tr":"Teollisuushiilet"}
+{"i":125,"tr":"Teollisten kemikaalien tehdas"}
+{"i":126,"tr":"Teollisuuskaasut"}
+{"i":127,"tr":"Teollisuushappo, jota käytetään pääasiassa lannoitteiden ja kemikaalien tuotannossa ja joka kuljetetaan irtinä nesteenä."}
+{"i":128,"tr":"Teollisuushapot, kuten suolahappo, typpihappo ja rikkihappo."}
+{"i":129,"tr":"Teollisuusalkoholi, jota käytetään kemiallisena raaka-aineena ja polttoaineena ja joka kuljetetaan irtinä nesteenä."}
+{"i":130,"tr":"Teollinen kemikaali, jota yleensä kuljetetaan kryogeenisesti nesteytetyn puristetun kaasun muodossa."}
+{"i":131,"tr":"Teollinen kemikaali. Tunnettu myös nimillä Lye tai Caustic Soda. Kuljetetaan yleensä nestemäisenä."}
+{"i":132,"tr":"Teollinen kemikaali. Valkoinen jauhe."}
+{"i":133,"tr":"Ammoniakista johdettuja teollisia kemikaaleja, kuten ammoniakki, typpihappo ja urea. Kuljetetaan nesteinä, kryogeenisesti nesteytettynä kaasuna tai kuivana irtotavarana."}
+{"i":134,"tr":"Valmistuksessa ja käsittelyssä käytettäviä teollisia kemikaaleja, joita kuljetetaan nesteinä, jauheina, kaasuina tai pakatuina tuotteina."}
+{"i":135,"tr":"Teollisuuskaasu. Kuljetetaan kryogeenisesti nesteytettynä puristettuna kaasuna."}
+{"i":136,"tr":"Kemiallisessa käsittelyssä, metallinjalostuksessa ja hitsauksessa käytettäviä teollisuuskaasuja, joita kuljetetaan sylintereissä tai paine-säiliöautonkuljetuksissa."}
+{"i":137,"tr":"Teollinen mineraali, joka tunnetaan myös nimellä kaoliini ja jota käytetään pääasiassa paperin ja muovien valmistuksessa."}
+{"i":138,"tr":"Kemiallisessa käsittelyssä käytettäviä teollisia mineraaleja. Baryittiä käytetään bariumkemikaaleissa ja täyteaineissa; fluoriittia fluorikemian ja metallurgisten sulatusaineiden valmistuksessa."}
+{"i":139,"tr":"Valut."}
+{"i":140,"tr":"Elintarvikkeiden käsittelyssä käytettäviä ainesosia, kuten säilöntäaineita, aromiaineita, väriaineita ja käsittelyapulaisaineita."}
+{"i":141,"tr":"Erittäin musta hiilijauhe, jota käytetään renkaissa, muoveissa ja pigmenteissä. Käsitellään jauheena."}
+{"i":142,"tr":"Välituotteita, joita käytetään raaka-aineina edelleen teollisessa käsittelyssä."}
+{"i":143,"tr":"Sokerin välituotteita puhdistukseen, käymiseen ja teollisiin käyttötarkoituksiin. Tarttuvia rakeita käsitellään katettuna irtotavarana; paksua siirappia nesteenä; molemmat voidaan myös pakata."}
+{"i":144,"tr":"Sisäpolttomoottorit ja niihin liittyvät voimalinjan osat, kuten vaihteistot ja vetotelat."}
+{"i":145,"tr":"Rautamalmi"}
+{"i":146,"tr":"Rautamalmikaivos"}
+{"i":147,"tr":"MAA"}
+{"i":148,"tr":"Kevyet hiilivetyt"}
+{"i":149,"tr":"Kemiallisina raaka-aineina käytettävät kevyet öljyjakeet, joita kuljetetaan irtinä nesteinä."}
+{"i":150,"tr":"Kotieläimet"}
+{"i":151,"tr":"Puutavaratukit"}
+{"i":152,"tr":"Metsästä saadut puutavaratukit."}
+{"i":153,"tr":"Pitkä ontto putki, jonka poikkileikkaus on pyöreä, suorakulmainen tai muun muotoinen. Käytetään rakenteiden ja koneiden valmistukseen."}
+{"i":154,"tr":"Pitkät pyöreät teräsputket nesteiden kuljettamiseen putkijohtojen, rakennusten, teollisuuden ja muun käytön yhteydessä."}
+{"i":155,"tr":"Maatiloiden, metsien ja vastaavien toimialojen koneet, polttoaineet, osat, lannoitteet ja muut tarvikkeet."}
+{"i":156,"tr":"Koneita, polttoainetta, osia, puutuotteita, putkia, räjähteitä ja muita kaivosten ja vastaavien toimialojen tarvikkeita."}
+{"i":157,"tr":"Koneita, osia, polttoainetta, rakennusmateriaaleja ja muita satamien, laitureiden ja vastaavien toimialojen tarvikkeita."}
+{"i":158,"tr":"Posti"}
+{"i":159,"tr":"Maissi"}
+{"i":160,"tr":"Mangaanimalmi, jota käytetään pääasiassa terästuotannossa."}
+{"i":161,"tr":"Liha"}
+{"i":162,"tr":"Kauppiasbari"}
+{"i":163,"tr":"Metallityömaa"}
+{"i":164,"tr":"Metalliosia, jotka asennetaan osaksi suurempia kohteita."}
+{"i":165,"tr":"Metallituotteet"}
+{"i":166,"tr":"Metanoli"}
+{"i":167,"tr":"Mild Mild West"}
+{"i":168,"tr":"Myllyt"}
+{"i":169,"tr":"Mineraalitäyteaineet"}
+{"i":170,"tr":"Mineraalitäyteaineiden tehdas"}
+{"i":171,"tr":"Pääasiassa lehmät, siat ja lampaat lihan tuottamiseksi. Myös muita eläimiä voidaan syödä."}
+{"i":172,"tr":"Pääasiassa luonnonlateksia."}
+{"i":173,"tr":"Pääasiassa kuorma-autoja. Tai henkilöautoja. Tai kevyitä kuorma-autoja. Ehkä traktoreita."}
+{"i":174,"tr":"Typpi"}
+{"i":175,"tr":"Erimetallit, kuten kupari, nikkeli, sinkki ja lyijy."}
+{"i":176,"tr":"Öljy"}
+{"i":177,"tr":"Öljy- ja kemikaaliterminaali"}
+{"i":180,"tr":"Öljynjalostamo"}
+{"i":181,"tr":"Öljynporauslautta"}
+{"i":182,"tr":"Öljykaivot"}
+{"i":183,"tr":"Öljyä ruoanlaittoon ja kulutukseen."}
+{"i":184,"tr":"Hapen"}
+{"i":185,"tr":"Maalit ja pinnoitteet"}
+{"i":186,"tr":"Paperi"}
+{"i":187,"tr":"Paperitehdas"}
+{"i":188,"tr":"Paperituotteiden tehdas"}
+{"i":189,"tr":"Matkustajat"}
+{"i":190,"tr":"Bensinaa, dieseliä ja vastaavia polttoaineita."}
+{"i":191,"tr":"Fosforihappo"}
+{"i":192,"tr":"Putkiliike"}
+{"i":193,"tr":"Tehdas"}
+{"i":194,"tr":"Koneet ja laitteet"}
+{"i":195,"tr":"Muovimuottitehdas"}
+{"i":196,"tr":"Muovit ja hartsit"}
+{"i":197,"tr":"Levytehdas"}
+{"i":198,"tr":"Jauhotut viljatuotteet, kuten jauhot ja tärkkelys, pakattuina säkeisiin tai katettuihin irtokuormiin."}
+{"i":199,"tr":"Voimajärjestelmätehdas"}
+{"i":200,"tr":"Rakennuksissa, teollisuudessa ja maatiloilla käytettävät moottoroidut laitteet ja mekaaniset järjestelmät. Kuljetetaan kokonaisina yksiköinä tai suurina osakokonaisuuksina."}
+{"i":201,"tr":"Voimansiirto"}
+{"i":202,"tr":"Valmisbetoni"}
+{"i":203,"tr":"Tarkkuuskomponentit"}
+{"i":204,"tr":"Tarkkuusosatehdas"}
+{"i":205,"tr":"Puristukset"}
+{"i":206,"tr":"Prosessikemikaalit"}
+{"i":207,"tr":"Prosessikemikaalitehdas"}
+{"i":208,"tr":"Käsitelty puukuitu, jota käytetään pääasiassa paperinvalmistuksessa ja joka kuljetetaan paaleina tai irtomassana."}
+{"i":209,"tr":"Sahalta tai vastaavilta teollisuudenaloilta peräisin olevat käsitellyt puutuotteet."}
+{"i":210,"tr":"Tuotepakkaaja"}
+{"i":211,"tr":"Pumput ja venttiilit"}
+{"i":212,"tr":"Python 3.11+"}
+{"i":213,"tr":"Raakasokeri ja melassi"}
+{"i":214,"tr":"Raakaa tai paahdettua kahvipapua."}
+{"i":215,"tr":"Raaka muovi jatkojalostusta varten. Kuljetetaan yleensä hartsihelmien muodossa."}
+{"i":216,"tr":"Raudoitusrauta"}
+{"i":217,"tr":"Puhdistettua alumiinimetallia keloina, saappoina, levyinä jne."}
+{"i":218,"tr":"Puhdistettua kuparimetallia keloina, saappoina jne."}
+{"i":219,"tr":"Puhdistettuja öljytuotteita, kuten bensiiniä, dieseliä, kerosiinia, LPG:tä, polttoöljyä ja bunkkeripolttoöljyä, jotka kuljetetaan irtoneuvina nesteinä tai nesteytettyinä kaasuna."}
+{"i":220,"tr":"Tieliivestyslaitos"}
+{"i":221,"tr":"Sauvamylly"}
+{"i":222,"tr":"Valssattuja teräslevyjä ja -profiileja – I-palkit, H-palkit, kanavat jne. Kuljetetaan pitkinä suoranaisina tuotteina."}
+{"i":223,"tr":"Narut ja kaapelit, jotka valmistetaan vetämällä teräslankasauva pienemmälle halkaisijalle ja kiertämällä se sitten niputetuiksi narukoiksi."}
+{"i":224,"tr":"Raa’at teräslaivut, jotka vaativat jatkojalostusta. Saapot voivat olla pieniä tai erittäin suuria. Tyypillisiä saappoprofiileja ovat suorakulmaiset tai pyöreät."}
+{"i":225,"tr":"Kumi"}
+{"i":226,"tr":"Kumiviljelmä"}
+{"i":227,"tr":"MERI"}
+{"i":228,"tr":"Suolatehdas"}
+{"i":229,"tr":"Sahatehdas"}
+{"i":230,"tr":"Merenelävät"}
+{"i":231,"tr":"Tiivisteet ja letkut"}
+{"i":232,"tr":"Tiivisteet, letkut ja remmit"}
+{"i":233,"tr":"Profiili- ja tangomylly"}
+{"i":234,"tr":"Puolivalmiit teräslaivut. Poikkileikkaukseltaan aina tasaiset ja suorakulmaiset."}
+{"i":235,"tr":"Puolivalmiit teräslaivut. Poikkileikkaukseltaan suorakulmaiset, neliömäiset tai pyöreät."}
+{"i":236,"tr":"Rantaviiva"}
+{"i":237,"tr":"Yksinkertainen talous. Inspiroitu Argentiinasta, Perusta ja Chilestä. Toimii parhaiten subtrooppisessa ilmastossa."}
+{"i":238,"tr":"Yksinkertainen talous. Inspiroitu Suomesta, Pohjois-Kanadasta ja Pohjois-Siperiasta. Toimii parhaiten subarktisessa ilmastossa."}
+{"i":239,"tr":"Yksinkertainen talous. Inspiroitu Yhdistyneen kuningaskunnan lounaisosasta. Toimii parhaiten lauhkeassa ilmastossa."}
+{"i":240,"tr":"Levykorttialue"}
+{"i":241,"tr":"Natriumhydroksidi"}
+{"i":242,"tr":"Hiilipolttouuni"}
+{"i":243,"tr":"Keitot"}
+{"i":244,"tr":"Erikoishiilimateriaalit, kuten kalsinoitu öljyhiili, piikki, korkean arvon tervat ja hiilimusta, joita käytetään metallurgisissa ja kemiallisissa prosesseissa."}
+{"i":245,"tr":"Teräsmuokkaamo ja valimo"}
+{"i":246,"tr":"Teräsharkot"}
+{"i":247,"tr":"Terästehdas"}
+{"i":248,"tr":"Teräsputki"}
+{"i":249,"tr":"Teräslaatta"}
+{"i":250,"tr":"Teräspelti ja -nauha"}
+{"i":251,"tr":"Teräslevy"}
+{"i":252,"tr":"Teräsputki"}
+{"i":253,"tr":"Teräslankapalkki"}
+{"i":254,"tr":"Teräsraudat pyöreinä, neliömäisinä, litteinä tai muina profiileina. Kuljetetaan pitkinä suoranaisina tuotteina."}
+{"i":255,"tr":"Teräslankaa ja ohuita palkkeja. Kuljetetaan pääasiassa keloina."}
+{"i":256,"tr":"Teräsmestarit"}
+{"i":257,"tr":"Varastotankit ja putkistot"}
+{"i":258,"tr":"Varastotankit, paineastiat, silot, kaasupullot ja putkikokonaisuudet kaupunkirakennuksissa, teollisuudessa ja maatilalla käytettäviksi."}
+{"i":259,"tr":"Suikalevalssimylly"}
+{"i":260,"tr":"Rakennusteräs"}
+{"i":261,"tr":"Rakennusterästä valssattuina profiileina (I-palkit, H-palkit jne.), litteinä levyinä tai levyistä hitsattuina valmiina profiileina ja palkkeina."}
+{"i":262,"tr":"Sokeri"}
+{"i":263,"tr":"Sulfidimineraalit, joista sulattamalla valmistetaan erilaisia teollisuustuotteita."}
+{"i":264,"tr":"Riittihappo"}
+{"i":265,"tr":"Metallin leikkaamiseen ja hitsaamiseen tarvittavat tarvikkeet, kuten hitsauspuolat, työkalut ja teollisuuskaasut, kuten asetyleeni, argoni, propani, happi ja typpi."}
+{"i":266,"tr":"Paksu öljytuote, jota käytetään pääasiassa teiden päällystämiseen ja kattojen kattamiseen."}
+{"i":267,"tr":"Ohut valssattu teräslevy ja -nauha, joita käytetään laajasti muiden tuotteiden valmistukseen. Kuljetetaan tasaisina levyinä tai keloina."}
+{"i":268,"tr":"Ohut karkeat teräspalkit, joita käytetään laajasti betonirakenteiden vahvistamiseen. Kuljetetaan keloina tai suorien palkkien nipuina."}
+{"i":269,"tr":"Ohut teräslevy, joka on pinnoitettu tinaa korroosionkestävyyden vuoksi ja jota käytetään pääasiasti tölkkeihin, säiliöihin ja muihin pakkaustuotteisiin."}
+{"i":270,"tr":"Puutuotteet"}
+{"i":271,"tr":"Tina"}
+{"i":272,"tr":"Tinakaivos"}
+{"i":273,"tr":"Tinapelti"}
+{"i":274,"tr":"Tinapeltitehdas"}
+{"i":275,"tr":"Raiteikkuajoneuvotehdas"}
+{"i":276,"tr":"Kuorma-autoparkki"}
+{"i":277,"tr":"Putki- ja putkivalimo"}
+{"i":278,"tr":"Putkivalimo"}
+{"i":279,"tr":"Renkaiden vahaköysi"}
+{"i":280,"tr":"Renkaat"}
+{"i":281,"tr":"Käytetään seosmetallien ja ruostumattoman teräksen tuotannossa; kromin ja raudan seos. Harmaat möykkyt, joilla on hiilimöykkyjen kaltaiset koko ja muoto."}
+{"i":282,"tr":"Käytetään teräksen tuotannossa. Raudan ja muiden alkuaineiden, kuten mangaanin, nikkelin, kromin, alumiinin, piin ja volframitin seokset. Harmaat möykkyt, joilla on hiilimöykkyjen kaltaiset koko ja muoto."}
+{"i":283,"tr":"Vihannekset"}
+{"i":284,"tr":"Ajoneuvojen jakelija"}
+{"i":285,"tr":"Rauta- ja terästuotannon jätetuote."}
+{"i":286,"tr":"Hitsauskulutustarvikkeet"}
+{"i":287,"tr":"Satama"}
+{"i":288,"tr":"Kaivoskuoppa"}
+{"i":289,"tr":"Vehnä, ohra jne."}
+{"i":290,"tr":"Boksittimalmista puhdistettua valkoista jauhetta, jota käytetään alumiinimetallin valmistukseen."}
+{"i":291,"tr":"Valkoista, harmaata tai ruskeaa kalsiumsulfaattikiveä, jota käytetään rikkihapon ja sementin valmistuksessa. Kuljetetaan usein katetussa irtokuormassa."}
+{"i":292,"tr":"Laajalti käytetty teollinen kemikaali. Kirkkaan keltainen, jauheena tai nestemäisenä."}
+{"i":293,"tr":"Laajalti käytetty teollinen kemikaali. Kuljetetaan yleensä irtokuormana, joka on pidettävä kuivana."}
+{"i":294,"tr":"Lankapalkkitehdas"}
+{"i":295,"tr":"Puusellu"}
+{"i":296,"tr":"Sinkkikaivos"}
+{"i":297,"tr":"Sinkkimalmi"}
+{"i":298,"tr":"Sinkkisulatus"}
+{"i":299,"tr":"{BLACK}Saavuttaaksesi mahdollisimman suuren tuotantotahdin, toimita {WHITE}kaikki {BLACK}vaadittavat kuormat vähintään kerran kolmessa minuutissa."}
+{"i":300,"tr":"{BLACK}Saavuttaaksesi mahdollisimman suuren tuotantotahdin, toimita {WHITE}ainakin kolme {BLACK}vaadittua rahtia vähintään kerran kolmessa minuutissa."}
+{"i":301,"tr":"{BLACK}Saavuttaaksesi mahdollisimman suuren tuotantotahdin, toimita {WHITE}ainakin kaksi {BLACK}vaadittua rahtia vähintään kerran kolmessa minuutissa."}
+{"i":302,"tr":"{BLACK}Saavuttaaksesi mahdollisimman suuren tuotantotahdin, toimita {WHITE}molemmat {BLACK}vaaditut rahtit vähintään kerran kolmessa minuutissa."}
+{"i":303,"tr":"{BLACK}Tuotanto on suoraan verrannollinen kaupungin väestöön. Rahtia tuotetaan joka minuutti vähintään {WHITE}{SIGNED_WORD} yksikköä{BLACK} ja enintään {WHITE}{SIGNED_WORD} yksikköä{BLACK}."}
+{"i":304,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":305,"tr":"{ORANGE}E00: CIRS vaatii OpenTTD 1.7.0:n (tai trunk-versioita käyttäville r27769:n)"}
+{"i":306,"tr":"{ORANGE}E01: {YELLOW}Yhteensopimaton setti: {ORANGE}{STRING}"}
+{"i":307,"tr":"{ORANGE}E02: {YELLOW}Yhteensopimaton parametri: {ORANGE}CanSet-parametrin 2 arvon on oltava 0, jotta se toimii CIRS:n kanssa."}
+{"i":308,"tr":"{ORANGE}E02: {YELLOW}Yhteensopimaton parametri: {ORANGE}NA City Setin parametrin 2 arvon on oltava 0, jotta se toimii CIRS:n kanssa."}
+{"i":309,"tr":"{ORANGE}E04: {YELLOW}Yhteensopimaton versio: {ORANGE}Total Town Replacement Setin on oltava versio 3.11 tai uudempi."}
+{"i":310,"tr":"{TINYFONT}AA"}
+{"i":311,"tr":"{TINYFONT}AC"}
+{"i":312,"tr":"{TINYFONT}AG"}
+{"i":313,"tr":"{TINYFONT}AM"}
+{"i":314,"tr":"{TINYFONT}AO"}
+{"i":315,"tr":"{TINYFONT}AP"}
+{"i":316,"tr":"{TINYFONT}AY"}
+{"i":317,"tr":"{TINYFONT}BB"}
+{"i":318,"tr":"{TINYFONT}BI"}
+{"i":319,"tr":"{TINYFONT}CB"}
+{"i":320,"tr":"{TINYFONT}CI"}
+{"i":321,"tr":"{TINYFONT}CN"}
+{"i":322,"tr":"{TINYFONT}CO"}
+{"i":323,"tr":"{TINYFONT}CP"}
+{"i":324,"tr":"{TINYFONT}CT"}
+{"i":325,"tr":"{TINYFONT}EL"}
+{"i":326,"tr":"{TINYFONT}EP"}
+{"i":327,"tr":"{TINYFONT}FA"}
+{"i":328,"tr":"{TINYFONT}FO"}
+{"i":329,"tr":"{TINYFONT}FV"}
+{"i":330,"tr":"{TINYFONT}GL"}
+{"i":331,"tr":"{TINYFONT}HW"}
+{"i":332,"tr":"{TINYFONT}IG"}
+{"i":333,"tr":"{TINYFONT}KA"}
+{"i":334,"tr":"{TINYFONT}LG"}
+{"i":335,"tr":"{TINYFONT}LH"}
+{"i":336,"tr":"{TINYFONT}MA"}
+{"i":337,"tr":"{TINYFONT}MF"}
+{"i":338,"tr":"{TINYFONT}ML"}
+{"i":339,"tr":"{TINYFONT}MN"}
+{"i":340,"tr":"{TINYFONT}MO"}
+{"i":341,"tr":"{TINYFONT}N7"}
+{"i":342,"tr":"{TINYFONT}NI"}
+{"i":343,"tr":"{TINYFONT}O2"}
+{"i":344,"tr":"{TINYFONT}OC"}
+{"i":345,"tr":"{TINYFONT}PA"}
+{"i":346,"tr":"{TINYFONT}PC"}
+{"i":347,"tr":"{TINYFONT}PG"}
+{"i":348,"tr":"{TINYFONT}PL"}
+{"i":349,"tr":"{TINYFONT}PM"}
+{"i":350,"tr":"{TINYFONT}PV"}
+{"i":351,"tr":"{TINYFONT}PW"}
+{"i":352,"tr":"{TINYFONT}PY"}
+{"i":353,"tr":"{TINYFONT}RB"}
+{"i":354,"tr":"{TINYFONT}SD"}
+{"i":355,"tr":"{TINYFONT}SE"}
+{"i":356,"tr":"{TINYFONT}SH"}
+{"i":357,"tr":"{TINYFONT}SI"}
+{"i":358,"tr":"{TINYFONT}SP"}
+{"i":359,"tr":"{TINYFONT}STSW"}
+{"i":360,"tr":"{TINYFONT}SW"}
+{"i":361,"tr":"{TINYFONT}SY"}
+{"i":362,"tr":"{TINYFONT}TC"}
+{"i":363,"tr":"{TINYFONT}TI"}
+{"i":364,"tr":"{TINYFONT}TP"}
+{"i":365,"tr":"{TINYFONT}TY"}
+{"i":366,"tr":"{TINYFONT}VE"}
+{"i":367,"tr":"{TINYFONT}VG"}
+{"i":368,"tr":"{TINYFONT}WP"}
+{"i":369,"tr":"{TINYFONT}WS"}
+{"i":370,"tr":"{TINYFONT}ZO"}
+{"i":371,"tr":"{VOLUME} happoa"}
+{"i":372,"tr":"{VOLUME} ammoniakin ja typpihappotuotteiden tilavuus"}
+{"i":373,"tr":"{VOLUME} bitumin tilavuus"}
+{"i":374,"tr":"{VOLUME} kemiallisten välituotteiden tilavuus"}
+{"i":375,"tr":"{VOLUME} kloorin tilavuus"}
+{"i":376,"tr":"{VOLUME} kivihiiltäterin tilavuus"}
+{"i":377,"tr":"{VOLUME} teollisuuskaasujen tilavuus"}
+{"i":378,"tr":"{VOLUME} kevyiden hiilivetyjen tilavuus"}
+{"i":379,"tr":"{VOLUME} metanolin tilavuus"}
+{"i":380,"tr":"{VOLUME} typen tilavuus"}
+{"i":381,"tr":"{VOLUME} hapen tilavuus"}
+{"i":382,"tr":"{VOLUME} maalien ja pinnoitteiden tilavuus"}
+{"i":383,"tr":"{VOLUME} fosforihapon tilavuus"}
+{"i":384,"tr":"{VOLUME} natriumhydroksidia"}
+{"i":385,"tr":"{VOLUME} rikkihappoa"}
+{"i":386,"tr":"{WEIGHT} aggregaatteja"}
+{"i":387,"tr":"{WEIGHT} alumiinia"}
+{"i":388,"tr":"{WEIGHT} alumiinia"}
+{"i":389,"tr":"{WEIGHT} anhydriittikiveä"}
+{"i":390,"tr":"{WEIGHT} omenoita"}
+{"i":391,"tr":"{WEIGHT} baryyttiä ja fluoriittia"}
+{"i":392,"tr":"{WEIGHT} billettejä ja bloomeja"}
+{"i":393,"tr":"{WEIGHT} hiilimustaa"}
+{"i":394,"tr":"{WEIGHT} valurautaa"}
+{"i":395,"tr":"{WEIGHT} puhdistusaineita"}
+{"i":396,"tr":"{WEIGHT} betonituotteiden paino"}
+{"i":397,"tr":"{WEIGHT} sähköosien paino"}
+{"i":398,"tr":"{WEIGHT} moottorien ja voimansiirron paino"}
+{"i":399,"tr":"{WEIGHT} räjähteiden paino"}
+{"i":400,"tr":"{WEIGHT} ferrolegurointien paino"}
+{"i":401,"tr":"{WEIGHT} kalojen ja merenelävien paino"}
+{"i":402,"tr":"{WEIGHT} jauhojen ja tärkkelyksen paino"}
+{"i":403,"tr":"{WEIGHT} elintarvikkeiden ja juomien paino"}
+{"i":404,"tr":"{WEIGHT} elintarvikelisäaineiden paino"}
+{"i":405,"tr":"{WEIGHT} muotolevien ja valujen paino"}
+{"i":406,"tr":"{WEIGHT} pakastettujen elintarvikkeiden paino"}
+{"i":407,"tr":"{WEIGHT} lasituotteiden paino"}
+{"i":408,"tr":"Tavaroiden {WEIGHT}"}
+{"i":409,"tr":"Laitteiden ja viimeistelyjen {WEIGHT}"}
+{"i":410,"tr":"Teollisten hiilien {WEIGHT}"}
+{"i":411,"tr":"Puutavarapölkkyjen {WEIGHT}"}
+{"i":412,"tr":"Lihan {WEIGHT}"}
+{"i":413,"tr":"Kaupallisen baarin {WEIGHT}"}
+{"i":414,"tr":"Mineraalitäyteaineiden {WEIGHT}"}
+{"i":415,"tr":"Pähkinöiden {WEIGHT}"}
+{"i":416,"tr":"Kasvien ja koneiden {WEIGHT}"}
+{"i":417,"tr":"Muovien ja hartsien {WEIGHT}"}
+{"i":418,"tr":"Tarkkuuskomponenttien {WEIGHT}"}
+{"i":419,"tr":"Prosessikemikaalien {WEIGHT}"}
+{"i":420,"tr":"Pumppujen ja venttiilien {WEIGHT}"}
+{"i":421,"tr":"Raakasokerin ja melassin {WEIGHT}"}
+{"i":422,"tr":"Armeerintankojen {WEIGHT}"}
+{"i":423,"tr":"Tiivisteiden, letkujen ja hihnojen {WEIGHT}"}
+{"i":424,"tr":"Teräsharkojen {WEIGHT}"}
+{"i":425,"tr":"Teräsputkien {WEIGHT}"}
+{"i":426,"tr":"Teräslaattojen {WEIGHT}"}
+{"i":427,"tr":"Teräslevyjen ja -nauhojen {WEIGHT}"}
+{"i":428,"tr":"Teräslaattojen {WEIGHT}"}
+{"i":429,"tr":"Teräsputkien {WEIGHT}"}
+{"i":430,"tr":"Teräslankatankojen {WEIGHT}"}
+{"i":431,"tr":"Varastointisäiliöiden ja putkistojen {WEIGHT}"}
+{"i":432,"tr":"{WEIGHT} rakennusterästä"}
+{"i":433,"tr":"{WEIGHT} puutuotteita"}
+{"i":434,"tr":"{WEIGHT} tinaa"}
+{"i":435,"tr":"{WEIGHT} tinalevyä"}
+{"i":436,"tr":"{WEIGHT} rengaskuorilankaa"}
+{"i":437,"tr":"{WEIGHT} renkaita"}
+{"i":438,"tr":"{WEIGHT} vihanneksia"}
+{"i":439,"tr":"{WEIGHT} hitsauskulutustarvikkeita"}
+{"i":440,"tr":"{WEIGHT} puusellua"}
+{"i":441,"tr":"{WEIGHT} sinkkimalmia"}
+{"i":442,"tr":"{WEIGHT} säkkiä{P 0 \"\" s} kahvia"}
+{"i":178,"tr":"Öljy"}
+{"i":179,"tr":"Öljy- ja kemikaaliterminaali"}

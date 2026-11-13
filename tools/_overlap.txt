@@ -1,0 +1,3 @@
+grf_keys 358 docs_keys 220
+docs_values_appearing_in_grf 2
+docs_values_fresh_needed 197

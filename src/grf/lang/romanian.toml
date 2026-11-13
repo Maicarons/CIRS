@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x28"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "Setul de înlocuire a industriilor comunitare CIRS"
+
+[STR_GRF_DESC]
+base = "{ORANGE}Setul comunitar de înlocuire a industriilor CIRS{}{BLACK}O ramură întreținută de comunitate a FIRS, creată inițial de andythenorth, FooBar, planetmaker, Terkhen și Yexo, cu ajutorul multor alții. {SILVER}Consultați site-ul web pentru mai multe informații, inclusiv despre cum să utilizați CIRS. {BLACK}Licență: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Distanţa maximă a zonelor de pescuit, a sondelor petroliere şi zonelor de dragare faţă de coastă."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Fiecare economie oferă o combinație diferită de mărfuri și industrii.{}{}Pentru jucătorii care doresc un mod de joc simplu, economiile {SILVER}de bază {BLACK}conțin mai puține industrii și mărfuri decât alte economii CIRS.{}{}Site-ul web CIRS oferă informații detaliate despre fiecare economie."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Distanţa maximă de coastă a industriilor marine"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Economie"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Fără limită"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Lăzi de aprovizionare necesare pentru producția primară îmbunătățită (implicit 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Lăzi de aprovizionare necesare pentru producția primară Gung-ho (implicit 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "Fermele, minele și industriile similare vor crește producția atunci când sunt livrate lăzi de aprovizionare, mai întâi către {SILVER}Enhanced{BLACK}, și apoi către {SILVER}Gung-ho{BLACK}, dacă sunt livrate suficiente lăzi.  {}{}Valorile implicite sunt bune, dar, dacă este necesar, le puteți modifica aici.  {}{}Cerințele de marfă pentru industriile de tip port vor fi de 8 ori mai mari decât valorile setate aici."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Nivel îmbunătățit al producției primare (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Nivelul de producție primară Gung-ho (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Producția la ferme, mine și industrii similare atunci când cerințele de aprovizionare sunt îndeplinite (ca procent din nivelul de producție {SILVER}normal {BLACK})."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Temperat de bază"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Arctic Basic"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tropic Basic"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "Într-o țară caldă"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Orașul oțelului"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "Obiectele de amenajare a peisajului CIRS"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS include un set de obiecte de amenajare a peisajului, pe care jucătorii le pot plasa pentru a face anumite industrii să pară mai mari. Obiectele de peisaj nu au niciun efect asupra jocului. Acestea pot fi activate sau dezactivate."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(opțional)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = " {BLACK}(furnizat)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Furnizați {WHITE}cel puțin o {BLACK} marfă necesară pentru producție maximă."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}Pentru o rată maximă de producție, furnizați {WHITE}ambele {BLACK}marfuri necesare cel puțin o dată la fiecare trei minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}Pentru o rată maximă de producție, furnizați {WHITE}toate {BLACK}marfurile necesare cel puțin o dată la fiecare trei minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}Pentru o rată maximă de producție, furnizați {WHITE}cel puțin două {BLACK}marfuri necesare cel puțin o dată la fiecare trei minute."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}Pentru o rată maximă de producție, furnizați {WHITE}cel puțin trei {BLACK}marfuri necesare cel puțin o dată la fiecare trei minute."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Producția este proporțională cu populația orașului. Se vor produce cel puțin {WHITE}{SIGNED_WORD} unități{BLACK} și cel mult {WHITE}{SIGNED_WORD} unități{BLACK} de marfă în fiecare minut."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Producție curentă: {YELLOW}Normală {}{}{BLACK}Pentru o producție {WHITE}Îmbunătățită {BLACK}, livrează {SIGNED_WORD} lăzi cu provizii cel puțin o dată la trei minute.{}Pentru o producție {WHITE}Gung-ho {BLACK}, livrează {SIGNED_WORD} lăzi."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Producție curentă: {YELLOW}Îmbunătățită {}{}{BLACK}Pentru a menține acest nivel, livrează {SIGNED_WORD} lăzi cu provizii cel puțin o dată la trei minute.{}Pentru o producție {WHITE}Gung-ho {BLACK}, livrează {SIGNED_WORD} lăzi."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Producție curentă: {YELLOW}Gung-ho {}{}{BLACK}Pentru a menține acest nivel, livrează {SKIP}{SIGNED_WORD} lăzi cu provizii cel puțin o dată la trei minute."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Producție curentă: {YELLOW}Normală {}{}{BLACK}Pentru o producție {WHITE}Îmbunătățită {BLACK}, livrează {SIGNED_WORD} unități de marfă cel puțin o dată la trei minute.{}Pentru o producție {WHITE}Gung-ho {BLACK}, livrează {SIGNED_WORD} unități."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Producție curentă: {YELLOW}Îmbunătățită {}{}{BLACK}Pentru a menține acest nivel, livrează {SIGNED_WORD} unități de marfă cel puțin o dată la trei minute.{}Pentru o producție {WHITE}Gung-ho {BLACK}, livrează {SIGNED_WORD} unități."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Producție curentă: {YELLOW}Gung-ho {}{}{BLACK}Pentru a menține acest nivel, livrează {SKIP}{SIGNED_WORD} unități de marfă cel puțin o dată la trei minute."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS necesită OpenTTD 1.7.0 (sau, pentru cei care folosesc versiuni trunk, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Set incompatibil: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Parametru incompatibil: {ORANGE}Parametrul CanSet 2 trebuie să fie 0 pentru a funcționa cu CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Parametru incompatibil: {ORANGE}Parametrul 2 al setului NA City trebuie să fie 0 pentru a funcționa cu CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Versiune incompatibilă: {ORANGE}Total Town Replacement Set trebuie să fie versiunea 3.11 sau mai nouă."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "trebuie amplasat sub linia de zăpadă."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "nu poate fi amplasat în pantă."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construit pe zăpadă sau în deşert."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construit pe zăpadă sau în deşert."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construit pe zăpadă sau în deşert."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construit pe zăpadă sau în deşert."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construitîn deşert."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construit pe zăpadă."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Locație: {YELLOW}Poate fi finanțat doar pe zăpadă."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construit pe zăpadă sau în deşert."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construit pe zăpadă sau în deşert."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Locaţie: {YELLOW}nu poate fi construit pe zăpadă sau în deşert."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Acid"
+cargo_unit = "{VOLUME} de acid"
+cid = "{TINYFONT}AC"
+
+[STR_CARGO_AGGREGATES]
+name = "Agregate"
+cargo_unit = "{WEIGHT} de agregate"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Aluminiu"
+cargo_unit = "{WEIGHT} de aluminiu"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumină"
+cargo_unit = "{WEIGHT} de alumina"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Produse de amoniac și acid azotic"
+cargo_unit = "{VOLUME} de amoniac și produse nitrice"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Rocă de anhidrită"
+cargo_unit = "{WEIGHT} de rocă anhidritică"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Mere"
+cargo_unit = "{WEIGHT} de mere"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Boabe"
+cargo_unit = "{WEIGHT} de fasole"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitum"
+cargo_unit = "{VOLUME} de bitum"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Materiale de construcţii"
+cargo_unit = "{WEIGHT} materiale de construcţii"
+cid = "{TINYFONT}MC"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Negru de carbon"
+cargo_unit = "{WEIGHT} de negru de carbon"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Manioc"
+cargo_unit = "{WEIGHT} de manioc"
+cid = "{TINYFONT}CA"
+
+[STR_CARGO_CAST_IRON]
+name = "Fontă"
+cargo_unit = "{WEIGHT} de fontă"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Ciment"
+cargo_unit = "{WEIGHT} de ciment"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Intermediari chimici"
+cargo_unit = "{VOLUME} de intermediari chimici"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Produse chimice"
+cargo_unit = "{VOLUME} de chimicale"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CHLORINE]
+name = "Clor"
+cargo_unit = "{VOLUME} de clor"
+cid = "{TINYFONT}CH"
+
+[STR_CARGO_CLAY]
+name = "Lut"
+cargo_unit = "{WEIGHT} de lut"
+cid = "{TINYFONT}LT"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Agenți de curățare"
+cargo_unit = "{WEIGHT} de agenți de curățare"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Cafea"
+cargo_unit = "{WEIGHT} sac{P 0 \"\" s} de cafea"
+cid = "{TINYFONT}CF"
+
+[STR_CARGO_COAL_TAR]
+name = "Pecete de cărbune"
+cargo_unit = "{VOLUME} de smoală de cărbune"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Coca"
+cargo_unit = "{WEIGHT} de cocs"
+cid = "{TINYFONT}CK"
+
+[STR_CARGO_COMPONENTS]
+name = "Componente de precizie"
+cargo_unit = "{WEIGHT} de componente de precizie"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Produse din beton"
+cargo_unit = "{WEIGHT} de produse din beton"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Cupru"
+cargo_unit = "{WEIGHT} de cupru"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Ulei comestibil"
+cargo_unit = "{VOLUME} de ulei comestibil"
+cid = "{TINYFONT}EO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Piese electrice"
+cargo_unit = "{WEIGHT} de piese electrice"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Echipament de inginerie"
+cargo_unit = "{SIGNED_WORD} cutii cu echipamente de inginerie"
+cid = "{TINYFONT}EI"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Explozivi"
+cargo_unit = "{WEIGHT} de explozivi"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Feroaliale"
+cargo_unit = "{WEIGHT} de feroaliaje"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Pește și fructe de mare"
+cargo_unit = "{WEIGHT} de pește și fructe de mare"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Produse agricole"
+cargo_unit = "{SIGNED_WORD} cutii cu produse agricole"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_FERTILISER]
+name = "Îngrășământ"
+cargo_unit = "{WEIGHT} de îngrășământ"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FLOUR]
+name = "Făină și amidon"
+cargo_unit = "{WEIGHT} de făină și amidon"
+cid = "{TINYFONT}FL"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Aditivi alimentari"
+cargo_unit = "{WEIGHT} de aditivi alimentari"
+cid = "{TINYFONT}FV"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Alimente și băuturi"
+cargo_unit = "{WEIGHT} de alimente și băuturi"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Forjări și turnări"
+cargo_unit = "{WEIGHT} de piese forjate și turnate"
+cid = "{TINYFONT}FO"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Alimente congelate"
+cargo_unit = "{WEIGHT} de alimente congelate"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Fructe"
+cargo_unit = "{WEIGHT} de fructe"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Produse din sticlă"
+cargo_unit = "{WEIGHT} de produse din sticlă"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Feronerie și finisaje"
+cargo_unit = "{WEIGHT} de feronerie și finisaje"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Carburi industriale"
+cargo_unit = "{WEIGHT} de carbon industrial"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Gaze industriale"
+cargo_unit = "{VOLUME} de gaze industriale"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Argilă chinezească"
+cargo_unit = "{WEIGHT} de argilă chinezească"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Hidrocarburi ușoare"
+cargo_unit = "{VOLUME} de hidrocarburi ușoare"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Calcar"
+cargo_unit = "{WEIGHT} de calcar"
+cid = "{TINYFONT}LS"
+
+[STR_CARGO_LOGS]
+name = "Bușteni"
+cargo_unit = "{WEIGHT} de bușteni"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Hidroxid de sodiu"
+cargo_unit = "{VOLUME} de hidroxid de sodiu"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} de metanol"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Lapte"
+cargo_unit = "{VOLUME} de lapte"
+cid = "{TINYFONT}LT"
+
+[STR_CARGO_MANGANESE]
+name = "Mangan"
+cargo_unit = "{WEIGHT} de mangan"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Carne"
+cargo_unit = "{WEIGHT} de carne"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Bariți și fluorit"
+cargo_unit = "{WEIGHT} de bariți și fluorit"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Umpluturi minerale"
+cargo_unit = "{WEIGHT} de umpluturi minerale"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Zahăr brut și melasă"
+cargo_unit = "{WEIGHT} de zahăr brut și melasă"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitrați"
+cargo_unit = "{WEIGHT} de nitrați"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Azot"
+cargo_unit = "{VOLUME} de azot"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Nuci"
+cargo_unit = "{WEIGHT} de nuci"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Oxigen"
+cargo_unit = "{VOLUME} de oxigen"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Ambalaje"
+cargo_unit = "{WEIGHT} de ambalaj"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Vopsele și acoperiri"
+cargo_unit = "{VOLUME} de vopsele și acoperiri"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Turbă"
+cargo_unit = "{WEIGHT} de turbă"
+cid = "{TINYFONT}PE"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Petrol"
+cargo_unit = "{VOLUME} de petrol"
+cid = "{TINYFONT}PT"
+
+[STR_CARGO_PIPEWORK]
+name = "Rezervoare de stocare și conducte"
+cargo_unit = "{WEIGHT} de rezervoare de stocare și conducte"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfat"
+cargo_unit = "{WEIGHT} de fosfat"
+cid = "{TINYFONT}PH"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Acid fosforic"
+cargo_unit = "{VOLUME} de acid fosforic"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Fontă"
+cargo_unit = "{WEIGHT} de fontă"
+cid = "{TINYFONT}PI"
+
+[STR_CARGO_PLASTICS]
+name = "Plastice și rășini"
+cargo_unit = "{WEIGHT} de plastice și rășini"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Instalații și mașini"
+cargo_unit = "{WEIGHT} de instalații și mașini"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Potasă"
+cargo_unit = "{WEIGHT} de potaș"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Produse chimice de proces"
+cargo_unit = "{WEIGHT} de substanțe chimice de proces"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pompe și supape"
+cargo_unit = "{WEIGHT} de pompe și supape"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Minerale de pirită"
+cargo_unit = "{WEIGHT} de minereu de pirită"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Var nestins"
+cargo_unit = "{WEIGHT} de var nestins"
+cid = "{TINYFONT}QL"
+
+[STR_CARGO_REBAR]
+name = "Armătură metalică"
+cargo_unit = "{WEIGHT} de armătură"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Sare"
+cargo_unit = "{WEIGHT} de sare"
+cid = "{TINYFONT}NA"
+
+[STR_CARGO_SAND]
+name = "Nisip"
+cargo_unit = "{WEIGHT} de nisip"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Deşeuri metalice"
+cargo_unit = "{WEIGHT} de deşeuri metalice"
+cid = "{TINYFONT}DM"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Sigilii, furtunuri și curele"
+cargo_unit = "{WEIGHT} de etanșanți, furtunuri și curele"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Scorie"
+cargo_unit = "{WEIGHT} de zgură"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Cenușă de sodă"
+cargo_unit = "{WEIGHT} de cenușă de sodă"
+cid = "{TINYFONT}SO"
+
+[STR_CARGO_STEEL]
+name = "Oțel"
+cargo_unit = "{WEIGHT} de oțel"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billete și lingouri brute"
+cargo_unit = "{WEIGHT} de buturi și lingouri"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Lingouri de oțel"
+cargo_unit = "{WEIGHT} de lingouri de oțel"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Bară de comercianți"
+cargo_unit = "{WEIGHT} de bară comercială"
+cid = "{TINYFONT}SZ"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Țeavă de oțel"
+cargo_unit = "{WEIGHT} de țeavă de oțel"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Placă de oțel"
+cargo_unit = "{WEIGHT} de placă de oțel"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Foile și benzile de oțel"
+cargo_unit = "{WEIGHT} de foaie și bandă de oțel"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Slab de oțel"
+cargo_unit = "{WEIGHT} de slabă de oțel"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Tub de oțel"
+cargo_unit = "{WEIGHT} de tub de oțel"
+cid = "{TINYFONT}PR"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Bară de sârmă de oțel"
+cargo_unit = "{WEIGHT} de bară de sârmă de oțel"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Oțel structural"
+cargo_unit = "{WEIGHT} de oțel structural"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Sulf"
+cargo_unit = "{WEIGHT} de sulf"
+cid = "{TINYFONT}SU"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Acid sulfuric"
+cargo_unit = "{VOLUME} de acid sulfuric"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Produse din lemn"
+cargo_unit = "{WEIGHT} de produse din lemn"
+cid = "{TINYFONT}CR"
+
+[STR_CARGO_TIN]
+name = "Staniu"
+cargo_unit = "{WEIGHT} de staniu"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Tablă de staniu"
+cargo_unit = "{WEIGHT} de tablă de staniu"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Cord de anvelopă"
+cargo_unit = "{WEIGHT} de cord pentru anvelope"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Anvelope"
+cargo_unit = "{WEIGHT} de anvelope"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Legume"
+cargo_unit = "{WEIGHT} de legume"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Caroserii de vehicule"
+cargo_unit = "{WEIGHT} de caroserii de vehicule"
+cid = "{TINYFONT}VB"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Motoare și transmisii"
+cargo_unit = "{WEIGHT} de motoare și transmisii"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Piese de vehicule"
+cargo_unit = "{WEIGHT} din piesele vehiculului"
+cid = "{TINYFONT}VP"
+
+[STR_CARGO_VEHICLES]
+name = "Vehicule"
+cargo_unit = "{WEIGHT} din vehicule"
+cid = "{TINYFONT}VS"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Consumabile de sudură"
+cargo_unit = "{WEIGHT} din consumabile de sudură"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Pulpă de lemn"
+cargo_unit = "{WEIGHT} din pulpă de lemn"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Lână"
+cargo_unit = "{SIGNED_WORD} baloţi de lână"
+cid = "{TINYFONT}LN"
+
+[STR_CARGO_ZINC]
+name = "Zinc"
+cargo_unit = "{WEIGHT} din zinc"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Minerale de zinc"
+cargo_unit = "{WEIGHT} din minereu de zinc"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} de mărfuri"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Fabrică de aluminiu"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Complex de amoniac"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Mină de anhidrită"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Unitate de procesare a anhidritei"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Fabrică de electrocasnice"
+
+[STR_IND_ARABLE_FARM]
+base = "Fermă arabilă"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Fabrică de asamblare"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Tornare de secțiuni și bare"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Forn cu oxigen de bază"
+
+[STR_IND_BLAST_FURNACE]
+base = "Fornală"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Fabrică de aglomerat"
+
+[STR_IND_BODY_PLANT]
+base = "Fabrică de caroserii"
+
+[STR_IND_BREWERY]
+base = "Fabrică de bere"
+
+[STR_IND_CIDER_MILL]
+base = "Morărie de cidru"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Șantier de construcții" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Fabrică de negru de carbon"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Fabrică de folie de celuloză"
+
+[STR_IND_CEMENT_PLANT]
+base = "Fabrică de ciment"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Complex chimic"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Fabrică de explozivi"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Unitate de clor-alkali"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Groapă de lut"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Moșie de cafea"
+
+[STR_IND_COKE_OVEN]
+base = "Cuptor de coca"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Centrală de beton"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Unitate chimică de producție în loturi"
+
+[STR_IND_COPPER_SMELTER]
+base = "Topitorie de cupru"
+
+[STR_IND_CRYO_PLANT]
+base = "Unitate de criogenare"
+
+[STR_IND_DAIRY]
+base = "Fabrică de lapte"
+
+[STR_IND_DAIRY_FARM]
+base = "Fermă lactată"
+
+[STR_IND_DREDGING_SITE]
+base = "Dragaj"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Fabrică de produse elastomere"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Fornal cu arc electric"
+
+[STR_IND_ENGINE_PLANT]
+base = "Fabrică de motoare"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Atelier de inginerie"
+
+[STR_IND_FARM]
+base = "Fermă"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Fabrică de substanțe chimice de proces"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Unitate de fermentare"
+
+[STR_IND_FISH_FARM]
+base = "Ferme piscicole"
+
+[STR_IND_FISHING_GROUND]
+base = "Zonă de pescuit"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Port pescăresc"
+
+[STR_IND_GRAIN_MILL]
+base = "Moară de cereale"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Unitate de procesare alimentară"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Fierărie și turnătorie de oțel"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Unitate de procesare a alimentelor congelate"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Fabrică de mobilă"
+
+[STR_IND_GENERAL_STORE]
+base = "Magazin general"
+
+[STR_IND_GLASS_WORKS]
+base = "Fabrică de sticlă"
+
+[STR_IND_HERDING_COOP]
+base = "Cooperativă de păstorit"
+
+[STR_IND_HOTEL]
+base = "Hotel"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Fabrică de deserturi congelate"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Oțelărie"
+
+[STR_IND_SCRAP_YARD]
+base = "Groapă de gunoi"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Cuptor de var"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Mină de calcar"
+
+[STR_IND_MANGANESE_MINE]
+base = "Mină de mangan"
+
+[STR_IND_METAL_WORKS]
+base = "Atelier metalurgic"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Fabrică de umpluturi minerale"
+
+[STR_IND_NITRATE_MINE]
+base = "Mină de nitrați"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Fabrică de substanțe chimice industriale"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Terminal de ulei și produse chimice"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Liveză și fermă de porci"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Fabrică de sticle și doze"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Fabrică de produse din hârtie"
+
+[STR_IND_PEATLANDS]
+base = "Zone cu turbă"
+
+[STR_IND_PETROLPUMP]
+base = "Staţie de petrol"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Mină de fosfați"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Fabrică de îngrășăminte și acid"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Patiserie comercială"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Atelier de țevi"
+
+[STR_IND_PLATE_MILL]
+base = "Rulou de plăci"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Fabrică de matrițe din plastic"
+
+[STR_IND_PORT]
+base = "Port"
+
+[STR_IND_POTASH_MINE]
+base = "Mină de potasă"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Fabrică de sisteme energetice"
+
+[STR_IND_POWER_PLANT]
+base = "Centrală electrică"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Fabrică de piese de precizie"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Ambalator de produse"
+
+[STR_IND_PYRITE_MINE]
+base = "Mină de pirită"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Topitorie de pirită"
+
+[STR_IND_QUARRY]
+base = "Carieră"
+
+[STR_IND_RANCH]
+base = "Fermă"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Instalație de piatră de drum"
+
+[STR_IND_SALT_WORKS]
+base = "Saramurărie"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Fabrică de măcinare a scoriei"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Mină de cenușă de sodă"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Fabrică de alimente gata preparate"
+
+[STR_IND_STOCKYARD]
+base = "Þarc de vite"
+
+[STR_IND_STRIP_MILL]
+base = "Rulou de laminare"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Rafinărie de zahăr"
+
+[STR_IND_SUPPLY_YARD]
+base = "Curte de aprovizionare"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Fabrică de cherestea"
+
+[STR_IND_TIN_MINE]
+base = "Mină de staniu"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Fabrică de tablă de staniu"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Fabrică de vehicule pe șine"
+
+[STR_IND_TRADING_POST]
+base = "Post comercial"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Fabrică de tuburi și conducte"
+
+[STR_IND_TYRE_PLANT]
+base = "Fabrică de anvelope"
+
+[STR_IND_VINEYARD]
+base = "Viță de vie"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Distribuitor de vehicule"
+
+[STR_IND_WHARF]
+base = "Chei"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Oțelărie de tije"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Mină de zinc"
+
+[STR_IND_ZINC_SMELTER]
+base = "Topitorie de zinc"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Piața de cai"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Produse electrice"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Automobil"
+
+[STR_STATION_BAKERY]
+base = "Patiserie"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Grinzile"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, grătar și camere"
+
+[STR_STATION_BARNS]
+base = "Șopronuri"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Butoi și butoi de bere"
+
+[STR_STATION_BASE]
+base = "Bază"
+
+[STR_STATION_BONEYARD]
+base = "Cimitir de vehicule"
+
+[STR_STATION_BANK_TOP]
+base = "Vârful băncii"
+
+[STR_STATION_BODY_PLANT]
+base = "Presări"
+
+[STR_STATION_BRINE_WORKS]
+base = "Fabrică de saramură"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Şantier de construcţie"
+
+[STR_STATION_COLLIERY]
+base = "Mină de cărbune"
+
+[STR_STATION_COMPONENTS]
+base = "Componente"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Elemente prefabricate"
+
+[STR_STATION_COPPER_LODE]
+base = "Zăcământ de cupru"
+
+[STR_STATION_CREOSOTING]
+base = "Creosotare"
+
+[STR_STATION_CRYO_PLANT]
+base = "Unitate de criogenare"
+
+[STR_STATION_DAIRY_LANE]
+base = "Calea lactată"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Sigilii și furtunuri"
+
+[STR_STATION_ESTATE]
+base = "Proprietate imobiliară"
+
+[STR_STATION_FACTORY]
+base = "Fabrică"
+
+[STR_STATION_FARM_1]
+base = "Conac"
+
+[STR_STATION_FARM_2]
+base = "Pajiști"
+
+[STR_STATION_FARM_3]
+base = "Fermă"
+
+[STR_STATION_FISHMARKET]
+base = "Piața de pește"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Corporație alimentară"
+
+[STR_STATION_FOREST]
+base = "Depozit de bușteni"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Maeștri ai oțelului"
+
+[STR_STATION_FREEZERS]
+base = "Congelatoare"
+
+[STR_STATION_FURNACE]
+base = "Cuptor"
+
+[STR_STATION_METAL_WORKS]
+base = "Articole metalice"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Lucrări"
+
+[STR_STATION_HERDING_COOP]
+base = "Stâlpi pentru reni"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Parc industrial"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Lângă apă"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Punct de debarcare"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Fasadă pe mal"
+
+[STR_STATION_IRONSTONE]
+base = "Piatră de fier"
+
+[STR_STATION_KILNS]
+base = "Cuptoare"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Depozite de kimberlit"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Mine de calcar"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Mine de mangan"
+
+[STR_STATION_MILL]
+base = "Moară"
+
+[STR_STATION_MILLS]
+base = "Măcini"
+
+[STR_STATION_MINES]
+base = "Mine"
+
+[STR_STATION_MOULDINGS]
+base = "Molde"
+
+[STR_STATION_OIL_RIG]
+base = "Câmp"
+
+[STR_STATION_ORCHARDS]
+base = "Livezi"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Linie de curgere"
+
+[STR_STATION_PIT]
+base = "Groapă"
+
+[STR_STATION_PLANT]
+base = "Fabrică"
+
+[STR_STATION_PLANTATION]
+base = "Plantație"
+
+[STR_STATION_PLATE_MILL]
+base = "Curte de blocuri"
+
+[STR_STATION_POTASH_MINE]
+base = "Minerale"
+
+[STR_STATION_POWERHUNGRY]
+base = "Centrală electrică"
+
+[STR_STATION_POWERTRAIN]
+base = "Grup motopropulsor"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Instalații și mașini"
+
+[STR_STATION_PUMPS]
+base = "Pompe"
+
+[STR_STATION_PYRITES]
+base = "Zăcăminte de pirită"
+
+[STR_STATION_REFINERY]
+base = "Rafinărie"
+
+[STR_STATION_ROD_MILL]
+base = "Bară de oțel"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Companie de cauciuc"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Fabrică de salpetru"
+
+[STR_STATION_SEAFOOD]
+base = "Fructe de mare"
+
+[STR_STATION_SHARP_STREET]
+base = "Strada Sharp"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Răpănișuri"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Fornal de topire"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Fornal de funingine"
+
+[STR_STATION_SOUPS]
+base = "Supe"
+
+[STR_STATION_STRIP_MILL]
+base = "Linie de bobine"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Compania de zahăr"
+
+[STR_STATION_TANK_FARM]
+base = "Depozit de rezervoare"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Șopârlă pentru taponare"
+
+[STR_STATION_TOWN_3]
+base = "Magazine"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Atelier pentru vehicule pe șenile"
+
+[STR_STATION_TRONA_BEDS]
+base = "Zăcăminte de trona"
+
+[STR_STATION_TUBE_MILL]
+base = "Fabrică de tuburi"
+
+[STR_STATION_WATER]
+base = "Banc de nisip"
+
+[STR_STATION_WELLS]
+base = "Fântâni"
+
+[STR_STATION_WHEAL]
+base = "Mină veche"
+
+[STR_STATION_WINERY]
+base = "Crama"
+
+[STR_STATION_WORKS]
+base = "Lucrări"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Parcare pentru camioane"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "TEREN"
+
+[STR_BADGE_SEA]
+base = "MARE"

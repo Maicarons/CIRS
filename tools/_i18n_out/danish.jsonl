@@ -1,0 +1,620 @@
+{"i":0,"tr":" {BLACK}(valgfrit)"}
+{"i":1,"tr":" {BLACK}(medfølgende)"}
+{"i":2,"tr":"(decimal)"}
+{"i":3,"tr":"."}
+{"i":4,"tr":"Syre"}
+{"i":5,"tr":"Aggregater"}
+{"i":6,"tr":"Alumina"}
+{"i":7,"tr":"Aluminium"}
+{"i":8,"tr":"Ammoniak- og salpetersyreprодукter"}
+{"i":9,"tr":"Ammoniakkompleks"}
+{"i":10,"tr":"Anhydritmine"}
+{"i":11,"tr":"Anhydritprocesanlæg"}
+{"i":12,"tr":"Anhydritsten"}
+{"i":13,"tr":"Æbler"}
+{"i":14,"tr":"Husholdningsapparatfabrik"}
+{"i":15,"tr":"Er for evigt osv."}
+{"i":16,"tr":"Montageanlæg"}
+{"i":17,"tr":"Bilindustri"}
+{"i":18,"tr":"Tilgængelig i alle økonomier. Produceres og accepteres af bybygninger samt enkelte industrier."}
+{"i":19,"tr":"Tilgængelig i alle økonomier. Produceres og accepteres af bybygninger."}
+{"i":20,"tr":"Bageri"}
+{"i":21,"tr":"Baller."}
+{"i":22,"tr":"Banktop"}
+{"i":23,"tr":"Bar, grill og værelser"}
+{"i":24,"tr":"Barns"}
+{"i":25,"tr":"Tønde og fad"}
+{"i":26,"tr":"Baryt og fluorspat"}
+{"i":27,"tr":"Grundstof"}
+{"i":28,"tr":"Grundiloxovne"}
+{"i":29,"tr":"Grundjern fra en højovn, som smeltet væske eller faste støbejernsbarer."}
+{"i":30,"tr":"Batchkemiværk"}
+{"i":31,"tr":"Bønner"}
+{"i":32,"tr":"Billetter og bloeme"}
+{"i":33,"tr":"Billetter, bloeme, støbejernsbarer og plader."}
+{"i":34,"tr":"Biomasse fra tørvemoser, udvundet til brændsel og havebrug."}
+{"i":35,"tr":"Bitumen"}
+{"i":36,"tr":"Højovn"}
+{"i":37,"tr":"Karrosserifabrik"}
+{"i":38,"tr":"Knoglegård"}
+{"i":39,"tr":"Flaske- og dåsefabrik"}
+{"i":40,"tr":"Kasser, flasker, glas, dåser osv."}
+{"i":41,"tr":"Saltlagefabrik"}
+{"i":42,"tr":"Et biprodukt fra koksproduktion, en tyk, langsomt flydende væske."}
+{"i":43,"tr":"CIRS"}
+{"i":44,"tr":"CIRS Community Industry Replacement Set"}
+{"i":45,"tr":"CIRS indeholder et sæt landskabsobjekter, som spillerne kan placere for at få visse industrier til at se større ud. Landskabsobjekter har ingen indvirkning på spillet. Landskabsobjekter kan slås til eller fra."}
+{"i":46,"tr":"CIRS' landskabsobjekter"}
+{"i":47,"tr":"Kabiner, motorhætter, døre og lignende karrosseristrukturer til køretøjsproduktion."}
+{"i":48,"tr":"Calciumoxid, også kendt som brændt kalk. Transporteres som fint pulver, der skal holdes tørt."}
+{"i":49,"tr":"Kulsort"}
+{"i":50,"tr":"Kulsortsfabrik"}
+{"i":51,"tr":"Kassava"}
+{"i":52,"tr":"Støbejern"}
+{"i":53,"tr":"Støbte produkter såsom blokke, bjælker og paneler. Kan også håndteres som færdigbeton i blandebiler."}
+{"i":54,"tr":"Cellulosefilmfabrik"}
+{"i":55,"tr":"Cement"}
+{"i":56,"tr":"Cement, glas, metalkomponenter, træprodukter, rør og lignende byggematerialer."}
+{"i":57,"tr":"Kemisk kompleks"}
+{"i":58,"tr":"Kemiske mellemprodukter"}
+{"i":59,"tr":"Kemikalier, sæber, skuremidler osv. til industriel og husholdningsmæssig brug. Primært flydende, men kan også være pulver eller faste (såsom sand til sandblæsning)."}
+{"i":60,"tr":"Kina ler"}
+{"i":61,"tr":"Spånpladefabrik"}
+{"i":62,"tr":"Klor-alkali-anlæg"}
+{"i":63,"tr":"Klor"}
+{"i":64,"tr":"Civil eksplosiver til minedrift, byggeri osv."}
+{"i":65,"tr":"Rengøringsmidler"}
+{"i":66,"tr":"Kul"}
+{"i":67,"tr":"Kulmine"}
+{"i":68,"tr":"Kulharpiks"}
+{"i":69,"tr":"Kul, der er blevet opvarmet i en koksovn, hvilket giver et brændsel, der næsten udelukkende består af kulstof."}
+{"i":70,"tr":"Groft sand til byggeri eller fint siliciumsand til glasproduktion og metalstøbning. Transporteres som bulk eller pulver."}
+{"i":71,"tr":"Spolelinje"}
+{"i":72,"tr":"Coke"}
+{"i":73,"tr":"Cokeovn"}
+{"i":74,"tr":"Kulmine"}
+{"i":75,"tr":"Kommercielt bageri"}
+{"i":76,"tr":"Almindelige bønner, favabønner, sojabønner og lignende spiselige bælgplanter."}
+{"i":77,"tr":"Kompleks økonomi med jern-, stål- og tung industri."}
+{"i":78,"tr":"Kompleks økonomi med mange industrier og lasttyper."}
+{"i":79,"tr":"Kompleks økonomi med mange industrier og lasttyper. Inspireret af det centrale og vestlige Afrika. Bedst egnet til et subtropisk klima."}
+{"i":80,"tr":"Komponenter"}
+{"i":81,"tr":"Komponenter til køretøjproduktion såsom chassis- og affjedringsdele, elektriske dele, ydre udstyr og interiørdele."}
+{"i":82,"tr":"Betonanlæg"}
+{"i":83,"tr":"Betonprodukter"}
+{"i":84,"tr":"Byggeplads"}
+{"i":85,"tr":"Fabrik på færdige fødevarer"}
+{"i":86,"tr":"Kobber"}
+{"i":87,"tr":"Kobberåre"}
+{"i":88,"tr":"Kobbermine"}
+{"i":89,"tr":"Kobbermalm"}
+{"i":90,"tr":"Kobbersmelteværk"}
+{"i":91,"tr":"Bomuld, hamp, jute og lignende materialer til fremstilling af tekstiler og kompositmaterialer."}
+{"i":92,"tr":"Kryberværksted"}
+{"i":93,"tr":"Kreosoteringsanlæg"}
+{"i":94,"tr":"Rå, uforædlet petroleum transporteret som bulkvæske."}
+{"i":95,"tr":"Kryogenanlæg"}
+{"i":96,"tr":"Mælkefarm"}
+{"i":97,"tr":"Mælkevej"}
+{"i":98,"tr":"Diamantmine"}
+{"i":99,"tr":"Diamanter"}
+{"i":100,"tr":"Tromler, vinsche, lænker, kroge, taljer, hydrauliske stempler og andre dele til kraner, løfteanlæg, elevatorer osv."}
+{"i":101,"tr":"Tørret cement i pulver- eller klinkerform."}
+{"i":102,"tr":"Hver økonomi tilbyder en anden kombination af laster og industrier.{}{}For spillere, der ønsker en enkel spiloplevelse, indeholder {SILVER}grundlæggende {BLACK}økonomier færre industrier og laster end andre CIRS-økonomier.{}{}CIRS' hjemmeside indeholder detaljerede oplysninger om hver økonomi."}
+{"i":103,"tr":"Spiselig olie"}
+{"i":104,"tr":"Spiselig rodafgrøde, også kendt som maniok og yuca."}
+{"i":105,"tr":"Fabrik til elastomerprodukter"}
+{"i":106,"tr":"Elektrisk bogefyr"}
+{"i":107,"tr":"Elektriske dele"}
+{"i":108,"tr":"Elektriske og elektroniske komponenter, motorer, styreenheder, koblingsanlæg, lamper osv."}
+{"i":109,"tr":"Elektronikvarer"}
+{"i":110,"tr":"Motoranlæg"}
+{"i":111,"tr":"Ingeniørværksted"}
+{"i":112,"tr":"Motorer og drivlinjer"}
+{"i":113,"tr":"Forbedret niveau for primærproduktion (%)"}
+{"i":114,"tr":"Ejendom"}
+{"i":115,"tr":"Eksplosiver"}
+{"i":116,"tr":"Eksplosivfabrik"}
+{"i":117,"tr":"Fabrik"}
+{"i":118,"tr":"Landbrug"}
+{"i":119,"tr":"Landbrug, miner og lignende industrier vil øge produktionen, når forsyningskasser leveres, først til {SILVER}Forbedret{BLACK}, og derefter til {SILVER}Gung-ho{BLACK}, hvis der leveres tilstrækkeligt mange kasser.  {}{}Standardværdierne er gode, men hvis du har brug for det, kan du ændre dem her.  {}{}Lastkravene til havnetyper af industrier vil være 8 gange de værdier, der er angivet her."}
+{"i":120,"tr":"Gæringsanlæg"}
+{"i":121,"tr":"Ferrolegeringer"}
+{"i":122,"tr":"Gødning"}
+{"i":123,"tr":"Gødnings- og syrefabrik"}
+{"i":124,"tr":"Mark"}
+{"i":125,"tr":"Fin tråd, der bruges til at forstærke dæk. Transporteres som rulle."}
+{"i":126,"tr":"Fisk og skaldyr"}
+{"i":127,"tr":"Fiskeri"}
+{"i":128,"tr":"Fleksible tætninger, pakninger, slanger, remme, måtter, bøsninger osv. fremstillet af gummi eller lignende materialer."}
+{"i":129,"tr":"Mel og stivelse"}
+{"i":130,"tr":"Transportlinje"}
+{"i":131,"tr":"Mad"}
+{"i":132,"tr":"Mad og drikkevarer"}
+{"i":133,"tr":"fødevaretilsætningsstoffer"}
+{"i":134,"tr":"fødevarekoncern"}
+{"i":135,"tr":"fødevareforarbejdningsanlæg"}
+{"i":136,"tr":"Fødevarer, der holdes frosne under transport og oplagring."}
+{"i":137,"tr":"Til brug i husholdningen og byggeriet. Værktøj, redskaber, installationer og fittings i metal og andre materialer."}
+{"i":138,"tr":"Skov"}
+{"i":139,"tr":"Smedevare og støbegods"}
+{"i":140,"tr":"Frysemaskiner"}
+{"i":141,"tr":"Frisk og tørret frugt, såsom bananer, citrusfrugter, druer, bær, ananas, rosiner og lignende."}
+{"i":142,"tr":"Fabrik til frosne desserter"}
+{"i":143,"tr":"Frossen mad"}
+{"i":144,"tr":"Fabrik til frosne fødevarer"}
+{"i":145,"tr":"Frugtplantage"}
+{"i":146,"tr":"Ovn"}
+{"i":147,"tr":"GPL(v2)"}
+{"i":148,"tr":"GRFID"}
+{"i":149,"tr":"Almindelige lerarter til fremstilling af byggematerialer og andre industrielle formål."}
+{"i":150,"tr":"Almindeligt metal, såsom stål, aluminium eller andre gængse metaller."}
+{"i":151,"tr":"Almindelige organiske og uorganiske kemikalier, håndteret som væske, gas, dækket bulk, pulver eller stykgods."}
+{"i":152,"tr":"Bjælker"}
+{"i":153,"tr":"Glask produkter"}
+{"i":154,"tr":"Varer"}
+{"i":155,"tr":"Korn"}
+{"i":156,"tr":"Kornmølle"}
+{"i":157,"tr":"Grus, sand, knust sten og lignende materialer, der anvendes i byggeri."}
+{"i":158,"tr":"Gung-ho primærproduktionsniveau (%)"}
+{"i":159,"tr":"Hardware og overfladebehandlinger"}
+{"i":160,"tr":"Hyrdekooperativ"}
+{"i":161,"tr":"Højværdige ingeniørkomponenter såsom elektrisk udstyr, motorer, transformatorer, styreudstyr, hydraulik, pneumatik, pumper, ventiler og drivlinjeudstyr."}
+{"i":162,"tr":"Hotel"}
+{"i":163,"tr":"ID"}
+{"i":164,"tr":"Industrielle kulstoffer"}
+{"i":165,"tr":"Industriel kemisk fabrik"}
+{"i":166,"tr":"Industrielle gasser"}
+{"i":167,"tr":"Industriel syre, der hovedsageligt anvendes i produktion af gødning og kemikalier og transporteres som bulkvæske."}
+{"i":168,"tr":"Industrielle syrer såsom saltsyre, salpetersyre og svovlsyre."}
+{"i":169,"tr":"Industriel alkohol, der anvendes som kemisk råvare og brændstof og transporteres som bulkvæske."}
+{"i":170,"tr":"Industriel kemikalie, der normalt transporteres kryogenisk som flydende komprimeret gas."}
+{"i":171,"tr":"Industriel kemikalie. Også kendt som luge eller kaustisk soda. Transporteres normalt som væske."}
+{"i":172,"tr":"Industriel kemikalie. I form af hvidt pulver."}
+{"i":173,"tr":"Industrielle kemikalier afledt af ammoniak, såsom ammoniak, salpetersyre og urinstof. Transporteres som væsker, kryogenisk som flydende gas eller som tør bulklast."}
+{"i":174,"tr":"Industrielle kemikalier, der anvendes i produktion og forarbejdning, og som transporteres som væsker, pulvere, gasser eller emballerede varer."}
+{"i":175,"tr":"Industriel gas. Transporteres kryogenisk som flydende komprimeret gas."}
+{"i":176,"tr":"Industrielle gasser, der anvendes til kemisk forarbejdning, metalbearbejdning og svejsning, og som transporteres i cylindre eller tryktankvogne."}
+{"i":177,"tr":"Industrielt mineral, også kendt som kaolin, der primært anvendes i papir- og plastproduktion."}
+{"i":178,"tr":"Industrielle mineraler, der anvendes til kemisk forarbejdning. Baryt anvendes i bariumkemikalier og fyldstoffer; fluorspat anvendes i fluor-kemi og metallurgiske fluxer."}
+{"i":179,"tr":"Stænger."}
+{"i":180,"tr":"Ingredienser, der anvendes ved fødevareforarbejdning, såsom konserveringsmidler, aromastoffer, farvestoffer og forarbejdningshjælpemidler."}
+{"i":181,"tr":"Intensivt sort kulstofpulver, der anvendes i dæk, plast og pigmenter. Håndteres som pulver."}
+{"i":182,"tr":"Kemiske mellemprodukter, der anvendes som råvarer til yderligere industriel forarbejdning."}
+{"i":183,"tr":"Mellemprodukter af sukker til raffinering, gæring og industriel anvendelse. Klistrede granulat håndteres som dækket bulk; tyk sirup som væske; begge kan emballeres."}
+{"i":184,"tr":"Forbrændingsmotorer og tilhørende dele af drivlinjen, såsom gearkasse og drivaksler."}
+{"i":185,"tr":"Jernmalm"}
+{"i":186,"tr":"Jernmalmsmine"}
+{"i":187,"tr":"Jernsten"}
+{"i":188,"tr":"Ovne"}
+{"i":189,"tr":"Kimberlitforekomster"}
+{"i":190,"tr":"JORD"}
+{"i":191,"tr":"Landingsplatform"}
+{"i":192,"tr":"Lette kulbrinter"}
+{"i":193,"tr":"Lette petroleumsfraktioner, der anvendes som kemiske råvarer og transporteres som bulkvæsker."}
+{"i":194,"tr":"Kalksten"}
+{"i":195,"tr":"Kalkstensmine"}
+{"i":196,"tr":"Kalkstensminer"}
+{"i":197,"tr":"Husdyr"}
+{"i":198,"tr":"Tømmerlandingsplads"}
+{"i":199,"tr":"Tømmerstokke"}
+{"i":200,"tr":"Tømmerstokke fra en skov."}
+{"i":201,"tr":"Langt hul rør med rund, rektangulær eller anden tværsnitform. Anvendes til fremstilling af konstruktioner og maskiner."}
+{"i":202,"tr":"Lange runde stålrør til transport af væsker i rørledninger, bygninger, industrien osv."}
+{"i":203,"tr":"Maskiner, brændstof, reservedele, gødning og andre forsyninger til landbrug, skove og lignende virksomheder."}
+{"i":204,"tr":"Maskiner, brændstof, reservedele, træprodukter, rør, eksplosiver og andre forsyninger til miner og lignende industrier."}
+{"i":205,"tr":"Maskiner, reservedele, brændstof, byggematerialer og andre forsyninger til havne, kajer og lignende industrier."}
+{"i":206,"tr":"Post"}
+{"i":207,"tr":"Majs"}
+{"i":208,"tr":"Mangan"}
+{"i":209,"tr":"Manganmine"}
+{"i":210,"tr":"Manganminer"}
+{"i":211,"tr":"Manganmalm, der primært anvendes i stålproduktion."}
+{"i":212,"tr":"Enge"}
+{"i":213,"tr":"Kød"}
+{"i":214,"tr":"Handelsbar"}
+{"i":215,"tr":"Metallværk"}
+{"i":216,"tr":"Metaldele til montering til større genstande."}
+{"i":217,"tr":"Metallvarer"}
+{"i":218,"tr":"Methanol"}
+{"i":219,"tr":"Mild Mild West"}
+{"i":220,"tr":"Møller"}
+{"i":221,"tr":"Mineralske fyldstoffer"}
+{"i":222,"tr":"Anlæg for mineralske fyldstoffer"}
+{"i":223,"tr":"Mineraler"}
+{"i":224,"tr":"Mineraller"}
+{"i":225,"tr":"Primært køer, grise og får til kødproduktion. Andre dyr kan også spises."}
+{"i":226,"tr":"Primært naturlig latex."}
+{"i":227,"tr":"Primært lastbiler. Eller personbiler. Eller lette lastbiler. Måske traktorer."}
+{"i":228,"tr":"Listværk"}
+{"i":229,"tr":"Nitratmine"}
+{"i":230,"tr":"Nitrat"}
+{"i":231,"tr":"Kvælstof"}
+{"i":232,"tr":"Ikkæ-jernholdige metaller såsom kobber, nikkel, zink og bly."}
+{"i":233,"tr":"Møtrikker"}
+{"i":234,"tr":"Olie"}
+{"i":235,"tr":"Olie- og kemikalieterminal"}
+{"i":236,"tr":"Olieraffineri"}
+{"i":237,"tr":"Olieplatform"}
+{"i":238,"tr":"Oliebrønde"}
+{"i":239,"tr":"Olie til madlavning og forbrug."}
+{"i":240,"tr":"Frugthaver"}
+{"i":241,"tr":"Ilt"}
+{"i":242,"tr":"Emballage"}
+{"i":243,"tr":"Maling og belægninger"}
+{"i":244,"tr":"Papir"}
+{"i":245,"tr":"Papirfabrik"}
+{"i":246,"tr":"Fabrik til papirprodukter"}
+{"i":247,"tr":"Passagerer"}
+{"i":248,"tr":"Tørv"}
+{"i":249,"tr":"Tørvområder"}
+{"i":250,"tr":"Benzin, diesel og lignende brændstoffer."}
+{"i":251,"tr":"Fosfat"}
+{"i":252,"tr":"Phosphatmine"}
+{"i":253,"tr":"Phosphorsyre"}
+{"i":254,"tr":"Råjern"}
+{"i":255,"tr":"Rørbutik"}
+{"i":256,"tr":"Anlæg"}
+{"i":257,"tr":"Anlæg og maskiner"}
+{"i":258,"tr":"Fabrik til plastformstøbning"}
+{"i":259,"tr":"Plast og harpikser"}
+{"i":260,"tr":"Pladeværk"}
+{"i":261,"tr":"Kalium"}
+{"i":262,"tr":"Kaliummine"}
+{"i":263,"tr":"Kornprodukter i pulverform såsom mel og stivelse, transporteret i poser eller i dækket bulk."}
+{"i":264,"tr":"Energisystemfabrik"}
+{"i":265,"tr":"Drevet udstyr og mekaniske systemer, der anvendes i bygninger, industrien og på landbrug. Transporteres som komplette enheder eller som større delmontager."}
+{"i":266,"tr":"Drivlinje"}
+{"i":267,"tr":"Færdigstøbt"}
+{"i":268,"tr":"Præcisionskomponenter"}
+{"i":269,"tr":"Fabrik til præcisionsdele"}
+{"i":270,"tr":"Presdele"}
+{"i":271,"tr":"Proceskemikalier"}
+{"i":272,"tr":"Fabrik til proceskemikalier"}
+{"i":273,"tr":"Behandlet træfiber, der hovedsageligt anvendes til papirproduktion, og som transporteres som baller eller bulkmasse."}
+{"i":274,"tr":"Behandlede træprodukter fra en savværk eller lignende industrier."}
+{"i":275,"tr":"Produktpakkeri"}
+{"i":276,"tr":"Produktion på landbrug, miner og lignende industrier, når forsyningskravene er opfyldt (som procentdel af {SILVER}normalt {BLACK}produktionsniveau)."}
+{"i":277,"tr":"Pumper"}
+{"i":278,"tr":"Pumper & ventiler"}
+{"i":279,"tr":"Pyritforekomster"}
+{"i":280,"tr":"Pyritmine"}
+{"i":281,"tr":"Pyritmalm"}
+{"i":282,"tr":"Pyritsmelteovn"}
+{"i":283,"tr":"Python 3.11+"}
+{"i":284,"tr":"Brændkalk"}
+{"i":285,"tr":"Ranch"}
+{"i":286,"tr":"Rå sukker & melasse"}
+{"i":287,"tr":"Rå eller ristede kaffebønner."}
+{"i":288,"tr":"Ubearbejdede stålstøbegods, som kræver videre bearbejdning. Støbevarerne kan være små eller meget store. Typiske støbevarerprofiler er rektangulære eller runde."}
+{"i":289,"tr":"Armeringsjern"}
+{"i":290,"tr":"Raffineret aluminiumsmetall i ruller, støbevarer, plader osv."}
+{"i":291,"tr":"Raffineret kobbermetall i ruller, støbevarer osv."}
+{"i":292,"tr":"Raffinerede petroleumsprodukter såsom benzin, diesel, kerosin, LPG, brændolie og bunkerbrændstof, transporteret som bulkvæsker eller flydende gas."}
+{"i":293,"tr":"Reindrægt"}
+{"i":294,"tr":"Vejenstensanlæg"}
+{"i":295,"tr":"Stangmølle"}
+{"i":296,"tr":"Valset stålplader og tværsnit – I-bjælker, H-bjælker, kanaler osv. Transporteres som lange, lige produkter."}
+{"i":297,"tr":"Snore og kabler fremstillet ved at trække ståltråd til en mindre diameter og derefter sno dem til bundter af snore."}
+{"i":299,"tr":"Gummi"}
+{"i":300,"tr":"Gummifirma"}
+{"i":301,"tr":"Gummiplantage"}
+{"i":302,"tr":"HAV"}
+{"i":303,"tr":"Salt"}
+{"i":304,"tr":"Saltsværk"}
+{"i":305,"tr":"Salpetersværk"}
+{"i":306,"tr":"Sand"}
+{"i":307,"tr":"Savværk"}
+{"i":308,"tr":"Skaldyr"}
+{"i":309,"tr":"Tætninger og slanger"}
+{"i":310,"tr":"Tætninger, slanger og remme"}
+{"i":311,"tr":"Sektion- og stangværk"}
+{"i":312,"tr":"Halvfærdige stålstøbninger. Altid flade og rektangulære i tværsnit."}
+{"i":313,"tr":"Halvfærdige stålstøbninger. Rektangulære, kvadratiske eller runde i tværsnit."}
+{"i":314,"tr":"Sharp Street"}
+{"i":315,"tr":"Shoals"}
+{"i":316,"tr":"Shorefront"}
+{"i":317,"tr":"Silo"}
+{"i":318,"tr":"Enkel økonomi. Inspireret af Argentina, Peru og Chile. Bedst egnet til subtropisk klima."}
+{"i":319,"tr":"Enkel økonomi. Inspireret af Finland, det nordlige Canada og det nordlige Sibirien. Bedst egnet til subarktisk klima."}
+{"i":320,"tr":"Enkel økonomi. Inspireret af det sydvestlige Storbritannien. Bedst egnet til tempereret klima."}
+{"i":321,"tr":"Stålpladeplads"}
+{"i":322,"tr":"Slagge"}
+{"i":323,"tr":"Slaggekværningsanlæg"}
+{"i":324,"tr":"Smelteværk"}
+{"i":325,"tr":"Sodasalt"}
+{"i":326,"tr":"Sodasaltmine"}
+{"i":327,"tr":"Natriumhydroxid"}
+{"i":328,"tr":"Sotovn"}
+{"i":329,"tr":"Supper"}
+{"i":330,"tr":"Specielle kulstofmaterialer såsom kalcineret petroleumscoke, pitch, højværdige tjærearter og kulstofsort, som anvendes i metallurgiske og kemiske processer."}
+{"i":331,"tr":"Stål"}
+{"i":332,"tr":"Stålsmede og støberi"}
+{"i":333,"tr":"Stålingoter"}
+{"i":334,"tr":"Stålværk"}
+{"i":335,"tr":"Stålrør"}
+{"i":336,"tr":"Stålplade"}
+{"i":337,"tr":"Stålark og -strimler"}
+{"i":338,"tr":"Stålslab"}
+{"i":339,"tr":"Stål rør"}
+{"i":340,"tr":"Ståltrådstrang"}
+{"i":341,"tr":"Stålstænger, såsom runde, firkantede, flade og andre profiler. Transporteres som lange, lige produkter."}
+{"i":342,"tr":"Ståltråd og tynde stænger. Transporteres primært som ruller."}
+{"i":343,"tr":"Stålmeistere"}
+{"i":344,"tr":"Stålby"}
+{"i":345,"tr":"Opbevaringstanke og rørledninger"}
+{"i":346,"tr":"Opbevaringstanke, trykbeholdere, siloer, gasflasker og rørsamlinger til brug i bybygninger, industrier og landbrug."}
+{"i":347,"tr":"Lager"}
+{"i":348,"tr":"Strimmelværk"}
+{"i":349,"tr":"Konstruktionsstål"}
+{"i":350,"tr":"Konstruktionsstål som valset profiler (I-bjælker, H-bjælker osv.), som flade plader eller som fremstillede profiler og bjælker svejset af plader."}
+{"i":351,"tr":"Sukker"}
+{"i":352,"tr":"Sukkerfirma"}
+{"i":353,"tr":"Sulfidmineraler, der smeltes til fremstilling af forskellige industrielle produkter."}
+{"i":354,"tr":"Svovl"}
+{"i":355,"tr":"Svovlsyre"}
+{"i":356,"tr":"Forsyninger til skæring og svejsning af metal, såsom svejsningstråde, værktøj og industrielle gasser, herunder acetylen, argon, propan, ilt og kvælstof."}
+{"i":357,"tr":"Forsyningsplads"}
+{"i":358,"tr":"Antal forsyningskasser, der kræves til forbedret primærproduktion (standard 16)"}
+{"i":359,"tr":"Antal forsyningskasser, der kræves til Gung-ho-primærproduktion (standard 80)"}
+{"i":360,"tr":"Tankfarm"}
+{"i":361,"tr":"Tapperens skur"}
+{"i":362,"tr":"Tykt petroleumsprodukt, der hovedsageligt bruges til vejbelægning og tagdækning."}
+{"i":363,"tr":"Tyndt valset stålplade og -strimmel, som i vid udstrækning bruges til fremstilling af andre produkter. Transporteres som flade plader eller ruller."}
+{"i":364,"tr":"Tynde, ru stålstænger, som i vid udstrækning bruges til at forstærke betonkonstruktioner. Transporteres som ruller eller bundter af lige stænger."}
+{"i":365,"tr":"Tynd stålplade belagt med tin for korrosionsbestandighed, hovedsageligt brugt til dåser, beholdere og anden emballage."}
+{"i":366,"tr":"Træprodukter"}
+{"i":367,"tr":"Tin"}
+{"i":368,"tr":"Tinmine"}
+{"i":369,"tr":"Tinplade"}
+{"i":370,"tr":"Tinpladefabrik"}
+{"i":371,"tr":"Fabrik til sporvogne"}
+{"i":372,"tr":"Trona-senge"}
+{"i":373,"tr":"Lastbilplads"}
+{"i":374,"tr":"Rør- og rørproduktionsværk"}
+{"i":375,"tr":"Rørproduktionsværk"}
+{"i":376,"tr":"Dækkærder"}
+{"i":377,"tr":"Dækkfabrik"}
+{"i":378,"tr":"Dæk"}
+{"i":379,"tr":"Bruges i produktion af legeringer og rustfrit stål, en legering af krom og jern. Grå klumper, der ligner kulklumper i størrelse og form."}
+{"i":380,"tr":"Bruges i stålproduktion. Legeringer af jern og andre grundstoffer, herunder mangan, nikkel, krom, aluminium, silicium og wolfram. Grå klumper, der ligner kulklumper i størrelse og form."}
+{"i":381,"tr":"Grøntsager"}
+{"i":382,"tr":"Køretøjskarrosserier"}
+{"i":383,"tr":"Køretøjsdistributør"}
+{"i":384,"tr":"Køretøjdele"}
+{"i":385,"tr":"Køretøjer"}
+{"i":386,"tr":"Vingård"}
+{"i":387,"tr":"Affaldsprodukt fra jern- og stålproduktion."}
+{"i":388,"tr":"Vandkant"}
+{"i":389,"tr":"Svejsforbrugsvarer"}
+{"i":390,"tr":"Brønde"}
+{"i":391,"tr":"Kaipr"}
+{"i":392,"tr":"Grue"}
+{"i":393,"tr":"Hvede, byg osv."}
+{"i":394,"tr":"Hvidt pulver raffineret fra bauxitmalmen, som bruges til at fremstille aluminiumsmetall."}
+{"i":395,"tr":"Hvid, grå eller brun calciumsulfatsten, som bruges i produktionen af svovlsyre og cement. Transporteres ofte som dækket bulklast."}
+{"i":396,"tr":"En bredt anvendt industriel kemikalie. Klar gul, i pulver- eller væskeform."}
+{"i":397,"tr":"En bredt anvendt industriel kemikalie. Transporteres normalt som bulklast, der skal holdes tør."}
+{"i":398,"tr":"Vinhus"}
+{"i":399,"tr":"Trådstrådefabrik"}
+{"i":400,"tr":"Træmasse"}
+{"i":401,"tr":"Fabrik"}
+{"i":402,"tr":"Zink"}
+{"i":403,"tr":"Zinkmine"}
+{"i":404,"tr":"Zinkmalm"}
+{"i":405,"tr":"Zinksmelteovn"}
+{"i":406,"tr":"{BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau skal du levere {SIGNED_WORD} kasser med forsyninger mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal du levere {SIGNED_WORD} kasser."}
+{"i":407,"tr":"{BLACK}Nuværende produktion: {YELLOW}Forbedret {}{}{BLACK}For at opretholde dette niveau skal du levere {SIGNED_WORD} enheder last mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal du levere {SIGNED_WORD} enheder."}
+{"i":408,"tr":"{BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produktion skal der leveres {SIGNED_WORD} kasser med forsyninger mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal der leveres {SIGNED_WORD} kasser."}
+{"i":409,"tr":"{BLACK}Nuværende produktion: {YELLOW}Normal {}{}{BLACK}For {WHITE}Forbedret {BLACK}produktion skal der leveres {SIGNED_WORD} enheder fragt mindst én gang hver tredje minut.{}For {WHITE}Gung-ho {BLACK}-produktion skal der leveres {SIGNED_WORD} enheder."}
+{"i":410,"tr":"{BLACK}For maksimal produktionshastighed skal alle {WHITE}påkrævede {BLACK}fragttyper leveres mindst én gang hver tredje minut."}
+{"i":414,"tr":"{BLACK}Produktionen er proportional med byens befolkning. Der vil blive produceret mindst {WHITE}{SIGNED_WORD} enheder{BLACK} og højst {WHITE}{SIGNED_WORD} enheder{BLACK} fragt hvert minut."}
+{"i":415,"tr":"{BLACK}Lever {WHITE}mindst én {BLACK} påkrævet fragttype for maksimal produktion."}
+{"i":416,"tr":"{BLACK}Type: {WHITE}{RAW_STRING}"}
+{"i":417,"tr":"{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}"}
+{"i":418,"tr":"{ORANGE}E00: CIRS kræver OpenTTD 1.7.0 (eller r27769 for dem, der bruger trunk-bygninger)"}
+{"i":419,"tr":"{ORANGE}E01: {YELLOW}Inkompatibelt sæt: {ORANGE}{STRING}"}
+{"i":420,"tr":"{ORANGE}E02: {YELLOW}Ukompatibel parameter: {ORANGE}CanSet-parameter 2 skal være 0 for at fungere med CIRS."}
+{"i":421,"tr":"{ORANGE}E02: {YELLOW}Ukompatibel parameter: {ORANGE}NA City Set-parameter 2 skal være 0 for at fungere med CIRS."}
+{"i":422,"tr":"{ORANGE}E04: {YELLOW}Ukompatibel version: {ORANGE}Total Town Replacement Set skal være version 3.11 eller nyere."}
+{"i":423,"tr":"{TINYFONT}AA"}
+{"i":424,"tr":"{TINYFONT}AC"}
+{"i":425,"tr":"{TINYFONT}AG"}
+{"i":426,"tr":"{TINYFONT}AM"}
+{"i":427,"tr":"{TINYFONT}AO"}
+{"i":428,"tr":"{TINYFONT}AP"}
+{"i":429,"tr":"{TINYFONT}AY"}
+{"i":430,"tr":"{TINYFONT}BB"}
+{"i":431,"tr":"{TINYFONT}BI"}
+{"i":432,"tr":"{TINYFONT}BM"}
+{"i":433,"tr":"{TINYFONT}BN"}
+{"i":434,"tr":"{TINYFONT}CA"}
+{"i":435,"tr":"{TINYFONT}CB"}
+{"i":436,"tr":"{TINYFONT}CE"}
+{"i":437,"tr":"{TINYFONT}CI"}
+{"i":438,"tr":"{TINYFONT}CK"}
+{"i":439,"tr":"{TINYFONT}CN"}
+{"i":440,"tr":"{TINYFONT}CO"}
+{"i":441,"tr":"{TINYFONT}CP"}
+{"i":442,"tr":"{TINYFONT}CR"}
+{"i":443,"tr":"{TINYFONT}CT"}
+{"i":444,"tr":"{TINYFONT}EL"}
+{"i":445,"tr":"{TINYFONT}EO"}
+{"i":446,"tr":"{TINYFONT}EP"}
+{"i":447,"tr":"{TINYFONT}EX"}
+{"i":448,"tr":"{TINYFONT}FA"}
+{"i":449,"tr":"{TINYFONT}FI"}
+{"i":450,"tr":"{TINYFONT}FL"}
+{"i":451,"tr":"{TINYFONT}FO"}
+{"i":452,"tr":"{TINYFONT}FV"}
+{"i":453,"tr":"{TINYFONT}GL"}
+{"i":454,"tr":"{TINYFONT}HW"}
+{"i":455,"tr":"{TINYFONT}IG"}
+{"i":456,"tr":"{TINYFONT}KA"}
+{"i":457,"tr":"{TINYFONT}LG"}
+{"i":458,"tr":"{TINYFONT}LH"}
+{"i":459,"tr":"{TINYFONT}LS"}
+{"i":460,"tr":"{TINYFONT}MA"}
+{"i":461,"tr":"{TINYFONT}MF"}
+{"i":462,"tr":"{TINYFONT}MK"}
+{"i":463,"tr":"{TINYFONT}ML"}
+{"i":464,"tr":"{TINYFONT}MN"}
+{"i":465,"tr":"{TINYFONT}MO"}
+{"i":466,"tr":"{TINYFONT}N7"}
+{"i":467,"tr":"{TINYFONT}NA"}
+{"i":468,"tr":"{TINYFONT}NI"}
+{"i":469,"tr":"{TINYFONT}NT"}
+{"i":470,"tr":"{TINYFONT}O2"}
+{"i":471,"tr":"{TINYFONT}OC"}
+{"i":472,"tr":"{TINYFONT}PA"}
+{"i":473,"tr":"{TINYFONT}PC"}
+{"i":474,"tr":"{TINYFONT}PE"}
+{"i":475,"tr":"{TINYFONT}PG"}
+{"i":476,"tr":"{TINYFONT}PH"}
+{"i":477,"tr":"{TINYFONT}PI"}
+{"i":478,"tr":"{TINYFONT}PL"}
+{"i":479,"tr":"{TINYFONT}PM"}
+{"i":480,"tr":"{TINYFONT}PV"}
+{"i":481,"tr":"{TINYFONT}PW"}
+{"i":482,"tr":"{TINYFONT}PY"}
+{"i":483,"tr":"{TINYFONT}QL"}
+{"i":484,"tr":"{TINYFONT}RB"}
+{"i":485,"tr":"{TINYFONT}SA"}
+{"i":486,"tr":"{TINYFONT}SD"}
+{"i":487,"tr":"{TINYFONT}SE"}
+{"i":488,"tr":"{TINYFONT}SG"}
+{"i":489,"tr":"{TINYFONT}SH"}
+{"i":490,"tr":"{TINYFONT}SI"}
+{"i":491,"tr":"{TINYFONT}SL"}
+{"i":492,"tr":"{TINYFONT}SM"}
+{"i":493,"tr":"{TINYFONT}SO"}
+{"i":494,"tr":"{TINYFONT}SP"}
+{"i":495,"tr":"{TINYFONT}ST"}
+{"i":496,"tr":"{TINYFONT}STSW"}
+{"i":497,"tr":"{TINYFONT}SU"}
+{"i":498,"tr":"{TINYFONT}SW"}
+{"i":499,"tr":"{TINYFONT}SY"}
+{"i":500,"tr":"{TINYFONT}TC"}
+{"i":501,"tr":"{TINYFONT}TI"}
+{"i":502,"tr":"{TINYFONT}TP"}
+{"i":503,"tr":"{TINYFONT}TY"}
+{"i":504,"tr":"{TINYFONT}VB"}
+{"i":505,"tr":"{TINYFONT}VE"}
+{"i":506,"tr":"{TINYFONT}VG"}
+{"i":507,"tr":"{TINYFONT}VP"}
+{"i":508,"tr":"{TINYFONT}VS"}
+{"i":509,"tr":"{TINYFONT}WP"}
+{"i":510,"tr":"{TINYFONT}WS"}
+{"i":511,"tr":"{TINYFONT}ZN"}
+{"i":512,"tr":"{TINYFONT}ZO"}
+{"i":513,"tr":"{VOLUME} syre"}
+{"i":514,"tr":"{VOLUME} ammoniak og salpetersyreprodukter"}
+{"i":515,"tr":"{VOLUME} bitumen"}
+{"i":516,"tr":"{VOLUME} kemiske intermediater"}
+{"i":517,"tr":"{VOLUME} klor"}
+{"i":518,"tr":"{VOLUME} kulhjerte"}
+{"i":519,"tr":"{VOLUME} spiselig olie"}
+{"i":520,"tr":"{VOLUME} industrielle gasser"}
+{"i":521,"tr":"{VOLUME} lette kulbrinter"}
+{"i":522,"tr":"{VOLUME} methanol"}
+{"i":523,"tr":"{VOLUME} kvælstof"}
+{"i":524,"tr":"{VOLUME} ilt"}
+{"i":525,"tr":"{VOLUME} malinger & belægninger"}
+{"i":526,"tr":"{VOLUME} phosphorsyre"}
+{"i":527,"tr":"{VOLUME} natriumhydroxid"}
+{"i":528,"tr":"{VOLUME} svovlsyre"}
+{"i":529,"tr":"{WEIGHT} aggregater"}
+{"i":530,"tr":"{WEIGHT} aluminiumoxid"}
+{"i":531,"tr":"{WEIGHT} aluminium"}
+{"i":532,"tr":"{WEIGHT} anhydritsten"}
+{"i":533,"tr":"{WEIGHT} æbler"}
+{"i":534,"tr":"{WEIGHT} baryt og fluorspat"}
+{"i":535,"tr":"{WEIGHT} bønner"}
+{"i":536,"tr":"{WEIGHT} stænger og blokke"}
+{"i":537,"tr":"{WEIGHT} kulsort"}
+{"i":538,"tr":"{WEIGHT} cassava"}
+{"i":539,"tr":"{WEIGHT} støbejern"}
+{"i":540,"tr":"{WEIGHT} cement"}
+{"i":541,"tr":"{WEIGHT} kaolin"}
+{"i":542,"tr":"{WEIGHT} rengøringsmidler"}
+{"i":543,"tr":"{WEIGHT} kokse"}
+{"i":544,"tr":"{WEIGHT} betonprodukter"}
+{"i":545,"tr":"{WEIGHT} kobber"}
+{"i":546,"tr":"{WEIGHT} elektriske dele"}
+{"i":547,"tr":"{WEIGHT} motorer & drivlinjer"}
+{"i":548,"tr":"{WEIGHT} eksplosiver"}
+{"i":549,"tr":"{WEIGHT} ferrolegeringer"}
+{"i":550,"tr":"{WEIGHT} gødning"}
+{"i":551,"tr":"{WEIGHT} fisk & skaldyr"}
+{"i":552,"tr":"{WEIGHT} mel & stivelse"}
+{"i":553,"tr":"{WEIGHT} mad & drikkevarer"}
+{"i":554,"tr":"{WEIGHT} fødevaretilsætningsstoffer"}
+{"i":555,"tr":"{WEIGHT} smedestykker & støbegods"}
+{"i":556,"tr":"{WEIGHT} frossen mad"}
+{"i":557,"tr":"{WEIGHT} glasprodukter"}
+{"i":558,"tr":"{WEIGHT} varer"}
+{"i":559,"tr":"{WEIGHT} hardware & overfladebehandlinger"}
+{"i":560,"tr":"{WEIGHT} industrielle kulstoffer"}
+{"i":561,"tr":"{WEIGHT} kalksten"}
+{"i":562,"tr":"{WEIGHT} træstammer"}
+{"i":563,"tr":"{WEIGHT} mangan"}
+{"i":564,"tr":"{WEIGHT} kød"}
+{"i":565,"tr":"{WEIGHT} handelsstang"}
+{"i":566,"tr":"{WEIGHT} mineralske fillere"}
+{"i":567,"tr":"{WEIGHT} nitrater"}
+{"i":568,"tr":"{WEIGHT} nødder"}
+{"i":569,"tr":"{WEIGHT} emballage"}
+{"i":570,"tr":"{WEIGHT} tørv"}
+{"i":571,"tr":"{WEIGHT} fosfat"}
+{"i":572,"tr":"{WEIGHT} råjern"}
+{"i":573,"tr":"{WEIGHT} anlæg & maskiner"}
+{"i":574,"tr":"{WEIGHT} plast & harpiks"}
+{"i":575,"tr":"{WEIGHT} kalium"}
+{"i":576,"tr":"{WEIGHT} af præcisionskomponenter"}
+{"i":577,"tr":"{WEIGHT} af proceskemikalier"}
+{"i":578,"tr":"{WEIGHT} af pumper & ventiler"}
+{"i":579,"tr":"{WEIGHT} af pyritmalm"}
+{"i":580,"tr":"{WEIGHT} af brændkalk"}
+{"i":581,"tr":"{WEIGHT} af rørsukker & melasse"}
+{"i":582,"tr":"{WEIGHT} af armeringsjern"}
+{"i":583,"tr":"{WEIGHT} af salt"}
+{"i":584,"tr":"{WEIGHT} af tætninger, slanger & remme"}
+{"i":585,"tr":"{WEIGHT} af slagge"}
+{"i":586,"tr":"{WEIGHT} af sodaaske"}
+{"i":587,"tr":"{WEIGHT} af stål"}
+{"i":588,"tr":"{WEIGHT} af stålingoter"}
+{"i":589,"tr":"{WEIGHT} af stålrør"}
+{"i":590,"tr":"{WEIGHT} af stålplader"}
+{"i":591,"tr":"{WEIGHT} af stålark og -strimler"}
+{"i":592,"tr":"{WEIGHT} af stålslabber"}
+{"i":593,"tr":"{WEIGHT} af stålrør"}
+{"i":594,"tr":"{WEIGHT} af ståltrådstråd"}
+{"i":595,"tr":"{WEIGHT} af opbevaringstanke og rørledninger"}
+{"i":596,"tr":"{WEIGHT} af konstruktionsstål"}
+{"i":597,"tr":"{WEIGHT} af svovl"}
+{"i":598,"tr":"{WEIGHT} af træprodukter"}
+{"i":599,"tr":"{WEIGHT} af tin"}
+{"i":600,"tr":"{WEIGHT} tinplade"}
+{"i":601,"tr":"{WEIGHT} dækkord"}
+{"i":602,"tr":"{WEIGHT} dæk"}
+{"i":603,"tr":"{WEIGHT} grøntsager"}
+{"i":604,"tr":"{WEIGHT} køretøjsskrog"}
+{"i":605,"tr":"{WEIGHT} køretøjsdele"}
+{"i":606,"tr":"{WEIGHT} køretøjer"}
+{"i":607,"tr":"{WEIGHT} svejseforbrugsstoffer"}
+{"i":608,"tr":"{WEIGHT} træmasse"}
+{"i":609,"tr":"{WEIGHT} zink"}
+{"i":611,"tr":"{WEIGHT} sæk{P 0 \"\" s} kaffe"}
+{"i":612,"tr":"{}{BLACK}Placering: {YELLOW}Kan kun finansieres på sne."}
+{"i":298,"tr":"Rå stålstøbninger, som kræver yderligere bearbejdning. Stænger kan være små eller meget store. Typiske stængerprofiler er rektangulære eller runde."}
+{"i":411,"tr":"{BLACK}For maksimal produktionshastighed, lever {WHITE}mindst tre {BLACK}nødvendige laster mindst én gang hver tredje minut."}
+{"i":412,"tr":"{BLACK}For maksimal produktionshastighed, lever {WHITE}mindst to {BLACK}nødvendige laster mindst én gang hver tredje minut."}
+{"i":413,"tr":"{BLACK}For maksimal produktionshastighed, lever {WHITE}begge {BLACK}nødvendige laster mindst én gang hver tredje minut."}
+{"i":610,"tr":"{WEIGHT} af zinkmalm"}
+{"i":44,"tr":"CIRS – Community Industry Replacement Set"}
+{"i":44,"tr":"CIRS Community-Industri-Ersatzpakke"}
+{"i":72,"tr":"Koks"}
+{"i":316,"tr":"Kystfront"}
+{"i":314,"tr":"Skarp Gade"}
+{"i":2,"tr":"(desimal)"}
+{"i": 8, "tr": "Ammoniak- og salpetersyreprodukter"}

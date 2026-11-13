@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Mwyngloddio Glo"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Mynydd copr"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Mynydd Diemwnt"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "Gweithdy Prosesu Bwyd"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Coedwig"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Plantasiwn Ffrwyth"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Mynydd Oer Gwair"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Gweithdy Olew"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Tŵr Olew"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Pwllau Olew"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Mill Papur"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Plannu Ruber"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Mili Llwbr"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Mill Dur"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Glo"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Oer copr"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diemwntau"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Bwyd"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Nwyddau"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Grawn"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Oer Gwair"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Anifeiliaid Fferm"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Post"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Maise"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Oil"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Papur"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Teithwyr"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Rubber"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Siwgr"
+
+[ECONOMY_INFO_FIRS]
+base = "Economi gymhleth gyda llawer o ddiwydiannau a chargoedd."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Economi syml. Yn ysbrydol gan Finland, Gogledd Canada a Gogledd Siberia. Gorau i'w defnyddio â chlimat Is-Arctig."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Economi syml. Yn ysbrydol gan de-orllewin y DU. Gorau i'w defnyddio â chlimat Gwledig."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Economi syml. Yn ysbrydol gan Argentina, Peru a Chile. Gorau i'w defnyddio â chlimat Is-Gwledig."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Economi gymhleth gyda llawer o ddiwydiannau a chargoedd. Ysbrydol gan ganol-orllewin Affrica. Gwell ei defnyddio gyda hinsawdd Is-Gwlyb."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Economi gymhleth sy'n cynnwys diwydiannau haearn, dur a gweithgynhyrchu trwm."
+
+[CARGO_INFO_PASSENGERS]
+base = "Ar gael ym mhob economi. Wedi'i gynhyrchu a'i dderbyn gan adeiladau tref, a hefyd gan ychydig o ddiwydiannau."
+
+[CARGO_INFO_MAIL]
+base = "Ar gael ym mhob economi. Wedi'i gynhyrchu a'i dderbyn gan adeiladau tref."
+
+[CARGO_INFO_ACID]
+base = "Asidau diwydiannol, megis asid hydrocloridig, nitrig a sulfwrig."
+
+[CARGO_INFO_AGGREGATES]
+base = "Cryno, tywod, cerrig cnoi a deunyddiau tebyg a ddefnyddir mewn adeiladu."
+
+[CARGO_INFO_ALUMINA]
+base = "Pwdr gwyn wedi'i finyddu o or bauxit, a ddefnyddir i gynhyrchu metel alwminiwm."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Metel Alwminiwm pur, mewn coiliau, ingotiau, slabiau ac ati."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Cemegau diwydiannol a ddeillir o amoniwca, megis amoniwca, asid nitrig a urea. A gludir fel hylifau, yn griojenig fel nwy wedi'i hylifo, neu fel math llawn sych."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Craig solffad calsiwm gwyn, llwyd neu frown, a ddefnyddir wrth gynhyrchu asid solffwrig a sment. Yn aml yn cael ei cludo fel llwyth cyfryw wedi'i orchuddio."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Mineralau diwydiannol a ddefnyddir mewn prosesu cemegol. Defnyddir Barytes mewn cemegau barïwm a llenwyr; defnyddir fluorspar mewn cemeg flworin a fflwcsau metalegol."
+
+[CARGO_INFO_BASE_METALS]
+base = "Metelau di-ferrws, fel copr, nicel, sinc a chalsiwm."
+
+[CARGO_INFO_BEANS]
+base = "Ddohau cyffredin, ddohau fava, soya a llysiau llysiau bwyd tebyg."
+
+[CARGO_INFO_BITUMEN]
+base = "Cynnyrch petroliwm trwchus a ddefnyddir yn bennaf ar gyfer arwynebau ffordd a thwyo toeau."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Sement, gwydr, cydrannau metel, cynhyrchion pren, pibellau a deunyddiau adeiladu tebyg."
+
+[CARGO_INFO_CASSAVA]
+base = "Cnydwr gwreiddiau bwyd, a elwir hefyd yn manioc ac yn yuca."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Powdr carbon dwyfol dwyn, a ddefnyddir mewn teiars, plastigau a phigmentau. Yn cael ei ymdrin fel powdr."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billets, blooms, ingots a slabs."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billets, blooms, ingots a slabs."
+
+[CARGO_INFO_CEMENT]
+base = "Sement sych mewn siâp powdr neu glincri."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Cynhyrchion cemegol canolraddol a ddefnyddir fel deunydd crai ar gyfer prosesu diwydiannol pellach."
+
+[CARGO_INFO_CHEMICALS]
+base = "Cemegau organig ac anorganig cyffredinol, a ymdrin â nhw fel hylif, nwy, swmp wedi'i orchuddio, powdr, neu fel nwyddau unigol."
+
+[CARGO_INFO_CHLORINE]
+base = "Cemeg diwydiannol, fel arfer a gludir yn griojenig fel nwy cywasgedig wedi'i hylifo."
+
+[CARGO_INFO_CLAY]
+base = "Clai cyffredinol, ar gyfer cynhyrchu deunyddiau adeiladu a defnyddiau diwydiannol eraill."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Cemegau, sebon, asiantau sgorio ac ati ar gyfer defnydd diwydiannol a domestig. Hylif yn bennaf, ond gall hefyd fod yn bowdr neu'n solet (megis tywod ar gyfer chwistrellu saethau)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Cynnyrch ochr o gynhyrchu coke, hylif trwchus sy'n llifo'n araf."
+
+[CARGO_INFO_COFFEE]
+base = "Darnau coffi crai neu rhostiwyd."
+
+[CARGO_INFO_COKE]
+base = "Glo sydd wedi'i gynhesu mewn ffwrn coke, gan gynhyrchu tanwydd sydd bron yn garbon pur."
+
+[CARGO_INFO_COMPONENTS]
+base = "Cymwyseddau peirianneg gwerth uchel fel offer trydanol, motorau, trawsffurfiannau, offer rheoli, hidraulig, niwmatig, pwmpiau, falfiau ac offer pŵer-trafn."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Cynhyrchion gwaledig megis blociau, trawstiau a phaneli. Gellir hefyd eu trin fel concrit parod mewn traciau cymysgu."
+
+[CARGO_INFO_COPPER]
+base = "Metel Coper pur, mewn coiliau, ingotiau ac ati."
+
+[CARGO_INFO_DIAMONDS]
+base = "Ydyn am byth, ac ati"
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Olew ar gyfer coginio a defnyddio."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Cymponentau trydanol ac electronig, motorau, rheolwyr, offer newid, golau ac ati."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Peiriannau, tanwydd, rhannau, cynhyrchion pren, pibellau, ffrwydron ac offer eraill ar gyfer minau a diwydiannau tebyg."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Arfod sifil ar gyfer mwyngloddio, adeiladu ac ati."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Peiriannau, tanwydd, rhannau, gwrtaith ac offer eraill ar gyfer ffermydd, coedwigoedd a diwydiannau tebyg."
+
+[CARGO_INFO_FERROALLOYS]
+base = "Wedi'i ddefnyddio wrth gynhyrchu dur. Aloiaid o haearn ac elfennau eraill gan gynnwys manganês, nicel, cromiwm, alwminiwm, silicon a tungsten. Cnau llwyd, tebyg i gnau glo o ran maint a siâp."
+
+[CARGO_INFO_FERROCHROME]
+base = "Wedi'i ddefnyddio wrth gynhyrchu aloi a dur di-stain, sef aloi o cromiwm a haearn. Cnau llwyd, tebyg i gnau glo o ran maint a siâp."
+
+[CARGO_INFO_FLOUR]
+base = "Cynhyrchion cereal powdri megis powdr a stârch, a gludir mewn bagiau neu mewn swmp gorchuddiedig."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Cymwysiadau metel ar gyfer eu cynysgu yn eitemau mwy."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Cynhwysion a ddefnyddir mewn prosesu bwyd, megis cadwlydion, blasau, lliwion a chymorthwyr prosesu."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Bwydydd a gynhelir yn rewi wrth gludo a storio."
+
+[CARGO_INFO_FRUITS]
+base = "Ffrwyth ffres a sych, megis bananau, citrus, gwininau, beri, pinafal, rhaisin a phethau tebyg."
+
+[CARGO_INFO_GRAIN]
+base = "Wheatt, barli ac ati."
+
+[CARGO_INFO_HARDWARE]
+base = "Ar gyfer defnydd cartref a chynllunio. Offer, offerynnau, ategolion, ffitiadau, mewn metel a deunyddiau eraill."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Deunyddiau carbon arbennig fel cocs petroliwm calcinedig, pitch, tars gwerth uchel a charbon du, a ddefnyddir mewn prosesau metalegol a gemegol."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Nwyon diwydiannol a ddefnyddir mewn prosesu cemegol, gweithio metel a weldio, a gludir mewn silindrau neu draciau pwysedd."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Drwmiau, winciau, cadwyni, crochau, plywiau, ramiau hidrwydd a rhannau eraill ar gyfer crannau, codwyr, lifftiau ac ati."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Ffractiynau petroliwm ysgafn a ddefnyddir fel deunyddiau crai cemegol, a gludir fel hylifau mewn swm mawr."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Bwyta gwartheg, moch a defaid yn bennaf ar gyfer cynhyrchu cig. Gellir bwyta anifeiliaid eraill hefyd."
+
+[CARGO_INFO_LYE]
+base = "Cemeg diwydiannol. Hefyd yn cael ei adnabod fel Lye neu Sôda Caustig. Fel arfer a gludir fel hylif."
+
+[CARGO_INFO_KAOLIN]
+base = "Mineral diwydiannol, a elwir hefyd yn Kaolin, a ddefnyddir yn bennaf mewn cynhyrchu papur a phlastigau."
+
+[CARGO_INFO_MANGANESE]
+base = "Oer manganês, a ddefnyddir yn bennaf wrth gynhyrchu dur."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Peiriannau, rhannau, tanwydd, deunyddiau adeiladu ac offer eraill ar gyfer porthladdoedd, doeddau a diwydiannau tebyg."
+
+[CARGO_INFO_METAL]
+base = "Metel cyffredinol, megis dur, alwminiwm neu fetelau cyffredin eraill."
+
+[CARGO_INFO_METHANOL]
+base = "Alcohol diwydiannol a ddefnyddir fel deunydd crai cemegol ac ynni, a gludir fel hylif mowld."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Cynhyrchion siwgr canolraddol ar gyfer purio, ffermiantu a defnydd diwydiannol. Ymdrinnir â gronynnau gludiog fel math llawn wedi'i orchuddio; siwgr trwchus fel hylif; gellir pecynnu'r ddau."
+
+[CARGO_INFO_NITROGEN]
+base = "Nwy diwydiannol. A gludir yn griojenig fel nwy cywasgedig wedi'i hylifo."
+
+[CARGO_INFO_OIL]
+base = "Petrol crai, heb ei ffinio, a gludir fel hylif mowld."
+
+[CARGO_INFO_OXYGEN]
+base = "Nwy diwydiannol. A gludir yn griojenig fel nwy cywasgedig wedi'i hylifo."
+
+[CARGO_INFO_PACKAGING]
+base = "Blychau, bottlau, jariau, canau, ac ati."
+
+[CARGO_INFO_PEAT]
+base = "Biomas o fwydion peat, wedi'i echdynnu ar gyfer tanwydd a harddwriaeth."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Cynhyrchion petroliwm pur fel petrol, disel, kerosin, LPG, olew tanwydd a thanwydd bunkr, a gludir fel hylifau mas neu nwy wedi'i hylifo."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Asid diwydiannol a ddefnyddir yn bennaf mewn gwnnau a chynhyrchu cemegau, a gludir fel hylif mowld."
+
+[CARGO_INFO_PIG_IRON]
+base = "Haearn sylfaenol o ffwrnys ffrwydro, fel hylif wedi'i lewedu neu ingots cyfoethog."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Cotwm, llin, jût a deunyddiau tebyg, ar gyfer cynhyrchu testail a deunyddiau cyfansawdd."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Offer pwerus a systemau mecanyddol a ddefnyddir mewn adeiladau, diwydiannau a ffermydd. A thransportir fel unedau cyflawn neu fel is-gynulliadau mawr."
+
+[CARGO_INFO_PETROL]
+base = "Petrol, disel a chynhyrchion tanwydd tebyg."
+
+[CARGO_INFO_PLASTICS]
+base = "Plastig amrwd ar gyfer prosesu pellach. Fel arfer, cludir fel beidiau resin."
+
+[CARGO_INFO_PIPEWORK]
+base = "Tanciau storio, cwpanau pwysau, silos, silindrau nwy, ac asaniadau pibau, ar gyfer defnydd mewn adeiladau trefol, diwydiant a ffermydd."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Cemegau diwydiannol a ddefnyddir mewn gweithgynhyrchu a phrosesu, a gludir fel hylifau, powdriau, nwyon neu nwyddau pecynnuedig."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Mineralau sulfid, wedi'u toddi i gynhyrchu amrywiaeth o gynhyrchion diwydiannol."
+
+[CARGO_INFO_QUICKLIME]
+base = "Ocsid Calsiwm, a elwir hefyd yn liam wedi'i losgi. Cludir fel powdr mân sydd angen ei gadw yn sych."
+
+[CARGO_INFO_REBAR]
+base = "Barau dur tenau, garw a ddefnyddir yn eang i gryfhau strwythurau concrit. Cludir fel rholiau neu fwlchau o farau syth."
+
+[CARGO_INFO_RUBBER]
+base = "Latex naturiol yn bennaf."
+
+[CARGO_INFO_SALT]
+base = "Cemeg ddiwydiannol a ddefnyddir yn eang. Fel arfer yn cael ei cludo fel llwyth cyfryw sydd angen ei gadw yn sych."
+
+[CARGO_INFO_SAND]
+base = "Tywod bras ar gyfer adeiladu, neu dywod silica mân ar gyfer gwneud gwydr a chastio metel. A gludo fel llwyth neu bowdr."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Siglâdau hyblyg, gasketiau, hosau, beltau, matiau, bushingau, ac ati, a wneir o rwber neu ddeunyddiau tebyg."
+
+[CARGO_INFO_SLAG]
+base = "Cynnyrch gwastraff o gynhyrchu haearn a dur."
+
+[CARGO_INFO_SODA_ASH]
+base = "Cemeg diwydiannol. Ar ffurf powdr gwyn."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Castaiddau dur lled-orffen. Rechtegol, sgwâr neu gylchol yn y trawstoriad."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Casta dur crai, sydd angen mwy o brosesu. Gall ingotiau fod yn fach neu'n fawr iawn. Mae proffiliau ingot nodweddiadol yn rectangol neu'n crwn."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Barau dur, fel cronynnau, sgwâr, gwastad a phroffiliau eraill. A thrwsiedig fel cynhyrchion hir syth."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Pibellau dur crwn hir ar gyfer cludo hylifau mewn pibellau, adeiladau, diwydiannau ac ati."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Plâtiau a rhannau dur rholiedig - trawstiau I, trawstiau H, sianeli ac ati. A gludir fel cynhyrchion hir syth."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Dalen a stribed dur tenau wedi'u rholio, a ddefnyddir yn eang i wneud cynhyrchion eraill. Cludir fel dalennau gwastad neu fel rholiau."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Castaiddau dur lled-orffen. Yn wastad ac yn rechtegol bob amser yn y trawstoriad."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Tŵb hir gwag mewn siapiau crwn, pethegol a thrawstoriadau eraill. Defnyddir i wneud strwythurau a pheiriannau."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Gwifren dur a rhodau tenau. A thrwsiedig yn bennaf fel cylchoedd."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Rhesymau a chabliau a gynhyrchir drwy dynnu rod gwifren dur i ddiamedr llai, ac yna eu troi yn resymau clymbedig."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Dur gradd strwythurol fel adranau rholiedig (beamiau I, beamiau H ac ati), neu fel plat gwastad, neu fel adranau a beamiau gweithrededig a welaiddwyd o blat."
+
+[CARGO_INFO_SULPHUR]
+base = "Cemeg ddiwydiannol a ddefnyddir yn eang. Melyn llachar, mewn siâp powdr neu hylifol."
+
+[CARGO_INFO_TIMBER]
+base = "Cynhyrchion pren wedi'u prosesu o siop sawl neu ddiwydiannau tebyg."
+
+[CARGO_INFO_TIN]
+base = "Ingots."
+
+[CARGO_INFO_TINPLATE]
+base = "Dalen dur denau wedi'i chladdu â thin ar gyfer gwrthsefyll cyrydiad, a ddefnyddir yn bennaf ar gyfer cans, cynhwysyddion a phacio eraill."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Gwifren fain a ddefnyddir i gryfhau teiars. A gludir fel coil."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Cabs, bonnets, drysau a strwythurau corff tebyg ar gyfer cynhyrchu cerbydau."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Injinau llosgi mewnol a rhannau pŵer cysylltiedig megis trawsyrru ac echelinau gyriant."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Cymwysau ar gyfer cynhyrchu cerbydau, megis cymwysau chassis a chalwydd, rhannau trydanol, addurn allanol a rhannau mewnol."
+
+[CARGO_INFO_VEHICLES]
+base = "Traciau yn bennaf. Neu geir. Neu draciau ysgafn. Efallai tractoriaid."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Cyflenwadau ar gyfer torri a gweldio metel, megis rodiau gweldio, offer, a nwyon diwydiannol gan gynnwys asetilen, argon, propan, ocsigen a nitrogen."
+
+[CARGO_INFO_WOOD]
+base = "Logiau o goedwig."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Ffrwd pren wedi'i phrosesu a ddefnyddir yn bennaf ar gyfer cynhyrchu papur, a thransportir fel baleau neu fwlch pulp."
+
+[CARGO_INFO_WOOL]
+base = "Bailiau."
+
+[CARGO_INFO_ZINC]
+base = "Ingots."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"

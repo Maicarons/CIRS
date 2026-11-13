@@ -1,0 +1,1359 @@
+[GLOBAL_PRAGMA]
+grflangid = "0x2e"
+plural = "0"
+
+[STR_GRF_NAME]
+# only translate the CIRS name if it's strictly necessary for the language
+base = "CIRS Community-Industri-Ersättningspaket"
+
+[STR_GRF_DESC]
+base = "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En community-underhållen fork av FIRS, ursprungligen skapad av andythenorth, FooBar, planetmaker, Terkhen och Yexo, med hjälp från många andra. {SILVER}Se webbplatsen för mer information, inklusive hur man använder CIRS. {BLACK}Licens: GPL v2."
+
+[STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maximalt avstånd mellan fångstområden, oljeriggar och mudderverk, och kusten, i antal rutor."
+
+[STR_PARAM_DESC_ECONOMIES]
+base = "Varje ekonomi har egen kombination av godstyper och industrier.{}{}För spelare som vill ha en mer okomplicerad spelupplevelse innehåller {SILVER}bas{BLACK}-ekonomierna färre industrier och godstyper än andra CIRS-ekonomier.{}{}Detaljerad information om varje ekonomityp finns på CIRS hemsida."
+
+[STR_PARAM_NAME_COAST_DISTANCE_MARINE_INDUSTRY]
+base = "Maximalt avstånd mellan kusten och marina industrier, i antal rutor"
+
+[STR_PARAM_NAME_ECONOMIES]
+base = "Ekonomi"
+
+[STR_PARAM_VALUE_SECONDARY_NEVER_CLOSE_0]
+base = "Ingen begränsning"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_REQUIREMENT]
+base = "Antal lådor som krävs för förhöjd primär produktion (standard är 16)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_REQUIREMENT]
+base = "Antal lådor som krävs för Gung-ho primär produktion (standard är 80)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_REQUIREMENT]
+base = "När lådor med materiel levereras till bondgårdar, gruvor och liknande industrier, kommer produktionen först att ändras till {SILVER}Förhöjd (dubbel){BLACK} och sedan till {SILVER}Gung-ho{BLACK} ifall det levereras tillräckligt med lådor.{}{}Standardvärdet är bra men du kan ändra det här ifall behov skulle uppstå.{}{}Behovet av antal lådor som fraktas till hamnliknande industrier kommer att bli 8x högre och det värdet kan ändras här."
+
+[STR_PARAM_NAME_PRIMARY_LEVEL1_BONUS]
+base = "Förhöjd primär produktionsnivå (%)"
+
+[STR_PARAM_NAME_PRIMARY_LEVEL2_BONUS]
+base = "Gung-ho primär produktionsnivå (%)"
+
+[STR_PARAM_DESC_PRIMARY_LEVEL_BONUS]
+base = "Produktion på bondgårdar, gruvor och liknande industrier när leveranskraven är uppnådda (i procent av {SILVER}Normal {BLACK} produktionsnivå)."
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TEMPERATE]
+base = "Tempererad bas-ekonomi"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_ARCTIC]
+base = "Arktisk bas-ekonomi"
+
+[STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
+base = "Tropisk bas-ekonomi"
+
+[STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
+base = "I ett varmare land"
+
+[STR_PARAM_VALUE_ECONOMIES_MILD_MILD_WEST]
+base = "Mild Mild West"
+
+[STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
+base = "Stålstaden"
+
+[STR_PARAM_NAME_OBJECTS]
+base = "CIRS landskapsobjekt"
+
+[STR_PARAM_DESC_OBJECTS]
+base = "CIRS inkluderar en uppsättning landskapsobjekt som spelare kan placera för att få vissa industrier att se större ut. Landskapsobjekt har ingen effekt på spelandet. Landskapsobjekt kan slås på eller av."
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_OPTIONAL_FLAG]
+base = " {BLACK}(valfritt)"
+
+[STR_CARGO_SUBTYPE_DISPLAY_CARGO_SUPPLIED_FLAG]
+base = "{BLACK}(mottagen)"
+
+[STR_EXTRA_TEXT_SECONDARY_NON_COMBINATORY]
+base = "{BLACK}Producerar maximalt när {WHITE}någon {BLACK} erforderlig last levereras."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_BOTH]
+base = "{BLACK}För maximal produktionshastighet, leverera {WHITE}båda de {BLACK}krävda lasterna minst en gång var tredje minut."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ALL]
+base = "{BLACK}För maximal produktionshastighet, leverera {WHITE}alla {BLACK}krävda laster minst en gång var tredje minut."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_TWO]
+base = "{BLACK}För maximal produktionshastighet, leverera {WHITE}minst två {BLACK}krävda laster minst en gång var tredje minut."
+
+[STR_EXTRA_TEXT_SECONDARY_COMBINATORY_ANY_THREE]
+base = "{BLACK}För maximal produktionshastighet, leverera {WHITE}minst tre {BLACK}krävda laster minst en gång var tredje minut."
+
+[STR_EXTRA_TEXT_TOWN_PRODUCER]
+base = "{BLACK}Produktionen är proportionell mot stadens befolkning. Minst {WHITE}{SIGNED_WORD} enheter{BLACK} och högst {WHITE}{SIGNED_WORD} enheter{BLACK} av last kommer att produceras varje minut."
+
+[STR_PRIMARY_PRODUCTION_1X]
+base = "{BLACK}Nuvarande produktion: {YELLOW}Normal{}{}{BLACK}Leverera {SIGNED_WORD} lådor med materiel inom tre månader för {WHITE}Förhöjd{BLACK} produktion{}Leverera  {SIGNED_WORD} lådor för {WHITE}Gung-ho {BLACK}produktion."
+
+[STR_PRIMARY_PRODUCTION_2X]
+base = "{BLACK}Nuvarande produktion: {YELLOW}Förhöjd{}{}{BLACK}Leverera {SIGNED_WORD} lådor med materiel inom tre månader för att behålla den här nivån{}Leverera {SIGNED_WORD}  lådor för {WHITE}Gung-ho {BLACK}produktion."
+
+[STR_PRIMARY_PRODUCTION_4X]
+base = "{BLACK}Nuvarande produktion: {YELLOW}Gung-ho{}{}{BLACK}Leverera {SKIP}{SIGNED_WORD} lådor med materiel inom tre månader för att behålla den här nivån."
+
+[STR_PORT_PRODUCTION_1X]
+base = "{BLACK}Nuvarande produktion: {YELLOW}Normal{}{}{BLACK}Leverera {SIGNED_WORD} enheter med last inom tre månader för {WHITE}Förhöjd{BLACK} produktion{}Leverera {SIGNED_WORD} enheter för {WHITE}Gung-ho {BLACK}produktion."
+
+[STR_PORT_PRODUCTION_2X]
+base = "{BLACK}Nuvarande produktion: {YELLOW}Förhöjd{}{}{BLACK}Leverera {SIGNED_WORD} enheter med last inom tre månader för att behålla den här nivån.{}Leverera {SIGNED_WORD} enheter för {WHITE}Gung-ho {BLACK}produktion."
+
+[STR_PORT_PRODUCTION_4X]
+base = "{BLACK}Nuvarande produktion: {YELLOW}Gung-ho{}{}{BLACK}Leverera {SKIP}{SIGNED_WORD} enheter last inom tre månader för att behålla den här nivån."
+
+[STR_ERR_OPENTTD_VERSION]
+base = "{ORANGE}E00: CIRS kräver OpenTTD 1.7.0 (eller för de som använder trunk-byggen, r27769)"
+
+[STR_ERR_INCOMPATIBLE_SET]
+base = "{ORANGE}E01: {YELLOW}Inkompatibelt set: {ORANGE}{STRING}"
+
+[STR_ERR_INCOMPATIBLE_PARAM_CANSET]
+base = "{ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}CanSet-parameter 2 måste vara 0 för att fungera med CIRS."
+
+[STR_ERR_INCOMPATIBLE_PARAM_CITYSET]
+base = "{ORANGE}E02: {YELLOW}Inkompatibel parameter: {ORANGE}NA City Set-parameter 2 måste vara 0 för att fungera med CIRS."
+
+[STR_ERR_INCOMPATIBLE_SET_TTRS_VERSION]
+base = "{ORANGE}E04: {YELLOW}Inkompatibel version: {ORANGE}Total Town Replacement Set måste vara version 3.11 eller nyare."
+
+[STR_ERR_LOCATION_NOT_ABOVE_SNOWLINE]
+base = "måste placeras nedanför snögränsen."
+
+# unused
+#[STR_ERR_LOCATION_NOT_ON_WATER]
+#base = "must be placed on dry land."
+
+# unused
+#[STR_ERR_LOCATION_NOT_IN_DESERT]
+#base = "must not be placed in the desert."
+
+[STR_ERR_LOCATION_NOT_ON_STEEP_SLOPE]
+base = "kan inte placeras på branta sluttningar."
+
+# unused
+#[STR_ERR_LOCATION_LIMIT_1_PER_TOWN]
+#base = "only one industry of this type allowed per town."
+
+[STR_FUND_ARABLE_FARM]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas på snö eller i öknar."
+
+[STR_FUND_COFFEE_ESTATE]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas på snö eller i öknar."
+
+[STR_FUND_DAIRY_FARM]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas på snö eller i öknar."
+
+[STR_FUND_FARM]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas på snö eller i öknar."
+
+[STR_FUND_FOREST]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas i öknar."
+
+[STR_FUND_FRUIT_PLANTATION]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas på snö."
+
+[STR_FUND_HERDING_COOP]
+base = "{}{BLACK}Placering: {YELLOW}Kan enbart byggas på snö."
+
+[STR_FUND_ORCHARD_PIGGERY]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas på snö eller i öknar."
+
+[STR_FUND_RUBBER_PLANTATION]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas på snö eller i öknar."
+
+[STR_FUND_VINEYARD]
+base = "{}{BLACK}Placering: {YELLOW}Kan inte byggas på snö eller i öknar."
+
+# unused
+#[STR_FUND_AVAILABLE_UNTIL]
+#base = "{}{BLACK}Not available after: {YELLOW}{COMMA}"
+
+[STR_TOWN]
+base = "{STRING}"
+
+# Cargos
+
+[STR_CARGO_ACID]
+name = "Syra"
+cargo_unit = "{VOLUME} av syra"
+cid = "{TINYFONT}SY"
+
+[STR_CARGO_AGGREGATES]
+name = "Aggregat"
+cargo_unit = "{WEIGHT} aggregat"
+cid = "{TINYFONT}AG"
+
+[STR_CARGO_ALUMINIUM]
+name = "Aluminium"
+cargo_unit = "{WEIGHT} aluminium"
+cid = "{TINYFONT}AM"
+
+[STR_CARGO_ALUMINA]
+name = "Alumina"
+cargo_unit = "{WEIGHT} aluminiumoxid"
+cid = "{TINYFONT}AA"
+
+[STR_CARGO_AMMONIA_AND_NITRIC_PRODUCTS]
+name = "Ammoniak- och salpetersyraprodukter"
+cargo_unit = "{VOLUME} av ammoniak- och salpetersyraprodukter"
+cid = "{TINYFONT}AO"
+
+[STR_CARGO_ANHYDRITE]
+name = "Anhydritberg"
+cargo_unit = "{WEIGHT} anhydritberg"
+cid = "{TINYFONT}AY"
+
+[STR_CARGO_APPLES]
+name = "Äpplen"
+cargo_unit = "{WEIGHT} äpplen"
+cid = "{TINYFONT}AP"
+
+[STR_CARGO_BEANS]
+name = "Bönor"
+cargo_unit = "{WEIGHT} bönor"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_BITUMEN]
+name = "Bitumen"
+cargo_unit = "{VOLUME} av bitumen"
+cid = "{TINYFONT}BI"
+
+[STR_CARGO_BUILDING_MATERIALS]
+name = "Byggmaterial"
+cargo_unit = "{WEIGHT} byggmaterial"
+cid = "{TINYFONT}BM"
+
+[STR_CARGO_CARBON_BLACK]
+name = "Kol svart"
+cargo_unit = "{WEIGHT} karbon svart"
+cid = "{TINYFONT}CB"
+
+[STR_CARGO_CASSAVA]
+name = "Kassava"
+cargo_unit = "{WEIGHT} kassava"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_CAST_IRON]
+name = "Gjutjärn"
+cargo_unit = "{WEIGHT} gjutjärn"
+cid = "{TINYFONT}CI"
+
+[STR_CARGO_CEMENT]
+name = "Cement"
+cargo_unit = "{WEIGHT} av cement"
+cid = "{TINYFONT}CE"
+
+[STR_CARGO_CHEMICAL_INTERMEDIATES]
+name = "Kemiska mellanprodukter"
+cargo_unit = "{VOLUME} av kemiska intermediärer"
+cid = "{TINYFONT}OC"
+
+[STR_CARGO_CHEMICALS]
+name = "Kemikalier"
+cargo_unit = "{VOLUME} kemikalier"
+cid = "{TINYFONT}KL"
+
+[STR_CARGO_CHLORINE]
+name = "Klorin"
+cargo_unit = "{VOLUME} av klorin"
+cid = "{TINYFONT}KL"
+
+[STR_CARGO_CLAY]
+name = "Lera"
+cargo_unit = "{WEIGHT} lera"
+cid = "{TINYFONT}LE"
+
+[STR_CARGO_CLEANING_AGENTS]
+name = "Rengöringsmedel"
+cargo_unit = "{WEIGHT} rengöringsmedel"
+cid = "{TINYFONT}CN"
+
+[STR_CARGO_COFFEE]
+name = "Kaffe"
+cargo_unit = "{WEIGHT} säck{P 0 \"\" s} med kaffe"
+cid = "{TINYFONT}KF"
+
+[STR_CARGO_COAL_TAR]
+name = "Kolteer"
+cargo_unit = "{VOLUME} av kolteri"
+cid = "{TINYFONT}CT"
+
+[STR_CARGO_COKE]
+name = "Koks"
+cargo_unit = "{WEIGHT} av koks"
+cid = "{TINYFONT}KK"
+
+[STR_CARGO_COMPONENTS]
+name = "Precisionskomponenter"
+cargo_unit = "{WEIGHT} precisionskomponenter"
+cid = "{TINYFONT}CO"
+
+[STR_CARGO_CONCRETE_PRODUCTS]
+name = "Betongprodukter"
+cargo_unit = "{WEIGHT} betongprodukter"
+cid = "{TINYFONT}CP"
+
+[STR_CARGO_COPPER]
+name = "Koppar"
+cargo_unit = "{WEIGHT} koppar"
+cid = "{TINYFONT}KR"
+
+[STR_CARGO_EDIBLE_OIL]
+name = "Matolja"
+cargo_unit = "{VOLUME} matolja"
+cid = "{TINYFONT}VO"
+
+[STR_CARGO_ELECTRICAL_PARTS]
+name = "Elektriska delar"
+cargo_unit = "{WEIGHT} elektriska delar"
+cid = "{TINYFONT}EP"
+
+[STR_CARGO_ENGINEERING_SUPPLIES]
+name = "Ingenjörsmateriel"
+cargo_unit = "{SIGNED_WORD} låd{P 0 a or} med ingenjörsmateriel"
+cid = "{TINYFONT}IM"
+
+[STR_CARGO_EXPLOSIVES]
+name = "Explosivämnen"
+cargo_unit = "{WEIGHT} sprängämnen"
+cid = "{TINYFONT}EX"
+
+[STR_CARGO_FERROALLOYS]
+name = "Ferrolegeringar"
+cargo_unit = "{WEIGHT} ferrolegeringar"
+cid = "{TINYFONT}FA"
+
+[STR_CARGO_FISH]
+name = "Fisk och skaldjur"
+cargo_unit = "{WEIGHT} fisk & skaldjur"
+cid = "{TINYFONT}FI"
+
+[STR_CARGO_FARM_SUPPLIES]
+name = "Lantbruksmateriel"
+cargo_unit = "{SIGNED_WORD} låd{P 0 a or} med lantbruksmateriel"
+cid = "{TINYFONT}LM"
+
+[STR_CARGO_FERTILISER]
+name = "Gödningsmedel"
+cargo_unit = "{WEIGHT} av gödning"
+cid = "{TINYFONT}GM"
+
+[STR_CARGO_FLOUR]
+name = "Mjöl & stärkelse"
+cargo_unit = "{WEIGHT} mjöl & stärkelse"
+cid = "{TINYFONT}GM"
+
+[STR_CARGO_FOOD_ADDITIVES]
+name = "Livsmedelstillsatser"
+cargo_unit = "{WEIGHT} livsmedelstillsatser"
+cid = "{TINYFONT}FRAX"
+
+[STR_CARGO_FOOD_AND_BEVERAGES]
+name = "Mat och dryck"
+cargo_unit = "{WEIGHT} mat & dryck"
+# MISSING: source node STR_CID_FOOD_AND_BEVERAGES
+
+[STR_CARGO_FORGINGS_AND_CASTINGS]
+name = "Smide & gjutning"
+cargo_unit = "{WEIGHT} smide & gjutgods"
+cid = "{TINYFONT}CIRS"
+
+[STR_CARGO_FROZEN_FOOD]
+name = "Fryst mat"
+cargo_unit = "{WEIGHT} fryst mat"
+# MISSING: source node STR_CID_FROZEN_FOOD
+
+[STR_CARGO_FRUITS]
+name = "Frukt"
+cargo_unit = "{WEIGHT} frukt"
+# MISSING: source node STR_CID_FRUITS
+
+[STR_CARGO_GLASS]
+name = "Glasprodukter"
+cargo_unit = "{WEIGHT} glasprodukter"
+cid = "{TINYFONT}GL"
+
+[STR_CARGO_HARDWARE]
+name = "Hårdvara och ytbehandlingar"
+cargo_unit = "{WEIGHT} beslag och ytbehandlingar"
+cid = "{TINYFONT}HW"
+
+[STR_CARGO_INDUSTRIAL_CARBONS]
+name = "Industriella kolprodukter"
+cargo_unit = "{WEIGHT} industriella kolprodukter"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_INDUSTRIAL_GASES]
+name = "Industriella gaser"
+cargo_unit = "{VOLUME} av industriella gaser"
+cid = "{TINYFONT}IG"
+
+[STR_CARGO_KAOLIN]
+name = "Kaolin"
+cargo_unit = "{WEIGHT} av kaolin"
+cid = "{TINYFONT}KA"
+
+[STR_CARGO_LIGHT_HYDROCARBONS]
+name = "Lätta kolväten"
+cargo_unit = "{VOLUME} av lätta kolväten"
+cid = "{TINYFONT}LH"
+
+[STR_CARGO_LIMESTONE]
+name = "Kalksten"
+cargo_unit = "{WEIGHT} av kalksten"
+cid = "{TINYFONT}KS"
+
+[STR_CARGO_LOGS]
+name = "Timmerstockar"
+cargo_unit = "{WEIGHT} stockar"
+cid = "{TINYFONT}LG"
+
+[STR_CARGO_LYE]
+name = "Natriumhydroxid"
+cargo_unit = "{VOLUME} of lut"
+cid = "{TINYFONT}LT"
+
+[STR_CARGO_METHANOL]
+name = "Metanol"
+cargo_unit = "{VOLUME} av metanol"
+cid = "{TINYFONT}ML"
+
+[STR_CARGO_MILK]
+name = "Mjölk"
+cargo_unit = "{VOLUME} mjölk"
+cid = "{TINYFONT}MK"
+
+[STR_CARGO_MANGANESE]
+name = "Mangan"
+cargo_unit = "{WEIGHT} mangan"
+cid = "{TINYFONT}MN"
+
+[STR_CARGO_MEAT]
+name = "Kött"
+cargo_unit = "{WEIGHT} kött"
+# MISSING: source node STR_CID_MEAT
+
+[STR_CARGO_BARYTES_AND_FLUORSPAR] # CABBAGE out of order
+name = "Baryt och fluorspat"
+cargo_unit = "{WEIGHT} baryt och fluorspat"
+cid = "{TINYFONT}MA"
+
+[STR_CARGO_MINERAL_FILLERS]
+name = "Mineralfyllnadsmedel"
+cargo_unit = "{WEIGHT} mineraliska fyllmedel"
+cid = "{TINYFONT}MF"
+
+[STR_CARGO_MOLASSES]
+name = "Råsocker & melass"
+cargo_unit = "{WEIGHT} av råsocker och melass"
+cid = "{TINYFONT}MO"
+
+[STR_CARGO_NITRATES]
+name = "Nitrat"
+cargo_unit = "{WEIGHT} nitrat"
+cid = "{TINYFONT}NI"
+
+[STR_CARGO_NITROGEN]
+name = "Kväve"
+cargo_unit = "{VOLUME} av kväve"
+cid = "{TINYFONT}N7"
+
+[STR_CARGO_NUTS]
+name = "Nötter"
+cargo_unit = "{WEIGHT} nötter"
+cid = "{TINYFONT}NT"
+
+[STR_CARGO_OXYGEN]
+name = "Syre"
+cargo_unit = "{VOLUME} av syre"
+cid = "{TINYFONT}O2"
+
+[STR_CARGO_PACKAGING]
+name = "Packetering"
+cargo_unit = "{WEIGHT} av förpackningar"
+cid = "{TINYFONT}PG"
+
+[STR_CARGO_PAINTS_AND_COATINGS]
+name = "Färger och beläggningar"
+cargo_unit = "{VOLUME} färg och beläggningar"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PEAT]
+name = "Torv"
+cargo_unit = "{WEIGHT} av torv"
+cid = "{TINYFONT}TV"
+
+[STR_CARGO_PETROLEUM_FUELS]
+name = "Bensin"
+cargo_unit = "{VOLUME} bensin"
+cid = "{TINYFONT}BN"
+
+[STR_CARGO_PIPEWORK]
+name = "Lagringstankar och rörledningar"
+cargo_unit = "{WEIGHT} av lagringstankar och rörledningar"
+cid = "{TINYFONT}PW"
+
+[STR_CARGO_PHOSPHATE]
+name = "Fosfat"
+cargo_unit = "{WEIGHT} fosfat"
+cid = "{TINYFONT}FF"
+
+[STR_CARGO_PHOSPHORIC_ACID]
+name = "Fosforsyra"
+cargo_unit = "{VOLUME} fosforsyra"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PIG_IRON]
+name = "Tackjärn"
+cargo_unit = "{WEIGHT} av tackjärn"
+cid = "{TINYFONT}TJ"
+
+[STR_CARGO_PLASTICS]
+name = "Plast och hartser"
+cargo_unit = "{WEIGHT} plaster och hartser"
+cid = "{TINYFONT}PL"
+
+[STR_CARGO_PLANT_AND_MACHINERY]
+name = "Anläggningar och maskiner"
+cargo_unit = "{WEIGHT} anläggningar och maskiner"
+cid = "{TINYFONT}PM"
+
+[STR_CARGO_POTASH]
+name = "Pottaska"
+cargo_unit = "{WEIGHT} av pottaska"
+cid = "{TINYFONT}PA"
+
+[STR_CARGO_PROCESS_CHEMICALS]
+name = "Processkemikalier"
+cargo_unit = "{WEIGHT} av processkemikalier"
+cid = "{TINYFONT}PC"
+
+[STR_CARGO_PUMPS_AND_VALVES]
+name = "Pumpar & ventiler"
+cargo_unit = "{WEIGHT} av pumpar och ventiler"
+cid = "{TINYFONT}PV"
+
+[STR_CARGO_PYRITE_ORE]
+name = "Pyritmalm"
+cargo_unit = "{WEIGHT} pyritmalm"
+cid = "{TINYFONT}PY"
+
+[STR_CARGO_QUICKLIME]
+name = "Osläckt kalk"
+cargo_unit = "{WEIGHT} av osläckt kalk"
+cid = "{TINYFONT}OL"
+
+[STR_CARGO_REBAR]
+name = "Armeringsjärn"
+cargo_unit = "{WEIGHT} av armeringsjärn"
+cid = "{TINYFONT}RB"
+
+[STR_CARGO_SALT]
+name = "Salt"
+cargo_unit = "{WEIGHT} av salt"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SAND]
+name = "Sand"
+cargo_unit = "{WEIGHT} sand"
+cid = "{TINYFONT}SA"
+
+[STR_CARGO_SCRAP_METAL]
+name = "Metallskrot"
+cargo_unit = "{WEIGHT} metallskrot"
+cid = "{TINYFONT}MS"
+
+[STR_CARGO_SEALS_HOSES_AND_BELTS]
+name = "Tätningar, slangar och remmar"
+cargo_unit = "{WEIGHT} av tätningar, slangar och remmar"
+cid = "{TINYFONT}EL"
+
+[STR_CARGO_SLAG]
+name = "Slagg"
+cargo_unit = "{WEIGHT} av slagg"
+cid = "{TINYFONT}SG"
+
+[STR_CARGO_SODA_ASH]
+name = "Natriumkarbonat"
+cargo_unit = "{WEIGHT} av natriumkarbonat"
+cid = "{TINYFONT}NK"
+
+[STR_CARGO_STEEL]
+name = "Stål"
+cargo_unit = "{WEIGHT} av stål"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_BILLETS_AND_BLOOMS]
+name = "Billetter och blommor"
+cargo_unit = "{WEIGHT} gjutblock och blommor"
+cid = "{TINYFONT}BB"
+
+[STR_CARGO_STEEL_INGOTS]
+name = "Stålingotar"
+cargo_unit = "{WEIGHT} av stålingotar"
+cid = "{TINYFONT}SI"
+
+[STR_CARGO_STEEL_MERCHANT_BAR]
+name = "Handelsbar"
+cargo_unit = "{WEIGHT} kommersiellt järn"
+cid = "{TINYFONT}SB"
+
+[STR_CARGO_STEEL_PIPE]
+name = "Stålrör"
+cargo_unit = "{WEIGHT} av stålrör"
+cid = "{TINYFONT}SP"
+
+[STR_CARGO_STEEL_PLATE]
+name = "Stålplåt"
+cargo_unit = "{WEIGHT} av stålplåt"
+cid = "{TINYFONT}SE"
+
+[STR_CARGO_STEEL_SHEET]
+name = "Stålskiva och -remsa"
+cargo_unit = "{WEIGHT} av stålark och -band"
+cid = "{TINYFONT}SH"
+
+[STR_CARGO_STEEL_SLAB]
+name = "Stålslabb"
+cargo_unit = "{WEIGHT} av stålblock"
+cid = "{TINYFONT}SL"
+
+[STR_CARGO_STEEL_TUBE]
+name = "Stålrör"
+cargo_unit = "{WEIGHT} av stålrör"
+cid = "{TINYFONT}ST"
+
+[STR_CARGO_STEEL_WIRE_ROD]
+name = "Ståltråd"
+cargo_unit = "{WEIGHT} av ståltråd"
+cid = "{TINYFONT}SW"
+
+[STR_CARGO_STRUCTURAL_STEELWORK]
+name = "Konstruktionsstål"
+cargo_unit = "{WEIGHT} av konstruktionsstål"
+cid = "{TINYFONT}STSW"
+
+[STR_CARGO_SULPHUR]
+name = "Sulfat"
+cargo_unit = "{WEIGHT} av sulfat"
+cid = "{TINYFONT}SF"
+
+[STR_CARGO_SULPHURIC_ACID]
+name = "Svavelsyra"
+cargo_unit = "{VOLUME} svavelsyra"
+cid = "{TINYFONT}SD"
+
+[STR_CARGO_TIMBER]
+name = "Trävaruprodukter"
+cargo_unit = "{WEIGHT} av träprodukter"
+cid = "{TINYFONT}VI"
+
+[STR_CARGO_TIN]
+name = "Tenn"
+cargo_unit = "{WEIGHT} av tenn"
+cid = "{TINYFONT}TI"
+
+[STR_CARGO_TINPLATE]
+name = "Tennplåt"
+cargo_unit = "{WEIGHT} av tennplåt"
+cid = "{TINYFONT}TP"
+
+[STR_CARGO_TYRE_CORD]
+name = "Däckkärva"
+cargo_unit = "{WEIGHT} av däckkord"
+cid = "{TINYFONT}TC"
+
+[STR_CARGO_TYRES]
+name = "Däck"
+cargo_unit = "{WEIGHT} av däck"
+cid = "{TINYFONT}TY"
+
+[STR_CARGO_VEGETABLES]
+name = "Grönsaker"
+cargo_unit = "{WEIGHT} av grönsaker"
+cid = "{TINYFONT}VG"
+
+[STR_CARGO_VEHICLE_BODIES]
+name = "Karosser"
+cargo_unit = "{WEIGHT} av karosser"
+cid = "{TINYFONT}KR"
+
+[STR_CARGO_VEHICLE_ENGINES]
+name = "Motorer och drivlina"
+cargo_unit = "{WEIGHT} motorer & drivlinor"
+cid = "{TINYFONT}VE"
+
+[STR_CARGO_VEHICLE_PARTS]
+name = "Fordonsdelar"
+cargo_unit = "{WEIGHT} av fordonsdelar"
+cid = "{TINYFONT}FD"
+
+[STR_CARGO_VEHICLES]
+name = "Fordon"
+cargo_unit = "{WEIGHT} av fordon"
+cid = "{TINYFONT}FN"
+
+[STR_CARGO_WELDING_CONSUMABLES]
+name = "Svetsförbrukningsmaterial"
+cargo_unit = "{WEIGHT} av svetsförbrukningsmaterial"
+cid = "{TINYFONT}WS"
+
+[STR_CARGO_WOOD_PULP]
+name = "Trämassa"
+cargo_unit = "{WEIGHT} av trämassa"
+cid = "{TINYFONT}WP"
+
+[STR_CARGO_WOOL]
+name = "Ull"
+cargo_unit = "{SIGNED_WORD} bal{P 0 \"\" ar} med ull"
+cid = "{TINYFONT}UL"
+
+[STR_CARGO_ZINC]
+name = "Zink"
+cargo_unit = "{WEIGHT} av zink"
+cid = "{TINYFONT}ZN"
+
+[STR_CARGO_ZINC_ORE]
+name = "Zinkmalm"
+cargo_unit = "{WEIGHT} av zinkmalm"
+cid = "{TINYFONT}ZO"
+
+[STR_CARGO_GOODS]
+# MISSING: source node STR_CARGO_NAME_GOODS
+cargo_unit = "{WEIGHT} varor"
+# MISSING: source node STR_CID_GOODS
+
+# Industries
+
+[STR_IND_ALUMINIUM_PLANT]
+base = "Aluminiumverk"
+
+[STR_IND_AMMONIA_AND_NITRIC_PRODUCTS_PLANT]
+base = "Ammoniakkomplex"
+
+[STR_IND_ANHYDRITE_MINE]
+base = "Anhydritgruva"
+
+[STR_IND_ANHYDRITE_PROCESS_PLANT]
+base = "Anhydritprocessanläggning"
+
+[STR_IND_APPLIANCE_FACTORY]
+base = "Apparatfabrik"
+
+[STR_IND_ARABLE_FARM]
+base = "Jordbruk"
+
+[STR_IND_ASSEMBLY_PLANT]
+base = "Fordonsfabrik"
+
+[STR_IND_SECTION_AND_BAR_MILL]
+base = "Sektion- och stångvalsverk"
+
+[STR_IND_BASIC_OXYGEN_FURNACE]
+base = "Enkel syrgasugn"
+
+[STR_IND_BLAST_FURNACE]
+base = "Smältugn"
+
+[STR_IND_CHIPBOARD_FACTORY]
+base = "Spånskivfabrik"
+
+[STR_IND_BODY_PLANT]
+base = "Karosskomponenter"
+
+[STR_IND_BREWERY]
+base = "Bryggeri"
+
+[STR_IND_CIDER_MILL]
+base = "Musteri"
+
+# unused
+#[STR_IND_BRICK_WORKS]
+#base = "Brick Works"
+
+[STR_IND_BUILDERS_YARD]
+base = "Byggplats" # CABBAGE
+
+[STR_IND_CARBON_BLACK_PLANT]
+base = "Kol svart-fabrik"
+
+[STR_IND_CELLULOSE_PRODUCTS_WORKS]
+base = "Cellulosfilmfabrik"
+
+[STR_IND_CEMENT_PLANT]
+base = "Cementfabrik"
+
+[STR_IND_CHEMICAL_COMPLEX]
+base = "Kemiskt komplex"
+
+[STR_IND_EXPLOSIVES_FACTORY]
+base = "Sprängämnesfabrik"
+
+[STR_IND_CHLOR_ALKALI_PLANT]
+base = "Kloralkalifabrik"
+
+# unused
+#[STR_IND_CHROMITE_MINE]
+#base = "Chromite Mine"
+
+[STR_IND_CLAY_PIT]
+base = "Lertäkt"
+
+[STR_IND_COFFEE_ESTATE]
+base = "Kaffeplantage"
+
+[STR_IND_COKE_OVEN]
+base = "Koksugn"
+
+[STR_IND_CONCRETE_PLANT]
+base = "Betongverk"
+
+# unused
+#[STR_IND_COPPER_CONCENTRATOR]
+#base = "Copper Concentrator"
+
+[STR_IND_CONSUMER_CHEMICALS_PLANT]
+base = "Batchkemisk fabrik"
+
+[STR_IND_COPPER_SMELTER]
+base = "Kopparraffinaderi"
+
+[STR_IND_CRYO_PLANT]
+base = "Kryoplanter"
+
+[STR_IND_DAIRY]
+base = "Mejeri"
+
+[STR_IND_DAIRY_FARM]
+base = "Mjölkgård"
+
+[STR_IND_DREDGING_SITE]
+base = "Mudderverk"
+
+[STR_IND_ELASTOMER_PRODUCTS_PLANT]
+base = "Fabrik för elastomerprodukter"
+
+[STR_IND_ELECTRIC_ARC_FURNACE]
+base = "Ljusbågesmältverk"
+
+[STR_IND_ENGINE_PLANT]
+base = "Motorfabrik"
+
+[STR_IND_ENGINEERING_WORKS]
+base = "Ingenjörsverkstad"
+
+[STR_IND_FARM]
+base = "Gård"
+
+# unused
+#[STR_IND_FERROCHROME_SMELTER]
+#base = "Ferrochrome Smelter"
+
+[STR_IND_PROCESS_CHEMICALS_PLANT]
+base = "Fabrik för processkemikalier"
+
+[STR_IND_FERMENTATION_PLANT]
+base = "Jäsningsanläggning"
+
+[STR_IND_FISH_FARM]
+base = "Fiskodling"
+
+[STR_IND_FISHING_GROUND]
+base = "Fångstområde"
+
+[STR_IND_FISHING_HARBOUR]
+base = "Fiskehamn"
+
+[STR_IND_GRAIN_MILL]
+base = "Kornkvarn"
+
+[STR_IND_FOOD_PROCESSOR]
+base = "Livsmedelstillverkningsfabrik"
+
+[STR_IND_FORGE_AND_FOUNDRY]
+base = "Stålsmedja och gjuteri"
+
+[STR_IND_FROZEN_FOOD_PLANT]
+base = "Fabrik för fryst mat"
+
+[STR_IND_FURNITURE_FACTORY]
+base = "Möbelfabrik"
+
+[STR_IND_GENERAL_STORE]
+base = "Affär"
+
+[STR_IND_GLASS_WORKS]
+base = "Glasbruk"
+
+[STR_IND_HERDING_COOP]
+base = "Vallningsfålla"
+
+[STR_IND_HOTEL]
+base = "Hotell"
+
+[STR_IND_FROZEN_DESSERTS_FACTORY]
+base = "Fabrik för frysta desserter"
+
+[STR_IND_INTEGRATED_STEEL_MILL]
+base = "Stålfabrik"
+
+[STR_IND_SCRAP_YARD]
+base = "Skrotupplag"
+
+# unused
+#[STR_IND_LATEX_PROCESSOR]
+#base = "Latex Processor"
+
+[STR_IND_LIME_KILN]
+base = "Kalkbruk"
+
+[STR_IND_LIMESTONE_MINE]
+base = "Kalkstensgruva"
+
+[STR_IND_MANGANESE_MINE]
+base = "Mangangruva"
+
+[STR_IND_METAL_WORKS]
+base = "Metallverkstad"
+
+[STR_IND_MINERAL_FILLERS_PLANT]
+base = "Anläggning för mineralfyllnadsmedel"
+
+[STR_IND_NITRATE_MINE]
+base = "Nitratgruva"
+
+[STR_IND_INDUSTRIAL_CHEMICALS_PLANT]
+base = "Anläggning för industriella kemikalier"
+
+# unused
+#[STR_IND_NUCLEAR_FUEL_COMPLEX]
+#base = "Nuclear Fuel Complex"
+
+# unused
+#[STR_IND_NUCLEAR_POWER_PLANT]
+#base = "Nuclear Power Plant"
+
+[STR_IND_OIL_TERMINAL]
+base = "Olje- och kemiterminal"
+
+[STR_IND_ORCHARD_PIGGERY]
+base = "Fruktträdgård och svinfarm"
+
+[STR_IND_BOTTLE_AND_CAN_FACTORY]
+base = "Flaska- och burkfabrik"
+
+[STR_IND_PAPER_PRODUCTS_FACTORY]
+base = "Fabrik för pappersprodukter"
+
+[STR_IND_PEATLANDS]
+base = "Torvmark"
+
+[STR_IND_PETROLPUMP]
+base = "Bensinstation"
+
+[STR_IND_PHOSPHATE_MINE]
+base = "Fosfatgruva"
+
+[STR_IND_PHOSPHATE_AND_ACID_PLANT]
+base = "Gödsel- och syrafabrik"
+
+[STR_IND_COMMERCIAL_BAKERY]
+base = "Kommersiellt bageri"
+
+[STR_IND_PIPEWORK_FABRICATOR]
+base = "Rörbutik"
+
+[STR_IND_PLATE_MILL]
+base = "Plattvalsverk"
+
+[STR_IND_POLYMER_PRODUCTS_PLANT]
+base = "Fabrik för plastformar"
+
+[STR_IND_PORT]
+base = "Handelshamn"
+
+[STR_IND_POTASH_MINE]
+base = "Pottaskegruva"
+
+[STR_IND_POWER_SYSTEMS_FACTORY]
+base = "Fabrik för kraftsystem"
+
+[STR_IND_POWER_PLANT]
+base = "Kraftverk"
+
+[STR_IND_PRECISION_PARTS_PLANT]
+base = "Fabrik för precisionsdelar"
+
+[STR_IND_PRODUCE_PACKER]
+base = "Produktförpackare"
+
+[STR_IND_PYRITE_MINE]
+base = "Pyritgruva"
+
+[STR_IND_PYRITE_SMELTER]
+base = "Pyritsmältverk"
+
+[STR_IND_QUARRY]
+base = "Grustäkt"
+
+[STR_IND_RANCH]
+base = "Gård"
+
+[STR_IND_ROADSTONE_PLANT]
+base = "Vägbasverk"
+
+[STR_IND_SALT_WORKS]
+base = "Saltverk"
+
+#[STR_IND_SHEEPFARM]
+#base = "Grazing Farm"
+
+[STR_IND_SLAG_GRINDING_PLANT]
+base = "Slaggmalningsanläggning"
+
+[STR_IND_SODA_ASH_MINE]
+base = "Natriumkarbonatgruva"
+
+[STR_IND_CONVENIENCE_FOODS_FACTORY]
+base = "Fabrik för färdigmat"
+
+[STR_IND_STOCKYARD]
+base = "Slakteri"
+
+[STR_IND_STRIP_MILL]
+base = "Bandvalsverk"
+
+# unused
+[STR_IND_SUGAR_REFINERY]
+base = "Sockerbruk"
+
+[STR_IND_SUPPLY_YARD]
+base = "Materielförråd"
+
+# unused
+#[STR_IND_TEXTILE_MILL]
+#base = "Textile Mill"
+
+[STR_IND_TIMBER_YARD]
+base = "Brädgård"
+
+[STR_IND_TIN_MINE]
+base = "Tenngruva"
+
+[STR_IND_TINPLATE_WORKS]
+base = "Tennplåtsverk"
+
+[STR_IND_TRACKED_MACHINE_FACTORY]
+base = "Fabrik för spårfordon"
+
+[STR_IND_TRADING_POST]
+base = "Handelshamn"
+
+[STR_IND_TUBE_AND_PIPE_MILL]
+base = "Rör- och tubfabrik"
+
+[STR_IND_TYRE_PLANT]
+base = "Däcksfabrik"
+
+[STR_IND_VINEYARD]
+base = "Vingård"
+
+[STR_IND_VEHICLE_DISTRIBUTOR]
+base = "Fordonsdistributör"
+
+[STR_IND_WHARF]
+base = "Kaj"
+
+[STR_IND_WIRE_ROD_MILL]
+base = "Trådvalsverk"
+
+[STR_IND_ZINC_ORE_MINE]
+base = "Zinkgruva"
+
+[STR_IND_ZINC_SMELTER]
+base = "Zinksmälta"
+
+# Stations
+
+[STR_STATION]
+base = "{STRING} {STRING}"
+
+[STR_STATION_ANIMALS]
+base = "Hästmarknad"
+
+[STR_STATION_APPLIANCE_FACTORY]
+base = "Elektronikvaror"
+
+[STR_STATION_AUTOMOTIVE]
+base = "Bilar"
+
+[STR_STATION_BAKERY]
+base = "Bageri"
+
+[STR_STATION_BAR_AND_SECTION_MILL]
+base = "Balkar"
+
+[STR_STATION_BAR_GRILL_AND_ROOMS]
+base = "Bar, Grill och Rum"
+
+[STR_STATION_BARNS]
+base = "Ladugårdar"
+
+[STR_STATION_BARREL_AND_KEG]
+base = "Tunna och Kagge"
+
+[STR_STATION_BASE]
+base = "Bas"
+
+[STR_STATION_BONEYARD]
+base = "Bengård"
+
+[STR_STATION_BANK_TOP]
+base = "Banktoppen"
+
+[STR_STATION_BODY_PLANT]
+base = "Pressade delar"
+
+[STR_STATION_BRINE_WORKS]
+base = "Saltlakefabrik"
+
+[STR_STATION_BUILDERS_YARD]
+base = "Byggföretag"
+
+[STR_STATION_COLLIERY]
+base = "Kolgruva"
+
+[STR_STATION_COMPONENTS]
+base = "Komponenter"
+
+[STR_STATION_CONCRETE_PLANT]
+base = "Förbetong"
+
+[STR_STATION_COPPER_LODE]
+base = "Kopparåder"
+
+[STR_STATION_CREOSOTING]
+base = "Timberstapling"
+
+[STR_STATION_CRYO_PLANT]
+base = "Kryoplanter"
+
+[STR_STATION_DAIRY_LANE]
+base = "Mejerigränd"
+
+[STR_STATION_ELASTOMER_PLANT]
+base = "Tätningar och slangar"
+
+[STR_STATION_ESTATE]
+base = "Egendom"
+
+[STR_STATION_FACTORY]
+base = "Fabrik"
+
+[STR_STATION_FARM_1]
+base = "Herrgård"
+
+[STR_STATION_FARM_2]
+base = "Äng"
+
+[STR_STATION_FARM_3]
+base = "Gård"
+
+[STR_STATION_FISHMARKET]
+base = "Fiskemarknad"
+
+[STR_STATION_FOOD_CORPORATION]
+base = "Livsmedelsföretag"
+
+[STR_STATION_FOREST]
+base = "Stocklastning"
+
+[STR_STATION_FORGE_AND_FOUNDRY]
+base = "Stålmästare"
+
+[STR_STATION_FREEZERS]
+base = "Frysar"
+
+[STR_STATION_FURNACE]
+base = "Masugn"
+
+[STR_STATION_METAL_WORKS]
+base = "Metallvaror"
+
+[STR_STATION_HEAVY_INDUSTRY_2]
+base = "Verkstad"
+
+[STR_STATION_HERDING_COOP]
+base = "Stuga"
+
+[STR_STATION_INDUSTRY_ESTATE_1]
+base = "Industriområde"
+
+[STR_STATION_INDUSTRY_HARBOUR_2]
+base = "Strand"
+
+[STR_STATION_INDUSTRY_HARBOUR_3]
+base = "Landningsbrygga"
+
+[STR_STATION_INDUSTRY_HARBOUR_4]
+base = "Strandnära"
+
+[STR_STATION_IRONSTONE]
+base = "Malmberg"
+
+[STR_STATION_KILNS]
+base = "Smältugnar"
+
+[STR_STATION_KIMBERLITE_DEPOSITS]
+base = "Kimberfyndighet"
+
+[STR_STATION_LIMESTONE_MINES]
+base = "Kalkstensgruvor"
+
+[STR_STATION_MANGANESE_MINES]
+base = "Mangangruvor"
+
+[STR_STATION_MILL]
+base = "Kvarn"
+
+[STR_STATION_MILLS]
+base = "Möln"
+
+[STR_STATION_MINES]
+base = "Gruvor"
+
+[STR_STATION_MOULDINGS]
+base = "Lister"
+
+[STR_STATION_OIL_RIG]
+base = "Oljefält"
+
+[STR_STATION_ORCHARDS]
+base = "Fruktträdgård"
+
+[STR_STATION_PIPEWORK_FABRICATOR]
+base = "Flödeslinje"
+
+[STR_STATION_PIT]
+base = "Dagbrott"
+
+[STR_STATION_PLANT]
+base = "Anläggning"
+
+[STR_STATION_PLANTATION]
+base = "Plantage"
+
+[STR_STATION_PLATE_MILL]
+base = "Stålplattdepå"
+
+[STR_STATION_POTASH_MINE]
+base = "Mineraler"
+
+[STR_STATION_POWERHUNGRY]
+base = "Elkraftverk"
+
+[STR_STATION_POWERTRAIN]
+base = "Drivlina"
+
+[STR_STATION_POWER_SYSTEMS_FACTORY]
+base = "Anläggningar och maskiner"
+
+[STR_STATION_PUMPS]
+base = "Pumpar"
+
+[STR_STATION_PYRITES]
+base = "Pyritfyndighet"
+
+[STR_STATION_REFINERY]
+base = "Raffinaderi"
+
+[STR_STATION_ROD_MILL]
+base = "Stångkvarn"
+
+[STR_STATION_RUBBER_COMPANY]
+base = "Gummibolag"
+
+[STR_STATION_SALTPETER_WORKS]
+base = "Saltpeterbruk"
+
+[STR_STATION_SEAFOOD]
+base = "Skaldjur"
+
+[STR_STATION_SHARP_STREET]
+base = "Skarpgatan"
+
+#[STR_STATION_SHEEP_FOLD]
+#base = "Sheep Fold"
+
+[STR_STATION_SHOALS]
+base = "Grund"
+
+[STR_STATION_SILO]
+base = "Silo"
+
+[STR_STATION_SMELTER]
+base = "Smältverk"
+
+[STR_STATION_SOOT_FURNACE]
+base = "Sotugn"
+
+[STR_STATION_SOUPS]
+base = "Soppor"
+
+[STR_STATION_STRIP_MILL]
+base = "Spolledning"
+
+# unused
+[STR_STATION_SUGAR_COMPANY]
+base = "Sockerbolag"
+
+[STR_STATION_TANK_FARM]
+base = "Tankgård"
+
+[STR_STATION_TAPPERS_SHED]
+base = "Tappareskjul"
+
+[STR_STATION_TOWN_3]
+base = "Butiker"
+
+[STR_STATION_TRACKED_MACHINE_FACTORY]
+base = "Krypkranverkstad"
+
+[STR_STATION_TRONA_BEDS]
+base = "Tronabädd"
+
+[STR_STATION_TUBE_MILL]
+base = "Tubfabrik"
+
+[STR_STATION_WATER]
+base = "Sandbank"
+
+[STR_STATION_WELLS]
+base = "Källor"
+
+[STR_STATION_WHEAL]
+base = "Gruva"
+
+[STR_STATION_WINERY]
+base = "Vingård"
+
+[STR_STATION_WORKS]
+base = "Verkstad"
+
+[STR_STATION_VEHICLE_DISTRIBUTOR]
+base = "Lastbilsplats"
+
+# Badges
+
+[STR_BADGE_LAND]
+base = "MARK"
+
+[STR_BADGE_SEA]
+base = "HAV"

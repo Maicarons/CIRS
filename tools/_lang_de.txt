@@ -1,0 +1,622 @@
+Säure
+Zuschlagstoffe
+Aluminiumoxid
+Aluminium
+Aluminiumwerk
+Ammoniak- und Nitratprodukte
+Ammoniakkomplex
+Anhydritmine
+Anhydritaufbereitungswerk
+Anhydritgestein
+Äpfel
+Haushaltsgerätefabrik
+Ackerbauhof
+Arktis (Basis)
+Sind für immer, usw.
+Montagewerk
+Kraftfahrzeuge
+In allen Wirtschaften verfügbar. Von städtischen Gebäuden sowie einigen wenigen Industrien produziert und angenommen.
+In allen Wirtschaften verfügbar. Von städtischen Gebäuden produziert und angenommen.
+Bäckerei
+Ballen.
+Bank Top
+Bar, Grill und Zimmer
+Scheunen
+Fass und Fässchen
+Baryt und Flussspat
+Basis
+Sauerstoffkonverter
+Roh Eisen aus einem Hochofen, als flüssiges Metall oder als feste Blöcke.
+Chargen-Chemiewerk
+Bohnen
+Knüppel und Blöcke
+Knüppel, Blöcke, Barren und Platten.
+Biomasse aus Torfmooren, gewonnen für Brennstoff und Gartenbau.
+Bitumen
+Hochofen
+Karosseriewerk
+Gebeinhof
+Flaschen- und Konservenfabrik
+Kisten, Flaschen, Gläser, Dosen usw.
+Brauerei
+Ziegelei
+Saline
+Baustoffhof
+Baumaterialien
+Nebenprodukt der Koksproduktion, eine zähflüssige Flüssigkeit.
+CIRS - Community Industry Replacement Set
+CIRS umfasst eine Reihe von Landschaftsobjekten, die Spieler platzieren können, um bestimmte Industrien größer erscheinen zu lassen. Diese Objekte haben keine Auswirkung auf das Spiel. Sie können ein- oder ausgeschaltet werden.
+CIRS-Landschaftsobjekte
+Führerhäuser, Motorhauben, Türen und ähnliche Karosseriestrukturen für die Fahrzeugproduktion.
+Calciumoxid, auch Branntkalk genannt. Als Feinpulver transportiert, das trocken gehalten werden muss.
+Ruß
+Rußwerk
+Maniok
+Gusseisen
+Gussteile wie Blöcke, Träger und Paneele. Kann auch als Transportbeton in Mischerfahrzeugen transportiert werden.
+Zellulosefolienwerk
+Zement
+Zementwerk
+Zement, Glas, Metallteile, Holzprodukte, Rohre und ähnliche Baumaterialien.
+Chemiekomplex
+Chemische Zwischenprodukte
+Chemikalien
+Chemikalien, Seifen, Reinigungsmittel usw. für industrielle und häusliche Nutzung. Hauptsächlich flüssig, kann auch Pulver oder Feststoff sein (z. B. Strahlstrahlsand).
+Kaolin
+Spanplattenwerk
+Chlor-Alkali-Werk
+Chlor
+Chromitmine
+Mosterei
+Zivile Sprengstoffe für Bergbau, Bauwesen usw.
+Ton
+Tongrube
+Reinigungsmittel
+Kohle
+Kohlemine
+Steinkohlenteer
+Kohle, die in einem Koksofen erhitzt wurde und einen nahezu reinen Kohlenstoffbrennstoff liefert.
+Grober Sand für den Bau oder feiner Quarzsand für Glasherstellung und Metallguss. Als Schüttgut oder Pulver transportiert.
+Kaffee
+Kaffeeplantage
+Wickelanlage
+Koks
+Koks-Batterie
+Zeche
+Gewerbliche Bäckerei
+Gewöhnliche Bohnen, Saubohnen, Sojabohnen und ähnliche essbare Hülsenfrüchte.
+Komplexe Wirtschaft mit Eisen-, Stahl- und Schwerindustrie.
+Komplexe Wirtschaft mit vielen Industrien und Gütern.
+Komplexe Wirtschaft mit vielen Industrien und Gütern. Inspiriert von West- und Zentralafrika. Am besten mit subtropischem Klima.
+Bauteile
+Komponenten für die Fahrzeugproduktion wie Fahrgestelle und Federungskomponenten, elektrische Teile, Außenverkleidungen und Innenausstattung.
+Betonwerk
+Betonprodukte
+Baustoffhof
+Fertiglebensmittelfabrik
+Kupfer
+Kupferaufbereitung
+Kupfererzgang
+Kupfermine
+Kupfererz
+Kupferschmelze
+Baumwolle, Flachs, Jute und ähnliche Materialien für Textilien und Verbundwerkstoffe.
+Raupenwerk
+Tränkierung
+Unraffiniertes Erdöl, als Schüttgutflüssigkeit transportiert.
+Kryowerk
+Molkerei
+Milchviehbetrieb
+Molkereigasse
+Diamantmine
+Diamanten
+Baggerstelle
+Trommeln, Winden, Schäkel, Haken, Rollen, Hydraulikzylinder und andere Teile für Kräne, Hebezeuge, Aufzüge usw.
+Trockener Zement als Pulver oder Klinker.
+Jede Wirtschaft bietet eine andere Kombination aus Gütern und Industrien.{}{}Für Spieler, die einfaches Spiel bevorzugen, enthalten {SILVER}Basis-{BLACK}Wirtschaften weniger Industrien und Güter als andere CIRS-Wirtschaften.{}{}Die CIRS-Website bietet detaillierte Informationen zu jeder Wirtschaft.
+Wirtschaft
+Speiseöl
+Essbare Wurzelfrucht, auch bekannt als Maniok und Yuca.
+Elastomerproduktewerk
+Lichtbogenofen
+Elektrische Teile
+Elektrische und elektronische Bauteile, Motoren, Regler, Schaltanlagen, Leuchten usw.
+Elektrogeräte
+Motorenwerk
+Ingenieursbedarf
+Ingenieurwerk
+Motoren und Antriebsstrang
+Verstärkter Primärproduktionsgrad (%)
+Anwesen
+Sprengstoffe
+Sprengstofffabrik
+Fabrik
+Bauernhof
+Landwirtschaftlicher Bedarf
+Bauernhöfe, Minen und ähnliche Industrien erhöhen die Produktion, wenn Versorgungskisten geliefert werden, zunächst auf {SILVER}Verstärkt{BLACK} und dann auf {SILVER}Begeistert{BLACK}, sofern genügend Kisten geliefert werden.  {}{}Die Standardwerte sind gut, können aber hier geändert werden.  {}{}Die Güteranforderungen für Hafenindustrien betragen das 8-Fache der hier festgelegten Werte.
+Gärungswerk
+Ferrolegierungen
+Ferrochromschmelze
+Dünger
+Dünger- und Säurewerk
+Feld
+Feindraht zur Verstärkung von Reifen. Als Rolle transportiert.
+Fisch und Meeresfrüchte
+Fischzucht
+Fischmarkt
+Fischgründe
+Fischereihafen
+Flexible Dichtungen, Dichtungen, Schläuche, Riemen, Matten, Buchsen usw. aus Gummi oder ähnlichen Materialien.
+Mehl und Stärke
+Fließband
+Nahrung
+Lebensmittel und Getränke
+Lebensmittelzusatzstoffe
+Lebensmittelunternehmen
+Lebensmittelverarbeitungswerk
+Lebensmittel, die während Transport und Lagerung gefroren gehalten werden.
+Für Haushalt und Bauwesen. Werkzeuge, Utensilien, Beschläge, Armaturen aus Metall und anderen Materialien.
+Wald
+Schmiedestücke und Guss
+Gefrierschränke
+Frisches und getrocknetes Obst wie Bananen, Zitrusfrüchte, Trauben, Beeren, Ananas, Rosinen und Ähnliches.
+Fabrik für gefrorene Desserts
+Tiefkühlkost
+Tiefkühlkostwerk
+Obst
+Obstplantage
+Ofen
+Möbelfabrik
+Gemischtwarenladen
+Generische Tone für die Herstellung von Baumaterialien und andere industrielle Zwecke.
+Generisches Metall wie Stahl, Aluminium oder andere gängige Metalle.
+Generische organische und anorganische Chemikalien, als Flüssigkeit, Gas, abgedecktes Schüttgut, Pulver oder Stückgut behandelt.
+Träger
+Glasprodukte
+Glaswerk
+Waren
+Getreide
+Getreidemühle
+Kies, Sand, gebrochener Stein und ähnliche im Bauwesen verwendete Materialien.
+Weidebetrieb
+Begeisterter Primärproduktionsgrad (%)
+Eisenwaren und Oberflächen
+Hallo {COMPANY}!{}{}Du spielst ein Spiel mit dem CIRS-Test-GS{}{}Git-Version dieses GS ist {NUM}
+Weidegenossenschaft
+Hochwertige Engineering-Komponenten wie elektrische Ausrüstung, Motoren, Transformatoren, Schaltgeräte, Hydraulik, Pneumatik, Pumpen, Ventile und Antriebsstrangausrüstung.
+Pferdemarkt
+Hotel
+In einem heißen Land
+Industriekohlenstoffe
+Industriechemikalienwerk
+Industriegase
+Industriepark
+Industriesäure, die hauptsächlich in der Dünger- und Chemieproduktion verwendet und als Schüttgutflüssigkeit transportiert wird.
+Industriesäuren wie Salzsäure, Salpetersäure und Schwefelsäure.
+Industrieller Alkohol, der als chemischer Rohstoff und Brennstoff verwendet und als Schüttgutflüssigkeit transportiert wird.
+Industriechemikalie, normalerweise kryogen als verflüssigtes komprimiertes Gas transportiert.
+Industriechemikalie. Auch bekannt als Ätznatron oder Natronlauge. Normalerweise als Flüssigkeit transportiert.
+Industriechemikalie. In weißer Pulverform.
+Industriechemikalien auf Ammoniakbasis wie Ammoniak, Salpetersäure und Harnstoff. Als Flüssigkeiten, kryogen als verflüssigtes Gas oder als Trockenschüttgut transportiert.
+Industrielle Chemikalien, die in Fertigung und Verarbeitung verwendet werden, als Flüssigkeiten, Pulver, Gase oder verpackte Waren transportiert.
+Industriegas. Kryogen als verflüssigtes komprimiertes Gas transportiert.
+Industriegase, die in chemischer Verarbeitung, Metallbearbeitung und Schweißen verwendet werden, in Flaschen oder Drucktankwagen transportiert.
+Industriemineral, auch Kaolin genannt, hauptsächlich in Papier- und Kunststoffproduktion verwendet.
+Industriemineralien, die in der chemischen Verarbeitung verwendet werden. Baryt wird in Bariumchemikalien und Füllstoffen verwendet; Flussspat in Fluorchemie und metallurgischen Flüssen.
+Barren.
+Zutaten, die in der Lebensmittelverarbeitung verwendet werden, wie Konservierungsstoffe, Aromen, Farbstoffe und Verarbeitungshilfsstoffe.
+Intensiv schwarzes Kohlepulver, verwendet in Reifen, Kunststoffen und Pigmenten.  Als Pulver behandelt.
+Zwischenchemische Produkte, die als Rohstoffe für weitere industrielle Verarbeitung dienen.
+Zwischenzuckerprodukte für Raffination, Gärung und industrielle Zwecke. Klebrige Granulate werden als abgedecktes Schüttgut behandelt; dicker Sirup als Flüssigkeit; beides kann verpackt werden.
+Verbrennungsmotoren und zugehörige Antriebsstrangteile wie Getriebe und Achsen.
+Eisenerz
+Eisenerzmine
+Eisenstein
+Öfen
+Kimberlitvorkommen
+LAND
+Landestelle
+Latexverarbeiter
+Leichte Kohlenwasserstoffe
+Leichte Erdölfraktionen, die als chemische Rohstoffe verwendet und als Schüttgutflüssigkeiten transportiert werden.
+Kalkbrennofen
+Kalkstein
+Kalksteinmine
+Kalksteinminen
+Vieh
+Holzeinschlagplatz
+Stämme
+Stämme aus einem Wald.
+Langes Hohlrohr mit rundem, rechteckigem und anderem Querschnitt. Zur Herstellung von Strukturen und Maschinen.
+Lange runde Stahlrohre zum Transport von Flüssigkeiten in Pipelines, Gebäuden, Industrien usw.
+Maschinen, Brennstoff, Teile, Dünger und anderer Bedarf für Bauernhöfe, Wälder und ähnliche Industrien.
+Maschinen, Brennstoff, Teile, Holzprodukte, Rohre, Sprengstoffe und anderer Bedarf für Minen und ähnliche Industrien.
+Maschinen, Teile, Brennstoff, Baumaterialien und anderer Bedarf für Häfen, Docks und ähnliche Industrien.
+Post
+Mais
+Mangan
+Mangannmine
+Manganminen
+Manganerz, hauptsächlich in der Stahlproduktion verwendet.
+Herrenhaus
+Maximale Küstenentfernung von Seeindustrien in Kacheln
+Maximale Entfernung von Fischgründen, Ölplattformen und Baggerstellen von der Küste in Kacheln.
+Wiesen
+Fleisch
+Handelsstab
+Metallwerk
+Metallteile für den Zusammenbau zu größeren Artikeln.
+Metallwaren
+Methanol
+Mild Mild West
+Milch
+Mühle
+Mühlen
+Mineralische Füllstoffe
+Werk für mineralische Füllstoffe
+Mineralien
+Minen
+Hauptsächlich Kühe, Schweine und Schafe für die Fleischproduktion.  Andere Tiere können ebenfalls gegessen werden.
+Hauptsächlich natürlicher Latex.
+Hauptsächlich Lastwagen. Oder Autos. Oder leichte Lastwagen. Vielleicht Traktoren.
+Formteile
+Nitratmine
+Nitrate
+Stickstoff
+Keine Begrenzung
+Nichteisenmetalle wie Kupfer, Nickel, Zink und Blei.
+Kernbrennstoffkomplex
+Kernkraftwerk
+Nüsse
+Öl
+Öl- und Chemieterminal
+Ölraffinerie
+Ölplattform
+Ölquellen
+Öl zum Kochen und Verzehr.
+Obstgarten und Schweinefarm
+Obstgärten
+Besitzer: {RAW_STRING}
+Sauerstoff
+Verpackung
+Farben und Beschichtungen
+Papier
+Papierwerk
+Papierproduktefabrik
+Fahrgäste
+Torf
+Torfmoore
+Tankstelle
+Benzin, Diesel und ähnliche Brennstoffe.
+Erdölbrennstoffe
+Phosphat
+Phosphatmine
+Phosphorsäure
+Roheisen
+Rohrwerk
+Grube
+Pflanze
+Pflanzen und Maschinen
+Plantage
+Kunststoffformteilefabrik
+Kunststoffe und Harze
+Blechwalzwerk
+Hafen
+Kalisalz
+Kalisalzmine
+Gepulverte Getreideprodukte wie Mehl und Stärke, in Säcken oder abgedecktem Schüttgut transportiert.
+Kraftwerk
+Energieanlagenfabrik
+Angetriebene Ausrüstung und mechanische Systeme für Gebäude, Industrien und Bauernhöfe. Als komplette Einheiten oder als wesentliche Baugruppen transportiert.
+Antriebsstrang
+Betonfertigteile
+Präzisionsbauteile
+Präzisionsteilewerk
+Pressungen
+Prozesschemikalien
+Prozesschemikalienwerk
+Verarbeitete Holzfaser, hauptsächlich für Papierproduktion, als Ballen oder Schüttzellstoff transportiert.
+Verarbeitete Holzprodukte aus einer Sägerei oder ähnlichen Industrien.
+Produktverpacker
+Produktion in Bauernhöfen, Minen und ähnlichen Industrien, wenn die Versorgungsanforderungen erfüllt sind (als Prozentsatz des {SILVER}Normalen{BLACK} Produktionsniveaus).
+Pumpen
+Pumpen und Ventile
+Pyritvorkommen
+Pyritmine
+Pyriterz
+Pyritschmelze
+Steinbruch
+Branntkalk
+Ranch
+Rohzucker und Melasse
+Rohe oder geröstete Kaffeebohnen.
+Rohkunststoff für weitere Verarbeitung. Normalerweise als Harzkügelchen transportiert.
+Bewehrungsstahl
+Raffiniertes Aluminiummetall, in Rollen, Barren, Platten usw.
+Raffiniertes Kupfermetall, in Rollen, Barren usw.
+Raffinierte Erdölprodukte wie Benzin, Diesel, Kerosin, LPG, Heizöl und Bunkerbrennstoff, als Schüttgutflüssigkeiten oder verflüssigtes Gas transportiert.
+Raffinerie
+Rentiergehege
+Schotterwerk
+Stabwalzwerk
+Gewalzte Stahlplatten und -profile - I-Träger, H-Träger, U-Profile usw. Als lange gerade Produkte transportiert.
+Seile und Kabel, die durch Ziehen von Stahldraht auf kleineren Durchmesser und Verdrehen zu Bündelseilen hergestellt werden.
+Grobe Stahlgussstücke, die weitere Verarbeitung erfordern. Barren können klein oder sehr groß sein. Typische Barrenprofile sind rechteckig oder rund.
+Gummi
+Gummigesellschaft
+Gummipflanzung
+MEER
+Salz
+Saline
+Salpeterwerk
+Sand
+Sandbank
+Sägerei
+Schrott
+Schrottplatz
+Meeresfrüchte
+Dichtung und Schlauch
+Dichtungen, Schläuche und Riemen
+Profil- und Stabwalzwerk
+Halbfertige Stahlgussstücke. Immer flach und rechteckig im Querschnitt.
+Halbfertige Stahlgussstücke. Rechteckig, quadratisch oder rund im Querschnitt.
+Sharp Street
+Schafstall
+Untiefen
+Uferpromenade
+Silo
+Einfache Wirtschaft. Inspiriert von Argentinien, Peru und Chile. Am besten mit subtropischem Klima.
+Einfache Wirtschaft. Inspiriert von Finnland, Nordkanada und Nordsibirien. Am besten mit subarktischem Klima.
+Einfache Wirtschaft. Inspiriert von Südwest-England. Am besten mit gemäßigtem Klima.
+Plattenhof
+Schlacke
+Schlackenmahwerk
+Schmelze
+Natron
+Natronmine
+Natriumhydroxid
+Rußofen
+Suppen
+Spezialisierte Kohlenstoffmaterialien wie kalzinierter Petrolkoks, Pech, hochwertige Teere und Ruß, verwendet in metallurgischen und chemischen Prozessen.
+Stahl
+Stahlschmiede und -guss
+Stahlbarren
+Stahlwerk
+Stahlrohr
+Stahlblech
+Stahlblech und -band
+Stahlplatte
+Stahlrohr
+Stahldrahtstab
+Stahlstäbe, als Rundstahl, Vierkantstahl, Flachstahl und andere Profile. Als lange gerade Produkte transportiert.
+Stahldraht und dünne Stäbe. Hauptsächlich als Rollen transportiert.
+Stahlmeister
+Stahlstadt
+Viehhof
+Lagertanks und Rohrleitungen
+Lagertanks, Druckbehälter, Silos, Gasflaschen und Rohrbaugruppen für den Einsatz in städtischen Gebäuden, Industrien und Bauernhöfen.
+Läden
+Bandwalzwerk
+Konstruktionsstahl
+Konstruktionsstahl als gewalzte Profile (I-Träger, H-Träger usw.) oder als Flachblech oder als aus Blech verschweißte Segmente und Träger.
+Zucker
+Zuckergesellschaft
+Zuckerraffinerie
+Sulfidmineralien, zu einer Vielzahl industrieller Produkte verhüttet.
+Schwefel
+Schwefelsäure
+Bedarf für das Schneiden und Schweißen von Metall, wie Schweißstäbe, Werkzeuge und Industriegase einschließlich Acetylen, Argon, Propan, Sauerstoff und Stickstoff.
+Versorgungshof
+Versorgungskisten, die für verstärkte Primärproduktion benötigt werden (Standard 16)
+Versorgungskisten, die für begeisterte Primärproduktion benötigt werden (Standard 80)
+Tanklager
+Kautschukarbeiterhütte
+Gemäßigt (Basis)
+Textilwerk
+Dickes Erdölprodukt, das hauptsächlich für Straßenbelag und Dachdeckung verwendet wird.
+Dünn gewalztes Stahlblech und -band, vielseitig zur Herstellung anderer Produkte verwendet. Als Flachbleche oder als Rollen transportiert.
+Dünne grobe Stahlstäbe, die häufig zur Verstärkung von Betonstrukturen verwendet werden. Als Rollen oder Bündel gerader Stäbe transportiert.
+Dünnes Stahlblech mit Zinn beschichtet für Korrosionsbeständigkeit, hauptsächlich für Dosen, Behälter und andere Verpackungen verwendet.
+Holzprodukte
+Holzhof
+Zinn
+Zinnmine
+Weißblech
+Weißblechwerk
+Stadt ist {STRING}{}{}Um mehr über diese Stadt zu erfahren (einschließlich Wachstums- und Zufriedenheitsanforderungen), öffne das Geschichtsbuch und finde die Seite für {TOWN}
+Kettenfahrzeugfabrik
+Handelsposten
+Trona-Lagerstätten
+Tropisch (Basis)
+Lastwagenplatz
+Rohr- und Walzwerk
+Rohrwalzwerk
+Reifencord
+Reifenwerk
+Reifen
+In Legierungs- und Edelstahlproduktion verwendet, eine Legierung aus Chrom und Eisen.  Graue Klumpen, ähnlich in Größe und Form wie Kohleklumpen.
+In der Stahlproduktion verwendet. Legierungen aus Eisen und anderen Elementen einschließlich Mangan, Nickel, Chrom, Aluminium, Silizium und Wolfram.  Graue Klumpen, ähnlich in Größe und Form wie Kohleklumpen.
+Gemüse
+Fahrzeugkarosserien
+Fahrzeugverteiler
+Fahrzeugteile
+Fahrzeuge
+Weinberg
+Abfallprodukt aus Eisen- und Stahlproduktion.
+Ufer
+Schweißzusatzstoffe
+Brunnen
+Kai
+Bergwerk
+Weizen, Gerste usw.
+Weißes Pulver, aus Bauxiterz raffiniert, zur Herstellung von Aluminiummetall.
+Weißer, grauer oder brauner Calciumsulfatstein, in Schwefelsäure- und Zementproduktion verwendet. Oft als abgedecktes Schüttgut transportiert.
+Weit verwendete Industriechemikalie. Leuchtend gelb, in Pulver- oder Flüssigform.
+Weit verwendete Industriechemikalie. Normalerweise als Schüttgut transportiert, das trocken gehalten werden muss.
+Weingut
+Drahtwalzwerk
+Holzzellstoff
+Wolle
+Werke
+Zink
+Zinkmine
+Zinkerz
+Zinkschmelze
+kann nicht auf steilen Hängen platziert werden.
+Beispielzeichen hier
+glücklich
+muss unterhalb der Schneegrenze platziert werden.
+muss auf trockenem Land platziert werden.
+darf nicht in der Wüste platziert werden.
+nur eine Industrie dieses Typs pro Stadt erlaubt.
+unglücklich
+{BLACK}--- Stadtindustrien --- {}
+{BLACK}Letzten Monat produzierte Ware
+{BLACK}Aktuelle Wachstumsrate: {WHITE}{RAW_STRING}
+{BLACK}Aktuelles Produktionsniveau: {WHITE}{NUM}
+{BLACK}Aktuelle Produktion: {YELLOW}Verstärkt {}{}{BLACK}Um dieses Niveau zu halten, liefere {SIGNED_WORD} Kisten mit Bedarf mindestens alle drei Minuten.{}Für {WHITE}begeisterte{BLACK} Produktion liefere {SIGNED_WORD} Kisten.
+{BLACK}Aktuelle Produktion: {YELLOW}Verstärkt {}{}{BLACK}Um dieses Niveau zu halten, liefere {SIGNED_WORD} Einheiten Ware mindestens alle drei Minuten.{}Für {WHITE}begeisterte{BLACK} Produktion liefere {SIGNED_WORD} Einheiten.
+{BLACK}Aktuelle Produktion: {YELLOW}Begeistert {}{}{BLACK}Um dieses Niveau zu halten, liefere {SKIP}{SIGNED_WORD} Kisten mit Bedarf mindestens alle drei Minuten.
+{BLACK}Aktuelle Produktion: {YELLOW}Begeistert {}{}{BLACK}Um dieses Niveau zu halten, liefere {SKIP}{SIGNED_WORD} Einheiten Ware mindestens alle drei Minuten.
+{BLACK}Aktuelle Produktion: {YELLOW}Normal {}{}{BLACK}Für {WHITE}verstärkte{BLACK} Produktion liefere {SIGNED_WORD} Kisten mit Bedarf mindestens alle drei Minuten.{}Für {WHITE}begeisterte{BLACK} Produktion liefere {SIGNED_WORD} Kisten.
+{BLACK}Aktuelle Produktion: {YELLOW}Normal {}{}{BLACK}Für {WHITE}verstärkte{BLACK} Produktion liefere {SIGNED_WORD} Einheiten Ware mindestens alle drei Minuten.{}Für {WHITE}begeisterte{BLACK} Produktion liefere {SIGNED_WORD} Einheiten.
+{BLACK}Lieferungen an diese Industrie tragen zum Stadtwachstum und/oder zur Zufriedenheit bei
+{BLACK}Für maximale Produktionsrate alle {WHITE}benötigten{BLACK} Güter mindestens alle drei Minuten liefern.
+{BLACK}Für maximale Produktionsrate mindestens {WHITE}drei{BLACK} benötigte Güter mindestens alle drei Minuten liefern.
+{BLACK}Für maximale Produktionsrate mindestens {WHITE}zwei{BLACK} benötigte Güter mindestens alle drei Minuten liefern.
+{BLACK}Für maximale Produktionsrate {WHITE}beide{BLACK} benötigten Güter mindestens alle drei Minuten liefern.
+{BLACK}HQ-Stadt: {WHITE}{TOWN}
+{BLACK}Besessene Industrien: {WHITE}{RAW_STRING}
+{BLACK}Name: {WHITE}{RAW_STRING}
+{BLACK}Beachte, dass dies derzeit nicht aktualisiert wird, es sei denn, Grind wird in den GS-Einstellungen aus- und eingeschaltet
+{BLACK}Produktionserhöhungshistorie (permanent) (letzte 10 Ereignisse)
+{BLACK}Die Produktion ist proportional zur Stadtbevölkerung. Mindestens {WHITE}{SIGNED_WORD} Einheiten{BLACK} und höchstens {WHITE}{SIGNED_WORD} Einheiten{BLACK} Ware werden jede Minute produziert.
+{BLACK}Zufälliges Wort (Test): {WHITE}{RAW_STRING}
+{BLACK}Letzten Monat geliefertes benötigtes Gut
+{BLACK}Geliefert: {WHITE}{CARGO_LONG}
+{BLACK}Liefere {WHITE}mindestens ein{BLACK} benötigtes Gut für maximale Produktion.
+{BLACK}Dies ist ein GS-Text. {WHITE}Klicke mich für die Stadtgeschichtsseite. {BLACK}Hier ist etwas mehr Text.
+{BLACK}Typ: {WHITE}{RAW_STRING}
+{BLACK}Gültige Städte: {WHITE}{RAW_STRING}
+{BLACK}{RAW_STRING}: {WHITE}{RAW_STRING}
+{BLUE}Kohl
+{INDUSTRY} erhöht die Produktion!
+{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}Eine von der Community gepflegte Abspaltung von FIRS, ursprünglich von andythenorth, FooBar, planetmaker, Terkhen und Yexo, mit Hilfe vieler anderer. {SILVER}Weitere Informationen, einschließlich der Verwendung von CIRS, findest du auf der Website. {BLACK}Lizenz: GPL v2.
+{ORANGE}E00: CIRS benötigt OpenTTD 1.7.0 (oder für die Verwendung von Trunk-Builds r27769)
+{ORANGE}E01: {YELLOW}Inkompatibles Set: {ORANGE}{STRING}
+{ORANGE}E02: {YELLOW}Inkompatibler Parameter: {ORANGE}CanSet Parameter 2 muss 0 sein, um mit CIRS zu funktionieren.
+{ORANGE}E02: {YELLOW}Inkompatibler Parameter: {ORANGE}NA City Set Parameter 2 muss 0 sein, um mit CIRS zu funktionieren.
+{ORANGE}E04: {YELLOW}Inkompatible Version: {ORANGE}Total Town Replacement Set muss Version 3.11 oder neuer sein.
+{SIGNED_WORD} Ballen{P 0 "" s} Wolle
+{SIGNED_WORD} Kiste{P 0 "" s} Ingenieursbedarf
+{SIGNED_WORD} Kiste{P 0 "" s} landwirtschaftlicher Bedarf
+{VOLUME} Säure
+{VOLUME} Ammoniak- und Nitratprodukte
+{VOLUME} Bitumen
+{VOLUME} chemische Zwischenprodukte
+{VOLUME} Chemikalien
+{VOLUME} Chlor
+{VOLUME} Steinkohlenteer
+{VOLUME} Speiseöl
+{VOLUME} Industriegase
+{VOLUME} leichte Kohlenwasserstoffe
+{VOLUME} Methanol
+{VOLUME} Milch
+{VOLUME} Stickstoff
+{VOLUME} Sauerstoff
+{VOLUME} Farben und Beschichtungen
+{VOLUME} Erdölbrennstoffe
+{VOLUME} Phosphorsäure
+{VOLUME} Natriumhydroxid
+{VOLUME} Schwefelsäure
+{WEIGHT} Zuschlagstoffe
+{WEIGHT} Aluminiumoxid
+{WEIGHT} Aluminium
+{WEIGHT} Anhydritgestein
+{WEIGHT} Äpfel
+{WEIGHT} Baryt und Flussspat
+{WEIGHT} Bohnen
+{WEIGHT} Knüppel und Blöcke
+{WEIGHT} Baumaterialien
+{WEIGHT} Ruß
+{WEIGHT} Maniok
+{WEIGHT} Gusseisen
+{WEIGHT} Zement
+{WEIGHT} Kaolin
+{WEIGHT} Ton
+{WEIGHT} Reinigungsmittel
+{WEIGHT} Koks
+{WEIGHT} Betonprodukte
+{WEIGHT} Kupfer
+{WEIGHT} elektrische Teile
+{WEIGHT} Motoren und Antriebsstrang
+{WEIGHT} Sprengstoffe
+{WEIGHT} Ferrolegierungen
+{WEIGHT} Dünger
+{WEIGHT} Fisch und Meeresfrüchte
+{WEIGHT} Mehl und Stärke
+{WEIGHT} Lebensmittel und Getränke
+{WEIGHT} Lebensmittelzusatzstoffe
+{WEIGHT} Schmiedestücke und Guss
+{WEIGHT} Tiefkühlkost
+{WEIGHT} Obst
+{WEIGHT} Glasprodukte
+{WEIGHT} Waren
+{WEIGHT} Eisenwaren und Oberflächen
+{WEIGHT} Industriekohlenstoffe
+{WEIGHT} Kalkstein
+{WEIGHT} Stämme
+{WEIGHT} Mangan
+{WEIGHT} Fleisch
+{WEIGHT} Handelsstab
+{WEIGHT} mineralische Füllstoffe
+{WEIGHT} Nitrate
+{WEIGHT} Nüsse
+{WEIGHT} Verpackung
+{WEIGHT} Torf
+{WEIGHT} Phosphat
+{WEIGHT} Roheisen
+{WEIGHT} Pflanzen und Maschinen
+{WEIGHT} Kunststoffe und Harze
+{WEIGHT} Kalisalz
+{WEIGHT} Präzisionsbauteile
+{WEIGHT} Prozesschemikalien
+{WEIGHT} Pumpen und Ventile
+{WEIGHT} Pyriterz
+{WEIGHT} Branntkalk
+{WEIGHT} Rohzucker und Melasse
+{WEIGHT} Bewehrungsstahl
+{WEIGHT} Salz
+{WEIGHT} Sand
+{WEIGHT} Schrott
+{WEIGHT} Dichtungen, Schläuche und Riemen
+{WEIGHT} Schlacke
+{WEIGHT} Natron
+{WEIGHT} Stahl
+{WEIGHT} Stahlbarren
+{WEIGHT} Stahlrohr
+{WEIGHT} Stahlblech
+{WEIGHT} Stahlblech und -band
+{WEIGHT} Stahlplatte
+{WEIGHT} Stahlrohr
+{WEIGHT} Stahldrahtstab
+{WEIGHT} Lagertanks und Rohrleitungen
+{WEIGHT} Konstruktionsstahl
+{WEIGHT} Schwefel
+{WEIGHT} Holzprodukte
+{WEIGHT} Zinn
+{WEIGHT} Weißblech
+{WEIGHT} Reifencord
+{WEIGHT} Reifen
+{WEIGHT} Gemüse
+{WEIGHT} Fahrzeugkarosserien
+{WEIGHT} Fahrzeugteile
+{WEIGHT} Fahrzeuge
+{WEIGHT} Schweißzusatzstoffe
+{WEIGHT} Holzzellstoff
+{WEIGHT} Zink
+{WEIGHT} Zinkerz
+{WEIGHT} Sack{P 0 "" s} Kaffee
+{WHITE}- diese Industrie hat die Produktion noch nie dauerhaft erhöht
+{YELLOW}Benötigte Güter für Wachstum
+{YELLOW}Benötigte Güter für Zufriedenheit

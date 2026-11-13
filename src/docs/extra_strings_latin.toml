@@ -1,0 +1,419 @@
+[TTD_STR_INDUSTRY_NAME_COAL_MINE]
+base = "Fodina carbonis"
+
+[TTD_STR_INDUSTRY_NAME_COPPER_ORE_MINE]
+base = "Fossilia Cupri"
+
+[TTD_STR_INDUSTRY_NAME_DIAMOND_MINE]
+base = "Fossilia Diamantorum"
+
+[TTD_STR_INDUSTRY_NAME_FOOD_PROCESSING_PLANT]
+base = "{G=f}Fabrica Cibaria"
+
+[TTD_STR_INDUSTRY_NAME_FOREST]
+base = "Silva"
+
+[TTD_STR_INDUSTRY_NAME_FRUIT_PLANTATION]
+base = "Vetustas Fructuum"
+
+[TTD_STR_INDUSTRY_NAME_IRON_ORE_MINE]
+base = "Fossilia ferrum rudis"
+
+[TTD_STR_INDUSTRY_NAME_OIL_REFINERY]
+base = "Refineria Olei"
+
+[TTD_STR_INDUSTRY_NAME_OIL_RIG]
+base = "Turris Petrolei"
+
+[TTD_STR_INDUSTRY_NAME_OIL_WELLS]
+base = "Putes Petrolei"
+
+[TTD_STR_INDUSTRY_NAME_PAPER_MILL]
+base = "Mugdus chartarius"
+
+[TTD_STR_INDUSTRY_NAME_RUBBER_PLANTATION]
+base = "Plantatio Guttarum"
+
+[TTD_STR_INDUSTRY_NAME_SAWMILL]
+base = "Officina Serraria"
+
+[TTD_STR_INDUSTRY_NAME_STEEL_MILL]
+base = "Officina Chalybis"
+
+[TTD_STR_CARGO_PLURAL_COAL]
+base = "Carbo"
+
+[TTD_STR_CARGO_PLURAL_COPPER_ORE]
+base = "Materia Cuprea"
+
+[TTD_STR_CARGO_PLURAL_DIAMONDS]
+base = "Diamantes"
+
+[TTD_STR_CARGO_PLURAL_FOOD]
+base = "Cibus"
+
+[TTD_STR_CARGO_PLURAL_GOODS]
+base = "Merces"
+
+[TTD_STR_CARGO_PLURAL_GRAIN]
+base = "Frumentum"
+
+[TTD_STR_CARGO_PLURAL_IRON_ORE]
+base = "Ferrum rudis"
+
+[TTD_STR_CARGO_PLURAL_LIVESTOCK]
+base = "Bestiae domesticae"
+
+[TTD_STR_CARGO_PLURAL_MAIL]
+base = "Epistulae"
+
+[TTD_STR_CARGO_PLURAL_MAIZE]
+base = "Maizium"
+
+[TTD_STR_CARGO_PLURAL_OIL]
+base = "Oleum"
+
+[TTD_STR_CARGO_PLURAL_PAPER]
+base = "Charta"
+
+[TTD_STR_CARGO_PLURAL_PASSENGERS]
+base = "Passageri"
+
+[TTD_STR_CARGO_PLURAL_RUBBER]
+base = "Gutta"
+
+[TTD_STR_CARGO_PLURAL_SUGAR]
+base = "Saccharum"
+
+[ECONOMY_INFO_FIRS]
+base = "Oeconomia complexa multis industriis et oneribus."
+
+[ECONOMY_INFO_BASIC_ARCTIC]
+base = "Oeconomia simplex. Finlandia, septentrionali Canada et septentrionali Siberia inspirata. Optime adhibetur in clima subartico."
+
+[ECONOMY_INFO_BASIC_TEMPERATE]
+base = "Oeconomia simplex. Meridie-occidentali Britannia inspirata. Optime adhibetur in clima temperato."
+
+[ECONOMY_INFO_BASIC_TROPIC]
+base = "Oeconomia simplex. Argentina, Peru et Chile inspirata. Optime adhibetur in clima subtropico."
+
+[ECONOMY_INFO_IN_A_HOT_COUNTRY]
+base = "Oeconomia complexa multis industriis et oneribus. Africae centro-occidentalis exemplo inspirata. Optime cum clima Sub-Tropico adhibetur."
+
+[ECONOMY_INFO_STEELTOWN]
+base = "Oeconomia complexa, industriae ferri, chalybis atque fabricationis gravis inclusae."
+
+[CARGO_INFO_PASSENGERS]
+base = "In omnibus oeconomiae gradibus disponibile. Aedificiis urbium atque nonnullis industriis producitur et accipitur."
+
+[CARGO_INFO_MAIL]
+base = "In omnibus oeconomiae gradibus disponibile. Aedificiis urbium producitur et accipitur."
+
+[CARGO_INFO_ACID]
+base = "Acida industrialia, ut acidum hydrochloricum, nitricum et sulfuricum."
+
+[CARGO_INFO_AGGREGATES]
+base = "Saxum frustum, arena, saxa comminuta et materiae similes in aedificatione adhibitae."
+
+[CARGO_INFO_ALUMINA]
+base = "Pulvis albus ex minera bauxitica purificatus, ad metallum aluminium fabricandum adhibitus."
+
+[CARGO_INFO_ALUMINIUM]
+base = "Aluminium metallum purificatum, in rotulis, lingottis, tabulis etc."
+
+[CARGO_INFO_AMMONIA_AND_NITRIC_PRODUCTS]
+base = "Substantiae chemicae industriales ex ammonia derivatae, ut ammonia, acidum nitricum et urea. Tamquam liquores, per methodum cryogenicam tamquam gas liquefactum, vel tamquam materia siccum magnae quantitatis transportantur."
+
+[CARGO_INFO_ANHYDRITE]
+base = "Lapis albus, cinereus vel fuscus sulfuratis calcii, in acido sulfurico et cimento fabricandis adhibitus. Saepe ut merx ingens operierta transportatur."
+
+[CARGO_INFO_BARYTES_AND_FLUORSPAR]
+base = "Mineralia industriales in processu chemico adhibita. Barytes in substantiis bariciis et materiis implentibus adhibetur; fluorspar autem in chemia fluorina et fluxis metallurgicis."
+
+[CARGO_INFO_BASE_METALS]
+base = "Metalla non ferrea, ut cuprum, nickel, zincum et plumbum."
+
+[CARGO_INFO_BEANS]
+base = "Fasolia communia, fabae, soia et legumina edibilia similia."
+
+[CARGO_INFO_BITUMEN]
+base = "Productum petroleum densum, praecipue ad vias tegendas et tecta operienda adhibitum."
+
+[CARGO_INFO_BUILDING_MATERIALS]
+base = "Cementum, vitrum, partes metallicae, producta lignea, tubi et alia materiae aedificatorii similia."
+
+[CARGO_INFO_CASSAVA]
+base = "Radix edibilis, etiam manioc et yuca appellata."
+
+[CARGO_INFO_CARBON_BLACK]
+base = "Pulvis carbonis intense niger, in pneumaticis, plasticis et pigmentis adhibitus. Ut pulvis tractatur."
+
+[CARGO_INFO_CARBON_STEEL]
+base = "Billetae, blooms, lingotae et laeae."
+
+[CARGO_INFO_CAST_IRON]
+base = "Billetae, blooms, lingotae et laeae."
+
+[CARGO_INFO_CEMENT]
+base = "Cementum siccum, sive pulveris sive clinkeris forma."
+
+[CARGO_INFO_CHEMICAL_INTERMEDIATES]
+base = "Producta chemica intermedia ut materia prima ad ulteriorem elaborationem industrialem adhibita."
+
+[CARGO_INFO_CHEMICALS]
+base = "Chemicae genericae organicae et inorganicae, tamquam liquidae, gaseosae, massa operierta, pulveris vel res integrae tractatae."
+
+[CARGO_INFO_CHLORINE]
+base = "Substantia chemica industrialis, plerumque per methodum cryogenicam tamquam gas compressum liquefactum transportata."
+
+[CARGO_INFO_CLAY]
+base = "Argillae genericae, ad materiaes aedificatorias faciendas et ad alia usus industrialia."
+
+[CARGO_INFO_CLEANING_AGENTS]
+base = "Substantiae chemicae, saponum, agentia detergendi etc. ad usum industrialem et domesticum. Praecipue liquidae sunt, sed etiam pulverem vel substantiam solidam efficere possunt (ut arena ad iactationem abrasivam)."
+
+[CARGO_INFO_COAL_TAR]
+base = "Subproductum productionis coke, liquor densus ac lente fluentis."
+
+[CARGO_INFO_COFFEE]
+base = "Favae coffeae crudae aut roastatae."
+
+[CARGO_INFO_COKE]
+base = "Carbo qui in furno coquendi coke calefactus est, ita ut combustibile paene ex carbone puro constans producatur."
+
+[CARGO_INFO_COMPONENTS]
+base = "Partes ingeniariae magni pretii, velut apparatus electrici, motores, transformatores, instrumenta regendi, systemata hydraulica, pneumatica, pompa, valvae et apparatus transmissionis potentiae."
+
+[CARGO_INFO_CONCRETE_PRODUCTS]
+base = "Producta fundita, ut blocchi, trabea et tabulae. Etiam ut concretum iam mixtum in autocisternis mixtoribus transportari possunt."
+
+[CARGO_INFO_COPPER]
+base = "Cuprum metallum purificatum, in rotulis, lingottis etc."
+
+[CARGO_INFO_DIAMONDS]
+base = "In aeternum sunt, etc."
+
+[CARGO_INFO_EDIBLE_OIL]
+base = "Oleum ad coquendum et consumendum."
+
+[CARGO_INFO_ELECTRICAL_PARTS]
+base = "Componentes electrici et electronici, motores, moderatores, apparatus commutationis, lucernae etc."
+
+[CARGO_INFO_ENGINEERING_SUPPLIES]
+base = "Machinae, combustibilia, partes, producta lignea, tubi, explosiva aliaque subsidia fodinarum atque industriarum similium."
+
+[CARGO_INFO_EXPLOSIVES]
+base = "Explosiva civilia ad fodinas, aedificationem etc."
+
+[CARGO_INFO_FARM_SUPPLIES]
+base = "Machinae, combustibilia, partes, fertilizans aliaque subsidia agrorum, silvarum atque industriarum similium."
+
+[CARGO_INFO_FERROALLOYS]
+base = "In productione chalybis adhibetur. Mixturae ferri cum aliis elementis, inter quae manganum, nickelum, chromium, aluminium, silicium et tungstenum. Massa griseae, magnitudine et forma frustis carbonis similes."
+
+[CARGO_INFO_FERROCHROME]
+base = "In productione mixturae metallicae et chalybis non rugosi adhibetur; mixtura est chromii et ferri. Massa griseae, magnitudine et forma frustis carbonis similes."
+
+[CARGO_INFO_FLOUR]
+base = "Producta cerealia pulverulenta, velut farina et amylum, in saccis aut in massa operata transportata."
+
+[CARGO_INFO_FORGINGS_AND_CASTINGS]
+base = "Partes metallicae ad maiores res componendas."
+
+[CARGO_INFO_FOOD_ADDITIVES]
+base = "Ingredientia in cibo elaborando adhibita, velut conservantia, aromatizantia, colorantia et subsidia elaborationis."
+
+[CARGO_INFO_FROZEN_FOOD]
+base = "Alimenta quae durante transporte atque conservatione congelata manent."
+
+[CARGO_INFO_FRUITS]
+base = "Fructus recens et siccus, ut bananae, fructus citri, uvae, baccae, ananas, uva passa et similia."
+
+[CARGO_INFO_GRAIN]
+base = "Triticum, hordeum etc."
+
+[CARGO_INFO_HARDWARE]
+base = "Ad usum domesticum et aedificatorium. Instrumenta, utensilia, fixationes, appendices, ex metallo aliisque materiis facta."
+
+[CARGO_INFO_INDUSTRIAL_CARBONS]
+base = "Materiae carbonis speciales, sicut coke petrolei calcinatus, bitumen, tares magni pretii et carbonis niger, in processibus metallurgicis et chemicis adhibitae."
+
+[CARGO_INFO_INDUSTRIAL_GASES]
+base = "Gasses industriales in processu chemico, metallorum tractatione et sudatione adhibiti, in cylindris aut autocisternis pressuris transportati."
+
+[CARGO_INFO_LIFTING_EQUIPMENT]
+base = "Tympana, vincula, catenae, uncinae, pulleys, pistones hydraulici et aliae partes gruum, levatorum, ascensorum etc."
+
+[CARGO_INFO_LIGHT_HYDROCARBONS]
+base = "Fractiones petrolei levis, ut materiae chemicae rudis adhibitae, tam liquores magnae quantitatis transportatae."
+
+[CARGO_INFO_LIVESTOCK]
+base = "Praecipue boves, sues atque oves ad carnem producendam. Alii quoque animales edere possunt."
+
+[CARGO_INFO_LYE]
+base = "Substantia chemica industrialis. Etiam Lye aut Caustic Soda appellatur. Plerumque tamquam liquor transportatur."
+
+[CARGO_INFO_KAOLIN]
+base = "Minerale industriale, etiam Kaolin appellatum, praecipue in chartae et plasticorum productione adhibitum."
+
+[CARGO_INFO_MANGANESE]
+base = "Manganitum, praecipue ad chalybem faciendum adhibetur."
+
+[CARGO_INFO_MARINE_SUPPLIES]
+base = "Machinae, partes, combustibilia, materiae aedificii aliaque subsidia portuum, molarum atque industriarum similium."
+
+[CARGO_INFO_METAL]
+base = "Metalium genericum, velut chalybs, aluminium aut alia metalla communia."
+
+[CARGO_INFO_METHANOL]
+base = "Alcohol industrialis, tamquam materia prima chemica et combustibilis adhibitus, tamquam liquor magnae quantitatis transportatus."
+
+[CARGO_INFO_MOLASSES_AND_RAW_SUGAR]
+base = "Producta sacchari intermedia ad purgationem, fermentationem et usus industriales. Granula adhaerentia ut massa operierta tractantur; syrupus densus ut liquor; utrumque etiam involvi potest."
+
+[CARGO_INFO_NITROGEN]
+base = "Gas industrialis. Per methodum cryogenicam tamquam gas compressum liquefactum transportatur."
+
+[CARGO_INFO_OIL]
+base = "Petroleum crude, non purificatum, tamquam liquor massicus transportatum."
+
+[CARGO_INFO_OXYGEN]
+base = "Gas industrialis. Per methodum cryogenicam tamquam gas compressum liquefactum transportatur."
+
+[CARGO_INFO_PACKAGING]
+base = "Capsa, botellae, urceoli, canistra, etc."
+
+[CARGO_INFO_PEAT]
+base = "Biomassa e paludibus turficis, extracta ad combustibilem et horticulturam."
+
+[CARGO_INFO_PETROLEUM_FUELS]
+base = "Producta petrolei purificati, velut benzina, diesel, kerosinum, LPG, oleum combustibile et combustibile bunkeri, velut liquida ingentia aut gas liquefactum transportata."
+
+[CARGO_INFO_PHOSPHORIC_ACID]
+base = "Acidum industriale, praecipue in fertilizantibus et substantiis chemicis producendis adhibitum, tamquam liquor magnae quantitatis transportatum."
+
+[CARGO_INFO_PIG_IRON]
+base = "Ferrum basis ex furnacem blastica, sive liquida liquefacta sive in lingottis solidis."
+
+[CARGO_INFO_PLANT_FIBRES]
+base = "Gossypium, linum, iuta et materiae similes, ad textilia et materiae compositas faciendas."
+
+[CARGO_INFO_PLANT_AND_MACHINERY]
+base = "Instrumenta motoria et systemata mechanica in aedificiis, industriis et agris adhibita. Ut unitates integrae aut partes principales compositae transportantur."
+
+[CARGO_INFO_PETROL]
+base = "Petroleum, dieselium et combustibilia similia."
+
+[CARGO_INFO_PLASTICS]
+base = "Plasticum crudum ad ulteriorem elaborationem. Plerumque sub forma globulorum resinae transportatur."
+
+[CARGO_INFO_PIPEWORK]
+base = "Cisternae repositoriae, receptacula pressurica, silos, cylindri gasei atque congeries tuborum, ad usum in aedificiis urbium, industriis et agris."
+
+[CARGO_INFO_PROCESS_CHEMICALS]
+base = "Substantiae chemicae industriales in fabricatione et processu adhibitae, tamquam liquores, pulveres, gasses vel merces involutae transportatae."
+
+[CARGO_INFO_PYRITE_ORE]
+base = "Mineralia sulfidica, fundita ad varia producta industrialia conficienda."
+
+[CARGO_INFO_QUICKLIME]
+base = "Oxidum calcii, etiam calx usta appellatum. Tamquam pulvis finus transportatur, qui siccus servandus est."
+
+[CARGO_INFO_REBAR]
+base = "Virgae chalybeae tenues asperae, late ad structuras concretas roborandas adhibitae. Velut volutae vel fasciculi virgarum rectarum transportantur."
+
+[CARGO_INFO_RUBBER]
+base = "Praecipue latex naturalis."
+
+[CARGO_INFO_SALT]
+base = "Chimicum industriale late adhibitum. Plerumque ut merx ingens, quae siccam servandam est, transportatur."
+
+[CARGO_INFO_SAND]
+base = "Arena crassa ad aedificationem, aut arena silicea subtilis ad vitrum faciendum et metalla fundenda. Velut massa aut pulvis transportatur."
+
+[CARGO_INFO_SEALS_BELTS_AND_HOSES]
+base = "Sigilla flexilia, gasketae, tubi, cingula, mattae, manicae et cetera, e gutta vel materiis similibus facta."
+
+[CARGO_INFO_SLAG]
+base = "Productum residuum productionis ferri et chalybis."
+
+[CARGO_INFO_SODA_ASH]
+base = "Substantia chemica industrialis. Forma pulveris albi."
+
+[CARGO_INFO_STEEL_BILLETS_AND_BLOOMS]
+base = "Fundamenta chalybea semiperfecta. Rectangularia, quadrata vel rotunda in sectione transversali."
+
+[CARGO_INFO_STEEL_INGOTS]
+base = "Effusiones chalybis rudis, quae ulteriorem elaborationem requirunt. Lingottae parvae vel magnae admodum esse possunt. Formae lingottarum communes sunt rectangulares vel rotundae."
+
+[CARGO_INFO_STEEL_MERCHANT_BAR]
+base = "Virgae chalybeae, velut rotundae, quadratae, planae aliaque formae. Ut producta longa rectaque transportantur."
+
+[CARGO_INFO_STEEL_PIPE]
+base = "Tubuli chalybeii longi rotundi, ad liquores per ductus, in aedificiis, industriis aliisque locis transportandos."
+
+[CARGO_INFO_STEEL_SECTIONS]
+base = "Tabulae ac sectiones chalybis laminatae — trabea I, trabea H, canales etc. Velut producta longa rectaque transportantur."
+
+[CARGO_INFO_STEEL_SHEET]
+base = "Lamina et striga chalybis tenuis volutae, late ad alia producta fabricanda adhibitae. Velut laminae planae vel velut volutae transportantur."
+
+[CARGO_INFO_STEEL_SLAB]
+base = "Fundamenta chalybea semiperfecta. Semper plana et rectangularia in sectione transversali."
+
+[CARGO_INFO_STEEL_TUBE]
+base = "Tubus longus cavus, sectione transversa rotunda, rectangulari aliave. Ad structuras machinasque fabricandas adhibetur."
+
+[CARGO_INFO_STEEL_WIRE_ROD]
+base = "Filum chalybeum et virgae tenuiores. Praecipue ut voluta transportantur."
+
+[CARGO_INFO_STEEL_WIRE_ROPE]
+base = "Funes et cápulae, quae fiunt filo chalybeo ad diametrum minorem tracto, deinde in funes fasciculosos torsis."
+
+[CARGO_INFO_STRUCTURAL_STEELWORK]
+base = "Acer qualitatis structuralis, sive in sectionibus laminatis (trabes I-formes, H-formes etc.), sive in lamina plana, sive in sectionibus et trabibus fabricatis ex lamina iunctis per sudationem."
+
+[CARGO_INFO_SULPHUR]
+base = "Chimicum industriale late adhibitum. Flavum vividum, sive in pulvere sive in forma liquida."
+
+[CARGO_INFO_TIMBER]
+base = "Producta lignea elaborata ex officina serraria vel industriis similibus."
+
+[CARGO_INFO_TIN]
+base = "Lingotae."
+
+[CARGO_INFO_TINPLATE]
+base = "Lamina chalybea tenuis stannum obducta ut corrosioni resistat, praecipue ad cantharos, receptacula aliaque involucra adhibita."
+
+[CARGO_INFO_TYRE_CORD]
+base = "Filum tenue ad pneumatica roboranda adhibetur. In volvis transportatur."
+
+[CARGO_INFO_VEHICLE_BODIES]
+base = "Cabinae, opercula, ianuae atque similes structurae corporis ad vehicula fabricanda."
+
+[CARGO_INFO_VEHICLE_ENGINES]
+base = "Motores combustionis internae et partes apparatus motricis cognatae, velut transmissio et axes motricis."
+
+[CARGO_INFO_VEHICLE_PARTS]
+base = "Partes ad vehicula fabricanda, velut chassis et partes suspensionis, partes electricae, ornamenta externa et partes interiores."
+
+[CARGO_INFO_VEHICLES]
+base = "Praecipue autocamiones. Aut autocineta. Aut autocamiones levia. Fortasse tractores."
+
+[CARGO_INFO_WELDING_CONSUMABLES]
+base = "Supplimenta ad metallum secandum et sudandum, ut virgae sudatoriae, instrumenta et gasses industriales, inter quos acetylenum, argonum, propanum, oxygenium et nitrogenium."
+
+[CARGO_INFO_WOOD]
+base = "Trunci e silva."
+
+[CARGO_INFO_WOOD_PULP]
+base = "Fibra lignea elaborata, praecipue ad chartam faciendam adhibita, in fasciculis aut massa transportata."
+
+[CARGO_INFO_WOOL]
+base = "Fasciculi."
+
+[CARGO_INFO_ZINC]
+base = "Lingotae."
+
+#[INDUSTRY_INFO_GRAIN_MILL]
+#base = "example string here"
