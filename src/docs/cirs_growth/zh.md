@@ -60,6 +60,8 @@ OpenTTD 在**扫描游戏脚本时**就把设置说明与下拉选项当作纯�
 
 每个 `.tar` 仍包含全部 12 个语言文件，因此游戏内 StoryBook、城镇标牌、城镇窗口等 `GSText` 文本照常跟随游戏语言。只有设置菜单的语言在打包时固定。
 
+`settings_text.nut` 生成时带有 UTF-8 BOM。OpenTTD 的 Squirrel 加载器只对以 BOM 开头的 `.nut` 文件启用 UTF-8 词法分析；缺少 BOM 时非 ASCII 文本会被逐字节读取，显示为乱码。`lang/*.txt` 保持无 BOM，因为游戏用普通文本读取器而非 Squirrel 解析它们。
+
 ## 版本、翻译与许可
 
 - 版本 **13.0**（2026-11-14），Game Script API 14，最多支持 2000 个城镇。
