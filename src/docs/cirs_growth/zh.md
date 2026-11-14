@@ -58,6 +58,8 @@ OpenTTD 在**扫描游戏脚本时**就把设置说明与下拉选项当作纯�
 
 `python make_tar.py --lang <语言>` 会生成设置菜单为该语言的 `.tar`，`--all-langs` 则一次生成全部 12 种。默认 `CIRS_Growth-13.0.tar` 为英文；本地化包命名为 `CIRS_Growth-13.0-<语言>.tar`（例如 `CIRS_Growth-13.0-simplified_chinese.tar`）。请选择与你的 OpenTTD 语言一致的构建；可用语言与游戏内翻译的 12 种相同。
 
+BaNaNaS /「在线内容」发布的是英文默认包，因为一个包只能固定一种设置菜单语言。本地化包附在 [GitHub Releases](https://github.com/Maicarons/CIRS-Growth/releases) 上，需手动安装：把选定的 `.tar` 放进 OpenTTD 的 `game/` 文件夹，并只保留一个 `CIRS_Growth-13.0*.tar`——脚本名和版本相同的包会冲突，只有第一个会被加载。
+
 每个 `.tar` 仍包含全部 12 个语言文件，因此游戏内 StoryBook、城镇标牌、城镇窗口等 `GSText` 文本照常跟随游戏语言。只有设置菜单的语言在打包时固定。
 
 `settings_text.nut` 生成时带有 UTF-8 BOM。OpenTTD 的 Squirrel 加载器只对以 BOM 开头的 `.nut` 文件启用 UTF-8 词法分析；缺少 BOM 时非 ASCII 文本会被逐字节读取，显示为乱码。`lang/*.txt` 保持无 BOM，因为游戏用普通文本读取器而非 Squirrel 解析它们。
