@@ -52,6 +52,14 @@ CIRS Growth 同时保留原版 RVG 对 Baseset、FIRS、ECS、YETI、NAIS 等众
 
 CIRS Growth 提供大量游戏脚本设置，涵盖城镇信息显示模式、难度 / 目标缩放、城镇名下的增长率文字、*Eternal love*、**货物随机化**（类型、就近概率、开局即显示城镇货物）、为支持的经济开启可选的**第 6 个货物分类**（Steeltown）、各类最低人口、城镇增长系数、供给影响、指数系数、最低增长率、补贴行为、产业密度与日志级别等。游戏内 StoryBook 会列出当前设置下使用的全部分类。
 
+### 设置菜单翻译
+
+OpenTTD 在**扫描游戏脚本时**就把设置说明与下拉选项当作纯文本读取，此时尚未加载任何语言。因此运行中的游戏无法翻译它们，单个 `.tar` 也无法在运行时切换设置菜单的语言。CIRS Growth 在**构建阶段**解决：25 条说明与 37 个选项文本以 `STR_SETTINGS_*` 键保存在 `lang/*.txt` 中，`tools/gen_settings.py` 将指定语言文件转换为 `settings_text.nut`，由 `info.nut` 用 `require()` 加载。
+
+`python make_tar.py --lang <语言>` 会生成设置菜单为该语言的 `.tar`，`--all-langs` 则一次生成全部 12 种。默认 `CIRS_Growth-13.0.tar` 为英文；本地化包命名为 `CIRS_Growth-13.0-<语言>.tar`（例如 `CIRS_Growth-13.0-simplified_chinese.tar`）。请选择与你的 OpenTTD 语言一致的构建；可用语言与游戏内翻译的 12 种相同。
+
+每个 `.tar` 仍包含全部 12 个语言文件，因此游戏内 StoryBook、城镇标牌、城镇窗口等 `GSText` 文本照常跟随游戏语言。只有设置菜单的语言在打包时固定。
+
 ## 版本、翻译与许可
 
 - 版本 **13.0**（2026-11-14），Game Script API 14，最多支持 2000 个城镇。

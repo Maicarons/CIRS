@@ -52,6 +52,14 @@ CIRS Growth also keeps the original RVG support for Baseset, FIRS, ECS, YETI, NA
 
 CIRS Growth exposes a wide range of Game Script settings, including town-info display mode, difficulty / goal scaling, growth-rate text under town names, *Eternal love*, **cargo randomization** (type, nearby probability, show cargos from start), an optional **6th cargo category** for supported economies (Steeltown), per-category minimum population, town growth factor, supply impact, exponentiality, lowest growth rate, subsidy behaviour, industry density and log level. The in-game StoryBook documents every category used under the current settings.
 
+### Settings menu translations
+
+OpenTTD reads Game Script setting descriptions and drop-down labels as **plain strings when it scans the script**, before any language is loaded. A running game therefore cannot translate them, and a single `.tar` cannot switch the settings menu language at runtime. CIRS Growth solves this at **build time**: all 25 descriptions and 37 label values live as `STR_SETTINGS_*` keys in `lang/*.txt`, and `tools/gen_settings.py` turns one language file into `settings_text.nut`, which `info.nut` loads with `require()`.
+
+`python make_tar.py --lang <language>` builds a `.tar` whose settings menu is in that language; `--all-langs` builds all 12. The default `CIRS_Growth-13.0.tar` uses English, and localized builds are named `CIRS_Growth-13.0-<language>.tar` (for example `CIRS_Growth-13.0-simplified_chinese.tar`). Pick the build matching your OpenTTD language; the same 12 languages as the in-game translations are available.
+
+Every `.tar` still ships all 12 language files, so the in-game StoryBook, town signs, town windows and other `GSText` strings follow the game's language as usual. The settings menu is the only part that is fixed when the archive is built.
+
 ## Version, translations and license
 
 - Version **13.0** (2026-11-14), Game Script API 14, up to 2000 towns.
