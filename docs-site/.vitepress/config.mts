@@ -29,6 +29,7 @@ export default defineConfig({
           { text: 'Economies', link: '/economies.html' },
           { text: 'Cargos', link: '/cargos.html' },
           { text: 'Industries', link: '/industries.html' },
+          { text: 'CIRS Growth', link: '/cirs-growth.html' },
           {
             text: 'Reference',
             items: [
@@ -45,7 +46,8 @@ export default defineConfig({
               { text: 'Get started', link: '/get-started.html' },
               { text: 'Economies', link: '/economies.html' },
               { text: 'Cargos', link: '/cargos.html' },
-              { text: 'Industries', link: '/industries.html' }
+              { text: 'Industries', link: '/industries.html' },
+              { text: 'CIRS Growth', link: '/cirs-growth.html' }
             ]
           },
           {
@@ -78,6 +80,7 @@ export default defineConfig({
           { text: '经济', link: '/zh/economies.html' },
           { text: '货物', link: '/zh/cargos.html' },
           { text: '产业', link: '/zh/industries.html' },
+          { text: 'CIRS Growth', link: '/zh/cirs-growth.html' },
           {
             text: '参考',
             items: [
@@ -94,7 +97,8 @@ export default defineConfig({
               { text: '开始游戏', link: '/zh/get-started.html' },
               { text: '经济', link: '/zh/economies.html' },
               { text: '货物', link: '/zh/cargos.html' },
-              { text: '产业', link: '/zh/industries.html' }
+              { text: '产业', link: '/zh/industries.html' },
+              { text: 'CIRS Growth', link: '/zh/cirs-growth.html' }
             ]
           },
           {
@@ -127,6 +131,7 @@ export default defineConfig({
           { text: 'Économies', link: '/fr/economies.html' },
           { text: 'Marchandises', link: '/fr/cargos.html' },
           { text: 'Industries', link: '/fr/industries.html' },
+          { text: 'CIRS Growth', link: '/fr/cirs-growth.html' },
           {
             text: 'Référence',
             items: [
@@ -143,7 +148,8 @@ export default defineConfig({
               { text: 'Démarrage', link: '/fr/get-started.html' },
               { text: 'Économies', link: '/fr/economies.html' },
               { text: 'Marchandises', link: '/fr/cargos.html' },
-              { text: 'Industries', link: '/fr/industries.html' }
+              { text: 'Industries', link: '/fr/industries.html' },
+              { text: 'CIRS Growth', link: '/fr/cirs-growth.html' }
             ]
           },
           {
@@ -176,6 +182,7 @@ export default defineConfig({
           { text: 'Wirtschaften', link: '/de/economies.html' },
           { text: 'Güter', link: '/de/cargos.html' },
           { text: 'Industrien', link: '/de/industries.html' },
+          { text: 'CIRS Growth', link: '/de/cirs-growth.html' },
           {
             text: 'Referenz',
             items: [
@@ -192,7 +199,8 @@ export default defineConfig({
               { text: 'Erste Schritte', link: '/de/get-started.html' },
               { text: 'Wirtschaften', link: '/de/economies.html' },
               { text: 'Güter', link: '/de/cargos.html' },
-              { text: 'Industrien', link: '/de/industries.html' }
+              { text: 'Industrien', link: '/de/industries.html' },
+              { text: 'CIRS Growth', link: '/de/cirs-growth.html' }
             ]
           },
           {
@@ -225,6 +233,7 @@ export default defineConfig({
           { text: 'Economías', link: '/es/economies.html' },
           { text: 'Mercancías', link: '/es/cargos.html' },
           { text: 'Industrias', link: '/es/industries.html' },
+          { text: 'CIRS Growth', link: '/es/cirs-growth.html' },
           {
             text: 'Referencia',
             items: [
@@ -241,7 +250,8 @@ export default defineConfig({
               { text: 'Primeros pasos', link: '/es/get-started.html' },
               { text: 'Economías', link: '/es/economies.html' },
               { text: 'Mercancías', link: '/es/cargos.html' },
-              { text: 'Industrias', link: '/es/industries.html' }
+              { text: 'Industrias', link: '/es/industries.html' },
+              { text: 'CIRS Growth', link: '/es/cirs-growth.html' }
             ]
           },
           {
@@ -274,6 +284,7 @@ export default defineConfig({
           { text: 'Economias', link: '/pt/economies.html' },
           { text: 'Cargas', link: '/pt/cargos.html' },
           { text: 'Indústrias', link: '/pt/industries.html' },
+          { text: 'CIRS Growth', link: '/pt/cirs-growth.html' },
           {
             text: 'Referência',
             items: [
@@ -290,7 +301,8 @@ export default defineConfig({
               { text: 'Primeiros passos', link: '/pt/get-started.html' },
               { text: 'Economias', link: '/pt/economies.html' },
               { text: 'Cargas', link: '/pt/cargos.html' },
-              { text: 'Indústrias', link: '/pt/industries.html' }
+              { text: 'Indústrias', link: '/pt/industries.html' },
+              { text: 'CIRS Growth', link: '/pt/cirs-growth.html' }
             ]
           },
           {
@@ -323,6 +335,7 @@ export default defineConfig({
           { text: '경제', link: '/ko/economies.html' },
           { text: '화물', link: '/ko/cargos.html' },
           { text: '산업', link: '/ko/industries.html' },
+          { text: 'CIRS Growth', link: '/ko/cirs-growth.html' },
           {
             text: '참조',
             items: [
@@ -339,7 +352,8 @@ export default defineConfig({
               { text: '시작하기', link: '/ko/get-started.html' },
               { text: '경제', link: '/ko/economies.html' },
               { text: '화물', link: '/ko/cargos.html' },
-              { text: '산업', link: '/ko/industries.html' }
+              { text: '산업', link: '/ko/industries.html' },
+              { text: 'CIRS Growth', link: '/ko/cirs-growth.html' }
             ]
           },
           {
@@ -373,6 +387,7 @@ export default defineConfig({
           { text: 'الاقتصادات', link: '/ar/economies.html' },
           { text: 'البضائع', link: '/ar/cargos.html' },
           { text: 'الصناعات', link: '/ar/industries.html' },
+          { text: 'CIRS Growth', link: '/ar/cirs-growth.html' },
           {
             text: 'مرجع',
             items: [
@@ -389,7 +404,8 @@ export default defineConfig({
               { text: 'بدء الاستخدام', link: '/ar/get-started.html' },
               { text: 'الاقتصادات', link: '/ar/economies.html' },
               { text: 'البضائع', link: '/ar/cargos.html' },
-              { text: 'الصناعات', link: '/ar/industries.html' }
+              { text: 'الصناعات', link: '/ar/industries.html' },
+              { text: 'CIRS Growth', link: '/ar/cirs-growth.html' }
             ]
           },
           {
@@ -422,6 +438,7 @@ export default defineConfig({
           { text: "Ekonomieë", link: "/af/economies.html" },
           { text: "Vragte", link: "/af/cargos.html" },
           { text: "Nywerhede", link: "/af/industries.html" },
+          { text: "CIRS Growth", link: "/af/cirs-growth.html" },
           {
             text: "Verwysing",
             items: [
@@ -438,7 +455,8 @@ export default defineConfig({
               { text: "Begin nou", link: "/af/get-started.html" },
               { text: "Ekonomieë", link: "/af/economies.html" },
               { text: "Vragte", link: "/af/cargos.html" },
-              { text: "Nywerhede", link: "/af/industries.html" }
+              { text: "Nywerhede", link: "/af/industries.html" },
+              { text: "CIRS Growth", link: "/af/cirs-growth.html" }
             ]
           },
           {
@@ -471,6 +489,7 @@ export default defineConfig({
           { text: "Гаспадаркі", link: "/be/economies.html" },
           { text: "Грузы", link: "/be/cargos.html" },
           { text: "Галіны прамысловасці", link: "/be/industries.html" },
+          { text: "CIRS Growth", link: "/be/cirs-growth.html" },
           {
             text: "Спасылкі",
             items: [
@@ -487,7 +506,8 @@ export default defineConfig({
               { text: "Пачаць", link: "/be/get-started.html" },
               { text: "Гаспадаркі", link: "/be/economies.html" },
               { text: "Грузы", link: "/be/cargos.html" },
-              { text: "Галіны прамысловасці", link: "/be/industries.html" }
+              { text: "Галіны прамысловасці", link: "/be/industries.html" },
+              { text: "CIRS Growth", link: "/be/cirs-growth.html" }
             ]
           },
           {
@@ -520,6 +540,7 @@ export default defineConfig({
           { text: "Economies", link: "/ca/economies.html" },
           { text: "Càrregues", link: "/ca/cargos.html" },
           { text: "Indústries", link: "/ca/industries.html" },
+          { text: "CIRS Growth", link: "/ca/cirs-growth.html" },
           {
             text: "Referència",
             items: [
@@ -536,7 +557,8 @@ export default defineConfig({
               { text: "Començar", link: "/ca/get-started.html" },
               { text: "Economies", link: "/ca/economies.html" },
               { text: "Càrregues", link: "/ca/cargos.html" },
-              { text: "Indústries", link: "/ca/industries.html" }
+              { text: "Indústries", link: "/ca/industries.html" },
+              { text: "CIRS Growth", link: "/ca/cirs-growth.html" }
             ]
           },
           {
@@ -569,6 +591,7 @@ export default defineConfig({
           { text: "Ekonomiky", link: "/cs/economies.html" },
           { text: "Náklady", link: "/cs/cargos.html" },
           { text: "Průmyslová odvětví", link: "/cs/industries.html" },
+          { text: "CIRS Growth", link: "/cs/cirs-growth.html" },
           {
             text: "Reference",
             items: [
@@ -585,7 +608,8 @@ export default defineConfig({
               { text: "Začít", link: "/cs/get-started.html" },
               { text: "Ekonomiky", link: "/cs/economies.html" },
               { text: "Náklady", link: "/cs/cargos.html" },
-              { text: "Průmyslová odvětví", link: "/cs/industries.html" }
+              { text: "Průmyslová odvětví", link: "/cs/industries.html" },
+              { text: "CIRS Growth", link: "/cs/cirs-growth.html" }
             ]
           },
           {
@@ -618,6 +642,7 @@ export default defineConfig({
           { text: "Economïau", link: "/cy/economies.html" },
           { text: "Cludiant", link: "/cy/cargos.html" },
           { text: "Diwydiannau", link: "/cy/industries.html" },
+          { text: "CIRS Growth", link: "/cy/cirs-growth.html" },
           {
             text: "Cyfeiriad",
             items: [
@@ -634,7 +659,8 @@ export default defineConfig({
               { text: "Dechrau", link: "/cy/get-started.html" },
               { text: "Economïau", link: "/cy/economies.html" },
               { text: "Cludiant", link: "/cy/cargos.html" },
-              { text: "Diwydiannau", link: "/cy/industries.html" }
+              { text: "Diwydiannau", link: "/cy/industries.html" },
+              { text: "CIRS Growth", link: "/cy/cirs-growth.html" }
             ]
           },
           {
@@ -667,6 +693,7 @@ export default defineConfig({
           { text: "Økonomier", link: "/da/economies.html" },
           { text: "Godsvarer", link: "/da/cargos.html" },
           { text: "Industrier", link: "/da/industries.html" },
+          { text: "CIRS Growth", link: "/da/cirs-growth.html" },
           {
             text: "Reference",
             items: [
@@ -683,7 +710,8 @@ export default defineConfig({
               { text: "Kom i gang", link: "/da/get-started.html" },
               { text: "Økonomier", link: "/da/economies.html" },
               { text: "Godsvarer", link: "/da/cargos.html" },
-              { text: "Industrier", link: "/da/industries.html" }
+              { text: "Industrier", link: "/da/industries.html" },
+              { text: "CIRS Growth", link: "/da/cirs-growth.html" }
             ]
           },
           {
@@ -716,6 +744,7 @@ export default defineConfig({
           { text: "Ekonomioj", link: "/eo/economies.html" },
           { text: "Varoj", link: "/eo/cargos.html" },
           { text: "Industrioj", link: "/eo/industries.html" },
+          { text: "CIRS Growth", link: "/eo/cirs-growth.html" },
           {
             text: "Referenco",
             items: [
@@ -732,7 +761,8 @@ export default defineConfig({
               { text: "Ekomi", link: "/eo/get-started.html" },
               { text: "Ekonomioj", link: "/eo/economies.html" },
               { text: "Varoj", link: "/eo/cargos.html" },
-              { text: "Industrioj", link: "/eo/industries.html" }
+              { text: "Industrioj", link: "/eo/industries.html" },
+              { text: "CIRS Growth", link: "/eo/cirs-growth.html" }
             ]
           },
           {
@@ -765,6 +795,7 @@ export default defineConfig({
           { text: "Economías", link: "/es-mx/economies.html" },
           { text: "Cargas", link: "/es-mx/cargos.html" },
           { text: "Industrias", link: "/es-mx/industries.html" },
+          { text: "CIRS Growth", link: "/es-mx/cirs-growth.html" },
           {
             text: "Referencia",
             items: [
@@ -781,7 +812,8 @@ export default defineConfig({
               { text: "Empezar", link: "/es-mx/get-started.html" },
               { text: "Economías", link: "/es-mx/economies.html" },
               { text: "Cargas", link: "/es-mx/cargos.html" },
-              { text: "Industrias", link: "/es-mx/industries.html" }
+              { text: "Industrias", link: "/es-mx/industries.html" },
+              { text: "CIRS Growth", link: "/es-mx/cirs-growth.html" }
             ]
           },
           {
@@ -814,6 +846,7 @@ export default defineConfig({
           { text: "Majandused", link: "/et/economies.html" },
           { text: "Veosed", link: "/et/cargos.html" },
           { text: "Tööstused", link: "/et/industries.html" },
+          { text: "CIRS Growth", link: "/et/cirs-growth.html" },
           {
             text: "Viide",
             items: [
@@ -830,7 +863,8 @@ export default defineConfig({
               { text: "Alustamine", link: "/et/get-started.html" },
               { text: "Majandused", link: "/et/economies.html" },
               { text: "Veosed", link: "/et/cargos.html" },
-              { text: "Tööstused", link: "/et/industries.html" }
+              { text: "Tööstused", link: "/et/industries.html" },
+              { text: "CIRS Growth", link: "/et/cirs-growth.html" }
             ]
           },
           {
@@ -863,6 +897,7 @@ export default defineConfig({
           { text: "Talousjärjestelmät", link: "/fi/economies.html" },
           { text: "Rahtitavarat", link: "/fi/cargos.html" },
           { text: "Teollisuus", link: "/fi/industries.html" },
+          { text: "CIRS Growth", link: "/fi/cirs-growth.html" },
           {
             text: "Viitteet",
             items: [
@@ -879,7 +914,8 @@ export default defineConfig({
               { text: "Aloita", link: "/fi/get-started.html" },
               { text: "Talousjärjestelmät", link: "/fi/economies.html" },
               { text: "Rahtitavarat", link: "/fi/cargos.html" },
-              { text: "Teollisuus", link: "/fi/industries.html" }
+              { text: "Teollisuus", link: "/fi/industries.html" },
+              { text: "CIRS Growth", link: "/fi/cirs-growth.html" }
             ]
           },
           {
@@ -912,6 +948,7 @@ export default defineConfig({
           { text: "Eaconamaidhean", link: "/gd/economies.html" },
           { text: "Bathar", link: "/gd/cargos.html" },
           { text: "Gnìomhachasan", link: "/gd/industries.html" },
+          { text: "CIRS Growth", link: "/gd/cirs-growth.html" },
           {
             text: "Iomradh",
             items: [
@@ -928,7 +965,8 @@ export default defineConfig({
               { text: "Tòisich", link: "/gd/get-started.html" },
               { text: "Eaconamaidhean", link: "/gd/economies.html" },
               { text: "Bathar", link: "/gd/cargos.html" },
-              { text: "Gnìomhachasan", link: "/gd/industries.html" }
+              { text: "Gnìomhachasan", link: "/gd/industries.html" },
+              { text: "CIRS Growth", link: "/gd/cirs-growth.html" }
             ]
           },
           {
@@ -961,6 +999,7 @@ export default defineConfig({
           { text: "Economías", link: "/gl/economies.html" },
           { text: "Cargas", link: "/gl/cargos.html" },
           { text: "Industrias", link: "/gl/industries.html" },
+          { text: "CIRS Growth", link: "/gl/cirs-growth.html" },
           {
             text: "Referencia",
             items: [
@@ -977,7 +1016,8 @@ export default defineConfig({
               { text: "Comezar", link: "/gl/get-started.html" },
               { text: "Economías", link: "/gl/economies.html" },
               { text: "Cargas", link: "/gl/cargos.html" },
-              { text: "Industrias", link: "/gl/industries.html" }
+              { text: "Industrias", link: "/gl/industries.html" },
+              { text: "CIRS Growth", link: "/gl/cirs-growth.html" }
             ]
           },
           {
@@ -1010,6 +1050,7 @@ export default defineConfig({
           { text: "Ekonomije", link: "/hr/economies.html" },
           { text: "Tereti", link: "/hr/cargos.html" },
           { text: "Industrije", link: "/hr/industries.html" },
+          { text: "CIRS Growth", link: "/hr/cirs-growth.html" },
           {
             text: "Referenca",
             items: [
@@ -1026,7 +1067,8 @@ export default defineConfig({
               { text: "Započnite", link: "/hr/get-started.html" },
               { text: "Ekonomije", link: "/hr/economies.html" },
               { text: "Tereti", link: "/hr/cargos.html" },
-              { text: "Industrije", link: "/hr/industries.html" }
+              { text: "Industrije", link: "/hr/industries.html" },
+              { text: "CIRS Growth", link: "/hr/cirs-growth.html" }
             ]
           },
           {
@@ -1059,6 +1101,7 @@ export default defineConfig({
           { text: "Gazdaságok", link: "/hu/economies.html" },
           { text: "Rakományok", link: "/hu/cargos.html" },
           { text: "Iparágak", link: "/hu/industries.html" },
+          { text: "CIRS Growth", link: "/hu/cirs-growth.html" },
           {
             text: "Referencia",
             items: [
@@ -1075,7 +1118,8 @@ export default defineConfig({
               { text: "Kezdés", link: "/hu/get-started.html" },
               { text: "Gazdaságok", link: "/hu/economies.html" },
               { text: "Rakományok", link: "/hu/cargos.html" },
-              { text: "Iparágak", link: "/hu/industries.html" }
+              { text: "Iparágak", link: "/hu/industries.html" },
+              { text: "CIRS Growth", link: "/hu/cirs-growth.html" }
             ]
           },
           {
@@ -1108,6 +1152,7 @@ export default defineConfig({
           { text: "Ekonomi", link: "/id/economies.html" },
           { text: "Muatan", link: "/id/cargos.html" },
           { text: "Industri", link: "/id/industries.html" },
+          { text: "CIRS Growth", link: "/id/cirs-growth.html" },
           {
             text: "Referensi",
             items: [
@@ -1124,7 +1169,8 @@ export default defineConfig({
               { text: "Mulai", link: "/id/get-started.html" },
               { text: "Ekonomi", link: "/id/economies.html" },
               { text: "Muatan", link: "/id/cargos.html" },
-              { text: "Industri", link: "/id/industries.html" }
+              { text: "Industri", link: "/id/industries.html" },
+              { text: "CIRS Growth", link: "/id/cirs-growth.html" }
             ]
           },
           {
@@ -1157,6 +1203,7 @@ export default defineConfig({
           { text: "Economie", link: "/it/economies.html" },
           { text: "Carichi", link: "/it/cargos.html" },
           { text: "Industrie", link: "/it/industries.html" },
+          { text: "CIRS Growth", link: "/it/cirs-growth.html" },
           {
             text: "Riferimenti",
             items: [
@@ -1173,7 +1220,8 @@ export default defineConfig({
               { text: "Inizia", link: "/it/get-started.html" },
               { text: "Economie", link: "/it/economies.html" },
               { text: "Carichi", link: "/it/cargos.html" },
-              { text: "Industrie", link: "/it/industries.html" }
+              { text: "Industrie", link: "/it/industries.html" },
+              { text: "CIRS Growth", link: "/it/cirs-growth.html" }
             ]
           },
           {
@@ -1206,6 +1254,7 @@ export default defineConfig({
           { text: "経済", link: "/ja/economies.html" },
           { text: "積荷", link: "/ja/cargos.html" },
           { text: "産業", link: "/ja/industries.html" },
+          { text: "CIRS Growth", link: "/ja/cirs-growth.html" },
           {
             text: "リファレンス",
             items: [
@@ -1222,7 +1271,8 @@ export default defineConfig({
               { text: "始める", link: "/ja/get-started.html" },
               { text: "経済", link: "/ja/economies.html" },
               { text: "積荷", link: "/ja/cargos.html" },
-              { text: "産業", link: "/ja/industries.html" }
+              { text: "産業", link: "/ja/industries.html" },
+              { text: "CIRS Growth", link: "/ja/cirs-growth.html" }
             ]
           },
           {
@@ -1255,6 +1305,7 @@ export default defineConfig({
           { text: "Oeconomiae", link: "/la/economies.html" },
           { text: "Onera", link: "/la/cargos.html" },
           { text: "Industriae", link: "/la/industries.html" },
+          { text: "CIRS Growth", link: "/la/cirs-growth.html" },
           {
             text: "Referentia",
             items: [
@@ -1271,7 +1322,8 @@ export default defineConfig({
               { text: "Incipiamus", link: "/la/get-started.html" },
               { text: "Oeconomiae", link: "/la/economies.html" },
               { text: "Onera", link: "/la/cargos.html" },
-              { text: "Industriae", link: "/la/industries.html" }
+              { text: "Industriae", link: "/la/industries.html" },
+              { text: "CIRS Growth", link: "/la/cirs-growth.html" }
             ]
           },
           {
@@ -1304,6 +1356,7 @@ export default defineConfig({
           { text: "Ekonomien", link: "/lb/economies.html" },
           { text: "Gidder", link: "/lb/cargos.html" },
           { text: "Industrien", link: "/lb/industries.html" },
+          { text: "CIRS Growth", link: "/lb/cirs-growth.html" },
           {
             text: "Referenz",
             items: [
@@ -1320,7 +1373,8 @@ export default defineConfig({
               { text: "Ufänken", link: "/lb/get-started.html" },
               { text: "Ekonomien", link: "/lb/economies.html" },
               { text: "Gidder", link: "/lb/cargos.html" },
-              { text: "Industrien", link: "/lb/industries.html" }
+              { text: "Industrien", link: "/lb/industries.html" },
+              { text: "CIRS Growth", link: "/lb/cirs-growth.html" }
             ]
           },
           {
@@ -1353,6 +1407,7 @@ export default defineConfig({
           { text: "Økonomier", link: "/nb/economies.html" },
           { text: "Varer", link: "/nb/cargos.html" },
           { text: "Industrier", link: "/nb/industries.html" },
+          { text: "CIRS Growth", link: "/nb/cirs-growth.html" },
           {
             text: "Referanse",
             items: [
@@ -1369,7 +1424,8 @@ export default defineConfig({
               { text: "Kom i gang", link: "/nb/get-started.html" },
               { text: "Økonomier", link: "/nb/economies.html" },
               { text: "Varer", link: "/nb/cargos.html" },
-              { text: "Industrier", link: "/nb/industries.html" }
+              { text: "Industrier", link: "/nb/industries.html" },
+              { text: "CIRS Growth", link: "/nb/cirs-growth.html" }
             ]
           },
           {
@@ -1402,6 +1458,7 @@ export default defineConfig({
           { text: "Economieën", link: "/nl/economies.html" },
           { text: "Goederen", link: "/nl/cargos.html" },
           { text: "Industrieën", link: "/nl/industries.html" },
+          { text: "CIRS Growth", link: "/nl/cirs-growth.html" },
           {
             text: "Referentie",
             items: [
@@ -1418,7 +1475,8 @@ export default defineConfig({
               { text: "Aan de slag", link: "/nl/get-started.html" },
               { text: "Economieën", link: "/nl/economies.html" },
               { text: "Goederen", link: "/nl/cargos.html" },
-              { text: "Industrieën", link: "/nl/industries.html" }
+              { text: "Industrieën", link: "/nl/industries.html" },
+              { text: "CIRS Growth", link: "/nl/cirs-growth.html" }
             ]
           },
           {
@@ -1451,6 +1509,7 @@ export default defineConfig({
           { text: "Gospodarki", link: "/pl/economies.html" },
           { text: "Ładunki", link: "/pl/cargos.html" },
           { text: "Branże", link: "/pl/industries.html" },
+          { text: "CIRS Growth", link: "/pl/cirs-growth.html" },
           {
             text: "Referencje",
             items: [
@@ -1467,7 +1526,8 @@ export default defineConfig({
               { text: "Rozpocznij", link: "/pl/get-started.html" },
               { text: "Gospodarki", link: "/pl/economies.html" },
               { text: "Ładunki", link: "/pl/cargos.html" },
-              { text: "Branże", link: "/pl/industries.html" }
+              { text: "Branże", link: "/pl/industries.html" },
+              { text: "CIRS Growth", link: "/pl/cirs-growth.html" }
             ]
           },
           {
@@ -1500,6 +1560,7 @@ export default defineConfig({
           { text: "Economias", link: "/pt-br/economies.html" },
           { text: "Cargas", link: "/pt-br/cargos.html" },
           { text: "Indústrias", link: "/pt-br/industries.html" },
+          { text: "CIRS Growth", link: "/pt-br/cirs-growth.html" },
           {
             text: "Referência",
             items: [
@@ -1516,7 +1577,8 @@ export default defineConfig({
               { text: "Começar", link: "/pt-br/get-started.html" },
               { text: "Economias", link: "/pt-br/economies.html" },
               { text: "Cargas", link: "/pt-br/cargos.html" },
-              { text: "Indústrias", link: "/pt-br/industries.html" }
+              { text: "Indústrias", link: "/pt-br/industries.html" },
+              { text: "CIRS Growth", link: "/pt-br/cirs-growth.html" }
             ]
           },
           {
@@ -1549,6 +1611,7 @@ export default defineConfig({
           { text: "Economii", link: "/ro/economies.html" },
           { text: "Mărfuri", link: "/ro/cargos.html" },
           { text: "Industrii", link: "/ro/industries.html" },
+          { text: "CIRS Growth", link: "/ro/cirs-growth.html" },
           {
             text: "Referință",
             items: [
@@ -1565,7 +1628,8 @@ export default defineConfig({
               { text: "Începeți", link: "/ro/get-started.html" },
               { text: "Economii", link: "/ro/economies.html" },
               { text: "Mărfuri", link: "/ro/cargos.html" },
-              { text: "Industrii", link: "/ro/industries.html" }
+              { text: "Industrii", link: "/ro/industries.html" },
+              { text: "CIRS Growth", link: "/ro/cirs-growth.html" }
             ]
           },
           {
@@ -1598,6 +1662,7 @@ export default defineConfig({
           { text: "Экономики", link: "/ru/economies.html" },
           { text: "Грузы", link: "/ru/cargos.html" },
           { text: "Отрасли", link: "/ru/industries.html" },
+          { text: "CIRS Growth", link: "/ru/cirs-growth.html" },
           {
             text: "Справочник",
             items: [
@@ -1614,7 +1679,8 @@ export default defineConfig({
               { text: "Начать", link: "/ru/get-started.html" },
               { text: "Экономики", link: "/ru/economies.html" },
               { text: "Грузы", link: "/ru/cargos.html" },
-              { text: "Отрасли", link: "/ru/industries.html" }
+              { text: "Отрасли", link: "/ru/industries.html" },
+              { text: "CIRS Growth", link: "/ru/cirs-growth.html" }
             ]
           },
           {
@@ -1647,6 +1713,7 @@ export default defineConfig({
           { text: "Ekonomiky", link: "/sk/economies.html" },
           { text: "Náklady", link: "/sk/cargos.html" },
           { text: "Priemyselné odvetvia", link: "/sk/industries.html" },
+          { text: "CIRS Growth", link: "/sk/cirs-growth.html" },
           {
             text: "Referencia",
             items: [
@@ -1663,7 +1730,8 @@ export default defineConfig({
               { text: "Začať", link: "/sk/get-started.html" },
               { text: "Ekonomiky", link: "/sk/economies.html" },
               { text: "Náklady", link: "/sk/cargos.html" },
-              { text: "Priemyselné odvetvia", link: "/sk/industries.html" }
+              { text: "Priemyselné odvetvia", link: "/sk/industries.html" },
+              { text: "CIRS Growth", link: "/sk/cirs-growth.html" }
             ]
           },
           {
@@ -1696,6 +1764,7 @@ export default defineConfig({
           { text: "Ekonomije", link: "/sr/economies.html" },
           { text: "Tereti", link: "/sr/cargos.html" },
           { text: "Industrije", link: "/sr/industries.html" },
+          { text: "CIRS Growth", link: "/sr/cirs-growth.html" },
           {
             text: "Referenca",
             items: [
@@ -1712,7 +1781,8 @@ export default defineConfig({
               { text: "Započnite", link: "/sr/get-started.html" },
               { text: "Ekonomije", link: "/sr/economies.html" },
               { text: "Tereti", link: "/sr/cargos.html" },
-              { text: "Industrije", link: "/sr/industries.html" }
+              { text: "Industrije", link: "/sr/industries.html" },
+              { text: "CIRS Growth", link: "/sr/cirs-growth.html" }
             ]
           },
           {
@@ -1745,6 +1815,7 @@ export default defineConfig({
           { text: "Ekonomier", link: "/sv/economies.html" },
           { text: "Varor", link: "/sv/cargos.html" },
           { text: "Industrier", link: "/sv/industries.html" },
+          { text: "CIRS Growth", link: "/sv/cirs-growth.html" },
           {
             text: "Referens",
             items: [
@@ -1761,7 +1832,8 @@ export default defineConfig({
               { text: "Kom igång", link: "/sv/get-started.html" },
               { text: "Ekonomier", link: "/sv/economies.html" },
               { text: "Varor", link: "/sv/cargos.html" },
-              { text: "Industrier", link: "/sv/industries.html" }
+              { text: "Industrier", link: "/sv/industries.html" },
+              { text: "CIRS Growth", link: "/sv/cirs-growth.html" }
             ]
           },
           {
@@ -1794,6 +1866,7 @@ export default defineConfig({
           { text: "பொருளாதாரங்கள்", link: "/ta/economies.html" },
           { text: "சரக்குகள்", link: "/ta/cargos.html" },
           { text: "தொழில்கள்", link: "/ta/industries.html" },
+          { text: "CIRS Growth", link: "/ta/cirs-growth.html" },
           {
             text: "குறிப்பு",
             items: [
@@ -1810,7 +1883,8 @@ export default defineConfig({
               { text: "தொடங்கவும்", link: "/ta/get-started.html" },
               { text: "பொருளாதாரங்கள்", link: "/ta/economies.html" },
               { text: "சரக்குகள்", link: "/ta/cargos.html" },
-              { text: "தொழில்கள்", link: "/ta/industries.html" }
+              { text: "தொழில்கள்", link: "/ta/industries.html" },
+              { text: "CIRS Growth", link: "/ta/cirs-growth.html" }
             ]
           },
           {
@@ -1843,6 +1917,7 @@ export default defineConfig({
           { text: "Ekonomiler", link: "/tr/economies.html" },
           { text: "Yükler", link: "/tr/cargos.html" },
           { text: "Endüstriler", link: "/tr/industries.html" },
+          { text: "CIRS Growth", link: "/tr/cirs-growth.html" },
           {
             text: "Referans",
             items: [
@@ -1859,7 +1934,8 @@ export default defineConfig({
               { text: "Başlayın", link: "/tr/get-started.html" },
               { text: "Ekonomiler", link: "/tr/economies.html" },
               { text: "Yükler", link: "/tr/cargos.html" },
-              { text: "Endüstriler", link: "/tr/industries.html" }
+              { text: "Endüstriler", link: "/tr/industries.html" },
+              { text: "CIRS Growth", link: "/tr/cirs-growth.html" }
             ]
           },
           {
@@ -1892,6 +1968,7 @@ export default defineConfig({
           { text: "經濟", link: "/zh-hant/economies.html" },
           { text: "貨物", link: "/zh-hant/cargos.html" },
           { text: "產業", link: "/zh-hant/industries.html" },
+          { text: "CIRS Growth", link: "/zh-hant/cirs-growth.html" },
           {
             text: "參考資料",
             items: [
@@ -1908,7 +1985,8 @@ export default defineConfig({
               { text: "開始使用", link: "/zh-hant/get-started.html" },
               { text: "經濟", link: "/zh-hant/economies.html" },
               { text: "貨物", link: "/zh-hant/cargos.html" },
-              { text: "產業", link: "/zh-hant/industries.html" }
+              { text: "產業", link: "/zh-hant/industries.html" },
+              { text: "CIRS Growth", link: "/zh-hant/cirs-growth.html" }
             ]
           },
           {

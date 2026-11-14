@@ -229,6 +229,7 @@ def render_home(helper):
         page_link(helper, "economies", t("DOC_NAV_ECONOMIES")),
         page_link(helper, "cargos", t("DOC_NAV_CARGOS")),
         page_link(helper, "industries", t("DOC_NAV_INDUSTRIES")),
+        page_link(helper, "cirs-growth", "CIRS Growth"),
         page_link(helper, "code-reference", t("DOC_NAV_CODE_REFERENCE")),
         page_link(helper, "translations", t("DOC_NAV_TRANSLATIONS")),
     ]
@@ -783,6 +784,39 @@ def render_changelog(helper, changelog_source):
     return "\n".join(lines)
 
 
+def render_cirs_growth(helper):
+    """Render the CIRS Growth companion Game Script page.
+
+    Content is authored in src/docs/cirs_growth/{en,zh}.md. English is the
+    reference text; Simplified Chinese has a full translation. Other site
+    languages show the English text with a short pointer, like the changelog.
+    """
+    lang_code = helper.site_lang_code
+    source_name = "zh.md" if lang_code == "zh" else "en.md"
+    source_path = os.path.join(docs_src, "cirs_growth", source_name)
+    with open(source_path, "r", encoding="utf-8") as fp:
+        body = fp.read().strip()
+    # source files carry an H1; generated pages take the title from frontmatter
+    body_lines = body.split("\n")
+    if body_lines and body_lines[0].startswith("# "):
+        body_lines = body_lines[1:]
+        if body_lines and not body_lines[0].strip():
+            body_lines = body_lines[1:]
+    body = "\n".join(body_lines).strip()
+    lines = ["---", "title: %s" % yaml_str("CIRS Growth"), "---", ""]
+    # relative Markdown links resolve against the generated .md tree; unlike
+    # root-absolute links they are not affected by the /CIRS/ deployment base
+    if lang_code == "zh":
+        lines.append("> 本页提供简体中文与英文两个版本：[阅读英文版](../cirs-growth.html)。")
+        lines.append("")
+    elif lang_code != "en":
+        lines.append("> This page is maintained in English and Simplified Chinese: [English](../cirs-growth.html) · [简体中文](../zh/cirs-growth.html).")
+        lines.append("")
+    lines.append(body)
+    lines.append("")
+    return "\n".join(lines)
+
+
 def write_page(site_lang, page_name, content):
     """Write one generated Markdown page into the VitePress source tree."""
     if site_lang["dir"]:
@@ -883,6 +917,7 @@ def main():
         write_page(site_lang, "economies", render_economies(helper))
         write_page(site_lang, "cargos", render_cargos(helper))
         write_page(site_lang, "industries", render_industries(helper))
+        write_page(site_lang, "cirs-growth", render_cirs_growth(helper))
         write_page(site_lang, "code-reference", render_code_reference(helper))
         write_page(site_lang, "translations", render_translations(helper))
         write_page(site_lang, "changelog", render_changelog(helper, changelog_source))

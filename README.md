@@ -78,6 +78,10 @@ npm run dev               # local preview at http://localhost:5173/CIRS/
 
 English lives at `/`, Chinese at `/zh/`. Both locales share one template set and are translated through the TOML files below.
 
+## CIRS Growth
+
+[CIRS Growth](https://github.com/Maicarons/CIRS-Growth) is a companion OpenTTD Game Script (adapted from [Renewed Village Growth](https://github.com/F1rrel/RenewedVillageGrowth)) that makes town growth depend on varied cargo deliveries and sustained passenger/mail transport, with full support for all six CIRS economies. It is developed in a separate repository and documented on this site: **[CIRS Growth documentation](https://maicarons.github.io/CIRS/cirs-growth.html)** (English) - [中文文档](https://maicarons.github.io/CIRS/zh/cirs-growth.html).
+
 ## Translations
 
 CIRS ships with **39 languages** out of the box: English plus 38 community translations. All game text is fully localizable and the website is available in English and Chinese.

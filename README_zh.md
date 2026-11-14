@@ -78,6 +78,10 @@ npm run dev               # 本地预览 http://localhost:5173/CIRS/
 
 英文站点位于 `/`，简体中文位于 `/zh/`。两种语言共用一套模板，通过下文的 TOML 文件翻译。
 
+## CIRS Growth
+
+[CIRS Growth](https://github.com/Maicarons/CIRS-Growth) 是配套 OpenTTD 游戏脚本（改编自 [Renewed Village Growth](https://github.com/F1rrel/RenewedVillageGrowth)），让城镇增长取决于多样化的货物运输与持续稳定的乘客/邮件运输，并完整支持 CIRS 的六种经济模式。它在独立仓库中开发，文档收录于本站：**[CIRS Growth 文档](https://maicarons.github.io/CIRS/zh/cirs-growth.html)**（简体中文）- [English documentation](https://maicarons.github.io/CIRS/cirs-growth.html)。
+
 ## 翻译
 
 CIRS 开箱即支持 **39 种语言**：英语，外加 38 种社区翻译。游戏内文本均可完整本地化，网站提供英文与中文。
