@@ -7,7 +7,7 @@ plural = "1"
 base = "CIRS Topluluk Sanayi Değiştirme Seti"
 
 [STR_GRF_DESC]
-base = "{ORANGE}CIRS Topluluk Endüstri Değiştirme Seti{}{BLACK}FIRS'in topluluk tarafından sürdürülen bir çatallanmasıdır; orijinal olarak andythenorth, FooBar, planetmaker, Terkhen ve Yexo tarafından, diğer birçok kişinin de yardımıyla oluşturulmuştur. {SILVER}CIRS'in nasıl kullanılacağı da dahil olmak üzere daha fazla bilgi için web sitesine bakın. {BLACK}Lisans: GPL v2."
+base = "{ORANGE}CIRS Topluluk Sanayi Değiştirme Seti{}{BLACK}FIRS'in topluluk tarafından sürdürülen bir çatallanmasıdır; orijinal olarak andythenorth, FooBar, planetmaker, Terkhen ve Yexo tarafından, diğer birçok kişinin de yardımıyla oluşturulmuştur. {SILVER}CIRS'in nasıl kullanılacağı da dahil olmak üzere daha fazla bilgi için web sitesine bakın. {BLACK}Lisans: GPL v2."
 
 [STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
 base = "Balıkçılık alanlarının, petrol platformlarının ve tarama sahalarının kıyıdan maksimum mesafesi (kare cinsinden)."
@@ -49,7 +49,7 @@ base = "Basit Ilıman"
 base = "Arktik Temel"
 
 [STR_PARAM_VALUE_ECONOMIES_BASIC_TROPIC]
-base = "Tropic Basic"
+base = "Tropik Temel"
 
 [STR_PARAM_VALUE_ECONOMIES_IN_A_HOT_COUNTRY]
 base = "Sıcak Bir Ülkede"

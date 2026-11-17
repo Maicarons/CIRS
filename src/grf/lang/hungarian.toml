@@ -58,7 +58,7 @@ base = "Meleg ország"
 base = "Mild Mild West"
 
 [STR_PARAM_VALUE_ECONOMIES_STEELTOWN]
-base = "Fémipar"
+base = "Acélváros"
 
 [STR_PARAM_NAME_OBJECTS]
 base = "CIRS tájformázó objektumai"

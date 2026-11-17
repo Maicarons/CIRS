@@ -19,6 +19,10 @@ The upstream FIRS project no longer accepts suggestions or translation contribut
 
 > CIRS and FIRS share the same NewGRF ID. Do not enable both at the same time in one game.
 
+## A Note on Contributions
+
+Following the personal attacks directed at me in the official OpenTTD Discord chat, a word of clarification: this repository now accepts issues and pull requests only for new-feature suggestions, while translation contributions are accepted strictly as pull requests. A gentle reminder — the GitHub web interface is available to everyone; you are entirely capable of editing this project's files yourself, rather than graciously condescending to order others around. And let it be known: anyone here is free to use any AI they please. If you harbour a prejudice against AI, please do us all a favour and mute this project.
+
 ## Features
 
 - 100+ industries and 60+ cargos across multiple economies.

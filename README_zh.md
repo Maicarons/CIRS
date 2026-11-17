@@ -19,6 +19,10 @@ CIRS 是 OpenTTD 产业 NewGRF [FIRS（Industry Replacement Set）](https://gith
 
 > CIRS 与 FIRS 使用相同的 NewGRF ID，请不要在同一局游戏中同时启用两者。
 
+## 关于贡献的声明
+
+鉴于我在 OpenTTD 官方 Discord 频道中遭受的人身攻击，在此郑重声明：本仓库只接受新功能建议的 Issue 与 Pull Request，翻译内容则只接受 Pull Request。需要提醒的是，GitHub 网页端人人都会用，您完全有能力亲自修改本项目的文件，而不必屈尊纡贵、只会发号施令让别人替您干活。另外，在这里任何人都可随意使用任何 AI；若您对 AI 存有歧视，敬请自行屏蔽本项目，还彼此一个清净。
+
 ## 特性
 
 - 多种经济模式下共 100 多个产业、60 多种货物。

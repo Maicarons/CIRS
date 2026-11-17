@@ -4,10 +4,10 @@ plural = "0"
 
 [STR_GRF_NAME]
 # only translate the CIRS name if it's strictly necessary for the language
-base = "CIRS Community-Industri-Ersatzpakke"
+base = "CIRS Community-Industri-Erstatningspakke"
 
 [STR_GRF_DESC]
-base = "{ORANGE}CIRS Community Industry Replacement Set{}{BLACK}En fællesskabsvedligeholdt forgrening af FIRS, oprindeligt udviklet af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se websiden for mere information, herunder hvordan CIRS bruges. {BLACK}Licens: GPL v2."
+base = "{ORANGE}CIRS Community-Industri-Erstatningspakke{}{BLACK}En fællesskabsvedligeholdt forgrening af FIRS, oprindeligt udviklet af andythenorth, FooBar, planetmaker, Terkhen og Yexo, med hjælp fra mange andre. {SILVER}Se websiden for mere information, herunder hvordan CIRS bruges. {BLACK}Licens: GPL v2."
 
 [STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
 base = "Maksimal afstand mellem fiskeområder, boreplatforme og uddybningssteder og kysten i felter."

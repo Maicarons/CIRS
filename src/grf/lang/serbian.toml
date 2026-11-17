@@ -8,7 +8,7 @@ gender = "muški ženski srednji"
 base = "CIRS комплет за замену објеката индустрије у заједници"
 
 [STR_GRF_DESC]
-base = "{ORANGE}CIRS Заменски сет за заједничку индустрију{}{BLACK}Форк FIRS-а који одржава заједница, а који су првобитно направили andythenorth, FooBar, planetmaker, Terkhen и Yexo, уз помоћ многих других. {SILVER}Погледајте веб-сајт за више информација, укључујући како да користите CIRS. {BLACK}Лиценца: GPL v2."
+base = "{ORANGE}CIRS комплет за замену објеката индустрије у заједници{}{BLACK}Форк FIRS-а који одржава заједница, а који су првобитно направили andythenorth, FooBar, planetmaker, Terkhen и Yexo, уз помоћ многих других. {SILVER}Погледајте веб-сајт за више информација, укључујући како да користите CIRS. {BLACK}Лиценца: GPL v2."
 
 [STR_PARAM_DESC_COAST_DISTANCE_MARINE_INDUSTRY]
 base = "Najveća udaljenost ribarskih lovišta i iskopa od obale mereno u pločicama"
